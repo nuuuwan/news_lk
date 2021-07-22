@@ -6,7 +6,7 @@ from utils import cache, ds, filex, hashx, jsonx, timex, www
 
 from news_lk import _constants, _utils
 
-MAX_URLS_TO_DOWNLOAD = 10
+MAX_URLS_TO_DOWNLOAD = 5
 
 
 def clean(s):
@@ -24,10 +24,7 @@ def clean(s):
 
 @cache.cache(_constants.CACHE_NAME, _constants.CACHE_TIMEOUT)
 def cached_read(url):
-    try:
-        return www.read(url, use_selenium=True)
-    except:
-        return None
+    return www.read(url, use_selenium=True)
 
 
 def _filter_article_links(url):
@@ -60,23 +57,44 @@ def get_link_urls(url):
 def download(url):
     h = hashx.md5(url)[:8]
     html_file = '/tmp/news_lk.article.%s.html' % (h)
+    if os.path.exists(html_file):
+        _utils.log.info('Getting html from %s', html_file)
+        return html_file
 
-    is_download = False
-    if not os.path.exists(html_file):
-        html = cached_read(url)
+    remote_url = os.path.join(
+        'https://raw.githubusercontent.com',
+        'nuuuwan/news_lk/data/news_lk.article.%s.html' % h,
+    )
+    if www.exists(remote_url):
+        _utils.log.info('Getting html from %s', remote_url)
+        html = www.download(remote_url)
         filex.write(html_file, html)
-        _utils.log.info('Wrote %dKB to %s', len(html) / 1000.0, html_file)
-        is_download = True
+        return html_file
 
-    return url, html_file, is_download
+    _utils.log.info('Downloading html from %s', url)
+    html = cached_read(url)
+    filex.write(html_file, html)
+    _utils.log.info('Wrote %dKB to %s', len(html) / 1000.0, html_file)
+    return html_file
 
 
-def parse(url, html_file):
-    data_file = html_file.replace('.html', '.json')
+def download_and_parse(url):
+    h = hashx.md5(url)[:8]
+    data_file = '/tmp/news_lk.article.%s.json' % (h)
+
     if os.path.exists(data_file):
         _utils.log.warn('%s already exists', data_file)
-        return
+        return False
 
+    remote_url = os.path.join(
+        'https://raw.githubusercontent.com',
+        'nuuuwan/news_lk/data/news_lk.article.%s.json' % h,
+    )
+    if www.exists(remote_url):
+        _utils.log.warn('%s already exists', remote_url)
+        return False
+
+    html_file = download(url)
     html = filex.read(html_file)
     soup = BeautifulSoup(html, 'html.parser')
 
@@ -123,18 +141,16 @@ def parse(url, html_file):
         title,
         len(paragraphs),
     )
+    return True
 
 
 def _scrape():
-    MAX_URLS_TO_DOWNLOAD = 3
     link_urls = get_link_urls('https://www.dailymirror.lk/')
     n_downloads = 0
     for url in link_urls:
-        url, html_file, is_download = download(url)
+        is_download = download_and_parse(url)
         if is_download:
             n_downloads += 1
-        parse(url, html_file)
-
         if n_downloads >= MAX_URLS_TO_DOWNLOAD:
             break
 
