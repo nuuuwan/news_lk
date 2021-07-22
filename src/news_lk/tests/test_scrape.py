@@ -17,7 +17,7 @@ class TestCase(unittest.TestCase):
         link_urls = scrape.get_link_urls(TEST_URL)
         self.assertGreater(
             len(link_urls),
-            100,
+            10,
         )
         self.assertIn(
             'https',
