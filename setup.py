@@ -1,6 +1,7 @@
 '''Setup.'''
 
 import time
+
 import setuptools
 
 DIST_NAME = 'news_lk'

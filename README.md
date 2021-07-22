@@ -14,3 +14,4 @@ pip install news_lk-nuuuwan
 ```
 
 *The source code for this library can be found at https://github.com/nuuuwan/news_lk.*
+* [2021-07-22 02:27PM] Scrape generic webpage
