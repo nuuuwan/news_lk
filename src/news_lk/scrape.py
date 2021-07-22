@@ -15,7 +15,7 @@ def _filter_article_links(url):
     if 'https://www.dailymirror.lk' not in url:
         return False
     tokens = url.split('/')
-    return len(tokens) > 5
+    return len(tokens) > 6
 
 
 def get_link_urls(url):
