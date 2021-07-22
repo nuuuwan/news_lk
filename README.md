@@ -1,17 +1,5 @@
-
 # news_lk
 
-## Release History
-
-### 1.0.0 (PRE-RELEASE ONLY)
-
-...
-
-## Setup and Install
-
-```
-pip install news_lk-nuuuwan
-```
-
-*The source code for this library can be found at https://github.com/nuuuwan/news_lk.*
+## 2021-07-22
 * [2021-07-22 02:27PM] Scrape generic webpage
+* [2021-07-22 02:59PM] Parse html and extract semantics
