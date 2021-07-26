@@ -1,10 +1,10 @@
 
 name: Upload Data on Cron
 
-# on:
-#  schedule:
-#    - cron:  "5 */1 * * *"
-on: workflow_dispatch
+on:
+ schedule:
+   - cron:  5 */1 * * *
+# on: workflow_dispatch
 
 
 jobs:
