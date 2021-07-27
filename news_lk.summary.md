@@ -59,8 +59,10 @@
 * 0601 - [FEATURING: AKRAM CASSIM](https://www.dailymirror.lk/in_conversation_with_hirushi_jayasena/FEATURING-AKRAM-CASSIM/434-216770) (www.dailymirror.lk)
 * 0600 - [What is peer pressure and what effect does it have on those who experience it?](https://www.dailymirror.lk/food_for_thought_by_zara_esufally_and_humaira_azee/What-is-peer-pressure-and-what-effect-does-it-have-on-those-who-experience-it/429-216769) (www.dailymirror.lk)
 * 0214 - [JR Jayewardene and the July 1983  Anti-Tamil Violence](https://www.dailymirror.lk/dbs-jeyaraj-column/JR-Jayewardene-and-the-July-1983-Anti-Tamil-Violence/192-216779) (www.dailymirror.lk)
+* 0145 - [Cartoon of the day](https://www.dailymirror.lk/cartoon_of_the_day/Cartoon-of-the-day/167-216773) (www.dailymirror.lk)
 * 0145 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216773) (www.dailymirror.lk)
 ## 2021-07-23
+* 0916 - [Cartoon of the day](https://www.dailymirror.lk/cartoon_of_the_day/Cartoon-of-the-day/167-216716) (www.dailymirror.lk)
 * 0807 - [Viral load 1,000 times higher in people infected with Delta variant](https://www.dailymirror.lk/breaking_news/Viral-load-1-000-times-higher-in-people-infected-with-Delta-variant/108-216689) (www.dailymirror.lk)
 ## 2021-07-22
 * 1705 - [Death at Rishad’s house: AG appoints team comprising DSG to provide legal advice](https://www.dailymirror.lk/breaking_news/Death-at-Rishads-house-AG-appoints-team-comprising-DSG-to-provide-legal-advice/108-216677) (www.dailymirror.lk)
@@ -86,10 +88,13 @@
 * 1916 - [Moody’s places SL’s Caa1 rating for downgrade](https://www.dailymirror.lk/business_247/Moodys-places-SLs-Caa1-rating-for-downgrade/395-216449) (www.dailymirror.lk)
 ## 2021-07-17
 * 1502 - [ETF announces grant for members’ children](https://www.dailymirror.lk/business_247/ETF-announces-grant-for-members-children/395-216343) (www.dailymirror.lk)
+* 1502 - [ETF announces grant for members’ children](https://www.dailymirror.lk/business/ETF-announces-grant-for-members-children/215-216343) (www.dailymirror.lk)
 * 0728 - [Daily Mirror hosted an online discussion on Tourism | The Way Forward featuring an elite panel](https://www.dailymirror.lk/ipad-video/Daily-Mirror-hosted-an-online-discussion-on-Tourism-The-Way-Forward-featuring-an-elite-panel/168-216337) (www.dailymirror.lk)
 * 0600 - [THE PURSUIT OF SELF-AWARENESS AND SELF-LOVE](https://www.dailymirror.lk/curated_by_yanika_amarasekera/THE-PURSUIT-OF-SELF-AWARENESS-AND-SELF-LOVE/428-216309) (www.dailymirror.lk)
+* 0259 - [No day-7 PCR for fully vaccinated tourists](https://www.dailymirror.lk/business/No-day-7-PCR-for-fully-vaccinated-tourists/215-216336) (www.dailymirror.lk)
 * 0259 - [No day-7 PCR for fully vaccinated tourists](https://www.dailymirror.lk/business_247/No-day-7-PCR-for-fully-vaccinated-tourists/395-216336) (www.dailymirror.lk)
 ## 2021-07-15
+* 1444 - [SriLankan to roll out ‘buy-one-get-one-free’ offer](https://www.dailymirror.lk/business/SriLankan-to-roll-out-buy-one-get-one-free-offer/215-216184) (www.dailymirror.lk)
 * 1444 - [SriLankan to roll out ‘buy-one-get-one-free’ offer](https://www.dailymirror.lk/business_247/SriLankan-to-roll-out-buy-one-get-one-free-offer/395-216184) (www.dailymirror.lk)
 ## 2021-07-14
 * 0038 - [“Sri Lanka Cricket didn’t take parliament  seriously”  - Prof. Charitha Herath](https://www.dailymirror.lk/hard-talk/Sri-Lanka-Cricket-didnt-take-parliament-seriously-Prof-Charitha-Herath/334-216025) (www.dailymirror.lk)
