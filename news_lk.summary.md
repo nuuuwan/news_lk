@@ -1,5 +1,6 @@
 # Summary of Articles
 ## 2021-07-27
+* 1042 - [Over 400,000 people vaccinated yesterday](https://www.dailymirror.lk/breaking_news/Over-400-000-people-vaccinated-yesterday/108-216952) (www.dailymirror.lk)
 * 1011 - [Police unveil rental vehicle selling racket](https://www.dailymirror.lk/breaking_news/Police-unveil-rental-vehicle-selling-racket/108-216951) (www.dailymirror.lk)
 * 0749 - [Police to raid households employing underage children as domestic aides](https://www.dailymirror.lk/breaking_news/Police-to-raid-households-employing-underage-children-as-domestic-aides/108-216950) (www.dailymirror.lk)
 * 0704 - [There is nexus between JVP and agrochemical companies](https://www.dailymirror.lk/breaking_news/There-is-nexus-between-JVP-and-agrochemical-companies/108-216949) (www.dailymirror.lk)
@@ -21,6 +22,7 @@
 * 2015 - [Daily Mirror News Round-up | 26.07.2021](https://www.dailymirror.lk/dailymirror_online/Daily-Mirror-News-Round-up-26-07-2021/379-216893) (www.dailymirror.lk)
 * 1809 - [Gazette issued to display weight in kg’s on LPG cylinders](https://www.dailymirror.lk/breaking_news/Gazette-issued-to-display-weight-in-kgs-on-LPG-cylinders/108-216891) (www.dailymirror.lk)
 * 1725 - [100 MT of used yoghurt cups discarded annually: Amaraweera](https://www.dailymirror.lk/breaking_news/100-MT-of-used-yoghurt-cups-discarded-annually-Amaraweera/108-216888) (www.dailymirror.lk)
+* 1725 - [100 MT of used yoghurt cups discarded annually: Amaraweera](https://www.dailymirror.lk/latest_news/100-MT-of-used-yoghurt-cups-discarded-annually-Amaraweera/342-216888) (www.dailymirror.lk)
 * 1644 - [Hoping to reopen schools in the first week of September: Minister](https://www.dailymirror.lk/breaking_news/Hoping-to-reopen-schools-in-the-first-week-of-September-Minister/108-216887) (www.dailymirror.lk)
 * 1626 - [Navy seizes Kerala cannabis worth over Rs. 65Mn in northern seas](https://www.dailymirror.lk/breaking_news/Navy-seizes-Kerala-cannabis-worth-over-Rs-65Mn-in-northern-seas/108-216890) (www.dailymirror.lk)
 * 1612 - [Delta variant cases are in every part of the country: Health Ministry](https://www.dailymirror.lk/breaking_news/Delta-variant-cases-are-in-every-part-of-the-country-Health-Ministry/108-216889) (www.dailymirror.lk)
@@ -81,6 +83,7 @@
 * 1916 - [Moody’s places SL’s Caa1 rating for downgrade](https://www.dailymirror.lk/business_247/Moodys-places-SLs-Caa1-rating-for-downgrade/395-216449) (www.dailymirror.lk)
 ## 2021-07-17
 * 1502 - [ETF announces grant for members’ children](https://www.dailymirror.lk/business_247/ETF-announces-grant-for-members-children/395-216343) (www.dailymirror.lk)
+* 0728 - [Daily Mirror hosted an online discussion on Tourism | The Way Forward featuring an elite panel](https://www.dailymirror.lk/ipad-video/Daily-Mirror-hosted-an-online-discussion-on-Tourism-The-Way-Forward-featuring-an-elite-panel/168-216337) (www.dailymirror.lk)
 * 0600 - [THE PURSUIT OF SELF-AWARENESS AND SELF-LOVE](https://www.dailymirror.lk/curated_by_yanika_amarasekera/THE-PURSUIT-OF-SELF-AWARENESS-AND-SELF-LOVE/428-216309) (www.dailymirror.lk)
 * 0259 - [No day-7 PCR for fully vaccinated tourists](https://www.dailymirror.lk/business_247/No-day-7-PCR-for-fully-vaccinated-tourists/395-216336) (www.dailymirror.lk)
 ## 2021-07-15
@@ -107,5 +110,9 @@
 * 1630 - [The ongoing island-wide travel restrictions will be lifted at 4 a.m on Monday, and be reimposed from 10 pm on June 23 till 4 am on June 25 - Army Commander General Shavendra Silva](https://www.dailymirror.lk/breaking_news_videos/The-ongoing-island-wide-travel-restrictions-will-be-lifted-at-4-a-m-on-Monday-and-be-reimposed-from-10-pm-on-June-23-till-4-am-on-June-25-Army-Commander-General-Shavendra-Silva/449-214391) (www.dailymirror.lk)
 ## 2021-06-04
 * 0913 - [Sanath Jayasuriya signs as coach at Melbourne cricket club Mulgrave](https://www.dailymirror.lk/cricket-news/Sanath-Jayasuriya-signs-as-coach-at-Melbourne-cricket-club-Mulgrave/320-213415) (www.dailymirror.lk)
+## 2021-05-27
+* 1951 - [Cleanup operations underway in Negombo](https://www.dailymirror.lk/ipad-video/Cleanup-operations-underway-in-Negombo/168-212871) (www.dailymirror.lk)
 ## 2021-05-22
 * 1859 - [Pay dispute hits Sri Lanka team morale for Bangladesh games: captain](https://www.dailymirror.lk/cricket/Pay-dispute-hits-Sri-Lanka-team-morale-for-Bangladesh-games-captain/315-212540) (www.dailymirror.lk)
+## 2021-05-20
+* 0529 - [Japanese Officials Ignore a Dying Woman’s Cries for Help](https://www.dailymirror.lk/eye/Japanese-Officials-Ignore-a-Dying-Womans-Cries-for-Help/372-212323) (www.dailymirror.lk)
