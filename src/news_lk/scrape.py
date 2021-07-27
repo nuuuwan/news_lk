@@ -106,8 +106,8 @@ def update_summary_file(new_data_list):
 
 
 def download_and_parse(url):
-    h = hashx.md5(url)[:8]
-    data_file = '/tmp/news_lk.article.%s.json' % (h)
+    url_hash = hashx.md5(url)[:8]
+    data_file = '/tmp/news_lk.article.%s.json' % (url_hash)
 
     if os.path.exists(data_file):
         _utils.log.warn('%s already exists', data_file)
@@ -115,7 +115,7 @@ def download_and_parse(url):
 
     remote_url = os.path.join(
         'https://raw.githubusercontent.com',
-        'nuuuwan/news_lk/data/news_lk.article.%s.json' % h,
+        'nuuuwan/news_lk/data/news_lk.article.%s.json' % url_hash,
     )
     if www.exists(remote_url):
         _utils.log.warn('%s already exists', remote_url)
@@ -151,6 +151,7 @@ def download_and_parse(url):
             paragraphs.append(paragraph)
 
     data = dict(
+        url_hash=url_hash,
         source='www.dailymirror.lk',
         url=url,
         ut=ut,
@@ -179,6 +180,7 @@ def _scrape():
         if data:
             new_data_list.append(
                 {
+                    'url_hash': data['url_hash'],
                     'ut': data['ut'],
                     'time_id': data['time_id'],
                     'title': data['title'],
