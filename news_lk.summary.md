@@ -6,6 +6,7 @@
 * 1011 - [Police unravel rental vehicle selling racket](https://www.dailymirror.lk/breaking_news/Police-unravel-rental-vehicle-selling-racket/108-216951) (www.dailymirror.lk)
 * 0749 - [Police to raid households employing underage children as domestic aides](https://www.dailymirror.lk/breaking_news/Police-to-raid-households-employing-underage-children-as-domestic-aides/108-216950) (www.dailymirror.lk)
 * 0704 - [There is nexus between JVP and agrochemical companies](https://www.dailymirror.lk/breaking_news/There-is-nexus-between-JVP-and-agrochemical-companies/108-216949) (www.dailymirror.lk)
+* 0651 - [600,000 half vaccinated people in WP now vulnerable to Delta variant](https://www.dailymirror.lk/latest_news/600-000-half-vaccinated-people-in-WP-now-vulnerable-to-Delta-variant/342-216946) (www.dailymirror.lk)
 * 0456 - [SL to commence manufacture of saline and affiliated liquids in September](https://www.dailymirror.lk/breaking_news/SL-to-commence-manufacture-of-saline-and-affiliated-liquids-in-September/108-216947) (www.dailymirror.lk)
 * 0427 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216945) (www.dailymirror.lk)
 * 0415 - [Cabraal assures new inflows; says reserves set to top US $ 7bn](https://www.dailymirror.lk/business__main/Cabraal-assures-new-inflows-says-reserves-set-to-top-US-7bn/245-216941) (www.dailymirror.lk)
@@ -20,6 +21,7 @@
 * 2348 - [Japan top medals table and Britain’s Daley strikes Olympic gold](https://www.dailymirror.lk/headline/Japan-top-medals-table-and-Britains-Daley-strikes-Olympic-gold/419-216916) (www.dailymirror.lk)
 * 2202 - [Liberty Plaza closed after COVID-19 cases](https://www.dailymirror.lk/breaking_news/Liberty-Plaza-closed-after-COVID-19-cases/108-216895) (www.dailymirror.lk)
 * 2202 - [Liberty Plaza re-opened after being shut over weekend](https://www.dailymirror.lk/breaking_news/Liberty-Plaza-re-opened-after-being-shut-over-weekend/108-216895) (www.dailymirror.lk)
+* 2026 - [48 more die of COVID-19: Death toll surges to 4,147](https://www.dailymirror.lk/latest_news/48-more-die-of-COVID-19-Death-toll-surges-to-4-147/342-216894) (www.dailymirror.lk)
 * 2026 - [48 more die of COVID-19: Death toll surges to 4,147](https://www.dailymirror.lk/breaking_news/48-more-die-of-COVID-19-Death-toll-surges-to-4-147/108-216894) (www.dailymirror.lk)
 * 2015 - [Daily Mirror News Round-up | 26.07.2021](https://www.dailymirror.lk/daily_mirror_news_round_up/Daily-Mirror-News-Round-up-26-07-2021/382-216893) (www.dailymirror.lk)
 * 2015 - [WATCH: Karunaratne loses to Nguyen, Dharmawardena swept in 29 seconds](https://www.dailymirror.lk/headline/WATCH-Karunaratne-loses-to-Nguyen-Dharmawardena-swept-in-29-seconds/419-216892) (www.dailymirror.lk)
@@ -101,6 +103,7 @@
 ## 2021-07-15
 * 1444 - [SriLankan to roll out ‘buy-one-get-one-free’ offer](https://www.dailymirror.lk/business/SriLankan-to-roll-out-buy-one-get-one-free-offer/215-216184) (www.dailymirror.lk)
 * 1444 - [SriLankan to roll out ‘buy-one-get-one-free’ offer](https://www.dailymirror.lk/business_247/SriLankan-to-roll-out-buy-one-get-one-free-offer/395-216184) (www.dailymirror.lk)
+* 0238 - [What you need to know about  global Covid-19 developments right now](https://www.dailymirror.lk/insight/What-you-need-to-know-about-global-Covid-19-developments-right-now/374-216115) (www.dailymirror.lk)
 ## 2021-07-14
 * 0038 - [“Sri Lanka Cricket didn’t take parliament  seriously”  - Prof. Charitha Herath](https://www.dailymirror.lk/hard-talk/Sri-Lanka-Cricket-didnt-take-parliament-seriously-Prof-Charitha-Herath/334-216025) (www.dailymirror.lk)
 ## 2021-07-13
@@ -108,7 +111,9 @@
 ## 2021-07-12
 * 0754 - [Doctor remanded for taking pictures of lady doctor while undressing](https://www.dailymirror.lk/breaking_news/Doctor-remanded-for-taking-pictures-of-lady-doctor-while-undressing/108-215872) (www.dailymirror.lk)
 ## 2021-07-07
+* 2031 - [38 more die of COVID-19](https://www.dailymirror.lk/latest_news/38-more-die-of-COVID-19/342-215589) (www.dailymirror.lk)
 * 2031 - [38 more die of COVID-19](https://www.dailymirror.lk/breaking_news/38-more-die-of-COVID-19/108-215589) (www.dailymirror.lk)
+* 0533 - [Striking through the pandemic](https://www.dailymirror.lk/insight/Striking-through-the-pandemic/374-215516) (www.dailymirror.lk)
 ## 2021-07-06
 * 0454 - [How powerful Acting Principals rule the roost](https://www.dailymirror.lk/expose/How-powerful-Acting-Principals-rule-the-roost/333-215464) (www.dailymirror.lk)
 ## 2021-07-05
