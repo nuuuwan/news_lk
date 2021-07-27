@@ -85,7 +85,7 @@ def update_summary_file(new_data_list):
     )
     summary_file = '/tmp/news_lk.latest.summary.tsv'
     if www.exists(remote_url):
-        existing_data_list = www.read_tsv(summary_file)
+        existing_data_list = www.read_tsv(remote_url)
         _utils.log.info(
             'Downloaded %d articles from %s',
             len(existing_data_list),
