@@ -1,5 +1,7 @@
 # Summary of Articles
 ## 2021-07-27
+* 1602 - ['Ranjan & Api'](https://www.dailymirror.lk/caption_story/Ranjan-Api/110-216958) (www.dailymirror.lk)
+* 1542 - [SL to discuss with 21 countries to lift travel ban on tourists](https://www.dailymirror.lk/breaking_news/SL-to-discuss-with-21-countries-to-lift-travel-ban-on-tourists/108-216959) (www.dailymirror.lk)
 * 1213 - [Donation of 1.6 mn Sinopharm vaccines arrive](https://www.dailymirror.lk/breaking_news/Donation-of-1-6-mn-Sinopharm-vaccines-arrive/108-216953) (www.dailymirror.lk)
 * 1042 - [Over 400,000 people vaccinated yesterday](https://www.dailymirror.lk/breaking_news/Over-400-000-people-vaccinated-yesterday/108-216952) (www.dailymirror.lk)
 * 1011 - [Police unveil rental vehicle selling racket](https://www.dailymirror.lk/breaking_news/Police-unveil-rental-vehicle-selling-racket/108-216951) (www.dailymirror.lk)
@@ -8,6 +10,7 @@
 * 0704 - [There is nexus between JVP and agrochemical companies](https://www.dailymirror.lk/breaking_news/There-is-nexus-between-JVP-and-agrochemical-companies/108-216949) (www.dailymirror.lk)
 * 0651 - [600,000 half vaccinated people in WP now vulnerable to Delta variant](https://www.dailymirror.lk/latest_news/600-000-half-vaccinated-people-in-WP-now-vulnerable-to-Delta-variant/342-216946) (www.dailymirror.lk)
 * 0456 - [SL to commence manufacture of saline and affiliated liquids in September](https://www.dailymirror.lk/breaking_news/SL-to-commence-manufacture-of-saline-and-affiliated-liquids-in-September/108-216947) (www.dailymirror.lk)
+* 0427 - [Cartoon of the day](https://www.dailymirror.lk/cartoon_of_the_day/Cartoon-of-the-day/167-216945) (www.dailymirror.lk)
 * 0427 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216945) (www.dailymirror.lk)
 * 0415 - [Cabraal assures new inflows; says reserves set to top US $ 7bn](https://www.dailymirror.lk/business__main/Cabraal-assures-new-inflows-says-reserves-set-to-top-US-7bn/245-216941) (www.dailymirror.lk)
 * 0414 - [Kuoni unveils 2022 Indian Ocean programme](https://www.dailymirror.lk/business-news/Kuoni-unveils-2022-Indian-Ocean-programme/273-216940) (www.dailymirror.lk)
@@ -100,6 +103,7 @@
 * 0600 - [THE PURSUIT OF SELF-AWARENESS AND SELF-LOVE](https://www.dailymirror.lk/curated_by_yanika_amarasekera/THE-PURSUIT-OF-SELF-AWARENESS-AND-SELF-LOVE/428-216309) (www.dailymirror.lk)
 * 0259 - [No day-7 PCR for fully vaccinated tourists](https://www.dailymirror.lk/business/No-day-7-PCR-for-fully-vaccinated-tourists/215-216336) (www.dailymirror.lk)
 * 0259 - [No day-7 PCR for fully vaccinated tourists](https://www.dailymirror.lk/business_247/No-day-7-PCR-for-fully-vaccinated-tourists/395-216336) (www.dailymirror.lk)
+* 0201 - [“Medamulana Dynasty”:  Four Sons and Three Grandsons of Don Alvin Rajapaksa](https://www.dailymirror.lk/dbs-jeyaraj-column/Medamulana-Dynasty-Four-Sons-and-Three-Grandsons-of-Don-Alvin-Rajapaksa/192-216335) (www.dailymirror.lk)
 ## 2021-07-15
 * 1444 - [SriLankan to roll out ‘buy-one-get-one-free’ offer](https://www.dailymirror.lk/business/SriLankan-to-roll-out-buy-one-get-one-free-offer/215-216184) (www.dailymirror.lk)
 * 1444 - [SriLankan to roll out ‘buy-one-get-one-free’ offer](https://www.dailymirror.lk/business_247/SriLankan-to-roll-out-buy-one-get-one-free-offer/395-216184) (www.dailymirror.lk)
@@ -130,6 +134,7 @@
 * 1630 - [The ongoing island-wide travel restrictions will be lifted at 4 a.m on Monday, and be reimposed from 10 pm on June 23 till 4 am on June 25 - Army Commander General Shavendra Silva](https://www.dailymirror.lk/breaking_news_videos/The-ongoing-island-wide-travel-restrictions-will-be-lifted-at-4-a-m-on-Monday-and-be-reimposed-from-10-pm-on-June-23-till-4-am-on-June-25-Army-Commander-General-Shavendra-Silva/449-214391) (www.dailymirror.lk)
 ## 2021-06-04
 * 0913 - [Sanath Jayasuriya signs as coach at Melbourne cricket club Mulgrave](https://www.dailymirror.lk/cricket-news/Sanath-Jayasuriya-signs-as-coach-at-Melbourne-cricket-club-Mulgrave/320-213415) (www.dailymirror.lk)
+* 0913 - [Sanath Jayasuriya signs as coach at Melbourne cricket club Mulgrave](https://www.dailymirror.lk/cricket/Sanath-Jayasuriya-signs-as-coach-at-Melbourne-cricket-club-Mulgrave/315-213415) (www.dailymirror.lk)
 ## 2021-05-27
 * 1951 - [Cleanup operations underway in Negombo](https://www.dailymirror.lk/ipad-video/Cleanup-operations-underway-in-Negombo/168-212871) (www.dailymirror.lk)
 ## 2021-05-22
