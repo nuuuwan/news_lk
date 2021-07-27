@@ -32,8 +32,8 @@ def _filter_article_links(url):
         return False
     if 'https://www.dailymirror.lk/audio' in url:
         return False
-        if 'https://www.dailymirror.lk/awantha' in url:
-            return False
+    if 'https://www.dailymirror.lk/awantha' in url:
+        return False
     results = re.search(r'.*/\d{3}-\d{6}', url)
     if results:
         return True
