@@ -177,7 +177,15 @@ def _scrape():
     for url in link_urls:
         data = download_and_parse(url)
         if data:
-            new_data_list.append(data)
+            new_data_list.append(
+                {
+                    'ut': data['ut'],
+                    'time_id': data['time_id'],
+                    'title': data['title'],
+                    'url': data['url'],
+                    'n_chars': len('\n'.join(data['paragraphs'])),
+                }
+            )
         if len(new_data_list) >= MAX_URLS_TO_DOWNLOAD:
             break
     if new_data_list:
