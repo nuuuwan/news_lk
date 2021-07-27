@@ -2,7 +2,7 @@ import os
 import re
 
 from bs4 import BeautifulSoup
-from utils import cache, ds, filex, hashx, jsonx, timex, www
+from utils import cache, ds, filex, hashx, jsonx, timex, tsv, www
 
 from news_lk import _constants, _utils
 
@@ -56,7 +56,7 @@ def get_link_urls(url):
 
 def download(url):
     h = hashx.md5(url)[:8]
-    html_file = '/tmp/news_lk.article.%s.html' % (h)
+    html_file = '/tmp/tmp.news_lk.article.%s.html' % (h)
     if os.path.exists(html_file):
         _utils.log.info('Getting html from %s', html_file)
         return html_file
@@ -78,13 +78,40 @@ def download(url):
     return html_file
 
 
+def update_summary_file(new_data_list):
+    remote_url = os.path.join(
+        'https://raw.githubusercontent.com',
+        'nuuuwan/news_lk/data/news_lk.latest.summary.tsv',
+    )
+    summary_file = '/tmp/news_lk.latest.summary.tsv'
+    if www.exists(remote_url):
+        existing_data_list = www.read_tsv(summary_file)
+        _utils.log.info(
+            'Downloaded %d articles from %s',
+            len(existing_data_list),
+            remote_url,
+        )
+    else:
+        _utils.log.warn('No summary file at %s', remote_url)
+        existing_data_list = []
+
+    combined_data_list = existing_data_list + new_data_list
+
+    _utils.log.info(
+        'Wrote %d entries to %s',
+        len(combined_data_list),
+        summary_file,
+    )
+    tsv.write(summary_file, combined_data_list)
+
+
 def download_and_parse(url):
     h = hashx.md5(url)[:8]
     data_file = '/tmp/news_lk.article.%s.json' % (h)
 
     if os.path.exists(data_file):
         _utils.log.warn('%s already exists', data_file)
-        return False
+        return None
 
     remote_url = os.path.join(
         'https://raw.githubusercontent.com',
@@ -92,7 +119,7 @@ def download_and_parse(url):
     )
     if www.exists(remote_url):
         _utils.log.warn('%s already exists', remote_url)
-        return False
+        return None
 
     html_file = download(url)
     html = filex.read(html_file)
@@ -141,18 +168,20 @@ def download_and_parse(url):
         title,
         len(paragraphs),
     )
-    return True
+    return data
 
 
 def _scrape():
     link_urls = get_link_urls('https://www.dailymirror.lk/')
-    n_downloads = 0
+    new_data_list = []
     for url in link_urls:
-        is_download = download_and_parse(url)
-        if is_download:
-            n_downloads += 1
-        if n_downloads >= MAX_URLS_TO_DOWNLOAD:
+        data = download_and_parse(url)
+        if data:
+            new_data_list.append(data)
+        if len(new_data_list) >= MAX_URLS_TO_DOWNLOAD:
             break
+    if new_data_list:
+        update_summary_file(new_data_list)
 
 
 if __name__ == '__main__':
