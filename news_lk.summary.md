@@ -1,5 +1,6 @@
 # Summary of Articles
 ## 2021-07-27
+* 1213 - [Donation of 1.6 mn Sinopharm vaccines arrive](https://www.dailymirror.lk/breaking_news/Donation-of-1-6-mn-Sinopharm-vaccines-arrive/108-216953) (www.dailymirror.lk)
 * 1042 - [Over 400,000 people vaccinated yesterday](https://www.dailymirror.lk/breaking_news/Over-400-000-people-vaccinated-yesterday/108-216952) (www.dailymirror.lk)
 * 1011 - [Police unveil rental vehicle selling racket](https://www.dailymirror.lk/breaking_news/Police-unveil-rental-vehicle-selling-racket/108-216951) (www.dailymirror.lk)
 * 0749 - [Police to raid households employing underage children as domestic aides](https://www.dailymirror.lk/breaking_news/Police-to-raid-households-employing-underage-children-as-domestic-aides/108-216950) (www.dailymirror.lk)
@@ -28,9 +29,11 @@
 * 1612 - [Delta variant cases are in every part of the country: Health Ministry](https://www.dailymirror.lk/breaking_news/Delta-variant-cases-are-in-every-part-of-the-country-Health-Ministry/108-216889) (www.dailymirror.lk)
 * 1534 - [Maximum effort will be made to solve teachers’ principals’ salary issues: GL](https://www.dailymirror.lk/breaking_news/Maximum-effort-will-be-made-to-solve-teachers-principals-salary-issues-GL/108-216886) (www.dailymirror.lk)
 * 1446 - [CA orders to demarcate physical boundaries of  Muthurajawela Sanctuary](https://www.dailymirror.lk/breaking_news/CA-orders-to-demarcate-physical-boundaries-of-Muthurajawela-Sanctuary/108-216885) (www.dailymirror.lk)
+* 1418 - [Over 5 children testing positive per day with Covid-19: LRH Director](https://www.dailymirror.lk/breaking_news/Over-5-children-testing-positive-per-day-with-Covid-19-LRH-Director/108-216884) (www.dailymirror.lk)
 * 1350 - [Actress Upeksha Swarnamali released on police bail](https://www.dailymirror.lk/breaking_news/Actress-Upeksha-Swarnamali-released-on-police-bail/108-216883) (www.dailymirror.lk)
 * 1329 - [Tunisia’s PM sacked after violent Covid protests](https://www.dailymirror.lk/breaking_news/Tunisias-PM-sacked-after-violent-Covid-protests/108-216881) (www.dailymirror.lk)
 * 1300 - [Another petition filed in SC challenging Finance Bill](https://www.dailymirror.lk/breaking_news/Another-petition-filed-in-SC-challenging-Finance-Bill/108-216880) (www.dailymirror.lk)
+* 1201 - [O/L exam postponed to February, 2022: Minister](https://www.dailymirror.lk/breaking_news/OL-exam-postponed-to-February-2022-Minister/108-216878) (www.dailymirror.lk)
 * 0946 - [Actress Upeksha Swarnamali arrested](https://www.dailymirror.lk/breaking_news/Actress-Upeksha-Swarnamali-arrested/108-216871) (www.dailymirror.lk)
 * 0925 - [Message by His Excellency President Ibrahim Mohamed Solih, President of the Republic of Maldives](https://www.dailymirror.lk/business/Message-by-His-Excellency-President-Ibrahim-Mohamed-Solih-President-of-the-Republic-of-Maldives/215-216870) (www.dailymirror.lk)
 * 0918 - [Maximum retail price for 18-litre gas cylinder  gazetted](https://www.dailymirror.lk/breaking_news/Maximum-retail-price-for-18-litre-gas-cylinder-gazetted/108-216868) (www.dailymirror.lk)
@@ -105,7 +108,9 @@
 ## 2021-06-24
 * 1446 - [Duminda Silva leaves Welikada Prison, a free man.](https://www.dailymirror.lk/breaking_news_videos/Duminda-Silva-leaves-Welikada-Prison-a-free-man/449-214756) (www.dailymirror.lk)
 * 1110 - [England take early T20I series lead over Sri Lanka](https://www.dailymirror.lk/cricket-news/England-take-early-T20I-series-lead-over-Sri-Lanka/320-214750) (www.dailymirror.lk)
+* 1110 - [England take early T20I series lead over Sri Lanka](https://www.dailymirror.lk/cricket/England-take-early-T20I-series-lead-over-Sri-Lanka/315-214750) (www.dailymirror.lk)
 * 1100 - [New Zealand clinch World Test title](https://www.dailymirror.lk/cricket-news/New-Zealand-clinch-World-Test-title/320-214749) (www.dailymirror.lk)
+* 1100 - [New Zealand clinch World Test title](https://www.dailymirror.lk/cricket/New-Zealand-clinch-World-Test-title/315-214749) (www.dailymirror.lk)
 ## 2021-06-18
 * 1630 - [The ongoing island-wide travel restrictions will be lifted at 4 a.m on Monday, and be reimposed from 10 pm on June 23 till 4 am on June 25 - Army Commander General Shavendra Silva](https://www.dailymirror.lk/breaking_news_videos/The-ongoing-island-wide-travel-restrictions-will-be-lifted-at-4-a-m-on-Monday-and-be-reimposed-from-10-pm-on-June-23-till-4-am-on-June-25-Army-Commander-General-Shavendra-Silva/449-214391) (www.dailymirror.lk)
 ## 2021-06-04
