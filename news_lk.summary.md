@@ -11,6 +11,7 @@
 * 0301 - [More tea plucked during pandemic: Chairman TSDA](https://www.dailymirror.lk/breaking_news/More-tea-plucked-during-pandemic-Chairman-TSDA/108-216948) (www.dailymirror.lk)
 * 0215 - [Sri Lanka surpasses global vaccination average](https://www.dailymirror.lk/breaking_news/Sri-Lanka-surpasses-global-vaccination-average/108-216922) (www.dailymirror.lk)
 * 0105 - [Hotel workers in protest...](https://www.dailymirror.lk/caption_story/Hotel-workers-in-protest/110-216921) (www.dailymirror.lk)
+* 0001 - [“WE NEVER LEARN LESSONS FROM THE PAST” -MP IMTHIAZ BAKEER MARKAR](https://www.dailymirror.lk/hard-talk/WE-NEVER-LEARN-LESSONS-FROM-THE-PAST-MP-IMTHIAZ-BAKEER-MARKAR/334-216920) (www.dailymirror.lk)
 ## 2021-07-26
 * 2202 - [Liberty Plaza closed after COVID-19 cases](https://www.dailymirror.lk/breaking_news/Liberty-Plaza-closed-after-COVID-19-cases/108-216895) (www.dailymirror.lk)
 * 2202 - [Liberty Plaza re-opened after being shut over weekend](https://www.dailymirror.lk/breaking_news/Liberty-Plaza-re-opened-after-being-shut-over-weekend/108-216895) (www.dailymirror.lk)
@@ -48,6 +49,7 @@
 * 1613 - [Majority of infected & COVID deaths are of unvaccinated people](https://www.dailymirror.lk/breaking_news/Majority-of-infected-COVID-deaths-are-of-unvaccinated-people/108-216811) (www.dailymirror.lk)
 * 1545 - [Red alert issued to 16 districts on gusty winds: Met Dept.](https://www.dailymirror.lk/breaking_news/Red-alert-issued-to-16-districts-on-gusty-winds-Met-Dept/108-216810) (www.dailymirror.lk)
 ## 2021-07-24
+* 0601 - [FEATURING: AKRAM CASSIM](https://www.dailymirror.lk/in_conversation_with_hirushi_jayasena/FEATURING-AKRAM-CASSIM/434-216770) (www.dailymirror.lk)
 * 0600 - [What is peer pressure and what effect does it have on those who experience it?](https://www.dailymirror.lk/food_for_thought_by_zara_esufally_and_humaira_azee/What-is-peer-pressure-and-what-effect-does-it-have-on-those-who-experience-it/429-216769) (www.dailymirror.lk)
 * 0145 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216773) (www.dailymirror.lk)
 ## 2021-07-23
@@ -58,6 +60,8 @@
 * 1623 - [Defrauding a Sri Lankan living in Australia of Australian $ 180,500: Convicted lawyer released on bail](https://www.dailymirror.lk/breaking_news/Defrauding-a-Sri-Lankan-living-in-Australia-of-Australian-180-500-Convicted-lawyer-released-on-bail/108-216675) (www.dailymirror.lk)
 * 0841 - [Another 2 Mn Sinopharm vaccines arrive](https://www.dailymirror.lk/breaking_news/Another-2-Mn-Sinopharm-vaccines-arrive/108-216659) (www.dailymirror.lk)
 * 0748 - [600,000 await Astrazeneca second jab, but where are the doses?](https://www.dailymirror.lk/breaking_news/600-000-await-Astrazeneca-second-jab-but-where-are-the-doses/108-216642) (www.dailymirror.lk)
+* 0237 - [Checks and Balances of Quarantine Law](https://www.dailymirror.lk/insight/Checks-and-Balances-of-Quarantine-Law/374-216618) (www.dailymirror.lk)
+* 0228 - [Trust of all communities and ethnicities is important](https://www.dailymirror.lk/hard-talk/Trust-of-all-communities-and-ethnicities-is-important/334-216617) (www.dailymirror.lk)
 ## 2021-07-21
 * 2035 - [Basil rejects social media claims on imposition of tax on EPF](https://www.dailymirror.lk/breaking_news/Basil-rejects-social-media-claims-on-imposition-of-tax-on-EPF/108-216606) (www.dailymirror.lk)
 * 1925 - [All citizens above 30 years of age would be vaccinated within next two months : Namal](https://www.dailymirror.lk/breaking_news/All-citizens-above-30-years-of-age-would-be-vaccinated-within-next-two-months-Namal/108-216604) (www.dailymirror.lk)
@@ -88,6 +92,8 @@
 * 0454 - [How powerful Acting Principals rule the roost](https://www.dailymirror.lk/expose/How-powerful-Acting-Principals-rule-the-roost/333-215464) (www.dailymirror.lk)
 ## 2021-07-05
 * 1648 - [Pfizer doses to be administered on pregnant mothers](https://www.dailymirror.lk/breaking_news_videos/Pfizer-doses-to-be-administered-on-pregnant-mothers/449-215417) (www.dailymirror.lk)
+## 2021-06-30
+* 0220 - [Are Chinese COVID-19 jabs effective against the Delta variant?](https://www.dailymirror.lk/insight/Are-Chinese-COVID-19-jabs-effective-against-the-Delta-variant/374-215062) (www.dailymirror.lk)
 ## 2021-06-24
 * 1446 - [Duminda Silva leaves Welikada Prison, a free man.](https://www.dailymirror.lk/breaking_news_videos/Duminda-Silva-leaves-Welikada-Prison-a-free-man/449-214756) (www.dailymirror.lk)
 * 1110 - [England take early T20I series lead over Sri Lanka](https://www.dailymirror.lk/cricket-news/England-take-early-T20I-series-lead-over-Sri-Lanka/320-214750) (www.dailymirror.lk)
