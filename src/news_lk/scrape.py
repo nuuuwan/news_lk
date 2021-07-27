@@ -65,7 +65,7 @@ def download(url):
         'https://raw.githubusercontent.com',
         'nuuuwan/news_lk/data/news_lk.article.%s.html' % h,
     )
-    if www.exists(remote_url):
+    if www.exists(remote_url, timeout=5):
         _utils.log.info('Getting html from %s', remote_url)
         html = www.download(remote_url)
         filex.write(html_file, html)
@@ -84,7 +84,7 @@ def update_summary_file(new_data_list):
         'nuuuwan/news_lk/data/news_lk.latest.summary.tsv',
     )
     summary_file = '/tmp/news_lk.latest.summary.tsv'
-    if www.exists(remote_url):
+    if www.exists(remote_url, timeout=5):
         existing_data_list = www.read_tsv(remote_url)
         _utils.log.info(
             'Downloaded %d articles from %s',
