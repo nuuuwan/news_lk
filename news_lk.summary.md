@@ -1,5 +1,6 @@
 # Summary of Articles
 ## 2021-07-27
+* 1011 - [Police unveil rental vehicle selling racket](https://www.dailymirror.lk/breaking_news/Police-unveil-rental-vehicle-selling-racket/108-216951) (www.dailymirror.lk)
 * 0749 - [Police to raid households employing underage children as domestic aides](https://www.dailymirror.lk/breaking_news/Police-to-raid-households-employing-underage-children-as-domestic-aides/108-216950) (www.dailymirror.lk)
 * 0704 - [There is nexus between JVP and agrochemical companies](https://www.dailymirror.lk/breaking_news/There-is-nexus-between-JVP-and-agrochemical-companies/108-216949) (www.dailymirror.lk)
 * 0456 - [SL to commence manufacture of saline and affiliated liquids in September](https://www.dailymirror.lk/breaking_news/SL-to-commence-manufacture-of-saline-and-affiliated-liquids-in-September/108-216947) (www.dailymirror.lk)
@@ -17,6 +18,7 @@
 * 2202 - [Liberty Plaza re-opened after being shut over weekend](https://www.dailymirror.lk/breaking_news/Liberty-Plaza-re-opened-after-being-shut-over-weekend/108-216895) (www.dailymirror.lk)
 * 2026 - [48 more die of COVID-19: Death toll surges to 4,147](https://www.dailymirror.lk/breaking_news/48-more-die-of-COVID-19-Death-toll-surges-to-4-147/108-216894) (www.dailymirror.lk)
 * 2015 - [Daily Mirror News Round-up | 26.07.2021](https://www.dailymirror.lk/daily_mirror_news_round_up/Daily-Mirror-News-Round-up-26-07-2021/382-216893) (www.dailymirror.lk)
+* 2015 - [Daily Mirror News Round-up | 26.07.2021](https://www.dailymirror.lk/dailymirror_online/Daily-Mirror-News-Round-up-26-07-2021/379-216893) (www.dailymirror.lk)
 * 1809 - [Gazette issued to display weight in kg’s on LPG cylinders](https://www.dailymirror.lk/breaking_news/Gazette-issued-to-display-weight-in-kgs-on-LPG-cylinders/108-216891) (www.dailymirror.lk)
 * 1725 - [100 MT of used yoghurt cups discarded annually: Amaraweera](https://www.dailymirror.lk/breaking_news/100-MT-of-used-yoghurt-cups-discarded-annually-Amaraweera/108-216888) (www.dailymirror.lk)
 * 1644 - [Hoping to reopen schools in the first week of September: Minister](https://www.dailymirror.lk/breaking_news/Hoping-to-reopen-schools-in-the-first-week-of-September-Minister/108-216887) (www.dailymirror.lk)
@@ -51,12 +53,14 @@
 ## 2021-07-24
 * 0601 - [FEATURING: AKRAM CASSIM](https://www.dailymirror.lk/in_conversation_with_hirushi_jayasena/FEATURING-AKRAM-CASSIM/434-216770) (www.dailymirror.lk)
 * 0600 - [What is peer pressure and what effect does it have on those who experience it?](https://www.dailymirror.lk/food_for_thought_by_zara_esufally_and_humaira_azee/What-is-peer-pressure-and-what-effect-does-it-have-on-those-who-experience-it/429-216769) (www.dailymirror.lk)
+* 0214 - [JR Jayewardene and the July 1983  Anti-Tamil Violence](https://www.dailymirror.lk/dbs-jeyaraj-column/JR-Jayewardene-and-the-July-1983-Anti-Tamil-Violence/192-216779) (www.dailymirror.lk)
 * 0145 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216773) (www.dailymirror.lk)
 ## 2021-07-23
 * 0807 - [Viral load 1,000 times higher in people infected with Delta variant](https://www.dailymirror.lk/breaking_news/Viral-load-1-000-times-higher-in-people-infected-with-Delta-variant/108-216689) (www.dailymirror.lk)
 ## 2021-07-22
 * 1705 - [Death at Rishad’s house: AG appoints team comprising DSG to provide legal advice](https://www.dailymirror.lk/breaking_news/Death-at-Rishads-house-AG-appoints-team-comprising-DSG-to-provide-legal-advice/108-216677) (www.dailymirror.lk)
 * 1629 - [Daily Mirror News Round-up | 22.07.2021](https://www.dailymirror.lk/daily_mirror_news_round_up/Daily-Mirror-News-Round-up-22-07-2021/382-216676) (www.dailymirror.lk)
+* 1629 - [Daily Mirror News Round-up | 22.07.2021](https://www.dailymirror.lk/dailymirror_online/Daily-Mirror-News-Round-up-22-07-2021/379-216676) (www.dailymirror.lk)
 * 1623 - [Defrauding a Sri Lankan living in Australia of Australian $ 180,500: Convicted lawyer released on bail](https://www.dailymirror.lk/breaking_news/Defrauding-a-Sri-Lankan-living-in-Australia-of-Australian-180-500-Convicted-lawyer-released-on-bail/108-216675) (www.dailymirror.lk)
 * 0841 - [Another 2 Mn Sinopharm vaccines arrive](https://www.dailymirror.lk/breaking_news/Another-2-Mn-Sinopharm-vaccines-arrive/108-216659) (www.dailymirror.lk)
 * 0748 - [600,000 await Astrazeneca second jab, but where are the doses?](https://www.dailymirror.lk/breaking_news/600-000-await-Astrazeneca-second-jab-but-where-are-the-doses/108-216642) (www.dailymirror.lk)
@@ -70,6 +74,7 @@
 * 1455 - [Dilan alleges of deal between SJB and Govt over NCM against Gammanpila](https://www.dailymirror.lk/breaking_news/Dilan-alleges-of-deal-between-SJB-and-Govt-over-NCM-against-Gammanpila/108-216598) (www.dailymirror.lk)
 * 1009 - [Main domestic aide's mobile phone handed over to CID: Police](https://www.dailymirror.lk/breaking_news/Main-domestic-aide-s-mobile-phone-handed-over-to-CID-Police/108-216591) (www.dailymirror.lk)
 ## 2021-07-20
+* 1800 - [Ruthless - MarMar Oso | Cover by ’Unplugged with Amantha Perera’](https://www.dailymirror.lk/dailymirror_online/Ruthless-MarMar-Oso-Cover-by-Unplugged-with-Amantha-Perera/379-216533) (www.dailymirror.lk)
 * 0929 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216516) (www.dailymirror.lk)
 * 0001 - [Govt. hand surfaces from rice mafia saga](https://www.dailymirror.lk/expose/Govt-hand-surfaces-from-rice-mafia-saga/333-216484) (www.dailymirror.lk)
 ## 2021-07-19
