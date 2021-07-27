@@ -1,0 +1,100 @@
+# Summary of Articles
+## 2021-07-27
+* 0749 - [Police to raid households employing underage children as domestic aides](https://www.dailymirror.lk/breaking_news/Police-to-raid-households-employing-underage-children-as-domestic-aides/108-216950) (www.dailymirror.lk)
+* 0704 - [There is nexus between JVP and agrochemical companies](https://www.dailymirror.lk/breaking_news/There-is-nexus-between-JVP-and-agrochemical-companies/108-216949) (www.dailymirror.lk)
+* 0456 - [SL to commence manufacture of saline and affiliated liquids in September](https://www.dailymirror.lk/breaking_news/SL-to-commence-manufacture-of-saline-and-affiliated-liquids-in-September/108-216947) (www.dailymirror.lk)
+* 0427 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216945) (www.dailymirror.lk)
+* 0415 - [Cabraal assures new inflows; says reserves set to top US $ 7bn](https://www.dailymirror.lk/business__main/Cabraal-assures-new-inflows-says-reserves-set-to-top-US-7bn/245-216941) (www.dailymirror.lk)
+* 0414 - [Kuoni unveils 2022 Indian Ocean programme](https://www.dailymirror.lk/business-news/Kuoni-unveils-2022-Indian-Ocean-programme/273-216940) (www.dailymirror.lk)
+* 0412 - [NTB’s unlisted debenture oversubscribed upon opening](https://www.dailymirror.lk/business-news/NTBs-unlisted-debenture-oversubscribed-upon-opening/273-216939) (www.dailymirror.lk)
+* 0410 - [Rakna Property Holdings to invest in US $ 34mn mixed development project](https://www.dailymirror.lk/business-news/Rakna-Property-Holdings-to-invest-in-US-34mn-mixed-development-project/273-216938) (www.dailymirror.lk)
+* 0301 - [More tea plucked during pandemic: Chairman TSDA](https://www.dailymirror.lk/breaking_news/More-tea-plucked-during-pandemic-Chairman-TSDA/108-216948) (www.dailymirror.lk)
+* 0215 - [Sri Lanka surpasses global vaccination average](https://www.dailymirror.lk/breaking_news/Sri-Lanka-surpasses-global-vaccination-average/108-216922) (www.dailymirror.lk)
+* 0105 - [Hotel workers in protest...](https://www.dailymirror.lk/caption_story/Hotel-workers-in-protest/110-216921) (www.dailymirror.lk)
+## 2021-07-26
+* 2202 - [Liberty Plaza closed after COVID-19 cases](https://www.dailymirror.lk/breaking_news/Liberty-Plaza-closed-after-COVID-19-cases/108-216895) (www.dailymirror.lk)
+* 2202 - [Liberty Plaza re-opened after being shut over weekend](https://www.dailymirror.lk/breaking_news/Liberty-Plaza-re-opened-after-being-shut-over-weekend/108-216895) (www.dailymirror.lk)
+* 2026 - [48 more die of COVID-19: Death toll surges to 4,147](https://www.dailymirror.lk/breaking_news/48-more-die-of-COVID-19-Death-toll-surges-to-4-147/108-216894) (www.dailymirror.lk)
+* 2015 - [Daily Mirror News Round-up | 26.07.2021](https://www.dailymirror.lk/daily_mirror_news_round_up/Daily-Mirror-News-Round-up-26-07-2021/382-216893) (www.dailymirror.lk)
+* 1809 - [Gazette issued to display weight in kg’s on LPG cylinders](https://www.dailymirror.lk/breaking_news/Gazette-issued-to-display-weight-in-kgs-on-LPG-cylinders/108-216891) (www.dailymirror.lk)
+* 1725 - [100 MT of used yoghurt cups discarded annually: Amaraweera](https://www.dailymirror.lk/breaking_news/100-MT-of-used-yoghurt-cups-discarded-annually-Amaraweera/108-216888) (www.dailymirror.lk)
+* 1644 - [Hoping to reopen schools in the first week of September: Minister](https://www.dailymirror.lk/breaking_news/Hoping-to-reopen-schools-in-the-first-week-of-September-Minister/108-216887) (www.dailymirror.lk)
+* 1626 - [Navy seizes Kerala cannabis worth over Rs. 65Mn in northern seas](https://www.dailymirror.lk/breaking_news/Navy-seizes-Kerala-cannabis-worth-over-Rs-65Mn-in-northern-seas/108-216890) (www.dailymirror.lk)
+* 1612 - [Delta variant cases are in every part of the country: Health Ministry](https://www.dailymirror.lk/breaking_news/Delta-variant-cases-are-in-every-part-of-the-country-Health-Ministry/108-216889) (www.dailymirror.lk)
+* 1534 - [Maximum effort will be made to solve teachers’ principals’ salary issues: GL](https://www.dailymirror.lk/breaking_news/Maximum-effort-will-be-made-to-solve-teachers-principals-salary-issues-GL/108-216886) (www.dailymirror.lk)
+* 1446 - [CA orders to demarcate physical boundaries of  Muthurajawela Sanctuary](https://www.dailymirror.lk/breaking_news/CA-orders-to-demarcate-physical-boundaries-of-Muthurajawela-Sanctuary/108-216885) (www.dailymirror.lk)
+* 1350 - [Actress Upeksha Swarnamali released on police bail](https://www.dailymirror.lk/breaking_news/Actress-Upeksha-Swarnamali-released-on-police-bail/108-216883) (www.dailymirror.lk)
+* 1329 - [Tunisia’s PM sacked after violent Covid protests](https://www.dailymirror.lk/breaking_news/Tunisias-PM-sacked-after-violent-Covid-protests/108-216881) (www.dailymirror.lk)
+* 1300 - [Another petition filed in SC challenging Finance Bill](https://www.dailymirror.lk/breaking_news/Another-petition-filed-in-SC-challenging-Finance-Bill/108-216880) (www.dailymirror.lk)
+* 0946 - [Actress Upeksha Swarnamali arrested](https://www.dailymirror.lk/breaking_news/Actress-Upeksha-Swarnamali-arrested/108-216871) (www.dailymirror.lk)
+* 0925 - [Message by His Excellency President Ibrahim Mohamed Solih, President of the Republic of Maldives](https://www.dailymirror.lk/business/Message-by-His-Excellency-President-Ibrahim-Mohamed-Solih-President-of-the-Republic-of-Maldives/215-216870) (www.dailymirror.lk)
+* 0918 - [Maximum retail price for 18-litre gas cylinder  gazetted](https://www.dailymirror.lk/breaking_news/Maximum-retail-price-for-18-litre-gas-cylinder-gazetted/108-216868) (www.dailymirror.lk)
+* 0900 - [Message by His Excellency Abdulla Shahid Minister of Foreign Affairs of the Republic of Maldives](https://www.dailymirror.lk/business/Message-by-His-Excellency-Abdulla-Shahid-Minister-of-Foreign-Affairs-of-the-Republic-of-Maldives/215-216869) (www.dailymirror.lk)
+* 0858 - [Another batch of Pfizer vaccines brought to SL](https://www.dailymirror.lk/breaking_news/Another-batch-of-Pfizer-vaccines-brought-to-SL/108-216863) (www.dailymirror.lk)
+* 0843 - [State Minister warns of a teacher COVID-19 cluster](https://www.dailymirror.lk/breaking_news/State-Minister-warns-of-a-teacher-COVID-19-cluster/108-216850) (www.dailymirror.lk)
+* 0832 - [Message by His Excellency Omar Abdul Razzak High Commissioner of the Republic of Maldives to the Democratic Socialist Republic of Sri Lanka](https://www.dailymirror.lk/business/Message-by-His-Excellency-Omar-Abdul-Razzak-High-Commissioner-of-the-Republic-of-Maldives-to-the-Democratic-Socialist-Republic-of-Sri-Lanka/215-216858) (www.dailymirror.lk)
+* 0810 - [SJB won’t work with those guilty of child abuse: Eran](https://www.dailymirror.lk/breaking_news/SJB-wont-work-with-those-guilty-of-child-abuse-Eran/108-216849) (www.dailymirror.lk)
+* 0728 - [Communist Party to vote against Kotalawala Defence University Bill](https://www.dailymirror.lk/breaking_news/Communist-Party-to-vote-against-Kotalawala-Defence-University-Bill/108-216848) (www.dailymirror.lk)
+* 0624 - [What is needed is not a common alliance but a common policy framework: Ranil](https://www.dailymirror.lk/breaking_news/What-is-needed-is-not-a-common-alliance-but-a-common-policy-framework-Ranil/108-216847) (www.dailymirror.lk)
+* 0303 - [GOVT HAS FAILED IN FISCAL CONSOLIDATION - ERAN](https://www.dailymirror.lk/hard-talk/GOVT-HAS-FAILED-IN-FISCAL-CONSOLIDATION-ERAN/334-216876) (www.dailymirror.lk)
+* 0048 - [Tea industry to face double whammy amid easing volumes and prices](https://www.dailymirror.lk/business-news/Tea-industry-to-face-double-whammy-amid-easing-volumes-and-prices/273-216836) (www.dailymirror.lk)
+* 0047 - [CIC Holdings maintains growth momentum in first quarter](https://www.dailymirror.lk/business-news/CIC-Holdings-maintains-growth-momentum-in-first-quarter/273-216835) (www.dailymirror.lk)
+* 0045 - [Countrywide prices up 6.1% in June](https://www.dailymirror.lk/business-news/Countrywide-prices-up-6-1-in-June/273-216834) (www.dailymirror.lk)
+## 2021-07-25
+* 2224 - [Death of girl: Police say independent probe underway with no interference from any party](https://www.dailymirror.lk/breaking_news/Death-of-girl-Police-say-independent-probe-underway-with-no-interference-from-any-party/108-216816) (www.dailymirror.lk)
+* 2147 - [SLC employee tests COVID-19 positive](https://www.dailymirror.lk/breaking_news/SLC-employee-tests-COVID-19-positive/108-216815) (www.dailymirror.lk)
+* 2059 - [45 more succumb to COVID-19](https://www.dailymirror.lk/breaking_news/45-more-succumb-to-COVID-19/108-216814) (www.dailymirror.lk)
+* 1810 - [937 more COVID-19 patients recover](https://www.dailymirror.lk/breaking_news/937-more-COVID-19-patients-recover/108-216812) (www.dailymirror.lk)
+* 1613 - [Majority of infected & COVID deaths are of unvaccinated people](https://www.dailymirror.lk/breaking_news/Majority-of-infected-COVID-deaths-are-of-unvaccinated-people/108-216811) (www.dailymirror.lk)
+* 1545 - [Red alert issued to 16 districts on gusty winds: Met Dept.](https://www.dailymirror.lk/breaking_news/Red-alert-issued-to-16-districts-on-gusty-winds-Met-Dept/108-216810) (www.dailymirror.lk)
+## 2021-07-24
+* 0600 - [What is peer pressure and what effect does it have on those who experience it?](https://www.dailymirror.lk/food_for_thought_by_zara_esufally_and_humaira_azee/What-is-peer-pressure-and-what-effect-does-it-have-on-those-who-experience-it/429-216769) (www.dailymirror.lk)
+* 0145 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216773) (www.dailymirror.lk)
+## 2021-07-23
+* 0807 - [Viral load 1,000 times higher in people infected with Delta variant](https://www.dailymirror.lk/breaking_news/Viral-load-1-000-times-higher-in-people-infected-with-Delta-variant/108-216689) (www.dailymirror.lk)
+## 2021-07-22
+* 1705 - [Death at Rishad’s house: AG appoints team comprising DSG to provide legal advice](https://www.dailymirror.lk/breaking_news/Death-at-Rishads-house-AG-appoints-team-comprising-DSG-to-provide-legal-advice/108-216677) (www.dailymirror.lk)
+* 1629 - [Daily Mirror News Round-up | 22.07.2021](https://www.dailymirror.lk/daily_mirror_news_round_up/Daily-Mirror-News-Round-up-22-07-2021/382-216676) (www.dailymirror.lk)
+* 1623 - [Defrauding a Sri Lankan living in Australia of Australian $ 180,500: Convicted lawyer released on bail](https://www.dailymirror.lk/breaking_news/Defrauding-a-Sri-Lankan-living-in-Australia-of-Australian-180-500-Convicted-lawyer-released-on-bail/108-216675) (www.dailymirror.lk)
+* 0841 - [Another 2 Mn Sinopharm vaccines arrive](https://www.dailymirror.lk/breaking_news/Another-2-Mn-Sinopharm-vaccines-arrive/108-216659) (www.dailymirror.lk)
+* 0748 - [600,000 await Astrazeneca second jab, but where are the doses?](https://www.dailymirror.lk/breaking_news/600-000-await-Astrazeneca-second-jab-but-where-are-the-doses/108-216642) (www.dailymirror.lk)
+## 2021-07-21
+* 2035 - [Basil rejects social media claims on imposition of tax on EPF](https://www.dailymirror.lk/breaking_news/Basil-rejects-social-media-claims-on-imposition-of-tax-on-EPF/108-216606) (www.dailymirror.lk)
+* 1925 - [All citizens above 30 years of age would be vaccinated within next two months : Namal](https://www.dailymirror.lk/breaking_news/All-citizens-above-30-years-of-age-would-be-vaccinated-within-next-two-months-Namal/108-216604) (www.dailymirror.lk)
+* 1732 - [Daily Mirror News Round-up | 21.07.2021](https://www.dailymirror.lk/dailymirror_online/Daily-Mirror-News-Round-up-21-07-2021/379-216602) (www.dailymirror.lk)
+* 1732 - [Daily Mirror News Round-up | 21.07.2021](https://www.dailymirror.lk/daily_mirror_news_round_up/Daily-Mirror-News-Round-up-21-07-2021/382-216602) (www.dailymirror.lk)
+* 1455 - [Dilan alleges of deal between SJB and Govt over NCM against Gammanpila](https://www.dailymirror.lk/breaking_news/Dilan-alleges-of-deal-between-SJB-and-Govt-over-NCM-against-Gammanpila/108-216598) (www.dailymirror.lk)
+* 1009 - [Main domestic aide's mobile phone handed over to CID: Police](https://www.dailymirror.lk/breaking_news/Main-domestic-aide-s-mobile-phone-handed-over-to-CID-Police/108-216591) (www.dailymirror.lk)
+## 2021-07-20
+* 0929 - [Cartoon of the day](https://www.dailymirror.lk/awantha/Cartoon-of-the-day/289-216516) (www.dailymirror.lk)
+* 0001 - [Govt. hand surfaces from rice mafia saga](https://www.dailymirror.lk/expose/Govt-hand-surfaces-from-rice-mafia-saga/333-216484) (www.dailymirror.lk)
+## 2021-07-19
+* 1916 - [Moody’s places SL’s Caa1 rating for downgrade](https://www.dailymirror.lk/business_247/Moodys-places-SLs-Caa1-rating-for-downgrade/395-216449) (www.dailymirror.lk)
+## 2021-07-17
+* 1502 - [ETF announces grant for members’ children](https://www.dailymirror.lk/business_247/ETF-announces-grant-for-members-children/395-216343) (www.dailymirror.lk)
+* 0600 - [THE PURSUIT OF SELF-AWARENESS AND SELF-LOVE](https://www.dailymirror.lk/curated_by_yanika_amarasekera/THE-PURSUIT-OF-SELF-AWARENESS-AND-SELF-LOVE/428-216309) (www.dailymirror.lk)
+* 0259 - [No day-7 PCR for fully vaccinated tourists](https://www.dailymirror.lk/business_247/No-day-7-PCR-for-fully-vaccinated-tourists/395-216336) (www.dailymirror.lk)
+## 2021-07-15
+* 1444 - [SriLankan to roll out ‘buy-one-get-one-free’ offer](https://www.dailymirror.lk/business_247/SriLankan-to-roll-out-buy-one-get-one-free-offer/395-216184) (www.dailymirror.lk)
+## 2021-07-14
+* 0038 - [“Sri Lanka Cricket didn’t take parliament  seriously”  - Prof. Charitha Herath](https://www.dailymirror.lk/hard-talk/Sri-Lanka-Cricket-didnt-take-parliament-seriously-Prof-Charitha-Herath/334-216025) (www.dailymirror.lk)
+## 2021-07-13
+* 1553 - [Govt. mulls vaccinating children below 18](https://www.dailymirror.lk/breaking_news/Govt-mulls-vaccinating-children-below-18/108-216013) (www.dailymirror.lk)
+## 2021-07-12
+* 0754 - [Doctor remanded for taking pictures of lady doctor while undressing](https://www.dailymirror.lk/breaking_news/Doctor-remanded-for-taking-pictures-of-lady-doctor-while-undressing/108-215872) (www.dailymirror.lk)
+## 2021-07-07
+* 2031 - [38 more die of COVID-19](https://www.dailymirror.lk/breaking_news/38-more-die-of-COVID-19/108-215589) (www.dailymirror.lk)
+## 2021-07-06
+* 0454 - [How powerful Acting Principals rule the roost](https://www.dailymirror.lk/expose/How-powerful-Acting-Principals-rule-the-roost/333-215464) (www.dailymirror.lk)
+## 2021-07-05
+* 1648 - [Pfizer doses to be administered on pregnant mothers](https://www.dailymirror.lk/breaking_news_videos/Pfizer-doses-to-be-administered-on-pregnant-mothers/449-215417) (www.dailymirror.lk)
+## 2021-06-24
+* 1446 - [Duminda Silva leaves Welikada Prison, a free man.](https://www.dailymirror.lk/breaking_news_videos/Duminda-Silva-leaves-Welikada-Prison-a-free-man/449-214756) (www.dailymirror.lk)
+* 1110 - [England take early T20I series lead over Sri Lanka](https://www.dailymirror.lk/cricket-news/England-take-early-T20I-series-lead-over-Sri-Lanka/320-214750) (www.dailymirror.lk)
+* 1100 - [New Zealand clinch World Test title](https://www.dailymirror.lk/cricket-news/New-Zealand-clinch-World-Test-title/320-214749) (www.dailymirror.lk)
+## 2021-06-18
+* 1630 - [The ongoing island-wide travel restrictions will be lifted at 4 a.m on Monday, and be reimposed from 10 pm on June 23 till 4 am on June 25 - Army Commander General Shavendra Silva](https://www.dailymirror.lk/breaking_news_videos/The-ongoing-island-wide-travel-restrictions-will-be-lifted-at-4-a-m-on-Monday-and-be-reimposed-from-10-pm-on-June-23-till-4-am-on-June-25-Army-Commander-General-Shavendra-Silva/449-214391) (www.dailymirror.lk)
+## 2021-06-04
+* 0913 - [Sanath Jayasuriya signs as coach at Melbourne cricket club Mulgrave](https://www.dailymirror.lk/cricket-news/Sanath-Jayasuriya-signs-as-coach-at-Melbourne-cricket-club-Mulgrave/320-213415) (www.dailymirror.lk)
+## 2021-05-22
+* 1859 - [Pay dispute hits Sri Lanka team morale for Bangladesh games: captain](https://www.dailymirror.lk/cricket/Pay-dispute-hits-Sri-Lanka-team-morale-for-Bangladesh-games-captain/315-212540) (www.dailymirror.lk)
