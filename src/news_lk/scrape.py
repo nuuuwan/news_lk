@@ -7,6 +7,7 @@ from utils import cache, ds, filex, hashx, jsonx, timex, tsv, www
 from news_lk import _constants, _utils
 
 MAX_URLS_TO_DOWNLOAD = 5
+WWW_TIMEOUT = 5
 
 
 def clean(s):
@@ -33,6 +34,8 @@ def _filter_article_links(url):
     if 'https://www.dailymirror.lk/audio' in url:
         return False
     if 'https://www.dailymirror.lk/awantha' in url:
+        return False
+    if 'https://www.dailymirror.lk/cartoon_of_the_day' in url:
         return False
     results = re.search(r'.*/\d{3}-\d{6}', url)
     if results:
@@ -65,7 +68,7 @@ def download(url):
         'https://raw.githubusercontent.com',
         'nuuuwan/news_lk/data/news_lk.article.%s.html' % h,
     )
-    if www.exists(remote_url, timeout=5):
+    if www.exists(remote_url, timeout=WWW_TIMEOUT):
         _utils.log.info('Getting html from %s', remote_url)
         html = www.download(remote_url)
         filex.write(html_file, html)
@@ -84,7 +87,7 @@ def update_summary_file(new_data_list):
         'nuuuwan/news_lk/data/news_lk.latest.summary.tsv',
     )
     summary_file = '/tmp/news_lk.latest.summary.tsv'
-    if www.exists(remote_url, timeout=5):
+    if www.exists(remote_url, timeout=WWW_TIMEOUT):
         existing_data_list = www.read_tsv(remote_url)
         _utils.log.info(
             'Downloaded %d articles from %s',
@@ -95,7 +98,10 @@ def update_summary_file(new_data_list):
         _utils.log.warn('No summary file at %s', remote_url)
         existing_data_list = []
 
-    combined_data_list = existing_data_list + new_data_list
+    combined_data_list = sorted(
+        existing_data_list + new_data_list,
+        key=lambda data: -(int)(data['ut']),
+    )
 
     _utils.log.info(
         'Wrote %d entries to %s',
@@ -117,7 +123,7 @@ def download_and_parse(url):
         'https://raw.githubusercontent.com',
         'nuuuwan/news_lk/data/news_lk.article.%s.json' % url_hash,
     )
-    if www.exists(remote_url):
+    if www.exists(remote_url, timeout=WWW_TIMEOUT):
         _utils.log.warn('%s already exists', remote_url)
         return None
 
