@@ -26,3 +26,4 @@
 * [2021-07-28 10:55AM] Add Python Dependencies Caching
 * [2021-07-28 10:58AM] Fix sort bug in scrape.py
 * [2021-07-28 11:04AM] Reorder data
+* [2021-07-28 11:14AM] Add spaCy NER
