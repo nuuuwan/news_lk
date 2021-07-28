@@ -18,8 +18,9 @@ def expand_new_article(article):
 
     return article
 
+
 def expand_article(article):
-    return article    
+    return article
 
 
 def get_new_articles():
