@@ -540,5 +540,42 @@
       "DATE(2nd)",
       "PERSON(Live Streaming Cricket)"
     ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Suspension of flights from India, Pakistan, Bangladesh and Sri Lanka extended until July 31 - Emirates",
+    "source": "www.msn.com",
+    "snippet": "Dubai airline Emirates has said that flights from India, Pakistan, Bangladesh and Sri Lanka will remain suspended until July 31. \"In line with UAE government directives, Emirates will be suspending the carriage of passengers from India,",
+    "url": "https://www.msn.com/en-ae/news/national/suspension-of-flights-from-india-pakistan-bangladesh-and-sri-lanka-extended-until-july-31-e2-80-93-emirates/ar-AAMDYoT",
+    "url_hash": "7911ac1f0eb76b8e077f28ef78971045",
+    "ut": 1627452459,
+    "ent_ids": [
+      "GPE(Dubai)",
+      "GPE(Emirates)",
+      "GPE(India)",
+      "GPE(Pakistan)",
+      "GPE(Bangladesh)",
+      "GPE(Sri Lanka)",
+      "DATE(July 31)",
+      "GPE(India)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Sri Lanka receives largest COVID-19 vaccine donation from China",
+    "source": "news.cgtn.com",
+    "snippet": "Sri Lanka on Tuesday received the largest COVID-19 vaccine donation from China, which arrived on board two chartered Sri Lankan Airlines flights, the Chinese Embassy to Sri Lanka said in a statement.",
+    "url": "https://news.cgtn.com/news/2021-07-28/Sri-Lanka-receives-largest-COVID-19-vaccine-donation-from-China-12gbyxAqP0A/index.html",
+    "url_hash": "801e630a710353cda51fe19a10648e22",
+    "ut": 1627448859,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "DATE(Tuesday)",
+      "GPE(China)",
+      "CARDINAL(two)",
+      "ORG(Sri Lankan Airlines)",
+      "ORG(the Chinese Embassy)",
+      "GPE(Sri Lanka)"
+    ]
   }
 ]
