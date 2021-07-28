@@ -1,5 +1,5 @@
 # Summary
 * [2021-07-27](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-07-27.json) (53 articles)
-* [2021-07-28](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-07-28.json) (157 articles)
+* [2021-07-28](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-07-28.json) (167 articles)
 
-*Generated at 05:11PM, July 28, 2021*
+*Generated at 06:08PM, July 28, 2021*
