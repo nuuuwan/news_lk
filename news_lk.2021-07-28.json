@@ -494,5 +494,51 @@
       "CARDINAL(48)",
       "DATE(Monday, July 26)"
     ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "India vs Sri Lanka 2021: Krunal Pandya Moved to Separate Hotel As Entire Squad Tests Negative of Covid-19",
+    "source": "www.news18.com",
+    "snippet": "Sri Lanka cricket has moved Krunal Pandya to a separate hotel after the whole Indian team returned Covid-19 negative in an RT-PCR test which was conducted late last night. According to Cricbuzz, Pandya has been moved to Mount Lavinia hotel,",
+    "url": "https://www.news18.com/cricketnext/news/india-vs-sri-lanka-2021-krunal-pandya-moved-to-separate-hotel-as-entire-squad-tests-negative-of-covid-19-4016171.html",
+    "url_hash": "dcc055558cf459bbf8fc9f6b1f346d93",
+    "ut": 1627448841,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "ORG(Krunal Pandya)",
+      "NORP(Indian)",
+      "TIME(late last night)",
+      "NORP(Cricbuzz)",
+      "PERSON(Pandya)",
+      "LOC(Mount Lavinia)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "World's Largest Sapphire Cluster 'Accidentally' Found in a Backyard in Sri Lanka",
+    "source": "www.news18.com",
+    "snippet": "Experts believe the 'pale blue' stone that weighs around 510 kilograms has an estimated value of up to $100 million in the international market",
+    "url": "https://www.news18.com/news/buzz/worlds-largest-sapphire-cluster-accidentally-found-in-a-backyard-in-sri-lanka-4013846.html",
+    "url_hash": "3d1dde93505541d7db0c7588d7ad06f8",
+    "ut": 1627438041,
+    "ent_ids": [
+      "QUANTITY(510 kilograms)",
+      "MONEY(up to $100 million)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "India vs Sri Lanka 2nd T20I Live Streaming Cricket: All You Need to Know",
+    "source": "www.headlinestoday.in",
+    "snippet": "Watch IND vs SL Stream Live Cricket Match Online And on TV.Here are the details of when and where to watch India vs Sri Lanka 2nd T20I match Live Streaming Cricket online and on Television.",
+    "url": "https://www.headlinestoday.in/sports/india-vs-sri-lanka-2nd-t20i-live-streaming-cricket-all-you-need-to-know-325132028.html",
+    "url_hash": "7ee574912a9bd9989d998b916816e150",
+    "ut": 1627430841,
+    "ent_ids": [
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "DATE(2nd)",
+      "PERSON(Live Streaming Cricket)"
+    ]
   }
 ]

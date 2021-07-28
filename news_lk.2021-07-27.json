@@ -474,5 +474,165 @@
       "CARDINAL(three)",
       "DATE(Wednesday)"
     ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "Sri Lanka vs India: Krunal Pandya Tests Positive For Covid In Sri Lanka, 2nd T20I Postponed By A Day",
+    "source": "sports.ndtv.com",
+    "snippet": "India all-rounder Krunal Pandya, in Sri Lanka, has tested positive for COVID-19, forcing the second T20I -- scheduled for today -- to be postponed by a day.",
+    "url": "https://sports.ndtv.com/sri-lanka-vs-india-2021/indian-cricketer-in-sri-lanka-tests-positive-for-covid-2nd-t20i-postponed-by-a-day-sources-2496040",
+    "url_hash": "8711c7c141ae62a0931c1efe6cbfff51",
+    "ut": 1627384041,
+    "ent_ids": [
+      "GPE(India)",
+      "PERSON(Krunal Pandya)",
+      "GPE(Sri Lanka)",
+      "ORDINAL(second)",
+      "DATE(today)",
+      "DATE(a day)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "2nd Sri Lanka T20 postponed after Indian cricket player tests Covid positive",
+    "source": "www.livemint.com",
+    "snippet": "The T20I between India and Sri Lanka, scheduled for Tuesday, was postponed after all-rounder Krunal Pandya tested positive for Covid-19. The match will take place on Wednesday if all the other players are found negative for the virus.",
+    "url": "https://www.livemint.com/sports/cricket-news/2nd-sri-lanka-t20-postponed-after-indian-cricket-player-tests-covid-positive-11627382485361.html",
+    "url_hash": "3401f8f11511418336333f966d4e7032",
+    "ut": 1627423641,
+    "ent_ids": [
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "DATE(Tuesday)",
+      "ORG(Krunal Pandya)",
+      "DATE(Wednesday)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "Sri Lanka-India international postponed over Covid-19 case",
+    "source": "dailytimes.com.pk",
+    "snippet": "COLOMBO: Sri Lanka on Tuesday postponed the second Twenty20 international against India just hours before its start, after an Indian player tested positive for coronavirus. All-rounder Krunal Pandya was found positive during a routine check,",
+    "url": "https://dailytimes.com.pk/797669/sri-lanka-india-international-postponed-over-covid-19-case-2/",
+    "url_hash": "f91f7e16e954894e9a077af54c791a91",
+    "ut": 1627402041,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "DATE(Tuesday)",
+      "ORDINAL(second)",
+      "DATE(Twenty20)",
+      "GPE(India)",
+      "TIME(just hours)",
+      "NORP(Indian)",
+      "PERSON(Krunal Pandya)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "Covid-19 infected Krunal Pandya out Sri Lanka series",
+    "source": "www.deccanchronicle.com",
+    "snippet": "The second T20 International between India and Sri Lanka in Colombo on Tuesday was postponed by a day after the visiting all-rounder Krunal Pandya tested positive for Covid-19, forcing him out of the series with seven days of isolation.",
+    "url": "http://www.deccanchronicle.com/sports/cricket/280721/covid-19-infected-krunal-pandya-out-sri-lanka-series.html",
+    "url_hash": "ba9b9a596d923ea605476adf659325d6",
+    "ut": 1627412841,
+    "ent_ids": [
+      "ORDINAL(second)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "DATE(Tuesday)",
+      "DATE(a day)",
+      "ORG(Krunal Pandya)",
+      "DATE(seven days)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "2nd India-Sri Lanka T20 postponed to Wednesday as Krunal tests positive for COVID-19",
+    "source": "www.dailyexcelsior.com",
+    "snippet": "COLOMBO, Jul 27: The second T20 International between India and Sri Lanka here on Tuesday was postponed by a day after visiting all-rounder Krunal Pandya tested positive for COVID-19. Krunal, who tested positive on Tuesday morning, has been quarantined and ...",
+    "url": "https://www.dailyexcelsior.com/2nd-india-sri-lanka-t20-postponed-to-wednesday-as-krunal-tests-positive-for-covid-19/",
+    "url_hash": "6133ca10f3ab0732d3f928658370a42a",
+    "ut": 1627420041,
+    "ent_ids": [
+      "PERSON(Jul)",
+      "CARDINAL(27)",
+      "ORDINAL(second)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "DATE(Tuesday)",
+      "DATE(a day)",
+      "ORG(Krunal Pandya)",
+      "DATE(Tuesday)",
+      "TIME(morning)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "Sri Lanka v India series delayed due to COVID-19 case",
+    "source": "www.cricket.com.au",
+    "snippet": "Second T20 delayed a day after a positive case was recorded in the Indian camp just hours before the match was due to begin",
+    "url": "https://www.cricket.com.au/news/sri-lanka-india-t20-postponed-positive-covid-19-test-krunal-pandya-coronavirus/2021-07-28",
+    "url_hash": "1bca89d749ee374cff86ce79484d1207",
+    "ut": 1627423641,
+    "ent_ids": [
+      "ORDINAL(Second)",
+      "DATE(a day)",
+      "NORP(Indian)",
+      "TIME(just hours)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "99x listed as a Best Workplace in Asia and Sri Lanka once again",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a period fraught with uncertainty, technology company 99x's ability to continue 'business as usual' and be a supportive life partner to its people saw it being listed as a Best Workplace in Sri Lanka for the ninth consecutive year and in Asia for a fifth year,",
+    "url": "https://www.dailymirror.lk/ict/99x-listed-as-a-Best-Workplace-in-Asia-and-Sri-Lanka-once-again/269-216990",
+    "url_hash": "4b67368d8b3676dba276ac55166af328",
+    "ut": 1627416441,
+    "ent_ids": [
+      "CARDINAL(99x)",
+      "PERSON(a Best Workplace)",
+      "GPE(Sri Lanka)",
+      "DATE(the ninth consecutive year)",
+      "LOC(Asia)",
+      "DATE(a fifth year)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "Govt. requests 21 countries to lift ban on Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "The Tourism Ministry in collaboration with the Foreign Affairs Ministry has requested 21 countries to lift the travel ban imposed on Sri Lanka as a result of COVID-19. ..",
+    "url": "https://www.ft.lk/front-page/Govt-requests-21-countries-to-lift-ban-on-Sri-Lanka/44-720926",
+    "url_hash": "a9b50d993353db27614774af40feae20",
+    "ut": 1627409241,
+    "ent_ids": [
+      "ORG(The Tourism Ministry)",
+      "ORG(the Foreign Affairs Ministry)",
+      "CARDINAL(21)",
+      "GPE(Sri Lanka)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "China donates another 1.6 million doses of Sinopharm vaccine to Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "The Government of China yesterday donated another consignment of 1.6 million doses of the Sinopharm COVID-19 vaccines to Sri Lanka. The two SriLankan Airlines flights UL869 and UL865 carrying the vaccines arrived at the Bandaranaike International Airport,",
+    "url": "https://www.ft.lk/news/China-donates-another-1-6-million-doses-of-Sinopharm-vaccine-to-Sri-Lanka/56-720937",
+    "url_hash": "ec5eced79f80a68554da4b1a408c094f",
+    "ut": 1627409241,
+    "ent_ids": [
+      "ORG(The Government of)",
+      "GPE(China)",
+      "DATE(yesterday)",
+      "CARDINAL(1.6 million)",
+      "ORG(Sinopharm)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(two)",
+      "ORG(SriLankan Airlines)",
+      "ORG(UL869)",
+      "FAC(UL865)",
+      "ORG(the Bandaranaike International Airport)"
+    ]
   }
 ]
