@@ -1,7 +1,6 @@
 import os
 
 import spacy
-
 from utils import hashx, timex, tsv, www
 
 from news_lk import scrape_dailymirror, scrape_duckduckgo
@@ -45,11 +44,9 @@ def expand_article(article):
         'title': article['title'],
         'source': article['source'],
         'snippet': snippet,
-
         'url': url,
         'url_hash': article['url_hash'],
         'ut': article['ut'],
-
         'ent_ids_str': article.get('ent_ids_str', ''),
     }
 
