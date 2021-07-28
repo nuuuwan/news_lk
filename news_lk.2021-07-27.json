@@ -798,5 +798,32 @@
       "CARDINAL(two)",
       "DATE(yesterday)"
     ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "Huawei Cloud appoints DMS Software Engineering to develop Cloud Computing Market in Sri Lanka",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Ltd, one of the leading technology companies in Sri Lanka has been appointed as the Authorized Reseller, Consulting and support partner for HUAWEI CLOUD in Sri Lanka. This appointment authorizes DMS to cater to the local market with innovative cloud solutions and work as the support partner ecosystem of HUAWEI",
+    "url": "http://bizenglish.adaderana.lk/huawei-cloud-appoints-dms-software-engineering-to-develop-cloud-computing-market-in-sri-lanka/",
+    "url_hash": "abf78387b550fee9e0e90e15d0c18f2d",
+    "ut": 1627412882,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "ORG(the Authorized Reseller)",
+      "GPE(Sri Lanka)",
+      "ORG(DMS)"
+    ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "World\u2019s largest star sapphire cluster found in backyard in Ratnapura",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankan authorities say the world\u2019s largest star sapphire cluster has been found in a backyard - by accident. ",
+    "url": "https://www.dailymirror.lk/breaking_news/Worlds-largest-star-sapphire-cluster-found-in-backyard-in-Ratnapura/108-216955",
+    "url_hash": "a0195e185203fc07845533835c78f367",
+    "ut": 1627344000,
+    "ent_ids": [
+      "NORP(Sri Lankan)"
+    ]
   }
 ]
