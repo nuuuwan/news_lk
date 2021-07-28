@@ -1,6 +1,6 @@
 import os
 
-from utils import dt, hashx, timex, tsv, www
+from utils import hashx, timex, tsv, www
 
 from news_lk import scrape_dailymirror, scrape_duckduckgo
 from news_lk._utils import log
