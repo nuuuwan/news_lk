@@ -8,7 +8,7 @@ from news_lk._utils import log
 DATA_FILE_NAME_ONLY = 'news_lk.summary.tsv'
 
 
-def expand_article(article):
+def expand_new_article(article):
     url = article['url']
     article['url_hash'] = hashx.md5(url)
     article['date_id'] = timex.format_time(article['ut'], '%Y-%m-%d')
@@ -18,10 +18,13 @@ def expand_article(article):
 
     return article
 
+def expand_article(article):
+    return article    
+
 
 def get_new_articles():
     new_article_list = scrape_duckduckgo.scrape() + scrape_dailymirror.scrape()
-    new_article_list = list(map(expand_article, new_article_list))
+    new_article_list = list(map(expand_new_article, new_article_list))
     return new_article_list
 
 
@@ -51,6 +54,8 @@ def scrape_and_dump():
         key=lambda article: -article['ut'],
     )
     log.info('Got %d combined articles', len(deduped_article_list))
+
+    deduped_article_list = list(map(expand_article, deduped_article_list))
 
     data_file = '/tmp/%s' % DATA_FILE_NAME_ONLY
     tsv.write(data_file, deduped_article_list)
