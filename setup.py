@@ -42,6 +42,5 @@ setuptools.setup(
         'selenium',
         'tweepy',
         'utils-nuuuwan',
-        'nltk',
     ],
 )
