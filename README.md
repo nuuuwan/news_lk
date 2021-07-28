@@ -29,3 +29,4 @@
 * [2021-07-28 11:14AM] Add spaCy NER
 * [2021-07-28 11:28AM] Add spaCy download
 * [2021-07-28 11:53AM] Change format to JSON
+* [2021-07-28 12:15PM] Add summary md file

@@ -1,7 +1,7 @@
 import os
 
 import spacy
-from utils import hashx, jsonx, timex, www
+from utils import filex, hashx, jsonx, timex, www
 
 from news_lk import scrape_dailymirror, scrape_duckduckgo
 from news_lk._utils import log
@@ -64,6 +64,7 @@ def scrape_and_dump():
             date_to_hash_to_article[date] = {}
         date_to_hash_to_article[date][url_hash] = article
 
+    summary_stats_list = []
     for date in date_to_hash_to_article:
         file_only = 'news_lk.%s.json' % date
 
@@ -89,11 +90,51 @@ def scrape_and_dump():
 
         data_file = '/tmp/%s' % file_only
         jsonx.write(data_file, upload_article_list)
+        n_articles = len(upload_article_list)
         log.info(
             'Wrote %d articles to %s',
-            len(upload_article_list),
+            n_articles,
             data_file,
         )
+
+        summary_stats_list.append(
+            {
+                'date': date,
+                'n_articles': n_articles,
+            }
+        )
+    summary_stats_list = sorted(summary_stats_list, key=lambda d: d['date'])
+    base_url = 'https://github.com/nuuuwan/news_lk/blob/data'
+    lines = (
+        ['# Summary']
+        + list(
+            map(
+                lambda d: '* [%s](%s) (%d articles)'
+                % (
+                    d['date'],
+                    '%s/%s'
+                    % (
+                        base_url,
+                        file_only,
+                    ),
+                    d['n_articles'],
+                ),
+                summary_stats_list,
+            )
+        )
+        + [
+            '',
+            '*Generated at %s*'
+            % (timex.format_time(timex.get_unixtime(), '%I:%M%p, %B %d, %Y'),),
+        ]
+    )
+    summary_file_name = '/tmp/news_lk.summary.md'
+    filex.write(summary_file_name, '\n'.join(lines))
+    log.info(
+        'Wrote summary for %d days to %s',
+        len(summary_stats_list),
+        summary_file_name,
+    )
 
 
 if __name__ == '__main__':
