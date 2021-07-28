@@ -460,5 +460,52 @@
       "CARDINAL(28)",
       "PERSON(Bill)"
     ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "India vs Sri Lanka 2021: Krunal Pandya Moved to Separate Hotel As Entire Squad Tests Negative of Covid-19",
+    "source": "www.news18.com",
+    "snippet": "Sri Lanka cricket has moved Krunal Pandya to a separate hotel after the whole Indian team returned Covid-19 negative in an RT-PCR test which was conducted late last night. According to Cricbuzz, Pandya has been moved to Mount Lavinia hotel,",
+    "url": "https://www.news18.com/cricketnext/news/india-vs-sri-lanka-2021-krunal-pandya-moved-to-separate-hotel-as-entire-squad-tests-negative-of-covid-19-4016171.html",
+    "url_hash": "dcc055558cf459bbf8fc9f6b1f346d93",
+    "ut": 1627448187,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "ORG(Krunal Pandya)",
+      "NORP(Indian)",
+      "TIME(late last night)",
+      "NORP(Cricbuzz)",
+      "PERSON(Pandya)",
+      "LOC(Mount Lavinia)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "World's Largest Sapphire Cluster 'Accidentally' Found in a Backyard in Sri Lanka",
+    "source": "www.news18.com",
+    "snippet": "Experts believe the 'pale blue' stone that weighs around 510 kilograms has an estimated value of up to $100 million in the international market",
+    "url": "https://www.news18.com/news/buzz/worlds-largest-sapphire-cluster-accidentally-found-in-a-backyard-in-sri-lanka-4013846.html",
+    "url_hash": "3d1dde93505541d7db0c7588d7ad06f8",
+    "ut": 1627437387,
+    "ent_ids": [
+      "QUANTITY(510 kilograms)",
+      "MONEY(up to $100 million)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Masking Terror: How Women Contain Violence in Southern Sri Lanka",
+    "source": "www.jstor.org",
+    "snippet": "A great number of young men in Sri Lanka have chosen to join the armed forces and were until recently fighting against Tamil separatists (the Tamil Tigers or LTTE) in the north and east of the country. As the Sri Lankan army suffered heavy casualties in ...",
+    "url": "https://www.jstor.org/stable/pdf/j.ctt3fh6wb.9.pdf",
+    "url_hash": "80b25ff1045f847e5a62cd151dba4299",
+    "ut": 1627454907,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "GPE(Tamil)",
+      "ORG(the Tamil Tigers)",
+      "ORG(LTTE)",
+      "ORG(Sri Lankan)"
+    ]
   }
 ]
