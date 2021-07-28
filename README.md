@@ -23,3 +23,4 @@
 * [2021-07-28 07:01AM] Add DuckDuckGo API
 * [2021-07-28 07:58AM] Refactor Daily Mirror Scrape
 * [2021-07-28 09:26AM] Add Stanford NER
+* [2021-07-28 10:55AM] Add Python Dependencies Caching
