@@ -20,7 +20,16 @@ def expand_new_article(article):
 
 
 def expand_article(article):
-    return article
+    return {
+        'date_id': article['date_id'],
+        'title': article['title'],
+        'source': article['source'],
+        'snippet': article['snippet'],
+        
+        'url': article['url'],
+        'url_hash': article['url_hash'],
+        'ut': article['ut'],
+    }
 
 
 def get_new_articles():
