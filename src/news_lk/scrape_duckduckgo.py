@@ -39,7 +39,6 @@ def scrape():
             title=title,
             snippet=snippet,
         )
-        print(article)
 
         article_list.append(article)
     log.info('Found %d articles', len(article_list))

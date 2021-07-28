@@ -1,11 +1,14 @@
 import os
 
+import spacy
+
 from utils import hashx, timex, tsv, www
 
 from news_lk import scrape_dailymirror, scrape_duckduckgo
 from news_lk._utils import log
 
 DATA_FILE_NAME_ONLY = 'news_lk.summary.tsv'
+nlp = spacy.load("en_core_web_sm")
 
 
 def expand_new_article(article):
@@ -16,19 +19,38 @@ def expand_new_article(article):
     source = url.partition('//')[2].partition('/')[0]
     article['source'] = source
 
+    doc = nlp(article['snippet'])
+    ent_ids = []
+    for ent in doc.ents:
+        ent_id = '%s(%s)' % (ent.label_, ent.text)
+        ent_ids.append(ent_id)
+    log.info(
+        'Extracted %d ents from %s',
+        len(ent_ids),
+        url,
+    )
+    ent_ids_str = '; '.join(ent_ids)
+
+    article['ent_ids_str'] = ent_ids_str
+
     return article
 
 
 def expand_article(article):
+    snippet = article['snippet']
+    url = article['url']
+
     return {
         'date_id': article['date_id'],
         'title': article['title'],
         'source': article['source'],
-        'snippet': article['snippet'],
-        
-        'url': article['url'],
+        'snippet': snippet,
+
+        'url': url,
         'url_hash': article['url_hash'],
         'ut': article['ut'],
+
+        'ent_ids_str': article.get('ent_ids_str', ''),
     }
 
 
