@@ -3484,5 +3484,92 @@
       "GPE(India)",
       "ORDINAL(second)"
     ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "2nd T20I: Sri Lanka Beat Depleted India by 4 Wickets to Keep Series Alive",
+    "source": "www.india.com",
+    "snippet": "A depleted Indian team, playing with only five batsmen, could not defend a modest target of 133 despite a valiant effort from its players.",
+    "url": "https://www.india.com/sports/t20i-sri-lanka-beat-depleted-india-by-4-wickets-to-keep-series-alive-4848934/",
+    "url_hash": "8da2f14dbf0d0034b94c13f5710b3356",
+    "ut": 1627492059,
+    "ent_ids": [
+      "NORP(Indian)",
+      "CARDINAL(only five)",
+      "CARDINAL(133)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Sri Lanka opts to bowl first in 2nd T20 match against India",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka won the toss and chose to bowl first in the second Twenty20 match against India at R. Premadasa Stadium on Wednesday. The match had been postponed by a day after India's allrounder Krunal Pandya tested positive for COVID-19.",
+    "url": "https://apnews.com/article/sports-india-sri-lanka-a9fea0b001b1e4c0becc37135eff8191",
+    "url_hash": "8c7e4f0e4587d9fc8b20a70e14090b14",
+    "ut": 1627481259,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "ORDINAL(first)",
+      "ORDINAL(second)",
+      "GPE(India)",
+      "FAC(R. Premadasa Stadium)",
+      "DATE(Wednesday)",
+      "DATE(a day)",
+      "GPE(India)",
+      "PERSON(Krunal Pandya)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "India vs Sri Lanka Live Cricket Score, 2nd T20I, Today's Match: SL Beat IND by Four Wickets; Series Level at 1-1",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka chase down 133 in 19.4 overs to win the second match by four wickets at draw level at one-all in the three-match series. 23:22:56 IST IND vs SL Live Score: A good over for Sri Lanka. The ball sort of slips from Bhuvneshwar Kumar's hand resutling in a juicy full toss which Dhananjaya de Silva sends it high into the night sky for a maximum.",
+    "url": "https://www.msn.com/en-in/sport/cricket/india-vs-sri-lanka-live-cricket-score-2nd-t20i-today-s-match-sl-beat-ind-by-four-wickets-series-level-at-1-1/ar-AAMEWaz",
+    "url_hash": "7949ab745cb1897347a79bbb00d5535c",
+    "ut": 1627495659,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "CARDINAL(133)",
+      "CARDINAL(19.4)",
+      "ORDINAL(second)",
+      "CARDINAL(four)",
+      "CARDINAL(one)",
+      "CARDINAL(three)",
+      "TIME(23:22:56)",
+      "ORG(IST IND)",
+      "WORK_OF_ART(SL Live Score)",
+      "GPE(Sri Lanka)",
+      "ORG(Bhuvneshwar Kumar's)",
+      "PERSON(Dhananjaya de Silva)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "2nd T20I: Depleted India go down to Sri Lanka by 4 wickets (Ld)",
+    "source": "www.glamsham.com",
+    "snippet": "A below-strength India, who were forced to make seven changes in the XI after nine players were ruled out due to Covid-related issues,",
+    "url": "https://www.glamsham.com/world/sports/2nd-t20i-depleted-india-go-down-to-sri-lanka-by-4-wickets-ld",
+    "url_hash": "a9f903b293d921b7520450dcc6b10ed9",
+    "ut": 1627506939,
+    "ent_ids": [
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "ORG(XI)",
+      "PERSON(Covid)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "In times of economic crisis, Sri Lanka government faces pushback from unions",
+    "source": "www.southasiamonitor.org",
+    "snippet": "For more than a year now, the Sri Lankan government has been facing multiple challenges from the financial crisis to the Covid crisis",
+    "url": "https://www.southasiamonitor.org/sri-lanka/times-economic-crisis-sri-lanka-government-faces-pushback-unions",
+    "url_hash": "a6521aa84e8b018562ecf0898360945e",
+    "ut": 1627492059,
+    "ent_ids": [
+      "DATE(more than a year)",
+      "NORP(Sri Lankan)",
+      "NORP(Covid)"
+    ]
   }
 ]
