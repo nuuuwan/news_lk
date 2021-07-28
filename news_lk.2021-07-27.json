@@ -825,5 +825,26 @@
     "ent_ids": [
       "NORP(Sri Lankan)"
     ]
+  },
+  {
+    "date": "2021-07-27",
+    "title": "Sri Lanka v India 2nd T20 postponed after virus infection",
+    "source": "news.yahoo.com",
+    "snippet": "The second Twenty20 between Sri Lanka and India scheduled on Tuesday was pushed back by a day after India allrounder Krunal Pandya tested positive for COVID-19. The second match of three will be played on Wednesday.",
+    "url": "https://news.yahoo.com/sri-lanka-v-india-2nd-142618903.html",
+    "url_hash": "6b1ad5ef006c3f78ac941dd1b191f647",
+    "ut": 1627394919,
+    "ent_ids": [
+      "ORDINAL(second)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "DATE(Tuesday)",
+      "DATE(a day)",
+      "GPE(India)",
+      "PERSON(Krunal Pandya)",
+      "ORDINAL(second)",
+      "CARDINAL(three)",
+      "DATE(Wednesday)"
+    ]
   }
 ]
