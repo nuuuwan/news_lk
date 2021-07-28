@@ -128,7 +128,7 @@ def scrape_and_dump():
             % (timex.format_time(timex.get_unixtime(), '%I:%M%p, %B %d, %Y'),),
         ]
     )
-    summary_file_name = '/tmp/news_lk.summary.md'
+    summary_file_name = '/tmp/README.md'
     filex.write(summary_file_name, '\n'.join(lines))
     log.info(
         'Wrote summary for %d days to %s',
