@@ -3,4 +3,4 @@
 from news_lk import scrape
 
 if __name__ == '__main__':
-    scrape._scrape()
+    scrape.scrape_and_dump()

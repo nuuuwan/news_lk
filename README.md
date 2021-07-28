@@ -19,3 +19,4 @@
 * [2021-07-28 06:43AM] Sort summary table - tsv
 * [2021-07-28 06:51AM] delete-summary-py
 * [2021-07-28 07:01AM] Add DuckDuckGo API
+* [2021-07-28 07:58AM] Refactor Daily Mirror Scrape
