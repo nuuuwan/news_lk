@@ -105,29 +105,22 @@ def scrape_and_dump():
         )
     summary_stats_list = sorted(summary_stats_list, key=lambda d: d['date'])
     base_url = 'https://github.com/nuuuwan/news_lk/blob/data'
-    lines = (
-        ['# Summary']
-        + list(
-            map(
-                lambda d: '* [%s](%s) (%d articles)'
-                % (
-                    d['date'],
-                    '%s/%s'
-                    % (
-                        base_url,
-                        file_only,
-                    ),
-                    d['n_articles'],
-                ),
-                summary_stats_list,
-            )
+    lines = ['# Summary']
+    for d in summary_stats_list:
+        date = d['date']
+        file_only = 'news_lk.%s.json' % date
+        line = '* [%s](%s) (%d articles)' % (
+            date,
+            '%s/%s' % (base_url, file_only),
+            d['n_articles'],
         )
-        + [
-            '',
-            '*Generated at %s*'
-            % (timex.format_time(timex.get_unixtime(), '%I:%M%p, %B %d, %Y'),),
-        ]
-    )
+        lines.append(line)
+
+    time_str = timex.format_time(timex.get_unixtime(), '%I:%M%p, %B %d, %Y')
+    lines += [
+        '',
+        '*Generated at %s*' % time_str,
+    ]
     summary_file_name = '/tmp/README.md'
     filex.write(summary_file_name, '\n'.join(lines))
     log.info(
