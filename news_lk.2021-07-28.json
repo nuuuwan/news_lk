@@ -463,49 +463,36 @@
   },
   {
     "date": "2021-07-28",
-    "title": "India vs Sri Lanka 2021: Krunal Pandya Moved to Separate Hotel As Entire Squad Tests Negative of Covid-19",
-    "source": "www.news18.com",
-    "snippet": "Sri Lanka cricket has moved Krunal Pandya to a separate hotel after the whole Indian team returned Covid-19 negative in an RT-PCR test which was conducted late last night. According to Cricbuzz, Pandya has been moved to Mount Lavinia hotel,",
-    "url": "https://www.news18.com/cricketnext/news/india-vs-sri-lanka-2021-krunal-pandya-moved-to-separate-hotel-as-entire-squad-tests-negative-of-covid-19-4016171.html",
-    "url_hash": "dcc055558cf459bbf8fc9f6b1f346d93",
-    "ut": 1627448187,
+    "title": "IND vs SL, 2nd T20 match prediction: Are Sri Lanka favourites in the absence of India's first-choice players?",
+    "source": "www.timesnownews.com",
+    "snippet": "Team India will be without the services of its many first-choice players many it faces Sri Lanka in the 2nd T20 today (July 28). Here's a look at match prediction for the 2nd T20 -",
+    "url": "https://www.timesnownews.com/sports/cricket/article/ind-vs-sl-2nd-t20-match-prediction-are-sri-lanka-favourites-in-the-absence-of-indias-first-choice-players/791409",
+    "url_hash": "d3fce42a10eae37fc7df505dfdc08e8f",
+    "ut": 1627454984,
     "ent_ids": [
+      "ORG(Team India)",
+      "ORDINAL(first)",
       "GPE(Sri Lanka)",
-      "ORG(Krunal Pandya)",
-      "NORP(Indian)",
-      "TIME(late last night)",
-      "NORP(Cricbuzz)",
-      "PERSON(Pandya)",
-      "LOC(Mount Lavinia)"
+      "DATE(today)",
+      "DATE(July 28)"
     ]
   },
   {
     "date": "2021-07-28",
-    "title": "World's Largest Sapphire Cluster 'Accidentally' Found in a Backyard in Sri Lanka",
-    "source": "www.news18.com",
-    "snippet": "Experts believe the 'pale blue' stone that weighs around 510 kilograms has an estimated value of up to $100 million in the international market",
-    "url": "https://www.news18.com/news/buzz/worlds-largest-sapphire-cluster-accidentally-found-in-a-backyard-in-sri-lanka-4013846.html",
-    "url_hash": "3d1dde93505541d7db0c7588d7ad06f8",
-    "ut": 1627437387,
-    "ent_ids": [
-      "QUANTITY(510 kilograms)",
-      "MONEY(up to $100 million)"
-    ]
-  },
-  {
-    "date": "2021-07-28",
-    "title": "Masking Terror: How Women Contain Violence in Southern Sri Lanka",
-    "source": "www.jstor.org",
-    "snippet": "A great number of young men in Sri Lanka have chosen to join the armed forces and were until recently fighting against Tamil separatists (the Tamil Tigers or LTTE) in the north and east of the country. As the Sri Lankan army suffered heavy casualties in ...",
-    "url": "https://www.jstor.org/stable/pdf/j.ctt3fh6wb.9.pdf",
-    "url_hash": "80b25ff1045f847e5a62cd151dba4299",
-    "ut": 1627454907,
+    "title": "Sri Lanka confirms 48 Covid-19 deaths occurred on Monday, toll rises to 4,195",
+    "source": "www.colombopage.com",
+    "snippet": "Sri Lanka Tuesday reported that 48 deaths due to COVID-19 occurred on Monday, July 26, 2021. The Director General of Health Services has confirmed that 48 deaths occurred on Monday, July 26 due to the COVID-19.",
+    "url": "http://www.colombopage.com/archive_21A/Jul28_1627438475CH.php",
+    "url_hash": "7e6aad6af859ad33eb71a034d613b9d6",
+    "ut": 1627437644,
     "ent_ids": [
       "GPE(Sri Lanka)",
-      "GPE(Tamil)",
-      "ORG(the Tamil Tigers)",
-      "ORG(LTTE)",
-      "ORG(Sri Lankan)"
+      "DATE(Tuesday)",
+      "CARDINAL(48)",
+      "DATE(Monday, July 26, 2021)",
+      "ORG(Health Services)",
+      "CARDINAL(48)",
+      "DATE(Monday, July 26)"
     ]
   }
 ]
