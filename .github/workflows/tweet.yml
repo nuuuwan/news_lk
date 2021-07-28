@@ -20,7 +20,12 @@ jobs:
     - uses: actions/cache@v2
       with:
         path: ~/.cache/pip
-        key: ${{ hashFiles('setup.py') }}-${{ hashFiles('dev-requirements.txt') }}        
+        key: ${{ hashFiles('setup.py') }}-${{ hashFiles('dev-requirements.txt') }}
+
+    - uses: actions/cache@v2
+      with:
+        path: ~/.cache/spacy
+        key: 'spacy.en_core_web_sm'
 
     - name: Install dependencies
       run: |
@@ -28,6 +33,7 @@ jobs:
         python -m pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         pip install build
+        python -m spacy download en_core_web_sm
 
     - name: Lint with flake8
       run: |
