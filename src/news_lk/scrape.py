@@ -1,20 +1,23 @@
 import os
 
 import spacy
-from utils import hashx, timex, tsv, www
+from utils import hashx, jsonx, timex, www
 
 from news_lk import scrape_dailymirror, scrape_duckduckgo
 from news_lk._utils import log
 
-DATA_FILE_NAME_ONLY = 'news_lk.summary.tsv'
 nlp = spacy.load("en_core_web_sm")
 
 
-def expand_new_article(article):
+def expand_article_basic(article):
     url = article['url']
     article['url_hash'] = hashx.md5(url)
-    article['date_id'] = timex.format_time(article['ut'], '%Y-%m-%d')
+    article['date'] = timex.format_time(article['ut'], '%Y-%m-%d')
+    return article
 
+
+def expand_article(article):
+    url = article['url']
     source = url.partition('//')[2].partition('/')[0]
     article['source'] = source
 
@@ -28,67 +31,69 @@ def expand_new_article(article):
         len(ent_ids),
         url,
     )
-    ent_ids_str = '; '.join(ent_ids)
-
-    article['ent_ids_str'] = ent_ids_str
-
-    return article
-
-
-def expand_article(article):
-    snippet = article['snippet']
-    url = article['url']
+    article['ent_ids'] = ent_ids
 
     return {
-        'date_id': article['date_id'],
+        'date': article['date'],
         'title': article['title'],
         'source': article['source'],
-        'snippet': snippet,
-        'url': url,
+        'snippet': article['snippet'],
+        'url': article['url'],
         'url_hash': article['url_hash'],
         'ut': article['ut'],
-        'ent_ids_str': article.get('ent_ids_str', ''),
+        'ent_ids': article['ent_ids'],
     }
 
 
 def get_new_articles():
     new_article_list = scrape_duckduckgo.scrape() + scrape_dailymirror.scrape()
-    new_article_list = list(map(expand_new_article, new_article_list))
     return new_article_list
-
-
-def get_existing_articles():
-    url = os.path.join(
-        'https://raw.githubusercontent.com',
-        'nuuuwan/news_lk/data/%s' % DATA_FILE_NAME_ONLY,
-    )
-    if not www.exists(url, timeout=5):
-        return []
-    return www.read_tsv(url)
 
 
 def scrape_and_dump():
     new_article_list = get_new_articles()
     log.info('Got %d new articles', len(new_article_list))
+    new_article_list = list(map(expand_article_basic, new_article_list))
 
-    existing_article_list = get_existing_articles()
-    log.info('Got %d existing articles', len(existing_article_list))
+    # group by date, dump and dump
+    date_to_hash_to_article = {}
+    for article in new_article_list:
+        date = article['date']
+        url_hash = article['url_hash']
+        if date not in date_to_hash_to_article:
+            date_to_hash_to_article[date] = {}
+        date_to_hash_to_article[date][url_hash] = article
 
-    # dedupe
-    url_hash_to_article = {}
-    for article in new_article_list + existing_article_list:
-        url_hash_to_article[article['url_hash']] = article
-    deduped_article_list = sorted(
-        url_hash_to_article.values(),
-        key=lambda article: -(int)(article['ut']),
-    )
-    log.info('Got %d combined articles', len(deduped_article_list))
+    for date in date_to_hash_to_article:
+        file_only = 'news_lk.%s.json' % date
 
-    deduped_article_list = list(map(expand_article, deduped_article_list))
+        remote_url = os.path.join(
+            'https://raw.githubusercontent.com',
+            'nuuuwan/news_lk/data/%s' % file_only,
+        )
+        existing_article_list = []
+        if www.exists(remote_url, timeout=5):
+            existing_article_list = www.read_json(remote_url)
 
-    data_file = '/tmp/%s' % DATA_FILE_NAME_ONLY
-    tsv.write(data_file, deduped_article_list)
-    log.info('Wrote %d articles to %s', len(deduped_article_list), data_file)
+        existing_article_hashes = list(
+            map(
+                lambda d: d['url_hash'],
+                existing_article_list,
+            )
+        )
+        upload_article_list = existing_article_list
+        for hash, article in date_to_hash_to_article[date].items():
+            if hash in existing_article_hashes:
+                continue
+            upload_article_list.append(expand_article(article))
+
+        data_file = '/tmp/%s' % file_only
+        jsonx.write(data_file, upload_article_list)
+        log.info(
+            'Wrote %d articles to %s',
+            len(upload_article_list),
+            data_file,
+        )
 
 
 if __name__ == '__main__':
