@@ -16,7 +16,10 @@
 * [2021-07-27 05:52PM] Test new pipeline
 * [2021-07-27 06:03PM] test-new-pipeline2
 * [2021-07-27 06:58PM] Add url_hash to data
+
+## 2021-07-28
 * [2021-07-28 06:43AM] Sort summary table - tsv
 * [2021-07-28 06:51AM] delete-summary-py
 * [2021-07-28 07:01AM] Add DuckDuckGo API
 * [2021-07-28 07:58AM] Refactor Daily Mirror Scrape
+* [2021-07-28 09:26AM] Add Stanford NER
