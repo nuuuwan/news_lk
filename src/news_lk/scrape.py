@@ -1,6 +1,6 @@
 import os
 
-from utils import hashx, timex, tsv, www
+from utils import dt, hashx, timex, tsv, www
 
 from news_lk import scrape_dailymirror, scrape_duckduckgo
 from news_lk._utils import log
@@ -52,7 +52,7 @@ def scrape_and_dump():
         url_hash_to_article[article['url_hash']] = article
     deduped_article_list = sorted(
         url_hash_to_article.values(),
-        key=lambda article: -article['ut'],
+        key=lambda article: -(int)(article['ut']),
     )
     log.info('Got %d combined articles', len(deduped_article_list))
 
