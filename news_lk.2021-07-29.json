@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka restrict India to 132",
+    "source": "island.lk",
+    "snippet": "By Rex Clementine India were forced to hand debut caps to four players for the second T-20 International at RPS yesterday after nearly half their squad were forced to isolate with Kunal Pandya testing positive for COVID.",
+    "url": "https://island.lk/sri-lanka-restrict-india-to-132/",
+    "url_hash": "a2caf078e871f9fabc2c0fd7b1df1cfb",
+    "ut": 1627518645,
+    "ent_ids": [
+      "GPE(India)",
+      "CARDINAL(four)",
+      "ORDINAL(second)",
+      "WORK_OF_ART(T-20 International)",
+      "ORG(RPS)",
+      "DATE(yesterday)",
+      "CARDINAL(nearly half)",
+      "PERSON(Pandya)",
+      "PRODUCT(COVID)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "2nd T20I: Depleted India go down to Sri Lanka by 4 wickets (Ld)",
+    "source": "news.webindia123.com",
+    "snippet": "A below-strength India, who were forced to make seven changes in the XI after nine players were ruled out due to Covid-related issues, stretched Sri Lanka before losing by four wickets in the last over of the second T20 International here on Wednesday night.",
+    "url": "https://news.webindia123.com/news/Articles/Sports/20210729/3794349.html",
+    "url_hash": "0bd4d2cfe382a5d119f891264ca24249",
+    "ut": 1627520145,
+    "ent_ids": [
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "ORG(XI)",
+      "PERSON(Covid)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(four)",
+      "ORDINAL(second)",
+      "EVENT(T20 International)",
+      "TIME(Wednesday night)"
+    ]
+  }
+]
