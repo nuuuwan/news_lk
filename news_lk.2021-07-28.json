@@ -3738,5 +3738,22 @@
       "DATE(Wednesday)",
       "CARDINAL(three)"
     ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "AstraZeneca doses to arrive in SL on Saturday",
+    "source": "www.dailymirror.lk",
+    "snippet": "A stock of 728,460 doses of the much-awaited AstraZeneca vaccines will arrive in Sri Lanka this Saturday (31), State Minister Channa Jayasumana said. ",
+    "url": "https://www.dailymirror.lk/breaking_news/AstraZeneca-doses-to-arrive-in-SL-on-Saturday/108-217056",
+    "url_hash": "96d83e8b7e86d3c5043440d8ee65c062",
+    "ut": 1627430400,
+    "ent_ids": [
+      "CARDINAL(728,460)",
+      "ORG(AstraZeneca)",
+      "GPE(Sri Lanka)",
+      "DATE(this Saturday)",
+      "ORG(State)",
+      "PERSON(Channa Jayasumana)"
+    ]
   }
 ]
