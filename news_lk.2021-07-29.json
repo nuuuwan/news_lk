@@ -249,5 +249,59 @@
       "GPE(Sri Lanka)",
       "DATE(June 17 to July 28 this year)"
     ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lankan government rejects teachers' wage demand",
+    "source": "www.wsws.org",
+    "snippet": "The unions are once again preparing to betray the teachers' struggle following more empty promises from the government about \"ending salary anomalies.\"",
+    "url": "https://www.wsws.org/en/articles/2021/07/29/slte-j29.html",
+    "url_hash": "423095a5e2b52a7202489fd9fe489b1b",
+    "ut": 1627534294,
+    "ent_ids": []
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Vaccine card to be made compulsory for inter-provincial travel from August 1: LPBOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Lanka Private Bus Owners\u2019 Association (LPBOA) has decided to make COVID vaccine cards compulsory for inter provincial travelling from August 1. ",
+    "url": "https://www.dailymirror.lk/latest_news/Vaccine-card-to-be-made-compulsory-for-inter-provincial-travel-from-August-1-LPBOA/342-217114",
+    "url_hash": "ec38166846a2f10b92b98fc89be0b27b",
+    "ut": 1627534605,
+    "ent_ids": [
+      "ORG(The Lanka Private Bus Owners\u2019 Association)",
+      "DATE(August 1)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Woman arrested with Rs. 60 mn transaction in bank accounts during 4 yrs",
+    "source": "www.dailymirror.lk",
+    "snippet": "The CID has arrested a 41-year old woman from Dehiwala under the Money Laundering Act for maintaining five bank accounts in which she had transactions up to a staggering Rs. 60 million which suspected to have been earned from drugs trafficking ",
+    "url": "https://www.dailymirror.lk/latest_news/Woman-arrested-with-Rs-60-mn-transaction-in-bank-accounts-during-4-yrs/342-217111",
+    "url_hash": "205da7431cd745fd77f5e9cfb9990e2d",
+    "ut": 1627528065,
+    "ent_ids": [
+      "ORG(CID)",
+      "DATE(41-year old)",
+      "GPE(Dehiwala)",
+      "LAW(the Money Laundering Act)",
+      "CARDINAL(five)",
+      "CARDINAL(60 million)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "New unit to monitor child ponography: Over 17,000 videos, pictures uploaded to cyberspace since last month",
+    "source": "www.dailymirror.lk",
+    "snippet": "More than 17,000 video clips and photographs related to child ponography have been uploaded to the cyberspace from Sri Lanka through various devices since June 17 to July 28 this year. ",
+    "url": "https://www.dailymirror.lk/breaking_news/New-unit-to-monitor-child-ponography-Over-17-000-videos-pictures-uploaded-to-cyberspace-since-last-month/108-217092",
+    "url_hash": "41b2ac787f301616aa9f58b7cfb4ff4a",
+    "ut": 1627528065,
+    "ent_ids": [
+      "CARDINAL(More than 17,000)",
+      "GPE(Sri Lanka)",
+      "DATE(June 17 to July 28 this year)"
+    ]
   }
 ]
