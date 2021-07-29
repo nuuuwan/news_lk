@@ -1951,5 +1951,92 @@
       "PERSON(Vaccine Lalith Weerathunge)",
       "DATE(today)"
     ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka vs India",
+    "source": "www.msn.com",
+    "snippet": "India vs Sri Lanka (IND vs SL) 3rd T20I Live Cricket Score Updates: Sri Lanka hammer India by seven wickets in the decider and take the series 2-1, snapping their own losing streak and bringing India's winning run in T20Is to an end!",
+    "url": "https://www.msn.com/en-in/sports/other/highlights-india-vs-sri-lanka-3rd-t20i-full-cricket-score-sri-lanka-win-by-7-wickets-clinch-series-2-1/ar-AAMIceF",
+    "url_hash": "f34e0363e1bf89c2f8e2c45e5d6b7979",
+    "ut": 1627581523,
+    "ent_ids": [
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "ORDINAL(3rd)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "CARDINAL(2)",
+      "GPE(India)",
+      "LANGUAGE(T20Is)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "SL vs Ind third T20I: Sri Lanka thrashes India to win series 2-1",
+    "source": "www.thehindu.com",
+    "snippet": "Sri Lanka spinners led by leg-spinner Wanindu Hasaranga rattled a depleted Indian batting to engineer a 2-1 series victory with a seven-wicket win in the third T20 International in Colombo on Thursday.",
+    "url": "https://www.thehindu.com/sport/cricket/india-tour-of-sri-lanka-sri-lanka-vs-india-third-t20-international-in-colombo/article35616553.ece",
+    "url_hash": "1fd467aeeb33010e6ba01ed28634939b",
+    "ut": 1627580803,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "PERSON(Wanindu Hasaranga)",
+      "NORP(Indian)",
+      "CARDINAL(2)",
+      "CARDINAL(seven)",
+      "ORDINAL(third)",
+      "DATE(Thursday)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Ind vs SL: Sri Lanka seal series 2-1 after easy win over India in third T20I",
+    "source": "www.catchnews.com",
+    "snippet": "Sri Lanka needed 82 runs to win against the depleted Indian side in the series decider and the hosts chase down the target comfortably inside 15 overs.",
+    "url": "http://www.catchnews.com/cricket-news/ind-vs-sl-sri-lanka-seal-series-2-1-after-easy-win-over-india-in-third-t20i-220546.html",
+    "url_hash": "af9ee9b9160ff4700da087d14813577f",
+    "ut": 1627581043,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "DATE(82)",
+      "NORP(Indian)",
+      "CARDINAL(15)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka expose India's young batsmen's struggles against spin, claim series 2-1",
+    "source": "www.dailypioneer.com",
+    "snippet": "Exposing India's young batsmen's inability to tackle spin, Sri Lanka conjured up a seven-wicket victory in the deciding third Twenty20 to hand the fancied Asian neighbours a 2-1 series defeat, here on Thursday.",
+    "url": "https://www.dailypioneer.com/2021/sports/sri-lanka-expose-india-s-young-batsmen-s-struggles-against-spin--claim-series-2-1.html",
+    "url_hash": "0bcd6514ccf4e2e46a63a0e9c252e266",
+    "ut": 1627581763,
+    "ent_ids": [
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(seven)",
+      "ORDINAL(third)",
+      "NORP(Asian)",
+      "CARDINAL(2)",
+      "DATE(Thursday)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka register first bilateral series win over India in 13 years",
+    "source": "www.cricbuzz.com",
+    "snippet": "Sri Lanka ending a long-lasting drought, India's ignominious batting debacle and other stats highlights from the third T20 International. 2008 The last time Sri Lanka beat India in a bilateral series across formats.",
+    "url": "https://www.cricbuzz.com/cricket-news/118379/sri-lanka-register-first-bilateral-series-win-over-india-in-13-years",
+    "url_hash": "1f05c2180861d0471d5b7829e5ca1a04",
+    "ut": 1627581583,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "ORDINAL(third)",
+      "GPE(Sri Lanka)",
+      "GPE(India)"
+    ]
   }
 ]
