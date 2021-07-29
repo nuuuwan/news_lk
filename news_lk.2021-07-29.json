@@ -38,5 +38,35 @@
       "EVENT(T20 International)",
       "TIME(Wednesday night)"
     ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka lay bare the batting frailties of India",
+    "source": "www.cricbuzz.com",
+    "snippet": "In this forced batting imbalance, Sri Lanka found their first leap towards series parity. Dasun Shanaka could barely hide his delight at winning another toss, and in went the visiting side to bat first,",
+    "url": "https://www.cricbuzz.com/cricket-news/118375/sri-lanka-lay-bare-the-batting-frailties-of-india",
+    "url_hash": "aad59c9b9a5a188dbbd3ae3351e9cbe6",
+    "ut": 1627523904,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "ORDINAL(first)",
+      "ORDINAL(first)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Chinese Prime Minister Li Keqiang to visit Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Chinese Prime Minister Li Keqiang is likely to visit Sri Lanka in September.   The Virakesari newspaper reported that Pri",
+    "url": "https://menafn.com/1102523056/Chinese-Prime-Minister-Li-Keqiang-to-visit-Sri-Lanka",
+    "url_hash": "91a821f67f5781572bbb62adae38665d",
+    "ut": 1627522884,
+    "ent_ids": [
+      "NORP(Chinese)",
+      "PERSON(Li Keqiang)",
+      "GPE(Sri Lanka)",
+      "DATE(September)",
+      "ORG(Virakesari)"
+    ]
   }
 ]
