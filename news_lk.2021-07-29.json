@@ -2498,5 +2498,69 @@
       "DATE(Wednesday)",
       "NORP(Sri Lankan)"
     ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka exposes India's young batsmen's struggles against spin, claims series by 2-1",
+    "source": "www.dailyexcelsior.com",
+    "snippet": "Exposing India's young batsmen's inability to tackle spin, Sri Lanka conjured up a seven-wicket victory in the deciding third Twenty20",
+    "url": "https://www.dailyexcelsior.com/sri-lanka-exposes-indias-young-batsmens-struggles-against-spin-claims-series-by-2-1/",
+    "url_hash": "8b250d6d59f4bd00332c963f8d60ad8b",
+    "ut": 1627594218,
+    "ent_ids": [
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(seven)",
+      "ORDINAL(third)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka FOB prices for black tea highest in the world",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka\u0432\u0402\u2122s Free On Board (FOB) prices for black tea are the highest in the world, Asia Siyaka Commodities PLC revealed yesterday. ..",
+    "url": "https://www.ft.lk/front-page/Sri-Lanka-FOB-prices-for-black-tea-highest-in-the-world/44-721065",
+    "url_hash": "78ec57702093f18ac9a749dceee0e953",
+    "ut": 1627595298,
+    "ent_ids": [
+      "ORG(Free On Board)",
+      "ORG(Asia Siyaka Commodities PLC)",
+      "DATE(yesterday)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka Thrash India To Clinch T20 Series 2-1",
+    "source": "www.barrons.com",
+    "snippet": "Sri Lanka hammered India by seven wickets in the deciding Twenty20 international to clinch the three-match series 2-1 on Thursday.",
+    "url": "https://www.barrons.com/news/sri-lanka-thrash-india-to-clinch-t20-series-2-1-01627580107",
+    "url_hash": "4286f141bfa0458d685e01504e0b5089",
+    "ut": 1627594398,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "CARDINAL(three)",
+      "CARDINAL(2-1)",
+      "DATE(Thursday)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka seal series after easy win over India in 3rd T20",
+    "source": "www.malaysiasun.com",
+    "snippet": "Wanindu Hasaranga picked four wickets before Sri Lankan batsmen wrapped an easy win in the third and final T20I against India to clinch the three-match series 2",
+    "url": "https://www.malaysiasun.com/news/270498142/sri-lanka-seal-series-after-easy-win-over-india-in-3rd-t20",
+    "url_hash": "c55dba7e53e038db45cd1cf56f89799e",
+    "ut": 1627585698,
+    "ent_ids": [
+      "PERSON(Wanindu Hasaranga)",
+      "CARDINAL(four)",
+      "NORP(Sri Lankan)",
+      "ORDINAL(third)",
+      "GPE(India)",
+      "CARDINAL(three)",
+      "CARDINAL(2)"
+    ]
   }
 ]
