@@ -2562,5 +2562,71 @@
       "CARDINAL(three)",
       "CARDINAL(2)"
     ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "India vs Sri Lanka 3rd T20I Highlights: Sri Lanka crush India by seven wickets to clinch series 2-1",
+    "source": "timesofindia.indiatimes.com",
+    "snippet": "Sri Lanka held their nerve to sink a depleted India in low-scoring thriller on Thursday. With the T20I series now level at 1-1, India will be hoping for an improved performance from the youngsters as Shikhar Dhawan and co.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-sri-lanka/india-vs-sri-lanka-3rd-t20i-live-cricket-score-updates/amp_liveblog/84859481.cms",
+    "url_hash": "5d449bc3015367f7c4905b396dc753ce",
+    "ut": 1627596664,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "DATE(Thursday)",
+      "GPE(India)",
+      "PERSON(Shikhar Dhawan)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Hospital presentations for self-poisoning during COVID-19 in Sri Lanka: an interrupted time-series analysis",
+    "source": "www.thelancet.com",
+    "snippet": "This is the first study from a lower-middle-income country to estimate the impact of the pandemic on self-harm (non-fatal) accounting for underlying trends. If the fall in hospital presentations during the pandemic reflects a reduction in the medical treatment of people who have self-poisoned,",
+    "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00242-X/fulltext",
+    "url_hash": "e1a3c8527fbb9860fa4f0c0353c1c546",
+    "ut": 1627599184,
+    "ent_ids": [
+      "ORDINAL(first)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "3rd T20I: Sri Lanka beat India by 7 wickets, win series (Ld)",
+    "source": "www.sify.com",
+    "snippet": "Sri Lanka crushed a depleted India by seven wickets to win the third and final T20 International and clinch the three-game series 2-1 here at the R Premadasa Stadium on Thursday.",
+    "url": "https://www.sify.com/sports/3rd-t20i-sri-lanka-beat-india-by-7-wickets-win-series-ld-news-cricket-vh3sPgjhebihi.html",
+    "url_hash": "250b2d768d7155cf68ec77d6e62151b0",
+    "ut": 1627585684,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "ORDINAL(third)",
+      "CARDINAL(three)",
+      "CARDINAL(2)",
+      "ORG(the R Premadasa Stadium)",
+      "DATE(Thursday)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "3rd T20I: India restricted to 81/8 by Sri Lanka",
+    "source": "news.webindia123.com",
+    "snippet": "An under-strength India, devoid of batting depth, were restricted to 81/8 in their 20 overs in the third and final T20 International against Sri Lanka here at the R Premadasa Stadium on Thursday. Opting to bat first,",
+    "url": "https://news.webindia123.com/news/Articles/Sports/20210730/3794880.html",
+    "url_hash": "ff56184242aa996c8886e66589cdc56f",
+    "ut": 1627597624,
+    "ent_ids": [
+      "GPE(India)",
+      "CARDINAL(81/8)",
+      "CARDINAL(20)",
+      "ORDINAL(third)",
+      "GPE(Sri Lanka)",
+      "ORG(the R Premadasa Stadium)",
+      "DATE(Thursday)",
+      "ORDINAL(first)"
+    ]
   }
 ]
