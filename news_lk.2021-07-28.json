@@ -3675,5 +3675,49 @@
       "CARDINAL(only five)",
       "CARDINAL(133)"
     ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Second T20: Sri Lanka beat depleted India by 4 wickets to keep series alive",
+    "source": "www.tribuneindia.com",
+    "snippet": "Dhananjaya de Silva (40 not out) anchored a tricky Lankan chase after India scored 132 for five. The hosts won with two balls to spare A depleted Indian team, playing with only five batsmen, could not defend a modest target of 133 despite a valiant effort from its players as Sri Lanka kept the three-match series alive with a four-wicket victory in the second T20 International here on Wednesday.",
+    "url": "https://www.tribuneindia.com/news/sports/second-t20-sri-lanka-beat-depleted-india-by-4-wickets-to-keep-series-alive-289586",
+    "url_hash": "d30fd5aa7788ce7396bd00fceaaad82b",
+    "ut": 1627502893,
+    "ent_ids": [
+      "PERSON(Dhananjaya de Silva)",
+      "CARDINAL(40)",
+      "NORP(Lankan)",
+      "GPE(India)",
+      "CARDINAL(132)",
+      "CARDINAL(five)",
+      "CARDINAL(two)",
+      "NORP(Indian)",
+      "CARDINAL(only five)",
+      "CARDINAL(133)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(three)",
+      "CARDINAL(four)",
+      "ORDINAL(second)",
+      "EVENT(T20 International)",
+      "DATE(Wednesday)"
+    ]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "AstraZeneca doses to arrive in SL on Saturday",
+    "source": "www.dailymirror.lk",
+    "snippet": "A stock of 728,460 doses of the much-awaited AstraZeneca vaccines will arrive in Sri Lanka this Saturday (31), State Minister Channa Jayasumana said. ",
+    "url": "https://www.dailymirror.lk/latest_news/AstraZeneca-doses-to-arrive-in-SL-on-Saturday/342-217056",
+    "url_hash": "093e436e858653098c502111e8516210",
+    "ut": 1627430400,
+    "ent_ids": [
+      "CARDINAL(728,460)",
+      "ORG(AstraZeneca)",
+      "GPE(Sri Lanka)",
+      "DATE(this Saturday)",
+      "ORG(State)",
+      "PERSON(Channa Jayasumana)"
+    ]
   }
 ]
