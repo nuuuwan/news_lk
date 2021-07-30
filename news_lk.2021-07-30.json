@@ -1151,5 +1151,63 @@
       "GPE(Pakistan)",
       "PERSON(Dasun Shanaka)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka Cricket Ban Danushka Gunathilaka, Kusal Mendis And Niroshan Dickwella From International Cricket For One Year",
+    "source": "www.india.com",
+    "snippet": "The trio has been banned for six months from the domestic circuit. Moreover, the trio has been fined a huge amount of 10 million Sri Lanka rupees in relation to their bio bubble.",
+    "url": "https://www.india.com/sports/sri-lanka-cricket-ban-danushka-gunathilaka-kusal-mendis-and-niroshan-dickwella-from-international-cricket-for-one-year-4853625/",
+    "url_hash": "7a95593f3f5b0a94b117ec15d048e1db",
+    "ut": 1627650486,
+    "ent_ids": [
+      "DATE(six months)",
+      "MONEY(10 million)",
+      "GPE(Sri Lanka)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Four learnings for second-string Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "It was in the ODI series against West Indies in early 2020 that he really announced himself, before becoming the Lanka Premier League's player of the tournament late in the year. Now, 20 innings into his T20I career,",
+    "url": "https://www.msn.com/en-in/sports/cricket/four-learnings-for-second-string-sri-lanka/ar-AAMKzKH",
+    "url_hash": "26dbb0c359697cae7b2b23ef6dfc1dd5",
+    "ut": 1627656426,
+    "ent_ids": [
+      "ORG(ODI)",
+      "ORG(West Indies)",
+      "DATE(early 2020)",
+      "DATE(the year)",
+      "CARDINAL(20)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "56 more succumb to COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 56 more COVID-19 related deaths that occurred yesterday (29) were confirmed by the Director-General of Health Services today pushing the death toll to  4380. ",
+    "url": "https://www.dailymirror.lk/latest_news/56-more-succumb-to-COVID-19/342-217223",
+    "url_hash": "c02fd9d0c05eb18aef9e469412277cea",
+    "ut": 1627655539,
+    "ent_ids": [
+      "CARDINAL(56)",
+      "DATE(yesterday)",
+      "CARDINAL(29)",
+      "DATE(today)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "President directs officials to conduct survey on unvaccinated people",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has instructed the officials to conduct a survey on the people who have not received a Covid-19 vaccine yet, Presidential Media Division (PMD) said. ",
+    "url": "https://www.dailymirror.lk/latest_news/President-directs-officials-to-conduct-survey-on-unvaccinated-people/342-217221",
+    "url_hash": "2f17e0461416cd1a721a83f3de1816ec",
+    "ut": 1627654459,
+    "ent_ids": [
+      "PERSON(Gotabaya Rajapaksa)",
+      "ORG(Presidential Media Division)"
+    ]
   }
 ]
