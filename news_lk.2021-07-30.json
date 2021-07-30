@@ -1807,5 +1807,83 @@
       "CARDINAL(1)",
       "NORP(Sri Lankan)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Two more Indian cricketers test Covid positive in Sri Lanka",
+    "source": "www.livemint.com",
+    "snippet": "Covid has cast a dark shadow over the whole series of three one-day internationals and three Twenty20 games which ended Thursday",
+    "url": "https://www.livemint.com/news/india/two-more-indian-cricketers-test-covid-positive-in-sri-lanka-11627642015120.html",
+    "url_hash": "29ef3511fc8c1eb585e84d7b9f1098fd",
+    "ut": 1627685463,
+    "ent_ids": [
+      "CARDINAL(three)",
+      "DATE(one-day)",
+      "CARDINAL(three)",
+      "DATE(Thursday)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka bans 3 cricketers for breaching virus bubble",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka cricket officials have banned three national team players for one year from international cricket and fined them $50,000 each for breaching a bio-secure bubble during the recent tour of England.",
+    "url": "https://apnews.com/article/sports-health-coronavirus-pandemic-sri-lanka-cricket-dc6d9e4c4b72f3c69110441ba49027fb",
+    "url_hash": "32e1685404425c472b056ecfc2c245b4",
+    "ut": 1627672083,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "CARDINAL(three)",
+      "DATE(one year)",
+      "MONEY(50,000)",
+      "GPE(England)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Chahal, Krishnappa Gowtham test positive; to stay back in Sri Lanka: BCCI official",
+    "source": "www.dailyexcelsior.com",
+    "snippet": "Indian cricketers Krishnappa Gowtham and Yuzvendra Chahal have been forced to stay back in Sri Lanka after testing positive for COVID-19",
+    "url": "https://www.dailyexcelsior.com/chahal-krishnappa-gowtham-test-positive-to-stay-back-in-sri-lanka-bcci-official/",
+    "url_hash": "fb58f1fb8bec033fbd7b946cd3fa4bb8",
+    "ut": 1627679283,
+    "ent_ids": [
+      "NORP(Indian)",
+      "PERSON(Krishnappa Gowtham)",
+      "PERSON(Yuzvendra Chahal)",
+      "GPE(Sri Lanka)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "WHO congratulates Sri Lanka for administering over 500,000 vaccines in single day",
+    "source": "www.china.org.cn",
+    "snippet": "The World Health Organization (WHO) on Friday congratulated the Sri Lankan government for administering a record number of over 500,000 COVID-19 vaccines in a single day on Thursday. In a statement on its official Twitter account,",
+    "url": "http://www.china.org.cn/world/Off_the_Wire/2021-07/30/content_77663630.htm",
+    "url_hash": "db0a84cfc201cec4d424f724071003a0",
+    "ut": 1627679283,
+    "ent_ids": [
+      "ORG(The World Health Organization)",
+      "DATE(Friday)",
+      "NORP(Sri Lankan)",
+      "CARDINAL(over 500,000)",
+      "DATE(a single day)",
+      "DATE(Thursday)",
+      "PERSON(Twitter)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Glasgow woman raped on Sri Lanka holiday finally gets justice 11 years after traumatising attack",
+    "source": "www.lankaweb.com",
+    "snippet": "By Sarah Ward Courtesy Glasgow Times. A TOURIST who was raped by a hotel worker at a glamorous resort in Sri Lanka 11 years ago has finally won her quest for justice after the tou",
+    "url": "https://www.lankaweb.com/news/items/2021/07/30/glasgow-woman-raped-on-sri-lanka-holiday-finally-gets-justice-11-years-after-traumatising-attack/",
+    "url_hash": "86883e063c2ea2450b32d38b24ff0539",
+    "ut": 1627682883,
+    "ent_ids": [
+      "PERSON(Sarah Ward)",
+      "GPE(Sri Lanka)",
+      "DATE(11 years ago)"
+    ]
   }
 ]
