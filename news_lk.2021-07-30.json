@@ -255,5 +255,92 @@
       "ORG(SJB)",
       "PERSON(Rajitha Senaratne)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka vs India: Krunal Pandya Remains In Isolation As Team India Leave Sri Lanka, Says Report",
+    "source": "sports.ndtv.com",
+    "snippet": "According to a PTI report, the Indian cricket contingent on Friday left the Sri Lankan shores after completing a six-match white-ball series but visiting all-rounder Krunal Pandya remained in mandatory isolation to recover from COVID-19.",
+    "url": "https://sports.ndtv.com/sri-lanka-vs-india-2021/sri-lanka-vs-india-krunal-pandya-remains-in-isolation-as-team-india-leave-sri-lanka-says-report-2498396",
+    "url_hash": "cec5b2a4a27a793bc0638952933f098d",
+    "ut": 1627624393,
+    "ent_ids": [
+      "ORG(PTI)",
+      "NORP(Indian)",
+      "DATE(Friday)",
+      "NORP(Sri Lankan)",
+      "CARDINAL(six)",
+      "PERSON(Krunal Pandya)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Birthday boy Hasaranga stars as Sri Lanka clinch T20 series",
+    "source": "www.jamaicaobserver.com",
+    "snippet": "Spinner Wanindu Hasaranga took four wickets on his 24th birthday to help Sri Lanka thrash India by seven wickets yesterday and claim the three-match Twenty20 series 2-1. Hasaranga returned career-best T20 figures of 4-9 with his leg-spin as India finished on a paltry 81-8,",
+    "url": "https://www.jamaicaobserver.com/sports/birthday-boy-hasaranga-stars-as-sri-lanka-clinch-t20-series_227536?profile=1498",
+    "url_hash": "e177401d269d2bb281ad795017c8d1c0",
+    "ut": 1627623853,
+    "ent_ids": [
+      "PERSON(Spinner Wanindu Hasaranga)",
+      "CARDINAL(four)",
+      "ORDINAL(24th)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "DATE(yesterday)",
+      "CARDINAL(three)",
+      "CARDINAL(2)",
+      "GPE(Hasaranga)",
+      "CARDINAL(4-9)",
+      "GPE(India)",
+      "CARDINAL(81-8)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Cricket: Shikhar Dhawan says, 'it was a difficult situation' as Sri Lanka win first bilateral series win over India since 2008",
+    "source": "www.wionews.com",
+    "snippet": "Shikhar Dhawan, the skipper of India's tour to Sri Lanka praised the \"tremendous\" attitude of the team despite losing the T20I series 2-1 against the Lankans. In the post-match presentation, Dhawan, who fell for a golden duck in the opening over,",
+    "url": "https://www.wionews.com/sports/cricket-shikhar-dhawan-says-it-was-a-difficult-situation-as-sri-lanka-win-first-bilateral-series-win-over-india-since-2008-401649",
+    "url_hash": "de6fe5fb5c95cca9baf71f2f687c31b3",
+    "ut": 1627610893,
+    "ent_ids": [
+      "PERSON(Shikhar Dhawan)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(2)",
+      "NORP(Lankans)",
+      "PERSON(Dhawan)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sanju Samson would be disappointed looking back at series against Sri Lanka: Rahul Dravid",
+    "source": "www.crictracker.com",
+    "snippet": "Sanju Samson has now failed in nine consecutive T20I matches since last year and these are not good signs for the wicketkeeping-batsman.",
+    "url": "https://www.crictracker.com/sanju-samson-would-be-disappointed-looking-back-at-series-against-sri-lanka-rahul-dravid/",
+    "url_hash": "eb1a01bbc68f63e0a7c78af24a00ef81",
+    "ut": 1627624753,
+    "ent_ids": [
+      "PERSON(Sanju Samson)",
+      "CARDINAL(nine)",
+      "DATE(last year)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka sees highest single-day vaccination total",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka on Thursday administered more than 500,000 COVID-19 vaccine doses making it highest single-day number of jabs. ",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-sees-highest-single-day-vaccination-total/108-217197",
+    "url_hash": "bc744887304cf4757a683417922f77af",
+    "ut": 1627621707,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "DATE(Thursday)",
+      "CARDINAL(more than 500,000)",
+      "DATE(single-day)"
+    ]
   }
 ]
