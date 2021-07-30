@@ -1572,5 +1572,57 @@
       "CARDINAL(306,662)",
       "ORG(the Government Information Department)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka trio handed one-year bans over Covid breach",
+    "source": "www.bbc.co.uk",
+    "snippet": "Sri Lanka Cricket has handed one-year international bans to Kusal Mendis, Danushka Gunathilaka and Niroshan Dickwella after they breached bio-secure protocols during tour of England in June.",
+    "url": "https://www.bbc.co.uk/sport/cricket/58031992",
+    "url_hash": "51e37c632b76d4c9b5c915b8c728a886",
+    "ut": 1627661249,
+    "ent_ids": [
+      "ORG(Sri Lanka Cricket)",
+      "DATE(one-year)",
+      "PERSON(Kusal Mendis)",
+      "PERSON(Danushka Gunathilaka)",
+      "PERSON(Niroshan Dickwella)",
+      "GPE(England)",
+      "DATE(June)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka Bans 3 Cricketers For Breaching Virus Bubble",
+    "source": "www.news18.com",
+    "snippet": "Sri Lanka cricket officials have banned three national team players for one year from international cricket and fined them $50,000 each for breaching a bio-secure bubble during the recent tour of England.",
+    "url": "https://www.news18.com/cricketnext/news/sri-lanka-bans-3-cricketers-for-breaching-virus-bubble-4028015.html",
+    "url_hash": "55d172c3a67bec64acf99b574a492efd",
+    "ut": 1627671809,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "CARDINAL(three)",
+      "DATE(one year)",
+      "MONEY(50,000)",
+      "GPE(England)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka bans three stars for one year over Covid breach",
+    "source": "www.france24.com",
+    "snippet": "Sri Lanka Friday slapped a one-year international ban on three top cricketers for breaching Covid-19 regulations while on tour in England. The lengthy bans and $50,000 fines were ordered after vice-captain Kusal Mendis,",
+    "url": "https://www.france24.com/en/live-news/20210730-sri-lanka-bans-three-stars-for-one-year-over-covid-breach",
+    "url_hash": "25283f2dbb2539bdd3b1511dcbbe0053",
+    "ut": 1627661249,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "DATE(Friday)",
+      "DATE(one-year)",
+      "CARDINAL(three)",
+      "GPE(England)",
+      "MONEY($50,000 fines)",
+      "PERSON(Kusal Mendis)"
+    ]
   }
 ]
