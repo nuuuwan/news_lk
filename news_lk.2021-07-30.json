@@ -920,5 +920,67 @@
       "ORG(MP Rishad Bathiudeen\u2019s)",
       "ORDINAL(second)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "South Africa to tour Sri Lanka for a limited-overs series in September",
+    "source": "www.sportskeeda.com",
+    "snippet": "South Africa will play a limited-overs series against Sri Lanka comprising of 3 ODIs and 3 T20Is in September. All fixtures will be contested at the R Premadasa Stadium in Colombo, the same venue where Sri Lanka hosted India during their tour.",
+    "url": "https://www.sportskeeda.com/cricket/south-africa-tour-sri-lanka-limited-overs-series",
+    "url_hash": "2f045358c0d08e5ae1bc5d1d018a466a",
+    "ut": 1627646090,
+    "ent_ids": [
+      "GPE(South Africa)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(3)",
+      "DATE(September)",
+      "ORG(the R Premadasa Stadium in Colombo)",
+      "GPE(Sri Lanka)",
+      "GPE(India)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Two more Indian cricketers test Covid-19 positive in Sri Lanka",
+    "source": "www.daily-sun.com",
+    "snippet": "Two moreIndian players have contracted coronavirus, with the three infected players remaining in Sri Lanka as the rest of the squad started leaving, officials said Friday. All-rounder Krishnappa Gowth",
+    "url": "https://www.daily-sun.com/post/567459/Two-more-Indian-cricketers-test-Covid19-positive-in-Sri-Lanka",
+    "url_hash": "8e65c5ae59ed80ea2feceea2706d5fcb",
+    "ut": 1627645670,
+    "ent_ids": [
+      "CARDINAL(Two)",
+      "NORP(moreIndian)",
+      "CARDINAL(three)",
+      "GPE(Sri Lanka)",
+      "DATE(Friday)",
+      "PERSON(Krishnappa Gowth)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Yuzvendra Chahal, Krishnappa Gowtham Test COVID Positive, Stay Back In Sri Lanka With Krunal Pandya",
+    "source": "www.outlookindia.com",
+    "snippet": "Gowtham and Chahal, deemed as close contacts of Krunal, have been found positive and will thus stay back in Sri Lanka",
+    "url": "https://www.outlookindia.com/website/story/sports-news-yuzvendra-chahal-krishnappa-gowtham-test-covid-positive-stay-back-in-sri-lanka-with-krunal-pandya/389959",
+    "url_hash": "2ed76388e9034849a777c5f57bda6022",
+    "ut": 1627645970,
+    "ent_ids": [
+      "ORG(Gowtham)",
+      "ORG(Chahal)",
+      "GPE(Sri Lanka)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "CP governor approves feasibility study for proposed Kandy cable car project",
+    "source": "www.dailymirror.lk",
+    "snippet": "Central Province (CP) Governor Lalith U Gamage today granted permission to conduct a feasibility study for the proposed cable car project as a suitable solution to reduce traffic congestion and pollution in Kandy city. ",
+    "url": "https://www.dailymirror.lk/latest_news/CP-governor-approves-feasibility-study-for-proposed-Kandy-cable-car-project/342-217212",
+    "url_hash": "05226e1ad0b6959345c1db746d0a298e",
+    "ut": 1627643344,
+    "ent_ids": [
+      "GPE(Central Province)",
+      "DATE(today)"
+    ]
   }
 ]
