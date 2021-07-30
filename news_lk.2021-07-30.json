@@ -342,5 +342,100 @@
       "CARDINAL(more than 500,000)",
       "DATE(single-day)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Yuzvendra Chahal, K. Gowtham Test Positive For Covid-19 in Sri Lanka: Report",
+    "source": "www.india.com",
+    "snippet": "Colombo: A day after Shikhar Dhawan-led India lost the T20I series against Sri Lanka, a report suggests that Yuzvendra Chahal and K. Gowtham have tested positive for Coronavirus. The report on Cricinfo suggests that Krunal Pandya and six others - Krunal's brother Hardik,",
+    "url": "https://www.india.com/sports/yuzvendra-chahal-k-gowtham-test-positive-for-covid-19-in-sri-lanka-report-4852430/",
+    "url_hash": "9136bee6052bddb181084d9dddd6106a",
+    "ut": 1627621658,
+    "ent_ids": [
+      "PERSON(Shikhar Dhawan-led)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "PERSON(Yuzvendra Chahal)",
+      "ORG(K. Gowtham)",
+      "ORG(Coronavirus)",
+      "PERSON(Cricinfo)",
+      "ORG(Krunal Pandya)",
+      "CARDINAL(six)",
+      "PERSON(Hardik)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Are Pakistan-Sri Lanka Ties Emerging From India's Shadow?",
+    "source": "thediplomat.com",
+    "snippet": "From Imran Khan's visit to stronger trade ties, Pakistan's much-touted shift from geopolitics to geoeconomics is on display in Sri Lanka.",
+    "url": "https://thediplomat.com/2021/07/are-pakistan-sri-lanka-ties-emerging-from-indias-shadow/",
+    "url_hash": "88d46374a1a407412053bda17a708b7d",
+    "ut": 1627627178,
+    "ent_ids": [
+      "PERSON(Imran Khan's)",
+      "GPE(Pakistan)",
+      "GPE(Sri Lanka)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Cricket: Shikhar Dhawan says, 'it was a difficult situation' as Sri Lanka win first bilateral series win over India since 2008",
+    "source": "www.msn.com",
+    "snippet": "Shikhar Dhawan, the skipper of India's tour to Sri Lanka praised the \"tremendous\" attitude of the team despite losing the T20I series 2-1 against the Lankans. In the post-match presentation, Dhawan, who fell for a golden duck in the opening over,",
+    "url": "https://www.msn.com/en-in/sports/other/cricket-shikhar-dhawan-says-it-was-a-difficult-situation-as-sri-lanka-win-first-bilateral-series-win-over-india-since-2008/ar-AAMJsfd",
+    "url_hash": "68896f7b8220da7081da0ef586b3b2af",
+    "ut": 1627610858,
+    "ent_ids": [
+      "PERSON(Shikhar Dhawan)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(2)",
+      "NORP(Lankans)",
+      "PERSON(Dhawan)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka cricket trio face long bans for virus breach",
+    "source": "ewn.co.za",
+    "snippet": "The five-member panel told Sri Lanka Cricket that vice-captain Kusal Mendis and opening batter Danushka Gunathilaka should be barred from all forms of the game for two years, the sources said.",
+    "url": "https://ewn.co.za/2021/07/30/sri-lanka-cricket-trio-face-long-bans-for-virus-breach",
+    "url_hash": "a190bd4b1cbd2e57605356a64c0cd112",
+    "ut": 1627627178,
+    "ent_ids": [
+      "CARDINAL(five)",
+      "ORG(Sri Lanka Cricket)",
+      "PERSON(Kusal Mendis)",
+      "PERSON(Danushka Gunathilaka)",
+      "DATE(two years)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "India VS Sri Lanka: Two more Indian players tested COVID positive",
+    "source": "asianage.com",
+    "snippet": "Chahal and Gowtham were isolated after having come in close contact with Krunal Pandya, who tested positive earlier",
+    "url": "https://asianage.com/sports/cricket/300721/india-vs-sri-lanka-two-more-indian-players-tested-covid-positive.html",
+    "url_hash": "7c892d01959baaebb852682eecb7dee2",
+    "ut": 1627627238,
+    "ent_ids": [
+      "PERSON(Gowtham)",
+      "ORG(Krunal Pandya)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Price of domestic electrical wiring reduced",
+    "source": "www.dailymirror.lk",
+    "snippet": "The price of domestic electrical wiring has been reduced by 11%, State Minister Lasantha Alagiyawanna said. ",
+    "url": "https://www.dailymirror.lk/breaking_news/Price-of-domestic-electrical-wiring-reduced/108-217199",
+    "url_hash": "ffceaea76920268323a2e40c4bdd1c11",
+    "ut": 1627625282,
+    "ent_ids": [
+      "PERCENT(11%)",
+      "ORG(State)",
+      "PERSON(Lasantha Alagiyawanna)"
+    ]
   }
 ]
