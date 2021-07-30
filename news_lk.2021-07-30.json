@@ -982,5 +982,120 @@
       "GPE(Central Province)",
       "DATE(today)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Cricket: 'I'm not disappointed,' says Rahul Dravid to young batsmen after Sri Lanka's T20I series win over India",
+    "source": "www.wionews.com",
+    "snippet": "Rahul Dravid, the coach of India's tour to Sri Lanka said that he is not \"disappointed\" with\u00a0the batting performance of young batsmen after India lost the T20I series 2-1 to Lankans. At the post-match press conference,",
+    "url": "https://www.wionews.com/sports/cricket-im-not-disappointed-says-rahul-dravid-to-young-batsmen-after-sri-lankas-t20i-series-win-over-india-401771",
+    "url_hash": "878cbe382efad456ebea5d342706a30b",
+    "ut": 1627643455,
+    "ent_ids": [
+      "PERSON(Rahul Dravid)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(2-1)",
+      "NORP(Lankans)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka Ends Work-from-home Option Despite Virus Surge",
+    "source": "www.barrons.com",
+    "snippet": "Sri Lanka announced Friday it was ending its work-from-home option for civil servants, ordering all 1.2 million back to the office from Monday despite a surge in coronavirus infections.",
+    "url": "https://www.barrons.com/news/sri-lanka-ends-work-from-home-option-despite-virus-surge-01627646547",
+    "url_hash": "37f8b7833062ac393fd637b837165a5b",
+    "ut": 1627647055,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "DATE(Friday)",
+      "CARDINAL(1.2 million)",
+      "DATE(Monday)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sanju Samson would be disappointed looking back at series against Sri Lanka: Rahul Dravid",
+    "source": "www.newindianexpress.com",
+    "snippet": "COLOMBO: Rahul Dravid, India's head coach for the Sri Lanka tour, has said wicketkeeper-batsman Sanju Samson would be disappointed with the way he performed in the white-ball series. Wanindu Hasaranga's four-wicket haul and Dhananjaya de Silva's unbeaten ...",
+    "url": "https://www.newindianexpress.com/sport/cricket/2021/jul/30/sanju-samson-would-be-disappointed-looking-back-at-series-against-sri-lanka-rahul-dravid-2337766.html",
+    "url_hash": "50f2abdce431c924c1fa39bfc300f675",
+    "ut": 1627649155,
+    "ent_ids": [
+      "PERSON(Rahul Dravid)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "PERSON(Sanju Samson)",
+      "PERSON(Wanindu Hasaranga's)",
+      "CARDINAL(four)",
+      "PERSON(Dhananjaya de Silva's)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Yuzvendra Chahal and K Gowtham test positive for coronavirus in Sri Lanka",
+    "source": "www.newindianexpress.com",
+    "snippet": "It has come to light that spinners Yuzvendra Chahal and K Gowtham have also tested positive for the virus in Sri Lanka.",
+    "url": "https://www.newindianexpress.com/sport/cricket/2021/jul/30/yuzvendra-chahal-and-k-gowtham-test-positive-for-coronavirus-in-sri-lanka-2337763.html",
+    "url_hash": "1c74c33267b27c4bacb45030e066fb88",
+    "ut": 1627648735,
+    "ent_ids": [
+      "PERSON(Yuzvendra Chahal)",
+      "ORG(K Gowtham)",
+      "GPE(Sri Lanka)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Two More Indian Cricketers Test Covid-19 Positive In Sri Lanka",
+    "source": "www.barrons.com",
+    "snippet": "Two more Indian players have contracted coronavirus, with the three infected players remaining in Sri Lanka as the rest of the squad started leaving, officials said Friday.",
+    "url": "https://www.barrons.com/news/two-more-indian-cricketers-test-covid-19-positive-in-sri-lanka-01627641606",
+    "url_hash": "8b0f27eb40ab294b5c65cc73b9c71fb9",
+    "ut": 1627639855,
+    "ent_ids": [
+      "CARDINAL(Two)",
+      "NORP(Indian)",
+      "CARDINAL(three)",
+      "GPE(Sri Lanka)",
+      "DATE(Friday)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "The journey continues: Sanju Samson shares heartfelt post after disappointing Sri Lanka tour",
+    "source": "www.timesnownews.com",
+    "snippet": "Team India's wicketkeeper-batsman Sanju Samson shared a heartfelt post following his disappointing tour of Sri Lanka. He only scored 34 runs in 3 T20Is.",
+    "url": "https://www.timesnownews.com/sports/cricket/article/the-journey-continues-sanju-samson-shares-heartrfelt-post-after-disappointing-sri-lanka-tour/792632",
+    "url_hash": "7bcf6e61d8f8d36ee33647e45f1b03f7",
+    "ut": 1627648975,
+    "ent_ids": [
+      "ORG(Team India's)",
+      "PERSON(Sanju Samson)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(34)",
+      "CARDINAL(3)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Nanjing: New virus outbreak worst after Wuhan, say Chinese state media",
+    "source": "www.dailymirror.lk",
+    "snippet": "A Covid outbreak first discovered in the Chinese city of Nanjing has spread to five provinces and Beijing, with state media calling it the most extensive contagion after Wuhan, the BBC reported. ",
+    "url": "https://www.dailymirror.lk/breaking_news/Nanjing-New-virus-outbreak-worst-after-Wuhan-say-Chinese-state-media/108-217218",
+    "url_hash": "1a9cfc1c3d7a90866c0140053bcae59c",
+    "ut": 1627648269,
+    "ent_ids": [
+      "NORP(Covid)",
+      "ORDINAL(first)",
+      "NORP(Chinese)",
+      "GPE(Nanjing)",
+      "CARDINAL(five)",
+      "GPE(Beijing)",
+      "GPE(Wuhan)",
+      "ORG(BBC)"
+    ]
   }
 ]
