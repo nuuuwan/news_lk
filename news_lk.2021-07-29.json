@@ -2693,5 +2693,40 @@
       "PERSON(Wanindu Hasaranga)",
       "CARDINAL(four)"
     ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "India vs Sri Lanka, 3rd T20I Live Cricket Score Updates: Sri Lanka win by 7 wickets, clinch series 2-1",
+    "source": "www.msn.com",
+    "snippet": "A single off each of the first two balls, with two leg byes off the third. De Silva's adjudged caught-behind while attempting to nudge at a delivery fired down leg by Chakravarthy, but manages to overturn it after Ultra Edge shows nothing.",
+    "url": "https://www.msn.com/en-in/sport/other/india-vs-sri-lanka-3rd-t20i-live-cricket-score-updates-bhuvneshwar-chahar-depart-in-quick-succession-visitors-lose-seventh/ar-AAMHNYW",
+    "url_hash": "7fbd026a266cb5c385eedc643443c343",
+    "ut": 1627579848,
+    "ent_ids": [
+      "ORDINAL(first)",
+      "CARDINAL(two)",
+      "CARDINAL(two)",
+      "PRODUCT(byes)",
+      "ORDINAL(third)",
+      "PERSON(De Silva's)",
+      "PERSON(Chakravarthy)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Govt. confirms arrival of AstraZeneca vaccines by 5.00 pm on July 31",
+    "source": "www.dailymirror.lk",
+    "snippet": "Head of the Presidential Task Force for National Deployment of Vaccines Lalith Weeratunga today assured that the consignment of 725,000 doses of AstraZeneca vaccines will reach Sri Lanka by 5.00 pm on Saturday (31). ",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-confirms-arrival-of-AstraZeneca-vaccines-by-5-00-pm-on-July-31/108-217130",
+    "url_hash": "74ae9bc50b3d0315052077f85f47e11c",
+    "ut": 1627516800,
+    "ent_ids": [
+      "ORG(the Presidential Task Force for National Deployment of Vaccines Lalith Weeratunga)",
+      "DATE(today)",
+      "CARDINAL(725,000)",
+      "GPE(Sri Lanka)",
+      "TIME(5.00 pm)",
+      "DATE(Saturday)"
+    ]
   }
 ]
