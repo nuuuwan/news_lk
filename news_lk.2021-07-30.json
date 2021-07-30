@@ -69,5 +69,46 @@
       "GPE(Thalangama)",
       "DATE(yesterday)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "3rd T20I: Sri Lanka beat India by 7 wickets, win series",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lanka crushed India by seven wickets to win the third and final T20 International and clinch the three-game series 2-1 here at the R Premadasa Stadium on Thursday. Leg-spinner Wanindu Hasaranga took 4/9 in his four overs to help host restrict India to 81/8 in 20 overs.",
+    "url": "https://news.webindia123.com/news/Articles/Sports/20210730/3794904.html",
+    "url_hash": "cb52a82d0c1eec3c892c8c42b6ea98ed",
+    "ut": 1627604427,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "ORDINAL(third)",
+      "CARDINAL(three)",
+      "CARDINAL(2)",
+      "ORG(the R Premadasa Stadium)",
+      "DATE(Thursday)",
+      "PERSON(Wanindu Hasaranga)",
+      "CARDINAL(4/9)",
+      "CARDINAL(four)",
+      "GPE(India)",
+      "CARDINAL(81/8)",
+      "CARDINAL(20)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Man nabbed with Rs. 400Mn worth heroin",
+    "source": "www.dailymirror.lk",
+    "snippet": "A man was arrested with 40 kg of heroin which has a street value of Rs.400 million during a raid at Rerukana in Bandaragama early this morning. ",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-nabbed-with-Rs-400Mn-worth-heroin/108-217153",
+    "url_hash": "d6cf162e3e724d8f139f18330cfcd4d4",
+    "ut": 1627611461,
+    "ent_ids": [
+      "QUANTITY(40 kg)",
+      "CARDINAL(Rs.400 million)",
+      "GPE(Rerukana)",
+      "GPE(Bandaragama)",
+      "TIME(early this morning)"
+    ]
   }
 ]
