@@ -661,5 +661,86 @@
       "ORG(MP Rishad Bathiudeen\u2019s)",
       "ORDINAL(second)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "HSBC Sri Lanka has done it again",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "On the backdrop of completing 129 years of operation in the country, HSBC Sri Lanka continued its leadership position as the best International Retail Bank of the year, at the Asian Banking & Finance Retail Banking Awards 2021 for the fifth time,",
+    "url": "http://bizenglish.adaderana.lk/hsbc-sri-lanka-has-done-it-again/",
+    "url_hash": "771b8eb26709befdee1e0e12e91bc5c5",
+    "ut": 1627637167,
+    "ent_ids": [
+      "DATE(129 years)",
+      "ORG(HSBC Sri Lanka)",
+      "ORG(International Retail Bank of the year)",
+      "ORG(the Asian Banking & Finance Retail Banking Awards)",
+      "ORDINAL(fifth)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Egypt, Sri Lanka Mull Tourism Cooperation",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Deputy Minister of Tourism and Antiquities for Tourism Affairs Ghada Shalaby confirmed that the ministry is paying a great attention to the tourist experiment tourists witness during their visits to Egypt.",
+    "url": "http://bizenglish.adaderana.lk/egypt-sri-lanka-mull-tourism-cooperation/",
+    "url_hash": "e985a7fb16410284bc89ade48dd52614",
+    "ut": 1627637707,
+    "ent_ids": [
+      "ORG(Tourism and Antiquities for Tourism Affairs)",
+      "PERSON(Ghada Shalaby)",
+      "GPE(Egypt)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Proteas to tour Sri Lanka in September",
+    "source": "www.dispatchlive.co.za",
+    "snippet": "Sri Lanka Cricket (SLC) has confirmed that the country will host South Africa in a white-ball series in September. In making the announcement on Friday morning\u201a SLC said that they will be hosting the Proteas in three ODIs and as many T20s as both team ...",
+    "url": "https://www.dispatchlive.co.za/sport/2021-07-30-proteas-to-tour-sri-lanka-in-september/",
+    "url_hash": "a5ece90d5b536165f3d18d1c7bbb2cfc",
+    "ut": 1627638307,
+    "ent_ids": [
+      "ORG(Sri Lanka Cricket)",
+      "ORG(SLC)",
+      "GPE(South Africa)",
+      "DATE(September)",
+      "DATE(Friday)",
+      "TIME(morning)",
+      "PERSON(\u201a SLC)",
+      "LOC(Proteas)",
+      "CARDINAL(three)",
+      "PRODUCT(T20s)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "All public servants should report to duty from Monday",
+    "source": "www.dailymirror.lk",
+    "snippet": "All public servants should be called back to duty as usual from Monday (August 2), in accordance with Covid-19 Health Guidelines, Public Services, Provincial Councils and Local Government Secretary J.J. Rathnasiri said. ",
+    "url": "https://www.dailymirror.lk/latest_news/All-public-servants-should-report-to-duty-from-Monday/342-217208",
+    "url_hash": "8473e35a08954a527165d8e3983e2fed",
+    "ut": 1627639100,
+    "ent_ids": [
+      "DATE(Monday)",
+      "DATE((August 2)",
+      "ORG(Health Guidelines, Public Services)",
+      "ORG(Provincial Councils and Local Government)",
+      "PERSON(J.J. Rathnasiri)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Child ponography: Man from Kandy uploaded nearly 100 porn videos, pictures to cyberspace",
+    "source": "www.dailymirror.lk",
+    "snippet": "After establishing a special unit, the National Centre for Missing and Exploited Children, it is learnt that a man from Kandy had uploaded nearly 100 child pornographic videos and pictures by himself into the cyberspace or social media. ",
+    "url": "https://www.dailymirror.lk/latest_news/Child-ponography-Man-from-Kandy-uploaded-nearly-100-porn-videos-pictures-to-cyberspace/342-217205",
+    "url_hash": "8bac52316abb5ba84f33d7e9690eaa9b",
+    "ut": 1627637120,
+    "ent_ids": [
+      "ORG(the National Centre for Missing and Exploited Children)",
+      "ORG(Kandy)",
+      "CARDINAL(nearly 100)"
+    ]
   }
 ]
