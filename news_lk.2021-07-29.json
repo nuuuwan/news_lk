@@ -2628,5 +2628,70 @@
       "DATE(Thursday)",
       "ORDINAL(first)"
     ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Birthday boy Hasaranga bowls Sri Lanka to series win over India",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka's sensational leg-spinner Wanindu Hasaranga celebrated his 24th birthday in style yesterday by bowling his team to a series winning seven-wicket win by taking 4 wickets for 9 runs in the third and final T20I against India played at the R.",
+    "url": "https://www.ft.lk/sports/Birthday-boy-Hasaranga-bowls-Sri-Lanka-to-series-win-over-India/23-721039",
+    "url_hash": "503a3941491956ad055918c4e5646645",
+    "ut": 1627589434,
+    "ent_ids": [
+      "GPE(Sri Lanka's)",
+      "PERSON(Wanindu Hasaranga)",
+      "ORDINAL(24th)",
+      "DATE(yesterday)",
+      "CARDINAL(seven)",
+      "CARDINAL(4)",
+      "CARDINAL(9)",
+      "ORDINAL(third)",
+      "GPE(India)",
+      "NORP(R.)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "3rd T20I: Sri Lanka beat India by 7 wickets, win series",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lanka crushed India by seven wickets to win the third and final T20 International and clinch the three-game series 2-1 here at the R Premadasa Stadium on Thursday. Leg-spinner Wanindu Hasaranga took 4/9 in his four overs to help host restrict India to 81/8 in 20 overs.",
+    "url": "https://news.webindia123.com/news/Articles/Sports/20210730/3794904.html",
+    "url_hash": "cb52a82d0c1eec3c892c8c42b6ea98ed",
+    "ut": 1627602934,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "ORDINAL(third)",
+      "CARDINAL(three)",
+      "CARDINAL(2)",
+      "ORG(the R Premadasa Stadium)",
+      "DATE(Thursday)",
+      "PERSON(Wanindu Hasaranga)",
+      "CARDINAL(4/9)",
+      "CARDINAL(four)",
+      "GPE(India)",
+      "CARDINAL(81/8)",
+      "CARDINAL(20)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lanka vs India, 3rd T20I as it happened: Hasaranga guides hosts to series-clinching 7-wicket win",
+    "source": "scroll.in",
+    "snippet": "Sri Lanka win by 7 wickets! Starting from 2019, India had won their last 8 T20I series. But it's Dasun Shanaka and Co who clinch this 2-1. The star performer for them tonight was Wanindu Hasaranga who took a four-wicket haul.",
+    "url": "https://scroll.in/field/1001475/sri-lanka-vs-india-3rd-t20i-live-score-updates-stats-and-commentary-from-colombo",
+    "url_hash": "69389827254ce48f480f3477800b4f55",
+    "ut": 1627564234,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "CARDINAL(7)",
+      "DATE(2019)",
+      "GPE(India)",
+      "CARDINAL(2)",
+      "TIME(tonight)",
+      "PERSON(Wanindu Hasaranga)",
+      "CARDINAL(four)"
+    ]
   }
 ]
