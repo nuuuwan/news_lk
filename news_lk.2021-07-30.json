@@ -1097,5 +1097,59 @@
       "GPE(Wuhan)",
       "ORG(BBC)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Team India Reach Bangalore, K Gowtham, Yuzvendra Chahal and Krunal Pandya Stay Back in Sri Lanka",
+    "source": "www.news18.com",
+    "snippet": "The Indian limited overs side led by Shikhar Dhawan reached Bengaluru on Friday evening from Sri Lanka where three members of the squad - Krishnappa Gowtham, Yuzvendra Chahal and Krunal Pandya were forced to stay back after testing positive for COVID-19.",
+    "url": "https://www.news18.com/cricketnext/news/team-india-reach-bangalore-k-gowtham-yuzvendra-chahal-and-krunal-pandya-stay-back-in-sri-lanka-4027445.html",
+    "url_hash": "03186f1154378fbcdb1a08112073e184",
+    "ut": 1627653425,
+    "ent_ids": [
+      "NORP(Indian)",
+      "PERSON(Shikhar Dhawan)",
+      "GPE(Bengaluru)",
+      "DATE(Friday)",
+      "TIME(evening)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(three)",
+      "ORG(squad - Krishnappa Gowtham)",
+      "PERSON(Yuzvendra Chahal)",
+      "ORG(Krunal Pandya)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Cricket: 'I'm not disappointed,' says Rahul Dravid to young batsmen after Sri Lanka's T20I series win over India",
+    "source": "www.msn.com",
+    "snippet": "Rahul Dravid, the coach of India's tour to Sri Lanka said that he is not \"disappointed\" with\u00a0the batting performance of young batsmen after India lost the T20I series 2-1 to Lankans. At the post-match press conference,",
+    "url": "https://www.msn.com/en-in/sports/other/cricket-im-not-disappointed-says-rahul-dravid-to-young-batsmen-after-sri-lankas-t20i-series-win-over-india/ar-AAMKyKi",
+    "url_hash": "f1573d171120bddb1c92a4e8f706a0fe",
+    "ut": 1627643285,
+    "ent_ids": [
+      "PERSON(Rahul Dravid)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(2-1)",
+      "NORP(Lankans)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "What's up next for Sri Lanka in limited overs.",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka is back to the situation where they were on 9th October 2019 after the T20I series win against Pakistan. Dasun Shanaka and his young team has proved they are capable of beating a",
+    "url": "https://www.islandcricket.lk/blogs/whats-up-next-for-sri-lanka-in-limited-overs/",
+    "url_hash": "92715b961258ee7b7619ef869518c60d",
+    "ut": 1627643285,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "ORDINAL(9th)",
+      "DATE(October 2019)",
+      "GPE(Pakistan)",
+      "PERSON(Dasun Shanaka)"
+    ]
   }
 ]
