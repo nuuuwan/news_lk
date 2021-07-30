@@ -1756,5 +1756,56 @@
       "CARDINAL(4-9)",
       "ORDINAL(24th)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka bans 3 cricketers for breaching virus bubble",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka cricket officials have banned three national team players for one year from international cricket and fined them $50,000 each for breaching a bio-secure bubble during the recent tour of England.",
+    "url": "https://apnews.com/dc6d9e4c4b72f3c69110441ba49027fb",
+    "url_hash": "6271bd604b06cda11daad01f199736e8",
+    "ut": 1627672051,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "CARDINAL(three)",
+      "DATE(one year)",
+      "MONEY(50,000)",
+      "GPE(England)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka Tourism introduces e-learning platform for all SLTDA registered tourist guides",
+    "source": "www.ft.lk",
+    "snippet": "As an initiative to uplift the reviving tourism industry in the country, Sri Lanka Tourism Development Authority in collaboration with Sri Lanka Institute of Tourism & Hotel Management (SLITHM) has introduced the Continuous Professional Development (CPD) e-learning platform to all registered guides to enhance their knowledge and skills.",
+    "url": "https://www.ft.lk/business/Sri-Lanka-Tourism-introduces-e-learning-platform-for-all-SLTDA-registered-tourist-guides/34-721102",
+    "url_hash": "48847748c8c10eca38d9f881818f0bb9",
+    "ut": 1627668451,
+    "ent_ids": [
+      "ORG(Sri Lanka Tourism Development Authority)",
+      "ORG(Sri Lanka Institute of Tourism & Hotel Management)",
+      "ORG(SLITHM)",
+      "ORG(the Continuous Professional Development)",
+      "ORG(CPD)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka bans Gunathilaka, Dickwella and Kusal Mendis for breaching Covid protocols",
+    "source": "www.saharasamay.com",
+    "snippet": "Sri Lankan cricketers Danushka Gunathilaka, Kusal Mendis and Niroshan Dickwella have been suspended from international cricket for one year and domestic cricket for six months besides being fined 1 crore Sri Lankan rupees for breaching Covid-19 safety guidelines,",
+    "url": "http://www.saharasamay.com/sports-news/676635326/sri-lanka-bans-gunathilaka-dickwella-and-kusal-mendis-for-breach.html",
+    "url_hash": "5f96d37bc0bffb30b9921f520ea9076d",
+    "ut": 1627668451,
+    "ent_ids": [
+      "NORP(Sri Lankan)",
+      "PERSON(Danushka Gunathilaka)",
+      "PERSON(Kusal Mendis)",
+      "PERSON(Niroshan Dickwella)",
+      "DATE(one year)",
+      "DATE(six months)",
+      "CARDINAL(1)",
+      "NORP(Sri Lankan)"
+    ]
   }
 ]
