@@ -110,5 +110,103 @@
       "GPE(Bandaragama)",
       "TIME(early this morning)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "India vs Sri Lanka, 3rd T20I: Bowlers clinch T20I series for Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "Celebrating his 24th birthday in style, leg-spinner Wanindu Hasaranga showed exactly why he is ranked as the No. 2 T20I bowler in the world, taking",
+    "url": "https://www.msn.com/en-in/sports/other/india-vs-sri-lanka-3rd-t20i-bowlers-clinch-t20i-series-for-sri-lanka/ar-AAMIUGd",
+    "url_hash": "cebe68f762167de3df6f772182c52940",
+    "ut": 1627612322,
+    "ent_ids": [
+      "ORDINAL(24th)",
+      "PERSON(Wanindu Hasaranga)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Cricket: Wanindu Hasaranga steers Sri Lanka to T20 series win over India",
+    "source": "www.msn.com",
+    "snippet": "Spinner Wanindu Hasaranga celebrated his birthday by taking four wickets as Sri Lanka beat India by seven wickets and took the three-match Twenty20 series 2-1 in Colombo on Thursday, securing their first series win in the format since 2019.",
+    "url": "https://www.msn.com/en-in/sports/other/cricket-wanindu-hasaranga-steers-sri-lanka-to-t20-series-win-over-india/ar-AAMIXuq",
+    "url_hash": "eff11fd7932904795009b507fb38e2a2",
+    "ut": 1627610882,
+    "ent_ids": [
+      "PERSON(Spinner Wanindu Hasaranga)",
+      "CARDINAL(four)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "CARDINAL(three)",
+      "CARDINAL(2)",
+      "DATE(Thursday)",
+      "ORDINAL(first)",
+      "DATE(2019)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka beat India in third T20I, win series",
+    "source": "in.news.yahoo.com",
+    "snippet": "Sri Lanka beat a depleted Indian cricket team to win the third T20I and seal the three-match series by a 2-1 margin.India, who are without several players after Krunal Pandya tested positive for the coronavirus,",
+    "url": "https://in.news.yahoo.com/sri-lanka-beat-india-third-181937808.html",
+    "url_hash": "6fea3c7c39789be6e6e1bf958e469ee6",
+    "ut": 1627603682,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "NORP(Indian)",
+      "ORDINAL(third)",
+      "CARDINAL(three)",
+      "CARDINAL(2)",
+      "GPE(India)",
+      "ORG(Krunal Pandya)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "India win toss, elect to bat first against Sri Lanka in series-decider third T20I",
+    "source": "www.indiablooms.com",
+    "snippet": "Colombo/IBNS: Indian captain Shikhar Dhawan won the toss and elected to bat first against Sri Lanka in the series-deciding third T20I here Thursday.",
+    "url": "https://www.indiablooms.com/sports-details/SN/13278/india-win-toss-elect-to-bat-first-against-sri-lanka-in-series-decider-third-t20i.html",
+    "url_hash": "04d9ac76e96cc5fa6c38e8bb91bf84c8",
+    "ut": 1627612502,
+    "ent_ids": [
+      "NORP(Indian)",
+      "PERSON(Shikhar Dhawan)",
+      "ORDINAL(first)",
+      "GPE(Sri Lanka)",
+      "ORDINAL(third)",
+      "DATE(Thursday)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Man nabbed with Rs. 400Mn worth heroin",
+    "source": "www.dailymirror.lk",
+    "snippet": "A man was arrested with 40 kg of heroin which has a street value of Rs.400 million during a raid at Rerukana in Bandaragama early this morning. ",
+    "url": "https://www.dailymirror.lk/latest_news/Man-nabbed-with-Rs-400Mn-worth-heroin/342-217153",
+    "url_hash": "cd988d9e2f466205dc1c8fd5e3e33fa6",
+    "ut": 1627611496,
+    "ent_ids": [
+      "QUANTITY(40 kg)",
+      "CARDINAL(Rs.400 million)",
+      "GPE(Rerukana)",
+      "GPE(Bandaragama)",
+      "TIME(early this morning)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "I may even cross over to another party if necessary: Rajitha",
+    "source": "www.dailymirror.lk",
+    "snippet": "SJB MP- Rajitha Senaratne said he will cross over to another party if he feels necessary. ",
+    "url": "https://www.dailymirror.lk/latest_news/I-may-even-cross-over-to-another-party-if-necessary-Rajitha/342-217155",
+    "url_hash": "2df0611fefe7450118c0d5cef6d5c074",
+    "ut": 1627610896,
+    "ent_ids": [
+      "ORG(SJB)",
+      "PERSON(Rajitha Senaratne)"
+    ]
   }
 ]
