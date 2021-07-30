@@ -1624,5 +1624,137 @@
       "MONEY($50,000 fines)",
       "PERSON(Kusal Mendis)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka bans 3 cricketers for breaching virus bubble",
+    "source": "news.yahoo.com",
+    "snippet": "Sri Lanka cricket officials have banned three national team players for one year from international cricket and fined them $50,000 each for breaching a bio-secure bubble during the recent tour of England.",
+    "url": "https://news.yahoo.com/sri-lanka-bans-3-cricketers-190004060.html",
+    "url_hash": "66dbab07186352a29aaca7f9316d2924",
+    "ut": 1627672086,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "CARDINAL(three)",
+      "DATE(one year)",
+      "MONEY(50,000)",
+      "GPE(England)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "'India wants Sri Lanka to deliver on legitimate aspirations of Tamils'",
+    "source": "www.thehindu.com",
+    "snippet": "India believes that delivering on the legitimate aspirations of the Tamil community is in the best interests of Sri Lanka, according to Union Minister of State for External Affairs V. Muraleedharan. Replying to a question by MDMK's general secretary Vaiko in the Rajya Sabha on Thursday,",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/india-wants-sri-lanka-to-deliver-on-legitimate-aspirations-of-tamils/article35642592.ece",
+    "url_hash": "5893ff1ea2ad88ab26b60df04245c57f",
+    "ut": 1627673946,
+    "ent_ids": [
+      "GPE(India)",
+      "GPE(Tamil)",
+      "GPE(Sri Lanka)",
+      "ORG(Union)",
+      "PERSON(V. Muraleedharan)",
+      "ORG(MDMK)",
+      "DATE(Thursday)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka ban trio over bubble breach",
+    "source": "thewest.com.au",
+    "snippet": "Niroshan Dickwella, Kusal Mendis and Danushka Gunathilaka, sent home from an England tour for a bio-secure bubble breach, have each received a one-year ban.",
+    "url": "https://thewest.com.au/sport/cricket/sri-lanka-ban-trio-over-bubble-breach-c-3555074",
+    "url_hash": "721f446cbc29bc3a5599e36358372175",
+    "ut": 1627674066,
+    "ent_ids": [
+      "PERSON(Niroshan Dickwella)",
+      "PERSON(Kusal Mendis)",
+      "PERSON(Danushka Gunathilaka)",
+      "GPE(England)",
+      "DATE(one-year)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "People's Bank (Sri Lanka)",
+    "source": "www.fitchratings.com",
+    "snippet": "People's Bank's (Sri Lanka) (PB) National Long-Term Rating is driven by its intrinsic credit strength. It balances a superior",
+    "url": "https://www.fitchratings.com/research/banks/people-bank-sri-lanka-30-07-2021",
+    "url_hash": "5b85bed37425294f9404c505ee77f315",
+    "ut": 1627646886,
+    "ent_ids": [
+      "ORG(People's Bank's)",
+      "GPE(Sri Lanka)",
+      "ORG(PB)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "SL vs IND, 3rd T20I: Sri Lanka Spinners Expose India's Batsmen to Register 7-Wicket Win, Clinch Series 2-1",
+    "source": "www.msn.com",
+    "snippet": "Leg-spinner Wanindu Hasaranga (4/9) made the Indians dance to his tunes on his 24th birthday, playing a crucial role in restricting them to a paltry 81 for eight, which is their lowest against the Lankans.",
+    "url": "https://www.msn.com/en-in/sport/cricket/sl-vs-ind-3rd-t20i-sri-lanka-spinners-expose-india-s-batsmen-to-register-7-wicket-win-clinch-series-2-1/ar-AAMJgPI",
+    "url_hash": "5528e62622649e6f69ed89f577ae624a",
+    "ut": 1627610886,
+    "ent_ids": [
+      "PERSON(Wanindu Hasaranga)",
+      "CARDINAL(4/9)",
+      "NORP(Indians)",
+      "ORDINAL(24th)",
+      "CARDINAL(81)",
+      "CARDINAL(eight)",
+      "NORP(Lankans)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Afghanistan keen to grow bilateral relations with Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Afghanistan Ambassador to Sri Lanka M. Ashraf Haidari called on Sri Lanka\u0432\u0402\u2122s newly-appointed Minister of Finance Basil Rajapaksa this week the Afghan Embassy in Colombo said. The Minister was accompanied by his senior staff and Additional Secretary Ambassador Pakeer Amza of the Ministry of Foreign Affairs.",
+    "url": "https://www.ft.lk/business/Afghanistan-keen-to-grow-bilateral-relations-with-Sri-Lanka/34-721106",
+    "url_hash": "afdd292d0064c2a618f83b72975efdb5",
+    "ut": 1627668486,
+    "ent_ids": [
+      "GPE(Afghanistan)",
+      "GPE(Sri Lanka)",
+      "PERSON(Ashraf Haidari)",
+      "LOC(Sri)",
+      "PERSON(Basil Rajapaksa)",
+      "DATE(this week)",
+      "ORG(the Afghan Embassy)",
+      "PERSON(Pakeer Amza)",
+      "ORG(the Ministry of Foreign Affairs)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka bans three cricketers for breaching Covid protocols",
+    "source": "www.glamsham.com",
+    "snippet": "Sri Lankan cricketers Danushka Gunathilaka, Kusal Mendis and Niroshan Dickwella have been suspended from international cricket for one",
+    "url": "https://www.glamsham.com/world/sports/sri-lanka-bans-three-cricketers-for-breaching-covid-protocols",
+    "url_hash": "3dfc334a46f0304ffe264931943efb41",
+    "ut": 1627668486,
+    "ent_ids": [
+      "NORP(Sri Lankan)",
+      "PERSON(Danushka Gunathilaka)",
+      "PERSON(Kusal Mendis)",
+      "PERSON(Niroshan Dickwella)",
+      "CARDINAL(one)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Birthday boy Hasaranga steers Sri Lanka to T20 series win over India",
+    "source": "www.dhakatribune.com",
+    "snippet": "\"The wicket was slow and our spinners bowled really well,\" said Hasaranga, who finished with career-best T20 figures of 4-9 on his 24th birthday",
+    "url": "https://www.dhakatribune.com/sport/cricket/2021/07/30/birthday-boy-hasaranga-steers-sri-lanka-to-t20-series-win-over-india",
+    "url_hash": "2b3ddb8e9b34365ba63cc2ab17ff8291",
+    "ut": 1627628886,
+    "ent_ids": [
+      "PERSON(Hasaranga)",
+      "CARDINAL(4-9)",
+      "ORDINAL(24th)"
+    ]
   }
 ]
