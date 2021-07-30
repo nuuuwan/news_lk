@@ -1209,5 +1209,116 @@
       "PERSON(Gotabaya Rajapaksa)",
       "ORG(Presidential Media Division)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka Cricket Ban Danushka Gunathilaka, Kusal Mendis And Niroshan Dickwella From International Cricket For One Year",
+    "source": "www.msn.com",
+    "snippet": "The trio has been banned for six months from the domestic circuit. Moreover, the trio has been fined a huge amount of 10 million Sri Lanka rupees in relation to their bio bubble.",
+    "url": "https://www.msn.com/en-in/news/other/sri-lanka-cricket-ban-danushka-gunathilaka-kusal-mendis-and-niroshan-dickwella-from-international-cricket-for-one-year/ar-AAMKEjw",
+    "url_hash": "f70a3a5133c588e9a0021582625ace29",
+    "ut": 1627657692,
+    "ent_ids": [
+      "DATE(six months)",
+      "MONEY(10 million)",
+      "GPE(Sri Lanka)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lankan shares end lower as financials drop, post weekly loss",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares closed lower on Friday and posted a weekly loss, dragged down by financial and consumer staples stocks.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-end-lower-as-financials-drop-post-weekly-loss-idUSL4N2P62K7",
+    "url_hash": "b732ec7b9664638fe4a09d3835c2e988",
+    "ut": 1627639692,
+    "ent_ids": [
+      "NORP(Sri Lankan)",
+      "DATE(Friday)",
+      "DATE(weekly)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka bans 3 Test players for a year over Covid breach",
+    "source": "www.deccanherald.com",
+    "snippet": "Sri Lanka's cricket board on Friday banned three top players for one year for breaking Covid-19 restrictions by leaving their bio-secure hotel during a tour of England. The lengthy bans and $50,000 fines were ordered after vice captain Kusal Mendis,",
+    "url": "https://www.deccanherald.com/sports/cricket/sri-lanka-bans-3-test-players-for-a-year-over-covid-breach-1014716.html",
+    "url_hash": "2562b2e26ba330703cf68a88dcd17ea0",
+    "ut": 1627659852,
+    "ent_ids": [
+      "GPE(Sri Lanka's)",
+      "DATE(Friday)",
+      "CARDINAL(three)",
+      "DATE(one year)",
+      "GPE(England)",
+      "MONEY($50,000 fines)",
+      "PERSON(Kusal Mendis)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Hasaranga steers Sri Lanka to T20 series win over India",
+    "source": "www.omanobserver.om",
+    "snippet": "COLOMBO: Spinner Wanindu Hasaranga celebrated his birthday by taking four wickets as Sri Lanka beat India by seven wickets and took the three-match Twenty20 series 2-1 in Colombo on Thursday, securing their first series win in the format since 2019.",
+    "url": "https://www.omanobserver.om/article/1104524/sports/cricket/hasaranga-steers-sri-lanka-to-t20-series-win-over-india",
+    "url_hash": "80585825acd9407ee1a176d19a85c110",
+    "ut": 1627658952,
+    "ent_ids": [
+      "PERSON(Spinner Wanindu Hasaranga)",
+      "CARDINAL(four)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "CARDINAL(seven)",
+      "CARDINAL(three)",
+      "CARDINAL(2)",
+      "DATE(Thursday)",
+      "ORDINAL(first)",
+      "DATE(2019)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Mendis, Dickwella & Danushka banned one year from International Cricket",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Cricket (SLC) has decided to revise the punishment on cricketers Danushka Gunathilaka, Niroshan Dickwella and Kusal Mendis. ",
+    "url": "https://www.dailymirror.lk/breaking_news/Mendis-Dickwella-Danushka-banned-one-year-from-International-Cricket/108-217224",
+    "url_hash": "60499aa5e21a1a34f6b96e08dc85af13",
+    "ut": 1627659623,
+    "ent_ids": [
+      "ORG(Sri Lanka Cricket)",
+      "ORG(SLC)",
+      "PERSON(Danushka Gunathilaka)",
+      "PERSON(Niroshan Dickwella)",
+      "PERSON(Kusal Mendis)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "56 more succumb to COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 56 more COVID-19 related deaths that occurred yesterday (29) were confirmed by the Director-General of Health Services today pushing the death toll to  4380. ",
+    "url": "https://www.dailymirror.lk/breaking_news/56-more-succumb-to-COVID-19/108-217223",
+    "url_hash": "295d65d6f248b17433f3cd738c7fd88c",
+    "ut": 1627654103,
+    "ent_ids": [
+      "CARDINAL(56)",
+      "DATE(yesterday)",
+      "CARDINAL(29)",
+      "DATE(today)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "President directs officials to conduct survey on unvaccinated people",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has instructed the officials to conduct a survey on the people who have not received a Covid-19 vaccine yet, Presidential Media Division (PMD) said. ",
+    "url": "https://www.dailymirror.lk/breaking_news/President-directs-officials-to-conduct-survey-on-unvaccinated-people/108-217221",
+    "url_hash": "03cbabad8d545858bd77a220016db1da",
+    "ut": 1627654103,
+    "ent_ids": [
+      "PERSON(Gotabaya Rajapaksa)",
+      "ORG(Presidential Media Division)"
+    ]
   }
 ]

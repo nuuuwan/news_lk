@@ -2849,5 +2849,43 @@
     "ent_ids": [
       "CARDINAL(2,000)"
     ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Sri Lankan Environmental Groups Claim Oil Spilled From Xpress Pearl",
+    "source": "maritime-executive.com",
+    "snippet": "Environmental groups in Sri Lanka are calling for the nation's president to personally intervene to secure a rapid cleanup of the wreck of the container feeder XPress Pearl, which burned and sank off Colombo in early June.",
+    "url": "https://maritime-executive.com/article/sri-lankan-environmental-groups-claim-oil-spilled-from-xpress-pearl",
+    "url_hash": "911e548b646f57b614e7805f3b196a3a",
+    "ut": 1627592892,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "PERSON(XPress Pearl)",
+      "DATE(early June)"
+    ]
+  },
+  {
+    "date": "2021-07-29",
+    "title": "India vs Sri Lanka Live 3rd T20I Updates From Colombo: Hasaranga Shines as Sri Lanka Beat India by 7 Wickets to Clinch Series 2-1",
+    "source": "www.msn.com",
+    "snippet": "Check India vs Sri Lanka 2021 3rd T20I Live Score, India vs Sri Lanka Live Streaming Online IND vs SL - Colombo: India vs Sri Lanka Title. Check Live Cricket Score and Updates IND vs SL 2021 India vs Sri Lanka Score 3rd T20I.",
+    "url": "https://www.msn.com/en-in/news/other/india-vs-sri-lanka-match-highlights-3rd-t20i-updates-from-colombo-hasaranga-shines-as-sri-lanka-beat-india-by-7-wickets-to-clinch-series-2-1/ar-AAMHwBd",
+    "url_hash": "2eff36668b9425b944beaaaa977b5ddd",
+    "ut": 1627582092,
+    "ent_ids": [
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "DATE(2021)",
+      "ORDINAL(3rd)",
+      "ORG(Live Score)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "ORG(Check Live Cricket Score)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "ORDINAL(3rd)"
+    ]
   }
 ]
