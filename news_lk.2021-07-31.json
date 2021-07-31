@@ -4703,5 +4703,185 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Reaping the paddy harvest...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Harvesting for the Yala season has commenced. Here, farmers in Aralaganwila are seen reaping the paddy harvest. ..",
+    "url": "https://www.dailymirror.lk/caption_story/Reaping-the-paddy-harvest/110-217284",
+    "url_hash": "ca7f6faf864fc8828366a765c8cf53ea",
+    "ut": 1627751290,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Aralaganwila",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Wanindu Hasaranga",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka wins the 3rd T20i against India by 7 wickets. Sri Lanka wins the three series match by 2-1.",
+    "url": "https://dailynews.lk/tags/wanindu-hasaranga",
+    "url_hash": "8799639c5629827df0040e4784442b80",
+    "ut": 1627758495,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "3rd",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "T20i",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: West African health officials race to vaccinate",
+    "source": "accesswdun.com",
+    "snippet": "Thousands of new coronavirus cases have been reported in West Africa in recent weeks amid low vaccination rates and the spread of the delta variant",
+    "url": "https://accesswdun.com/article/2021/7/1026302",
+    "url_hash": "15d5a49730adeee9d6494a2d1055b0a1",
+    "ut": 1627740509,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Thousands",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "West Africa",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent weeks",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Sri Lanka COVID vax research: Elderly at risk if second AstraZeneca jab delayed",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Researchers in Sri Lanka have found that antibody levels created by the first dose of the AstraZeneca COVID-19 vaccine drops in elderly people within 16 weeks if the second dose is not taken within that period.",
+    "url": "https://economynext.com/sri-lanka-covid-vax-research-elderly-at-risk-if-second-astrazeneca-jab-delayed-84466/",
+    "url_hash": "3db2977db45cd4ea2728c9697fbebb36",
+    "ut": 1627758518,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "16 weeks",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
   }
 ]

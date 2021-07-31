@@ -4750,5 +4750,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka ends work-from-home option despite virus surge",
+    "source": "www.daily-sun.com",
+    "snippet": "COLOMBO: Sri Lanka announced Friday it was ending its work-from-home option for civil servants, ordering all 1.2 million back to the office from Monday despite a surge in coronavirus infections, reports AFP.",
+    "url": "https://www.daily-sun.com/post/567494/Sri-Lanka-ends-workfromhome-option-despite-virus-surge",
+    "url_hash": "f389b6ddabdee454e7f2ab79cdfc8b00",
+    "ut": 1627686499,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.2 million",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AFP",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
   }
 ]
