@@ -1,12 +1,15 @@
 """Tweet."""
-
-
+import time
+import random
+import re
 from utils import twitter, timex
 from news_lk._utils import log
 
 MAX_ARTICLE_AGE = timex.SECONDS_IN.DAY
 MAX_SNIPPET_LENGTH = 200
 TWEETING_ENABLED = False
+
+ENT_TEXT_TO_TWITTER = {}
 
 
 def tweet_article(article):
@@ -20,6 +23,18 @@ def tweet_article(article):
         return False
 
     snippet = article['snippet']
+
+    # transform
+    for ent_info in article['ent_info_list']:
+        text = ent_info['text']
+        label = ent_info['label']
+        if text in ENT_TEXT_TO_TWITTER:
+            twitter_text = ENT_TEXT_TO_TWITTER[text]
+            snippet = snippet.replace(text, twitter_text)
+        if label in ['PERSON']:
+            twitter_text = '#' + re.sub(r'[^a-zA-Z0-9]', '', text)
+            snippet = snippet.replace(text, twitter_text)
+
     if len(snippet) > MAX_SNIPPET_LENGTH:
         snippet = snippet[:MAX_SNIPPET_LENGTH] + '...'
 
@@ -34,8 +49,9 @@ def tweet_article(article):
     banner_image_file = None
 
     if not TWEETING_ENABLED:
-        log.warn('TWEETING_ENABLED = ', TWEETING_ENABLED)
+        log.warn('TWEETING_ENABLED = %s', str(TWEETING_ENABLED))
         return False
+
     twtr = twitter.Twitter.from_args()
     twtr.tweet(
         tweet_text=tweet_text,
@@ -44,28 +60,48 @@ def tweet_article(article):
         profile_image_file=profile_image_file,
         banner_image_file=banner_image_file,
     )
+    time.sleep(random.random()  + 1)
 
 
 if __name__ == '__main__':
     tweet_article(
         {
             "date": "2021-07-30",
-            "title": "Durham bubble breach: Gunathilaka, Mendis and Dickwella suspended from international cricket for one year",
-            "source": "www.msn.com",
-            "snippet": "Danushka Gunathilaka, Kusal Mendis, and Niroshan Dickwella have all been suspended from international cricket for a year for breaking Sri Lanka's bio-bubble on a night out in Durham last month. They have each also been fined 10 million rupees (USD 50,",
-            "url": "https://www.msn.com/en-in/sport/cricket/durham-bubble-breach-gunathilaka-mendis-and-dickwella-suspended-from-international-cricket-for-one-year/ar-AAMKOeL",
-            "url_hash": "ef3d8d44981bd5129a072e0cf8bb6161",
-            "ut": 1627656635,
-            "ent_ids": [
-                "PERSON(Danushka Gunathilaka)",
-                "PERSON(Kusal Mendis)",
-                "PERSON(Niroshan Dickwella)",
-                "DATE(a year)",
-                "GPE(Sri Lanka's)",
-                "TIME(a night)",
-                "GPE(Durham)",
-                "DATE(last month)",
-                "CARDINAL(10 million)",
+            "title": "Sivaji Ganesan was a World class Actor",
+            "source": "www.dailymirror.lk",
+            "snippet": "Sivaji Ganesan, M.G. Ramachandran (MGR) and Gemini Ganesan comprised the triumvirate that dominated Tamil cinema in India from the fifties to the seventies of the 20th century. ..",
+            "url": "https://www.dailymirror.lk/recomended-news/Sivaji-Ganesan-was-a-World-class-Actor/277-217263",
+            "url_hash": "af48f05c6b1aa66a4a323aa07a081b9a",
+            "ut": 1627676364,
+            "ent_info_list": [
+                {
+                    "label": "PERSON",
+                    "text": "Sivaji Ganesan",
+                    "start_end": [0, 2],
+                },
+                {
+                    "label": "PERSON",
+                    "text": "M.G. Ramachandran",
+                    "start_end": [3, 5],
+                },
+                {"label": "ORG", "text": "MGR", "start_end": [6, 7]},
+                {
+                    "label": "PERSON",
+                    "text": "Gemini Ganesan",
+                    "start_end": [9, 11],
+                },
+                {"label": "GPE", "text": "Tamil", "start_end": [16, 17]},
+                {"label": "GPE", "text": "India", "start_end": [19, 20]},
+                {
+                    "label": "DATE",
+                    "text": "the fifties",
+                    "start_end": [21, 23],
+                },
+                {
+                    "label": "DATE",
+                    "text": "the seventies of the 20th century",
+                    "start_end": [24, 30],
+                },
             ],
         },
     )
