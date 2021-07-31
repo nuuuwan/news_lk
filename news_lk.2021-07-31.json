@@ -4934,5 +4934,48 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "More countries hike climate pledges",
+    "source": "www.nagalandpost.com",
+    "snippet": "A group of mostly smaller countries submitted new, more ambitious climate pledges to the United Nations this week, raising pressure on big emitters including China to do the same ahead of a major U.N.",
+    "url": "https://www.nagalandpost.com/more-countries-hike-climate-pledges/237414.html",
+    "url_hash": "704d9750a1d968e7dab8895eb46ac408",
+    "ut": 1627758490,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "U.N.",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
   }
 ]
