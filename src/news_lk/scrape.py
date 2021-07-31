@@ -3,10 +3,21 @@ import os
 import spacy
 from utils import filex, hashx, jsonx, timex, www
 
-from news_lk import scrape_dailymirror, scrape_duckduckgo
+from news_lk import scrape_duckduckgo
 from news_lk._utils import log
 
 nlp = spacy.load("en_core_web_sm")
+
+SEARCH_TEXT_LIST = [
+    'Sri Lanka Daily Mirror',
+    'Sri Lanka Daily News',
+    'Sri Lanka Island',
+    'Ada Derana',
+    'Sri Lanka Associated Press',
+    'Sri Lanka FT',
+    'Sri Lanka',
+    'Sri Lanka EconomyNext',
+]
 
 
 def expand_article_basic(article):
@@ -46,7 +57,9 @@ def expand_article(article):
 
 
 def get_new_articles():
-    new_article_list = scrape_duckduckgo.scrape() + scrape_dailymirror.scrape()
+    new_article_list = []
+    for search_text in SEARCH_TEXT_LIST:
+        new_article_list += scrape_duckduckgo.scrape(search_text)
     return new_article_list
 
 

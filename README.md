@@ -32,3 +32,4 @@
 * [2021-07-28 12:15PM] Add summary md file
 * [2021-07-28 12:28PM] Change summary file name to README.md
 * [2021-07-28 12:33PM] Fix README.md link bug
+* [2021-07-31 08:49AM] Unify scrappers and remove daily mirror scraper

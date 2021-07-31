@@ -7,10 +7,10 @@ from news_lk import _utils
 from news_lk._utils import log
 
 
-def scrape():
+def scrape(search_text):
     url = 'https://duckduckgo.com/?' + urllib.parse.urlencode(
         {
-            'q': 'Sri Lanka',
+            'q': search_text,
             't': 'ffab',
             'iar': 'news',
             'df': 'd',
@@ -43,7 +43,3 @@ def scrape():
         article_list.append(article)
     log.info('Found %d articles', len(article_list))
     return article_list
-
-
-if __name__ == '__main__':
-    scrape()
