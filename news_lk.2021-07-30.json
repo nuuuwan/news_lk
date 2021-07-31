@@ -4530,5 +4530,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "2,455 fresh COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 2,455 more COVID-19 patients have been detected within today increasing the total number of positive cases in Sri Lanka to 306,662 , the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/2-455-fresh-COVID-19-cases-detected-today/108-217225",
+    "url_hash": "12cd93bc9824122039c9423e5ba24fdb",
+    "ut": 1627664969,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "2,455",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "306,662",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          25,
+          29
+        ]
+      }
+    ]
   }
 ]

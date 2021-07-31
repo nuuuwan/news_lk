@@ -2507,5 +2507,566 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "AstraZeneca arrives in Sri Lanka, vaccines to be rolled out from tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "The much awaited stock of 728,460 doses of the Astra Zeneca vaccines arrived at the Bandaranaike International Airport a short while ago from Japan through the WHO's Covax facility. ..",
+    "url": "https://www.dailymirror.lk/top_story/AstraZeneca-arrives-in-Sri-Lanka-vaccines-to-be-rolled-out-from-tomorrow/155-217278",
+    "url_hash": "9c76cee0050429fb1de22c773ffa2898",
+    "ut": 1627729769,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "728,460",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Astra",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "COVID clusters break out among doctors, health workers as Delta spreads",
+    "source": "www.dailymirror.lk",
+    "snippet": "COVID-19 clusters are forming within the health workers with several doctors having being infected with the virus despite being fully vaccinated in recent days, the Daily Mirror learns. ..",
+    "url": "https://www.dailymirror.lk/latest_news/COVID-clusters-break-out-among-doctors-health-workers-as-Delta-spreads/342-217270",
+    "url_hash": "cce6e56fe5de4a868a3ca1fc07277e89",
+    "ut": 1627704569,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "recent days",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The most awaited AstraZeneca COVID vaccine doses arrives in Sri Lanka",
+    "source": "dailynews.lk",
+    "snippet": "A stock of 728,460 doses of AstraZeneca vaccines donated by Japan under the COVAX facility arrived in Sri Lanka. The consignments has arrived from Japan on SriLankan Airlines flight UL455. 566,357 doses of AstraZeneca will be allocated to those who have already received the first dose and the remaining vaccines will be directed to the inoculation drive in Kegalle District.",
+    "url": "https://dailynews.lk/2021/07/31/local/255410/most-awaited-astrazeneca-covid-vaccine-doses-arrives-sri-lanka",
+    "url_hash": "17d4c83b3a94c1b7fcb8a1dcb4068a04",
+    "ut": 1627734393,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "728,460",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "566,357",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AstraZeneca",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kegalle",
+        "start_end": [
+          60,
+          61
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Ariyapala Wanshathilake Kurunegala Central Special Correspondent",
+    "source": "dailynews.lk",
+    "snippet": "Two youths drowned in Deduru Oya, Kooratiyahena on Tuesday (27) evening at around 4.30 pm.The deceased were identified as Sasika Sadun Herath (17) and Chathura Supun Lansakara (22) of Nikaweratiya....",
+    "url": "https://dailynews.lk/line/ariyapala-wanshathilake-kurunegala-central-special-correspondent-7",
+    "url_hash": "89ad827e187214a57c0509fac38415e0",
+    "ut": 1627734333,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Deduru Oya",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kooratiyahena",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "27) evening",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "around 4.30 pm",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sasika Sadun Herath",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Chathura Supun",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lansakara",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nikaweratiya",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: Tokyo sees virus record at Olympics midpoint",
+    "source": "www.wpri.com",
+    "snippet": "The number of COVID-19 cases reported in Tokyo totaled 4,058 people, a daily record, city hall said Saturday, fanning worries as Japan's capital plays host to the Olympic Games. Critics",
+    "url": "https://www.wpri.com/news/us-and-world/the-latest-tokyo-sees-virus-record-at-olympics-midpoint/",
+    "url_hash": "fddf37c08efec18ca57b151647934004",
+    "ut": 1627734097,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,058",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Olympic Games",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Saudi Prince eyes BPO in SL",
+    "source": "www.sundaytimes.lk",
+    "snippet": "After his major investment in Sri Lanka through Union Bank Ltd (UB), Prince Faisal bin Abdulla Al Faisal Al Saud, grandson of the King of Saudi Arabia, is set to invest in the financial and Business Process Outsourcing (BPO) sectors.",
+    "url": "https://www.sundaytimes.lk/110403/BusinessTimes/bt07.html",
+    "url_hash": "5eceff752a5dec2827ca51e58f757029",
+    "ut": 1627735357,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Union Bank Ltd",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UB",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prince Faisal bin Abdulla Al Faisal Al Saud",
+        "start_end": [
+          15,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the King of Saudi Arabia",
+        "start_end": [
+          26,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Military training: Misguided, Counterproductive, and Against Buddhist Values.",
+    "source": "economynext.com",
+    "snippet": "Minister Sarath Weerasekara, a former naval Rear Admiral, insists that all Sri Lankans - especially youth - need military training in camps to build a disciplined society. I am sure he intends well, but his rationale doesn't hold up.",
+    "url": "https://economynext.com/military-training-misguided-counterproductive-and-against-buddhist-values-84453/",
+    "url_hash": "788f13a05ac582efd5b36e366c638a92",
+    "ut": 1627733393,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sarath Weerasekara",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rear Admiral",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "We must not sleepwalk into a global education crisis",
+    "source": "www.msn.com",
+    "snippet": "The pandemic is projected to force an additional 10 per cent of students into learning poverty. In these challenging times, the world needs a bold, fresh and evidence-based vision for education led by awareness,",
+    "url": "https://www.msn.com/en-gb/finance/other/we-must-not-sleepwalk-into-a-global-education-crisis/ar-AAMMwIz",
+    "url_hash": "531c310f7a33cf351a036ee521b68d45",
+    "ut": 1627733745,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "an additional 10 per cent",
+        "start_end": [
+          6,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: Tokyo sees virus record at Olympics midpoint",
+    "source": "apnews.com",
+    "snippet": "The number of COVID-19 cases reported in Tokyo totaled 4,058 people, a daily record, city hall said Saturday, fanning worries as Japan's capital plays host to the Olympic Games. Critics have long said the Olympics should be canceled or postponed,",
+    "url": "https://apnews.com/article/canada-business-health-religion-pakistan-903005494837eeafc8dcd25691733618",
+    "url_hash": "de60c42d24d140d6f1890e970cd05b7f",
+    "ut": 1627733985,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,058",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Olympic Games",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Olympics",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Sri Lanka plans precious cuidados on rice and paddy amid money printing",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will control retail prices of rice through an agreement with millers and punish any retailers and will punish any traders with a 100,000 rupee fine if they defied the order and farmgate paddy (rough rice) prices will also be similarly controlled,",
+    "url": "https://economynext.com/sri-lanka-plans-precious-cuidados-on-rice-and-paddy-amid-money-printing-84455/",
+    "url_hash": "1e8324df7d77308b9609f7f0d69c9be4",
+    "ut": 1627733393,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Sri Lanka white-ball player Udana quits after pay row",
+    "source": "www.msn.com",
+    "snippet": "Sri Lankan white-ball player Isuru Udana, who had resisted recent pay restructuring, quit the national team Saturday in an apparent move to join financially more lucrative foreign leagues. However, sources close to him said Udana,",
+    "url": "https://www.msn.com/en-nz/sports/more-sports/sri-lanka-white-ball-player-udana-quits-after-pay-row/ar-AAMMHY2",
+    "url_hash": "404fbaa268396f956b25ab2fcb561033",
+    "ut": 1627734301,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Isuru Udana",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Udana",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
   }
 ]
