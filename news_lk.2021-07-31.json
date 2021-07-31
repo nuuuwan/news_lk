@@ -1527,5 +1527,91 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Catholic Bishops Conference requests teachers to resume classes",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Catholic Bishops Conference in Sri Lanka has requested the teachers who are keeping away from online classes to consider resuming Zoom classes. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Catholic-Bishops-Conference-requests-teachers-to-resume-classes/108-217276",
+    "url_hash": "327ab7a5b9f3ad196dba72b872a76e92",
+    "ut": 1627711710,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Catholic Bishops Conference",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "\"NIKE\" shoes with LTTE insignia not manufactured by NIKE: FM",
+    "source": "www.dailymirror.lk",
+    "snippet": "The NIKE, Inc. confirmed that the shoes depicted in the video circulating on social media of a pair of shoes, bearing the NIKE logo and LTTE insignia, have not been manufactured by NIKE, the Foreign Ministry said.",
+    "url": "https://www.dailymirror.lk/latest_news/NIKE-shoes-with-LTTE-insignia-not-manufactured-by-NIKE-FM/342-217273",
+    "url_hash": "65d2e8d97b59395ae8de45f3a7b6544e",
+    "ut": 1627704510,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "NIKE",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Inc.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NIKE",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "LTTE insignia",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NIKE",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Foreign Ministry",
+        "start_end": [
+          37,
+          40
+        ]
+      }
+    ]
   }
 ]
