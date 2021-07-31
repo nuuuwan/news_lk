@@ -3068,5 +3068,255 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: West African health officials race to vaccinate",
+    "source": "www.wsav.com",
+    "snippet": "Thousands of new coronavirus cases have been reported in West Africa in recent weeks amid low vaccination rates and the spread of the delta variant. Officials say cases have risen",
+    "url": "https://www.wsav.com/news/international-news/the-latest-tokyo-sees-virus-record-at-olympics-midpoint/",
+    "url_hash": "915cf0cacc232a401894263586ec3637",
+    "ut": 1627733312,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Thousands",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "West Africa",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent weeks",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Uptick in COVID cases as 2,150 more people test positive",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka saw an uptick in COVID-19 figures, as 2,150 more persons were tested positive for the virus today (July 31), says the Ministry of Health",
+    "url": "http://www.adaderana.lk/news.php?nid=75804",
+    "url_hash": "cb0a08e5a6e45e855509abdb960e2891",
+    "ut": 1627736912,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,150",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 31",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          26,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: West African health officials race to vaccinate",
+    "source": "www.beaumontenterprise.com",
+    "snippet": "Officials say cases have risen sharply in Senegal, Ghana, Nigeria and elsewhere. The surge is pushing a reluctant population to seek out the COVID-19 vaccine in larger numbers at a time when doses are arriving from multiple sources after nearly stopping across Africa in recent months.",
+    "url": "https://www.beaumontenterprise.com/news/article/The-Latest-Pakistan-locks-down-Karachi-amid-new-16354127.php",
+    "url_hash": "038b9c4f9df066f03b37b3232b4658b3",
+    "ut": 1627738121,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Senegal",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ghana",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent months",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Sri Lanka plans to curb soaring rice prices in Argentina style move",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will control retail prices of rice through an agreement with millers and punish any retailers and will punish any traders with a 100,000 rupee fine if they defied the order and farmgate paddy (rough rice) prices will also be similarly controlled,",
+    "url": "https://economynext.com/sri-lanka-plans-to-curb-soaring-rice-prices-in-argentina-style-move-84455/",
+    "url_hash": "a1d2b69edeb80f6578f3d463122ae607",
+    "ut": 1627733331,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Sri Lanka plans precious cuidados on soaring rice prices amid money printing",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will control retail prices of rice through an agreement with millers and punish any retailers and will punish any traders with a 100,000 rupee fine if they defied the order and farmgate paddy (rough rice) prices will also be similarly controlled,",
+    "url": "https://economynext.com/sri-lanka-plans-precious-cuidados-on-soaring-rice-prices-amid-money-printing-84455/",
+    "url_hash": "a2fc72141b99dfc8db23d71bc4913250",
+    "ut": 1627733331,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: Tokyo sees virus record at Olympics midpoint",
+    "source": "www.conchovalleyhomepage.com",
+    "snippet": "The number of COVID-19 cases reported in Tokyo totaled 4,058 people, a daily record, city hall said Saturday, fanning worries as Japan's capital plays host to the Olympic Games. Critics",
+    "url": "https://www.conchovalleyhomepage.com/news/national-news/the-latest-tokyo-sees-virus-record-at-olympics-midpoint/",
+    "url_hash": "5adbb41c97741a4a9f0ac80e269e4652",
+    "ut": 1627733340,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,058",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Olympic Games",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
   }
 ]
