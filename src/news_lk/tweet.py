@@ -5,6 +5,7 @@ from utils import twitter, timex
 from news_lk._utils import log
 
 MAX_ARTICLE_AGE = timex.SECONDS_IN.DAY
+MAX_SNIPPET_LENGTH = 200
 
 
 def tweet_article(article):
@@ -17,10 +18,14 @@ def tweet_article(article):
         log.warn('%s: Article too old. Not tweeting', url_hash)
         return False
 
+    snippet = article['snippet']
+    if len(snippet) > MAX_SNIPPET_LENGTH:
+        snippet = snippet[:MAX_SNIPPET_LENGTH] + '...'
+
     tweet_text = '''{snippet}
 
 {url}'''.format(
-        snippet=article['snippet'][:100] + '...',
+        snippet=snippet,
         url=url,
     )
     status_image_files = None

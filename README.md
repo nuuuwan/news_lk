@@ -43,3 +43,5 @@
 * [2021-07-31 09:16AM] Remove Adaderana and Sri Lanka
 * [2021-07-31 10:01AM] Add more news sources
 * [2021-07-31 10:03AM] Add tweeting
+* [2021-07-31 10:24AM] Add entities and other features to tweets
+* [2021-07-31 10:28AM] Normalize NER info

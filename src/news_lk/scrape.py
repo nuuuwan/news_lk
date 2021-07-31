@@ -10,14 +10,14 @@ nlp = spacy.load("en_core_web_sm")
 
 SEARCH_TEXT_LIST = [
     'Sri Lanka Daily Mirror',
-    'Sri Lanka Daily News',
-    'Sri Lanka Island',
-    'Sri Lanka Ada Derana',
-    'Sri Lanka Associated Press',
-    'Sri Lanka FT',
-    'Sri Lanka EconomyNext',
-    'Sri Lanka Colombo Gazette',
-    'Sri Lanka Colombo Page',
+    # 'Sri Lanka Daily News',
+    # 'Sri Lanka Island',
+    # 'Sri Lanka Ada Derana',
+    # 'Sri Lanka Associated Press',
+    # 'Sri Lanka FT',
+    # 'Sri Lanka EconomyNext',
+    # 'Sri Lanka Colombo Gazette',
+    # 'Sri Lanka Colombo Page',
 ]
 
 
@@ -34,16 +34,21 @@ def expand_article(article):
     article['source'] = source
 
     doc = nlp(article['snippet'])
-    ent_ids = []
+    ent_info_list = []
     for ent in doc.ents:
-        ent_id = '%s(%s)' % (ent.label_, ent.text)
-        ent_ids.append(ent_id)
+        ent_info = {
+            'label': ent.label_,
+            'text': ent.text,
+            'start_end': [ent.start, ent.end],
+        }
+        print(ent, ent_info)
+        ent_info_list.append(ent_info)
     log.info(
         'Extracted %d ents from %s',
-        len(ent_ids),
+        len(ent_info_list),
         url,
     )
-    article['ent_ids'] = ent_ids
+    article['ent_info_list'] = ent_info_list
 
     return {
         'date': article['date'],
@@ -53,7 +58,7 @@ def expand_article(article):
         'url': article['url'],
         'url_hash': article['url_hash'],
         'ut': article['ut'],
-        'ent_ids': article['ent_ids'],
+        'ent_info_list': article['ent_info_list'],
     }
 
 
