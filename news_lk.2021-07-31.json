@@ -3621,5 +3621,295 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Three-member panel to submit comprehensive report: Police",
+    "source": "www.dailymirror.lk",
+    "snippet": "The three-member panel which performed the second postmortem into the death of a 16-year-old girl who was working as a domestic aide at former minister Rishad Bathiudeen's residence, would submit a comprehensive report,",
+    "url": "https://www.dailymirror.lk/latest_news/Three-member-panel-to-submit-comprehensive-report-Police/342-217280",
+    "url_hash": "712556ff550128d7a34b4cafe80b139a",
+    "ut": 1627736905,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "16-year-old",
+        "start_end": [
+          15,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen's",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "1,906 more COVID-19 patients recover",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 1,906 more COVID-19 patients recovered and were discharged from hospital increasing the total number of recoveries in Sri Lanka to 277,118, the Health Ministry said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/1-906-more-COVID-19-patients-recover/108-217279",
+    "url_hash": "2942a3b6efcf17cb4d220bf863b436e6",
+    "ut": 1627729705,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "1,906",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "277,118",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Birthday boy Hasaranga stars as Sri Lanka clinch T20 series against India",
+    "source": "www.gulftoday.ae",
+    "snippet": "Opting to bat first, India had a poor start when captain Shikhar Dhawan got out for a golden duck, falling in the first over.",
+    "url": "https://www.gulftoday.ae/sport/2021/07/29/birthday-boy-hasaranga-takes-four-as-india-crash-to-81-8-in-t20-decider-against-sri-lanka",
+    "url_hash": "49d3c06aa7d016e0097a7fcde953a7fe",
+    "ut": 1627745795,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shikhar Dhawan",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Another consignment of AstraZeneca vaccines to reach Sri Lanka (Video)",
+    "source": "www.hirunews.lk",
+    "snippet": "The consignment of 728,460 doses of AstraZeneca vaccine reached Sri Lanka on SriLankan Airlines flight UL-455 this morning. The consignment left the Narita International Airport in Tokyo, Japan. The flight departed from Narita International Airport at 11.",
+    "url": "https://www.hirunews.lk/english/278523/another-consignment-of-astrazeneca-vaccines-to-reach-sri-lanka-video",
+    "url_hash": "4637666a30b7f87e760e14285ec8a7fa",
+    "ut": 1627744115,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "728,460",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Narita International Airport",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Narita International Airport",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "11",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Gibbs accuses BCCI of pressuring him to not play in Kashmir",
+    "source": "apnews.com",
+    "snippet": "Former South Africa international cricketer Herschelle Gibbs accused the Indian cricket board of trying to stop him from participating in a Twenty20 league in Azad Kashmir.",
+    "url": "https://apnews.com/782b3dc17e379cbc94445d25827cd630",
+    "url_hash": "450d0a6719e571a24f3df90feddbe5ff",
+    "ut": 1627744123,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Herschelle Gibbs",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Azad Kashmir",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Sri Lanka follows Argentina into 'precios cuidados' on rice prices amid money printing",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will control retail prices of rice through an agreement with millers and punish any retailers and will punish any traders with a 100,000 rupee fine if they defied the order and farmgate paddy (rough rice) prices will also be similarly controlled,",
+    "url": "https://economynext.com/sri-lanka-follows-argentina-into-precios-cuidados-on-rice-prices-amid-money-printing-84455/",
+    "url_hash": "d8a0a4455fce9867e71b8179d75a4dcc",
+    "ut": 1627733331,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
   }
 ]
