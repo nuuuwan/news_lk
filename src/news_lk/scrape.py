@@ -3,7 +3,7 @@ import os
 import spacy
 from utils import filex, hashx, jsonx, timex, www
 
-from news_lk import scrape_duckduckgo
+from news_lk import scrape_duckduckgo, tweet
 from news_lk._utils import log
 
 nlp = spacy.load("en_core_web_sm")
@@ -69,7 +69,6 @@ def scrape_and_dump():
     log.info('Got %d new articles', len(new_article_list))
     new_article_list = list(map(expand_article_basic, new_article_list))
 
-    # group by date, dump and dump
     date_to_hash_to_article = {}
     for article in new_article_list:
         date = article['date']
@@ -100,7 +99,9 @@ def scrape_and_dump():
         for hash, article in date_to_hash_to_article[date].items():
             if hash in existing_article_hashes:
                 continue
-            upload_article_list.append(expand_article(article))
+            expanded_new_article = expand_article(article)
+            tweet.tweet_article(expanded_new_article)
+            upload_article_list.append(expanded_new_article)
 
         data_file = '/tmp/%s' % file_only
         jsonx.write(data_file, upload_article_list)

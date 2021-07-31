@@ -42,3 +42,4 @@
 * [2021-07-31 09:08AM] Update data README.md summary text
 * [2021-07-31 09:16AM] Remove Adaderana and Sri Lanka
 * [2021-07-31 10:01AM] Add more news sources
+* [2021-07-31 10:03AM] Add tweeting
