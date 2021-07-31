@@ -60,7 +60,7 @@ def tweet_article(article):
         profile_image_file=profile_image_file,
         banner_image_file=banner_image_file,
     )
-    time.sleep(random.random()  + 1)
+    time.sleep(random.random() + 1)
 
 
 if __name__ == '__main__':
