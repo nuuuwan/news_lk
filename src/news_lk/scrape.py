@@ -12,10 +12,9 @@ SEARCH_TEXT_LIST = [
     'Sri Lanka Daily Mirror',
     'Sri Lanka Daily News',
     'Sri Lanka Island',
-    'Ada Derana',
+    'Sri Lanka Ada Derana',
     'Sri Lanka Associated Press',
     'Sri Lanka FT',
-    'Sri Lanka',
     'Sri Lanka EconomyNext',
 ]
 
@@ -118,7 +117,7 @@ def scrape_and_dump():
         )
     summary_stats_list = sorted(summary_stats_list, key=lambda d: d['date'])
     base_url = 'https://github.com/nuuuwan/news_lk/blob/data'
-    lines = ['# Summary']
+    lines = ['# Summary', '*Latest scrapes*']
     for d in summary_stats_list:
         date = d['date']
         file_only = 'news_lk.%s.json' % date
