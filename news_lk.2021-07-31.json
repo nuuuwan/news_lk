@@ -1138,5 +1138,394 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "AstraZeneca finally on its way",
+    "source": "www.dailymirror.lk",
+    "snippet": "Over 750,000 doses of the AstraZeneca will arrive in Sri Lanka today evening from Japan, through the WHO's Covax facility. The government said priority will be given to those who received their first doses.",
+    "url": "https://www.dailymirror.lk/caption_story/AstraZeneca-finally-on-its-way/110-217275",
+    "url_hash": "e60204e5210432b53229d2daf4fc0a2c",
+    "ut": 1627711677,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "AstraZeneca",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "evening",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Highest COVID cases",
+    "source": "www.dailynews.lk",
+    "snippet": "The National Operation Centre for the Prevention of COVID-19 had identified 2,460 positive cases by this morning. The majority positive cases were detected from the Gampaha district (535 cases).",
+    "url": "http://www.dailynews.lk/tags/highest-covid-cases",
+    "url_hash": "6ae0cc6bae2e22d95d621be758721b4d",
+    "ut": 1627714382,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The National Operation Centre",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,460",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "535",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "No change in plan as BCCI Secy. backs team`s request to fly in Suryakumar, Shaw",
+    "source": "www.msn.com",
+    "snippet": "This after there were doubts on whether there will be a change of plan with the duo being isolated as close contacts of Krunal Pandya in Colombo ahead of the second T20I in the Island Nation",
+    "url": "https://www.msn.com/en-in/sport/other/no-change-in-plan-as-bcci-secy-backs-team-s-request-to-fly-in-suryakumar-shaw/ar-AAMMhnd",
+    "url_hash": "8be880f70d8df3e5295b8b6f34c90b8d",
+    "ut": 1627714927,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Krunal Pandya",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Team India lands in Bangalore, COVID-19 positive players to stay back in Sri Lanka for isolation",
+    "source": "www.crictracker.com",
+    "snippet": "Team India that was led by Shikhar Dhawan in the white-ball series against Sri Lanka has landed in Bangalore on 30th July, Friday.",
+    "url": "https://www.crictracker.com/team-india-lands-in-bangalore-covid-19-positive-players-to-stay-back-in-sri-lanka-for-isolation/",
+    "url_hash": "deb8238a14ac14f721840df66a62fc54",
+    "ut": 1627713907,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Team India",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shikhar Dhawan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangalore",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30th July,",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Eng vs Ind: No change in plan as BCCI Secretary backs team's request to fly in Surya and Shaw",
+    "source": "www.aninews.in",
+    "snippet": "The Board of Control for Cricket in India (BCCI) Secretary Jay Shah has backed the request of the team management and Prithvi Shaw and Suryakumar will join the Indian contingent in England for the five-match Test series.",
+    "url": "https://www.aninews.in/news/sports/cricket/eng-vs-ind-no-change-in-plan-as-bcci-secretary-backs-teams-request-to-fly-in-surya-and-shaw20210731094124/",
+    "url_hash": "c56538e125ae2182ec841c6819793516",
+    "ut": 1627697287,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Board of Control for Cricket",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BCCI",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jay Shah",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prithvi Shaw",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Suryakumar",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "'I got inspired after watching his fitness videos' - Chamika Karunaratne reveals how Hardik Pandya motivated him during his tough time",
+    "source": "www.crictracker.com",
+    "snippet": "In an interview that was posted by the Twitter handle of Island Cricket, Chamika Karunaratne revealed that he is a huge fan of Hardik Pandya.",
+    "url": "https://www.crictracker.com/i-got-inspired-after-watching-his-fitness-videos-chamika-karunaratne-reveals-how-hardik-pandya-motivated-him-during-his-tough-time/",
+    "url_hash": "a8c588d2bc8c9b039ae1a5e063898d63",
+    "ut": 1627711747,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Twitter",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chamika Karunaratne",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Hardik Pandya",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "All you need to know about the swanky INR 30 crore apartment of Krunal and Hardik Pandya in Mumbai",
+    "source": "www.crictracker.com",
+    "snippet": "And, the Pandya brothers have now splurged a lot of money to buy a swanky apartment in Mumbai. The house is reportedly an 8-BHK apartment and has an area of 3838 sq.ft. Also, the Pandya brothers will be neighbours to Bollywood actors Tiger Shroff and Disha Patani.",
+    "url": "https://www.crictracker.com/all-you-need-to-know-about-the-swanky-inr-30-crore-apartment-of-krunal-and-hardik-pandya-in-mumbai/",
+    "url_hash": "0c07903ff3ee8fcf4e0f11aae30d04d9",
+    "ut": 1627714221,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pandya",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3838",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pandya",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bollywood",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tiger Shroff",
+        "start_end": [
+          48,
+          50
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Disha Patani",
+        "start_end": [
+          51,
+          53
+        ]
+      }
+    ]
   }
 ]

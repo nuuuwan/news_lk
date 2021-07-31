@@ -3819,5 +3819,99 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "CP governor approves feasibility study for proposed Kandy cable car project",
+    "source": "www.dailymirror.lk",
+    "snippet": "Governor Lalith U Gamage today granted permission to conduct a feasibility study for the proposed cable car project as a suitable solution to reduce traffic congestion and pollution in Kandy city. ..",
+    "url": "https://www.dailymirror.lk/latest_news/CP-governor-approves-feasibility-study-for-proposed-Kandy-cable-car-project/342-217212",
+    "url_hash": "05226e1ad0b6959345c1db746d0a298e",
+    "ut": 1627643277,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Lalith U Gamage",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "May the long-lasting Sri Lanka-China friendship bear new fruits: Defence Secy.",
+    "source": "www.ft.lk",
+    "snippet": "General G.D.H. Kamal Gunaratne (Retd) extended sincere congratulations on the first anniversary of the Chinese National Defence University (NDU) Alumni Association of Sri Lanka, as well as the forthcoming 94th anniversary of the Founding of the Chinese People\u0432\u0402\u2122s Liberation Army (PLA).",
+    "url": "https://www.ft.lk/opinion/May-the-long-lasting-Sri-Lanka-China-friendship-bear-new-fruits-Defence-Secy/14-721082",
+    "url_hash": "382e88c04d7d08505699036363f6b22c",
+    "ut": 1627668501,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Retd",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Chinese National Defence University",
+        "start_end": [
+          15,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "94th",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Liberation Army",
+        "start_end": [
+          45,
+          47
+        ]
+      }
+    ]
   }
 ]
