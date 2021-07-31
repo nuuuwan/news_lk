@@ -4351,5 +4351,244 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Health Ministry announces locations in WP where AztraZeneca jabs are given",
+    "source": "www.dailymirror.lk",
+    "snippet": "The newly received AztraZeneca vaccines will be administered in several locations in the Western Province from tomorrow as the second dose for the recipients of the first dose, the Health Ministry said.",
+    "url": "https://www.dailymirror.lk/top_story/Health-Ministry-announces-locations-in-WP-where-AztraZeneca-jabs-are-given/155-217282",
+    "url_hash": "2cff53461b50f7546b07f85945edcab7",
+    "ut": 1627744083,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "AztraZeneca",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Singer Umariya arrested over accident in Rajagiriya",
+    "source": "www.dailymirror.lk",
+    "snippet": "Popular singer Umaria Sinhawansa has been arrested by the Welikada Police this evening following an accident near the Rajagiriya flyover. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Singer-Umariya-arrested-over-accident-in-Rajagiriya/108-217283",
+    "url_hash": "c12479678d8d6c7f775d753e2e73e439",
+    "ut": 1627747683,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Umaria Sinhawansa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Welikada Police",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this evening",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Rajagiriya",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "State of Emergency",
+    "source": "dailynews.lk",
+    "snippet": "Japan has expanded the state of emergency to three prefectures near Olympic host Tokyo and the western prefecture of Osaka, as COVID-19 cases spike in the capital and around the",
+    "url": "https://dailynews.lk/tags/state-emergency",
+    "url_hash": "b72b5fc997c4dfee68d29e5d129575b7",
+    "ut": 1627753567,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Olympic",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Osaka",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "We must not sleepwalk into a global education crisis",
+    "source": "www.independent.co.uk",
+    "snippet": "The pandemic is projected to force an additional 10 per cent of students into learning poverty. In these challenging times, the world needs a bold, fresh and evidence-based vision for education led by awareness,",
+    "url": "https://www.independent.co.uk/voices/covid-education-poverty-schools-aid-b1893681.html?src=rss",
+    "url_hash": "04de20272a7c18b2cdd451f672f50dba",
+    "ut": 1627726099,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "an additional 10 per cent",
+        "start_end": [
+          6,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: Tokyo sees virus record at Olympics midpoint",
+    "source": "www.chron.com",
+    "snippet": "TOKYO \u2014 The number of COVID-19 cases reported in Tokyo totaled 4,058 people, a daily record, city hall said Saturday, fanning worries as Japan's capital plays host to the Olympic Games. Critics have long said the Olympics should be canceled or postponed,",
+    "url": "https://www.chron.com/business/article/The-Latest-Pakistan-locks-down-Karachi-amid-new-16354127.php",
+    "url_hash": "938495611834f521002fb8ec655b0be3",
+    "ut": 1627747699,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,058",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Olympic Games",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Olympics",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
   }
 ]
