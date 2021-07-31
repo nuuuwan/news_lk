@@ -135,5 +135,51 @@
       "DATE(one-year)",
       "CARDINAL(three)"
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "India vs Sri Lanka: A Mini Reality Check for Young India, and a Problem of Plenty in Spin",
+    "source": "www.msn.com",
+    "snippet": "India's tour of Sri Lanka has ended, with India taking the ODIs 2-1 and Sri Lanka taking the T20Is by the same margin. India started their tour with their second string squad, and by the time it ended,",
+    "url": "https://www.msn.com/en-in/sports/cricket/india-vs-sri-lanka-a-mini-reality-check-for-young-india-and-a-problem-of-plenty-in-spin/ar-AAMLMpc",
+    "url_hash": "ceb1f51882551cdaabce1f4b26855df8",
+    "ut": 1627697291,
+    "ent_ids": [
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "GPE(Sri Lanka)",
+      "GPE(India)",
+      "ORDINAL(second)"
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "In Case You Missed It: Sri Lanka, Australia fight back, the Hundred finds its rhythm",
+    "source": "www.msn.com",
+    "snippet": "A week into the Hundred and the competition is heating up almost as much as the debate around the tournament. Meanwhile Covid curveballs continue, with India having to revise their T20I line-up in Sri Lanka,",
+    "url": "https://www.msn.com/en-in/sports/cricket/in-case-you-missed-it-sri-lanka-australia-fight-back-the-hundred-finds-its-rhythm/ar-AAMLHI7",
+    "url_hash": "95c3c88948d9141333cb9a8032efeb5d",
+    "ut": 1627699751,
+    "ent_ids": [
+      "NORP(Covid)",
+      "GPE(India)",
+      "GPE(Sri Lanka)"
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "CSA confirms white-ball tour of Sri Lanka",
+    "source": "www.dawn.com",
+    "snippet": "JOHANNESBURG: Cricket South Africa (CSA) has confirmed a white-ball tour of Sri Lanka by the national side from",
+    "url": "https://www.dawn.com/news/1637842",
+    "url_hash": "123bc03bc67fdfc56db584604f9f4dd8",
+    "ut": 1627693691,
+    "ent_ids": [
+      "PERSON(JOHANNESBURG)",
+      "GPE(South Africa)",
+      "GPE(CSA)",
+      "GPE(Sri Lanka)"
+    ]
   }
 ]
