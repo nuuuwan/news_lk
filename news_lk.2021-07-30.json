@@ -1938,5 +1938,59 @@
       "GPE(England)",
       "DATE(one-year)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Dickwella, Mendis, Gunathilaka banned for one year, fined 10 million rupees: Sri Lanka Cricket",
+    "source": "www.hindustantimes.com",
+    "snippet": "The trio was caught on camera on the streets of Durham during the limited-overs series, which was a bio-bubble breach and they were sent back home midway into the tour and were suspended.",
+    "url": "https://www.hindustantimes.com/cricket/dickwella-mendis-gunathailaka-banned-for-one-year-fined-10-million-rupees-sri-lanka-cricket-101627657823984.html",
+    "url_hash": "722115067c1ceffb30b7f849805038fa",
+    "ut": 1627658191,
+    "ent_ids": [
+      "GPE(Durham)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Ceylon Curry Club Launches New Restaurant Taking Sri Lankan Contemporary Food to The Next Level",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Ceylon Curry Club, Sri Lanka's renowned contemporary food fad, recently opened its doors to the public with the launch of its new dine-in restaurant at the Dutch Hospital Precinct, Colombo. Offering a tantalizing plethora of Sri Lankan dishes,",
+    "url": "http://bizenglish.adaderana.lk/ceylon-curry-club-launches-new-restaurant-taking-sri-lankan-contemporary-food-to-the-next-level/",
+    "url_hash": "f8cbd8959b9a9a277bcf1361ff33da1d",
+    "ut": 1627632991,
+    "ent_ids": [
+      "PERSON(Ceylon Curry Club)",
+      "GPE(Sri Lanka's)",
+      "FAC(the Dutch Hospital Precinct, Colombo)",
+      "NORP(Sri Lankan)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lankan shares end lower as financials drop, post weekly loss",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares closed lower on Friday and posted a weekly loss, dragged down by financial and consumer staples stocks.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close-idUSL4N2P62K7",
+    "url_hash": "0fea132aa2e785491348401c5ba9fc25",
+    "ut": 1627640191,
+    "ent_ids": [
+      "NORP(Sri Lankan)",
+      "DATE(Friday)",
+      "DATE(weekly)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "India vs Sri Lanka: Rahul Dravid Says Youngsters Would Have Learnt that 'Not All Wickets are Flat'",
+    "source": "www.msn.com",
+    "snippet": "Rahul Dravid believes that the new crop of Indian batsmen will learn with experience that \"not all wickets will be flat\"",
+    "url": "https://www.msn.com/en-in/sports/cricket/india-vs-sri-lanka-rahul-dravid-says-youngsters-would-have-learnt-that-not-all-wickets-are-flat/ar-AAMKlGM",
+    "url_hash": "83f2493ed7ad147719e888a0423260ab",
+    "ut": 1627647391,
+    "ent_ids": [
+      "PERSON(Rahul Dravid)",
+      "NORP(Indian)"
+    ]
   }
 ]
