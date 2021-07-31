@@ -6,6 +6,7 @@ from news_lk._utils import log
 
 MAX_ARTICLE_AGE = timex.SECONDS_IN.DAY
 MAX_SNIPPET_LENGTH = 200
+TWEETING_ENABLED = False
 
 
 def tweet_article(article):
@@ -32,6 +33,9 @@ def tweet_article(article):
     profile_image_file = None
     banner_image_file = None
 
+    if not TWEETING_ENABLED:
+        log.warn('TWEETING_ENABLED = ', TWEETING_ENABLED)
+        return False
     twtr = twitter.Twitter.from_args()
     twtr.tweet(
         tweet_text=tweet_text,

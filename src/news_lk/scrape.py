@@ -10,14 +10,14 @@ nlp = spacy.load("en_core_web_sm")
 
 SEARCH_TEXT_LIST = [
     'Sri Lanka Daily Mirror',
-    # 'Sri Lanka Daily News',
-    # 'Sri Lanka Island',
-    # 'Sri Lanka Ada Derana',
-    # 'Sri Lanka Associated Press',
-    # 'Sri Lanka FT',
-    # 'Sri Lanka EconomyNext',
-    # 'Sri Lanka Colombo Gazette',
-    # 'Sri Lanka Colombo Page',
+    'Sri Lanka Daily News',
+    'Sri Lanka Island',
+    'Sri Lanka Ada Derana',
+    'Sri Lanka Associated Press',
+    'Sri Lanka FT',
+    'Sri Lanka EconomyNext',
+    'Sri Lanka Colombo Gazette',
+    'Sri Lanka Colombo Page',
 ]
 
 
@@ -41,7 +41,6 @@ def expand_article(article):
             'text': ent.text,
             'start_end': [ent.start, ent.end],
         }
-        print(ent, ent_info)
         ent_info_list.append(ent_info)
     log.info(
         'Extracted %d ents from %s',

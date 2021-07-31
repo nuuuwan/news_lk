@@ -45,3 +45,4 @@
 * [2021-07-31 10:03AM] Add tweeting
 * [2021-07-31 10:24AM] Add entities and other features to tweets
 * [2021-07-31 10:28AM] Normalize NER info
+* [2021-07-31 10:43AM] Reenable SEARCH_TEXT_LIST
