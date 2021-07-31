@@ -4318,5 +4318,80 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Nanjing: New virus outbreak worst after Wuhan, say Chinese state media",
+    "source": "www.dailymirror.lk",
+    "snippet": "A Covid outbreak first discovered in the Chinese city of Nanjing has spread to five provinces and Beijing, with state media calling it the most extensive contagion after Wuhan, the BBC reported. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Nanjing-New-virus-outbreak-worst-after-Wuhan-say-Chinese-state-media/108-217218",
+    "url_hash": "1a9cfc1c3d7a90866c0140053bcae59c",
+    "ut": 1627646893,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nanjing",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wuhan",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BBC",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
   }
 ]
