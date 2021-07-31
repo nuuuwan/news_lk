@@ -16,6 +16,8 @@ SEARCH_TEXT_LIST = [
     'Sri Lanka Associated Press',
     'Sri Lanka FT',
     'Sri Lanka EconomyNext',
+    'Sri Lanka Colombo Gazette',
+    'Sri Lanka Colombo Page',
 ]
 
 
