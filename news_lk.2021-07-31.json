@@ -4590,5 +4590,118 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Nimal Wijayatunga Eheliyagoda Special Correspondent",
+    "source": "dailynews.lk",
+    "snippet": "Many small-scale gem businessmen in the Sabaragamuwa Province (SP) complain that gems are scarce in the province at present due to a by-passing traditional marketing path.Those businessmen around the...",
+    "url": "https://dailynews.lk/line/nimal-wijayatunga-eheliyagoda-special-correspondent-3",
+    "url_hash": "fc1fcd7fca44c8e5128bd65bf327cb3d",
+    "ut": 1627755464,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "the Sabaragamuwa Province",
+        "start_end": [
+          7,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Belihuloya Group Cor.",
+    "source": "dailynews.lk",
+    "snippet": "The Sri Lanka Sabaragamuwa University Lecturers' Association staged a protest against the Kotelawala Defence University (KDU) Bill at the Pambahinna Junction, yesterday.Association President...",
+    "url": "https://dailynews.lk/line/belihuloya-group-cor",
+    "url_hash": "361fb74798542c97fd816458e5edb678",
+    "ut": 1627704464,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Sabaragamuwa University Lecturers' Association",
+        "start_end": [
+          0,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Kotelawala Defence University",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "KDU",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Pambahinna Junction",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "T20 Series",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka wins the three series match by 2-1.",
+    "url": "https://dailynews.lk/tags/t20-series",
+    "url_hash": "559b9f4a4e65515d8a3f177619be441b",
+    "ut": 1627757984,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
   }
 ]
