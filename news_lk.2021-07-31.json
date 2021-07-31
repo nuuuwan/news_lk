@@ -3911,5 +3911,445 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "61 more succumb to COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 61 more COVID-19 related deaths that occurred yesterday (30) were confirmed by the Director-General of Health Services today pushing the death toll to 4,441. ..",
+    "url": "https://www.dailymirror.lk/latest_news/61-more-succumb-to-COVID-19/342-217281",
+    "url_hash": "63475487a800dd98231b348533a94304",
+    "ut": 1627744191,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "61",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,441",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Three-member panel to submit comprehensive report: Police",
+    "source": "www.dailymirror.lk",
+    "snippet": "The three-member panel which performed the second postmortem into the death of a 16-year-old girl who was working as a domestic aide at former minister Rishad Bathiudeen's residence, would submit a comprehensive report,",
+    "url": "https://www.dailymirror.lk/breaking_news/Three-member-panel-to-submit-comprehensive-report-Police/108-217280",
+    "url_hash": "5f8cfc02d0c72742f712cd90bb8c0997",
+    "ut": 1627736991,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "16-year-old",
+        "start_end": [
+          15,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen's",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "AstraZeneca second dose will be administered from tomorrow in WP",
+    "source": "dailynews.lk",
+    "snippet": "The second dose of the AstraZeneca COVID-19 vaccine will be administered in the Colombo, Kalutara and Gampaha Districts from tomorrow (August 1), announced the Health Ministry. The public are requested to bring their National Identity Cards (NICs) and vaccination card.",
+    "url": "https://dailynews.lk/2021/07/31/local/255412/astrazeneca-second-dose-will-be-administered-tomorrow-wp",
+    "url_hash": "292a0c31d9eebe1de3ff0d2e9f54afc0",
+    "ut": 1627748276,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kalutara",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gampaha Districts",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 1",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Identity Cards",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "3WGE: Changing your destiny, realizing your dreams\u2026",
+    "source": "www.sundaytimes.lk",
+    "snippet": "WGE: Changing your destiny, realizing your dreams\u2026 overseas education in Australia and New Zealand: Sri Lankan population studying overseas has seen a tremendous growth during",
+    "url": "https://www.sundaytimes.lk/101114/Education/ed03.html",
+    "url_hash": "38f652f6e38e3c46a43f42ebb06a4bb7",
+    "ut": 1627749480,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Another consignment of AstraZeneca vaccines to reach Sri Lanka (Video)",
+    "source": "www.hirunews.lk",
+    "snippet": "The consignment of 728,460 doses of AstraZeneca vaccine reached Sri Lanka on SriLankan Airlines flight UL-455 this morning. The consignment left the Narita International Airport in Tokyo, Japan. The flight departed from Narita International Airport at 11.",
+    "url": "https://www.hirunews.lk/goldfmnews/278523/another-consignment-of-astrazeneca-vaccines-to-reach-sri-lanka-video",
+    "url_hash": "d0bf07dfd5fa2ae77b55fc598c0e68c3",
+    "ut": 1627744200,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "728,460",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Narita International Airport",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Narita International Airport",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "11",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Herschelle Gibbs accuses BCCI of pressuring him to not play in Kashmir Premier League",
+    "source": "www.hindustantimes.com",
+    "snippet": "Gibbs plans to play for the Overseas Warriors in the six-team Kashmir Premier League, which runs from August 6-17 and includes several retired international cricketers.",
+    "url": "https://www.hindustantimes.com/cricket/herschelle-gibbs-accuses-bcci-of-pressuring-him-to-not-play-in-kashmir-premier-league-101627748364573.html",
+    "url_hash": "1a3947f982c34426747b3a73c9869112",
+    "ut": 1627748530,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gibbs",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Overseas Warriors",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kashmir Premier League",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 6-17",
+        "start_end": [
+          20,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: U.S. eviction moratorium ends amid virus surge",
+    "source": "www.seattlepi.com",
+    "snippet": "Housing advocates fear the end of the Centers for Disease Control and Prevention moratorium could result in millions of people being evicted in the coming weeks, forcing some to become homeless just as the highly contagious delta variant of the coronavirus is rapidly spreading.",
+    "url": "https://www.seattlepi.com/business/article/The-Latest-Pakistan-locks-down-Karachi-amid-new-16354127.php",
+    "url_hash": "fd375f67b21d5a06eb2ebe269fabde52",
+    "ut": 1627750630,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Centers for Disease Control and Prevention",
+        "start_end": [
+          6,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming weeks",
+        "start_end": [
+          23,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Sri Lanka to roll out new AstraZeneca jabs at 20+ vaccination centres in western prov",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka health authorities will start rolling out a fresh-off-the-plane consignment of the AstraZeneca COVID-19 vaccine in 20 inoculation centres in the western province Sunday (01), Health Minister Pavithra Wanniarachchi said.",
+    "url": "https://economynext.com/sri-lanka-to-roll-out-new-astrazeneca-jabs-at-20-vaccination-centres-in-western-prov-84465/",
+    "url_hash": "1e9fa81a15d4637b240565d3f9678472",
+    "ut": 1627747819,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pavithra Wanniarachchi",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
   }
 ]
