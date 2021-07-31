@@ -1100,5 +1100,65 @@
       "PERCENT(0.5 percent)",
       "DATE(the month)"
     ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Suspended trio's ban period reduced, fine enhanced",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Cricket (SLC) has reduced the length of the suspension period recommended by the inquiry committee on the suspended trio who breached the bio-bubble during last month's tour of England. ..",
+    "url": "https://www.dailymirror.lk/headline/Suspended-trios-ban-period-reduced-fine-enhanced/419-217222",
+    "url_hash": "5a4efcc8a7f6791d92ccda1c69f27575",
+    "ut": 1627654090,
+    "ent_ids": [
+      "ORG(Sri Lanka Cricket)",
+      "ORG(SLC)",
+      "DATE(last month's)",
+      "GPE(England)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "2,455 fresh COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 2,455 more COVID-19 patients have been detected within today increasing the total number of positive cases in Sri Lanka to 306,662 , the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/2-455-fresh-COVID-19-cases-detected-today/108-217225",
+    "url_hash": "12cd93bc9824122039c9423e5ba24fdb",
+    "ut": 1627664890,
+    "ent_ids": [
+      "CARDINAL(2,455)",
+      "DATE(today)",
+      "GPE(Sri Lanka)",
+      "CARDINAL(306,662)",
+      "ORG(the Government Information Department)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Lanka ends work-from-home option despite virus surge",
+    "source": "www.newagebd.net",
+    "snippet": "Sri Lanka announced Friday it was ending its work-from-home option for civil servants, ordering all 1.2 million back to the office from Monday despite",
+    "url": "https://www.newagebd.net/article/145025/lanka-ends-work-from-home-option-despite-virus-surge",
+    "url_hash": "1220d5c41829d8514a0825ffee10b8a3",
+    "ut": 1627668499,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "DATE(Friday)",
+      "CARDINAL(1.2 million)",
+      "DATE(Monday)"
+    ]
+  },
+  {
+    "date": "2021-07-30",
+    "title": "Sri Lanka's public servants asked to return to office",
+    "source": "in.news.yahoo.com",
+    "snippet": "All public servants in Sri Lanka have been asked to return to work from Monday despite warnings from health authorities that the threat of highly contagious Delta variant was very much alive.",
+    "url": "https://in.news.yahoo.com/sri-lankas-public-servants-asked-143252784.html",
+    "url_hash": "c4a8a2d48555884cf210a8d2fbbfa0db",
+    "ut": 1627628899,
+    "ent_ids": [
+      "GPE(Sri Lanka)",
+      "DATE(Monday)",
+      "ORG(Delta)"
+    ]
   }
 ]
