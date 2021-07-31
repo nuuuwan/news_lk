@@ -3318,5 +3318,308 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "More countries hike climate pledges, piling pressure on major emitters",
+    "source": "www.reuters.com",
+    "snippet": "A group of mostly smaller countries submitted new, more ambitious climate pledges to the United Nations this week, raising pressure on big emitters including China to do the same ahead of a major U.N.",
+    "url": "https://www.reuters.com/business/environment/more-countries-hike-climate-pledges-piling-pressure-major-emitters-2021-07-31/",
+    "url_hash": "db0211da62cd535609c089b735491d5f",
+    "ut": 1627741468,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "U.N.",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Another consignment of AstraZeneca vaccines to reach Sri Lanka",
+    "source": "www.hirunews.lk",
+    "snippet": "The consignment of 728,460 doses of AstraZeneca vaccine reached Sri Lanka on SriLankan Airlines flight UL-455 this morning. The consignment left the Narita International Airport in Tokyo, Japan. The flight departed from Narita International Airport at 11.",
+    "url": "https://www.hirunews.lk/english/278523/another-consignment-of-astrazeneca-vaccines-to-reach-sri-lanka",
+    "url_hash": "4d97668dd1d3a3ba72507823153efcaa",
+    "ut": 1627742908,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "728,460",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Narita International Airport",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Narita International Airport",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "11",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Uptick in COVID cases as 2,150 more people test positive",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka saw an uptick in COVID-19 figures, as 2,150 more persons were tested positive for the virus today (July 31), says the Ministry of Health",
+    "url": "http://www.adaderana.lk/news.php?nid=75803",
+    "url_hash": "307bc6f0b434d86aedc76b04250204b6",
+    "ut": 1627741048,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,150",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 31",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          26,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Gibbs accuses BCCI of pressuring him to not play in Kashmir",
+    "source": "in.news.yahoo.com",
+    "snippet": "Former South Africa international cricketer Herschelle Gibbs accused the Indian cricket board of trying to stop him from participating in a Twenty20 league in Azad Kashmir. The 47-year-old Gibbs plans to play for the Overseas Warriors in the six-team Kashmir Premier League,",
+    "url": "https://in.news.yahoo.com/gibbs-accuses-bcci-pressuring-him-144653541.html",
+    "url_hash": "aa6ae5a04dcda0cb339860fb2258d4c8",
+    "ut": 1627742737,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Herschelle Gibbs",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Azad Kashmir",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "47-year-old",
+        "start_end": [
+          28,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gibbs",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Overseas Warriors",
+        "start_end": [
+          38,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kashmir Premier League",
+        "start_end": [
+          46,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: West African health officials race to vaccinate",
+    "source": "www.texomashomepage.com",
+    "snippet": "Thousands of new coronavirus cases have been reported in West Africa in recent weeks amid low vaccination rates and the spread of the delta variant. Officials say cases have risen",
+    "url": "https://www.texomashomepage.com/news/health/the-latest-pakistan-locks-down-karachi-amid-new-surge/",
+    "url_hash": "b08f0b9f86ff5b3ae2fa7c7c6f3b099b",
+    "ut": 1627718936,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Thousands",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "West Africa",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent weeks",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
   }
 ]
