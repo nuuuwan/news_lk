@@ -860,5 +860,80 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Herschelle Gibbs accuses BCCI of pressuring him to not play in Kashmir Premier League",
+    "source": "www.firstpost.com",
+    "snippet": "According to Kashmir Premier League, four players from England and one each from South Africa and Sri Lanka have refused to play in the KPL after being pressured by the BCCI.",
+    "url": "https://www.firstpost.com/firstcricket/sports-news/herschelle-gibbs-accuses-bcci-of-pressuring-him-to-not-play-in-kashmir-premier-league-9854531.html",
+    "url_hash": "5d46625ab379be3fda5b8418a26ed7a0",
+    "ut": 1627785127,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Kashmir Premier League",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "KPL",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BCCI",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
   }
 ]

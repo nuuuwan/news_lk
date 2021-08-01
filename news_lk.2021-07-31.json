@@ -5364,5 +5364,139 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Veteran actress Hyacinth Wijeratne dies in accident",
+    "source": "www.dailymirror.lk",
+    "snippet": "Veteran actress Hyacinth Wijeratne has died in a road accident last night. Police said the van she was travelling in has plunged down a precipice at Lindula on the Hatton-Nuwara Eliya main road. She had been heading to Colombo after shooting a teledrama when the tragedy occurred.",
+    "url": "https://www.dailymirror.lk/latest_news/Veteran-actress-Hyacinth-Wijeratne-dies-in-accident/342-217274",
+    "url_hash": "648dc51f69179c192c6b29f1002ae682",
+    "ut": 1627708069,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Hyacinth Wijeratne",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last night",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lindula",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Hatton-Nuwara Eliya",
+        "start_end": [
+          29,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Another consignment of AstraZeneca vaccines to reach Sri Lanka",
+    "source": "www.hirunews.lk",
+    "snippet": "The consignment of 728,460 doses of AstraZeneca vaccine reached Sri Lanka on SriLankan Airlines flight UL-455 this morning. The consignment left the Narita International Airport in Tokyo, Japan. The flight departed from Narita International Airport at 11.",
+    "url": "https://www.hirunews.lk/goldfmnews/278523/another-consignment-of-astrazeneca-vaccines-to-reach-sri-lanka",
+    "url_hash": "34fd82a74aa849335d1225107de7f83c",
+    "ut": 1627744078,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "728,460",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Narita International Airport",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Narita International Airport",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "11",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
   }
 ]
