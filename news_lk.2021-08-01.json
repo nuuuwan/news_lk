@@ -1461,5 +1461,182 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Exorcist arrested for molesting two women during ritual",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 41-year-old exorcist was arrested in connection with sexually abusing a 45-year old woman and sexually harassing a 19 year old girl during a special ritual at a residence. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Exorcist-arrested-for-molesting-two-women-during-ritual/108-217286",
+    "url_hash": "2702d991830f5265fedfd26e80951326",
+    "ut": 1627794465,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "41-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "45-year old",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "19 year old",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "SriLankan Airlines resumes flights to Moscow after 6-year break",
+    "source": "www.dailymirror.lk",
+    "snippet": "National carrier SriLankan Airlines has resumed flights to the Russian capital, Moscow after six-year break where it will operate a weekly scheduled flight between Bandaranaike International Airport (BIA) and Moscow's Domodedovo Airport (DME).",
+    "url": "https://www.dailymirror.lk/breaking_news/SriLankan-Airlines-resumes-flights-to-Moscow-after-6-year-break/108-217287",
+    "url_hash": "0a2b5eea9ed0bbd95609e1be77f74541",
+    "ut": 1627798065,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-year",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bandaranaike International Airport",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Domodedovo Airport",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "DME",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Sri Lanka-Russia direct flights resume after 6 years",
+    "source": "www.adaderana.lk",
+    "snippet": "SriLankan Airlines has resumed direct flights between Sri Lanka and Russia from today (August 01) after six years",
+    "url": "http://www.adaderana.lk/news/75812/sri-lanka-russia-direct-flights-resume-after-6-years",
+    "url_hash": "2e7189254bbe5b0cea22521b72d200a0",
+    "ut": 1627794477,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 01",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six years",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
   }
 ]
