@@ -935,5 +935,91 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "The Latest: Navajo nation reports rise in virus cases",
+    "source": "www.registercitizen.com",
+    "snippet": "The Navajo Nation on Saturday reported 25 additional COVID-19 cases as officials said some tribal members are foregoing needed precautions to ward off spread of the coronavirus. \"A lot of the new cases we are seeing on the Navajo Nation are due to family and social gatherings where people let their guard down and don't wear masks,",
+    "url": "https://www.registercitizen.com/news/article/The-Latest-Pakistan-locks-down-Karachi-amid-new-16354127.php",
+    "url_hash": "ff298556b007ba55b1c1747d1db9fa75",
+    "ut": 1627788194,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "The Navajo Nation",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Navajo Nation",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "WHO hails Sri Lanka for vaccinating over 500,000 in a single day",
+    "source": "menafn.com",
+    "snippet": "The World Health Orgainsation (WHO) has hailed Sri Lanka's achievement of vaccinating over 500,000 people in a single day. </strong",
+    "url": "https://menafn.com/1102539102/WHO-hails-Sri-Lanka-for-vaccinating-over-500000-in-a-single-day",
+    "url_hash": "eb40da3ac6e919fc83b74edadb1f29ee",
+    "ut": 1627787366,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Health Orgainsation",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 500,000",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
   }
 ]
