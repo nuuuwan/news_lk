@@ -5654,5 +5654,64 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Health Ministry announces locations in WP where AztraZeneca jabs are given",
+    "source": "www.dailymirror.lk",
+    "snippet": "The newly received AztraZeneca vaccines will be administered in several locations in the Western Province from tomorrow as the second dose for the recipients of the first dose, the Health Ministry said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Health-Ministry-announces-locations-in-WP-where-AztraZeneca-jabs-are-given/108-217282",
+    "url_hash": "60bc9ee6e6c067735fbef03584c5281e",
+    "ut": 1627744101,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "AztraZeneca",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
   }
 ]
