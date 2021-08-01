@@ -4245,5 +4245,177 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Brave vs Spirit",
+    "source": "www.dailynews.lk",
+    "snippet": "Shane Warne, London Spirit's head coach, and another unnamed member of the management team have gone into isolation after returning positive Covid-19 tests. Warne reported feeling unwell on Sunday...",
+    "url": "http://www.dailynews.lk/tags/brave-vs-spirit",
+    "url_hash": "4bbf51f8bf84e77f974b5e2c590a2a15",
+    "ut": 1627846055,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "London Spirit (Men)",
+    "source": "www.dailynews.lk",
+    "snippet": "Shane Warne, London Spirit's head coach, and another unnamed member of the management team have gone into isolation after returning positive Covid-19 tests. Warne reported feeling unwell on",
+    "url": "http://www.dailynews.lk/tags/london-spirit-men",
+    "url_hash": "3d929b46dd3ae2bcc8f0c1e83262d00b",
+    "ut": 1627846115,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "E&Y insights to Port City Colombo for Commercial Officers at Sri Lankan missions overseas",
+    "source": "www.ft.lk",
+    "snippet": "A webinar to brief the officials at the Department of Commerce and the Commercial Officers attached to various Sri Lanka missions overseas on Port City Colombo was successfully facilitated and hosted by Ernst & Young (E&Y) recently.",
+    "url": "https://www.ft.lk/business/E-Y-insights-to-Port-City-Colombo-for-Commercial-Officers-at-Sri-Lankan-missions-overseas/34-721162",
+    "url_hash": "bcab763210990f41ceb8fb59215a710c",
+    "ut": 1627841320,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Department of Commerce",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Port City Colombo",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ernst & Young",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "E&Y",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Debt and delusion",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka has maintained its painful record so far, of settling international debt obligations by honouring $ 1 billion of its International Sovereign Bonds, which matured a few days ago, leaving another $ 13 billion to be settled between 2022 and 2029.",
+    "url": "https://www.ft.lk/columns/Debt-and-delusion/4-721143",
+    "url_hash": "3a2eae625f30f1f8dc7f2ca39d6cca47",
+    "ut": 1627841335,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 1 billion",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Sovereign Bonds",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a few days ago",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 13 billion",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 2022 and 2029",
+        "start_end": [
+          41,
+          45
+        ]
+      }
+    ]
   }
 ]
