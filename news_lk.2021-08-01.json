@@ -3638,5 +3638,134 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "1,792 more COVID-19 patients recover",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 1,792 more COVID-19 patients recovered and were discharged from hospital increasing the total number of recoveries in Sri Lanka to 278,910, the Health Ministry said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/1-792-more-COVID-19-patients-recover/108-217296",
+    "url_hash": "3b2c6bcfeee206fcbc521d55d3d3f27a",
+    "ut": 1627819786,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "1,792",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "278,910",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Another ex-domestic aide at MP Bathiudeen's house claims she suffered sexual harassment",
+    "source": "www.dailymirror.lk",
+    "snippet": "Investigations disclosed that three of the eleven women who had served as domestic workers at MP Rishad Bathiudeen's residence in Colombo since 2010, have died. The Police launched investigations following the death of the 16-year-old girl who recently ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-ex-domestic-aide-at-MP-Bathiudeens-house-claims-she-suffered-sexual-harassment/108-217299",
+    "url_hash": "ae2cdf5a902d0f84a6102641d8e88a5d",
+    "ut": 1627835626,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MP Rishad Bathiudeen's",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2010",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "16-year-old",
+        "start_end": [
+          37,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Lamont Marcell Jacobs wins historic 100m gold at Tokyo Olympics",
+    "source": "www.dailymirror.lk",
+    "snippet": "Lamont Marcell Jacobs set a new European record as he claimed a shock victory in the men's 100m at the\u00a0Tokyo Olympics. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Lamont-Marcell-Jacobs-wins-historic-100m-gold-at-Tokyo-Olympics/108-217300",
+    "url_hash": "74629caa76a858c6ff050f541fec10aa",
+    "ut": 1627834186,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Lamont Marcell Jacobs",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "European",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the\u00a0Tokyo Olympics",
+        "start_end": [
+          21,
+          25
+        ]
+      }
+    ]
   }
 ]
