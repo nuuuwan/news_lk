@@ -3506,5 +3506,137 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Pavithra urges public not to throng to vaccination centers",
+    "source": "www.dailymirror.lk",
+    "snippet": "As the vaccination rollout of AstraZeneca second doses commenced today, Health Minister Pavithra Wanniarachchi urged people not to create unnecessary congestion at vaccination centers. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Pavithra-urges-public-not-to-throng-to-vaccination-centers/108-217298",
+    "url_hash": "762c988cf19d3c25297c29bf84a847b6",
+    "ut": 1627823304,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca second",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pavithra Wanniarachchi",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "More countries hike climate pledges, piling pressure on major emitters",
+    "source": "menafn.com",
+    "snippet": "A group of mostly smaller countries submitted new, more ambitious climate pledges to the United Nations this week, raising pres",
+    "url": "https://menafn.com/1102548299/More-countries-hike-climate-pledges-piling-pressure-on-major-emitters",
+    "url_hash": "dba198b2162a43782da93e4693153991",
+    "ut": 1627787313,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Latest data shows extent virus has spread in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The latest data released by the Epidemiology Unit of the Ministry of Health shows the extent to which the coronavirus has spread in Sri Lanka. A map published by the Epidemiology Unit shows almost the entire country as high risk with a number of cases reported within a 14-day period.",
+    "url": "https://colombogazette.com/2021/08/01/latest-data-shows-extent-virus-has-spread-in-sri-lanka/",
+    "url_hash": "6bf6dae55dee332f60f41d33bedcffea",
+    "ut": 1627831077,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "14-day",
+        "start_end": [
+          49,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "DIMO celebrates 'World Youth Skills Day' through webinar",
+    "source": "colombogazette.com",
+    "snippet": "DIMO, one of the leading conglomerates in Sri Lanka, celebrated 'World Youth Skills Day' by shining the spotlight on the importance of equipping the youth with skills for employment, decent work and entrepreneurship,",
+    "url": "https://colombogazette.com/2021/08/01/dimo-celebrates-world-youth-skills-day-through-webinar/",
+    "url_hash": "1c959232d9be2b0c4ec103f726d4551b",
+    "ut": 1627832337,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "World Youth Skills Day'",
+        "start_end": [
+          13,
+          18
+        ]
+      }
+    ]
   }
 ]
