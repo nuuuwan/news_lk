@@ -1021,5 +1021,201 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "When and what is Yorkshire Day? The history and why we celebrate it",
+    "source": "www.examinerlive.co.uk",
+    "snippet": "Although it's not a bank holiday, the day provides a good opportunity to celebrate our region's culture and history. READ MORE: Read on to find out all you need to know about Yorkshire Day. Two important events in Yorkshire's history took place on August 1.",
+    "url": "https://www.examinerlive.co.uk/news/local-news/what-yorkshire-day-history-celebrate-21196394",
+    "url_hash": "1387b5f903f40f00df673f8b3231f049",
+    "ut": 1627790866,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the day",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yorkshire",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 1",
+        "start_end": [
+          50,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Covid cases rising among doctors, health workers as Sri Lanka battles Delta outbreak",
+    "source": "www.southasiamonitor.org",
+    "snippet": "An increasing number of doctors and health workers in Sri Lanka are being infected with the Covid-19 despite being fully vaccinated in recent days, hitting the country's response which is already batt",
+    "url": "https://www.southasiamonitor.org/index.php/sri-lanka/covid-cases-rising-among-doctors-health-workers-sri-lanka-battles-delta-outbreak",
+    "url_hash": "b100c3a6370fb451a6bb99bcb1e0c297",
+    "ut": 1627791286,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent days",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "French police clash with anti-virus pass protesters in Paris",
+    "source": "www.hirunews.lk",
+    "snippet": "Thousands of people protested France's special virus pass with marches through Paris and other French cities on Saturday. Most demonstrations were peaceful, but sporadic clashes with riot police marked protests in the French capital.",
+    "url": "https://www.hirunews.lk/goldfmnews/278554/french-police-clash-with-anti-virus-pass-protesters-in-paris",
+    "url_hash": "0575dab95a06fe0b734aaaa4cdbf8bb0",
+    "ut": 1627792615,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Thousands",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Paris",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "French",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "French",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "SriLankan resumes weekly flights to Moscow",
+    "source": "economynext.com",
+    "snippet": "State-run SriLankan Airlines said it has started flying to Moscow once a week using Airbus A330 equipment with 269 economy and 28 business class seats.",
+    "url": "https://economynext.com/srilankan-resumes-weekly-flights-to-moscow-84468/",
+    "url_hash": "8ef307034857a7fcf6ba014962a2ba5a",
+    "ut": 1627791365,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a week",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Airbus",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "A330",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "269",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "28",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
   }
 ]
