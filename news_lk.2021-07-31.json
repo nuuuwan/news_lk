@@ -5850,5 +5850,117 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "More countries hike climate pledges, piling pressure on major emitters",
+    "source": "www.jpost.com",
+    "snippet": "With deadly heatwaves, flooding and wildfires occurring around the world, calls are growing for urgent action to cut the CO2 emissions heating the planet.",
+    "url": "https://www.jpost.com/health-science/more-countries-hike-climate-pledges-piling-pressure-on-major-emitters-675458",
+    "url_hash": "af803db32a83223f4cf49b928ec0fe61",
+    "ut": 1627740526,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-07-31",
+    "title": "The Latest: Navajo nation reports rise in virus cases",
+    "source": "www.bowenislandundercurrent.com",
+    "snippet": "WINDOW ROCK, Ariz. \u2014 The Navajo Nation on Saturday reported 25 additional COVID-19 cases as officials said some tribal members are foregoing needed precautions to ward off spread of the coronavirus.",
+    "url": "https://www.bowenislandundercurrent.com/the-mix/the-latest-navajo-nation-reports-rise-in-virus-cases-4185160",
+    "url_hash": "518feaf605743ffeca0a659ae086e70b",
+    "ut": 1627772926,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ROCK",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ariz.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Navajo Nation",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Carlo Scarpa",
+    "source": "www.domusweb.it",
+    "snippet": "This is without any doubt the case of Carlo Scarpa: with the exception of some projects located in other Italian cities like Florence, Bologna or Palermo, most of his architectural production is concentrated in the Italian region of Veneto and its surrounding areas.",
+    "url": "https://www.domusweb.it/en/biographies/carlo-scarpa.html",
+    "url_hash": "7b39c1e26794f237c2ccd7a18de0fd67",
+    "ut": 1627733326,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Carlo Scarpa",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bologna",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Veneto",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
   }
 ]
