@@ -5713,5 +5713,80 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "In protest of KNDU Bill",
+    "source": "www.dailymirror.lk",
+    "snippet": "A protest march organized by the Joint Center against Sir John Kotelawala National Defence University (KNDU) Bill was held today from Hunupitiya Road to Kiribathgoda in protest of the KNDU Bill. Pix by Nimalsiri Edirisinghe .",
+    "url": "https://www.dailymirror.lk/caption_story/In-protest-of-KNDU-Bill/110-217289",
+    "url_hash": "6690ff06aa53fcf6ec86c79a66f4a27d",
+    "ut": 1627751291,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Joint Center",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Kotelawala",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Hunupitiya Road",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kiribathgoda",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the KNDU Bill",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nimalsiri Edirisinghe",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
   }
 ]
