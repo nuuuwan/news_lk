@@ -5294,5 +5294,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Why Mizoram vs Assam is a BJP project to 'integrate' northeast gone wrong",
+    "source": "www.msn.com",
+    "snippet": "Assam-Mizoram violence is an outcome of BJP trying too hard to 'integrate' distinct northeastern states. This has unleashed latent regionalism.",
+    "url": "https://www.msn.com/en-in/news/other/why-mizoram-vs-assam-is-a-bjp-project-to-integrate-northeast-gone-wrong/ar-AAMLRrX",
+    "url_hash": "ae2368ae90cd8f5ac2b308fe8a0a8d0a",
+    "ut": 1627698670,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Assam-Mizoram",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "BJP",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Gibbs accuses BCCI of pressuring him to not play in Kashmir",
+    "source": "apnews.com",
+    "snippet": "Former South Africa international cricketer Herschelle Gibbs accused the Indian cricket board of trying to stop him from participating in a Twenty20 league in Azad Kashmir.",
+    "url": "https://apnews.com/article/sports-europe-religion-kashmir-782b3dc17e379cbc94445d25827cd630",
+    "url_hash": "6955b9494e24e0d644332955e72977af",
+    "ut": 1627741878,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Herschelle Gibbs",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Azad Kashmir",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
   }
 ]
