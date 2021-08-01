@@ -4417,5 +4417,185 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Muslim Aid Sri Lanka hands over equipment worth Rs. 6 m to Base Hospital Puttalam",
+    "source": "www.ft.lk",
+    "snippet": "Muslim Aid Sri Lanka, in its efforts to overcome the pandemic situation, continues to engage in COVID-19 aid and relief work around the island. Following its donation of essential medical equipment worth Rs.",
+    "url": "https://www.ft.lk/healthcare/Muslim-Aid-Sri-Lanka-hands-over-equipment-worth-Rs-6-m-to-Base-Hospital-Puttalam/45-721166",
+    "url_hash": "a0763d5b1a51280ef3a516ca20ce71bb",
+    "ut": 1627841317,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Muslim",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Sri Lanka Insurance Motor Plus provides comprehensive protection for Judicial Service Association",
+    "source": "www.ft.lk",
+    "snippet": "The premier motor insurer 'Sri Lanka Insurance Motor Plus' provides comprehensive protection with a special Motor Insurance package for Judicial Service Association Sri Lanka (JSASL), a leading body representing all the District Judges and Magistrates of Sri Lanka to provide comprehensive protection for their vehicles.",
+    "url": "https://www.ft.lk/financial-services/Sri-Lanka-Insurance-Motor-Plus-provides-comprehensive-protection-for-Judicial-Service-Association/42-721155",
+    "url_hash": "b23311987afbf488a6b26ec55dd0bca0",
+    "ut": 1627841303,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Insurance Motor Plus'",
+        "start_end": [
+          5,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Motor Insurance",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Judicial Service Association",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the District Judges",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Magistrates",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Standard Chartered Sri Lanka hosts first-of-its-kind Environmental and Social Risk Assessment Workshop",
+    "source": "www.ft.lk",
+    "snippet": "Standard Chartered Sri Lanka held a virtual workshop on 13 July to discuss how local financial institutions could establish a robust framework for Environment and Social Risk Assessment (ESRA), prior to proceeding with a lending decision.",
+    "url": "https://www.ft.lk/financial-services/Standard-Chartered-Sri-Lanka-hosts-first-of-its-kind-Environmental-and-Social-Risk-Assessment-Workshop/42-721153",
+    "url_hash": "ee6413da662b07e78fce586e538f2597",
+    "ut": 1627841317,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Standard Chartered Sri Lanka",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "13 July",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Environment and Social Risk Assessment",
+        "start_end": [
+          23,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Umariya granted bail",
+    "source": "www.msn.com",
+    "snippet": "Popular singer Umaria Sinhawansa has been released on bail and her driving license was temporarily suspended.She was arrested by the Welikada Police last evening following a vehicle accident near the Rajagiriya flyoverThe accident occurred when a car driven by Umaria collided with a three-wheeler.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/umariya-granted-bail/ar-AAMOKDo",
+    "url_hash": "0504ebe5a6e379b304dcfab7cbe2aa67",
+    "ut": 1627812517,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Umaria Sinhawansa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Welikada Police",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last evening",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Rajagiriya",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
   }
 ]
