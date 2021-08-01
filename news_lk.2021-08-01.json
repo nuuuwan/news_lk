@@ -1217,5 +1217,249 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "24-hour AstraZeneca vaccination drive launched",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka Army commenced a 24-hour programme to administer AstraZeneca 2nd dose, the Head of the National Operations Centre for Prevention of COVID-19 Outbreak (NOCPCO), Army Commander General Shavendra Silva.",
+    "url": "http://dailynews.lk/2021/08/01/local/255415/24-hour-astrazeneca-vaccination-drive-launched",
+    "url_hash": "f51a98f445936816afc717fd76f63ade",
+    "ut": 1627794493,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Army",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "24-hour",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca 2nd",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Operations Centre for Prevention of COVID-19",
+        "start_end": [
+          18,
+          26
+        ]
+      },
+      {
+        "label": "LANGUAGE",
+        "text": "Outbreak",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "24-hour vaccination",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka Army commenced a 24-hour programme to administer AstraZeneca 2nd dose, the Head of the National Operations Centre for Prevention of COVID-19 Outbreak (NOCPCO), Army Commander",
+    "url": "http://dailynews.lk/tags/24-hour-vaccination",
+    "url_hash": "ee32c913b788d9c21a23d5d012907f1e",
+    "ut": 1627796353,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Army",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "24-hour",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca 2nd",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Operations Centre for Prevention of COVID-19",
+        "start_end": [
+          18,
+          26
+        ]
+      },
+      {
+        "label": "LANGUAGE",
+        "text": "Outbreak",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "South Africa to tour Sri Lanka : Schedule released",
+    "source": "www.islandcricket.lk",
+    "snippet": "South Africa will play 3 ODIs and 3 T20Is against Sri Lanka from 2nd to 14th September. All the six matches will be played at R. Premadasa International Cricket Stadium, Colo",
+    "url": "https://www.islandcricket.lk/news/south-africa-to-tour-sri-lanka-schedule-released/",
+    "url_hash": "510af709787c4a0247ed3c99352bf2ab",
+    "ut": 1627783697,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2nd to 14th September",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "R. Premadasa International Cricket Stadium",
+        "start_end": [
+          26,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colo",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "The Latest: Florida reports 21,683 new cases of COVID-19",
+    "source": "www.sfgate.com",
+    "snippet": "Florida has reported 21,683 new cases of COVID-19, the state's highest one-day total since the start of the pandemic, according to federal health data released Saturday. The state has become the new national epicenter for the virus,",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Pakistan-locks-down-Karachi-amid-new-16354127.php",
+    "url_hash": "2559b87fd58605660d47be89235946bc",
+    "ut": 1627797265,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21,683",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
   }
 ]
