@@ -2454,5 +2454,217 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Receiving AstraZeneca second jab...",
+    "source": "www.dailymirror.lk",
+    "snippet": "People are seen receiving their second dose of the AstraZeneca Covid-19 vaccine at the Viharamahadevi Park vaccination centre operated by the army.Pix by Kithsiri De Mel ..",
+    "url": "https://www.dailymirror.lk/latest_news/Receiving-AstraZeneca-second-jab/342-217291",
+    "url_hash": "120665ac25a62c0a47e59650cc18ddba",
+    "ut": 1627812452,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Viharamahadevi Park",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kithsiri De Mel",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Umaria Sinhawansa",
+    "source": "www.dailynews.lk",
+    "snippet": "Popular singer Umaria Sinhawansa has been released on bail and her driving license was temporarily suspended. She was arrested by the Welikada Police last evening following a vehicle",
+    "url": "http://www.dailynews.lk/tags/umaria-sinhawansa",
+    "url_hash": "6d5c3e21861ca3433ed5be1fe40be747",
+    "ut": 1627815036,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Umaria Sinhawansa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Welikada Police",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last evening",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Qatar's amir sends Lekhwiya rescue team to Turkey amid raging wildfires",
+    "source": "www.dohanews.co",
+    "snippet": "Qatar's Amir Sheikh Tamim bin Hamad Al Thani has dispatched a Lekhwiya team to Turkey to assist with rescue operations amid deadly wildfires.",
+    "url": "https://www.dohanews.co/qatars-amir-sends-lekhwiya-rescue-team-to-turkey-amid-raging-wildfires/",
+    "url_hash": "d8f25c6d6409f5524364587d7c3dab9e",
+    "ut": 1627813433,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Qatar",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Amir Sheikh",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Tamim",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "bin Hamad Al Thani",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lekhwiya",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Turkey",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Navy arrest two with Kerala cannabis worth Rs 32 million",
+    "source": "www.hirunews.lk",
+    "snippet": "A special operation carried out by the Navy in seas off from Thondamanaru to Mamunei in Jaffna on 31st July 2021 led to the seizure of about 109kg and 150g of Kerala cannabis along with 02 suspects and a dinghy used for the racket.",
+    "url": "https://www.hirunews.lk/goldfmnews/278577/navy-arrest-two-with-kerala-cannabis-worth-rs-32-million",
+    "url_hash": "f0085e4a59bfd4a7522007d8198b8cf3",
+    "ut": 1627808860,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thondamanaru",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jaffna",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "31st July 2021",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 109kg",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "150",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "02",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
   }
 ]
