@@ -3767,5 +3767,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "South Asian Heritage Month: Cooking and culture",
+    "source": "www.itv.com",
+    "snippet": "As part of ITV Channel's coverage of South Asian Heritage Month we have been to meet culinary experts across the Channel Islands. | ITV News Channel",
+    "url": "https://www.itv.com/news/channel/2021-08-01/south-asian-heritage-month-cooking-and-culture",
+    "url_hash": "6f5649a8a5997e5751ea150020d760f5",
+    "ut": 1627834086,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ITV Channel's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Channel Islands",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ITV News Channel",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Kitex's exit revives a debate in Kerala",
+    "source": "www.livemint.com",
+    "snippet": "A garment firm's decision to pull the plug in the southern state has put the spotlight on Kerala's quest for jobs..There are many who believe that Kerala should focus on the high -tech industries of t",
+    "url": "https://www.livemint.com/news/india/kitexs-exit-revives-a-debate-in-kerala-11627839875619.html",
+    "url_hash": "49ef7b11f398690d3a5bf055d5736318",
+    "ut": 1627840866,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kerala",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
   }
 ]
