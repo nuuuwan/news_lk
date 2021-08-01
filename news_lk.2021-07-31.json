@@ -5962,5 +5962,88 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-07-31",
+    "title": "Gibbs accuses BCCI of pressuring him to not play in Kashmir",
+    "source": "ca.finance.yahoo.com",
+    "snippet": "Former South Africa international cricketer Herschelle Gibbs accused the Indian cricket board of trying to stop him from participating in a Twenty20 league in Azad Kashmir. The 47-year-old Gibbs plans to play for the Overseas Warriors in the six-team Kashmir Premier League,",
+    "url": "https://ca.finance.yahoo.com/news/gibbs-accuses-bcci-pressuring-him-144653541.html",
+    "url_hash": "d6823f64c430c8a7932dc3142f4d632d",
+    "ut": 1627744108,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Herschelle Gibbs",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Azad Kashmir",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "47-year-old",
+        "start_end": [
+          28,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gibbs",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Overseas Warriors",
+        "start_end": [
+          38,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kashmir Premier League",
+        "start_end": [
+          46,
+          49
+        ]
+      }
+    ]
   }
 ]
