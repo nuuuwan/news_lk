@@ -6804,5 +6804,134 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Is Sri Lanka in Vaccine Olympics?",
+    "source": "www.dailymirror.lk",
+    "snippet": "The euphoria that followed the sudden announcement that a 24 hour vaccination centre has been set up in the Vihara Maha Devi Park for Astra Zeneca booster vaccine, prompted me to write this. From a distance it may appear to be the .",
+    "url": "https://www.dailymirror.lk/opinion/Is-Sri-Lanka-in-Vaccine-Olympics/172-217399",
+    "url_hash": "09beaf7685cc7d077d53a2977e255fc6",
+    "ut": 1627927697,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "24 hour",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vihara Maha Devi Park",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Who wants to date Anna?",
+    "source": "www.espn.com.au",
+    "snippet": "When Page 2 opened up the mailbag, offering its readers the chance to \"Win a Date with Anna,\" we were beseiged with more than 7,500 responses. We read through them all, and you had us laughing, crying",
+    "url": "https://www.espn.com.au/page2/s/021230/annaletters.html",
+    "url_hash": "0cbc9f47a4989a9221465065d8f86203",
+    "ut": 1627931490,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "Win a Date with",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anna",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 7,500",
+        "start_end": [
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Qatar relaxes restrictions for inbound travellers from Sri Lanka and five other countries",
+    "source": "economynext.com",
+    "snippet": "Qatar has relaxed its travel restrictions for fully vaccinate Asian countries effective immediately from August 02. Qatar's Ministry of Public Health announced on Monday (02) that all vaccinated passengers from Sri Lanka,",
+    "url": "https://economynext.com/qatar-relaxes-restrictions-for-inbound-travellers-from-sri-lanka-and-five-other-countries-84514/",
+    "url_hash": "5979254c9b77dc4413a97b041a460830",
+    "ut": 1627931315,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Qatar",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 02",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Qatar",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ministry of Public Health",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
   }
 ]
