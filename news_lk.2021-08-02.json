@@ -1,0 +1,120 @@
+[
+  {
+    "date": "2021-08-02",
+    "title": "Japan's delivers 728,000 doses of AstraZeneca vaccine",
+    "source": "island.lk",
+    "snippet": "Over 728,000 doses of the AstraZeneca COVID-19 vaccines have been delivered to Sri Lanka out of a total of over 1.4 million doses provided by the government of Japan through the COVAX dose sharing mechanism on Saturday.",
+    "url": "https://island.lk/japans-delivers-728000-doses-of-astrazeneca-vaccine/",
+    "url_hash": "8c77cbaec2513a8fbf85198ee06d6bb4",
+    "ut": 1627864378,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Over 728,000",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 1.4 million",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Moragoda heading to Delhi with roadmap to restore ties",
+    "source": "island.lk",
+    "snippet": "Sri Lanka's new High Commissioner to New Delhi, Milinda Moragoda, is heading to India with a roadmap to restore ties, the Indian media reported. Moragoda will take with him a roadmap focused on the fishermen's issue as well as trade and investment and ...",
+    "url": "https://island.lk/moragoda-heading-to-delhi-with-roadmap-to-restore-ties/",
+    "url_hash": "9114280fd2ae52c3772dba09540a0768",
+    "ut": 1627865998,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Milinda Moragoda",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Moragoda",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  }
+]
