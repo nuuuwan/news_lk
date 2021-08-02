@@ -5398,5 +5398,126 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "67 more die of COVID-19: Death toll surges to 4,508",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 67 more COVID-19 related deaths that occurred yesterday (31) were confirmed by the Director-General of Health Services today pushing the death toll to 4,508. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/67-more-die-of-COVID-19-Death-toll-surges-to-4-508/108-217297",
+    "url_hash": "37f7c8a7f0e92830b5fba2530b76e9ce",
+    "ut": 1627819716,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "67",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "31",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,508",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Dandenong house fire: $100k raised for Tamil refugee family who lost four-year-old son.",
+    "source": "www.heraldsun.com.au",
+    "snippet": "More than $100,000 has been raised for the heartbroken family of a four-year-old boy who died in a Dandenong house fire.",
+    "url": "https://www.heraldsun.com.au/leader/south-east/dandenong-house-fire-100k-raised-for-tamil-refugee-family-who-lost-fouryearold-son/news-story/2c9d8121acbbadc22102edd71513faa5",
+    "url_hash": "bbc4a904258483bd7363e12de979645a",
+    "ut": 1627830525,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "More than $100,000",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-year-old",
+        "start_end": [
+          13,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "The Latest: Florida reports 21,683 new cases of COVID-19",
+    "source": "www.beaumontenterprise.com",
+    "snippet": "Florida has reported 21,683 new cases of COVID-19, the state's highest one-day total since the start of the pandemic, according to federal health data released Saturday. The state has become the new national epicenter for the virus,",
+    "url": "https://www.beaumontenterprise.com/news/article/The-Latest-Pakistan-locks-down-Karachi-amid-new-16354127.php",
+    "url_hash": "038b9c4f9df066f03b37b3232b4658b3",
+    "ut": 1627787334,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21,683",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
   }
 ]
