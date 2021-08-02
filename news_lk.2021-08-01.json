@@ -5754,5 +5754,40 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Update - Vaccination Centers for AstraZeneca from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following is the list of the vaccination centers set up across the Western Province from today for people to receive their AstraZeneca second jabs. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Update-Vaccination-Centers-for-AstraZeneca-from-today/108-217288",
+    "url_hash": "92111c78db5bbe9e7e90a0b94793c82b",
+    "ut": 1627798101,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "AstraZeneca second jabs",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
   }
 ]
