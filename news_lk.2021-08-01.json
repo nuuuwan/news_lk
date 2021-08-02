@@ -5835,5 +5835,171 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Sri Lanka-Russia direct flights resume after 6 years",
+    "source": "www.lankaweb.com",
+    "snippet": "SriLankan Airlines has resumed direct flights between Sri Lanka and Russia from today (August 01) after six years. The SriLankan Airlines flight UL534, which departed from Moscow, Russia, arrived at the Bandaranaike International Airport at 06.",
+    "url": "http://www.lankaweb.com/news/items/2021/08/01/sri-lanka-russia-direct-flights-resume-after-6-years/",
+    "url_hash": "0eca95d6d533473589c0dffea52e7176",
+    "ut": 1627852093,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 01",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six years",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "UL534",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          36,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "06",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "title": "Then and now: Hambantota International Port",
+    "source": "www.ft.lk",
+    "snippet": "The Hambantota International Port (HIP) is a deep-water port being developed in phases in Hambantota, southern Sri Lanka. This port is located 10 nautical miles to the major international east-west shipping route - the Suez Canal and the Strait of Malacca and well positioned at a strategic location on the maritime gateway to India.",
+    "url": "https://www.ft.lk/columns/Then-and-now-Hambantota-International-Port/4-721196",
+    "url_hash": "cb02fd1d41d2eee8f380f2802a6c74ef",
+    "ut": 1627841302,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Hambantota",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "10 nautical miles",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Suez Canal",
+        "start_end": [
+          41,
+          44
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Strait of Malacca",
+        "start_end": [
+          45,
+          49
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          61,
+          62
+        ]
+      }
+    ]
   }
 ]
