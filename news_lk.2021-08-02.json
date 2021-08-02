@@ -7317,5 +7317,161 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Lady Ridgeway runs out of capacity to treat COVID-19 infected children",
+    "source": "www.dailymirror.lk",
+    "snippet": "The COVID-19 ward at the Lady Ridgeway Hospital (LRH) in Colombo designated to treat COVID-19 infected children has reached its maximum capacity, Hospital Director Dr G. Wijesuriya said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Lady-Ridgeway-runs-out-of-capacity-to-treat-COVID-19-infected-children/108-217403",
+    "url_hash": "a8503ec0dd7ca67ffb969356938b0b92",
+    "ut": 1627931296,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Lady Ridgeway Hospital",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Hospital",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dr G. Wijesuriya",
+        "start_end": [
+          27,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Second batch of AZ doses from Japan expected on Saturday",
+    "source": "www.ft.lk",
+    "snippet": "The second batch of AstraZeneca COVID-19 vaccine doses from Japan is expected on Saturday, the President's Media Division (PMD) stated yesterday. ..",
+    "url": "https://www.ft.lk/news/Second-batch-of-AZ-doses-from-Japan-expected-on-Saturday/56-721212",
+    "url_hash": "6744ab21133a14c576ba1f4655f5167d",
+    "ut": 1627938506,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media Division",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "CA Sri Lanka's CEOs Forum plays nexus role to bridge gap between Govt., biz community",
+    "source": "www.ft.lk",
+    "snippet": "The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) recently organised a CEOs Forum to provide clarity on the current debt situation, whilst also helping the dynamic business community gain a better understanding on the Government's strategy and way forward to navigate the ongoing situation.",
+    "url": "https://www.ft.lk/business/CA-Sri-Lanka-s-CEOs-Forum-plays-nexus-role-to-bridge-gap-between-Govt-biz-community/34-721215",
+    "url_hash": "932b788b1917565adbfaad8a98e6448e",
+    "ut": 1627938700,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Institute of Chartered Accountants of Sri Lanka",
+        "start_end": [
+          0,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "A strategic partnership that uplifts the maritime industry of Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Hayleys Advantis Group congratulates the Sri Lanka Ports Authority (SLPA) for 42 years of excellence in managing a vital component of the domestic shipping industry and helping to transform the country and the economy to face new challenges and opportunities of the future.",
+    "url": "https://www.ft.lk/shipping__logistics/A-strategic-partnership-that-uplifts-the-maritime-industry-of-Sri-Lanka/10539-721192",
+    "url_hash": "198249d4a864c9e4aee36c096ac6e2c4",
+    "ut": 1627880920,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Hayleys Advantis Group",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Ports Authority",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "42 years",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
   }
 ]
