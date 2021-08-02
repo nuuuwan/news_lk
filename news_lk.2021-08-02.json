@@ -2512,5 +2512,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "In Kerala, a garment maker's messy exit forces a reckoning",
+    "source": "www.livemint.com",
+    "snippet": "A garment firm's decision to pull the plug in the southern state has put the spotlight on Kerala's quest for jobs..There are many who believe that Kerala should focus on the high -tech industries of t",
+    "url": "https://www.livemint.com/news/india/kitexs-exit-revives-a-debate-in-kerala-11627839875619.html",
+    "url_hash": "49ef7b11f398690d3a5bf055d5736318",
+    "ut": 1627890564,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kerala",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Government assures no shortage of AstraZeneca doses",
+    "source": "colombogazette.com",
+    "snippet": "By Vyshnavy Velrajh The Government is in possession of enough AstraZeneca vaccine doses to provide the second dose for all those who have obtained the first dose, the health authorities assured today.",
+    "url": "https://colombogazette.com/2021/08/02/government-assures-no-shortage-of-astrazeneca-doses/",
+    "url_hash": "3f6f25819537e5302133473588957b1e",
+    "ut": 1627888126,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Vyshnavy",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
   }
 ]
