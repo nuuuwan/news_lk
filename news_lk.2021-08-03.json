@@ -666,6 +666,49 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Analysis: Debt-hobbled Sri Lanka risks running out of options",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lanka paid a $1 billion bond last week, but the alarming state of its finances suggests it may have been just another step towards its first sovereign default.",
+    "url": "https://www.reuters.com/world/china/debt-hobbled-sri-lanka-risks-running-out-options-2021-08-03/",
+    "url_hash": "4b624238803f1ca6a501c83b7962ee43",
+    "ut": 1627956490,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Sri Lanka needs to beat Zimbabave, Afghanistan, South Africa and New Zealand to automatically qualify for 2023 world cup",
     "source": "www.islandcricket.lk",
     "snippet": "Sri Lanka's win in the third and final ODI against India brought a sigh of relief to the team as well as its followers because they finally managed to garner a valuable 10 points from the victory that saw them move one slot up in the ICC Cricket World Cup Super League Standings to 11th position.",
@@ -2069,6 +2112,97 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Update: 6.5-magnitude quake strikes near Nicobar Islands: No tsunami threat to SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "The National Tsunami Early Warning Centre at the Department of Meteorology said that there is no tsunami threat to Sri Lanka at present due to an earthquake to the magnitude of 6.5 in the Richter scale struck about 310 km (190 miles) southeast of Port Blair in the Andaman and Nicobar Islands in the Indian region.",
+    "url": "https://www.dailymirror.lk/breaking_news/Update-6-1-magnitude-quake-strikes-near-Nicobar-Islands-No-tsunami-threat-to-SL/108-217438",
+    "url_hash": "109f84d93f0144d0a1ccd9dc6c5dde96",
+    "ut": 1627967282,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The National Tsunami Early Warning Centre",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6.5",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 310 km",
+        "start_end": [
+          37,
+          40
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "190 miles",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Port Blair",
+        "start_end": [
+          46,
+          48
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Andaman",
+        "start_end": [
+          50,
+          51
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Nicobar Islands",
+        "start_end": [
+          52,
+          54
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          56,
+          57
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Govt.to submit weekly reports to Parliament on COVID 19 situation: Pavithra",
     "source": "www.dailymirror.lk",
     "snippet": "Government is considering giving weekly reports to Parliament on COVID-19 pandemic situation, Minister of Health Pavithra Wanniarachchi said today. ..",
@@ -2402,6 +2536,49 @@
     "title": "Govt. not in a position to provide immediate solutions to teachers' issues: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "Claiming that the Government is not in a position to provide immediate solutions to the demands of the teachers, Education Minister G.L. Peiris said today the Government was planning to provide practical solutions to the issues faced by all public servants from the budget.",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-not-in-a-position-to-provide-immediate-solutions-to-teachers-issues-Minister/342-217441",
+    "url_hash": "788bd80909f548b2656416f502df195c",
+    "ut": 1627970882,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G.L. Peiris",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Govt. not in a position to provide immediate solutions to teachers' issues: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that the Government is not in a position to provide immediate solutions to the demands of the teachers, Education Minister G.L. Peiris said today the Government was planning to provide practical solutions to the issues faced by all public servants from the budget.",
     "url": "https://www.dailymirror.lk/breaking_news/Govt-not-in-a-position-to-provide-immediate-solutions-to-teachers-issues-Minister/108-217441",
     "url_hash": "4ee9d68b1f6d554111b856430da24e50",
     "ut": 1627970895,
@@ -2514,6 +2691,41 @@
         "start_end": [
           42,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "WHO says Sri Lanka on track to fully vaccinate population",
+    "source": "menafn.com",
+    "snippet": "The World Health Organisation (WHO) says Sri Lanka is on track to fully vaccinate 10% of its population ahead of the vaccine equity Septe",
+    "url": "https://menafn.com/1102556789/WHO-says-Sri-Lanka-on-track-to-fully-vaccinate-population",
+    "url_hash": "212a0ccf21f0afe73e6715701f095b7e",
+    "ut": 1627970910,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Health Organisation",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "10%",
+        "start_end": [
+          16,
+          18
         ]
       }
     ]
@@ -2910,6 +3122,183 @@
         "text": "Sri Lanka",
         "start_end": [
           40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Sri Lanka health minister promises p'ment weekly updates on COVID-19",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's health minister Pavithra Wanniarachchi will brief parliament on the country's weekly COVID-19 situation every Tuesday, the minister told parliament Monday (03) morning. Wanniarachchi was responding to a request by former prime minister and United National Party (UNP) MP Ranil Wickremesinghe for regular updates on the state of the epidemic.",
+    "url": "https://economynext.com/sri-lanka-health-minister-promises-pment-weekly-updates-on-covid-19-84530/",
+    "url_hash": "c03f788e4f96bfc4ed9f0dcd36c59e8c",
+    "ut": 1627978826,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pavithra Wanniarachchi",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "03) morning",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wanniarachchi",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United National Party",
+        "start_end": [
+          41,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "A CCTV Footage of a \"Pandemic Ready\" Family Roaming the Colombo Streets.",
+    "source": "dailynews.lk",
+    "snippet": "Home A CCTV Footage of a \"Pandemic Ready\" Family Roaming the Colombo Streets.",
+    "url": "http://dailynews.lk/2021/08/03/local/255632/cctv-footage-pandemic-ready-family-roaming-colombo-streets",
+    "url_hash": "cbbf1d7db030550ed0fdaf73a1a2b0f5",
+    "ut": 1627981026,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CCTV",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Pandemic Ready\" Family Roaming the Colombo Streets",
+        "start_end": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Chinese city to test entire population after virus resurfaces",
+    "source": "dailynews.lk",
+    "snippet": "Authorities in the Chinese city of Wuhan will begin testing its entire population, after a handful of positive coronavirus cases were detected there. Wuhan has recorded seven locally transmitted cases - the first local infections in more than a year.",
+    "url": "https://dailynews.lk/2021/08/03/world/255633/chinese-city-test-entire-population-after-virus-resurfaces",
+    "url_hash": "0de90c902ac772d698ad8a6142f20246",
+    "ut": 1627981446,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wuhan",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wuhan",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than a year",
+        "start_end": [
+          38,
           42
         ]
       }
