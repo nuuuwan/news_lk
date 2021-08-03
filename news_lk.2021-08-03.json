@@ -5701,6 +5701,65 @@
   },
   {
     "date": "2021-08-03",
+    "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
+    "source": "www.myplainview.com",
+    "snippet": "SAN JUAN, Puerto Rico \u2014 The Carnival Mardi Gras has docked in Puerto Rico \u2014 the first cruise ship to visit the U.S. territory since the start of the pandemic. Some cautiously celebrated Tuesday's visit.",
+    "url": "https://www.myplainview.com/news/article/The-Latest-Qantas-furloughs-2-500-staff-amid-16359281.php",
+    "url_hash": "b0778f703ad5ceedf886ca6311bd43a7",
+    "ut": 1627999708,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "SAN JUAN",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Sri Lanka to play World Cup qualifiers in Abu Dhabi!",
     "source": "www.islandcricket.lk",
     "snippet": "Sheikh Zayed Stadium in Abu Dhabi was established in 2004 with around 20,000 seating capacity The Group 'A' matches of the forthcoming International cricket Council (ICC) T20 World Cup -featuring Sri Lanka,",
@@ -7133,6 +7192,49 @@
         "start_end": [
           69,
           70
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Xiaomi unveils Poco F3 in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Poco, the industry-redefining smartphone brand, announced the launch of its latest smart phone, Poco F3 in Sri Lanka. A faster and stronger device with no compromises, Poco F3 comes equipped with a powerful processor,",
+    "url": "https://www.ft.lk/it-telecom-tech/Xiaomi-unveils-Poco-F3-in-Sri-Lanka/50-721246",
+    "url_hash": "560b0840000a77fc53a6677fafe3d139",
+    "ut": 1628014112,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Poco",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Poco F3",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Poco F3",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
