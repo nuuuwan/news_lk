@@ -93,20 +93,24 @@ def scrape_and_dump():
         if www.exists(remote_url, timeout=5):
             existing_article_list = www.read_json(remote_url)
 
-        existing_article_hashes = list(
-            map(
-                lambda d: d['url_hash'],
-                existing_article_list,
+        existing_article_hashes = set(
+            list(
+                map(
+                    lambda d: d['url_hash'],
+                    existing_article_list,
+                )
             )
         )
-        upload_article_list = existing_article_list
+        new_to_upload_article_list = []
         for hash, article in date_to_hash_to_article[date].items():
-            if hash in existing_article_hashes:
-                continue
-            expanded_new_article = expand_article(article)
-            tweet.tweet_article(expanded_new_article)
-            upload_article_list.append(expanded_new_article)
+            if hash not in existing_article_hashes:
+                expanded_new_article = expand_article(article)
+                new_to_upload_article_list.append(expanded_new_article)
 
+        upload_article_list = sorted(
+            existing_article_list + new_to_upload_article_list,
+            key=lambda x: x['ut'],
+        )
         data_file = '/tmp/%s' % file_only
         jsonx.write(data_file, upload_article_list)
         n_articles = len(upload_article_list)
@@ -122,6 +126,12 @@ def scrape_and_dump():
                 'n_articles': n_articles,
             }
         )
+
+        # tweet
+        log.info('%d articles to tweet...', len(new_to_upload_article_list))
+        for article in new_to_upload_article_list:
+            tweet.tweet_article(article)
+
     summary_stats_list = sorted(summary_stats_list, key=lambda d: d['date'])
     base_url = 'https://github.com/nuuuwan/news_lk/blob/data'
     lines = ['# Summary', '*Latest scrapes*']
