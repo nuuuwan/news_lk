@@ -7699,5 +7699,117 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Sri Lanka has 4 ODI series starting with SA to gain automatic qualification",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka\u0432\u0402\u2122s win in the third and final ODI against India brought a sigh of relief to the team as well as its followers because they finally managed to garner a valuable 10 points from the victory that saw them move one slot up in the ICC Cricket World Cup Super League Standings to 11th position.",
+    "url": "https://www.ft.lk/sports/Sri-Lanka-has-4-ODI-series-starting-with-SA-to-gain-automatic-qualification/23-721229",
+    "url_hash": "90ea1110eca118df240159e6d229fd6b",
+    "ut": 1627942287,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the ICC Cricket World Cup Super League Standings",
+        "start_end": [
+          47,
+          55
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "11th",
+        "start_end": [
+          56,
+          57
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Denying IMF support is no solution for Sri Lanka's economic woes",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka is currently facing multiple economic challenges amidst the COVID-19 pandemic. The budget deficit, which exceeded 11% of GDP last year due to tax cuts, has aggravated macroeconomic imbalances .",
+    "url": "https://www.ft.lk/opinion/Denying-IMF-support-is--no-solution-for-Sri-Lanka-s-economic-woes/14-721234",
+    "url_hash": "b5794ff0ab3dd730e04821859dd93230",
+    "ut": 1627942287,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "11%",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Electric vehicles: recycled batteries and the search for a circular economy",
+    "source": "www.ft.com",
+    "snippet": "The explosion in demand for EVs has spurred a quest for alternative sources of key metals such as cobalt and nickel",
+    "url": "https://www.ft.com/content/e88e00e3-0a0c-469a-986b-1ffda60b6aee?shareType=nongift",
+    "url_hash": "bb957d9ff48315d7ef72324c2863467e",
+    "ut": 1627877487,
+    "ent_info_list": []
   }
 ]
