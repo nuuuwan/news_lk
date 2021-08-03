@@ -226,6 +226,57 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Schools to be re-opened gradually",
+    "source": "www.msn.com",
+    "snippet": "It is the Government's intention to re-open schools with less than 100 students as the first step in re-opening the schools after the third wave of Covid-19, said Education Minister Prof. G.L. Peiris.",
+    "url": "http://www.msn.com/en-xl/asia/srilanka/schools-to-be-re-opened-gradually/ar-AAMRuEs",
+    "url_hash": "9e7e0333a867708c8f4d07793c8de632",
+    "ut": 1627949324,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "less than 100",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G.L. Peiris",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Washington will continue to support Lanka's fight against Covid-19",
     "source": "island.lk",
     "snippet": "US Ambassador to Sri Lanka Alaina B. Teplitz yesterday said that the US would continue to support Sri Lanka's fight against Covid-19 through the COVAX facility. She made the pledge during a courtesy call on Speaker Mahinda Yapa Abeywardena yesterday,",
@@ -564,6 +615,81 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Sri Lanka needs to beat Zimbabave, Afghanistan, South Africa and New Zealand to automatically qualify for 2023 world cup",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka's win in the third and final ODI against India brought a sigh of relief to the team as well as its followers because they finally managed to garner a valuable 10 points from the victory that saw them move one slot up in the ICC Cricket World Cup Super League Standings to 11th position.",
+    "url": "https://www.islandcricket.lk/news/sri-lanka-needs-to-beat-zimbabave-afghanistan-south-africa-and-new-zealand-to-automatically-qualify-for-2023-world-cup/",
+    "url_hash": "17df4ce053960c01ae46379c52df41bd",
+    "ut": 1627956524,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the ICC Cricket World Cup Super League Standings",
+        "start_end": [
+          46,
+          54
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "11th",
+        "start_end": [
+          55,
+          56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "COVID Shield app introduced to Sri Lanka to fight against COVID-19 pandemic",
     "source": "island.lk",
     "snippet": "Health Informatics Society of Sri Lanka (HISSL) and the Commonwealth Centre for Digital Health (CWCDH) have introduced the COVID Shield app to Sri Lanka to fight against the COVID-19 pandemic. The COVID Shield App allows users to assess their lung health on a regular basis to identify deteriorations associated with COVID-19 early.",
@@ -651,6 +777,299 @@
         "text": "a single day",
         "start_end": [
           34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Sri Lanka sets the pace on vaccinations",
+    "source": "global.chinadaily.com.cn",
+    "snippet": "Steady supplies of a Chinese-developed COVID-19 vaccine have helped Sri Lanka set a brisk pace in vaccinations, with the island nation even clocking up the record for the most jabs in a single day. More doses of the vaccine,",
+    "url": "http://global.chinadaily.com.cn/a/202108/03/WS6108a08da310efa1bd6663b3.html",
+    "url_hash": "2958d6995bd48bae59437aaede7ff0d3",
+    "ut": 1627960124,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Hanging solar fences effectively tackling man-elephant conflict in Assam",
+    "source": "energy.economictimes.indiatimes.com",
+    "snippet": "Such a fence has been installed on the fringe of Rani Reserve Forest near Guwahati and \"it has helped overcome the problem of elephants destroying hum..",
+    "url": "https://energy.economictimes.indiatimes.com/news/renewable/hanging-solar-fences-effectively-tackling-man-elephant-conflict-in-assam/84994382",
+    "url_hash": "7f69929466d746b2adbf1084ce1b27fa",
+    "ut": 1627960138,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Rani Reserve Forest",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Guwahati",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Analysis-Debt-Hobbled Sri Lanka Risks Running Out of Options",
+    "source": "money.usnews.com",
+    "snippet": "Sri Lanka paid a $1 billion bond last week, but the alarming state of its finances suggests it may have been just another step towards its first sovereign default. All the tell-tale crisis signs are there: bonds at nearly half their face value,",
+    "url": "https://money.usnews.com/investing/news/articles/2021-08-02/analysis-debt-hobbled-sri-lanka-risks-running-out-of-options",
+    "url_hash": "3303899e0dc4da3046caf4f120f03b90",
+    "ut": 1627960333,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly half",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Analysis: Debt-hobbled Sri Lanka risks running out of options",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka paid a $1 billion bond last week, but the alarming state of its finances suggests it may have been just another step towards its first sovereign default.",
+    "url": "https://www.msn.com/en-us/finance/markets/analysis-debt-hobbled-sri-lanka-risks-running-out-of-options/ar-AAMRyPF",
+    "url_hash": "f3f99e998697c131611ba2b1d8ead621",
+    "ut": 1627960364,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "DIMO further expands biz portfolio with DIMO Initium",
+    "source": "www.dailymirror.lk",
+    "snippet": "DIMO, one of the leading conglomerates in Sri Lanka, has continued the expansion of its business portfolio by providing solutions to the market under Industrial, Nutrition and Construction Chemicals segments.",
+    "url": "https://www.dailymirror.lk/business-news/DIMO-further-expands-biz-portfolio-with-DIMO-Initium/273-217416",
+    "url_hash": "78eaf902f1022df05333654c8810e2df",
+    "ut": 1627961914,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Industrial, Nutrition and Construction Chemicals",
+        "start_end": [
+          26,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Association of Professional Bankers holds 32nd AGM",
+    "source": "www.dailymirror.lk",
+    "snippet": "General Meeting (AGM) of the Association of Professional Bankers (APB), Sri Lanka was held recently at the Galadari Hotel, Colombo where a minimum number of members attended the meeting physically in compliance with prevailing Health and Safety measures while majority of members attended the .",
+    "url": "https://www.dailymirror.lk/business-news/Association-of-Professional-Bankers-holds-32nd-AGM/273-217419",
+    "url_hash": "aa161b0bdf2eb0fa43f58db7f45ca05f",
+    "ut": 1627962344,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Meeting",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Association of Professional Bankers",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Galadari Hotel, Colombo",
+        "start_end": [
+          21,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Browns General Trading Division offers array of Makita cordless garden equipment",
+    "source": "www.dailymirror.lk",
+    "snippet": "The General Trading Division (GTD) of Browns Group offers a wide array of Makita cordless garden equipment powered by world famed Japanese technology. The partnership between Browns and Makita began in 1986 and Browns is the sole authroised agent for ...",
+    "url": "https://www.dailymirror.lk/business-news/Browns-General-Trading-Division-offers-array-of-Makita-cordless-garden-equipment/273-217411",
+    "url_hash": "a7d5ce9dffd8b81dcf402525f8503de5",
+    "ut": 1627963354,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The General Trading Division",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Browns Group",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Makita",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Japanese",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Browns and Makita",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1986",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Browns",
+        "start_end": [
+          36,
           37
         ]
       }
