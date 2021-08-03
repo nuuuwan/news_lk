@@ -2415,6 +2415,89 @@
   },
   {
     "date": "2021-08-03",
+    "title": "No tsunami threats to Sri Lanka from Andaman Islands earthquake",
+    "source": "www.adaderana.lk",
+    "snippet": "An earthquake of magnitude 6.5 has struck off the Andaman Islands, an Indian archipelago in the Bay of Bengal, today (August 03). The tremor has occurred at around 9.12 am at a depth of about 95 km. Sri Lanka's National Early Tsunami Warning Centre of the Department of Meteorology assured that there is no threat of tsunami waves to the island at present due to the said earthquake.",
+    "url": "http://www.adaderana.lk/news/75854/no-tsunami-threats-to-sri-lanka-from-andaman-islands-earthquake",
+    "url_hash": "0fb5f7c7df3a4f40e01805cc8f85f44d",
+    "ut": 1627967284,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Andaman Islands",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Bay of Bengal",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 03",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 95 km",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          43,
+          46
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Early Tsunami Warning Centre",
+        "start_end": [
+          46,
+          51
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          52,
+          56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Govt.to submit weekly reports to Parliament on COVID 19 situation: Pavithra",
     "source": "www.dailymirror.lk",
     "snippet": "Government is considering giving weekly reports to Parliament on COVID-19 pandemic situation, Minister of Health Pavithra Wanniarachchi said today. ..",
@@ -5422,6 +5505,41 @@
   },
   {
     "date": "2021-08-03",
+    "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
+    "source": "accesswdun.com",
+    "snippet": "The Carnival Mardi Gras has docked in Puerto Rico -- the first cruise ship to visit the U.S. territory since the start of the pandemic",
+    "url": "https://accesswdun.com/article/2021/8/1027217",
+    "url_hash": "78f306148f5120502d188a67df67554c",
+    "ut": 1627999694,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Speaker denies presiding House when Thalatha subject to verbal sexual slur",
     "source": "www.dailymirror.lk",
     "snippet": "Speaker's media unit today denied claims made by SJB MP Rohini Kavirathne that Speaker Mahinda Yapa Abeywardane was presiding the House when SJB MP Thalatha Athukorala was subject to verbal sexual remarks during a debate in parliament.",
@@ -5791,6 +5909,65 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "74 COVID-19 deaths reported: Death toll surges to 4,645",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 74 more COVID-19 related deaths that occurred yesterday (02) were confirmed by the Director-General of Health Services today pushing the death toll to 4,645. According to the Government Information Department,26 females and 48 males are among ...",
+    "url": "https://www.dailymirror.lk/latest_news/74-COVID-19-deaths-reported-Death-toll-surges-to-4-645/342-217459",
+    "url_hash": "83772317d466a3db786c2a274e1ab601",
+    "ut": 1628003276,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "74",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "02",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,645",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "48",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
@@ -6895,6 +7072,73 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Global tech giant HCL to take up 80% of 'The Offices' at Cinnamon Life",
+    "source": "www.ft.lk",
+    "snippet": "Colombo's newest state-of-the-art office tower, 'The Offices' at Cinnamon Life, has been chosen as the hub for leading global technology company HCL Technologies' growth drive in Sri Lanka. Cinnamon Life is the first A-grade office tower in Colombo to attract a leading multinational company to occupy a majority of available office spaces within its premises.",
+    "url": "https://www.ft.lk/front-page/Global-tech-giant-HCL-to-take-up-80-of-The-Offices-at-Cinnamon-Life/44-721277",
+    "url_hash": "039c063a6c47e477c6a5632598febef5",
+    "ut": 1628014110,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cinnamon Life",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HCL Technologies'",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cinnamon Life",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "premises",
+        "start_end": [
+          69,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Mississippi, 1 of U.S's Least COVID Vaccinated States, Sees Uptick in Shots as Cases Rise",
     "source": "www.msn.com",
     "snippet": "The state saw nearly 5,000 new cases over the weekend, according to state data, more than six times the confirmed amount reported on July 12.",
@@ -7394,6 +7638,81 @@
   },
   {
     "date": "2021-08-03",
+    "title": "How Lakshman Kadirgamar became an MP and Minister",
+    "source": "www.ft.lk",
+    "snippet": "Former Sri Lankan Foreign Minister Lakshman Kadirgamar was assassinated in Colombo by the Liberation Tigers of Tamil Eelam (LTTE) on 1205. This column intends focusing on the man regarded as Sri Lanka's finest foreign minister this week even as his 16th death anniversary draws near.",
+    "url": "https://www.ft.lk/columns/How-Lakshman-Kadirgamar-became-an-MP-and-Minister/4-721238",
+    "url_hash": "27215f13210efd152ce47a179eb7c994",
+    "ut": 1628017710,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lakshman Kadirgamar",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Liberation Tigers of",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1205",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "16th",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "The Latest: Psaki criticizes policy in states blocking masks",
     "source": "apnews.com",
     "snippet": "WASHINGTON \u2014 White House press secretary Jen Psaki criticized policies in states such as Texas and Florida that have moved to block employers and proprietors from implementing mask or vaccine requirements to curb the coronavirus.",
@@ -7659,6 +7978,73 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "COVISHIELD second dose rollout underway...",
+    "source": "www.dailymirror.lk",
+    "snippet": "The AztraZeneca second dose rollout is currently underway in the Western Province. People were seen receiving their second dose of the AstraZeneca Covid-19 vaccine in Colombo yesterday. ..",
+    "url": "https://www.dailymirror.lk/caption_story/COVISHIELD-second-dose-rollout-underway/110-217464",
+    "url_hash": "eb4056bcc12d3b3c4e9011901d2fde59",
+    "ut": 1628021276,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "AztraZeneca",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
