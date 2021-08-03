@@ -151,6 +151,81 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Britain to offer COVID booster shots for 32 m",
+    "source": "www.msn.com",
+    "snippet": "UK: Britain will begin offering a booster dose of a COVID-19 vaccine to 32 million Britons starting in early September, The Telegraph reported Sunday. The shots will be available in as many as 2,000 pharmacies with the goal of getting them into arms by early December.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/britain-to-offer-covid-booster-shots-for-32-m/ar-AAMRj8j",
+    "url_hash": "ea98c1121bd2a0ee2dcaa274f12c2cc6",
+    "ut": 1627949307,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Britain",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "32 million",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early September",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Telegraph",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "as many as 2,000",
+        "start_end": [
+          33,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early December",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Washington will continue to support Lanka's fight against Covid-19",
     "source": "island.lk",
     "snippet": "US Ambassador to Sri Lanka Alaina B. Teplitz yesterday said that the US would continue to support Sri Lanka's fight against Covid-19 through the COVAX facility. She made the pledge during a courtesy call on Speaker Mahinda Yapa Abeywardena yesterday,",
@@ -483,6 +558,100 @@
         "start_end": [
           1,
           3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "COVID Shield app introduced to Sri Lanka to fight against COVID-19 pandemic",
+    "source": "island.lk",
+    "snippet": "Health Informatics Society of Sri Lanka (HISSL) and the Commonwealth Centre for Digital Health (CWCDH) have introduced the COVID Shield app to Sri Lanka to fight against the COVID-19 pandemic. The COVID Shield App allows users to assess their lung health on a regular basis to identify deteriorations associated with COVID-19 early.",
+    "url": "https://island.lk/covid-shield-app-introduced-to-sri-lanka-to-fight-against-covid-19-pandemic/",
+    "url_hash": "df52e00d397485e47db2fad7ac16e6d5",
+    "ut": 1627956798,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health Informatics Society of",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HISSL",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Commonwealth Centre",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "COVID Shield",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Sri Lanka sets the pace on vaccinations",
+    "source": "global.chinadaily.com.cn",
+    "snippet": "Steady supplies of a Chinese-developed COVID-19 vaccine have helped Sri Lanka set a brisk pace in vaccinations, with the island nation even clocking up the record for the most jabs in a single day. More doses of the vaccine,",
+    "url": "https://global.chinadaily.com.cn/a/202108/03/WS6108a08da310efa1bd6663b3.html",
+    "url_hash": "6f96fa242bdb5dcbff92317503f51b0d",
+    "ut": 1627959018,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          34,
+          37
         ]
       }
     ]
