@@ -277,6 +277,65 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Earthquake hits Sumatra, no tsunami threat to Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "An Earthquake has occurred near Sumatra Island in the Indian Ocean today but it has no tsunami threat to Sri Lanka, specifically the coastal areas of Sri Lanka are declared safe, the Meteorology Department said.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/earthquake-hits-sumatra-no-tsunami-threat-to-sri-lanka/ar-AAMSwUH",
+    "url_hash": "358a8c404b1783b4596522f2a251287f",
+    "ut": 1627949325,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Sumatra Island",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Meteorology Department",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Washington will continue to support Lanka's fight against Covid-19",
     "source": "island.lk",
     "snippet": "US Ambassador to Sri Lanka Alaina B. Teplitz yesterday said that the US would continue to support Sri Lanka's fight against Covid-19 through the COVAX facility. She made the pledge during a courtesy call on Speaker Mahinda Yapa Abeywardena yesterday,",
@@ -3078,6 +3137,65 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Petition seeking an order to set up a marine environment conservation fund fixed for Oct.25",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Fundamental Rights petition filed by environmental scientist Dr. Ajantha Perera and a social activist seeking an order directing the authorities to set up a Restoration and Conservation Fund for the environmental degradation due to the pollution caused by the X-Press Pearl vessel was today fixed for support by Supreme Court.",
+    "url": "https://www.dailymirror.lk/breaking_news/Petition-seeking-an-order-to-set-up-a-marine-environment-conservation-fund-fixed-for-Oct-25/108-217443",
+    "url_hash": "a5b6b5aba1bea4d0384757808bb28dbf",
+    "ut": 1627974515,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ajantha Perera",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Restoration and Conservation Fund",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the X-Press",
+        "start_end": [
+          39,
+          43
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pearl",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          51,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "No threat to Sri Lanka following quake near Andaman Islands",
     "source": "colombogazette.com",
     "snippet": "There was no threat to Sri Lanka following the quake near the Andaman Islands, the Department of Meteorology said. The National Tsunami Early Warning Center of the Department of Meteorology said that there was no tsunami threat to Sri Lanka.",
@@ -3300,6 +3418,178 @@
         "start_end": [
           38,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "A CCTV Footage of a \"Pandemic Ready\" Family Roaming the Colombo Streets.",
+    "source": "dailynews.lk",
+    "snippet": "Home A CCTV Footage of a \"Pandemic Ready\" Family Roaming the Colombo Streets.",
+    "url": "https://dailynews.lk/2021/08/03/local/255632/cctv-footage-pandemic-ready-family-roaming-colombo-streets",
+    "url_hash": "846a8add7c6b1326799fc936a27ac55d",
+    "ut": 1627981720,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CCTV",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Pandemic Ready\" Family Roaming the Colombo Streets",
+        "start_end": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "COVID-19 Delta Variant Reaches Wuhan as China Battles Widest Outbreak Since Disease Emerged in 2019",
+    "source": "time.com",
+    "snippet": "The Delta variant has broken through China's COVID-19 defenses, which are some of the strictest in the world, and reached nearly half of China's 32 provinces in just two weeks.",
+    "url": "https://time.com/6086723/china-covid-19-outbreak-wuhan/",
+    "url_hash": "aa0d1d28ec90c1e228c406e8f5439124",
+    "ut": 1627981725,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly half",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "32",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "just two weeks",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Sri Lanka rupee dollar swap discounts narrow, short tenors positive",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's one year swap discounts have narrowed further this week, with 12-month swap discount falling to -300/-500 while parallel markets have widened, market participants said.",
+    "url": "https://economynext.com/sri-lanka-rupee-dollar-swap-discounts-narrow-short-tenors-positive-84531/",
+    "url_hash": "4534983dc168552c963ceac1e9d80250",
+    "ut": 1627982222,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one year",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-month",
+        "start_end": [
+          14,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Ban on Chemical Fertilizer imports reversed?; Harsha questions govt on new gazette regulations",
+    "source": "www.newsfirst.lk",
+    "snippet": "Opposition Lawmaker Dr. Harsha De Silva questioned as to whether Finance Minister Basil Rajapaksa has reversed the decision taken by - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/03/ban-on-chemical-fertilizer-imports-reversed-harsha-questions-govt-on-new-gazette-regulations/",
+    "url_hash": "e0b6f744f06b5ae3789bbc37e52bd534",
+    "ut": 1627982407,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Harsha De Silva",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
         ]
       }
     ]
