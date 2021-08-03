@@ -68,6 +68,19 @@ def get_new_articles():
     return new_article_list
 
 
+def get_date_article_list(date):
+    file_only = 'news_lk.%s.json' % date
+    remote_url = os.path.join(
+        'https://raw.githubusercontent.com',
+        'nuuuwan/news_lk/data/%s' % file_only,
+    )
+    existing_article_list = []
+    if www.exists(remote_url, timeout=5):
+        existing_article_list = www.read_json(remote_url)
+    log.info('Got %d articles for %s', len(existing_article_list), date)
+    return existing_article_list
+
+
 def scrape_and_dump():
     new_article_list = get_new_articles()
     log.info('Got %d new articles', len(new_article_list))
@@ -83,15 +96,9 @@ def scrape_and_dump():
 
     summary_stats_list = []
     for date in date_to_hash_to_article:
-        file_only = 'news_lk.%s.json' % date
 
-        remote_url = os.path.join(
-            'https://raw.githubusercontent.com',
-            'nuuuwan/news_lk/data/%s' % file_only,
-        )
-        existing_article_list = []
-        if www.exists(remote_url, timeout=5):
-            existing_article_list = www.read_json(remote_url)
+        file_only = 'news_lk.%s.json' % date
+        existing_article_list = get_date_article_list(date)
 
         existing_article_hashes = set(
             list(
