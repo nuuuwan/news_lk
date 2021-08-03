@@ -1,27 +1,18 @@
 """Tweet."""
-import random
-import re
-import time
 
 from utils import timex, twitter
 
+from news_lk import _utils, entity_to_twitter_map
 from news_lk._utils import log
 
 MAX_ARTICLE_AGE = timex.SECONDS_IN.DAY
 MAX_SNIPPET_LENGTH = 200
 TWEETING_ENABLED = False
-MEAN_SLEEP_TIME = 5
 
-ENT_TEXT_TO_TWITTER = {
-    'Sri Lanka': '#SriLanka🇱🇰',
-    'Rishad Bathiudeen': '@rbathiudeen',
-    'Kotelawala National Defense University': '@Kotelawala_uni',
-    'COVID-19': '#COVID19',
-}
-
-
-def random_sleep():
-    time.sleep(random.random() * MEAN_SLEEP_TIME)
+ENTITY_TO_TWITTER_MAP_TIME_ID = None
+ENTITY_TO_TWITTER_MAP = entity_to_twitter_map.get_entity_to_twitter_map(
+    ENTITY_TO_TWITTER_MAP_TIME_ID
+)
 
 
 def tweet_article(article):
@@ -37,21 +28,8 @@ def tweet_article(article):
     snippet = article['snippet']
 
     # transform
-    replace_map = ENT_TEXT_TO_TWITTER
-    for ent_info in article['ent_info_list']:
-        text = ent_info['text']
-        label = ent_info['label']
 
-        if text not in replace_map:
-            if label in ['PERSON', 'NORP', 'GPE', 'ORG']:
-                if text in ENT_TEXT_TO_TWITTER:
-                    twitter_text = ENT_TEXT_TO_TWITTER[text]
-                else:
-                    log.warn("    '%s': '%s', ", text, text)
-                    twitter_text = '#' + re.sub(r'[^a-zA-Z0-9]', '', text)
-                replace_map[text] = twitter_text
-
-    for before, after in replace_map.items():
+    for before, after in ENTITY_TO_TWITTER_MAP.items():
         snippet = snippet.replace(before, after)
 
     if len(snippet) > MAX_SNIPPET_LENGTH:
@@ -79,4 +57,4 @@ def tweet_article(article):
         profile_image_file=profile_image_file,
         banner_image_file=banner_image_file,
     )
-    random_sleep()
+    _utils.random_sleep()

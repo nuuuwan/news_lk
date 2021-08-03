@@ -1,11 +1,15 @@
 """Utils."""
 
 import logging
+import random
+import time
 
 from utils import timex
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger('news_lk')
+
+MEAN_SLEEP_TIME = 5
 
 
 def get_ut(timestamp_str, ut_cur=None):
@@ -34,3 +38,7 @@ def get_ut(timestamp_str, ut_cur=None):
         return ut_cur - delta
     else:  # absolute time
         return timex.parse_time(timestamp_str, '%d %b %Y')
+
+
+def random_sleep():
+    time.sleep(random.random() * MEAN_SLEEP_TIME)
