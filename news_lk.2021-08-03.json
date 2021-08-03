@@ -5817,6 +5817,65 @@
   {
     "date": "2021-08-03",
     "title": "The Latest: NYC: Vaccination proof for indoor dining, gyms",
+    "source": "www.wsbradio.com",
+    "snippet": "NEW YORK \u2014 New York City will soon require proof of COVID-19 vaccinations for indoor activities. Mayor Bill de Blasio announced the move Tuesday, the first big city in the U.S. to impose such restrictions.",
+    "url": "https://www.wsbradio.com/news/world/latest-nyc/VZDHTX6JPDVFMHLNAQN2VHP7BE/",
+    "url_hash": "28a77d206549a44c547d5157b02d8b57",
+    "ut": 1628003322,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "NEW YORK",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York City",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill de Blasio",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: NYC: Vaccination proof for indoor dining, gyms",
     "source": "www.thenewstribune.com",
     "snippet": "NEW YORK \u2014 New York City will soon require proof of COVID-19 vaccinations for indoor activities. Mayor Bill de Blasio announced the move Tuesday, the first big city in the U.S. to impose such restrictions.",
     "url": "https://www.thenewstribune.com/news/business/article253215863.html",
@@ -6444,6 +6503,49 @@
   },
   {
     "date": "2021-08-03",
+    "title": "The Latest: Israel: US, other countries must quarantine",
+    "source": "www.wsoctv.com",
+    "snippet": "Israel will require all people arriving from the United States and 17 other countries to quarantine starting next week",
+    "url": "https://www.wsoctv.com/news/health/latest-israel-us/VZDHTX6JPDVFMHLNAQN2VHP7BE/",
+    "url_hash": "620558139f6df5ae45739aa026229280",
+    "ut": 1628010526,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Israel",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Omani Shumookh inks MOU with Sri Lanka's UDA, interested in G-secs",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Omani Shumookh International LLC, a company linked to a state industrial estate firm in Oman has inked a deal with Sri Lanka's Urban Development Authority and expressed interest in buying government securities,",
@@ -6524,6 +6626,371 @@
         "start_end": [
           25,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Mississippi, 1 of U.S's Least COVID Vaccinated States, Sees Uptick in Shots as Cases Rise",
+    "source": "www.msn.com",
+    "snippet": "The state saw nearly 5,000 new cases over the weekend, according to state data, more than six times the confirmed amount reported on July 12.",
+    "url": "https://www.msn.com/en-us/news/us/mississippi-1-of-uss-least-covid-vaccinated-states-sees-uptick-in-shots-as-cases-rise/ar-AAMTLT3",
+    "url_hash": "7192eb70804b2bde20223ba013cd9d09",
+    "ut": 1628014126,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "nearly 5,000",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weekend",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than six",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 12",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Blue sapphire cluster weighing 80kg found from Rakwana",
+    "source": "www.adaderana.lk",
+    "snippet": "A blue sapphire cluster weighing 80kg has been discovered in Rakwana, Ratnapura, Ada Derana correspondent reported",
+    "url": "http://www.adaderana.lk/news/75772/80kg-blue-sapphire-cluster-found-from-rakwana",
+    "url_hash": "f4bf26fab381c1357c48a73c8b4d25e5",
+    "ut": 1628014418,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "80kg",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rakwana",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ratnapura",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ada Derana",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "A Pandemic Year in Review: Reflections From Sri Lanka and Maldives",
+    "source": "reliefweb.int",
+    "snippet": "English News and Press Release on Sri Lanka about Agriculture, Climate Change and Environment, Epidemic and more; published on 03 Aug 2021 by World Bank",
+    "url": "https://reliefweb.int/report/sri-lanka/pandemic-year-review-reflections-sri-lanka-and-maldives",
+    "url_hash": "76696c6898597dbfdfd728a3ea8a0479",
+    "ut": 1628014654,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "English News",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Agriculture",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "03 Aug 2021",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "World Bank",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Winfield Sports delivers groundbreaking 3D VR signage during Indian tour of Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Winfield Sports Ltd., with a 22-year pedigree, Sri Lanka's premier sports branding and marketing organisation, delivered another first groundbreaking commercial 3D VR (Virtual Reality) signage branding during the recently concluded Indian ODI and T20I series in Sri Lanka.",
+    "url": "https://www.ft.lk/sports/Winfield-Sports-delivers-groundbreaking-3D-VR-signage-during-Indian-tour-of-Sri-Lanka/23-721255",
+    "url_hash": "cbeea501789957a81b8e13a07244f687",
+    "ut": 1628015386,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Winfield Sports Ltd.",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "22-year",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Virtual Reality",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "With a new High Commissioner and strategy roadmap, Sri Lanka seeks to reset ties with India`",
+    "source": "www.ft.lk",
+    "snippet": "Colombo pitches for investment, trade and connectivity, and increasing religious exchanges. After months of strain over a number of issues including the cancelled port project in Colombo, Sri Lanka is preparing to send its High Commissioner designate to Delhi,",
+    "url": "https://www.ft.lk/opinion/With-a-new-High-Commissioner-and-strategy-roadmap-Sri-Lanka-seeks-to-reset-ties-with-India/14-721240",
+    "url_hash": "de478b9ae2c67e9813d518ff4032cb54",
+    "ut": 1628015386,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Delhi",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "How Lakshman Kadirgamar became an MP and Minister",
+    "source": "www.ft.lk",
+    "snippet": "Former Sri Lankan Foreign Minister Lakshman Kadirgamar was assassinated in Colombo by the Liberation Tigers of Tamil Eelam (LTTE) on 1205. This column intends focusing on the man regarded as Sri Lanka's finest foreign minister this week even as his 16th death anniversary draws near.",
+    "url": "https://www.ft.lk/d-b-s-jeyaraj/How-Lakshman-Kadirgamar-became-an-MP-and-Minister/10496-721238",
+    "url_hash": "39283b07e6f303d4b52047833c487b27",
+    "ut": 1628015998,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lakshman Kadirgamar",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Liberation Tigers of",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1205",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "16th",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Hundred Men's Competition",
+    "source": "www.dailynews.lk",
+    "snippet": "Shane Warne, London Spirit's head coach, and another unnamed member of the management team have gone into isolation after returning positive Covid-19 tests. Warne reported feeling unwell on Sunday...",
+    "url": "http://www.dailynews.lk/tags/hundred-mens-competition",
+    "url_hash": "3b018bf38dad119047581b6640c28027",
+    "ut": 1628017290,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
