@@ -3368,6 +3368,49 @@
   },
   {
     "date": "2021-08-03",
+    "title": "The Latest: Qantas furloughs 2,500 staff amid lockdown",
+    "source": "www.wbal.com",
+    "snippet": "WBAL NewsRadio 1090/FM 101.5 - The Carnival Mardi Gras has docked in Puerto Rico -- the first cruise ship to visit the U.S. territory since the start of the pandemic",
+    "url": "https://www.wbal.com/article/526353/127/the-latest-qantas-furloughs-2500-staff-amid-lockdown",
+    "url_hash": "6d63455e35e237b7cd37477a2eae3a87",
+    "ut": 1627974505,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "WBAL NewsRadio 1090/FM",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Why China's space programme is worrisome and may spark a space war",
     "source": "www.sify.com",
     "snippet": "The space war between US and Russia came to an end in 1991 but Chinas secretive programs could end up creating more worries and a global dominance.",
@@ -4799,6 +4842,49 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Coming two weeks extremely crucial, warns SLMA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The coming couple of weeks would be extremely crucial in terms of detecting more patients of highly contagious Delta variant in the country, the Sri Lanka Medical Association (SLMA), warned today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Coming-two-weeks-extremely-crucial-warns-SLMA/108-217456",
+    "url_hash": "cb9df5e743fa12a2110a9b70b1bbcfbe",
+    "ut": 1627996082,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "The coming couple of weeks",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Medical Association",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Sri Lanka cabinet firm on not giving in to teachers' salary hike demand",
     "source": "economynext.com",
     "snippet": "Sri Lanka's cabinet of ministers have decided not to give in to a salary increase demand of teachers' trade unions due to the current economic conditions, a cabinet spokesman said. The cabinet decision comes as a strike by teachers and principals have crippled online education of government schools for 23 days running.",
@@ -5059,6 +5145,103 @@
         "start_end": [
           49,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: NYC: Vaccination proof for indoor dining, gyms",
+    "source": "www.startribune.com",
+    "snippet": "It applies to indoor dining, gyms and indoor entertainment venues. De Blasio said Monday he was making \"a strong recommendation\" that everyone wear a mask in public indoor settings but stressed that the city's \"overwhelming strategic thrust\" remained getting more people vaccinated.",
+    "url": "https://www.startribune.com/the-latest-nyc-vaccination-proof-for-indoor-dining-gyms/600084225/",
+    "url_hash": "1f6400585a0766d73bf07a267ffa7a4a",
+    "ut": 1627999705,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "De Blasio",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
+    "source": "abcnews.go.com",
+    "snippet": "The Carnival Mardi Gras has docked in Puerto Rico -- the first cruise ship to visit the U.S. territory since the start of the pandemic",
+    "url": "https://abcnews.go.com/Health/wireStory/latest-qantas-furloughs-2500-staff-amid-lockdown-79233212",
+    "url_hash": "fb8905f199a2d17fd4f9770f885eba59",
+    "ut": 1627999760,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
+    "source": "www.sunherald.com",
+    "snippet": "The Carnival Mardi Gras has docked in Puerto Rico -- the first cruise ship to visit the U.S. territory since the start of the pandemic.",
+    "url": "https://www.sunherald.com/news/business/article253215863.html",
+    "url_hash": "7f5cc73ac11dcfdc1072d4921e921704",
+    "ut": 1628000185,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
