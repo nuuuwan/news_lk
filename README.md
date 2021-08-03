@@ -49,3 +49,4 @@
 * [2021-07-31 11:00AM] Transform Tweet Ent info
 * [2021-08-03 06:24AM] Enable Tweets
 * [2021-08-03 10:31AM] Build Entity to Twitter Text Map
+* [2021-08-03 11:23AM] Fix entity to twitter BUG

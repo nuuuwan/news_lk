@@ -2,7 +2,7 @@
 
 from utils import timex, twitter
 
-from news_lk import _utils, entity_to_twitter_map
+from news_lk import _utils, entity_to_twitter
 from news_lk._utils import log
 
 MAX_ARTICLE_AGE = timex.SECONDS_IN.DAY
@@ -10,7 +10,7 @@ MAX_SNIPPET_LENGTH = 200
 TWEETING_ENABLED = False
 
 ENTITY_TO_TWITTER_MAP_TIME_ID = None
-ENTITY_TO_TWITTER_MAP = entity_to_twitter_map.get_entity_to_twitter_map(
+ENTITY_TO_TWITTER_MAP = entity_to_twitter.get_entity_to_twitter_map(
     ENTITY_TO_TWITTER_MAP_TIME_ID
 )
 
