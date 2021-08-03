@@ -51,7 +51,6 @@ def tweet_article(article):
                     twitter_text = '#' + re.sub(r'[^a-zA-Z0-9]', '', text)
                 replace_map[text] = twitter_text
 
-
     for before, after in replace_map.items():
         snippet = snippet.replace(before, after)
 
