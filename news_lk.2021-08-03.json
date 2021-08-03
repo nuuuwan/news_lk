@@ -365,5 +365,126 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Trevor Page",
+    "source": "dailynews.lk",
+    "snippet": "From an international humanitarian perspective, the first half of 2021 has been disappointing. We are no further ahead in ending the conflict in Syria and Yemen. From the fledgling democracy that it...",
+    "url": "https://dailynews.lk/line/trevor-page",
+    "url_hash": "64ba1318d5bfc194d1fb1160c46a6101",
+    "ut": 1627953660,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the first half of 2021",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Yemen",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Senior Engineer Vijitha Herath assumes duties today as new Chairman of Sri Lanka Insurance",
+    "source": "island.lk",
+    "snippet": "By Ifham Nizam Senior Engineer Vijitha Herath will assume duties as the Sri Lanka Insurance Corporation Ltd.today. Herath, who is also the Sri Lanka Podujana Engineers Front Chairman said that with the backing and visionary thinking of Finance Minister Basil Rajapaksa his contribution would go along way to further strengthen Sri Lanka Insurance,",
+    "url": "https://island.lk/senior-engineer-vijitha-herath-assumes-duties-today-as-new-chairman-of-sri-lanka-insurance/",
+    "url_hash": "6db70b1a998af822e7e7815bc0001cb2",
+    "ut": 1627954745,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ifham Nizam Senior",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vijitha Herath",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Insurance Corporation",
+        "start_end": [
+          11,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Ltd.today",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Insurance",
+        "start_end": [
+          52,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "ChildFund Sri Lanka and Vocational Training Authority empower mothers and care-givers in Hambantota with accredited Child Care certification",
+    "source": "island.lk",
+    "snippet": "ChildFund Sri Lanka recognizes the critical importance of supporting care-givers in building a strong foundation for nurturing care and towards early childhood development. As an initial step to empowering care-givers through formally approved,",
+    "url": "https://island.lk/childfund-sri-lanka-and-vocational-training-authority-empower-mothers-and-care-givers-in-hambantota-with-accredited-child-care-certification/",
+    "url_hash": "e71b9f0b481e22be579c685968bc0bed",
+    "ut": 1627955285,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      }
+    ]
   }
 ]

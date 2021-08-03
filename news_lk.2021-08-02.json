@@ -7838,6 +7838,41 @@
   },
   {
     "date": "2021-08-02",
+    "title": "Denying IMF support is no solution for Sri Lanka's economic woes",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka is currently facing multiple economic challenges amidst the COVID-19 pandemic. The budget deficit, which exceeded 11% of GDP last year due to tax cuts, has aggravated macroeconomic imbalances .",
+    "url": "https://www.ft.lk/columns/Denying-IMF-support-is-no-solution-for-Sri-Lanka-s-economic-woes/4-721234",
+    "url_hash": "109a3652a960765dd98b410194f33b43",
+    "ut": 1627942879,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "11%",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
     "title": "England trying to replace Stokes; India looking for opener",
     "source": "apnews.com",
     "snippet": "Joe Root called his friend Ben Stokes the heartbeat of the England team, without compare in world cricket even. And yet England must replace that incomparable heartbeat somehow or the five-test series against India starting on Wednesday at Trent Bridge is going to feel like five heart attacks.",
@@ -7966,6 +8001,57 @@
         "start_end": [
           23,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-02",
+    "title": "Sri Lankan bishop attacks coal power plant",
+    "source": "www.lankaweb.com",
+    "snippet": "A Catholic bishop has criticized the largest power station in Sri Lanka for emitting carbon and causing environmental damage. Bishop Valence Mendis of Chilaw said Lakvijaya Coal Power Plant in Norochcholai is causing health risks to residents.",
+    "url": "http://www.lankaweb.com/news/items/2021/08/02/sri-lankan-bishop-attacks-coal-power-plant/comment-page-1/",
+    "url_hash": "9ae3b58d523c2c5dc6f6c63fa244aa16",
+    "ut": 1627946493,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Catholic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Chilaw",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lakvijaya Coal Power Plant",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Norochcholai",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
