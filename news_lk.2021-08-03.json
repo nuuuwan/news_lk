@@ -148,5 +148,222 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Washington will continue to support Lanka's fight against Covid-19",
+    "source": "island.lk",
+    "snippet": "US Ambassador to Sri Lanka Alaina B. Teplitz yesterday said that the US would continue to support Sri Lanka's fight against Covid-19 through the COVAX facility. She made the pledge during a courtesy call on Speaker Mahinda Yapa Abeywardena yesterday,",
+    "url": "https://island.lk/washington-will-continue-to-support-lankas-fight-against-covid-19/",
+    "url_hash": "f5088b265463a9f4491c0b0567a41325",
+    "ut": 1627951077,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Alaina",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "B. Teplitz",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Yapa Abeywardena",
+        "start_end": [
+          38,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "IMF to allocate SDRs on August 23, Sri Lanka expects around US$800mn",
+    "source": "economynext.com",
+    "snippet": "The International Monetary Fund said its Board of Governors had approved a 457 billion creation of Special Drawing Rights (about 650 billion US dollars) that will be allocated to members effective August 23.",
+    "url": "https://economynext.com/imf-to-allocate-sdrs-on-august-23-sri-lanka-expects-around-us800mn-84515/",
+    "url_hash": "dd05ce030bc2523c52d710fc099afa6b",
+    "ut": 1627951333,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Monetary Fund",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board of Governors",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "457 billion",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Special Drawing Rights",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "about 650 billion US dollars",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 23",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Lanka receives beach cleaning machinery to end plastic waste",
+    "source": "island.lk",
+    "snippet": "The Marine Environment Protection Authority (MEPA) of Sri Lanka received eight BeachTech Hydro Sweepy beach cleaning machinery worth about US$180,000, donated by Singapore-based global non-profit, the Alliance to End Plastic Waste.",
+    "url": "https://island.lk/lanka-receives-beach-cleaning-machinery-to-end-plastic-waste/",
+    "url_hash": "8f9b2c67ec6b03aae0bedf3ea0504a12",
+    "ut": 1627952817,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Marine Environment Protection Authority",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MEPA",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BeachTech Hydro",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "about US$180,000",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Alliance to End Plastic Waste",
+        "start_end": [
+          34,
+          40
+        ]
+      }
+    ]
   }
 ]
