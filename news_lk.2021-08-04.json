@@ -3280,6 +3280,41 @@
   },
   {
     "date": "2021-08-04",
+    "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
+    "source": "www.sunherald.com",
+    "snippet": "The Carnival Mardi Gras has docked in Puerto Rico -- the first cruise ship to visit the U.S. territory since the start of the pandemic.",
+    "url": "https://www.sunherald.com/news/business/article253215863.html",
+    "url_hash": "7f5cc73ac11dcfdc1072d4921e921704",
+    "ut": 1628064525,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "Analysis: Debt-hobbled Sri Lanka risks running out of options",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Sri Lanka paid a $1 billion bond last week, but the alarming state of its finances suggests it may have been just another step towards its first sovereign default. All the tell-tale crisis signs are there: bonds at nearly half their face value,",
@@ -3567,6 +3602,92 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Govt. MP says Sajith given Pfizer vaccine",
+    "source": "www.dailymirror.lk",
+    "snippet": "Whilst alleging that leader of Opposition Sajith Premadasa has been given the Pfizer vaccine, government MP Samapth Athukorala today questioned as to how he got that particular vaccine when it is not being used in Sri Lanka as yet.",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-MP-says-Sajith-given-Pfizer-vaccine/342-217525",
+    "url_hash": "61bf2a0c52cc0a263da3c77d598ad469",
+    "ut": 1628068102,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Opposition Sajith Premadasa",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Samapth Athukorala",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Police kennels trained to detect mosquito larvae",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sniffers dogs Johnny and Roma of the Police Kennels Division have been given special training to identify mosquito larvae. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-kennels-trained-to-detect-mosquito-larvae/108-217526",
+    "url_hash": "1aaa67baddf8c03affdcb2410161c1f2",
+    "ut": 1628068102,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Johnny",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Roma",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Police Kennels Division",
+        "start_end": [
+          6,
+          10
         ]
       }
     ]
