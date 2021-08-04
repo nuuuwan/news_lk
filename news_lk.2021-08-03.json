@@ -8800,6 +8800,57 @@
   },
   {
     "date": "2021-08-03",
+    "title": "The Latest: Psaki criticizes policy in states blocking masks",
+    "source": "chinapost.nownews.com",
+    "snippet": "WASHINGTON \u2014 White House press secretary Jen Psaki criticized policies in states such as Texas and Florida that have moved to block employers and proprietors from implementing mask or vaccine requirements to curb the coronavirus.",
+    "url": "https://chinapost.nownews.com/20210804-2687228",
+    "url_hash": "ce149ea669d33b05fc04a5b627f1ee28",
+    "ut": 1628017755,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "White House",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jen Psaki",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "A Pandemic Year in Review: Reflections From Sri Lanka and Maldives",
     "source": "www.worldbank.org",
     "snippet": "Stepping into the new role of a Country Manager for Sri Lanka and Maldives in July 2020 during a global pandemic was no easy feat.",
