@@ -6696,6 +6696,97 @@
   },
   {
     "date": "2021-08-03",
+    "title": "COVID-19: Japan donates 1.4 million doses of AstraZeneca vaccine to Sri Lanka",
+    "source": "www.newindianexpress.com",
+    "snippet": "COLOMBO: Japan is donating 1.4 million doses of AstraZeneca vaccine to Sri Lanka, which has been facing a severe shortage of AstraZeneca vaccine to complete the second dose. The Japanese donation follows a personal request made by Sri Lanka president Gotabaya Rajapaksa to the Japan prime minister Yoshihide Suga,",
+    "url": "https://www.newindianexpress.com/world/2021/aug/03/covid-19-japan-donates-14-million-doses-of-astrazeneca-vaccine-to-sri-lanka-2339657.amp",
+    "url_hash": "5850778fd62fc1eccfff7682789e9891",
+    "ut": 1628003327,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.4 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Japanese",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          43,
+          45
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yoshihide Suga",
+        "start_end": [
+          50,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "The Latest: NYC: Vaccination proof for indoor dining, gyms",
     "source": "accesswdun.com",
     "snippet": "NEW YORK \u2014 New York City will soon require proof of COVID-19 vaccinations for indoor activities. Mayor Bill de Blasio announced the move Tuesday, the first big city in the U.S. to impose such restrictions.",
