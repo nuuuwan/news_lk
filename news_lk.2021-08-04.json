@@ -1,6 +1,73 @@
 [
   {
     "date": "2021-08-04",
+    "title": "Global technologies company, HCL, to take up 80% of 'The Offices' at Cinnamon Life for its Sri Lanka hub",
+    "source": "island.lk",
+    "snippet": "Colombo's newest state-of-the-art office tower, 'The Offices' at Cinnamon Life has been chosen as the hub for leading global technology company, HCL Technologies' growth drive in Sri Lanka. Cinnamon Life is the first A-grade office tower in Colombo to attract a leading multinational company to occupy a majority of available office spaces within its premises.",
+    "url": "https://island.lk/global-technologies-company-hcl-to-take-up-80-of-the-offices-at-cinnamon-life-for-its-sri-lanka-hub/",
+    "url_hash": "3faafb688a989d264ef8a3d55ee9e0a6",
+    "ut": 1628035681,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cinnamon Life",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HCL Technologies'",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cinnamon Life",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "premises",
+        "start_end": [
+          69,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "Kebithigollewa Group",
     "source": "dailynews.lk",
     "snippet": "Anuradhapura Police had arrested a suspect who allegedly attempted to sell two Elephant Pearls (Gajamuthu) valued at Rs 45 million.The raid was carried out on Saturday in Kekirawa. The suspect (21)...",
@@ -551,6 +618,76 @@
   },
   {
     "date": "2021-08-04",
+    "title": "Govt should reverse its decision to open up state offices : Sajith",
+    "source": "www.dailymirror.lk",
+    "snippet": "Leader of Opposition Sajith Premadasa yesterday urged the government to reverse its decision to open up state offices considering the new situation with regard to COVID 19 pandemic. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-should-reverse-its-decision-to-open-up-state-offices-Sajith/108-217474",
+    "url_hash": "e726bf60e72916cc9617ce2e27673095",
+    "ut": 1628039273,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Opposition Sajith Premadasa",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "The Latest: Israel: US, other countries must quarantine",
+    "source": "www.mercedsunstar.com",
+    "snippet": "Israel will require all people arriving from the United States and 17 other countries to quarantine starting next week.",
+    "url": "https://www.mercedsunstar.com/entertainment/article253215863.html",
+    "url_hash": "3d4ce31e03437a1edd4a00cf13425962",
+    "ut": 1628039290,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Israel",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "Sri Lanka Marxists slam one trillion money printing, advise de la Rue worship",
     "source": "economynext.com",
     "snippet": "Sri Lanka's opposition Janatha Vimukthi Peramuna has slammed the printing of over a trillion rupees to fund state expenses after a tax cut, defend interest rates in the overnight and gilt markets as well as planned sales of state land to bring in foreign investment.",
@@ -650,6 +787,186 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "SL heading for worst medical tsunami in coming weeks from Delta wave",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is heading for its worst medical tsunami in the coming weeks as there is a risk that the Delta variant is spreading beyond control, leading medical experts told Daily Mirror yesterday. ..",
+    "url": "https://www.dailymirror.lk/top_story/SL-heading-for-worst-medical-tsunami-in-coming-weeks-from-Delta-wave/155-217472",
+    "url_hash": "f7436c08af00bf4c62e526f3996189c2",
+    "ut": 1628042873,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming weeks",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Most COVID victims died of comorbidity",
+    "source": "www.dailymirror.lk",
+    "snippet": "Most coronavirus victims died as a result of comorbidity and not purely because of the virus, the Government said yesterday. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Most-COVID-victims-died-of-comorbidity/108-217473",
+    "url_hash": "a2c753522da19601a3bf4680b1d9b677",
+    "ut": 1628042873,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Parts of the island to receive spells of showers",
+    "source": "www.adaderana.lk",
+    "snippet": "Several spells of showers can be expected in Sabaragamuwa and Western provinces and in Galle, Matara, Nuwara-Eliya and Kandy districts, says the Department of Meteorology",
+    "url": "http://www.adaderana.lk/news.php?nid=75876",
+    "url_hash": "465b2f07ac35ddbe8a2fcbddb414bc63",
+    "ut": 1628042881,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nuwara-Eliya",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          26,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "'I never said yes'",
+    "source": "colombogazette.com",
+    "snippet": "A Twitter Space titled 'I never said yes.' was hosted recently by ChoKoLAATe Magazine with the aim of conversing on sexual harassment and the severity of it in Sri Lanka. The speakers for this topic were Marian Wadood(@mariamwadood ),",
+    "url": "https://colombogazette.com/2021/08/04/i-never-said-yes/",
+    "url_hash": "6b8fa36680b30e4b3ca3edf343bb4a29",
+    "ut": 1628043682,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Twitter Space",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ChoKoLAATe Magazine",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Marian",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
