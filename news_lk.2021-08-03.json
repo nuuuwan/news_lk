@@ -6077,6 +6077,65 @@
   {
     "date": "2021-08-03",
     "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
+    "source": "chinapost.nownews.com",
+    "snippet": "SAN JUAN, Puerto Rico \u2014 The Carnival Mardi Gras has docked in Puerto Rico \u2014 the first cruise ship to visit the U.S. territory since the start of the pandemic. Some cautiously celebrated Tuesday's visit.",
+    "url": "https://chinapost.nownews.com/20210803-2686747",
+    "url_hash": "58f0e91f90aecdb7ba23efb0f8af9415",
+    "ut": 1627999716,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "SAN JUAN",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
     "source": "abcnews.go.com",
     "snippet": "The Carnival Mardi Gras has docked in Puerto Rico -- the first cruise ship to visit the U.S. territory since the start of the pandemic",
     "url": "https://abcnews.go.com/Health/wireStory/latest-qantas-furloughs-2500-staff-amid-lockdown-79233212",

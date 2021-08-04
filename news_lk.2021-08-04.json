@@ -1277,6 +1277,41 @@
     "title": "Pfizer identified as leading vaccine candidate for schoolchildren:Prof. Jayasumna",
     "source": "www.dailymirror.lk",
     "snippet": "While claiming that Sri Lanka is exploring the possibility of vaccinating school children, Pfizer is the leading Covid-19 vaccine candidate to be administered to children aged between 12 and 18 , according to available data on studies in this regard ,",
+    "url": "https://www.dailymirror.lk/latest_news/Pfizer-identified-as-leading-vaccine-candidate-for-schoolchildrenProf-Jayasumna/342-217475",
+    "url_hash": "c77e116dea34be22ac74a22965ac5d61",
+    "ut": 1628042896,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 12 and 18",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Pfizer identified as leading vaccine candidate for schoolchildren:Prof. Jayasumna",
+    "source": "www.dailymirror.lk",
+    "snippet": "While claiming that Sri Lanka is exploring the possibility of vaccinating school children, Pfizer is the leading Covid-19 vaccine candidate to be administered to children aged between 12 and 18 , according to available data on studies in this regard ,",
     "url": "https://www.dailymirror.lk/breaking_news/Pfizer-identified-as-leading-vaccine-candidate-for-schoolchildrenProf-Jayasumna/108-217475",
     "url_hash": "be32fd541a90960cde8f229700177aad",
     "ut": 1628042919,
@@ -2992,6 +3027,49 @@
     "date": "2021-08-04",
     "title": "Will not proceed with charges against Karannagoda, AG's Dept. tells court",
     "source": "www.adaderana.lk",
+    "snippet": "The Attorney General's Department today (August 04) informed the Colombo High Court Trial-at-Bar that the charges against former Navy Commander Admiral of the Fleet Wasantha Karannagoda over the alleg",
+    "url": "http://www.adaderana.lk/news/75881/will-not-proceed-with-charges-against-karannagoda-ags-dept-tells-court",
+    "url_hash": "24bdc4051881387f2263e20f7de6f7ac",
+    "ut": 1628057311,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 04",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo High Court Trial-at-Bar",
+        "start_end": [
+          11,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Will not proceed with charges against Karannagoda, AG's Dept. tells court",
+    "source": "www.adaderana.lk",
     "snippet": "The Attorney General's Department today (August 04) informed the Colombo High Court Trial-at-Bar that the abduction charges against former Navy Commander Admiral of the Fleet Wasantha Karannagoda will",
     "url": "http://www.adaderana.lk/news.php?nid=75881",
     "url_hash": "7409de7581887401e86035cecb8c4e21",
@@ -3121,6 +3199,374 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "UAE lifts ban on transit flights from Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "The United Arab Emirates will on Thursday lift a ban on transit flights including from Sri Lanka, India and Pakistan, the National Emergency and Crisis Management Authority (NCEMA) said on Tuesday. ..",
+    "url": "https://www.dailymirror.lk/latest_news/UAE-lifts-ban-on-transit-flights-from-Sri-Lanka/342-217524",
+    "url_hash": "f70365254de3e027396667d9a6abd7d6",
+    "ut": 1628060896,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The United Arab Emirates",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Emergency and Crisis Management Authority",
+        "start_end": [
+          22,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NCEMA",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Analysis: Debt-hobbled Sri Lanka risks running out of options",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Sri Lanka paid a $1 billion bond last week, but the alarming state of its finances suggests it may have been just another step towards its first sovereign default. All the tell-tale crisis signs are there: bonds at nearly half their face value,",
+    "url": "http://bizenglish.adaderana.lk/analysis-debt-hobbled-sri-lanka-risks-running-out-of-options/",
+    "url_hash": "f2aa9f5b188fc24f9962d7cff34c4460",
+    "ut": 1628064625,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly half",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Shane Warne",
+    "source": "dailynews.lk",
+    "snippet": "London Spirit's head coach, and another unnamed member of the management team have gone into isolation after returning positive Covid-19 tests. Warne reported feeling unwell on",
+    "url": "https://dailynews.lk/tags/shane-warne",
+    "url_hash": "00209d7a888b11b8ea8434a1d07618bb",
+    "ut": 1628064920,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "The Hundred Men's Competition",
+    "source": "dailynews.lk",
+    "snippet": "Shane Warne, London Spirit's head coach, and another unnamed member of the management team have gone into isolation after returning positive Covid-19 tests. Warne reported feeling unwell on Sunday...",
+    "url": "https://dailynews.lk/tags/hundred-mens-competition",
+    "url_hash": "75ea0a915f326588233e9a19307cdfae",
+    "ut": 1628064920,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "London Spirit (Men)",
+    "source": "dailynews.lk",
+    "snippet": "Shane Warne, London Spirit's head coach, and another unnamed member of the management team have gone into isolation after returning positive Covid-19 tests. Warne reported feeling unwell on",
+    "url": "https://dailynews.lk/tags/london-spirit-men",
+    "url_hash": "cd26a516a9f9f4f8283d1bb789dd2895",
+    "ut": 1628064920,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Protests continue in Sri Lanka over teachers' salary demands, KNDU bill; two arrested",
+    "source": "economynext.com",
+    "snippet": "With no solution in sight to a long-running salary anomaly, school teachers and principals in Sri Lanka were on strike Wednesday (04) for the 24 th consecutive day. Discussions between teachers' unions and Minister of Education Prof G L Peiris on Tuesday (03) failed,",
+    "url": "https://economynext.com/protests-continue-in-sri-lanka-over-teachers-salary-demands-kndu-bill-two-arrested-84563/",
+    "url_hash": "defc6a99e5aae9ace53308c8965bc675",
+    "ut": 1628065246,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "G L Peiris",
+        "start_end": [
+          44,
+          47
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "03",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Brave vs Spirit",
+    "source": "dailynews.lk",
+    "snippet": "Shane Warne, London Spirit's head coach, and another unnamed member of the management team have gone into isolation after returning positive Covid-19 tests. Warne reported feeling unwell on Sunday...",
+    "url": "https://dailynews.lk/tags/brave-vs-spirit",
+    "url_hash": "9e0bbb8d00b0e3d4fdcfbcfb24e39205",
+    "ut": 1628065400,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Mrs. World pageant shifted to the US from Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The Mrs. World 2021 pageant has been shifted to the US from Sri Lanka. Organisers said that the Mrs. World Pageant will take place at the Westgate Las Vegas Resort and Casino from January 9 -16, 2022.",
+    "url": "https://colombogazette.com/2021/08/04/mrs-world-pageant-shifted-to-the-us-from-sri-lanka/",
+    "url_hash": "31a3d942e212122558953f52a788c98a",
+    "ut": 1628067230,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "World Pageant",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Westgate Las Vegas Resort",
+        "start_end": [
+          26,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Casino",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January 9",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
