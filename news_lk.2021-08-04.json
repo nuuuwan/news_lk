@@ -127,6 +127,97 @@
   },
   {
     "date": "2021-08-04",
+    "title": "Earthquake near Andaman and Nicobar Islands",
+    "source": "www.msn.com",
+    "snippet": "An earthquake measuring 6.5 on the Richter Scale struck near the Andaman and Nicobar Islands at around 9:12 a.m. at a depth of 95 Km yesterday. The National Early Tsunami Warning Centre of the Department of Meteorology assured that Sri Lanka was not under a Tsunami threat.",
+    "url": "http://www.msn.com/en-xl/asia/srilanka/earthquake-near-andaman-and-nicobar-islands/ar-AAMUqzg",
+    "url_hash": "2c9579794f498796397a1ff7c1cf7819",
+    "ut": 1628035729,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "6.5",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Andaman",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Nicobar Islands",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "around 9:12 a.m.",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "95",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The National Early Tsunami Warning Centre",
+        "start_end": [
+          27,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          34,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tsunami",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "Kebithigollewa Group",
     "source": "dailynews.lk",
     "snippet": "Anuradhapura Police had arrested a suspect who allegedly attempted to sell two Elephant Pearls (Gajamuthu) valued at Rs 45 million.The raid was carried out on Saturday in Kekirawa. The suspect (21)...",
@@ -855,6 +946,65 @@
   },
   {
     "date": "2021-08-04",
+    "title": "Vaccination Centers Colombo",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka Army commenced a 24-hour programme to administer AstraZeneca 2nd dose, the Head of the National Operations Centre for Prevention of COVID-19 Outbreak (NOCPCO), Army Commander General...",
+    "url": "https://dailynews.lk/tags/vaccination-centers-colombo",
+    "url_hash": "c36a35bd00cc04f295ef3779eab77b05",
+    "ut": 1628039324,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Army",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "24-hour",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca 2nd",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Operations Centre for Prevention of COVID-19",
+        "start_end": [
+          18,
+          26
+        ]
+      },
+      {
+        "label": "LANGUAGE",
+        "text": "Outbreak",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "Sri Lanka Marxists slam one trillion money printing, advise de la Rue worship",
     "source": "economynext.com",
     "snippet": "Sri Lanka's opposition Janatha Vimukthi Peramuna has slammed the printing of over a trillion rupees to fund state expenses after a tax cut, defend interest rates in the overnight and gilt markets as well as planned sales of state land to bring in foreign investment.",
@@ -1124,6 +1274,41 @@
   },
   {
     "date": "2021-08-04",
+    "title": "Pfizer identified as leading vaccine candidate for schoolchildren:Prof. Jayasumna",
+    "source": "www.dailymirror.lk",
+    "snippet": "While claiming that Sri Lanka is exploring the possibility of vaccinating school children, Pfizer is the leading Covid-19 vaccine candidate to be administered to children aged between 12 and 18 , according to available data on studies in this regard ,",
+    "url": "https://www.dailymirror.lk/breaking_news/Pfizer-identified-as-leading-vaccine-candidate-for-schoolchildrenProf-Jayasumna/108-217475",
+    "url_hash": "be32fd541a90960cde8f229700177aad",
+    "ut": 1628042919,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 12 and 18",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "'I never said yes'",
     "source": "colombogazette.com",
     "snippet": "A Twitter Space titled 'I never said yes.' was hosted recently by ChoKoLAATe Magazine with the aim of conversing on sexual harassment and the severity of it in Sri Lanka. The speakers for this topic were Marian Wadood(@mariamwadood ),",
@@ -1266,6 +1451,277 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "SLT continues to ride on pandemic-fuelled demand for data and other digital services",
+    "source": "www.dailymirror.lk",
+    "snippet": "Providing a first glimpse of how the broader telecommunication sector fared when distant working and learning became the norm during most of the June quarter, Sri Lanka Telecom PLC (SLT) saw a further uptake in its services from data to voice to other digital solutions,",
+    "url": "https://www.dailymirror.lk/business-news/SLT-continues-to-ride-on-pandemic-fuelled-demand-for-data-and-other-digital-services/273-217503",
+    "url_hash": "3ff16dfb994bbe9886c5d76b0b9a69f2",
+    "ut": 1628046519,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the June quarter",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Telecom PLC",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLT",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "July food prices up 0.70%, indicates Advocata's 'Bath Curry Index'",
+    "source": "www.dailymirror.lk",
+    "snippet": "The food prices in the country continued to increase in July, according to Advocata's Bath Curry Indicator (BCI), which expanded by 0.70 percent from the previous month. ..",
+    "url": "https://www.dailymirror.lk/business-news/July-food-prices-up-0-70-indicates-Advocatas-Bath-Curry-Index/273-217498",
+    "url_hash": "6dd01f37ef8976dee6fac9e77768b9a8",
+    "ut": 1628046519,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Advocata",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.70 percent",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the previous month",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "IMF US $ 650bn reserves distribution clears last hurdle, takes effect on Aug. 23",
+    "source": "www.dailymirror.lk",
+    "snippet": "The International Monetary Fund (IMF) said on Monday its board of governors approved a US $ 650 billion allocation of IMF Special Drawing Rights and said its largest-ever distribution of monetary reserves would become effective August 23.",
+    "url": "https://www.dailymirror.lk/business-news/IMF-US-650bn-reserves-distribution-clears-last-hurdle-takes-effect-on-Aug-23/273-217502",
+    "url_hash": "a23ffeb037aebd99072eb9f07d24083c",
+    "ut": 1628046519,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Monetary Fund",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 650 billion",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF Special Drawing Rights",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 23",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "65-acre plot allocated to SPMC to initiate Horana pharma investment zone",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cabinet nod was granted this week to allocate a 65-acre land plot from the Horana Industrial City Development Project, located in Millewa, to State Pharmaceuticals Manufacturing Corporation (SPMC) to kick-start the construction of the first phase of the Horana pharmaceutical investment zone.",
+    "url": "https://www.dailymirror.lk/business-news/65-acre-plot-allocated-to-SPMC-to-initiate-Horana-pharma-investment-zone/273-217499",
+    "url_hash": "2e149b38d5e4756e019a1ba1946451ee",
+    "ut": 1628046519,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "65-acre",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Horana Industrial City Development Project",
+        "start_end": [
+          16,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Millewa",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State Pharmaceuticals Manufacturing Corporation",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Horana",
+        "start_end": [
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Vision Care fully acquires Colombo Pharmacy land",
+    "source": "www.dailymirror.lk",
+    "snippet": "Property management company Colombo City Holdings PLC yesterday said it disposed a 47.2 perch land plot and a building on it in Union Place, Colombo 2 to Vision Care Optical Services (Private) Limited,",
+    "url": "https://www.dailymirror.lk/business-news/Vision-Care-fully-acquires-Colombo-Pharmacy-land/273-217501",
+    "url_hash": "4a686fb96c336e6ae4147e8be25e5a6d",
+    "ut": 1628046519,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Colombo City Holdings PLC",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "47.2",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Union Place, Colombo 2",
+        "start_end": [
+          22,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Vision Care Optical Services",
+        "start_end": [
+          28,
+          32
         ]
       }
     ]
@@ -1554,6 +2010,245 @@
   },
   {
     "date": "2021-08-04",
+    "title": "Top Japan medic urges nationwide state of emergency",
+    "source": "www.dailymirror.lk",
+    "snippet": "The head of the Japan Medical Association called on Tuesday for a nationwide state of emergency to contain a surge in COVID-19 cases in Olympics host city Tokyo and elsewhere, Kyodo news agency said,",
+    "url": "https://www.dailymirror.lk/international/Top-Japan-medic-urges-nationwide-state-of-emergency/107-217517",
+    "url_hash": "e23c58e2a89ee039c37a11eb0c61bd19",
+    "ut": 1628050119,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Japan Medical Association",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Olympics",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kyodo",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "LCB Finance gears for CSE listing",
+    "source": "www.dailymirror.lk",
+    "snippet": "Lanka Credit and Business Finance Limited (LCB Finance) is preparing for the next milestone in its journey by listing its shares on the Colombo Stock Exchange (CSE) through an Initial public offering (IPO).",
+    "url": "https://www.dailymirror.lk/financial-news/LCB-Finance-gears-for-CSE-listing/265-217512",
+    "url_hash": "91408173d7652d08c8c44f5ba2459d8d",
+    "ut": 1628050119,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Lanka Credit and Business Finance Limited",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "AIA ranked as # 45 in Best Workplaces Asia list",
+    "source": "www.dailymirror.lk",
+    "snippet": "AIA Insurance is proud to be recognised in the Best Workplaces in Asia list - Large Category, making it the first time AIA Sri Lanka is recognised in this prestigious international list. ..",
+    "url": "https://www.dailymirror.lk/financial-news/AIA-ranked-as---45-in-Best-Workplaces-Asia-list/265-217514",
+    "url_hash": "890a96fcc2d79b017d0a8d6c7268269a",
+    "ut": 1628050119,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "AIA Insurance",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Best Workplaces",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "AIA Sri Lanka",
+        "start_end": [
+          23,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "BOC celebrates 82nd anniversary on an austere note",
+    "source": "www.dailymirror.lk",
+    "snippet": "Bank of Ceylon (BOC), the 'Banker's to the Nation', completes 82 years of leading the Sri Lankan banking and finance landscape. ..",
+    "url": "https://www.dailymirror.lk/financial-news/BOC-celebrates-82nd-anniversary-on-an-austere-note/265-217515",
+    "url_hash": "c7fe7314cd1ce8f9c316e95b75a752cc",
+    "ut": 1628050119,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Bank of Ceylon",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "82 years",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Sri Lanka's Adani-JKH US$650mn port terminal gets 25-year tax holiday",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's West Container Terminal at Colombo Port built by India's Adani group and John Keells Holdings will cost 650 million US dollars and will get a 25-year tax holiday, a government notice said.",
+    "url": "https://economynext.com/sri-lankas-adani-jkh-us650mn-port-terminal-gets-25-year-tax-holiday-84555/",
+    "url_hash": "87d24bd163e296706a5330c6ccd07e3a",
+    "ut": 1628050148,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "West Container Terminal",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Adani",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "John Keells Holdings",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "650 million US dollars",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "25-year",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "Sri Lanka's US$650mn Adani-JKH port terminal gets 25-year tax holiday",
     "source": "economynext.com",
     "snippet": "Sri Lanka's West Container Terminal at Colombo Port built by India's Adani group and John Keells Holdings will cost 650 million US dollars and will get a 25-year tax holiday, a government notice said.",
@@ -1615,6 +2310,371 @@
         "start_end": [
           29,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "KNDU Bill will not be debated this week: Govt.",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government would not take up the debate on the General Sir John Kotelawala National Defence University Bill this week, State Defense Minister Chamal Rajapaksa informed parliament today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/KNDU-Bill-will-not-be-debated-this-week-Govt/342-217520",
+    "url_hash": "124b8057cf6d3ed8b36241899293475a",
+    "ut": 1628053719,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "John Kotelawala",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chamal Rajapaksa",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Sri Lanka's worst COVID outbreak yet to come - Prof. Malik Peiris",
+    "source": "www.adaderana.lk",
+    "snippet": "Head of Virology at the University of Hong Kong, Professor Malik Peiris has warned that the worst for Sri Lanka is yet to come, and it will hit the island in the coming months",
+    "url": "http://www.adaderana.lk/news/75825/sri-lankas-worst-covid-outbreak-yet-to-come-prof-malik-peiris",
+    "url_hash": "40de1fc4a0aee6afb1152e144673c5a4",
+    "ut": 1628053729,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the University of Hong Kong",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Malik Peiris",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming months",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Sri Lanka p'ment will not debate controversial defence university bill this week",
+    "source": "economynext.com",
+    "snippet": "The controversial Kotelawala National Defence University (KNDU) bill will not be debated in Sri Lanka's parliament this Friday (06), Minister Chamal Rajapaksa said. Responding to a question by former prime minister and United National Party (UNP) MP Ranil Wickremesinghe,",
+    "url": "https://economynext.com/sri-lanka-pment-will-not-debate-controversial-defence-university-bill-this-week-84557/",
+    "url_hash": "dfcd9e94eedf6fe4a77f81e582742b8a",
+    "ut": 1628053748,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Kotelawala National Defence University",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this Friday",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chamal Rajapaksa",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United National Party",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          46,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Man who spat at PHI arrested",
+    "source": "www.dailynews.lk",
+    "snippet": "A 48-year-old person who spat at Public Health Inspector (PHI) attached to Narammala MOH Office who came to check on them, was arrested The incident had taken place at a house in Puskoladeniya, Giriulla on Tuesday (August 03).",
+    "url": "http://www.dailynews.lk/2021/08/04/local/255727/man-who-spat-phi-arrested",
+    "url_hash": "462b9425b0bd098d9a57511190ed3b44",
+    "ut": 1628054264,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "48-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Public Health Inspector",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Narammala MOH Office",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Giriulla",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 03",
+        "start_end": [
+          45,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Lockdown to be enforced only if required",
+    "source": "colombogazette.com",
+    "snippet": "By Ashanthi Warunasuriya The Government says a lockdown will be enforced only if required. State Minister Dr. Sudarshini Fernandopulle told Parliament today that any decision will be taken based on the requirements of the country.",
+    "url": "https://colombogazette.com/2021/08/04/lockdown-to-be-enforced-only-if-required/",
+    "url_hash": "ec5a8eabed2e5e3f1ed24b270a4fac11",
+    "ut": 1628054593,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sudarshini Fernandopulle",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Tough action for taking passengers exceeding seating capacity from today: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Transport Ministry had told the IGP yesterday to take stern action against the bus operators who are transporting passengers exceeding the seating capacity from today, Transport State Minister Dilum Amunugama said.",
+    "url": "https://www.dailymirror.lk/latest_news/Tough-action-for-taking-passengers-exceeding-seating-capacity-from-today-Dilum/342-217522",
+    "url_hash": "5ddf75ca36c6165deb12560fd01089ce",
+    "ut": 1628054679,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Transport Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IGP",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Afghan army urges civilians to evacuate city besieged by Taliban",
+    "source": "www.dailymirror.lk",
+    "snippet": "Residents were urged Tuesday to evacuate a besieged Afghan city as the army prepared a major offensive against Taliban insurgents after three days of heavy fighting. The Taliban have seized control of much of rural Afghanistan since foreign forces began ...",
+    "url": "https://www.dailymirror.lk/international/Afghan-army-urges-civilians-to-evacuate-city-besieged-by-Taliban/107-217519",
+    "url_hash": "0fe73ac021ea13dc268d858cf5a0307a",
+    "ut": 1628055819,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three days",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]

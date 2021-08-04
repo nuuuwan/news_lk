@@ -3977,6 +3977,33 @@
   },
   {
     "date": "2021-08-03",
+    "title": "New UK scheme aims to drive trade with Sri Lanka and boost jobs",
+    "source": "menafn.com",
+    "snippet": "The UK Government has launched consultations on a new scheme which will help drive trade with Sri Lanka and boost jobs.",
+    "url": "https://menafn.com/1102496627/New-UK-scheme-aims-to-drive-trade-with-Sri-Lanka-and-boost-jobs",
+    "url_hash": "8053fc779138b2563d705664af01dc57",
+    "ut": 1627978153,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The UK Government",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Sri Lanka health minister promises p'ment weekly updates on COVID-19",
     "source": "economynext.com",
     "snippet": "Sri Lanka's health minister Pavithra Wanniarachchi will brief parliament on the country's weekly COVID-19 situation every Tuesday, the minister told parliament Monday (03) morning. Wanniarachchi was responding to a request by former prime minister and United National Party (UNP) MP Ranil Wickremesinghe for regular updates on the state of the epidemic.",
@@ -4285,6 +4312,41 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Death of girl: Brother responds to wording found in his sister's room",
+    "source": "www.dailymirror.lk",
+    "snippet": "The brother of the 16-year-old girl who died due to burn injuries while serving as a domestic helper in the house of former minister Rishad Bathiudeen said that his sister did not have the level of education to write something in English letters.",
+    "url": "https://www.dailymirror.lk/breaking_news/Death-of-girl%3A-Brother-responds-to-wording-found-in-his-sister%E2%80%99s-room/108-217446",
+    "url_hash": "5b2be645db739d797a199ee73d69c63b",
+    "ut": 1627981719,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "16-year-old",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "English",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
@@ -7236,6 +7298,49 @@
     "url": "https://www.wsoctv.com/news/health/latest-israel-us/VZDHTX6JPDVFMHLNAQN2VHP7BE/",
     "url_hash": "620558139f6df5ae45739aa026229280",
     "ut": 1628010526,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Israel",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: Israel: US, other countries must quarantine",
+    "source": "www.wftv.com",
+    "snippet": "Israel will require all people arriving from the United States and 17 other countries to quarantine starting next week",
+    "url": "https://www.wftv.com/news/health/latest-israel-us/VZDHTX6JPDVFMHLNAQN2VHP7BE/",
+    "url_hash": "54b28139af597aa095bd82b0f6087454",
+    "ut": 1628010529,
     "ent_info_list": [
       {
         "label": "GPE",
