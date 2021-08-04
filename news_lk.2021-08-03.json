@@ -7896,6 +7896,57 @@
   },
   {
     "date": "2021-08-03",
+    "title": "The Latest: Israel: US, other countries must quarantine",
+    "source": "madison.com",
+    "snippet": "JERUSALEM \u2014 Israel will require all people arriving from the United States and 17 other countries to quarantine starting next week as the country grapples with a coronavirus surge.",
+    "url": "https://madison.com/business/the-latest-israel-us-other-countries-must-quarantine/article_765b1bfd-297c-5bd6-b477-69fe8e5a751d.html",
+    "url_hash": "df03580e8ca0fab1372362ada7676364",
+    "ut": 1628014115,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "JERUSALEM",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Israel",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Mississippi, 1 of U.S's Least COVID Vaccinated States, Sees Uptick in Shots as Cases Rise",
     "source": "www.msn.com",
     "snippet": "The state saw nearly 5,000 new cases over the weekend, according to state data, more than six times the confirmed amount reported on July 12.",
@@ -9197,6 +9248,25 @@
         "start_end": [
           29,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: Judge says migrant stops could worsen pandemic",
+    "source": "www.startribune.com",
+    "snippet": "A federal judge has ordered Texas to keep state troopers from stopping vehicles that are carrying migrants on the grounds that the migrants may spread the coronavirus.",
+    "url": "https://www.startribune.com/the-latest-judge-says-migrant-stops-could-worsen-pandemic/600084225/",
+    "url_hash": "f32a1797201fbe871e1877081dbced91",
+    "ut": 1628032125,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          5,
+          6
         ]
       }
     ]
