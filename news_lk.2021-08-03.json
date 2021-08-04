@@ -7364,6 +7364,41 @@
   },
   {
     "date": "2021-08-03",
+    "title": "Minister Mahindananda Aluthgamage tests COVID-19 positive",
+    "source": "www.dailymirror.lk",
+    "snippet": "Minister Mahindananda Aluthgamage has been identified as COVID-19 infected following a rapid antigen test. However, it is reported that he is scheduled to undergo a PCR test tomorrow.",
+    "url": "https://www.dailymirror.lk/breaking_news/Minister-Mahindananda-Aluthgamage-tests-COVID-19-positive/108-217463",
+    "url_hash": "dcc548bd1979ebebc4c55506d70d93b2",
+    "ut": 1628010502,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahindananda Aluthgamage",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Debt-hobbled Sri Lanka risks running out of options",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka paid a $1 billion bond last week, but the alarming state of its finances suggests it may have been just another step towards its first sovereign default. ..",
