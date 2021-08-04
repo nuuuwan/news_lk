@@ -218,6 +218,65 @@
   },
   {
     "date": "2021-08-04",
+    "title": "HUTCH inaugurates Gamata Sannivedanaya",
+    "source": "www.msn.com",
+    "snippet": "HUTCH, Sri Lanka's fast growing choice for Mobile Broadband Services joined forces with the Gamata Sannivedanaya project initiated by the Telecommunications Regulatory Commission of Sri Lanka (TRCSL) with the intention of providing broadband coverage to the entire country overcoming geographical challenges.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/hutch-inaugurates-gamata-sannivedanaya/ar-AAMUvAe",
+    "url_hash": "2879c36df9cccd15020a2aca1f2c8a52",
+    "ut": 1628035903,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "HUTCH",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mobile Broadband Services",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gamata Sannivedanaya",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Telecommunications Regulatory Commission",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "Kebithigollewa Group",
     "source": "dailynews.lk",
     "snippet": "Anuradhapura Police had arrested a suspect who allegedly attempted to sell two Elephant Pearls (Gajamuthu) valued at Rs 45 million.The raid was carried out on Saturday in Kekirawa. The suspect (21)...",
@@ -4006,6 +4065,57 @@
   },
   {
     "date": "2021-08-04",
+    "title": "SC allows lawyers to access remanded Poet Ahnaf Jazeem",
+    "source": "www.dailymirror.lk",
+    "snippet": "to allow the access of lawyers to the remanded poet Ahnaf Jazeem at Colombo Remand Prison, with the right to maintain lawyer-client privilege and confidentiality. Supreme Court three-judge-bench comprising Justice Murdu Fernando, Justice Yasantha Kodagoda ...",
+    "url": "https://www.dailymirror.lk/breaking_news/SC-allows-lawyers-to-access-remanded-Poet-Ahnaf-Jazeem/108-217531",
+    "url_hash": "3f058c71320b153921a5e384064e3b13",
+    "ut": 1628071895,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ahnaf Jazeem",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Murdu Fernando",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yasantha Kodagoda",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "ICRA Lanka reaffirms Nawaloka Hospitals credit rating of [SL] BBB- with a stable outlook",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Pioneering private healthcare provider Nawaloka Hospitals PLC (CSE: NHL) recently had its investment grade credit rating of [SL] BBB- reaffirmed with a revised outlook to Stable, by ICRA Lanka Limited.",
@@ -4194,6 +4304,157 @@
   },
   {
     "date": "2021-08-04",
+    "title": "Uni. Of Colombo in collaboration with Health Ministry, MRI to expand gene sequencing",
+    "source": "www.dailymirror.lk",
+    "snippet": "The University of Colombo, in collaboration with the Ministry of Health and the MRI are looking to expand gene sequencing which allows the identification of the COVID-19 variation as the Delta variant is suspected to have spread in many areas,",
+    "url": "https://www.dailymirror.lk/latest_news/Uni-Of-Colombo-in-collaboration-with-Health-Ministry-MRI-to-expand-gene-sequencing/342-217534",
+    "url_hash": "3490f4ccd2a711be68b4c0ad345659bb",
+    "ut": 1628075495,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The University of Colombo",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "42 arrested for staging protest outside Presidential Secretariat",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 42 persons including 16 women have been arrested for staging a protest infront of the Presidential Secretariat on charges of violating quarantine regulations and other offenses. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/42-arrested-for-staging-protest-outside-Presidential-Secretariat/108-217533",
+    "url_hash": "c5db3fca292f1ec9acb65b5cec940427",
+    "ut": 1628075495,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "42",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Presidential Secretariat",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Teachers struggle continues...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Teachers Trade Unions who came to Colombo in a vehicle procession gathered in front of the Presidential Secretariat and staged a protest. Pix by Pradeep Dilrusksana ..",
+    "url": "https://www.dailymirror.lk/caption_story/Teachers-struggle-continues/110-217535",
+    "url_hash": "f6772ce2a7bef55b49da932150950cf5",
+    "ut": 1628075495,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Teachers Trade Unions",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilrusksana",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Tight measures to be taken if COVID situation goes out of control, says Health Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "Tight measures will be taken in due course if the prevailing COVID-19 situation in the country goes out of control, Deputy Director-General of Health Services Dr Hemantha Herath said. ..",
+    "url": "https://www.dailymirror.lk/top_story/Tight-measures-to-be-taken-if-COVID-situation-goes-out-of-control-says-Health-Ministry/155-217536",
+    "url_hash": "f747c0512a44da13b16e469e79e69caa",
+    "ut": 1628075495,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health Services Dr Hemantha Herath",
+        "start_end": [
+          26,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Industrials, financials drag Sri Lankan shares lower",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares snapped two sessions of gains to close lower on Wednesday, dragged by industrials and financial stocks.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/industrials-financials-drag-sri-lankan-shares-lower-idUSL4N2PB2YY",
+    "url_hash": "b61d3e849c584857656710e6e3e44d93",
+    "ut": 1628075503,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "ASEAN Ministers Pick Brunei Diplomat as Envoy to Myanmar",
     "source": "thediplomat.com",
     "snippet": "Southeast Asian foreign ministers on Wednesday picked Brunei Second Erywan Yusof as their special envoy to Myanmar, in a breakthrough after months of delay for regional mediation to help end the country's deepening crisis.",
@@ -4325,6 +4586,373 @@
         "start_end": [
           30,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "FINE MARGINS COST KARLSSON ON OLYMPIC DEBUT",
+    "source": "www.dailymirror.lk",
+    "snippet": "For Sri Lanka's Mathilda Karlsson it was fine margins of the biggest stage that led to her elimination from the Equestrian Jumping Individual competition at the Equestrian Park in Tokyo yesterday. ..",
+    "url": "https://www.dailymirror.lk/sports/FINE-MARGINS-COST-KARLSSON-ON-OLYMPIC-DEBUT/322-217537",
+    "url_hash": "6c013156ea0efccfb8c96f5f5a9af795",
+    "ut": 1628079095,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mathilda Karlsson",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Equestrian Jumping Individual",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Equestrian Park",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Mrs World 2021 pageant venue moves from Sri Lanka to Las Vegas",
+    "source": "www.adaderana.lk",
+    "snippet": "The venue for the Mrs. World Pageant for the year 2021 has been moved from Sri Lanka to Las Vegas in the United States, the Pageant announced. Accordingly, Mrs. World Pageant 2021 will be held at the Westgate Las Vegas Resort & Casino in Las Vegas from January 9 - 16,",
+    "url": "http://www.adaderana.lk/entertainment/75893/mrs-world-2021-pageant-venue-moves-from-sri-lanka-to-las-vegas",
+    "url_hash": "f0cc6c46007b16930012a52e5336a9da",
+    "ut": 1628079103,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the year 2021",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Las Vegas",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pageant",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "World Pageant",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Westgate Las Vegas Resort & Casino",
+        "start_end": [
+          39,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Las Vegas",
+        "start_end": [
+          47,
+          49
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January 9 - 16",
+        "start_end": [
+          50,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "KDU bill will not be tabled in Parliament this week",
+    "source": "www.dailynews.lk",
+    "snippet": "The debate on the General Sir John Kotelawala National Defence University Bill will not be taken up this week, Minister Chamal Rajapaksa informed the House today (04). Minister Rajapaksa made this observation in parliament responding to a question raised by UNP Leader Ranil Wickremesinghe,",
+    "url": "http://www.dailynews.lk/2021/08/04/political/255763/kdu-bill-will-not-be-tabled-parliament-week",
+    "url_hash": "1535d5b4cfa8396f8d34804fc207d6f8",
+    "ut": 1628079879,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "John Kotelawala",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chamal Rajapaksa",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "House",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rajapaksa",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          46,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "COPILOT Provider Support Services Celebrates Dr. Moby Kazmi as One of the Orlando Business ...",
+    "source": "apnews.com",
+    "snippet": "COPILOT Provider Support Services, a market-leading provider of technologically advanced healthcare access solutions, is celebrating its Co-founder and President, Dr. Moby Kazmi. On July 27, the Orlando Business Journal announced Kazmi as one of its \"2021 CEOs of the Year\" an award honoring leadership within the area who are making an impact.",
+    "url": "https://apnews.com/press-release/globe-newswire/business-orlando-ddca3975816df5e7b5a44928dc5ef89b",
+    "url_hash": "2d5f30726e6d98052d09839adf1fe87d",
+    "ut": 1628081212,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Moby Kazmi",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 27",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Orlando Business Journal",
+        "start_end": [
+          34,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kazmi",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the Year",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Silversea Opens General Sales on Far East-West For 2024, Expanding Its Unrivalled Range of Ultra-Luxury World Cruises",
+    "source": "markets.businessinsider.com",
+    "snippet": "Silversea Cruises today opened general sales on its World Cruise 2024, Far East-West\u2014designed by the cruise line's destination experts in response to strong demand for far-flung destinations. With Silversea's two global voyages in 2022 and one in 2023,",
+    "url": "https://markets.businessinsider.com/news/stocks/silversea-opens-general-sales-on-far-east-west-for-2024-expanding-its-unrivalled-range-of-ultra-luxury-world-cruises-1030689028",
+    "url_hash": "346074d9785d13d510f47ea486ade71f",
+    "ut": 1628081277,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Silversea Cruises",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cruise 2024",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Far East-West",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Silversea",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2023",
+        "start_end": [
+          47,
+          48
         ]
       }
     ]
