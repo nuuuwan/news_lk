@@ -6112,6 +6112,57 @@
   {
     "date": "2021-08-03",
     "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
+    "source": "madison.com",
+    "snippet": "SAN JUAN, Puerto Rico \u2014 The Carnival Mardi Gras has docked in Puerto Rico \u2014 the first cruise ship to visit the U.S. territory since the start of the pandemic.",
+    "url": "https://madison.com/news/world/the-latest-1st-cruise-ship-in-puerto-rico-since-pandemic/article_765b1bfd-297c-5bd6-b477-69fe8e5a751d.html",
+    "url_hash": "b2451bd68a12e770d07467313978322c",
+    "ut": 1627999793,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "SAN JUAN",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Puerto Rico",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
     "source": "wtop.com",
     "snippet": "SYDNEY \u2014 Australia's Qantas Group says it expects Sydney's COVID-19 lockdown to last for at least another two months and it will furlough 2,500 staff due to an associated downturn in domestic flights.",
     "url": "https://wtop.com/australia/2021/08/the-latest-qantas-furloughs-2500-staff-amid-lockdown/",
@@ -6698,6 +6749,49 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Analysis-Debt-hobbled Sri Lanka risks running out of options",
+    "source": "www.channelnewsasia.com",
+    "snippet": "Sri Lanka paid a US$1 billion bond last week, but the alarming state of its finances suggests it may have been just another step towards its first",
+    "url": "https://www.channelnewsasia.com/news/business/analysis-debt-hobbled-sri-lanka-risks-running-out-of-options-15368134",
+    "url_hash": "318c298394c7bfee4a48d3da0a181f54",
+    "ut": 1628003384,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "US$1 billion",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
