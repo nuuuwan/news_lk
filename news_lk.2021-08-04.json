@@ -3691,5 +3691,196 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Over 900 protest outside Presidential Secretariat",
+    "source": "www.dailymirror.lk",
+    "snippet": "Over 900 people from the education sector have gathered outside the Presidential Secretariat to protest, over several demands even as medical experts warn of a rapid spread in the COVID-19. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Over-900-protest-outside-Presidential-Secretariat/342-217527",
+    "url_hash": "9f0e85c7d0c3fd92df41243dd91bbe30",
+    "ut": 1628068117,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "the Presidential Secretariat",
+        "start_end": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "AG decides not to proceed indictments against Wasantha Karannagoda",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Attorney General today informed Colombo High Court Trial-at-Bar that the prosecution will not proceed criminal charges against former Navy Commander Wasantha Karannagoda in connection with the abduction of eleven persons in 2008 and 2009.",
+    "url": "https://www.dailymirror.lk/breaking_news/AG-decides-not-to-proceed-indictments-against-Wasantha-Karannagoda/108-217528",
+    "url_hash": "d6b280f9fef88ca26fed527162a8f11e",
+    "ut": 1628068117,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wasantha Karannagoda",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eleven",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2008",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2009",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Traffic near Town Hall due to protest",
+    "source": "www.adaderana.lk",
+    "snippet": "Traffic congestion is reported from near the Town Hall area in Colombo due to a protest, Ada Derana reported said",
+    "url": "http://www.adaderana.lk/news.php?nid=75886",
+    "url_hash": "230af00ae26968b1f0e8c82c5cf3781f",
+    "ut": 1628068131,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Town Hall",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ada Derana",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "ICRA Lanka reaffirms Nawaloka Hospitals credit rating of [SL] BBB- with a stable outlook",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Pioneering private healthcare provider Nawaloka Hospitals PLC (CSE: NHL) recently had its investment grade credit rating of [SL] BBB- reaffirmed with a revised outlook to Stable, by ICRA Lanka Limited.",
+    "url": "http://bizenglish.adaderana.lk/icra-lanka-reaffirms-nawaloka-hospitals-credit-rating-of-sl-bbb-with-a-stable-outlook/",
+    "url_hash": "7a8dba1783f1396c79a01a9eabfab793",
+    "ut": 1628072147,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nawaloka Hospitals PLC",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NHL",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "BBB-",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICRA Lanka Limited",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "LGBT rights still under discussion",
+    "source": "menafn.com",
+    "snippet": "The Government says discussions are still ongoing with regards to Lesbian, Gay, Bisexual, and Transgender (LGBT) rights in Sri Lanka. </s",
+    "url": "https://menafn.com/1102563712/LGBT-rights-still-under-discussion",
+    "url_hash": "e2a71cd638722efcc84d3f5af8363588",
+    "ut": 1628073130,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lesbian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Transgender (LGBT",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
   }
 ]
