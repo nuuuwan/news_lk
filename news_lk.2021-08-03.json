@@ -3620,6 +3620,97 @@
   },
   {
     "date": "2021-08-03",
+    "title": "ANALYSIS-Debt-hobbled Sri Lanka risks running out of options",
+    "source": "www.nasdaq.com",
+    "snippet": "Sri Lanka paid a $1 billion bond last week, but the alarming state of its finances suggests it may have been just another step towards its first sovereign default. LONDON, Aug 3 (Reuters) - Sri Lanka paid a $1 billion bond last week,",
+    "url": "https://www.nasdaq.com/articles/analysis-debt-hobbled-sri-lanka-risks-running-out-of-options-2021-08-03",
+    "url_hash": "c5bc85359369e53a37e2edb8c4ede1b3",
+    "ut": 1627974504,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LONDON",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Aug 3",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Reuters",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          44,
+          47
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "The Latest: Qantas furloughs 2,500 staff amid lockdown",
     "source": "www.wbal.com",
     "snippet": "WBAL NewsRadio 1090/FM 101.5 - The Carnival Mardi Gras has docked in Puerto Rico -- the first cruise ship to visit the U.S. territory since the start of the pandemic",
@@ -5086,6 +5177,49 @@
         "start_end": [
           21,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Government asserts LGBT rights not legally recognised",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government today asserted that Lesbian, Gay, Bisexual, and Transgender (LGBT) rights are not legally recognised in Sri Lanka but discussions are still ongoing. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Government-asserts-LGBT-rights-not-legally-recognised/108-217455",
+    "url_hash": "3b20689f6695c8887c0a8c925daee44e",
+    "ut": 1627992496,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Lesbian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Transgender (LGBT",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
         ]
       }
     ]
