@@ -5915,6 +5915,65 @@
   },
   {
     "date": "2021-08-03",
+    "title": "The Latest: 1st cruise ship in Puerto Rico since pandemic",
+    "source": "wtop.com",
+    "snippet": "SYDNEY \u2014 Australia's Qantas Group says it expects Sydney's COVID-19 lockdown to last for at least another two months and it will furlough 2,500 staff due to an associated downturn in domestic flights.",
+    "url": "https://wtop.com/australia/2021/08/the-latest-qantas-furloughs-2500-staff-amid-lockdown/",
+    "url_hash": "b878ca7294a8a5f5f6c899f78689c256",
+    "ut": 1627999832,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "SYDNEY",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Qantas Group",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sydney",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "at least another two months",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,500",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "The Latest: NYC: Vaccination proof for indoor dining, gyms",
     "source": "madison.com",
     "snippet": "NEW YORK \u2014 New York City will soon require proof of COVID-19 vaccinations for indoor activities. Mayor Bill de Blasio announced the move Tuesday, the first big city in the U.S. to impose such restrictions.",
@@ -7080,6 +7139,49 @@
   },
   {
     "date": "2021-08-03",
+    "title": "No extra bus fares charged during pandemic: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "There will be no extra bus fares charged, except for the charges announced on November 11, 2020 by the National Transport Commission (NTC), Transport State Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/No-extra-bus-fares-charged-during-pandemic-Dilum/342-217462",
+    "url_hash": "d5bea27e420a258dcbd1d54af9595d4d",
+    "ut": 1628010616,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "November 11, 2020",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Transport Commission",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NTC",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
     "title": "Omani Shumookh inks MOU with Sri Lanka's UDA, interested in G-secs",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Omani Shumookh International LLC, a company linked to a state industrial estate firm in Oman has inked a deal with Sri Lanka's Urban Development Authority and expressed interest in buying government securities,",
@@ -7447,6 +7549,124 @@
         "start_end": [
           57,
           58
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Reviving tourism in Sri Lanka: Why condemn the golden goose for wanting to lay again?",
+    "source": "www.ft.lk",
+    "snippet": "By Nishad Wijetunga The tourism industry is, by far, the worst-affected industry, in this COVID-19 pandemic; not just in Sri Lanka, but across the world. In Sri Lanka, in 2018, the last 'good year' for tourism,",
+    "url": "https://www.ft.lk/travel-tourism/Reviving-tourism-in-Sri-Lanka-Why-condemn-the-golden-goose-for-wanting-to-lay-again/27-721251",
+    "url_hash": "f2c5dd290093d63aabf7ba5f1bfbe54a",
+    "ut": 1628014237,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Nishad Wijetunga",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2018",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Oman Air Sri Lanka and Maldives Country Manager Gihan Karunaratne retires",
+    "source": "www.ft.lk",
+    "snippet": "Dip MOM (CIM-UK) has announced his retirement from Oman Air after serving 18 years with the airline, 11 years of which as the Country Manager - Sri Lanka and Maldives.\u00a0 Over his tenure, Gihan has been instrumental in Oman Air's success as a result of the wealth of experience and knowledge he brought to the role.",
+    "url": "https://www.ft.lk/travel-tourism/Oman-Air-Sri-Lanka-and-Maldives-Country-Manager-Gihan-Karunaratne-retires/27-721249",
+    "url_hash": "9d9ab206d3b70a1566b6f42f9a62549c",
+    "ut": 1628014237,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Dip MOM",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Oman Air",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "18 years",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "11 years",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Gihan",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Oman Air's",
+        "start_end": [
+          46,
+          49
         ]
       }
     ]
@@ -8182,6 +8402,178 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: Psaki criticizes policy in states blocking masks",
+    "source": "www.wfmj.com",
+    "snippet": "WASHINGTON \u2014 White House press secretary Jen Psaki criticized policies in states such as Texas and Florida that have moved to block employers and proprietors from implementing mask or",
+    "url": "https://www.wfmj.com/story/44436043/the-latest-psaki-criticizes-policy-in-states-blocking-masks",
+    "url_hash": "f089eb797e3841045c23450d3fe59a67",
+    "ut": 1628028624,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "White House",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jen Psaki",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "The Latest: Union auto workers return to wearing masks",
+    "source": "www.fresnobee.com",
+    "snippet": "Unionized auto workers in the U.S. will go back to wearing masks in all factories, offices and warehouses starting Wednesday because of the spreading delta coronavirus variant.",
+    "url": "https://www.fresnobee.com/entertainment/article253215863.html",
+    "url_hash": "aff9a3557dbaab777b545324b7ed0ff3",
+    "ut": 1628033737,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Lunch Sheet",
+    "source": "dailynews.lk",
+    "snippet": "The Ministry of Environment has decided to implement a ban on lunch sheets made from non-perishable polythene from today. Minister Amaraweera said whatever the obstacles are, the lunch sheet ban... The ban on shopping bags and lunch sheets will be implemented in the next few weeks,",
+    "url": "https://dailynews.lk/tags/lunch-sheet",
+    "url_hash": "2c4ced2715989ff8e1699537aa1c55e3",
+    "ut": 1628034500,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Environment",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Amaraweera",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next few weeks",
+        "start_end": [
+          47,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-03",
+    "title": "Kebithigollewa Group",
+    "source": "dailynews.lk",
+    "snippet": "Anuradhapura Police had arrested a suspect who allegedly attempted to sell two Elephant Pearls (Gajamuthu) valued at Rs 45 million.The raid was carried out on Saturday in Kekirawa. The suspect (21)...",
+    "url": "http://dailynews.lk/line/kebithigollewa-group",
+    "url_hash": "864942f29cc2897fdb500a63574ed8a9",
+    "ut": 1628034800,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura Police",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Rs 45 million",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kekirawa",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
