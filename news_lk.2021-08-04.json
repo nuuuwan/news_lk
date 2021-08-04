@@ -1,6 +1,191 @@
 [
   {
     "date": "2021-08-04",
+    "title": "Kebithigollewa Group",
+    "source": "dailynews.lk",
+    "snippet": "Anuradhapura Police had arrested a suspect who allegedly attempted to sell two Elephant Pearls (Gajamuthu) valued at Rs 45 million.The raid was carried out on Saturday in Kekirawa. The suspect (21)...",
+    "url": "http://dailynews.lk/line/kebithigollewa-group",
+    "url_hash": "864942f29cc2897fdb500a63574ed8a9",
+    "ut": 1628036228,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura Police",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Rs 45 million",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kekirawa",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Lunch Sheet",
+    "source": "dailynews.lk",
+    "snippet": "The Ministry of Environment has decided to implement a ban on lunch sheets made from non-perishable polythene from today. Minister Amaraweera said whatever the obstacles are, the lunch sheet ban... The ban on shopping bags and lunch sheets will be implemented in the next few weeks,",
+    "url": "https://dailynews.lk/tags/lunch-sheet",
+    "url_hash": "2c4ced2715989ff8e1699537aa1c55e3",
+    "ut": 1628036228,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Environment",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Amaraweera",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next few weeks",
+        "start_end": [
+          47,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Earthquake near Andaman and Nicobar Islands",
+    "source": "www.msn.com",
+    "snippet": "An earthquake measuring 6.5 on the Richter Scale struck near the Andaman and Nicobar Islands at around 9:12 a.m. at a depth of 95 Km yesterday. The National Early Tsunami Warning Centre of the Department of Meteorology assured that Sri Lanka was not under a Tsunami threat.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/earthquake-near-andaman-and-nicobar-islands/ar-AAMUqzg",
+    "url_hash": "48c5c19d2b2cbaa2f9c3c9c3120cfe66",
+    "ut": 1628036233,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "6.5",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Andaman",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Nicobar Islands",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "around 9:12 a.m.",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "95",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The National Early Tsunami Warning Centre",
+        "start_end": [
+          27,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          34,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tsunami",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "SLT Group consolidates cost, manages waste to deliver positive results",
     "source": "www.msn.com",
     "snippet": "SLT-MOBITEL, posted a 29.9% year-on-year growth of Group Profit After Tax (PAT) of Rs. 6 billion for the first half of 2021.Cost consolidation across verticals and a group wide undertaking to minimize waste,",
@@ -360,6 +545,111 @@
         "start_end": [
           29,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Sri Lanka Marxists slam one trillion money printing, advise de la Rue worship",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's opposition Janatha Vimukthi Peramuna has slammed the printing of over a trillion rupees to fund state expenses after a tax cut, defend interest rates in the overnight and gilt markets as well as planned sales of state land to bring in foreign investment.",
+    "url": "https://economynext.com/sri-lanka-marxists-slam-one-trillion-money-printing-advise-de-la-rue-worship-84550/",
+    "url_hash": "6f112120b0f49a64f445aab1c09fb0ff",
+    "ut": 1628040573,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janatha Vimukthi Peramuna",
+        "start_end": [
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Sri Lanka Marxists slam one trillion rupee money printing, advise de la Rue worship",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's opposition Janatha Vimukthi Peramuna has slammed the printing of over a trillion rupees to fund state expenses after a tax cut, defend interest rates in the overnight and gilt markets as well as planned sales of state land to bring in foreign investment.",
+    "url": "https://economynext.com/sri-lanka-marxists-slam-one-trillion-rupee-money-printing-advise-de-la-rue-worship-84550/",
+    "url_hash": "80c5207f0623952a737c9455fbaf16d6",
+    "ut": 1628040613,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janatha Vimukthi Peramuna",
+        "start_end": [
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "US Has Shipped 110 Million COVID-19 Vaccine Doses to 65 Countries",
+    "source": "www.voanews.com",
+    "snippet": "Calling it a major milestone, U.S. President Joe Biden announced on Tuesday that the country has shipped more than 110 million doses of coronavirus vaccine to 65 nations that are among the hardest hit in the world.",
+    "url": "https://www.voanews.com/covid-19-pandemic/us-has-shipped-110-million-covid-19-vaccine-doses-65-countries",
+    "url_hash": "5bd3cd7ff5a7ca94dfcbe17ad8e7119f",
+    "ut": 1628042233,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 110 million",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "65",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
