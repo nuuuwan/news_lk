@@ -6383,5 +6383,109 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Sri Lanka reports 1,720 new COVID cases",
+    "source": "www.adaderana.lk",
+    "snippet": "The Ministry of Health reports that another 1,720 persons have tested positive for coronavirus today (August 04)",
+    "url": "http://www.adaderana.lk/news/75894/sri-lanka-reports-1720-new-covid-cases",
+    "url_hash": "a5eca638621158eaa4490b63762a3bf5",
+    "ut": 1628186878,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,720",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 04",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Education crisis: A humanitarian crisis",
+    "source": "www.ft.lk",
+    "snippet": "Of all the pandemic-initiated crises, starting with public health and economic, the education crisis has been the one that\u0432\u0402\u2122s often relegated in the list of priorities. ..",
+    "url": "https://www.ft.lk/columns/Education-crisis-A-humanitarian-crisis/4-721343",
+    "url_hash": "4891d089d555086e18787e986dc6497e",
+    "ut": 1628188213,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Why are we fighting shy about going to the IMF?",
+    "source": "www.ft.lk",
+    "snippet": "According to Reuters, the IMF recently approved a bailout worth nearly $ 449 million for OPEC member Congo Republic, giving a clear message to other nations struggling under the weight of large commercial debts and reeling from the impact of the pandemic to come to them for forex relief.",
+    "url": "https://www.ft.lk/columns/Why-are-we-fighting-shy-about-going-to-the-IMF/4-721345",
+    "url_hash": "b5690eeab81308e79a2fa568b4405c71",
+    "ut": 1628189117,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Reuters",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "nearly $ 449 million",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "OPEC",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Congo Republic",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
   }
 ]
