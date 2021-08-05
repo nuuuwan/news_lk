@@ -2500,6 +2500,65 @@
   },
   {
     "date": "2021-08-05",
+    "title": "State Minister Roshan Ranasinghe purchased my air ticket: Namal",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sports Minister Namal Rajapaksa said today it was State Minister Roshan Ranasinghe, who purchased him his air ticket to travel to Japan to witness the Olympic games. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/State-Minister-Roshan-Ranasinghe-purchased-my-air-ticket-Namal/108-217597",
+    "url_hash": "10fd769ff5fc17a03fcd7b6f3d78c046",
+    "ut": 1628140084,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Roshan Ranasinghe",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Olympic",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "Union Assurance Premier Club Launches Best-in-Class Rewards for Insurance Advisors",
     "source": "www.dailymirror.lk",
     "snippet": "Union Assurance PLC set a benchmark with the launch of an industry first rewards and recognition programme - Union Assurance Premier Club. ..",
@@ -3193,6 +3252,84 @@
         "start_end": [
           44,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Ban or regulate social media in Sri Lanka, top minister tells parliament",
+    "source": "economynext.com",
+    "snippet": "A Sri Lankan lawmaker has once again broached the subject of curtailing social media in the country, with a top minister on Wednesday (04) calling for either a total ban on social networking sites or a robust regulatory mechanism.",
+    "url": "https://economynext.com/ban-or-regulate-social-media-in-sri-lanka-top-minister-tells-parliament-84604/",
+    "url_hash": "619e2dcacf86850f9d11509e45849dd7",
+    "ut": 1628154511,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "04",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Police prevents Sajith Premadasa from visiting arrested teachers",
+    "source": "www.dailymirror.lk",
+    "snippet": "Opposition Leader Sajith Premadasa and MP Nalin Bandara who arrived at the Fort Police Station to inquire about the teachers who were arrested for staging a protest in front of the Presidential Secretariat yesterday,",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-prevents-Sajith-Premadasa-from-visiting-arrested-teachers/108-217600",
+    "url_hash": "a8c70b9638176d315b6aa7ced3dcd0f4",
+    "ut": 1628154567,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sajith Premadasa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nalin Bandara",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Fort Police Station",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
