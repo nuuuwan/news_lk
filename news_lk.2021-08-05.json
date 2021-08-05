@@ -1,6 +1,124 @@
 [
   {
     "date": "2021-08-05",
+    "title": "Rwini Jayawardana",
+    "source": "dailynews.lk",
+    "snippet": "Known as a dark take on 'Snow White and the Seven Dwarfs', Rupert Sanders' 'Snow White and the Huntsman' came into the picture in 2012 and automatically shot to fame because of its stellar cast...",
+    "url": "http://dailynews.lk/line/rwini-jayawardana",
+    "url_hash": "cc1ce153a80647bbf32c76eb0be4078b",
+    "ut": 1628122471,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Snow White",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rupert Sanders'",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Huntsman",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2012",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Chandimal, Lakmal back in the fray for white ball cricket",
+    "source": "www.islandcricket.lk",
+    "snippet": "Two former Sri Lanka captains and senior cricketers Dinesh Chandimal and Suranga Lakmal both overlooked by the national selectors for the recent white ball series against Bangladesh, England and India have been recalled to play in the invitational T20 league conducted by Sri Lanka Cricket.",
+    "url": "https://www.islandcricket.lk/news/chandimal-lakmal-back-in-the-fray-for-white-ball-cricket/",
+    "url_hash": "7af3e6e3c7d6d78b1dc9aee9a7d7a027",
+    "ut": 1628122475,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chandimal",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Suranga Lakmal",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          43,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "CA Sri Lanka Annual Report Awards makes a comeback this year",
     "source": "island.lk",
     "snippet": "In its continuing determination to crown the most brilliant financial reports produced in the country, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) will present the prestigious Annual Reports Awards competition this year ...",
@@ -322,6 +440,57 @@
       {
         "label": "GPE",
         "text": "Japan",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Real question is not whether SL should go to IMF or not: Verit\u00e9 Research",
+    "source": "island.lk",
+    "snippet": "Sri Lanka makes the mistake of letting IMF write a plan for the country' by Sanath Nanayakkare The real question is not whether Sri Lanka should go to the IMF or not. What is important is going to the IMF with confidence after having analysed the fiscal situation,",
+    "url": "https://island.lk/real-question-is-not-whether-sl-should-go-to-imf-or-not-verite-research/",
+    "url_hash": "9a223d6808edfa1e2da37e9d8ba75132",
+    "ut": 1628127155,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sanath Nanayakkare",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
         "start_end": [
           30,
           31
