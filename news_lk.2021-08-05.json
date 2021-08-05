@@ -1,6 +1,49 @@
 [
   {
     "date": "2021-08-05",
+    "title": "Heated argument over Rishad in Parliament",
+    "source": "www.dailymirror.lk",
+    "snippet": "Heated argument flared up in Parliament yesterday in the presence of President Gotabaya Rajapaksa over former Minister Rishard Bathiudeen. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Heated-argument-over-Rishad-in-Parliament/342-217556",
+    "url_hash": "34dffc095e2cef2aa0627f4ec4f3cf92",
+    "ut": 1628122076,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rishard Bathiudeen",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "Rwini Jayawardana",
     "source": "dailynews.lk",
     "snippet": "Known as a dark take on 'Snow White and the Seven Dwarfs', Rupert Sanders' 'Snow White and the Huntsman' came into the picture in 2012 and automatically shot to fame because of its stellar cast...",
@@ -494,6 +537,264 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Govt. readies to import Oxygen supplies to brace for worsening situation",
+    "source": "www.dailymirror.lk",
+    "snippet": "State Minister of Production, Supply and Regulation of Pharmaceuticals Prof. Channa Jayasumana yesterday admitted that a health crisis was unfolding in Sri Lanka and added there was the possibility of Covid-19 cases doubling or trebling in a couple of weeks.",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-readies-to-import-Oxygen-supplies-to-brace-for-worsening-situation/108-217555",
+    "url_hash": "c0abcc9326f44fb7aa8dc95e76b00bf2",
+    "ut": 1628129276,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasumana",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a couple of weeks",
+        "start_end": [
+          37,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "73 percent of those positive in Colombo are unvaccinated: Rosy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Nearly 73 percent of those who become COVID positive in the Colombo city are unvaccinated while 50 percent of them are below 29 years, Colombo Mayor Rosy Senanayake said yesterday. ..",
+    "url": "https://www.dailymirror.lk/latest_news/73-percent-of-those-positive-in-Colombo-are-unvaccinated-Rosy/342-217557",
+    "url_hash": "d378642ecafbbd4ef712feee2bd23bfd",
+    "ut": 1628129276,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "Nearly 73 percent",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "50 percent",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "29 years",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rosy Senanayake",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Sri Lanka prints enough money to wipe out Bangladesh swap with single failed bond auction",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has printed enough money after a failed bond auction last week to potentially wipe out foreign reserves equivalent to a central bank swap being negotiated with Bangladesh, official data show.",
+    "url": "https://economynext.com/sri-lanka-prints-enough-money-to-wipe-out-bangladesh-swap-with-single-failed-bond-auction-84589/",
+    "url_hash": "82ac708b1c9018263d1ccfd0a9b8deed",
+    "ut": 1628129305,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Arrested protesters including 38 teachers test negative for Covid-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "Rapid Antigen tests have confirmed that the 44 people including 38 teachers arrested during the teacher-principal protest in front of the Presidential Secretariat yesterday were not infected with COVID-19.",
+    "url": "https://www.dailymirror.lk/breaking_news/Arrested-protesters-including-38-teachers-test-negative-for-Covid-19/108-217558",
+    "url_hash": "c4293fa29cb737b26c6321ac03d8cb59",
+    "ut": 1628129456,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "44",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "38",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Silversea releases 2024 World Cruise to general sales",
+    "source": "latteluxurynews.com",
+    "snippet": "Silversea Cruises has opened general sales on its World Cruise 2024, Far East-West itinerary, departing San Francisco on 15 Jaunuary.",
+    "url": "https://latteluxurynews.com/2021/08/05/silversea-2024-world-voyage-open-for-all/",
+    "url_hash": "3ade38354959f9c751227bcacae4d51e",
+    "ut": 1628129599,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Silversea Cruises",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cruise 2024",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Far East-West",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "San Francisco",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Flight from Moscow Shattered China's Covid Defence. Now, It's a Race Against Time to Contain the Virus",
+    "source": "www.msn.com",
+    "snippet": "China reported on Wednesday the most new locally transmitted COVID-19 cases since January as some cities stepped up restrictions, cut flights and increased testing to get to grips with an outbreak driven mainly by the Delta variant.",
+    "url": "https://www.msn.com/en-in/news/world/flight-from-moscow-shattered-chinas-covid-defence-now-its-a-race-against-time-to-contain-the-virus/ar-AAMXcBy",
+    "url_hash": "80a196fefe114afb2677b63d2802b362",
+    "ut": 1628132105,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
