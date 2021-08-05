@@ -1507,6 +1507,73 @@
   },
   {
     "date": "2021-08-05",
+    "title": "Two rockets from Lebanon hit Israel, drawing Israeli retaliation",
+    "source": "www.dailymirror.lk",
+    "snippet": "Two rockets launched from Lebanon on Wednesday struck Israel, which responded with artillery fire, amid heightened regional tensions over an alleged Iranian attack on an oil tanker in the Gulf last week.",
+    "url": "https://www.dailymirror.lk/international/Two-rockets-from-Lebanon-hit-Israel-drawing-Israeli-retaliation/107-217588",
+    "url_hash": "5858cc51455ca4dab4b3b10439d6f11a",
+    "ut": 1628132864,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Lebanon",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Israel",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Iranian",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Gulf",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "Kelsey Homes launches third phase of its largest mixed housing project in Ja-Ela",
     "source": "www.dailymirror.lk",
     "snippet": "Kelsey Homes, Sri Lanka's pioneering real estate developer, is now set to launch Phase Three of the iconic gated residential project, Central Park Ja-Ela, following the successful completion of phases One and Two.",
@@ -3012,6 +3079,65 @@
   },
   {
     "date": "2021-08-05",
+    "title": "21,344 COVID cases, 591 deaths reported within 10 days: Pavithra",
+    "source": "www.dailymirror.lk",
+    "snippet": "Some 21,344 COVID-19 cases and 591 COVID related deaths were reported during the last ten days, Minister of Health Pavithra Wanniarachchi informed Parliament today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/21-344-COVID-cases-591-deaths-reported-within-10-days-Pavithra/108-217599",
+    "url_hash": "7fbc3e6a6ce8eb519d6462a0b25a00e7",
+    "ut": 1628147264,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Some 21,344",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "591",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last ten days",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Pavithra Wanniarachchi",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "Sampath Bank Rises to Top 5 in Sri Lanka's Most Respected Entities Listing",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Highest Rated Bank in 9 out of 12 Attributes Surveyed ~ Sampath Bank PLC has been ranked 5th in LMD's Most Respected Entities in Sri Lanka 2021 rankings based on a survey commissioned and conceptualized by LMD and conducted by Nielsen.",
@@ -3258,6 +3384,135 @@
   },
   {
     "date": "2021-08-05",
+    "title": "Tragic murder of a mother of two children by paramour in Dikoya: CA affirms death sentence",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Court of Appeal has affirmed the death sentence imposed by Nuwara Eliya High Court on an accused for committing the murder of a mother of two children in Dikoya, Nuwara Eliya in 2009. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Tragic-murder-of-a-mother-of-two-children-by-paramour-in-Dikoya-CA-affirms-death-sentence/342-217604",
+    "url_hash": "1257587f069d603d1154bbc178e2881a",
+    "ut": 1628154464,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nuwara Eliya High Court",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dikoya",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nuwara Eliya",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2009",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Mechanism should be introduced to regulate or ban social media like in China: Nimal Siripala",
+    "source": "www.dailymirror.lk",
+    "snippet": "A mechanism should be introduced to regulate or ban social media claiming that they have been the major cause for child abuses, Labour Minister Nimal Siripala De Silva said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Mechanism-should-be-introduced-to-regulate-or-ban-social-media-like-in-China-Nimal-Siripala/342-217601",
+    "url_hash": "8cd0e815e6d2952b29f068c1371e1cab",
+    "ut": 1628154464,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Labour",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nimal Siripala De Silva",
+        "start_end": [
+          25,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "ACF says impunity continues 15 years after Muttur massacre",
+    "source": "menafn.com",
+    "snippet": "Action Against Hunger (ACF) says impunity continues 15 years after the Muttur massacre.   On August 4, 2006, 17 ACF worke",
+    "url": "https://menafn.com/1102570848/ACF-says-impunity-continues-15-years-after-Muttur-massacre",
+    "url_hash": "1c90a8fca575fb453c7e20d38fdb7280",
+    "ut": 1628154498,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "15 years",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Muttur",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 4, 2006",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ACF",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "Ban or regulate social media in Sri Lanka, top minister tells parliament",
     "source": "economynext.com",
     "snippet": "A Sri Lankan lawmaker has once again broached the subject of curtailing social media in the country, with a top minister on Wednesday (04) calling for either a total ban on social networking sites or a robust regulatory mechanism.",
@@ -3330,6 +3585,342 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "WHO calls for halting COVID-19 vaccine boosters in favor of unvaccinated",
+    "source": "www.dailymirror.lk",
+    "snippet": "The World Health Organization is calling for a halt on COVID-19 vaccine boosters until at least the end of September, its head Tedros Adhanom Ghebreyesus said on Wednesday, as the gap between vaccinations in wealthy and poor countries widens.",
+    "url": "https://www.dailymirror.lk/latest_news/WHO-calls-for-halting-COVID-19-vaccine-boosters-in-favor-of-unvaccinated/342-217605",
+    "url_hash": "f2916cdca47abd09a30e78a67266b636",
+    "ut": 1628158064,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Health Organization",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "at least the end of September",
+        "start_end": [
+          14,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tedros Adhanom Ghebreyesus",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Energy Ministry maps hydrocarbon blocks for exploration and development",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Energy Ministry has announced the map of blocks of hydrocarbon exploration in the offshore. In the map, the Ministry has outlined the blocks which have already identified with hydrocarbon deposits and the ones on offer for exploration.",
+    "url": "https://www.dailymirror.lk/latest_news/Energy-Ministry-maps-hydrocarbon-blocks-for-exploration-and-development/342-217602",
+    "url_hash": "5939e6925c0800286e25c6ffb56df388",
+    "ut": 1628158064,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Energy Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ministry",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Arrested teachers produced before court - Tense situation erupts",
+    "source": "www.hirunews.lk",
+    "snippet": "The 44 teachers arrested during the protest near the Presidential Secretariat yesterday have been produced before the Colombo Fort Magistrate's Court. Hiru Correspondents stated that a tense situation arose between the trade unionists and the police when they were produced in court.",
+    "url": "https://www.hirunews.lk/goldfmnews/278940/arrested-teachers-produced-before-court-tense-situation-erupts",
+    "url_hash": "d9855f5d5a0dedfabd47f670afd68388",
+    "ut": 1628158089,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "44",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Presidential Secretariat",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Fort Magistrate's",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hiru Correspondents",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "COVID-19 in Sri Lanka reaches tipping point as hospitals fill up and deaths surge",
+    "source": "economynext.com",
+    "snippet": "COVID-19 in Sri Lanka is taking a turn for the worse, with two hospitals declaring an internal emergency on Thursday (05) as wards overflowed with patients carrying the disease, amid rising daily deaths around the island.",
+    "url": "https://economynext.com/covid-19-in-sri-lanka-reaches-tipping-point-as-hospitals-fill-up-and-deaths-surge-84606/",
+    "url_hash": "9846eddceec94f0bf6276cbbe872afc7",
+    "ut": 1628159353,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "05",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Air France Focuses on Europe, the Caribbean for Winter 2021",
+    "source": "airlinegeeks.com",
+    "snippet": "The ongoing pandemic has led many carriers to shift their operational focus to leisure routes in recent months in an attempt to capture any remaining demand. Yesterday, Air France become the latest airline to join the trend as the carrier announced six new routes departing from Paris's Charles de Gaulle and Orly Airports for Pointe-\u00e0-Pitre,",
+    "url": "https://airlinegeeks.com/2021/08/05/air-france-focuses-on-europe-the-caribbean-for-winter-2021/",
+    "url_hash": "f95686c0f05be7b9bfbe29cc1a7dce86",
+    "ut": 1628159409,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "recent months",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Yesterday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Air France",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Paris",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Charles de Gaulle",
+        "start_end": [
+          50,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "PVR Expands Its Luxury Formats With The Launch Of First Director's Cut In Haryana",
+    "source": "www.businessworld.in",
+    "snippet": "A true representation of an unmatched luxury cinematic experience, the property is designed in contemporary hues to complement today's millennial audience and offer a hygienic, safe and secure movie-viewing experience.",
+    "url": "http://www.businessworld.in/article/PVR-Expands-Its-Luxury-Formats-With-The-Launch-Of-First-Director-s-Cut-In-Haryana/05-08-2021-399548/",
+    "url_hash": "17a977a014d27c567270c1fdfe86f844",
+    "ut": 1628160849,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "More wards to be allocated at Ragama Hospital for COVID patients",
+    "source": "dailynews.lk",
+    "snippet": "Health Minister Pavithra Wanniarachchi on Wednesday went on an inspection tour of the Ragama Teaching Hospital to look into any shortcomings at the COVID treatment services.",
+    "url": "https://dailynews.lk/2021/08/05/local/255841/more-wards-be-allocated-ragama-hospital-covid-patients",
+    "url_hash": "02e3dd0b265d9750c28627b69be14863",
+    "ut": 1628160949,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pavithra Wanniarachchi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ragama Teaching Hospital",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "COVID",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Covid crisis to deepen in Sri Lanka, warn health experts",
+    "source": "www.southasiamonitor.org",
+    "snippet": "The Covid situation is likely to get worse in Sri Lanka in the coming weeks, health experts warned, as the deadly Delta variant spreads throughout the country",
+    "url": "https://www.southasiamonitor.org/sri-lanka/covid-crisis-deepen-sri-lanka-warn-health-experts",
+    "url_hash": "34654ef041b8312d3f7c418d873f6439",
+    "ut": 1628161195,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Covid",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming weeks",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
         ]
       }
     ]
