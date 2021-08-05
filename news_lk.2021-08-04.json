@@ -7212,6 +7212,73 @@
   },
   {
     "date": "2021-08-04",
+    "title": "MP Ranawaka notes a hidden aspect of Sri Lanka's debt",
+    "source": "www.dailymirror.lk",
+    "snippet": "In his statement, the MP states that (1) public sector debt as a percentage of GDP was 109.7% in 2020, (2) this is the highest public debt in Sri Lanka's history, and (3) if sovereign bonds had not been undervalued public debt would exceed 113% of GDP.",
+    "url": "https://www.dailymirror.lk/slide-1/MP-Ranawaka-notes-a-hidden-aspect-of-Sri-Lankas-debt/329-217571",
+    "url_hash": "e03853ca44944444a9a1c25f150d4fcd",
+    "ut": 1628100520,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "109.7%",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "113%",
+        "start_end": [
+          55,
+          57
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
     "title": "Airport and Aviation Services Sri Lanka ramps up digital transformation with IFS",
     "source": "www.ft.lk",
     "snippet": "IFS, the global enterprise applications company, announces that Airport and Aviation Services Sri Lanka has successfully implemented IFS Enterprise Resource Planning (ERP) solutions to boost efficiency and transparency across its operations.",
@@ -8261,6 +8328,49 @@
     "url": "https://www.lankaweb.com/news/items/2021/08/04/are-we-to-buy-our-solar-energy-with-dollars/",
     "url_hash": "f897fc6ddd4f1c7fb11cfb713b00276f",
     "ut": 1628116922,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Presidential Press",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June 2021",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Vision for Prosperity and Splendour",
+        "start_end": [
+          33,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Are we to buy our solar energy with dollars?",
+    "source": "www.lankaweb.com",
+    "snippet": "Email : parajayasinghe@gmail.com A Presidential Press release, dated 13 th June 2021; clearly defines the policy on our Energy Sector. The direction indicated is congruent with the presidential policy declaration Vision for Prosperity and Splendour\".",
+    "url": "https://www.lankaweb.com/news/items/2021/08/04/are-we-to-buy-our-solar-energy-with-dollars/comment-page-1/",
+    "url_hash": "733fbb29fed6f332a4b76433b7c115f3",
+    "ut": 1628118530,
     "ent_info_list": [
       {
         "label": "ORG",
