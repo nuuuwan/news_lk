@@ -2784,6 +2784,33 @@
   },
   {
     "date": "2021-08-05",
+    "title": "Vaccination of prison inmates commences",
+    "source": "www.dailymirror.lk",
+    "snippet": "Vaccination of prison inmates against the Covid-19 virus, commenced from today, the Prison's Department said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Vaccination-of-prison-inmates-commences/108-217598",
+    "url_hash": "bfa78583a1cb02cbb0b81b76bd3b77f0",
+    "ut": 1628143688,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Prison's Department",
+        "start_end": [
+          14,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "Covid-19 cases surpass 200mn-mark across the globe; Sri Lanka reports highest single-day deaths",
     "source": "www.ibtimes.co.in",
     "snippet": "According to Johns Hopkins University, the Global Covid-19 caseload has surpassed 200 million people. The United States remains the worst-affected country, with India in second position.",
@@ -3011,6 +3038,161 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Brenda E. Smith, Belfast: Half a world away, with a blank slate",
+    "source": "www.pressherald.com",
+    "snippet": "Just the thought of pulling up roots to settle in a new location creates a minefield of competing emotions. Losing what is comfortably familiar is offset by the excitement of exploring new surroundings.",
+    "url": "https://www.pressherald.com/2021/08/05/brenda-e-smith-belfast-half-a-world-away-with-a-blank-slate/",
+    "url_hash": "143e2cc3a0789262e6dd2b453e291cbd",
+    "ut": 1628150906,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Sri Lanka to take long shots at winning Olympic medals",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has identified shooting, archery and weight lifting as potential Olympic winners and the government is forming a long term plan to win medals in the world's top sports event, Sports and Youth Affairs Minister Namal Rajapaksa told parliament.",
+    "url": "https://economynext.com/sri-lanka-to-take-long-shots-at-winning-olympic-medals-84602/",
+    "url_hash": "b18295c012cb56e73813540396a1ffc5",
+    "ut": 1628150915,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sports",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Youth Affairs",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "After Trump Interregnum, US, Indonesia Agree to Resume 'Strategic Dialogue'",
+    "source": "thediplomat.com",
+    "snippet": "The announcement marks a convergence of interests with the U.S., but that does not preclude strong economic ties with China.",
+    "url": "https://thediplomat.com/2021/08/after-trump-interregnum-us-indonesia-agree-to-resume-strategic-dialogue/",
+    "url_hash": "02a00c1350a1fe2588e2c0caa7821a87",
+    "ut": 1628151017,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Krunal Pandya Returns to India After Testing Negative for Covid-19",
+    "source": "www.msn.com",
+    "snippet": "Spin all-rounder Krunal Pandya has finally returned to India after completing his mandatory isolation period in Sri Lanka. Krunal tested positive for coronavirus just before India was scheduled to square off against Sri Lanka in the second T20 International of the three-match series.",
+    "url": "https://www.msn.com/en-in/sports/cricket/krunal-pandya-returns-to-india-after-testing-negative-for-covid-19/ar-AAMXPuc",
+    "url_hash": "6b18c09b4152124ad31e94f694d852d5",
+    "ut": 1628152517,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Krunal Pandya",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "T20 International of",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          44,
+          45
         ]
       }
     ]
