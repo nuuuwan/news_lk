@@ -6047,6 +6047,16 @@
   },
   {
     "date": "2021-08-04",
+    "title": "Police says inter provincial travel ban not lifted",
+    "source": "www.dailymirror.lk",
+    "snippet": "While asserting that the inter provincial travel restrictions was not lifted for usual services, only public servants, employees who have been called up for employment in private companies and those who are engaged in essential services will be allowed to cross the provincial borders,",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-says-inter-provincial-travel-ban-not-lifted/108-217540",
+    "url_hash": "4d6977195e27166df5eb327a39e17ad8",
+    "ut": 1628086063,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-04",
     "title": "MRIIRS and University of Waikato partner to offer",
     "source": "www.bignewsnetwork.com",
     "snippet": "Manav Rachna International Institute of Research and Studies Delhi NCR formerly known as Manav Rachna International University and the University of Waikato",
@@ -7665,6 +7675,57 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Calling for an end to homophobia and transphobia",
+    "source": "www.dailymirror.lk",
+    "snippet": "A recent video that has been posted to YouTube on July 27, 2021 by Ama Dissanayake caused quite a stir in Sri Lanka this week. ..",
+    "url": "https://www.dailymirror.lk/recomended-news/Calling-for-an-end-to-homophobia-and-transphobia/277-217552",
+    "url_hash": "0812e2e8150243b8dd6b456d8b7f2984",
+    "ut": 1628111263,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "YouTube",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 27, 2021",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ama Dissanayake",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          24,
+          26
         ]
       }
     ]
