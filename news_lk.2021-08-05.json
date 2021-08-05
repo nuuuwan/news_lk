@@ -2157,6 +2157,33 @@
   },
   {
     "date": "2021-08-05",
+    "title": "Death knell of free education",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Medical Faculty Student Action Committee launched a protest march from the Medical Faculty of the University of Colombo to the ..",
+    "url": "https://www.dailymirror.lk/main_image/Death-knell-of-free-education/346-217570",
+    "url_hash": "1e0d37a7d1d541fa1392c07d7e197eef",
+    "ut": 1628133140,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Medical Faculty Student Action Committee",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Medical Faculty of the University of Colombo",
+        "start_end": [
+          11,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "SL records highest Covid deaths, hospitals exceed capacity",
     "source": "www.msn.com",
     "snippet": "Sri Lanka is to face the worst ever Covid-19 outbreak as the island nation has recorded the highest number of single-day deaths, with hospitals exceeding capacity. The health authorities announced on Wednesday that 82 deaths were reported with 4,",
@@ -4432,6 +4459,41 @@
   },
   {
     "date": "2021-08-05",
+    "title": "Special mechanism on recalling public servants for duty: Jayasumana",
+    "source": "www.dailymirror.lk",
+    "snippet": "Special mechanism would be introduced to recalling of pregnant mothers and public servants for duty, State Minister of Production, Supply and Regulation of Pharmaceuticals, Channa Jayasumana said today.",
+    "url": "https://www.dailymirror.lk/latest_news/Special-mechanism-on-recalling-public-servants-for-duty-Jayasumana/342-217609",
+    "url_hash": "7930496925c7f38dc50a5dc7de0bde2b",
+    "ut": 1628161940,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasumana",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "World of cricket: Isuru Udana retires to Ben Stokes' sabbatical",
     "source": "sportstar.thehindu.com",
     "snippet": "After a COVID scare, rain played spoilsport in two T20Is between Pakistan and the West Indies, while the Rajasthan Royals owners have acquired a majority stake in the Barbados Tridents.",
@@ -4560,6 +4622,148 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Sri Lankan shares end lower as industrials, financials weigh",
+    "source": "www.reuters.com",
+    "snippet": "Aug 5 (Reuters) - Sri Lankan shares ended lower on Thursday ... 6.17% and 5.8% respectively * The island nation reported here 2,561 COVID-19 cases in the last 24 hours, bringing its total confirmed cases to 318,775, while deaths rose by 82 to 4,727.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close-idUSL4N2PC2PS",
+    "url_hash": "130b4a4135bcc2a7904a47d25945866e",
+    "ut": 1628165609,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Reuters",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "6.17%",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "5.8%",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,561",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the last 24 hours",
+        "start_end": [
+          30,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "318,775",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "82",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,727",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "44 arrested during protest near Presidential Secretariat granted bail",
+    "source": "www.adaderana.lk",
+    "snippet": "The 44 protesters, who were arrested during a demonstration in front of the Presidential Secretariat in Colombo on Wednesday (August 04), have been granted bail",
+    "url": "http://www.adaderana.lk/news.php?nid=75918",
+    "url_hash": "2a5ab9ebd240b9114a29215373200c11",
+    "ut": 1628165863,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "44",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Presidential Secretariat",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 04",
+        "start_end": [
+          21,
+          23
         ]
       }
     ]
