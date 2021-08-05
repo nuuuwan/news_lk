@@ -2160,6 +2160,33 @@
     "title": "Death knell of free education",
     "source": "www.dailymirror.lk",
     "snippet": "The Medical Faculty Student Action Committee launched a protest march from the Medical Faculty of the University of Colombo to the ..",
+    "url": "https://www.dailymirror.lk/front_page/Death-knell-of-free-education/238-217570",
+    "url_hash": "6f410858d5c7be9a7a13644dd734e762",
+    "ut": 1628132946,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Medical Faculty Student Action Committee",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Medical Faculty of the University of Colombo",
+        "start_end": [
+          11,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Death knell of free education",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Medical Faculty Student Action Committee launched a protest march from the Medical Faculty of the University of Colombo to the ..",
     "url": "https://www.dailymirror.lk/main_image/Death-knell-of-free-education/346-217570",
     "url_hash": "1e0d37a7d1d541fa1392c07d7e197eef",
     "ut": 1628133140,
@@ -3712,6 +3739,57 @@
   },
   {
     "date": "2021-08-05",
+    "title": "Tragic murder of a mother of two children by paramour in Dikoya: CA affirms death sentence",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Court of Appeal has affirmed the death sentence imposed by Nuwara Eliya High Court on an accused for committing the murder of a mother of two children in Dikoya, Nuwara Eliya in 2009. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Tragic-murder-of-a-mother-of-two-children-by-paramour-in-Dikoya-CA-affirms-death-sentence/108-217604",
+    "url_hash": "6dae2674e3f6437f07b274f1a8bac5e6",
+    "ut": 1628154513,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nuwara Eliya High Court",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dikoya",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nuwara Eliya",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2009",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "Coronavirus: 1,841 more patients recover in Sri Lanka",
     "source": "www.adaderana.lk",
     "snippet": "The Ministry of Health says that another 1,841 patients who were being treated for Covid-19 have been discharged after completing recovery, within the last 24 hours",
@@ -4263,6 +4341,25 @@
   },
   {
     "date": "2021-08-05",
+    "title": "Uber Eats supporting local grocery business through COVID-imposed challenges",
+    "source": "www.dailymirror.lk",
+    "snippet": "The last year was a trial for most, with people forced to stay indoors to protect themselves and their loved ones. Staying indoors meant having to figure out ways to get access to essential items ..",
+    "url": "https://www.dailymirror.lk/press-releases/Uber-Eats-supporting-local-grocery-business-through-COVID-imposed-challenges/335-217608",
+    "url_hash": "d301a442e8ddeaffe9c3cf478ffce004",
+    "ut": 1628161713,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "The last year",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "India pushes strategic interests in Indian Ocean island nations to counter China",
     "source": "www.theweek.in",
     "snippet": "So, to counter Chinese influence growing in the region with a military base in Djibouti, Indian strategists, too, have kept close watch on island nations like Mauritius, Maldives, Sri Lanka and Seychelles.",
@@ -4426,6 +4523,33 @@
         "start_end": [
           7,
           8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Sri Lanka walks back fertiliser ban over political fallout fears",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka's government on Thursday walked back the lifting of an import ban on most chemical fertilisers over fears of a political fallout, despite warnings from farmers of food shortages and severe damage to the massive tea industry.",
+    "url": "https://www.msn.com/en-nz/news/world/sri-lanka-walks-back-fertiliser-ban-over-political-fallout-fears/ar-AAMYk0i",
+    "url_hash": "5fc79d5e8757002533c02b6ee23b5ec7",
+    "ut": 1628161746,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          5,
+          6
         ]
       }
     ]
@@ -4767,5 +4891,302 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Decision to ban chemical fertilizers remains unchanged: Govt.",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government's policy to ban the use of chemical fertilizers remains unchanged, Lalith Weeratunga, Principal Advisor to the President stressed. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Decision-to-ban-chemical-fertilizers-remains-unchanged-Govt/108-217612",
+    "url_hash": "cd42a6e04991bc6c3bf6a1d194c9a25b",
+    "ut": 1628168913,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Lalith Weeratunga",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Principal Advisor",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Sri Lanka gilt yields slightly down",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's bond yields in the secondary market down slightly while the rupee remains inactive in the forex market on Thursday, market participants said. Sri Lanka's interbank forex markets are not allowed to deal above 200 to the US dollar and import customers are not allowed to be given dollars above 203 to the US dollar in curbs announced after money printing triggered forex shortages.",
+    "url": "https://economynext.com/sri-lanka-gilt-yields-slightly-down-84613/",
+    "url_hash": "78a783d228e44bd6dc36f355e3b4add0",
+    "ut": 1628168938,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "200",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "203",
+        "start_end": [
+          55,
+          56
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          58,
+          59
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Krunal Pandya Back Home After Mandatory Quarantine In Sri Lanka, Tests Negative For COVID",
+    "source": "www.republicworld.com",
+    "snippet": "Indian all-rounder Krunal Pandya has returned to India after completing his mandatory quarantine in Sri Lanka. Krunal Pandya had tested positive for COVID-19 during India's tour to Sri Lanka and had to miss the second and third T20Is along with other cricketers who came in close contact with him.",
+    "url": "https://www.republicworld.com/sports-news/cricket-news/krunal-pandya-back-home-after-mandatory-quarantine-in-sri-lanka-tests-negative-for-covid.html",
+    "url_hash": "7eaaa21f3c97e8f287ca5042f7d6dee4",
+    "ut": 1628169954,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Krunal Pandya",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Krunal Pandya",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Mathews and Karunaratne overlooked for Sri Lanka Cricket Invitational T20 League",
+    "source": "www.islandcricket.lk",
+    "snippet": "Experienced Sri Lankan cricketers Angelo Mathews and Dimuth Karunaratne have not been included the recently-announced squads for the SLC Invitational T20 League, which begins on August 12 in Pallekele.",
+    "url": "https://www.islandcricket.lk/news/featured/sri-lanka-cricket-invitational-t20-league-210805/",
+    "url_hash": "36218890ef691ab25bfdb7bb7b2860a2",
+    "ut": 1628170362,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Angelo Mathews",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dimuth Karunaratne",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 12",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pallekele",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Job losses and reduced income affecting families in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "COVID-19 related job losses and reduced incomes are making it harder for families in Sri Lanka to feed themselves, the United Nations World Food Programme (WFP) said today. WFP is supporting the Gover",
+    "url": "https://colombogazette.com/2021/08/05/job-losses-and-reduced-income-affecting-families-in-sri-lanka/",
+    "url_hash": "35b3979f7b67e650dc28ba35f2692e2b",
+    "ut": 1628171402,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations World Food Programme",
+        "start_end": [
+          20,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WFP",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WFP",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gover",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Remembering Mauritius's worst environmental disaster",
+    "source": "www.lapatilla.com",
+    "snippet": "A year on, questions surrounding a massive oil spill from a bulk carrier near the island nation's shores remain.",
+    "url": "https://www.lapatilla.com/2021/08/05/remembering-mauritiuss-worst-environmental-disaster/",
+    "url_hash": "66669382eb81c336f43acaa2efd364df",
+    "ut": 1628172162,
+    "ent_info_list": []
   }
 ]
