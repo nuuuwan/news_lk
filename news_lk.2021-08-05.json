@@ -4041,6 +4041,57 @@
   },
   {
     "date": "2021-08-05",
+    "title": "SL records highest Covid deaths, hospitals exceed capacity",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lanka is to face the worst ever Covid-19 outbreak as the island nation has recorded the highest number of single-day deaths, with hospitals exceeding capacity. The health authorities announced on Wednesday that 82 deaths were reported with 4,",
+    "url": "https://news.webindia123.com/news/Articles/Asia/20210805/3798410.html",
+    "url_hash": "bef19edc755831cf1ccb98e705b61650",
+    "ut": 1628154475,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "single-day",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "82",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "ACF says impunity continues 15 years after Muttur massacre",
     "source": "menafn.com",
     "snippet": "Action Against Hunger (ACF) says impunity continues 15 years after the Muttur massacre.   On August 4, 2006, 17 ACF worke",
@@ -6358,6 +6409,49 @@
         "start_end": [
           1,
           2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Flydubai carries out special Mattala flight",
+    "source": "www.aviationbusinessme.com",
+    "snippet": "The low-cost carrier will start thrice weekly services to Mattala from May 21. . Flydubai carries out special Mattala flight . Airlines",
+    "url": "https://www.aviationbusinessme.com/airlines/content-326584",
+    "url_hash": "0a373e1be4786da58a952e4913b000a5",
+    "ut": 1628179675,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 21",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Flydubai",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
