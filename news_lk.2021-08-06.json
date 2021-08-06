@@ -4291,6 +4291,81 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Sri Lankan shares end higher on consumer, financial boost",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares ended higher on Friday, helped by consumer staples and financial stocks. * The CSE All-Share index ended 1.09% higher at 8,099.12 on Friday, but logged its second consecutive weekly loss.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close-idUSL4N2PD2P9",
+    "url_hash": "dfb8455c2a706945fc131a0d17fc7154",
+    "ut": 1628248081,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "1.09%",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "8,099.12",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Harin in self-isolation after Ranjan tests positive for COVID",
     "source": "dailynews.lk",
     "snippet": "MP Harin Fernando has gone into self-isolation after meeting Ranjan Ramanayake at a funeral. \"I will be self isolating from now as I met Ranjan ayya when he was brought to his relatives funeral earlier this week.",
@@ -6582,6 +6657,119 @@
   },
   {
     "date": "2021-08-06",
+    "title": "EDB collaborates with CCC and USAID to train officers to guide SMEs to become exporters",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lanka Export Development Board (EDB) is collaborating with the Ceylon Chamber of Commerce (CCC) and United States Agency for International Development (USAID)-supported Partnership for Accelerating Results in Trade,",
+    "url": "https://www.dailymirror.lk/business-news/EDB-collaborates-with-CCC-and-USAID-to-train-officers-to-guide-SMEs-to-become-exporters/273-217730",
+    "url_hash": "5ae21f83f22a71c412ff8f5056f14ea1",
+    "ut": 1628276872,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Export Development Board",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ceylon Chamber of Commerce",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CCC",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United States Agency for International Development (USAID)-supported Partnership for Accelerating Results in Trade",
+        "start_end": [
+          21,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "People's Bank completes another CSR initiative to mark anniversary",
+    "source": "www.dailymirror.lk",
+    "snippet": "People's Bank continued commemoration of its 60th anniversary by providing a new building and enhancing other facilities at the Rekeula Primary School in Polpithagama. ..",
+    "url": "https://www.dailymirror.lk/other/People%E2%80%99s-Bank-completes-another-CSR-initiative-to-mark-anniversary/117-217728",
+    "url_hash": "4cce97de4411cdabd1af4218bf31a171",
+    "ut": 1628276872,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "People's Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "60th",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Rekeula Primary School",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "HNB 'Oba Venuwen Api' initiative donates ultrasound scanner to IDH",
+    "source": "www.dailymirror.lk",
+    "snippet": "In an effort to enhance facilities for COVID-19 patients at the National Institute of Infectious Diseases Hospital (IDH), Sri Lanka's leading private sector bank HNB PLC donated a state-of-the-art ultrasound scanning machine through its 'Oba Venuwen Api' initiative to support the healthcare sector.",
+    "url": "https://www.dailymirror.lk/other/HNB-%E2%80%98Oba-Venuwen-Api%E2%80%99-initiative-donates-ultrasound-scanner-to-IDH/117-217727",
+    "url_hash": "a1ecfd88460307d6a5cb48a013f2d5cf",
+    "ut": 1628276872,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National Institute of Infectious Diseases Hospital",
+        "start_end": [
+          10,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HNB PLC",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Six more hospitals receive essential medical equipment from ComBank",
     "source": "www.dailymirror.lk",
     "snippet": "Another six government hospitals have received donations of essential medical equipment from the Commercial Bank of Ceylon as it continues to support the healthcare sector and helps strengthen emergency care facilities in local hospitals.",
@@ -7047,6 +7235,57 @@
   },
   {
     "date": "2021-08-06",
+    "title": "\"Shelly Aiya\": Courageous Politician with Enlightened Principles",
+    "source": "www.dailymirror.lk",
+    "snippet": "Shelton Ranaraja known to many as \"Shelly Aiya\" passed away on August 11, 2011. Shelton or Shelly Aiya was a politician for whom I have the greatest respect. ..",
+    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Shelly-Aiya-Courageous-Politician-with-Enlightened-Principles/192-217752",
+    "url_hash": "6ccc06acadf913d1cae4e7d09985a377",
+    "ut": 1628280472,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shelton Ranaraja",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Shelly Aiya",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 11, 2011",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Shelton",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shelly Aiya",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Enforced disappearances: brutalisation of society",
     "source": "www.dailymirror.lk",
     "snippet": "Enforced disappearance has frequently been used as a strategy to spread terror and tyranny within the society. The feeling of insecurity generated by this practice is not limited to the close relatives of the disappeared,",
@@ -7287,6 +7526,57 @@
         "start_end": [
           22,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Visa clearance holds up Dimuth from representing English county Nottinghamshire",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka Test captain Dimuth Karunaratne is expected to represent Nottinghamshire in the ongoing English County Championships, but he is faced with a visa clearance issue as Sri Lanka is a red-listed country in the UK due to the current COVID-19 pandemic.",
+    "url": "https://www.islandcricket.lk/news/visa-clearance-holds-up-dimuth-from-representing-english-county-nottinghamshire/",
+    "url_hash": "f56188e1d1326d6a190761078c84404d",
+    "ut": 1628285581,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dimuth Karunaratne",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "English County",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
