@@ -3534,6 +3534,25 @@
     "title": "No lockdown, President decides",
     "source": "www.dailymirror.lk",
     "snippet": "Following a crucial discussion held with President Gotabaya Rajapaksa over the prevailing COVID-19 situation in the country, it has been decided not to impose a countrywide lockdown but some certain restrictions will be imposed,",
+    "url": "https://www.dailymirror.lk/breaking_news/No-lockdown-President-decides/108-217683",
+    "url_hash": "eb0a8eab7b550fa731d2d29f7f2c7bba",
+    "ut": 1628240877,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "No lockdown, President decides",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following a crucial discussion held with President Gotabaya Rajapaksa over the prevailing COVID-19 situation in the country, it has been decided not to impose a countrywide lockdown but some certain restrictions will be imposed,",
     "url": "https://www.dailymirror.lk/breaking_news/No-lockdown--President-decides/108-217683",
     "url_hash": "0490a83e7543e6f0d436c5915b5c0de2",
     "ut": 1628240878,
@@ -6910,6 +6929,41 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Stock market rebounds as week averages Rs. 5 b turnover",
+    "source": "www.ft.lk",
+    "snippet": "The Colombo stock market bounced back yesterday after suffering one of the steepest falls in recent times whilst it ended the week with an average turnover of Rs. 5 billion, reflecting higher investor activity.",
+    "url": "https://www.ft.lk/front-page/Stock-market-rebounds-as-week-averages-Rs-5-b-turnover/44-721436",
+    "url_hash": "c8ee5f9fddb5f535bcf97c0e893bfe7d",
+    "ut": 1628276912,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the week",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5 billion",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "DPGV enters Russian market",
     "source": "www.dailymirror.lk",
     "snippet": "D P Global Ventures (DPGV), the agricultural wing of David Pieris Group of Companies, recently concluded its first export consignment to the Russian market. ..",
@@ -7577,6 +7631,116 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "India Failed To Fulfill Its Obligations But Wants Sri Lanka To 'Fully Implement' 13th Constitutional Amendment - OpEd",
+    "source": "www.lankaweb.com",
+    "snippet": "Deployment of Indian troops in Sri Lanka and establishing of provincial councils by the 13th Amendment to the Constitution are two of the main results of the Indo-Sri Lanka Agreement (ISLA) signed on July 29,",
+    "url": "http://www.lankaweb.com/news/items/2021/08/06/india-failed-to-fulfill-its-obligations-but-wants-sri-lanka-to-fully-implement-13th-constitutional-amendment-oped/",
+    "url_hash": "5ad44ea4f9a37c80715051dd1f50b70f",
+    "ut": 1628290386,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 13th Amendment",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "Constitution",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indo-Sri Lanka Agreement",
+        "start_end": [
+          26,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 29",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Lankan President blames public rallies for spurt in COVID cases",
+    "source": "www.lankaweb.com",
+    "snippet": "Sri Lankan President Gotabaya Rajapaksa has pointed out that a rash of protest rallies across the island recently has contributed to the spurt in the spread of the COVID-19 virus. The intelligence agencies have found that the spurt giving rise of unprecedented congestion in the hospitals is due to the over 120 demonstrations across the country with over 1500 people participating in each of them,",
+    "url": "http://www.lankaweb.com/news/items/2021/08/06/lankan-president-blames-public-rallies-for-spurt-in-covid-cases/",
+    "url_hash": "d4dc384aa9121cb47e51f07956e797ba",
+    "ut": 1628290806,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "120",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1500",
+        "start_end": [
+          59,
+          60
         ]
       }
     ]
