@@ -967,6 +967,65 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Sri Lanka records 74 deaths and 2,425 COVID cases",
+    "source": "menafn.com",
+    "snippet": "The number of coronavirus positive patients detected in Sri Lanka crossed the 316,000 mark as another 2,425 new Covid-19 cases had been detected across the country yesterday (3). The total number of COVID-19 positive cases stands at 316,",
+    "url": "https://menafn.com/1102564889/Sri-Lanka-records-74-deaths-and-2425-COVID-cases",
+    "url_hash": "6319abb194a040c4fcc9fad56488e056",
+    "ut": 1628215688,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "316,000",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,425",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "316",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Sri Lanka crepe rubber, high-end exports in jeopardy in dollar shortage hits inputs",
     "source": "economynext.com",
     "snippet": "Sri Lanka's crepe rubber production and some high end rubber exports by multi-nationals will be hit as key ingredients in their manufacture is stuck at port, with banks unable to issued dollars amid money printing,",
@@ -3410,6 +3469,33 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Police told to remain calm even if protesting teachers attack them: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Police have been instructed to remain calm even if the protesting teachers acted violently and attacked the police, following a special order given by the President, Public Security Minister Sarath Weerasekara said today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-told-to-remain-calm-even-if-protesting-teachers-attack-them-Minister/108-217685",
+    "url_hash": "70edf069fd572f0ebc44f0f872fb48c6",
+    "ut": 1628240880,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sarath Weerasekara",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Teachers, principals urged to call off protests",
     "source": "www.dailymirror.lk",
     "snippet": "Several professional bodies and political parties have pleaded the teachers and principals who are currently engaged in a massive protest campaign, to suspend all their protests for the sake of safety and health of the nation in the middle of this dreaded pandemic.",
@@ -3904,6 +3990,68 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Formulate mechanism to prevent Covid patients inconvenienced in Hospitals: President tells officials",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has directed the Health Minister and health authorities to formulate a mechanism to prevent Covid patients from being inconvenienced in Hospitals. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Formulate-mechanism-to-prevent-Covid-patients-inconvenienced-in-Hospitals-President-tells-officials/108-217692",
+    "url_hash": "9c275b295a994a45f5827e5f585f5ade",
+    "ut": 1628248080,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hospitals",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Facebook Marketplace now is SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Social media networking service, Facebook, announced the launch of Facebook Marketplace in Sri Lanka, a feature that allow app uses to discover, buy and sell items from others in their local communities.",
+    "url": "https://www.dailymirror.lk/business_247/Facebook-Marketplace-now-is-SL/395-217691",
+    "url_hash": "3ff1d2e0391f1ab7ee226efdd93a090f",
+    "ut": 1628248080,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Facebook Marketplace",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Harin in self-isolation after Ranjan tests positive for COVID",
     "source": "dailynews.lk",
     "snippet": "MP Harin Fernando has gone into self-isolation after meeting Ranjan Ramanayake at a funeral. \"I will be self isolating from now as I met Ranjan ayya when he was brought to his relatives funeral earlier this week.",
@@ -4208,6 +4356,41 @@
     "title": "Anyone over 30 can receive first dose from any centre where second vaccine is given: Prez",
     "source": "www.dailymirror.lk",
     "snippet": "The President has decided to allow anyone over the age of 30 to receive the first dose at any of the centres where the second vaccine is given. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Anyone-over-30-can-receive-first-dose-from-any-centre-where-second-vaccine-is-given-Prez/108-217695",
+    "url_hash": "6e1f7746ea610f0a059387bc3224b11d",
+    "ut": 1628251680,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the age of 30",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Anyone over 30 can receive first dose from any centre where second vaccine is given: Prez",
+    "source": "www.dailymirror.lk",
+    "snippet": "The President has decided to allow anyone over the age of 30 to receive the first dose at any of the centres where the second vaccine is given. ..",
     "url": "https://www.dailymirror.lk/latest_news/Anyone-over-30-can-receive-first-dose-from-any-centre-where-second-vaccine-is-given-Prez/342-217695",
     "url_hash": "1dd60a0c9ee443fc30d6ba9424e6f694",
     "ut": 1628251740,
@@ -4463,6 +4646,148 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Failure to prevent Easter Sunday attacks: Pujith and Hemasiri were released on previous bail conditions",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Defence Secretary Hemasiri Fernando and former IGP Pujith Jayasundara were today ordered to be released on previous bail conditions by Colombo High Court Trial-at-Bar. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Failure-to-prevent-Easter-Sunday-attacks-Pujith-and-Hemasiri-were-released-on-previous-bail-conditions/108-217697",
+    "url_hash": "f193c902f0bd4990f89a62bab092ed61",
+    "ut": 1628255280,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Defence",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hemasiri Fernando",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IGP",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jayasundara",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo High Court Trial-at-Bar",
+        "start_end": [
+          21,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Coronavirus live news: Gibraltar reports first Covid death since March; England's proportion of cases decreases",
+    "source": "www.theguardian.com",
+    "snippet": "Gibraltar officials say man who died was in his 60s and unvaccinated; one in 75 had Covid in England last week, down from 1 in 65",
+    "url": "https://www.theguardian.com/world/live/2021/aug/06/coronavirus-live-news-china-sees-new-surge-of-cases-cnn-sacks-three-staff-for-not-having-vaccine?page=with:block-610d28ef8f0892081f6ce4a5",
+    "url_hash": "73dde854a58aedb2bd86965bc492e229",
+    "ut": 1628255313,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Gibraltar",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60s",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "75",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Covid",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "65",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Sri Lanka tightens Covid restrictions as hospitals struggle",
     "source": "www.msn.com",
     "snippet": "Sri Lankan authorities tightened coronavirus restrictions Friday as reports emerged of Covid patients dying while awaiting admission to overcrowded hospitals. The government said state ceremonies and public gatherings were banned until September 1 because of the growing health crisis.",
@@ -4634,6 +4959,202 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Sri Lanka Decides Not to Impose Lockdown Amid COVID Surge, Postpones State Functions Till Sept 1",
+    "source": "www.msn.com",
+    "snippet": "A record number of 94 deaths in a single day were registered on Thursday with nearly 600 succumbed to COVID-19 in the last 11 days.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-decides-not-to-impose-lockdown-amid-covid-surge-postpones-state-functions-till-sept-1/ar-AAN1eRz",
+    "url_hash": "e069e12d7f70238ce12529a72f2fbd59",
+    "ut": 1628258909,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "94",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "600",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last 11 days",
+        "start_end": [
+          21,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "James Anderson leapfrogs Kumble to become 3rd highest wicket-taker in Test",
+    "source": "news.webindia123.com",
+    "snippet": "England fast bowler James Anderson on Friday became the third-highest wicket-taker in the longest format of the game. Anderson achieved the feat when he removed KL Rahul in the ongoing first Test against India.",
+    "url": "https://news.webindia123.com/news/Articles/Sports/20210806/3799164.html",
+    "url_hash": "04faf4f6b59dad49d252a8043eda7e87",
+    "ut": 1628259321,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "James Anderson",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anderson",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Sri Lanka bond yields down",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's bond yields in the secondary market down slightly while the rupee remains inactive in the forex market on Friday, market participants said. Sri Lanka government has decided not to impose a COVID-19 travel restriction although the infection cases and deaths rates are reported to be spiking and health expert warning that the next two weeks would be crucial.",
+    "url": "https://economynext.com/sri-lanka-bond-yields-down-84662/",
+    "url_hash": "234cebcfb1fbe191236b57879a22c844",
+    "ut": 1628259985,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next two weeks",
+        "start_end": [
+          56,
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "plastic spoons",
+    "source": "www.dailynews.lk",
+    "snippet": "Environment Minister Mahinda Amaraweera says that a Cabinet paper will be submitted to ban eight other items including polythene bags that are harmful to the environment. The Minister stated that...",
+    "url": "http://www.dailynews.lk/tags/plastic-spoons",
+    "url_hash": "a75583c2303e425d97d42d02ce8db6de",
+    "ut": 1628262004,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          14,
+          15
         ]
       }
     ]
