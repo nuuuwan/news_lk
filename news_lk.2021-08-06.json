@@ -1,6 +1,97 @@
 [
   {
     "date": "2021-08-06",
+    "title": "18 mosques in Beruwala closed due to COVID scare",
+    "source": "www.msn.com",
+    "snippet": "A total of 18 mosques in the Beruwela area including Jumma mosque and Thakiyaas, have been closed on instructions from the Mosque Federation of the area where there is sizable Muslim population.Beruwela is the place where the early Arab settlers arrived in Sri Lanka and built the first mosque,",
+    "url": "http://www.msn.com/en-xl/asia/srilanka/18-mosques-in-beruwala-closed-due-to-covid-scare/ar-AAMZz1l",
+    "url_hash": "a2c778fa0634c2f72c6b828b7b06c6c8",
+    "ut": 1628208526,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "mosques",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beruwela",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jumma",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thakiyaas",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Mosque Federation",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslim",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Beruwela",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Arab",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          45,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Sampath Bank ranked LMD's 'Most Respected Entities in Sri Lanka'",
     "source": "www.msn.com",
     "snippet": "Sampath Bank has been ranked 5th in LMD's Most Respected Entities in Sri Lanka 2021 rankings based on a survey commissioned and conceptualized by LMD and conducted by Nielsen.The rankings are based on ratings received from a sample of 800 respondents - managers and above - from listed companies on a set of 12 different attributes.",
@@ -457,6 +548,68 @@
   },
   {
     "date": "2021-08-06",
+    "title": "As health crisis unfolds, non-severe COVID-19 patients told to stay home",
+    "source": "www.dailymirror.lk",
+    "snippet": "As a severe health crisis unfolds in Sri Lanka, the Health Ministry yesterday said that those who had tested positive for COVID-19 but were showing non severe symptoms should stay home and seek treatment.",
+    "url": "https://www.dailymirror.lk/latest_news/As-health-crisis-unfolds-non-severe-COVID-19-patients-told-to-stay-home/342-217626",
+    "url_hash": "cde5c8bc51189051dd040d1d0d8b5d44",
+    "ut": 1628212112,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Unknown fate for Rithish's family",
+    "source": "dandenong.starcommunity.com.au",
+    "snippet": "The Federal Government won't comment on pleas for a grief-stricken asylum seeker family to stay in Australia. The local community",
+    "url": "https://dandenong.starcommunity.com.au/news/2021-08-06/unknown-fate-for-rithishs-family/",
+    "url_hash": "65a3ad4d7285d1c5ecd1ab094b9f78d2",
+    "ut": 1628212112,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Federal Government",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Framework for a new Sri Lanka: A Union of Regions",
     "source": "island.lk",
     "snippet": "We cannot solve our problems with the same thinking we used when we created them. - Albert Einstein By Raj Gonsalkorale Sri Lanka is in dire economic strife, its politicians are a discredited lot, and are produced by a system that perpetuates corruption,",
@@ -653,6 +806,60 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Meeting with Prez. today to discuss Covid situation: Shavendra",
+    "source": "www.dailymirror.lk",
+    "snippet": "A crucial meeting will take place today (Friday) chaired by President Gotabaya Rajapaksa to discuss the current developments related to the coronavirus in the country. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Meeting-with-Prez-today-to-discuss-Covid-situation-Shavendra/342-217628",
+    "url_hash": "a8202e905e5af38028e1f0fe67c0e7ae",
+    "ut": 1628215702,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Delta variant hits Colombo with highest number of infections",
+    "source": "www.dailymirror.lk",
+    "snippet": "Latest data released by health experts shows a grim picture for Sri Lanka as a result of the coronavirus with key cities at risk. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Delta-variant-hits-Colombo-with-highest-number-of-infections/342-217627",
+    "url_hash": "f03d5cc659fa7e07d35617ab9dce48f1",
+    "ut": 1628215702,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Sri Lanka backs calls for courtiers to accept vaccine certification",
     "source": "colombogazette.com",
     "snippet": "Sri Lanka has backed calls for courtiers to accept vaccine certifications when easing national entry regulations for the vaccinated. The request was made in a joint statement by the International Forum on COVID-19 Vaccine Cooperation issued in China.",
@@ -757,6 +964,25 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "We've got a good chance, but it's hard work -Mahela",
+    "source": "www.sundaytimes.lk",
+    "snippet": "We might not play some of the good teams at all this time. We just need to focus on the one-game-at-a-time policy and concentrate on winning. \"It is a great advantage to play at home. We know the conditions.",
+    "url": "https://www.sundaytimes.lk/110130/Sports/spt01.html",
+    "url_hash": "0336ad8e1657d4a7c2559681716c1295",
+    "ut": 1628219312,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          21,
+          22
         ]
       }
     ]
