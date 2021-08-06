@@ -159,6 +159,81 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Delta variant is spreading fast in Colombo.",
+    "source": "www.msn.com",
+    "snippet": "In a tweet on Friday (06), the Director of the Department of Immunology & Molecular Medicine at Sri Jayewardenepura University Dr. Chandima Jeewandara said that the PCR samples from Colombo have revealed that more than 75 percent of the patients detected within the last week are infected with the Delta strain.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/delta-variant-is-spreading-fast-in-colombo/ar-AAN0Chr",
+    "url_hash": "286d4edbbef95566ce55de49769d72bc",
+    "ut": 1628208551,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "06",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Immunology & Molecular Medicine",
+        "start_end": [
+          12,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Jayewardenepura University",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandima Jeewandara",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "more than 75 percent",
+        "start_end": [
+          36,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last week",
+        "start_end": [
+          45,
+          48
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          52,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Sampath Bank ranked LMD's 'Most Respected Entities in Sri Lanka'",
     "source": "www.msn.com",
     "snippet": "Sampath Bank has been ranked 5th in LMD's Most Respected Entities in Sri Lanka 2021 rankings based on a survey commissioned and conceptualized by LMD and conducted by Nielsen.The rankings are based on ratings received from a sample of 800 respondents - managers and above - from listed companies on a set of 12 different attributes.",
@@ -3345,6 +3420,25 @@
   },
   {
     "date": "2021-08-06",
+    "title": "No lockdown, President decides",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following a crucial discussion held with President Gotabaya Rajapaksa over the prevailing COVID-19 situation in the country, it has been decided not to impose a countrywide lockdown but some certain restrictions will be imposed,",
+    "url": "https://www.dailymirror.lk/top_story/No-lockdown--President-decides/155-217683",
+    "url_hash": "5c0e494a559966c7e717c34a29b35d11",
+    "ut": 1628240940,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "How the Delta variant is wreaking havoc in across Asia",
     "source": "www.telegraphindia.com",
     "snippet": "Indonesia hardest hit, followed by Malaysia and China; closer home deaths are mounting in Bangladesh, Sri Lnaka; crisis of vaccines makes matters worse",
@@ -3673,6 +3767,57 @@
   },
   {
     "date": "2021-08-06",
+    "title": "No to KNDU Bill...",
+    "source": "www.dailymirror.lk",
+    "snippet": "The joint Centre against Kotelawala Defense University Bill staged a protest in Colombo against the proposed Kotelawala Defence University Bill today.Pix by Pradeep Dilrusksana ..",
+    "url": "https://www.dailymirror.lk/latest_news/No-to-KNDU-Bill/342-217689",
+    "url_hash": "fd0154d9e4c4e671a77ca31199132a1f",
+    "ut": 1628244540,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Centre",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kotelawala Defense University Bill",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kotelawala Defence University",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilrusksana",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Opposition cries foul as cops in civvies arrest Sri Lanka student union leader",
     "source": "economynext.com",
     "snippet": "A university student union leader in Sri Lanka was arrested by policemen in civvies in the early hours of Friday (06), the latest in a series of similar arrests that opposition MPs claim is emblematic of an alleged \"law of the jungle\" the government is trying to perpetuate.",
@@ -3796,6 +3941,68 @@
         "start_end": [
           38,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Formulate mechanism to prevent Covid patients inconvenienced in Hospitals: President tells officials",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has directed the Health Minister and health authorities to formulate a mechanism to prevent Covid patients from being inconvenienced in Hospitals. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Formulate-mechanism-to-prevent-Covid-patients-inconvenienced-in-Hospitals-President-tells-officials/342-217692",
+    "url_hash": "5d6a3fa93819c7b6afbd73d2127c7b65",
+    "ut": 1628248140,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hospitals",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Facebook Marketplace now is SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Social media networking service, Facebook, announced the launch of Facebook Marketplace in Sri Lanka, a feature that allow app uses to discover, buy and sell items from others in their local communities.",
+    "url": "https://www.dailymirror.lk/business/Facebook-Marketplace-now-is-SL/215-217691",
+    "url_hash": "737ace5a9cd0b9f5285773dd4206f676",
+    "ut": 1628248140,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Facebook Marketplace",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
         ]
       }
     ]
@@ -3998,6 +4205,92 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Anyone over 30 can receive first dose from any centre where second vaccine is given: Prez",
+    "source": "www.dailymirror.lk",
+    "snippet": "The President has decided to allow anyone over the age of 30 to receive the first dose at any of the centres where the second vaccine is given. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Anyone-over-30-can-receive-first-dose-from-any-centre-where-second-vaccine-is-given-Prez/342-217695",
+    "url_hash": "1dd60a0c9ee443fc30d6ba9424e6f694",
+    "ut": 1628251740,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the age of 30",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Sri Lanka Decides Not to Impose Lockdown Amid COVID Surge, Postpones State Functions Till Sept 1",
+    "source": "www.india.com",
+    "snippet": "A record number of 94 deaths in a single day were registered on Thursday with nearly 600 succumbed to COVID-19 in the last 11 days.",
+    "url": "https://www.india.com/news/sri-lanka-decides-not-to-impose-lockdown-amid-covid-surge-postpones-state-functions-till-sept-1-4870056/",
+    "url_hash": "8c7f58393fdec61863ffb168518d1b99",
+    "ut": 1628251772,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "94",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "600",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last 11 days",
+        "start_end": [
+          21,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Sri Lanka stocks bounce back after Dialog's earnings; foreigners buy",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT- Sri Lanka stocks gained 1.09 percent on Friday (6) led by market heavyweights, a day after the country's top mobile phone operator Dialog Axiata Plc posted better-than-expected June quarter profit,",
@@ -4164,6 +4457,183 @@
         "start_end": [
           23,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Sri Lanka tightens Covid restrictions as hospitals struggle",
+    "source": "www.msn.com",
+    "snippet": "Sri Lankan authorities tightened coronavirus restrictions Friday as reports emerged of Covid patients dying while awaiting admission to overcrowded hospitals. The government said state ceremonies and public gatherings were banned until September 1 because of the growing health crisis.",
+    "url": "https://www.msn.com/en-za/health/medical/sri-lanka-tightens-covid-restrictions-as-hospitals-struggle/ar-AAN1dm1",
+    "url_hash": "3080581d8b0f3c66021f5bb918bfb561",
+    "ut": 1628255376,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 1",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "South East Asian Countries Administered 618.5M COVID Vaccine Jabs, India The Most: WHO",
+    "source": "www.republicworld.com",
+    "snippet": "The report says Indonesia, the first in the region to launch a COVID-19 vaccination drive, has administered 71mn doses, followed by 18mn doses in Thailand.",
+    "url": "https://www.republicworld.com/india-news/general-news/south-east-asian-countries-administered-618-dot-5m-covid-vaccine-jabs-india-the-most-who.html",
+    "url_hash": "92bc16f46144614b5c914fe42cb8e496",
+    "ut": 1628255411,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "71mn",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "18mn",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Sri Lanka receives two million more doses of Sinopharm; 92% over-30s jabbed",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka received another two million doses of the Sinopharm COVID-19 vaccine on Friday (06). State Minister Prof Channa Jayasumana said the consignment will be used as for the second dose of Sri Lankans who received the Chinese jab.",
+    "url": "https://economynext.com/sri-lanka-receives-two-million-more-doses-of-sinopharm-92-over-30s-jabbed-84661/",
+    "url_hash": "da9a37651248d99cfe7318df73b7da95",
+    "ut": 1628256027,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two million",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prof Channa",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jayasumana",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
