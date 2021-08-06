@@ -2799,6 +2799,57 @@
   },
   {
     "date": "2021-08-06",
+    "title": "School teacher dies in Badulla while receiving treatment",
+    "source": "www.dailymirror.lk",
+    "snippet": "A school teacher who was working for well-known Tamil girls' school in Badulla died this morning while receiving treatment for COVID-19 at General Hospital in Badulla, Hospital Senior Medical Officer Dr.",
+    "url": "https://www.dailymirror.lk/latest_news/School-teacher-dies-in-Badulla-while-receiving-treatment/342-217684",
+    "url_hash": "29ba1ebc9441143b3e10b2261241c983",
+    "ut": 1628237274,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Badulla",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "General Hospital",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Badulla, Hospital Senior Medical Officer",
+        "start_end": [
+          28,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Delta variant cases detected in Sri Lanka rise to 117",
     "source": "www.adaderana.lk",
     "snippet": "Delta variant cases of COVID-19 detected in Sri Lanka so far now stand at 117, says Dr. Chandima Jeewandara, the Director of the Department of Immunology & Molecular Medicine at Sri Jayewardenepura. The increase has been observed in an island-wide random sample check of COVID-infected individuals.",
@@ -2919,6 +2970,221 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "How the Delta variant is wreaking havoc in across Asia",
+    "source": "www.telegraphindia.com",
+    "snippet": "Indonesia hardest hit, followed by Malaysia and China; closer home deaths are mounting in Bangladesh, Sri Lnaka; crisis of vaccines makes matters worse",
+    "url": "https://www.telegraphindia.com/world/how-the-delta-variant-is-wreaking-havoc-in-across-asia/cid/1825503",
+    "url_hash": "7ec8afd4886c2f19f489264a39bb0db2",
+    "ut": 1628241662,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lnaka",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Police told to remain calm even if protesting teachers attack them: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Police have been instructed to remain calm even if the protesting teachers acted violently and attacked the police, following a special order given by the President, Public Security Minister Sarath Weerasekara said today.",
+    "url": "https://www.dailymirror.lk/latest_news/Police-told-to-remain-calm-even-if-protesting-teachers-attack-them-Minister/342-217685",
+    "url_hash": "5598de91818a59ca13fe347c40a15c9a",
+    "ut": 1628241894,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sarath Weerasekara",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Ranjan tests COVID-19 positive",
+    "source": "www.dailymirror.lk",
+    "snippet": "Imprisoned former MP Ranjan Ramanayake who is in remand at the Angunukolapelessa Prison tested positive with COVID-19. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-tests-COVID-19-positive/108-217686",
+    "url_hash": "a03a21c3aca406e75fdfde33ccb61dd1",
+    "ut": 1628241954,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ranjan Ramanayake",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Angunukolapelessa Prison",
+        "start_end": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Sri Lanka will not go into lockdown despite surging COVID-19 cases and deaths",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will not go into a lockdown despite surging daily cases and deaths, though certain restrictions pertaining to public gatherings will be imposed, according to Army Commander Gen Shavendra Silva.",
+    "url": "https://economynext.com/sri-lanka-will-not-go-into-lockdown-despite-surging-covid-19-cases-and-deaths-84650/",
+    "url_hash": "9cfbfd4e206807607f10e41a83f72902",
+    "ut": 1628242278,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gen Shavendra Silva",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Delta variant is spreading fast in Colombo.",
+    "source": "www.dailynews.lk",
+    "snippet": "In a tweet on Friday (06), the Director of the Department of Immunology & Molecular Medicine at Sri Jayewardenepura University Dr. Chandima Jeewandara said that the PCR samples from Colombo have revealed that more than 75 percent of the patients detected within the last week are infected with the Delta strain.",
+    "url": "http://www.dailynews.lk/2021/08/06/local/255947/delta-variant-spreading-fast-colombo",
+    "url_hash": "304a24e1fa0f56113ff62c26a1beeaf6",
+    "ut": 1628242318,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "06",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Immunology & Molecular Medicine",
+        "start_end": [
+          12,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Jayewardenepura University",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandima Jeewandara",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "more than 75 percent",
+        "start_end": [
+          36,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last week",
+        "start_end": [
+          45,
+          48
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          52,
+          53
         ]
       }
     ]
