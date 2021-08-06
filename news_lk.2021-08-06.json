@@ -1236,6 +1236,41 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Sri Lanka backs calls for countries to accept vaccine certification",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka has backed calls for countries to accept vaccine certifications when easing national entry regulations for the vaccinated. The request was made in a joint statement by the International Forum on COVID-19 Vaccine Cooperation issued in China.",
+    "url": "https://colombogazette.com/2021/08/06/sri-lanka-backs-calls-for-countries-to-accept-vaccine-certification/",
+    "url_hash": "d389e09ab63c41479be462fad3b0b34f",
+    "ut": 1628215736,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Forum",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Sri Lanka backs calls for courtiers to accept vaccine certification",
     "source": "colombogazette.com",
     "snippet": "Sri Lanka has backed calls for courtiers to accept vaccine certifications when easing national entry regulations for the vaccinated. The request was made in a joint statement by the International Forum on COVID-19 Vaccine Cooperation issued in China.",
@@ -3506,6 +3541,113 @@
   },
   {
     "date": "2021-08-06",
+    "title": "England vs India, 1st Test Day 3 Live: Jadeja hits valiant fifty after Anderson twin strike",
+    "source": "www.msn.com",
+    "snippet": "Team India has managed to take a first-innings lead after Rishabh Pant's early exit in the rain-marred first session on Friday. Ravindra Jadeja and KL Rahul have added 40-plus runs to bring India back in the game after Ollie Robinson struck early to remove Pant for 25.",
+    "url": "https://www.msn.com/en-in/sport/cricket/england-vs-india-1st-test-day-3-live-jadeja-hits-valiant-fifty-after-anderson-twin-strike/ar-AAN0w8s",
+    "url_hash": "b98ebb8bbd53bb0c3bb55f08b757afb7",
+    "ut": 1628240926,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Team India",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rishabh Pant's",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ravindra Jadeja",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rahul",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "40-plus",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ollie Robinson",
+        "start_end": [
+          46,
+          48
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pant",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "25",
+        "start_end": [
+          54,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "No lockdown, President decides",
     "source": "www.dailymirror.lk",
     "snippet": "Following a crucial discussion held with President Gotabaya Rajapaksa over the prevailing COVID-19 situation in the country, it has been decided not to impose a countrywide lockdown but some certain restrictions will be imposed,",
@@ -5016,6 +5158,33 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Covid live: EU regulator finds no link between vaccines and menstrual disorders; UK 16-year-olds offered jabs",
+    "source": "www.theguardian.com",
+    "snippet": "Europe drugs regulator says it has so far not found a causal link to menstrual issues; walk-in clinics open to older teens in Northern Ireland",
+    "url": "https://www.theguardian.com/world/live/2021/aug/06/coronavirus-live-news-china-sees-new-surge-of-cases-cnn-sacks-three-staff-for-not-having-vaccine?page=with:block-610d4d858f0892081f6ce761",
+    "url_hash": "57cb3ed72c5a95bf194c4a6f0c2ce5f9",
+    "ut": 1628258940,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Europe",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Northern Ireland",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "James Anderson leapfrogs Kumble to become 3rd highest wicket-taker in Test",
     "source": "news.webindia123.com",
     "snippet": "England fast bowler James Anderson on Friday became the third-highest wicket-taker in the longest format of the game. Anderson achieved the feat when he removed KL Rahul in the ongoing first Test against India.",
@@ -5132,6 +5301,307 @@
     "url": "http://www.dailynews.lk/tags/plastic-spoons",
     "url_hash": "a75583c2303e425d97d42d02ce8db6de",
     "ut": 1628262004,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Labour minister accuses Sri Lanka Foreign Employment Bureau of massive waste",
+    "source": "economynext.com",
+    "snippet": "A huge sum of money has been misused due to waste and unnecessary spending by the SLFEB, misappropriation of funds, and weak financial management,\" Minister De Silva said. Kamal Ratwatte, former chairman of the bureau who passed away recently,",
+    "url": "https://economynext.com/labour-minister-accuses-sri-lanka-foreign-employment-bureau-of-massive-waste-84663/",
+    "url_hash": "f42ad3860d213affc1d78b0c7715976c",
+    "ut": 1628262531,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLFEB",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "De Silva",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamal Ratwatte",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Anderson becomes 3rd highest wicket-taker in Test",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "England fast bowler James Anderson on Friday became the third-highest wicket-taker in the longest format of the game",
+    "url": "https://www.bignewsnetwork.com/news/270603855/anderson-becomes-3rd-highest-wicket-taker-in-test",
+    "url_hash": "b9eefec6c15f0d1d95ce163c768ad4b3",
+    "ut": 1628262946,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "James Anderson",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Fears of \"parliament cluster\" emerge as three Sri Lanka MPs test positive for COVID-19",
+    "source": "economynext.com",
+    "snippet": "With three parliamentarians testing positive for COVID-19 on Friday (06), bringing total legislators infected in Sri Lanka to at least 18 to date, concerns have been raised over the possibility of a \"parliament cluster\".",
+    "url": "https://economynext.com/fears-of-parliament-cluster-emerge-as-three-sri-lanka-mps-test-positive-for-covid-19-84665/",
+    "url_hash": "3cd82429b53ede304aa6929c5eb8b268",
+    "ut": 1628263532,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "06",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 18",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "117 Delta variant positive cases found islandwide (Video)",
+    "source": "www.hirunews.lk",
+    "snippet": "COVID-19 Delta variant positive cases in Sri Lanka increased to 117 following an islandwide random sample check. Meanwhile, Dr. Chandima Jeewandara of the Department of Anthropology and Molecular Studies at the University of Sri Jayewardenepura has taken to Twitter to point out the rapid spread of the COVID-19 Delta variant in Sri Lankan society.",
+    "url": "https://www.hirunews.lk/goldfmnews/279015/117-delta-variant-positive-cases-found-islandwide-video",
+    "url_hash": "1401621c62d3e33623103ed9cb843a62",
+    "ut": 1628263532,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "117",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandima Jeewandara",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Anthropology and Molecular Studies",
+        "start_end": [
+          24,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University of Sri Jayewardenepura",
+        "start_end": [
+          32,
+          37
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Twitter",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          53,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "plastic cups",
+    "source": "www.dailynews.lk",
+    "snippet": "Environment Minister Mahinda Amaraweera says that a Cabinet paper will be submitted to ban eight other items including polythene bags that are harmful to the environment. The Minister stated that...",
+    "url": "http://www.dailynews.lk/tags/plastic-cups",
+    "url_hash": "83261b26901e39cd5abfd3dd61016ec3",
+    "ut": 1628264968,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "plastic hopper holders",
+    "source": "www.dailynews.lk",
+    "snippet": "Environment Minister Mahinda Amaraweera says that a Cabinet paper will be submitted to ban eight other items including polythene bags that are harmful to the environment. The Minister stated that...",
+    "url": "http://www.dailynews.lk/tags/plastic-hopper-holders",
+    "url_hash": "dea61b7cd168077153811a955c8daa8e",
+    "ut": 1628264968,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "plastic dishes",
+    "source": "www.dailynews.lk",
+    "snippet": "Environment Minister Mahinda Amaraweera says that a Cabinet paper will be submitted to ban eight other items including polythene bags that are harmful to the environment. The Minister stated that...",
+    "url": "http://www.dailynews.lk/tags/plastic-dishes",
+    "url_hash": "8ec11cb9571110ba2ecd39e30042c98e",
+    "ut": 1628266048,
     "ent_info_list": [
       {
         "label": "PERSON",
