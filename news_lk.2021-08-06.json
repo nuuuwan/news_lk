@@ -3352,6 +3352,33 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Sri Lankan refugee family losses everything in Corio house fire months after dad's death",
+    "source": "www.geelongadvertiser.com.au",
+    "snippet": "A SINGLE refugee mother whose husband recently died has been left with just her handbag after a fire ripped through her Corio home.",
+    "url": "https://www.geelongadvertiser.com.au/news/geelong/sri-lankan-refugee-family-losses-everything-in-corio-house-fire-months-after-dads-death/news-story/3d961e5bac21b4fb3a08d6c6deb30bfa",
+    "url_hash": "3423a77c3e558be8bde3d8a4f44e3d68",
+    "ut": 1628237286,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SINGLE",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Corio",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "117 Delta variant positive cases found islandwide",
     "source": "www.hirunews.lk",
     "snippet": "COVID-19 Delta variant positive cases in Sri Lanka increased to 117 following an islandwide random sample check. Meanwhile, Dr. Chandima Jeewandara of the Department of Anthropology and Molecular Studies at the University of Sri Jayewardenepura has taken to Twitter to point out the rapid spread of the COVID-19 Delta variant in Sri Lankan society.",
@@ -3557,6 +3584,57 @@
     "url_hash": "d18e7b774b5c4eac586a8b884fdc103a",
     "ut": 1628240898,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Over 720,000 doses of AstraZeneca vaccine to arrive on Saturday",
+    "source": "menafn.com",
+    "snippet": "By Easwaran Rutnam     Over 720,000 doses of the AstraZeneca vaccine will arrive in Sri Lanka on Saturday. </stro",
+    "url": "https://menafn.com/1102528042/Over-720000-doses-of-AstraZeneca-vaccine-to-arrive-on-Saturday",
+    "url_hash": "a3ebbdf45ed6e06a7aa1b876b22a22ac",
+    "ut": 1628240910,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rutnam     ",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "720,000",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AstraZeneca",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-06",
@@ -6504,6 +6582,111 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Six more hospitals receive essential medical equipment from ComBank",
+    "source": "www.dailymirror.lk",
+    "snippet": "Another six government hospitals have received donations of essential medical equipment from the Commercial Bank of Ceylon as it continues to support the healthcare sector and helps strengthen emergency care facilities in local hospitals.",
+    "url": "https://www.dailymirror.lk/other/Six-more-hospitals-receive-essential-medical-equipment-from-ComBank/117-217729",
+    "url_hash": "61fc97219cdf8c72539c739904deea5f",
+    "ut": 1628276877,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Commercial Bank of Ceylon",
+        "start_end": [
+          12,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "SLT-Mobitel demonstrates purposeful leadership donating PCR machines to District Hospitals",
+    "source": "www.dailymirror.lk",
+    "snippet": "SLT-Mobitel, in demonstrating purposeful leadership to help communities overcome the pandemic, has stepped up efforts to further support the nation by donating several Polymerase Chain Reaction (PCR) testing machines to District Hospitals across the country.",
+    "url": "https://www.dailymirror.lk/other/SLT-Mobitel-demonstrates-purposeful-leadership-donating-PCR-machines-to-District-Hospitals/117-217725",
+    "url_hash": "10cb402c58d8d5e45c32b62e17a11fa2",
+    "ut": 1628276877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLT-Mobitel",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Polymerase Chain Reaction",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "District Hospitals",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Resurgent Taliban take provincial capital, kill Afghan gov't spokesman",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Taliban captured an Afghan provincial capital and assassinated the government's top media officer in Kabul on Friday, dealing twin high-profile blows to the Western-backed administration. ..",
+    "url": "https://www.dailymirror.lk/international/Resurgent-Taliban-take-provincial-capital-kill-Afghan-govt-spokesman/107-217739",
+    "url_hash": "b5ace7c11caa622d379c9f6af53220dc",
+    "ut": 1628276877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Clean Ocean Force successfully completes first year leaving many WP beaches cleaner, safer",
     "source": "www.dailymirror.lk",
     "snippet": "Clean Ocean Force (COF) has successfully completed its first year of operations, leaving many beaches around the Western Province cleaner, safer, and well sustained. ..",
@@ -6858,6 +7041,252 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Enforced disappearances: brutalisation of society",
+    "source": "www.dailymirror.lk",
+    "snippet": "Enforced disappearance has frequently been used as a strategy to spread terror and tyranny within the society. The feeling of insecurity generated by this practice is not limited to the close relatives of the disappeared,",
+    "url": "https://www.dailymirror.lk/opinion/Enforced-disappearances-brutalisation-of-society/172-217750",
+    "url_hash": "50e86022ec422e27341ac8c748e80bae",
+    "ut": 1628280477,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Sri Lanka's COVID - forex vicious circle",
+    "source": "www.dailymirror.lk",
+    "snippet": "Asela Gunawardena on August 5 had confirmed the occurrence of 94 COVID-19 related deaths on the previous day. This might be the highest number of such deaths on a single day in Sri Lanka since the pandemic began to spread in the country in March 2020.",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-COVID-forex-vicious-circle/172-217751",
+    "url_hash": "d479a66aacad3198cbeec4ca9b0e38c7",
+    "ut": 1628280477,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Asela Gunawardena",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 5",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "94",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the previous day",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2020",
+        "start_end": [
+          45,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "He was a selfless and carefree man",
+    "source": "www.dailymirror.lk",
+    "snippet": "I met Chris last year on a beautiful evening in Singapore. We took a cab to a restaurant in Mount Faber for dinner. It took only twenty minutes to get there, but during the ride, I felt as if I had known him all my life.",
+    "url": "https://www.dailymirror.lk/news-features/He-was-a-selfless-and-carefree-man/131-217749",
+    "url_hash": "2fb80a9e60960c8124001c3f143ccc8b",
+    "ut": 1628280477,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Chris",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Mount Faber",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "only twenty minutes",
+        "start_end": [
+          27,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "She was a larger than life figure",
+    "source": "www.dailymirror.lk",
+    "snippet": "Elizabeth Senanayake was the Vice Principal and a teacher during my schooling (1979 to 1992) at Sacred Heart Convent, Galle. ..",
+    "url": "https://www.dailymirror.lk/news-features/She-was-a-larger-than-life-figure/131-217747",
+    "url_hash": "3fb16b90f7aaac0679e0528a4ac11bcd",
+    "ut": 1628280477,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Elizabeth Senanayake",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Principal",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1979 to 1992",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sacred Heart Convent",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "He was quintessentially a renaissance humanist",
+    "source": "www.dailymirror.lk",
+    "snippet": "Jayati Weerakoon passed away on July 29, 2021 in Austin, Texas. He was born in 1928 in Madakumburumulla, Sri Lanka. ..",
+    "url": "https://www.dailymirror.lk/news-features/He-was-quintessentially-a-renaissance-humanist/131-217746",
+    "url_hash": "ceb0b9cde21f49fbf5e778040562c4e8",
+    "ut": 1628280477,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Jayati Weerakoon",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 29, 2021",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Austin",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1928",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Madakumburumulla",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
         ]
       }
     ]
