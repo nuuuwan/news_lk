@@ -3014,6 +3014,73 @@
   },
   {
     "date": "2021-08-06",
+    "title": "117 Delta variant positive cases found islandwide",
+    "source": "www.hirunews.lk",
+    "snippet": "COVID-19 Delta variant positive cases in Sri Lanka increased to 117 following an islandwide random sample check. Meanwhile, Dr. Chandima Jeewandara of the Department of Anthropology and Molecular Studies at the University of Sri Jayewardenepura has taken to Twitter to point out the rapid spread of the COVID-19 Delta variant in Sri Lankan society.",
+    "url": "https://www.hirunews.lk/english/279015/117-delta-variant-positive-cases-found-islandwide",
+    "url_hash": "2a12c7a66166fe76c19d436b951fffff",
+    "ut": 1628237307,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "117",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandima Jeewandara",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Anthropology and Molecular Studies",
+        "start_end": [
+          24,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University of Sri Jayewardenepura",
+        "start_end": [
+          32,
+          37
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Twitter",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          53,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Silversea opens general sales on Far East-West for 2024",
     "source": "tourtelegraph.com",
     "snippet": "MONACO - Silversea Cruises opened general sales on its World Cruise 2024, Far East-West - designed by the cruise line's destination experts in response to strong demand for far-flung destinations. With Silversea's two global voyages in 2022 and one in 2023,",
@@ -3095,6 +3162,16 @@
     "url": "https://www.dailymirror.lk/breaking_news/Teachers-principals-urged-to-call-off-protests/108-217687",
     "url_hash": "0902a2e221f1deeeb3768100e5e769b9",
     "ut": 1628240862,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Teachers, principals urged to call off protests",
+    "source": "www.dailymirror.lk",
+    "snippet": "Several professional bodies and political parties have pleaded the teachers and principals who are currently engaged in a massive protest campaign, to suspend all their protests for the sake of safety and health of the nation in the middle of this dreaded pandemic.",
+    "url": "https://www.dailymirror.lk/latest_news/Teachers-principals-urged-to-call-off-protests/342-217687",
+    "url_hash": "d18e7b774b5c4eac586a8b884fdc103a",
+    "ut": 1628240898,
     "ent_info_list": []
   },
   {
@@ -3349,6 +3426,84 @@
   },
   {
     "date": "2021-08-06",
+    "title": "No to KNDU Bill...",
+    "source": "www.dailymirror.lk",
+    "snippet": "The joint Centre against Kotelawala Defense University Bill staged a protest in Colombo against the proposed Kotelawala Defence University Bill today.Pix by Pradeep Dilrusksana ..",
+    "url": "https://www.dailymirror.lk/caption_story/No-to-KNDU-Bill/110-217689",
+    "url_hash": "01834a02cce4931ff99cf9235506a354",
+    "ut": 1628244498,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Centre",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kotelawala Defense University Bill",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kotelawala Defence University",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilrusksana",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Police abuses surge amid Covid-19 pandemic",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka's police are increasingly killing and abusing people under cover of the\u00a0Covid-19\u00a0pandemic measures and an anti-drug campaign, Human Rights Watch said today. Recent police abuses reported in the media include alleged extrajudicial killings,",
+    "url": "https://colombogazette.com/2021/08/06/police-abuses-surge-amid-covid-19-pandemic/",
+    "url_hash": "8eed1568c23a66b4bfefa158b92adcc2",
+    "ut": 1628244527,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Opposition cries foul as cops in civvies arrest Sri Lanka student union leader",
     "source": "economynext.com",
     "snippet": "A university student union leader in Sri Lanka was arrested by policemen in civvies in the early hours of Friday (06), the latest in a series of similar arrests that opposition MPs claim is emblematic of an alleged \"law of the jungle\" the government is trying to perpetuate.",
@@ -3426,6 +3581,135 @@
       {
         "label": "PERSON",
         "text": "Chandima Jeewandara",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Harin in self-isolation after Ranjan tests positive for COVID",
+    "source": "dailynews.lk",
+    "snippet": "MP Harin Fernando has gone into self-isolation after meeting Ranjan Ramanayake at a funeral. \"I will be self isolating from now as I met Ranjan ayya when he was brought to his relatives funeral earlier this week.",
+    "url": "https://dailynews.lk/2021/08/06/local/255949/harin-self-isolation-after-ranjan-tests-positive-covid",
+    "url_hash": "84fffff4e334f043a1669083a2c39a35",
+    "ut": 1628248102,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Harin Fernando",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranjan Ramanayake",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranjan",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier this week",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Adopt proper procedure when arresting protesters: Anura",
+    "source": "www.dailymirror.lk",
+    "snippet": "National Peoples' Power MP Anura Kumara Dissanayake, who raised concerns over the arrest of protesters by the policemen in civvies, today urged the Government to adopt a proper procedure when making the arrests.",
+    "url": "https://www.dailymirror.lk/breaking_news/Adopt-proper-procedure-when-arresting-protesters-Anura/108-217690",
+    "url_hash": "a074dda5232eab27a8f22cd7e4090ed7",
+    "ut": 1628248758,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Peoples'",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anura Kumara Dissanayake",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Text and Pictures Herbert Perera",
+    "source": "dailynews.lk",
+    "snippet": "A musical show titled Nomiyena Minisun - Jothimath Sandawa to mark the 34th Death Anniversary of veteran playback singer HR Jothipala was organised by Sri Lanka Broadcasting Corporation and Sri Lanka...",
+    "url": "https://dailynews.lk/line/text-and-pictures-herbert-perera-0",
+    "url_hash": "272271883ab1ac81ded03e7dca86e146",
+    "ut": 1628251102,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Nomiyena Minisun - Jothimath Sandawa",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "playback",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jothipala",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Broadcasting Corporation",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
         "start_end": [
           29,
           31
