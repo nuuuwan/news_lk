@@ -3504,6 +3504,25 @@
   },
   {
     "date": "2021-08-06",
+    "title": "No lockdown, President decides",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following a crucial discussion held with President Gotabaya Rajapaksa over the prevailing COVID-19 situation in the country, it has been decided not to impose a countrywide lockdown but some certain restrictions will be imposed,",
+    "url": "https://www.dailymirror.lk/breaking_news/No-lockdown--President-decides/108-217683",
+    "url_hash": "0490a83e7543e6f0d436c5915b5c0de2",
+    "ut": 1628240878,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Police told to remain calm even if protesting teachers attack them: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "Police have been instructed to remain calm even if the protesting teachers acted violently and attacked the police, following a special order given by the President, Public Security Minister Sarath Weerasekara said today.",
@@ -5408,6 +5427,57 @@
   },
   {
     "date": "2021-08-06",
+    "title": "98 COVID-19 deaths reported: Death toll surges to 4,919",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 98 more COVID-19 related deaths that occurred yesterday (05) were confirmed by the Director-General of Health Services today pushing the death toll to 4,919. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/98-COVID-19-deaths-reported-Death-toll-surges-to-4-919/108-217701",
+    "url_hash": "3a02c8ed78799237c828dea582287ca0",
+    "ut": 1628262478,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "98",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "05",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,919",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Labour minister accuses Sri Lanka Foreign Employment Bureau of massive waste",
     "source": "economynext.com",
     "snippet": "A huge sum of money has been misused due to waste and unnecessary spending by the SLFEB, misappropriation of funds, and weak financial management,\" Minister De Silva said. Kamal Ratwatte, former chairman of the bureau who passed away recently,",
@@ -5991,6 +6061,108 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Bomb threat in leading 5 star hotels and several places in Colombo are false",
+    "source": "www.dailymirror.lk",
+    "snippet": "Posts claiming that there is a bomb threat in two leading five-star hotels in Colombo and in places in Bambalapitiya, Wellawatta, Mirihana, Nugegoda, Mount Lavinia and Dehiwala are completely false and people have been urged not to panic, the Police told ...",
+    "url": "https://www.dailymirror.lk/top_story/Bomb-threat-in-leading-5-star-hotels-and-several-places-in-Colombo-are-false/155-217721",
+    "url_hash": "28db0089a9f3a0518a90de80372d4ecc",
+    "ut": 1628269678,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bambalapitiya",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wellawatta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mirihana",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nugegoda",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mount Lavinia",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dehiwala",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Covid live: EU regulator finds no link between vaccines and menstrual disorders; UK 16-year-olds offered jabs",
+    "source": "www.theguardian.com",
+    "snippet": "Europe drugs regulator says it has so far not found a causal link to menstrual issues; walk-in clinics open to older teens in Northern Ireland",
+    "url": "https://www.theguardian.com/world/live/2021/aug/06/coronavirus-live-news-china-sees-new-surge-of-cases-cnn-sacks-three-staff-for-not-having-vaccine?page=with:block-610d7b228f0811859fec0063",
+    "url_hash": "4ec7b698bcf441d578651b3723f9de8d",
+    "ut": 1628269687,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Europe",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Northern Ireland",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "plastic dishes",
     "source": "dailynews.lk",
     "snippet": "Environment Minister Mahinda Amaraweera says that a Cabinet paper will be submitted to ban eight other items including polythene bags that are harmful to the environment. The Minister stated that...",
@@ -6090,6 +6262,159 @@
         "start_end": [
           14,
           15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Traffic near Town Hall due to protest",
+    "source": "www.adaderana.lk",
+    "snippet": "Traffic congestion is reported from near the Town Hall area in Colombo due to a protest, Ada Derana reported said",
+    "url": "http://www.adaderana.lk/news/75886/traffic-near-town-hall-due-to-protest",
+    "url_hash": "f464ee454e55bf6fdd79ada4c6b009f9",
+    "ut": 1628273891,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Town Hall",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ada Derana",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Foreign Ministers welcome opening of New Zealand High Commission in Colombo",
+    "source": "www.ft.lk",
+    "snippet": "New\u00a0Zealand and Sri Lanka's Foreign Ministers, Nanaia Mahuta and Dinesh Gunawardena, have welcomed the opening of the New\u00a0Zealand High Commission in Colombo next week. The Foreign Ministers, who met virtually yesterday,",
+    "url": "https://www.ft.lk/news/Foreign-Ministers-welcome-opening-of-NewZealand-High-Commission-in-Colombo/56-721407",
+    "url_hash": "2873ba15a24f75c66445be73e2444b09",
+    "ut": 1628274607,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New\u00a0Zealand",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New\u00a0Zealand",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "High Commissioner of India to Sri Lanka calls on Foreign Minister",
+    "source": "www.ft.lk",
+    "snippet": "High Commissioner of India to Sri Lanka Gopal Baglay called on\u00a0Foreign Minister Dinesh Gunawardena on 3 August. Minister Gunawardena thanked the Government and the people of India for extending assistance\u00a0to\u00a0Sri Lanka in combating\u00a0the\u00a0COVID-19 pandemic and appraised the opening of the country for economic activities.",
+    "url": "https://www.ft.lk/news/High-Commissioner-of-India-to-Sri-Lanka-calls-on-Foreign-Minister/56-721409",
+    "url_hash": "64513a27564453b05f4cf4e2d51d64ae",
+    "ut": 1628274620,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gopal Baglay",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardena",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "3 August",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunawardena",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
