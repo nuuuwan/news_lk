@@ -3843,6 +3843,41 @@
   },
   {
     "date": "2021-08-05",
+    "title": "Two major hospitals declare 'state of emergency'",
+    "source": "www.adaderana.lk",
+    "snippet": "The Karapitiya Teaching Hospital and Ratnapura Teaching Hospital have declared a 'state of emergency 'within their premises as the COVID-19 outbreak continues to exhaust the healthcare system",
+    "url": "http://www.adaderana.lk/news.php?nid=75911",
+    "url_hash": "158a501e5341c60d26b16137ee44777b",
+    "ut": 1628152150,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Karapitiya Teaching Hospital",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratnapura Teaching Hospital",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "premises",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
     "title": "Krunal Pandya Returns to India After Testing Negative for Covid-19",
     "source": "www.msn.com",
     "snippet": "Spin all-rounder Krunal Pandya has finally returned to India after completing his mandatory isolation period in Sri Lanka. Krunal tested positive for coronavirus just before India was scheduled to square off against Sri Lanka in the second T20 International of the three-match series.",
@@ -7261,6 +7296,92 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "Experts from Switzerland conduct knowledge-sharing session on organic agro-ecosystem",
+    "source": "www.ft.lk",
+    "snippet": "A team of experts from Switzerland presently on a 10-day visit in the country conducted an experiential and insightful training session on organic agriculture and ecosystem, a need of the hour for Sri Lanka as it bans chemical fertilisers and pesticides to make a transition from conventional to an organic approach.",
+    "url": "https://www.ft.lk/agriculture/Experts-from-Switzerland-conduct-knowledge-sharing-session-on-organic-agro-ecosystem/31-721364",
+    "url_hash": "2a38410f886ab70111eb28e53fb9e3b5",
+    "ut": 1628195350,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Switzerland",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-05",
+    "title": "CBL Investments-UNDP in Sri Lanka sign MoU with farmers at heart of green development",
+    "source": "www.ft.lk",
+    "snippet": "As an island nation rich in biodiversity, Sri Lanka is committed to safeguarding its resources while actively pursuing a green development trajectory. To this end, the United Nations Development Programme (UNDP) in Sri Lanka signed a Memorandum of Understanding (MoU) with CBL Investments Ltd.",
+    "url": "https://www.ft.lk/agriculture/CBL-Investments-UNDP-in--Sri-Lanka-sign-MoU-with-farmers-at-heart-of-green-development/31-721363",
+    "url_hash": "a679fbfc6a183280aa5d6b9448e7ddef",
+    "ut": 1628195362,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations Development Programme",
+        "start_end": [
+          28,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "a Memorandum of Understanding",
+        "start_end": [
+          40,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CBL Investments Ltd.",
+        "start_end": [
+          48,
+          51
         ]
       }
     ]
