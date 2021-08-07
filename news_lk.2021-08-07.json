@@ -326,6 +326,49 @@
   },
   {
     "date": "2021-08-07",
+    "title": "Booster shots if required",
+    "source": "www.dailymirror.lk",
+    "snippet": "Health authorities are taking steps to administer booster shots (third dose) if required. The matter was discussed at a crucial meeting held yesterday (Friday) with the participation of President Gotabaya Rajapaksa.",
+    "url": "https://www.dailymirror.lk/latest_news/Booster-shots-if-required/342-217753",
+    "url_hash": "1c60ff8f29807b788afc49ae972b5b67",
+    "ut": 1628298462,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "Covid-19 death toll could rise to 200-250 a day unless drastic action is taken, warns don",
     "source": "island.lk",
     "snippet": "By Rathindra Kuruwita Sri Lanka will see between 200 and 250 deaths a day in two to three weeks unless the government took drastic action to curb the spread of COVID-19, Prof. Suneth Agampodi, Founder Professor and Chair - Department of Community Medicine,",
@@ -594,6 +637,68 @@
         "start_end": [
           24,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "18 stunning hotels around the world that we're really ready to stay in right now",
+    "source": "www.timeoutabudhabi.com",
+    "snippet": "So step away from social media and get dreaming about one of these utterly delightful hotels around the world. From breakfast with giraffes to sleeping in a glam igloo - here are 18 hotels around the world that have firmly found themselves on our bucket list.",
+    "url": "https://www.timeoutabudhabi.com/travel/471953-top-bucket-list-hotels-in-the-world",
+    "url_hash": "3af0b7872edaea2c8db26d906d6025a2",
+    "ut": 1628309762,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Three corpses including a 10 year-old found in house in Galgamuwa",
+    "source": "www.dailymirror.lk",
+    "snippet": "Three bodies including a 10-year old boy have been recovered last night at a house at Mahanana in Galgamuwa, Police said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Three-corpses-including-a-10-year-old-found-in-house-in-Galgamuwa/108-217756",
+    "url_hash": "3e88b47b215c9362dc6eb4248409f1f5",
+    "ut": 1628309982,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-year old",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last night",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mahanana",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
