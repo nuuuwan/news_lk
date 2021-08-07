@@ -7676,6 +7676,57 @@
     "title": "\"Shelly Aiya\": Courageous Politician with Enlightened Principles",
     "source": "www.dailymirror.lk",
     "snippet": "Shelton Ranaraja known to many as \"Shelly Aiya\" passed away on August 11, 2011. Shelton or Shelly Aiya was a politician for whom I have the greatest respect. ..",
+    "url": "https://www.dailymirror.lk/opinion/%E2%80%9CShelly-Aiya%E2%80%9D%3A--Courageous-Politician-with-Enlightened-Principles/231-217752",
+    "url_hash": "e0dd77ebdcd708f2a930df9a3100cf8e",
+    "ut": 1628280469,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shelton Ranaraja",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Shelly Aiya",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 11, 2011",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Shelton",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shelly Aiya",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "\"Shelly Aiya\": Courageous Politician with Enlightened Principles",
+    "source": "www.dailymirror.lk",
+    "snippet": "Shelton Ranaraja known to many as \"Shelly Aiya\" passed away on August 11, 2011. Shelton or Shelly Aiya was a politician for whom I have the greatest respect. ..",
     "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/Shelly-Aiya-Courageous-Politician-with-Enlightened-Principles/192-217752",
     "url_hash": "6ccc06acadf913d1cae4e7d09985a377",
     "ut": 1628280472,
@@ -8123,6 +8174,65 @@
   },
   {
     "date": "2021-08-06",
+    "title": "\"Completely fine now\", Krunal Pandya recovers from COVID-19",
+    "source": "in.news.yahoo.com",
+    "snippet": "India all-rounder Krunal Pandya took to social media to thank everyone for their well-wishes and support. The Mumbai Indians cricketer tested positive during India's Sri Lanka tour and remained in isolation even after the rest of his teammates departed the island nation.",
+    "url": "https://in.news.yahoo.com/completely-fine-now-krunal-pandya-045712158.html",
+    "url_hash": "d0e593770207dfba4a3900bd3f468778",
+    "ut": 1628287678,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Krunal Pandya",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "India Failed To Fulfill Its Obligations But Wants Sri Lanka To 'Fully Implement' 13th Constitutional Amendment - OpEd",
     "source": "www.lankaweb.com",
     "snippet": "Deployment of Indian troops in Sri Lanka and establishing of provincial councils by the 13th Amendment to the Constitution are two of the main results of the Indo-Sri Lanka Agreement (ISLA) signed on July 29,",
@@ -8227,6 +8337,25 @@
         "start_end": [
           59,
           60
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "Framework for a new Sri Lanka; a Union of Regions",
+    "source": "www.lankaweb.com",
+    "snippet": "Sri Lanka is in dire economic strife, its politicians are a discredited lot, and are produced by a system that perpetuates corruption, inefficiency and ineffectiveness. Inter community harmony is as facile as the cloak of ritualism that passes as Buddhism.",
+    "url": "http://www.lankaweb.com/news/items/2021/08/06/framework-for-a-new-sri-lanka-a-union-of-regions/",
+    "url_hash": "3b88fcee3f1d0cc690584b689de30dbe",
+    "ut": 1628291278,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
         ]
       }
     ]
