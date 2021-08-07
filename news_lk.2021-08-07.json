@@ -880,6 +880,41 @@
   },
   {
     "date": "2021-08-07",
+    "title": "Finding purpose and relevance for a legacy bank",
+    "source": "economynext.com",
+    "snippet": "As the bank crosses into its 60th year in business, the dawning decade will be unlike any of the previous ones. A focus on younger customers and the future of finance in one way has simplified things for People's Bank.",
+    "url": "https://economynext.com/brand_voice/finding-purpose-and-relevance-for-a-legacy-bank/",
+    "url_hash": "ca81ef38b5dec72e269276c00cf3bd0c",
+    "ut": 1628312904,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "60th year",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "People's Bank",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "Yuzvendra Chahal and Krunal Pandya recover from Covid-19, return to India from Sri Lanka",
     "source": "www.crictracker.com",
     "snippet": "Krunal Pandya and Yuzvendra Chahal took to Twitter to announce that they have returned home safely after recovering from COVID-19",
@@ -1382,6 +1417,33 @@
         "start_end": [
           25,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Plea from Govt. to general public",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government today urged the general public to get themselves vaccinated as early as they can, as the highly contiguous Delta variant spreads like wildfire in the country. ..",
+    "url": "https://www.dailymirror.lk/top_story/Plea-from-Govt-to-general-public/155-217763",
+    "url_hash": "382bf8f4e27d296e3dede6ac63ba8457",
+    "ut": 1628330895,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          21,
+          22
         ]
       }
     ]
