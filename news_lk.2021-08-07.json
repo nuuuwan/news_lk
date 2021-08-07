@@ -519,5 +519,83 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Sri Lanka property price disinflation in the capital Colombo ends",
+    "source": "economynext.com",
+    "snippet": "The slowdown in property price gains in Sri Lanka's capital Colombo (disinflation) had ended with a near double digit annual gain, according to an index compiled by the country's central bank.",
+    "url": "https://economynext.com/sri-lanka-property-price-disinflation-in-the-capital-colombo-ends-84671/",
+    "url_hash": "674330abc08dd3760750a600637daea5",
+    "ut": 1628305724,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "annual",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Covid crisis worsens in Asean as new cases, deaths hit record highs",
+    "source": "www.nationthailand.com",
+    "snippet": "Southeast Asia hit a new high on Friday, reporting 105,287 new Covid-19 cases, and a record 3,069 deaths, the highest on a single day.",
+    "url": "https://www.nationthailand.com/international/40004333",
+    "url_hash": "61bb85cd99f32f37c65cc88d33c8a2b7",
+    "ut": 1628306126,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Southeast Asia",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "105,287",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,069",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
   }
 ]

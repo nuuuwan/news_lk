@@ -2281,6 +2281,25 @@
   },
   {
     "date": "2021-08-06",
+    "title": "Framework for a new Sri Lanka; a Union of Regions",
+    "source": "www.srilankaguardian.org",
+    "snippet": "Sri Lanka is in dire economic strife, its politicians are a discredited lot, and are produced by a system that perpetuates corruption, inefficiency and ineffectiveness. Inter community harmony is as facile as the cloak of ritualism that passes as Buddhism.",
+    "url": "http://www.srilankaguardian.org/2021/08/framework-for-new-sri-lanka-union-of.html",
+    "url_hash": "448d60c26d26a9b391e527baf4f4ac4c",
+    "ut": 1628222906,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
     "title": "Sri Lanka receives 2 million more Sinopharm vaccines",
     "source": "www.adaderana.lk",
     "snippet": "Two million more doses of Sinopharm COVID-19 vaccine have arrived in Sri Lanka, says the State Minister of Production, Supply and Regulation of Pharmaceuticals",
@@ -8130,6 +8149,73 @@
         "start_end": [
           14,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-06",
+    "title": "India Failed To Fulfill Its Obligations But Wants Sri Lanka To 'Fully Implement' 13th Constitutional Amendment - OpEd",
+    "source": "www.lankaweb.com",
+    "snippet": "Deployment of Indian troops in Sri Lanka and establishing of provincial councils by the 13th Amendment to the Constitution are two of the main results of the Indo-Sri Lanka Agreement (ISLA) signed on July 29,",
+    "url": "https://www.lankaweb.com/news/items/2021/08/06/india-failed-to-fulfill-its-obligations-but-wants-sri-lanka-to-fully-implement-13th-constitutional-amendment-oped/",
+    "url_hash": "b4c769bcc5bbe2891e46b978a8d4e2e0",
+    "ut": 1628291306,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 13th Amendment",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "Constitution",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indo-Sri Lanka Agreement",
+        "start_end": [
+          26,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 29",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
