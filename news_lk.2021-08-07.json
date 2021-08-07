@@ -1,6 +1,81 @@
 [
   {
     "date": "2021-08-07",
+    "title": "34 years on: The many failures of the Indo-Lanka Accord",
+    "source": "www.msn.com",
+    "snippet": "The deployment of Indian troops in Sri Lanka and establishing of Provincial Councils by the 13th Amendment to the Constitution are two of the main results of the Indo-Sri Lanka Agreement (ISLA) signed on July 29,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/34-years-on-the-many-failures-of-the-indo-lanka-accord/ar-AAN2dWa",
+    "url_hash": "d6a2a84cfad6ee328d7848032094473e",
+    "ut": 1628294891,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Provincial Councils",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 13th Amendment",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "Constitution",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indo-Sri Lanka Agreement",
+        "start_end": [
+          27,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 29",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "Pramod Ekanayake - a promising volleyball player",
     "source": "www.msn.com",
     "snippet": "Eighteen-year-old Pramod Ekanayake is a promising volleyball player, who has represented Vijayaba National School, Hungama with distinction.He started playing volleyball under their school coach and Master-in-Charge Tharaka Rathnaweera in 2015.",
@@ -310,6 +385,25 @@
   },
   {
     "date": "2021-08-07",
+    "title": "No risk at all for breastfeeding mothers to get COVID-19 vaccine: WHO scientist",
+    "source": "www.dailymirror.lk",
+    "snippet": "A leading WHO (World Health Organisation) expert said there is no risk at all for breastfeeding mothers to take COVID-19 vaccines to boost their immune system and that of their babies. ..",
+    "url": "https://www.dailymirror.lk/latest_news/No-risk-at-all-for-breastfeeding-mothers-to-get-COVID-19-vaccine-WHO-scientist/342-217754",
+    "url_hash": "d5ba73685ff205c95728f85040bf7c43",
+    "ut": 1628302082,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "World Health Organisation",
+        "start_end": [
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "James Anderson leapfrogs Kumble to become 3rd highest wicket-taker in Test",
     "source": "news.webindia123.com",
     "snippet": "England fast bowler James Anderson on Friday became the third-highest wicket-taker in the longest format of the game. Anderson achieved the feat when he removed KL Rahul in the ongoing first Test against India.",
@@ -371,6 +465,57 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Daisy Veerasingham: Lankan descent takes helm of Associated Press",
+    "source": "www.hirunews.lk",
+    "snippet": "The Associated Press appointed Daisy Veerasingham, its executive vice president and chief operating officer, as the news cooperative's president and CEO on Tuesday, setting her up to replace the retiring Gary Pruitt at the beginning of next year.",
+    "url": "https://www.hirunews.lk/goldfmnews/279075/daisy-veerasingham-lankan-descent-takes-helm-of-associated-press",
+    "url_hash": "9fe61a9b02ca8afeb695264a98e6fd18",
+    "ut": 1628304622,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Associated Press",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Daisy Veerasingham",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gary Pruitt",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the beginning of next year",
+        "start_end": [
+          37,
+          42
         ]
       }
     ]
