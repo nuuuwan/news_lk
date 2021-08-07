@@ -1310,6 +1310,76 @@
   },
   {
     "date": "2021-08-07",
+    "title": "2,487 more COVID-19 patients recover",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 2,487 more COVID-19 patients recovered and were discharged from hospitals bringing the total number of recoveries in Sri Lanka to 290,794, the Health Ministry said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/2-487-more-COVID-19-patients-recover/108-217764",
+    "url_hash": "4919c5acbbda6714811d7081f5cc6b9f",
+    "ut": 1628327305,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "2,487",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "290,794",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Plea from Govt. to general public",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government today urged the general public to get themselves vaccinated as early as they can, as the highly contiguous Delta variant spreads like wildfire in the country. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Plea-from-Govt-to-general-public/108-217763",
+    "url_hash": "d90d386a66b9fc73ff86edd4b246c29f",
+    "ut": 1628330905,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "Northern Province Special Cor",
     "source": "dailynews.lk",
     "snippet": "Jaffna Teaching Hospital Director Shanmuganadan Sri Bawanandaraja has taken steps from Tuesday to obtain Oxygen four times daily from the Anuradhapura Teaching Hospital as a solution to overcome any... The Government urges the general public to get vaccinated against COVID-19...",
@@ -1347,6 +1417,49 @@
         "start_end": [
           19,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Sri Lanka seeks lifting of travel ban imposed by 21 countries",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka has sought the lifting of travel bans imposed by 21 countries, the Tourism Ministry said today.   The Tourism M",
+    "url": "https://menafn.com/1102519347/Sri-Lanka-seeks-lifting-of-travel-ban-imposed-by-21-countries",
+    "url_hash": "765386da9097c737bf1a84f973befe71",
+    "ut": 1628335198,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tourism Ministry",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
