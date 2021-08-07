@@ -1251,6 +1251,25 @@
   },
   {
     "date": "2021-08-07",
+    "title": "Guidelines issued for home-based care for low-risk COVID patients",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Health Ministry has issued guidelines on providing home-based care for asymptomatic or mildly symptomatic patients. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Guidelines-issued-for-home-based-care-for-low-risk-COVID-patients/108-217760",
+    "url_hash": "926bff308554d5480a402738ba243ca1",
+    "ut": 1628320168,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "Wildfires ravaging forestlands in many parts of world",
     "source": "www.yenisafak.com",
     "snippet": "Wildfires have spread to many parts of the world, according to the US space agency NASA's Fire Information for Resource Management System. Most regions of North America and South America, the African plateau,",
@@ -1730,6 +1749,49 @@
   },
   {
     "date": "2021-08-07",
+    "title": "Covid death toll exceeds 5,000 with 98 more deaths",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Covid-19 death toll exceeded 5,000 mark with 98 more deaths being reported today, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Covid-death-toll-exceeds-5-000-with-98-more-deaths/108-217767",
+    "url_hash": "4cd3adaa29d4a17f82a3d2dd6a10ff78",
+    "ut": 1628345368,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "5,000 mark",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "98",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          15,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "Sri Lanka's COVID death toll surpasses 5,000 mark",
     "source": "dailynews.lk",
     "snippet": "COVID-19 within 24-hours, stated the Department of Government Information. The total number of COVID-19 deaths in the country surpasses 5,000 mark. It is at 5017.",
@@ -1767,6 +1829,57 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "2,796 fresh COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 2,796 more COVID-19 patients were detected within today increasing the number of patients reported in Sri Lanka to 327,019, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/2-796-fresh-COVID-19-cases-detected-today/342-217768",
+    "url_hash": "59c2cb298ddbc3e9b95e4904b9369e42",
+    "ut": 1628352568,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "2,796",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "327,019",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          23,
+          27
         ]
       }
     ]
