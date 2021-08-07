@@ -1,6 +1,65 @@
 [
   {
     "date": "2021-08-07",
+    "title": "Pramod Ekanayake - a promising volleyball player",
+    "source": "www.msn.com",
+    "snippet": "Eighteen-year-old Pramod Ekanayake is a promising volleyball player, who has represented Vijayaba National School, Hungama with distinction.He started playing volleyball under their school coach and Master-in-Charge Tharaka Rathnaweera in 2015.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/pramod-ekanayake-a-promising-volleyball-player/ar-AAN29To",
+    "url_hash": "f5f410ed407d54bada12818381cf4d57",
+    "ut": 1628295404,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Eighteen-year-old",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pramod Ekanayake",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Vijayaba National School",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hungama",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tharaka Rathnaweera",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2015",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "Creating cinema experiences will bring back grandeur",
     "source": "www.msn.com",
     "snippet": "Despite the country gradually opening, the Sri Lankan Film industry is facing one of its biggest challenges with no silver living evident in the horizon in the near future.The film and cinema industry plays a vital role in the country's economy.",
@@ -186,6 +245,132 @@
         "start_end": [
           29,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Covid-19 death toll could rise to 200-250 a day unless drastic action is taken, warns don",
+    "source": "island.lk",
+    "snippet": "By Rathindra Kuruwita Sri Lanka will see between 200 and 250 deaths a day in two to three weeks unless the government took drastic action to curb the spread of COVID-19, Prof. Suneth Agampodi, Founder Professor and Chair - Department of Community Medicine,",
+    "url": "https://island.lk/covid-19-death-toll-could-rise-to-200-250-a-day-unless-drastic-action-is-taken-warns-don/",
+    "url_hash": "b6f526e00ea3a9b443230b3ddacc2fa1",
+    "ut": 1628300924,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rathindra",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "between 200 and 250",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two to three weeks",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Suneth Agampodi",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Chair - Department of Community Medicine",
+        "start_end": [
+          39,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "James Anderson leapfrogs Kumble to become 3rd highest wicket-taker in Test",
+    "source": "news.webindia123.com",
+    "snippet": "England fast bowler James Anderson on Friday became the third-highest wicket-taker in the longest format of the game. Anderson achieved the feat when he removed KL Rahul in the ongoing first Test against India.",
+    "url": "https://news.webindia123.com/news/Articles/Sports/20210806/3799164.html",
+    "url_hash": "04faf4f6b59dad49d252a8043eda7e87",
+    "ut": 1628302499,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "James Anderson",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anderson",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
