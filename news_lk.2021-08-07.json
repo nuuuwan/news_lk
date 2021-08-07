@@ -1113,5 +1113,64 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Wildfires ravaging forestlands in many parts of world",
+    "source": "www.yenisafak.com",
+    "snippet": "Wildfires have spread to many parts of the world, according to the US space agency NASA's Fire Information for Resource Management System. Most regions of North America and South America, the African plateau,",
+    "url": "https://www.yenisafak.com/en/world/wildfires-ravaging-forestlands-in-many-parts-of-world-3577986",
+    "url_hash": "e11f08ddffa8d5f35544763433ec9e60",
+    "ut": 1628322865,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NASA",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fire Information for Resource Management System",
+        "start_end": [
+          18,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "North America",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South America",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the African plateau",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
   }
 ]
