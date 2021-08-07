@@ -2171,5 +2171,64 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "The Latest: COVID-19 hospitalizations increase in Arizona",
+    "source": "www.chron.com",
+    "snippet": "PHOENIX \u2014 Arizona on Saturday reported more than 2,000 additional COVID-19 cases for the fourth straight day as the number of virus-related hospitalizations continued to rise. The U.S. state's coronavirus dashboard reported 2,",
+    "url": "https://www.chron.com/news/article/The-Latest-New-US-virus-cases-top-100K-1st-time-16371307.php",
+    "url_hash": "2a72ed9f1e4ce46351e4c33ea330d9e2",
+    "ut": 1628372664,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 2,000",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the fourth straight day",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
   }
 ]
