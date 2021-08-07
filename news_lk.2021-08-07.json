@@ -1501,6 +1501,33 @@
   },
   {
     "date": "2021-08-07",
+    "title": "Imposing tight restrictions paramount: PHIs",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Public Health Inspectors' Union (PHIU) insisted that the Government should impose strict travel restrictions in order to prevent the country from plunging into a major catastrophe in terms of the Delta variant of COVID-19.",
+    "url": "https://www.dailymirror.lk/breaking_news/Imposing-tight-restrictions-paramount-PHIs/108-217762",
+    "url_hash": "32d1428fb2227d3e2db805fe5b7aacc4",
+    "ut": 1628338106,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Health Inspectors' Union",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "Sri Lanka public should stay home, get vaccinated: Director Information",
     "source": "economynext.com",
     "snippet": "Members of Sri Lanka's public should avoid all but essential travel and get vaccinated as soon as possible, a government statement said.",
@@ -1635,6 +1662,49 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Sri Lanka's COVID death toll surpasses 5,000 mark",
+    "source": "dailynews.lk",
+    "snippet": "COVID-19 within 24-hours, stated the Department of Government Information. The total number of COVID-19 deaths in the country surpasses 5,000 mark. It is at 5017.",
+    "url": "http://dailynews.lk/2021/08/07/local/256031/sri-lankas-covid-death-toll-surpasses-5000-mark",
+    "url_hash": "64d29caeb4ef3de8734869f41a9ba1e0",
+    "ut": 1628346271,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "24-hours",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Government Information",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,000",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "5017",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
