@@ -1237,5 +1237,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "\"I Am Fine Now\": Says Krunal Pandya Who Recovers From Covid-19",
+    "source": "english.newstracklive.com",
+    "snippet": "India all-rounder Krunal Pandya took to social media to thank everyone for their well-wishes and support. The Mumbai I..|News Track",
+    "url": "https://english.newstracklive.com/news/i-am-fine-now-says-krunal-pandya-who-recovers-from-covid19-sc13-nu325-ta325-1175276-1.html",
+    "url_hash": "964a843f6a1b48c6a9824fcbcc8fe192",
+    "ut": 1628327295,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Krunal Pandya",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mumbai",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Greece fires spread uncontrolled, killing a fireman",
+    "source": "www.hirunews.lk",
+    "snippet": "Two people have been killed, including a firefighter, as uncontrolled wildfires spread across Greece. Huge clouds of smoke are billowing over the northern outskirts of the capital, Athens, where people are being urged to leave their homes.",
+    "url": "https://www.hirunews.lk/english/279111/greece-fires-spread-uncontrolled-killing-a-fireman",
+    "url_hash": "c6c3634f63d8aec808c0fdb6691bd4d4",
+    "ut": 1628327295,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Greece",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Athens",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
   }
 ]
