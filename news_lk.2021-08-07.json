@@ -1552,5 +1552,91 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Sri Lanka gets 727,000 more AstraZeneca Vaccines from Japan",
+    "source": "economynext.com",
+    "snippet": "A batch of 727,380 doses of AstraZeneca vaccine made in Japan had arrived in Colombo on July 07, the Japanese embassy said.",
+    "url": "https://economynext.com/sri-lanka-gets-727000-more-astrazeneca-vaccines-from-japan-84686/",
+    "url_hash": "27d6855d2a4929148a7d1e67459c4ea1",
+    "ut": 1628341685,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "727,380",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 07",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Japanese",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "COVID death rate increases to 1.5%",
+    "source": "www.dailymirror.lk",
+    "snippet": "In the wake of the number of people who succumb to COVID-19 is on the rise, the Fatality Rate in Sri Lanka has increased to 1.5%. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-death-rate-increases-to-1-5/108-217766",
+    "url_hash": "01b4d2a1ad0a3beadab4808e14b0f9a8",
+    "ut": 1628342681,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "the Fatality Rate",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "1.5%",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
   }
 ]
