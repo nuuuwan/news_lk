@@ -1307,5 +1307,48 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Northern Province Special Cor",
+    "source": "dailynews.lk",
+    "snippet": "Jaffna Teaching Hospital Director Shanmuganadan Sri Bawanandaraja has taken steps from Tuesday to obtain Oxygen four times daily from the Anuradhapura Teaching Hospital as a solution to overcome any... The Government urges the general public to get vaccinated against COVID-19...",
+    "url": "https://dailynews.lk/line/northern-province-special-cor",
+    "url_hash": "294ec78c93b515293ac0f766c62ecbc9",
+    "ut": 1628333819,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shanmuganadan Sri Bawanandaraja",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Oxygen",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Anuradhapura Teaching Hospital",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
   }
 ]
