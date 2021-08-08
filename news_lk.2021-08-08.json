@@ -1425,6 +1425,41 @@
   },
   {
     "date": "2021-08-08",
+    "title": "Army-manned COVID vaccination centres operative today",
+    "source": "www.adaderana.lk",
+    "snippet": "COVID-19 vaccination centres manned by the Sri Lanka Army are in operation today (August 08) across the island",
+    "url": "http://www.adaderana.lk/news.php?nid=75993",
+    "url_hash": "122afd37b3269eeeddc54fdfccf90354",
+    "ut": 1628402900,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 08",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "CBK refutes reports her son Vimukthi entering politics",
     "source": "www.dailymirror.lk",
     "snippet": "Former President Chandrika Kumaratunga refuted media reports that her son Vimukthi was planning to enter into active politics. ..",
@@ -1964,6 +1999,127 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Book review: A tale of loss, racism and divided loyalties",
+    "source": "www.msn.com",
+    "snippet": "Richard Klinzman says this moving story is built around the themes of migrant life and the racism associated with it.",
+    "url": "https://www.msn.com/en-us/news/world/book-review-a-tale-of-loss-racism-and-divided-loyalties/ar-AAN4uji",
+    "url_hash": "260cd2b077c264f8b3edc392f99f6559",
+    "ut": 1628413700,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Richard Klinzman",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Over 5,300kg stock of dried turmeric smuggled by sea",
+    "source": "www.hirunews.lk",
+    "snippet": "Sri Lanka Coast Guard (SLCG) seized an Indian dhow with over 5300kg of dried turmeric in seas off Chilaw Point yesterday (07th). The suspicious Indian dhow was in Sri Lankan waters, via the International Maritime Boundary Line (IMBL),",
+    "url": "https://www.hirunews.lk/english/279194/over-5300kg-stock-of-dried-turmeric-smuggled-by-sea",
+    "url_hash": "8fadce4b1810054a46ee62c2ad8d4d55",
+    "ut": 1628415500,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Coast Guard",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chilaw",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "07th",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Maritime Boundary Line",
+        "start_end": [
+          39,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Fully vaccinated UAE residents in Sri Lanka allowed to return",
+    "source": "menafn.com",
+    "snippet": "Fully vaccinated UAE residents in Sri Lanka have been allowed to return home.   Khaleej Times reported that UAE residents",
+    "url": "https://menafn.com/1102560313/Fully-vaccinated-UAE-residents-in-Sri-Lanka-allowed-to-return",
+    "url_hash": "874d556dbc35d598280bcba16b0c1fdc",
+    "ut": 1628416544,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Khaleej Times",
+        "start_end": [
+          15,
+          17
         ]
       }
     ]
