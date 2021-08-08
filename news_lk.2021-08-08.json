@@ -3866,6 +3866,41 @@
   },
   {
     "date": "2021-08-08",
+    "title": "Sri Lanka: Strategically positioned to serve burgeoning global maritime security trade",
+    "source": "www.ft.lk",
+    "snippet": "Last week's incident in which a drone attack to the 'Mercer Street' left two of its crew dead proves the paramount need of maritime security. ..",
+    "url": "https://www.ft.lk/shippingaviation/Sri-Lanka-Strategically-positioned-to-serve-burgeoning-global-maritime-security-trade/21-721458",
+    "url_hash": "bda42445b30179b6e59ad1213fac8674",
+    "ut": 1628446092,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Last week's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Mercer Street'",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Their Master's Voice",
     "source": "www.ft.lk",
     "snippet": "As Sri Lanka recorded nearly 100 deaths per day from COVID-19 and infection rates spiral uncontrollably, the country's intelligence services have conclusively determined that the wave of protests against Government policies were to blame for the spread of the deadly virus.",
@@ -4061,6 +4096,73 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Luxury holidays in Kandy",
+    "source": "www.mrandmrssmith.com",
+    "snippet": "It's about three-and-a-half hours' drive from there to inland Kandy and your hotel can arrange a car transfer for you. Alternatively, grab a heli-shuttle (+94 77 770 3703;  in a BelJet Ranger from Colombo airport to Kandy in just 50 minutes.",
+    "url": "https://www.mrandmrssmith.com/destinations/sri-lanka/kandy?s%5Badults%5D=9",
+    "url_hash": "52778517c78d6dab4f8790176b311f3a",
+    "ut": 1628454718,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "about three",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "77",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3703",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Ranger",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          51,
+          52
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "just 50 minutes",
+        "start_end": [
+          53,
+          56
         ]
       }
     ]
