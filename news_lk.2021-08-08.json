@@ -1,6 +1,16 @@
 [
   {
     "date": "2021-08-08",
+    "title": "Expack consecutively ranked among Best Workplaces in Asia and Sri Lanka",
+    "source": "island.lk",
+    "snippet": "Demonstrating its core beliefs and values in championing and sustaining a corporate culture that lives and breathe diversity, equity and inclusivity among all employees, the country's premier sustainable corrugated packaging solutions provider,",
+    "url": "https://island.lk/expack-consecutively-ranked-among-best-workplaces-in-asia-and-sri-lanka/",
+    "url_hash": "e96218375156522fd601d78d248541a6",
+    "ut": 1628381318,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-08",
     "title": "DIVERSIFY OR DIE",
     "source": "trinidadexpress.com",
     "snippet": "The Philippines exports over US$1 billion in coconuts annually to the US; Sri Lanka earned US$664.58 million in 2020. Island nations like Vanuatu, Fiji, Samoa, Kiribati, Solomon islands ...",
@@ -546,6 +556,25 @@
   },
   {
     "date": "2021-08-08",
+    "title": "The Latest: Denver ready to discipline unvaccinated police",
+    "source": "www.timesunion.com",
+    "snippet": "Denver's top public safety leader says he is prepared to discipline police officers, sheriff's deputies and firefighters who don't follow the mandate that all city employees get vaccinated against COVID-19,",
+    "url": "https://www.timesunion.com/news/article/The-Latest-New-US-virus-cases-top-100K-1st-time-16371307.php",
+    "url_hash": "a728aa8d35dc01189cc79aec30983e3b",
+    "ut": 1628384927,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denver",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Govt. to procure organic inputs for Maha season",
     "source": "www.sundaytimes.lk",
     "snippet": "The government has selected a bidder from China for the import of organic-based fertiliser inputs initially for paddy cultivation alone with tests expected to commence ahead of the Maha season. The selection of bidders has already been finalised and the cabinet memorandum will be submitted tomorrow (Monday) on the intention of the award to the selected bidder,",
@@ -954,6 +983,76 @@
         "start_end": [
           38,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Man uploads over 500 child porn videos, images to cyberspace remanded, 10 others traced",
+    "source": "www.dailymirror.lk",
+    "snippet": "Making the first such arrest after establishing of a new unit to trace the culprits who upload child pornographic videos and photographs to the internet or social media, a 25-year old man who had uploaded more than 500 videos and photographs was arrested ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-uploads-over-500-child-porn-videos-images-to-cyberspace-remanded-10-others-traced/108-217772",
+    "url_hash": "5862600b42e6ac758fb0f2aae6dac75c",
+    "ut": 1628392109,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "25-year old",
+        "start_end": [
+          30,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 500",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Absence of data protection laws barrier for investment in the country",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Speaking at a webinar held in Colombo sponsored by the Ceylon Chamber of Commerce on data protection, this week, he said the draft data protection legislation will later be presented in Parliament for approval,",
+    "url": "https://www.sundaytimes.lk/210808/business-times/absence-of-data-protection-laws-barrier-for-investment-in-the-country-451446.html",
+    "url_hash": "14f05fb41732cfa14364195550946f37",
+    "ut": 1628392441,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ceylon Chamber of Commerce",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
