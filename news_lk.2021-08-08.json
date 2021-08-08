@@ -3307,6 +3307,81 @@
   },
   {
     "date": "2021-08-08",
+    "title": "Team USA finishes top of the medal table for third consecutive time",
+    "source": "www.dailymirror.lk",
+    "snippet": "Three golds on the final day of the games pushed the United States to the top of the medals table, overtaking China who had led going into today's schedule of events, the third successive Olympics that the Americans finished on top.",
+    "url": "https://www.dailymirror.lk/sports/Team-USA-finishes-top-of-the-medal-table-for-third-consecutive-time/322-217790",
+    "url_hash": "f49c1354c58c9324c6ebce5649f3e31f",
+    "ut": 1628435261,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the final day",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Olympics",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "First Liver Transplant at J'pura Hospital",
     "source": "www.dailymirror.lk",
     "snippet": "Seen here a medical team of the Sri Jayewardenepura and Colombo National Hospital performing a successful Liver Transplant at the Sri Jayewardenepura Hospital. It is the first Liver Transplant performed at the Jayewardenepura Hospital.",
@@ -3495,6 +3570,25 @@
   },
   {
     "date": "2021-08-08",
+    "title": "Ranil calls for dissolution of Covid-19 taskforce",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Prime Minister Ranil Wickremesinghe called for the dissolution of the COVID 19 taskforce and assign decision making powers to institutions which are constitutionally empowered to handle them. .",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-calls-for-dissolution-of-Covid-19-taskforce/108-217794",
+    "url_hash": "60fa4bd9ad63a30ada267738ff672eea",
+    "ut": 1628438861,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Successful Liver Transplant surgery performed at J'Pura Hospital",
     "source": "www.dailymirror.lk",
     "snippet": "A medical team has performed a successful Liver Transplant surgery for the first time in the Sri Jayewardenepura Hospital, its Director Dr. Rathnasiri A. Hewage said. ..",
@@ -3611,6 +3705,92 @@
     "title": "Probe underway into religious gathering in Batti",
     "source": "www.dailymirror.lk",
     "snippet": "A probe is underway after a Hindu religious gathering was held in a temple in Batticaloa today after pictures of the commemoration circulated online sparking anger as to why it was held amidst a rapidly spreading COVID-19 pandemic.",
+    "url": "https://www.dailymirror.lk/breaking_news/Probe-underway-into-religious-gathering-in-Batti/108-217796",
+    "url_hash": "4b9452d040126dc61a214bee65297cb3",
+    "ut": 1628442461,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Batticaloa",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "30% of Covid-19 victims in Colombo infected with Delta variant",
+    "source": "www.dailymirror.lk",
+    "snippet": "Around 30 percent of the reported COVID 19 patients within Colombo City have been infected with the Delta variant, Chief Medical Officer Colombo Municipal Council (CMC) Dr. Ruwan Wijayamuni said today.",
+    "url": "https://www.dailymirror.lk/breaking_news/30-of-Covid-19-victims-in-Colombo-infected-with-Delta-variant/108-217793",
+    "url_hash": "25f5d1909f749d453c5c753ab97f154c",
+    "ut": 1628442461,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "Around 30 percent",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo City",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ruwan Wijayamuni",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Probe underway into religious gathering in Batti",
+    "source": "www.dailymirror.lk",
+    "snippet": "A probe is underway after a Hindu religious gathering was held in a temple in Batticaloa today after pictures of the commemoration circulated online sparking anger as to why it was held amidst a rapidly spreading COVID-19 pandemic.",
     "url": "https://www.dailymirror.lk/latest_news/Probe-underway-into-religious-gathering-in-Batti/342-217796",
     "url_hash": "275e29ddbb02bfefad27919c9362ba27",
     "ut": 1628443098,
@@ -3637,6 +3817,102 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Their Master's Voice",
+    "source": "www.ft.lk",
+    "snippet": "As Sri Lanka recorded nearly 100 deaths per day from COVID-19 and infection rates spiral uncontrollably, the country's intelligence services have conclusively determined that the wave of protests against Government policies were to blame for the spread of the deadly virus.",
+    "url": "https://www.ft.lk/ft_view__editorial/Their-Master-s-Voice/58-721454",
+    "url_hash": "4941aaa2169e90051cc500c25c13fc70",
+    "ut": 1628447406,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly 100",
+        "start_end": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Debate on Sri Lankan economy: Harsha De Silva and Bandula Gunawardena",
+    "source": "www.ft.lk",
+    "snippet": "The basic premise of this debate was to discuss the measures available, being taken to reduce the gap between consumption and the earnings, and in turn to improve the current account balance i.e. primarily the expenditure and revenue of imports and exports respectively.",
+    "url": "https://www.ft.lk/opinion/Debate-on-Sri-Lankan-economy-Harsha-De-Silva-and-Bandula-Gunawardena/14-721455",
+    "url_hash": "af3929f3c83ce319d7396163fd28ff8a",
+    "ut": 1628447406,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-08",
+    "title": "The Latest: Israel sees high demand for 3rd vaccine shots",
+    "source": "www.sfgate.com",
+    "snippet": "Israeli Prime Minister Naftali Bennett says people are rushing to get a third vaccine shot as protection from the surging delta variant of the coronavirus. Bennett pointed to government statistics Sunday showing that more than 420,",
+    "url": "https://www.sfgate.com/business/article/The-Latest-Israel-sees-high-demand-for-3rd-16372674.php",
+    "url_hash": "71b04dbf61b08b2ca9429dd0f5bec4f9",
+    "ut": 1628449622,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Israeli",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Naftali Bennett",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bennett",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 420",
+        "start_end": [
+          34,
+          37
         ]
       }
     ]
