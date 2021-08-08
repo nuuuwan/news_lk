@@ -554,5 +554,177 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "GRI producing performance-driven sustainable speciality tyres",
+    "source": "www.sundaytimes.lk",
+    "snippet": "GRI, focusing on agriculture, construction and material handling industries; produces high-performance speciality tyres that have exceeded customer expectations. A Sri Lankan company with offices in nine countries and sales in over 50 countries around the world,",
+    "url": "https://www.sundaytimes.lk/210808/business-times/gri-producing-performance-driven-sustainable-speciality-tyres-451476.html",
+    "url_hash": "d4ffc9956ea685283d421a449fe374bb",
+    "ut": 1628385545,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "GRI",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 50",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Teachers might cave in on street protests but not boycotts",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Under growing pressure from the health sector, teacher-principal unions will discuss today whether to continue with protest marches and vehicle processions in coming weeks - but they vow to continue boycotts on online teaching and exam duties.",
+    "url": "https://www.sundaytimes.lk/210808/news/teachers-might-cave-in-on-street-protests-but-not-boycotts-451828.html",
+    "url_hash": "9e2f9297515ac29e0369fbd6ccd67d4c",
+    "ut": 1628385620,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "coming weeks",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Defiant Indian intruders dodge undersea bus barrier, navy helpless",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Nearly two months on, Indian fishermen are navigating into Sri Lankan waters. They sail closer to the Northern sea shore for bottom trawling and then damage the nets of local fishermen. \"Indian fishermen are able to navigate [around] the discarded buses dumped on the seabed,",
+    "url": "https://www.sundaytimes.lk/210808/news/defiant-indian-intruders-dodge-undersea-bus-barrier-navy-helpless-451843.html",
+    "url_hash": "6b413fb4e7d8b76d18b4ad70313f0cfb",
+    "ut": 1628386745,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Nearly two months",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "The Latest: COVID-19 hospitalizations increase in Arizona",
+    "source": "www.sfgate.com",
+    "snippet": "PHOENIX \u2014 Arizona on Saturday reported more than 2,000 additional COVID-19 cases for the fourth straight day as the number of virus-related hospitalizations continued to rise. The U.S. state's coronavirus dashboard reported 2,",
+    "url": "https://www.sfgate.com/news/article/The-Latest-New-US-virus-cases-top-100K-1st-time-16371307.php",
+    "url_hash": "e233eeaf878174ba96860a1af1091080",
+    "ut": 1628387596,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 2,000",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the fourth straight day",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
   }
 ]
