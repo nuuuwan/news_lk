@@ -884,6 +884,25 @@
   },
   {
     "date": "2021-08-08",
+    "title": "The Latest: Denver ready to discipline unvaccinated police",
+    "source": "www.mysanantonio.com",
+    "snippet": "Denver's top public safety leader says he is prepared to discipline police officers, sheriff's deputies and firefighters who don't follow the mandate that all city employees get vaccinated against COVID-19,",
+    "url": "https://www.mysanantonio.com/business/article/The-Latest-New-US-virus-cases-top-100K-1st-time-16371307.php",
+    "url_hash": "c63c3485d000ed33cc9326d7afb2d72e",
+    "ut": 1628388473,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denver",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Extracurricular Activities: Royal Institute excelling beyond the classroom",
     "source": "www.sundaytimes.lk",
     "snippet": "At Royal Institute, we firmly believe extra-curricular activities to be extremely significant as they bestow all students the opportunity to excel in an area that does not directly involve academics.",
@@ -989,6 +1008,49 @@
   },
   {
     "date": "2021-08-08",
+    "title": "Another 1.86 Mn Sinopharm vaccines arrive",
+    "source": "www.dailymirror.lk",
+    "snippet": "Another consignment containing 1.86 million Chinese Sinopharm vaccines was brought into the country this morning to control the spreading of COVID-19. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-1-86-Mn-Sinopharm-vaccines-arrive/108-217773",
+    "url_hash": "fee4752710056f5f19f693249c0387c4",
+    "ut": 1628392057,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "1.86 million",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Man uploads over 500 child porn videos, images to cyberspace remanded, 10 others traced",
     "source": "www.dailymirror.lk",
     "snippet": "Making the first such arrest after establishing of a new unit to trace the culprits who upload child pornographic videos and photographs to the internet or social media, a 25-year old man who had uploaded more than 500 videos and photographs was arrested ...",
@@ -1053,6 +1115,76 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Delta variant had spread islandwide: DDGHS",
+    "source": "www.newsfirst.lk",
+    "snippet": "Sri Lanka's laboratory facilities are being upgraded to identify those who are infected with the rapidly spreading Delta COVID-19 - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/08/delta-variant-had-spread-islandwide-ddghs/",
+    "url_hash": "917d6e23eaccae71f6a4d48b277ae4f4",
+    "ut": 1628395965,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "7 IMDb's highest-rated spy movies of all time on Hungama, Amazon Prime Video & YouTube that'll grab your attention",
+    "source": "www.gqindia.com",
+    "snippet": "If you are looking for a thrilling adventure, here are IMDb's top-rated spy movies on Hungama, Amazon Prime Video and YouTube that will entertain you",
+    "url": "https://www.gqindia.com/binge-watch/collection/imdb-highest-rated-spy-movies-all-time-hungama-amazon-prime-video-youtube-grab-your-attention/",
+    "url_hash": "4aafaf13271fadcb3d09f559ba0b25ee",
+    "ut": 1628396997,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Hungama",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Amazon Prime Video",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "YouTube",
+        "start_end": [
+          25,
+          26
         ]
       }
     ]
