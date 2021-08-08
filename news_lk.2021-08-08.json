@@ -420,6 +420,132 @@
   },
   {
     "date": "2021-08-08",
+    "title": "Another 1.86 million doses of Sinophram reach Sri Lanka",
+    "source": "www.hirunews.lk",
+    "snippet": "Another 1.86 million doses of Sinopharm vaccine have been brought to the island. It is reported that the consignment of vaccines was brought to Sri Lanka by a SriLankan Airlines aircraft. The health department stated that the number of Sinophram vaccines received in the country with this stock of vaccines stands at 14.",
+    "url": "https://www.hirunews.lk/english/279151/another-1-86-million-doses-of-sinophram-reach-sri-lanka",
+    "url_hash": "dd4e598061abb69615763fbfdce73e16",
+    "ut": 1628384888,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "1.86 million",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinophram",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          54,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Legal, not cricket, SLC's new battle",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka Cricket's (SLC) revenue took a sharp dip in 2020 following the cancellation of as many as six inbound tours from the seven listed due to the pandemic. But the Board's legal expenses during the year skyrocketed with annual accounts reporting fees paid of Rs114mn.",
+    "url": "https://www.islandcricket.lk/news/legal-not-cricket-slcs-new-battle/",
+    "url_hash": "57c8868bc4475161cd6e39bf25cf4b45",
+    "ut": 1628384888,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket's",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "as many as six",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the year",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "annual",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Govt. to procure organic inputs for Maha season",
     "source": "www.sundaytimes.lk",
     "snippet": "The government has selected a bidder from China for the import of organic-based fertiliser inputs initially for paddy cultivation alone with tests expected to commence ahead of the Maha season. The selection of bidders has already been finalised and the cabinet memorandum will be submitted tomorrow (Monday) on the intention of the award to the selected bidder,",
@@ -723,6 +849,111 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Extracurricular Activities: Royal Institute excelling beyond the classroom",
+    "source": "www.sundaytimes.lk",
+    "snippet": "At Royal Institute, we firmly believe extra-curricular activities to be extremely significant as they bestow all students the opportunity to excel in an area that does not directly involve academics.",
+    "url": "https://www.sundaytimes.lk/210808/education/extracurricular-activities-royal-institute-excelling-beyond-the-classroom-451676.html",
+    "url_hash": "484b4c16955d39c86c57d17b5d7eac30",
+    "ut": 1628388608,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Royal Institute",
+        "start_end": [
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Navy takes hold of smuggled stock of sea cucumber worth over Rs. 16 million",
+    "source": "news.lk",
+    "snippet": "A special operation conducted by Navy in the beach area of Keerimundalama, Kalpitiya (04th ) led to the apprehension of 07 suspects who were attempting to smuggle about 820kg of dried sea cucumber into the island by sea routes.",
+    "url": "https://news.lk/news/political-current-affairs/item/32701-navy-takes-hold-of-smuggled-stock-of-sea-cucumber-worth-over-rs-16-million",
+    "url_hash": "34063d462387c9f9ee9b76a97b4c14ba",
+    "ut": 1628390888,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Keerimundalama",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "04th",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "07",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 820kg",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Sri Lanka finance minister extols virtues of food import bans, domestic drugs",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lanka has had had 'successful results' from controlling imports of 16 types of foods, and similar efforts are being made in the pharmaceuticals sector to 'save foreign exchange' Finance Minister Basil Rajapaksa had said.",
+    "url": "https://economynext.com/sri-lanka-finance-minister-extols-virtues-of-food-import-bans-domestic-drugs-84689/",
+    "url_hash": "6067d43849a1910746308c0ff94f6d3e",
+    "ut": 1628391984,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ECONOMYNEXT - Sri Lanka",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          38,
+          40
         ]
       }
     ]
