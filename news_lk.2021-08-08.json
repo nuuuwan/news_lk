@@ -3592,6 +3592,49 @@
     "title": "Successful Liver Transplant surgery performed at J'Pura Hospital",
     "source": "www.dailymirror.lk",
     "snippet": "A medical team has performed a successful Liver Transplant surgery for the first time in the Sri Jayewardenepura Hospital, its Director Dr. Rathnasiri A. Hewage said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Successful-Liver-Transplant-surgery-performed-at-JPura-Hospital/108-217792",
+    "url_hash": "6f361ab6d02301d84144fc73e30b9ae6",
+    "ut": 1628438895,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Liver Transplant",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Sri Jayewardenepura Hospital",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rathnasiri A. Hewage",
+        "start_end": [
+          23,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Successful Liver Transplant surgery performed at J'Pura Hospital",
+    "source": "www.dailymirror.lk",
+    "snippet": "A medical team has performed a successful Liver Transplant surgery for the first time in the Sri Jayewardenepura Hospital, its Director Dr. Rathnasiri A. Hewage said. ..",
     "url": "https://www.dailymirror.lk/latest_news/Successful-Liver-Transplant-surgery-performed-at-JPura-Hospital/342-217792",
     "url_hash": "ae701477283a3f77d81e37a93cc2d3a1",
     "ut": 1628438898,
@@ -3913,6 +3956,111 @@
         "start_end": [
           34,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Oil palm in Sri Lanka: Cornucopia or a Pandora's Box?",
+    "source": "www.ft.lk",
+    "snippet": "The introduction of oil palm has created much controversy and polarisation in Sri Lanka in recent times, especially with the decision to remove oil palm in a phased manner and replace it with rubber.",
+    "url": "https://www.ft.lk/columns/Oil-palm-in-Sri-Lanka--Cornucopia-or-a-Pandora-s-Box-/4-721463",
+    "url_hash": "e332c6ddc9f6c5ab01f67efc7abc6b93",
+    "ut": 1628449718,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Coronavirus latest: Delta spread forces US states to act on masks and jabs",
+    "source": "www.ft.com",
+    "snippet": "The spread of the Delta strain of the virus that causes Covid-19 through the US has prompted a flurry of state-level proclamations over the weekend relating to mask mandates and vaccinations. The US is averaging about 100,",
+    "url": "https://www.ft.com/content/11117011-442e-43b4-b7d8-dcd31867ed09",
+    "url_hash": "ace980ed2ee36a19d23f1b506d2df80b",
+    "ut": 1628451158,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weekend",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "about 100",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Govt ready to seek assistance of private sector health staff if required - Dr. Herath",
+    "source": "dailynews.lk",
+    "snippet": "The Government will get the assistance of private sector health staff, retired health staff and the Tri-Forces if the necessity arises, Health Ministry Media Spokesman and Deputy Health Services Director General Dr.",
+    "url": "https://dailynews.lk/2021/08/09/local/256119/govt-ready-seek-assistance-private-sector-health-staff-if-required-dr-herath",
+    "url_hash": "53848b1da134bdfc36dc0dfce88d9d5c",
+    "ut": 1628451740,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Tri-Forces",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Ministry Media",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
