@@ -1121,6 +1121,73 @@
   },
   {
     "date": "2021-08-08",
+    "title": "Sri Lanka says no lockdown but restrictions imposed amid COVID-19 case spike",
+    "source": "www.globaltimes.cn",
+    "snippet": "People line up to receive the Sinopharm COVID-19 vaccine in Colombo, Sri Lanka, on Aug. 7, 2021. Sri Lanka is in the midst of a third wave of the COVID-19 pandemic with medical officials warning that the Delta Variant may be spreading beyond control.",
+    "url": "https://www.globaltimes.cn/page/202108/1230838.shtml",
+    "url_hash": "310cd7341e1ce978cbf1ca0bb84e6b3f",
+    "ut": 1628395715,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Aug. 7, 2021",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Delta Variant",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Delta variant had spread islandwide: DDGHS",
     "source": "www.newsfirst.lk",
     "snippet": "Sri Lanka's laboratory facilities are being upgraded to identify those who are infected with the rapidly spreading Delta COVID-19 - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
@@ -1185,6 +1252,146 @@
         "start_end": [
           25,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Postal service restricted again",
+    "source": "www.dailymirror.lk",
+    "snippet": "It has been decided to restrict the activities of the Postal Department considering the COVID-19 situation. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Postal-service-restricted-again/108-217774",
+    "url_hash": "a2e2ea6acc811b9746d042545de6e7d2",
+    "ut": 1628399276,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Postal Department",
+        "start_end": [
+          9,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Administering booster shots on fully vaccinated people discussed",
+    "source": "www.dailymirror.lk",
+    "snippet": "Giving a Covid-19 vaccine booster shot for fully vaccinated people was discussed with President Gotabaya Rajapaksa at the Presidential Task Force on Prevention of COVID-19, Army Commander General Shavendra Silva said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Administering-booster-shots-on-fully-vaccinated-people-discussed/108-217775",
+    "url_hash": "b93233599812cb909602e22926e87ad0",
+    "ut": 1628402876,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Presidential Task Force on Prevention of COVID-19",
+        "start_end": [
+          17,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Army-manned COVID vaccination centres operative today",
+    "source": "www.adaderana.lk",
+    "snippet": "COVID-19 vaccination centres manned by the Sri Lanka Army are in operation today (August 08) across the island",
+    "url": "http://www.adaderana.lk/news/75993/army-manned-covid-vaccination-centres-operative-today",
+    "url_hash": "9a0b899abdc149250e9e219d58939af3",
+    "ut": 1628402886,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 08",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Sri Lanka's central bank 2020 profits up 14-pct to Rs63bn",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank has earned profits of Rs63.4 billion rupees in 2020, in cash and depreciation gains after providing for 6.8 billion rupees in staff benefits, official data showed.",
+    "url": "https://economynext.com/sri-lankas-central-bank-2020-profits-up-14-pct-to-rs63bn-84691/",
+    "url_hash": "c2b06ca4eda88e06f38fbe73a2a3fc31",
+    "ut": 1628403265,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Rs63.4 billion",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6.8 billion",
+        "start_end": [
+          23,
+          25
         ]
       }
     ]
