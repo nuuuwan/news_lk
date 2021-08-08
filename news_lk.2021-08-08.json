@@ -2166,6 +2166,33 @@
   },
   {
     "date": "2021-08-08",
+    "title": "First contacts should get tested 3-5 days after exposure: Expert",
+    "source": "www.dailymirror.lk",
+    "snippet": "The close contacts of COVID-19 patients should get themselves tested 3-5 days after exposure where earlier recommendation was 5-7 days, a local medical expert said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/First-contacts-should-get-tested-3-5-days-after-exposure-Expert/342-217784",
+    "url_hash": "2f9107f13ee3decf79bff1b0cd751a97",
+    "ut": 1628413771,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "3-5 days",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "5-7 days",
+        "start_end": [
+          20,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Over 5,300kg stock of dried turmeric smuggled by sea",
     "source": "www.hirunews.lk",
     "snippet": "Sri Lanka Coast Guard (SLCG) seized an Indian dhow with over 5300kg of dried turmeric in seas off Chilaw Point yesterday (07th). The suspicious Indian dhow was in Sri Lankan waters, via the International Maritime Boundary Line (IMBL),",
@@ -2581,6 +2608,132 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "The Latest: Israel sees high demand for 3rd vaccine shots",
+    "source": "www.yahoo.com",
+    "snippet": "Israeli Prime Minister Naftali Bennett says people are rushing to get a third vaccine shot as protection from the surging delta variant of the coronavirus. Bennett pointed to government statistics Sunday showing that more than 420,",
+    "url": "https://www.yahoo.com/news/latest-israel-sees-high-demand-115236648.html",
+    "url_hash": "3862f0c850f001fab817a0667412cb64",
+    "ut": 1628425747,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Israeli",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Naftali Bennett",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bennett",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 420",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Second batch of 727,380 doses of AstraZeneca arrive in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "The second batch of 727,380 doses of the AstraZeneca vaccine arrived in Sri Lanka from Japan today (Saturday).   This bri",
+    "url": "https://menafn.com/1102585468/Second-batch-of-727380-doses-of-AstraZeneca-arrive-in-Sri-Lanka",
+    "url_hash": "d53841e1a95c5d8354eb02a2f02f92c9",
+    "ut": 1628426043,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "727,380",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AstraZeneca",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
