@@ -2308,6 +2308,33 @@
   },
   {
     "date": "2021-08-08",
+    "title": "First contacts should get tested 3-5 days after exposure: Expert",
+    "source": "www.dailymirror.lk",
+    "snippet": "The close contacts of COVID-19 patients should get themselves tested 3-5 days after exposure whereas earlier recommendation was 5-7 days, a local medical expert said. ..",
+    "url": "https://www.dailymirror.lk/top_story/First-contacts-should-get-tested-3-5-days-after-exposure-Expert/155-217782",
+    "url_hash": "73e1a9725feb5d1df635ea7a98c248d9",
+    "ut": 1628413698,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "3-5 days",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "5-7 days",
+        "start_end": [
+          20,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Book review: A tale of loss, racism and divided loyalties",
     "source": "www.msn.com",
     "snippet": "Richard Klinzman says this moving story is built around the themes of migrant life and the racism associated with it.",
@@ -2582,6 +2609,49 @@
     "url": "https://www.dailymirror.lk/latest_news/2-563-more-COVID-19-patients-recover/342-217785",
     "url_hash": "342c1d5ea19196e2c01558998002617a",
     "ut": 1628420879,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "2,563",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "293,357",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "2,563 more COVID-19 patients recover",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 2,563 more COVID-19 patients recovered and were discharged from hospital increasing the total number of recoveries in Sri Lanka to 293,357, the Health Ministry said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/2-563-more-COVID-19-patients-recover/108-217785",
+    "url_hash": "798be37fbf3f035ea7f3c28aaeb4d13d",
+    "ut": 1628420898,
     "ent_info_list": [
       {
         "label": "CARDINAL",
@@ -3425,6 +3495,49 @@
   },
   {
     "date": "2021-08-08",
+    "title": "Successful Liver Transplant surgery performed at J'Pura Hospital",
+    "source": "www.dailymirror.lk",
+    "snippet": "A medical team has performed a successful Liver Transplant surgery for the first time in the Sri Jayewardenepura Hospital, its Director Dr. Rathnasiri A. Hewage said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Successful-Liver-Transplant-surgery-performed-at-JPura-Hospital/342-217792",
+    "url_hash": "ae701477283a3f77d81e37a93cc2d3a1",
+    "ut": 1628438898,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Liver Transplant",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Sri Jayewardenepura Hospital",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rathnasiri A. Hewage",
+        "start_end": [
+          23,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "Sooriyawewa Special Cor. Nuwan Jayasekera",
     "source": "dailynews.lk",
     "snippet": "Opposition Leader Sajith Premadasa met the people of five housing projects at Mattala to look into their grievances.People living in 213 houses in a number of villages belonging to several housing...",
@@ -3489,6 +3602,41 @@
         "start_end": [
           8,
           10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "Probe underway into religious gathering in Batti",
+    "source": "www.dailymirror.lk",
+    "snippet": "A probe is underway after a Hindu religious gathering was held in a temple in Batticaloa today after pictures of the commemoration circulated online sparking anger as to why it was held amidst a rapidly spreading COVID-19 pandemic.",
+    "url": "https://www.dailymirror.lk/latest_news/Probe-underway-into-religious-gathering-in-Batti/342-217796",
+    "url_hash": "275e29ddbb02bfefad27919c9362ba27",
+    "ut": 1628443098,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Batticaloa",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
