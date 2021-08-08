@@ -1810,6 +1810,81 @@
   },
   {
     "date": "2021-08-07",
+    "title": "Coronavirus death toll in Sri Lanka crosses the 5000 mark",
+    "source": "colombogazette.com",
+    "snippet": "The coronavirus death toll in Sri Lanka crossed the 5000 mark today. The Ministry of Health said that another 98 deaths linked to the virus were confirmed today. Accordingly, the death toll in Sri Lanka from the virus rose to 5,",
+    "url": "https://colombogazette.com/2021/08/07/coronavirus-death-toll-in-sri-lanka-crosses-the-5000-mark/",
+    "url_hash": "2485187e7f8930f340e455185549ab39",
+    "ut": 1628341739,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5000",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "98",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-07",
     "title": "COVID death rate increases to 1.5%",
     "source": "www.dailymirror.lk",
     "snippet": "In the wake of the number of people who succumb to COVID-19 is on the rise, the Fatality Rate in Sri Lanka has increased to 1.5%. ..",
