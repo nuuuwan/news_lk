@@ -655,6 +655,41 @@
   },
   {
     "date": "2021-08-09",
+    "title": "SL's war on delta only to worsen",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's war against the Delta variant which has exhausted the country's health system and overburdened hospitals is still in its formative stages and is only expected to worsen in the coming three weeks,",
+    "url": "https://www.dailymirror.lk/top_story/SLs-war-on-delta-only-to-worsen/155-217801",
+    "url_hash": "7eb62a63088f605579ed13187f505a0b",
+    "ut": 1628474869,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming three weeks",
+        "start_end": [
+          32,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "20 out of 37 bodies at Kalubowila Hospital mortuary were NON-COVID-19 deaths: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "State Minister of Production, Supply and Regulation of Pharmaceuticals Prof. Channa Jayasumana said 20 out 37 bodies kept at the refrigerated cabinets of the mortuary of Kalubowila Hospital (Colombo-south Hospital) were non- .",
@@ -843,6 +878,159 @@
   },
   {
     "date": "2021-08-09",
+    "title": "100,000 vials of Pfizer vaccines arrive",
+    "source": "www.dailymirror.lk",
+    "snippet": "A consignment of 100,000 doses of Pfizer vaccine vials have been flown in to the country from the United States of America and freighted by Qatar Airways, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/100-000-vials-of-Pfizer-vaccines-arrive/342-217807",
+    "url_hash": "6f44f487e787a3de9402d10766bd9bb8",
+    "ut": 1628478469,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States of America",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Qatar Airways",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Reincarnation of Niroshan Dickwella!",
+    "source": "www.islandcricket.lk",
+    "snippet": "As his counterparts lose hope and seek different alternatives, former Sri Lanka wicketkeeper-batsman Niroshan Dickwella, now serving a one-year ban from international cricket, has begun rigorous training expecting to make a 'Steve Smith-style' comeback,",
+    "url": "https://www.islandcricket.lk/news/reincarnation-of-niroshan-dickwella/",
+    "url_hash": "5781062734b48f79ced0887c28a0b7ee",
+    "ut": 1628478479,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Niroshan Dickwella",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-year",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Steve Smith-style",
+        "start_end": [
+          39,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "People get vaccinated in Sri Lanka, as Delta variant spreads amid 3rd wave",
+    "source": "www.globaltimes.cn",
+    "snippet": "People lined up to get vaccinated in Sri Lanka in the midst of a third wave of the COVID-19 pandemic, with medical officials warning that the Delta variant may be spreading beyond control. The country's Health Ministry on Sunday received a new batch of Sinopharm vaccine from China as a mass scale vaccination program against the COVID-19 is underway in the country.",
+    "url": "https://www.globaltimes.cn/page/202108/1230930.shtml",
+    "url_hash": "3f424be50cede0fe4737bd0327b86a19",
+    "ut": 1628478507,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Ministry",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Sri Lanka Coronavirus vaccinates 50-pct of population with one dose, 13.4-pct two doses",
     "source": "economynext.com",
     "snippet": "Sri Lanka has vaccinated 50.5 percent of the population or 11.08 million persons with the one dose of Coronavirus vaccine with 40 percent coming from Sinopharm and 13.4 percent with a second dose.",
@@ -1014,6 +1202,427 @@
         "start_end": [
           52,
           53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Covid patients sans complications treated at home from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Treatment for COVID infected people who do not have complications will be given at home from today (9), the health ministry said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Covid-patients-sans-complications-treated-at-home-from-today/342-217821",
+    "url_hash": "a1e77b5e3c369c85b5e0c6eff72f448f",
+    "ut": 1628482069,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Showers expected in several provinces",
+    "source": "dailynews.lk",
+    "snippet": "Showers will occur at times in Western, Sabaragamuwa, North-western and Central provinces and in Galle and Matara districts, stated the Meteorology Department. Fairly heavy showers above 75 mm can be expected at some places in these areas.",
+    "url": "http://dailynews.lk/2021/08/09/local/256136/showers-expected-several-provinces",
+    "url_hash": "f86ad9eb7349ee5f993c4b05bace78d3",
+    "ut": 1628482074,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Meteorology Department",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "above 75 mm",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Video: Rahul Dravid Teaches Kannada to British High Commissioner to India | WATCH",
+    "source": "www.msn.com",
+    "snippet": "The former batsman was seen playing the role of teacher to British High Commissioner to India, Alex Ellis as he taught him a phrase from the Kannada language, Bega Odi, which means one run.",
+    "url": "https://www.msn.com/en-in/sports/cricket/video-rahul-dravid-teaches-kannada-to-british-high-commissioner-to-india-watch/ar-AAN5Kul",
+    "url_hash": "3fe3e87d0d8177349fc8cfc253c41976",
+    "ut": 1628482079,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alex Ellis",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kannada",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bega Odi",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Another 'prodigal son' leaves for US?",
+    "source": "www.islandcricket.lk",
+    "snippet": "As one is reportedly making arrangements to leave for U.S.A. already, as we exclusively reported last week, another of the three players, now quipped 'three prodigal sons' now serving a one-year ban,",
+    "url": "https://www.islandcricket.lk/news/another-prodigal-son-leaves-for-us/",
+    "url_hash": "df8ca6453165924a7612465df2174c1f",
+    "ut": 1628482079,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.A.",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-year",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Afghanistan seeks Sri Lanka's involvement as fighting escalates",
+    "source": "colombogazette.com",
+    "snippet": "By Easwaran Rutnam\u00a0 Afghanistan has called on Sri Lanka to get involved as the Taliban continues its fight to capture major cities.\u00a0 The Ambassador of Afghanistan to Sri Lanka, M. Ashraf Haidari said that Sri Lanka more than any other country can play a bigger role in the Afghan conflict.",
+    "url": "https://colombogazette.com/2021/08/09/afghanistan-seeks-sri-lankas-involvement-as-fighting-escalates/",
+    "url_hash": "d04667e097027fe141216888261aa29e",
+    "ut": 1628482102,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ashraf Haidari",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          52,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "More Pfizer jabs arrive in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Another consignment of US-manufactured Pfizer COVID-19 vaccines has arrived in Sri Lanka today (August 09). The Qatar Airways flight carrying the doses has arrived at the Bandaranaike International Airport at around 02.",
+    "url": "http://www.adaderana.lk/news/76012/more-pfizer-jabs-arrive-in-sri-lanka",
+    "url_hash": "0d5558b1b6c4043f96ef200e0d75d4df",
+    "ut": 1628482444,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 09",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Qatar Airways",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          30,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "around 02",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Sri Lanka to be discussed on first day of UN session",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka is to be discussed on the opening day of the UN Human Rights Council (UNHRC) Session in September. The draft program of work shows Sri Lanka on the agenda on 13th September, the opening day of the 48th Session of the UNHRC in Geneva.",
+    "url": "https://colombogazette.com/2021/08/09/sri-lanka-to-be-discussed-on-first-day-of-un-session/",
+    "url_hash": "824f898477a6684c6a8c3b96956ccb67",
+    "ut": 1628482522,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the opening day",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the UN Human Rights Council (UNHRC) Session",
+        "start_end": [
+          11,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "13th September",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the opening day of the 48th Session",
+        "start_end": [
+          38,
+          45
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UNHRC",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          49,
+          50
         ]
       }
     ]
