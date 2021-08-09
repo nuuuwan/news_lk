@@ -779,6 +779,25 @@
   },
   {
     "date": "2021-08-08",
+    "title": "The Latest: Denver ready to discipline unvaccinated police",
+    "source": "www.chron.com",
+    "snippet": "Denver's top public safety leader says he is prepared to discipline police officers, sheriff's deputies and firefighters who don't follow the mandate that all city employees get vaccinated against COVID-19,",
+    "url": "https://www.chron.com/news/article/The-Latest-New-US-virus-cases-top-100K-1st-time-16371307.php",
+    "url_hash": "2a72ed9f1e4ce46351e4c33ea330d9e2",
+    "ut": 1628385208,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denver",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
     "title": "GRI producing performance-driven sustainable speciality tyres",
     "source": "www.sundaytimes.lk",
     "snippet": "GRI, focusing on agriculture, construction and material handling industries; produces high-performance speciality tyres that have exceeded customer expectations. A Sri Lankan company with offices in nine countries and sales in over 50 countries around the world,",
@@ -4546,6 +4565,255 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "reporting from Japan",
+    "source": "www.dailynews.lk",
+    "snippet": "TOKYO, August 8 - The USA had a comfortable 3-0 win over Brazil in the final of the Women's volleyball match to take the Gold Medal of the 2020 Olympic Games at the Ariake Arena today.Brazil could... Tokyo, August 8 - Great Britain's Lauren Price beat China's Qian Li on points in the Women's middleweight boxing final on the last day of the Tokyo 2020 Olympic Games today....",
+    "url": "http://www.dailynews.lk/line/reporting-japan",
+    "url_hash": "d5887932318040fdf2a60941c9112632",
+    "ut": 1628464812,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "TOKYO",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 8 - The USA",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Brazil",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Gold Medal of",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Olympic Games",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Ariake Arena",
+        "start_end": [
+          36,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Brazil",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 8 - Great Britain's",
+        "start_end": [
+          46,
+          52
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lauren Price",
+        "start_end": [
+          52,
+          54
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          55,
+          56
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qian Li",
+        "start_end": [
+          57,
+          59
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last day",
+        "start_end": [
+          69,
+          72
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Tokyo 2020 Olympic Games",
+        "start_end": [
+          73,
+          78
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          78,
+          79
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "'Sri Lanka best in South Asia with Climate Change mitigating effort'",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka is the best in South Asia to take efforts to mitigate the effects of Climate Change, Ambassador for Asia-Pacific and the South Asia Region at the United Nations Office for Climate Change (COP26) Ken O'Flaherty said,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/sri-lanka-best-in-south-asia-with-climate-change-mitigating-effort/ar-AAN5fT5",
+    "url_hash": "3d40e9ae32b91c55f067f4e58cbef946",
+    "ut": 1628467173,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Asia-Pacific",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the South Asia Region",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations Office for Climate Change",
+        "start_end": [
+          30,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ken O'Flaherty",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-08",
+    "title": "CAA tuns down milk powder price hike request by MIA",
+    "source": "www.msn.com",
+    "snippet": "The Milk Powder Importers Association (MIA) yesterday said the repeated requests made from the Consumer Affairs Authority to increase the price of milk powder due to the price increase of milk powder in the world market,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/caa-tuns-down-milk-powder-price-hike-request-by-mia/ar-AAN5fT0",
+    "url_hash": "aa5b0b1fe6c028e490de8e89afefbb3e",
+    "ut": 1628467173,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "The Milk Powder Importers Association",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Consumer Affairs Authority",
+        "start_end": [
+          15,
+          19
         ]
       }
     ]
