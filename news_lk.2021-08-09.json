@@ -3141,6 +3141,57 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Saudi Arabia to reopen borders for vaccinated pilgrims to visit Mecca",
+    "source": "www.dailymirror.lk",
+    "snippet": "Saudi Arabia will begin accepting vaccinated foreign pilgrims seeking to visit the Islamic holy city of Mecca, state media reported Sunday, around 18 months after a border closure prompted by the coronavirus pandemic.",
+    "url": "https://www.dailymirror.lk/breaking_news/Saudi-Arabia-to-reopen-borders-for-vaccinated-pilgrims-to-visit-Mecca/108-217858",
+    "url_hash": "ef4508c5166853a3436fd44340c704e6",
+    "ut": 1628489278,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Saudi Arabia",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mecca",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "around 18 months",
+        "start_end": [
+          23,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Amaraweera tells CEA to submit report on all unauthorized constructions in Gannoruwa",
     "source": "www.dailymirror.lk",
     "snippet": "Environment Minister Mahinda Amaraweera instructed the Central Environmental Authority (CEA) to submit a report on all unauthorized construction in the Gannoruwa area in Kandy and within the boundaries of the Mahaweli River in the Kandy city suburbs.",
@@ -4253,6 +4304,41 @@
         "start_end": [
           15,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "EDB's Boat Show Sri Lanka 2021 to go virtual",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka will host its first ever virtual boat show come October with the aim of providing a single platform for all related business sectors involved directly and indirectly in the boat and ship building industry to showcase their products and services.",
+    "url": "https://www.dailymirror.lk/business/EDBs-Boat-Show-Sri-Lanka-2021-to-go-virtual/215-217868",
+    "url_hash": "79b27ddae50fce46a83f862b266756b9",
+    "ut": 1628500078,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          11,
+          12
         ]
       }
     ]
@@ -5943,6 +6029,41 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Hard to operate trains due to staff infected by COVID: SLSMU",
+    "source": "www.dailymirror.lk",
+    "snippet": "It is difficult to maintain the train service due to COVID infection to 12 of the railway department staff, including station masters and junior staff members of the Railway Control Office, the Sri Lanka Station Masters' Union (SLSMU) said.",
+    "url": "https://www.dailymirror.lk/latest_news/Hard-to-operate-trains-due-to-staff-infected-by-COVID-SLSMU/342-217878",
+    "url_hash": "e2f20c15501a242d81bd096e5246d127",
+    "ut": 1628510878,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Railway Control Office",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Station Masters' Union",
+        "start_end": [
+          33,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Rs. 10 mn for traffic police to buy test kits to net drunk drivers",
     "source": "www.dailymirror.lk",
     "snippet": "The National Council for Road Safety, which is under the Transport Ministry, today provided Rs. 10 million to the Sri Lanka Police to purchase test kits to apprehend errant motorists who drive after consuming alcohol.",
@@ -6735,6 +6856,57 @@
   },
   {
     "date": "2021-08-09",
+    "title": "111 more die of COVID-19: Death toll surges to 5,222",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 111 more COVID-19 related deaths that occurred yesterday (08) were confirmed by the Director-General of Health Services today pushing the death toll to 5,222. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/111-more-die-of-COVID-19-Death-toll-surges-to-5-222/108-217882",
+    "url_hash": "99f1a436df956d1bca6cb5a0534f5a9d",
+    "ut": 1628518078,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "111",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "08",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,222",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "The Latest: France's virus pass required for cafes, trains",
     "source": "www.bowenislandundercurrent.com",
     "snippet": "PARIS \u2014 France is now requiring people to show a QR code proving they have a special virus pass before they can enjoy restaurants and cafes or travel across the country.",
@@ -7058,6 +7230,49 @@
   },
   {
     "date": "2021-08-09",
+    "title": "IUBF in protest...",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Inter-University Bhikku Federation (IUBF) today staged a protest outside the University of Jayawardenapura University in protest of Kotelawala Bill and urging the authorities to release arbitrarily arrested students union leaders.",
+    "url": "https://www.dailymirror.lk/caption_story/IUBF-in-protest/110-217895",
+    "url_hash": "ec48e13f9096c2350e4ed1700d4921cc",
+    "ut": 1628528878,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Inter-University Bhikku Federation",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University of Jayawardenapura University",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kotelawala Bill",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "The Latest: Louisiana governor fasting, praying over virus",
     "source": "www.bowenislandundercurrent.com",
     "snippet": "COLOMBO, Sri Lanka \u2014 Sri Lanka has started a program to home-manage asymptomatic COVID-19 patients, abandoning its policy of hospitalizing almost everyone who tests positive, as the number of daily infections surges. People aged between 2 and 65 will be ...",
@@ -7101,6 +7316,41 @@
   },
   {
     "date": "2021-08-09",
+    "title": "The Latest: Louisiana governor fasting, praying over virus",
+    "source": "abcnews.go.com",
+    "snippet": "Louisiana Gov. John Bel Edwards, a devout Catholic, has begun three days of prayer and lunch fasting in honor of the state's health care workers and those sick with COVID-19",
+    "url": "https://abcnews.go.com/Business/wireStory/latest-louisiana-governor-fasting-praying-virus-79365266",
+    "url_hash": "c77e19628e565f4cd0e47421ec1102e4",
+    "ut": 1628528911,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Louisiana",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Bel Edwards",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Catholic",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Covid-19 update: SA records 6,787 new cases and 199 deaths",
     "source": "citizen.co.za",
     "snippet": "Sri Lanka begins mass cremations to clear a backlog of dead bodies from Covid-19 as cases surge across the island. The Japanese capital wakes to a huge bill and soaring virus cases after pulling ...",
@@ -7122,6 +7372,100 @@
         "start_end": [
           22,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: Mexico to ask US for more vaccine doses",
+    "source": "www.middletownpress.com",
+    "snippet": "MEXICO CITY \u2014 Mexico will ask the United States to send at least 3.5 million more doses of COVID-19 vaccine as the country faces a third wave of infections, President Andr\u00e9s Manuel L\u00f3pez Obrador said Monday.",
+    "url": "https://www.middletownpress.com/news/article/The-Latest-Australia-to-get-1st-Moderna-doses-16373695.php",
+    "url_hash": "995811ae9df750d6225ff26fc2bde79e",
+    "ut": 1628531191,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "MEXICO CITY",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 3.5 million",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Andr\u00e9s Manuel",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: France's virus pass required for cafes, trains",
+    "source": "www.chron.com",
+    "snippet": "PARIS \u2014 France is now requiring people to show a QR code proving they have a special virus pass before they can enjoy restaurants and cafes or travel across the country. The measure is part of a government plan to encourage more people to get a COVID-19 vaccine shot and slow down a surge in infections,",
+    "url": "https://www.chron.com/news/article/The-Latest-Australia-to-get-1st-Moderna-doses-16373695.php",
+    "url_hash": "a96615b3d3928b3ec6e3c96bb6bb3d79",
+    "ut": 1628532271,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "PARIS",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          2,
+          3
         ]
       }
     ]
