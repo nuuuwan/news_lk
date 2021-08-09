@@ -524,6 +524,41 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Ragama begins cremating 42 bodies Court order to be sought on another 40 remains",
+    "source": "www.dailymirror.lk",
+    "snippet": "The authorities in Ragama have begun cremating the bodies of 42 people who died from the coronavirus. The bodies were piled up at the Ragama Teaching Hospital morgue. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Ragama-begins-cremating-42-bodies-Court-order-to-be-sought-on-another-40-remains/342-217803",
+    "url_hash": "a4937c97485851354c39a2bf196b8c34",
+    "ut": 1628471284,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ragama",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "42",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ragama Teaching Hospital",
+        "start_end": [
+          24,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Sri Lanka private borrowings surge to Rs83bn in June, CB credit Rs124bn",
     "source": "economynext.com",
     "snippet": "Sri Lanka's private credit surged by 83 billion rupees in June 2021, while credit to government surged 170 billion rupees, of which 124 billion rupees were printed, official data showed.",
@@ -569,6 +604,84 @@
         "start_end": [
           25,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "20 out of 37 bodies at Kalubowila Hospital mortuary were NON-COVID-19 deaths: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "State Minister of Production, Supply and Regulation of Pharmaceuticals Prof. Channa Jayasumana said 20 out 37 bodies kept at the refrigerated cabinets of the mortuary of Kalubowila Hospital (Colombo-south Hospital) were non- .",
+    "url": "https://www.dailymirror.lk/latest_news/20-out-of-37-bodies-at-Kalubowila-Hospital-mortuary-were-NON-COVID-19-deaths-Minister/342-217804",
+    "url_hash": "5ab69dff2e084a8843fa81b017cbcea8",
+    "ut": 1628474884,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasumana",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "37",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kalubowila Hospital",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "SL's war on delta only to worsen",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's war against the Delta variant which has exhausted the country's health system and overburdened hospitals is still in its formative stages and is only expected to worsen in the coming three weeks,",
+    "url": "https://www.dailymirror.lk/latest_news/SLs-war-on-delta-only-to-worsen/342-217801",
+    "url_hash": "afd0ad95b3f8b18b971d44d44644e340",
+    "ut": 1628474884,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming three weeks",
+        "start_end": [
+          32,
+          36
         ]
       }
     ]
