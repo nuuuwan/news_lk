@@ -170,6 +170,33 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Ample space at Oddamavady COVID burial grounds for interment - MP Ahmed",
+    "source": "www.msn.com",
+    "snippet": "The recently set up Oddamavady COVID burial grounds in the Eastern Province has ample space available for interment of increasing number of virus affected remains, former Chief Minister and present Member of Parliament,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/ample-space-at-oddamavady-covid-burial-grounds-for-interment-mp-ahmed/ar-AAN5fT6",
+    "url_hash": "91ff532def5d308a507ff5b62027673a",
+    "ut": 1628467679,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "the Eastern Province",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "UN Ambassador on Climate Change praises Lanka for initiatives already taken",
     "source": "island.lk",
     "snippet": "By Ifham Nizam Sri Lanka is the best in South Asia as regards efforts being made to mitigate the effects of the climate emergency, Ken O'Flaherty, says Ambassador for Asia-Pacific and the South Asia Region at the United Nations Office for Climate Change (COP26).",
@@ -3187,6 +3214,33 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Protest by Port employees...",
+    "source": "www.dailymirror.lk",
+    "snippet": "The All Ceylon Joint Port Workers Union staged a protest outside the entrance to the Colombo Port over several demands including the selling of a land belonging to the Sri Lanka Ports Authority (SLPA) Pix by Pradeep Dilrukshana .",
+    "url": "https://www.dailymirror.lk/latest_news/Protest-by-Port-employees/342-217862",
+    "url_hash": "b702142e8aaa722abe7ff2014ec28665",
+    "ut": 1628496470,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Ports Authority",
+        "start_end": [
+          28,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "New counter terrorism law will deal with crimes related to cryptocurrency -Ali Sabry-",
     "source": "www.dailymirror.lk",
     "snippet": "Justice Minister Ali Sabry takes questions regarding the process of amending the Prevention of Terrorism Act (PTA), the Muslim Marriage and Divorce Act and others. In his interview, he also responds matters related to cases under the PTA.",
@@ -3251,6 +3305,89 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Colombo records over 850 infections in a single day",
+    "source": "colombogazette.com",
+    "snippet": "Colombo has recorded over 850 Covid infections in a single day, the authorities said today. The National Operations Centre for Prevention of COVID 19 Outbreak (NOCPCO) said that 852 people tested positive for the virus in the Colombo District yesterday (Sunday).",
+    "url": "https://colombogazette.com/2021/08/09/colombo-records-over-850-infections-in-a-single-day/",
+    "url_hash": "e96dd04576087f634b099ac0570f4bd8",
+    "ut": 1628496504,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "850",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The National Operations Centre for Prevention of COVID 19 Outbreak",
+        "start_end": [
+          17,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "852",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Colombo District",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
@@ -3404,6 +3541,213 @@
         "start_end": [
           38,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "EDB's Boat Show Sri Lanka 2021 to go virtual",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka will host its first ever virtual boat show come October with the aim of providing a single platform for all related business sectors involved directly and indirectly in the boat and ship building industry to showcase their products and services.",
+    "url": "https://www.dailymirror.lk/business_247/EDBs-Boat-Show-Sri-Lanka-2021-to-go-virtual/395-217868",
+    "url_hash": "4ab7aa45c1779c8fcadb9608099a31ce",
+    "ut": 1628500070,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "New counter terrorism law will deal with crimes related to cryptocurrency -Ali Sabry-",
+    "source": "www.dailymirror.lk",
+    "snippet": "Justice Minister Ali Sabry takes questions regarding the process of amending the Prevention of Terrorism Act (PTA), the Muslim Marriage and Divorce Act and others. In his interview, he also responds matters related to cases under the PTA.",
+    "url": "https://www.dailymirror.lk/opinion/New-counter-terrorism-law-will-deal-with-crimes-related-to-cryptocurrency--Ali-Sabry-/231-217863",
+    "url_hash": "c06c95c7a374a605c80b09227eac9834",
+    "ut": 1628500070,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Justice",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ali Sabry",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslim",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "PTA",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Reopening schools first week of Sept. doubtful: Edu Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "With the current swell in pandemic situation in the country, it is suspicious to reopen schools by the first week of September, Education Minister Prof. G. L. Peiris said. He said earlier that the ministry's plan was to provide the second dose of the COVID ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Reopening-schools-first-week-of-Sept-doubtful-Edu-Minister/108-217864",
+    "url_hash": "53e0398e8629790ce82340a0f97c52d6",
+    "ut": 1628500070,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the first week of September",
+        "start_end": [
+          18,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G. L. Peiris",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Religious gathering in Batti: All devotees to undergo 14 days quarantine",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Police are presently identifying all devotees who attended a Hindu religious gathering in Batticaloa yesterday, ignoring health guidelines amidst a deadly spread of the COVID-19 pandemic. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Religious-gathering-in-Batti-All-devotees-to-undergo-14-days-quarantine/108-217867",
+    "url_hash": "ccb0dc56b7edfcebdab1065cd4f0037e",
+    "ut": 1628500070,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Batticaloa",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Sri Lanka holds mass cremations as Covid dead pile up",
+    "source": "www.freemalaysiatoday.com",
+    "snippet": "COLOMBO: Sri Lanka has begun mass cremations to clear a backlog of dead bodies from Covid-19 as cases surge across the island, officials said today. Daily virus infections in the country have doubled in a month to more than 2,",
+    "url": "https://www.freemalaysiatoday.com/category/world/2021/08/09/sri-lanka-holds-mass-cremations-as-covid-dead-pile-up/",
+    "url_hash": "c48904c2c89232cfa1f85c43e1c23261",
+    "ut": 1628500079,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Daily",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a month",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 2",
+        "start_end": [
+          40,
+          43
         ]
       }
     ]
@@ -3791,6 +4135,274 @@
         "start_end": [
           38,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Dock statement, evidence of a lesser weightage recognized in our law - CA",
+    "source": "www.dailymirror.lk",
+    "snippet": "A dock statement is still evidence of a lesser weightage recognized in our law, the Court of Appeal observed in a recent judgment. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Dock-statement-evidence-of-a-lesser-weightage-recognized-in-our-law-CA/342-217869",
+    "url_hash": "34cbaba45c183d575db7615a44eedbe7",
+    "ut": 1628503670,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Vaccination centers open for 60 plus for three days (Video)",
+    "source": "www.hirunews.lk",
+    "snippet": "Meanwhile, coronavirus vaccination programs are still active throughout the island. Accordingly, vaccination programs are being implemented with the involvement of the health sector as well as the Armed Forces.",
+    "url": "https://www.hirunews.lk/goldfmnews/279255/vaccination-centers-open-for-60-plus-for-three-days-video",
+    "url_hash": "65144c5cb5f3c32b67c75e370de44344",
+    "ut": 1628503679,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Armed Forces",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Ten years and counting: Sri Lankans don't have much hope for the future",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "This month we mark ten years of tracking the perception of economic opportunities among the people of Sri Lanka via the Perceived Economic Opportunity Index (PEOI). Having begun in July 2011 this measurement continued every month except for a short break in 2015 and a couple of months during the Covid19 pandemic.",
+    "url": "http://bizenglish.adaderana.lk/ten-years-and-counting-sri-lankans-dont-have-much-hope-for-the-future/",
+    "url_hash": "dd4c867f9c7a32acbd6af7e6fad257e4",
+    "ut": 1628504159,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "This month",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten years",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Perceived Economic Opportunity",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 2011",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "every month",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2015",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a couple of months",
+        "start_end": [
+          47,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Former Sri Lanka fast bowling coach Anusha Samaranayaka warns Hardik Pandya and Mohammed Siraj",
+    "source": "www.islandcricket.lk",
+    "snippet": "\"I know the root cause of Pandya's back injury and it's preventable, if dealt with properly. It is very common to have back injuries on 'side on' fast blowers because they tend to close their",
+    "url": "https://www.islandcricket.lk/blogs/former-sri-lanka-fast-bowling-coach-anusha-samaranayaka-warns-hardik-pandya-and-mohammed-siraj/",
+    "url_hash": "395f3017fef4aeae71cd738050bf1ef0",
+    "ut": 1628504219,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pandya",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Sea Horse Yachts to set up Sri Lanka plant: Namal",
+    "source": "economynext.com",
+    "snippet": "Sea Horse Yachts will set up a 58 million US dollar plant in Sri Lanka's Hambantota Port, Sports Minister Namal Rajapaksa who represents the district in parliament said.",
+    "url": "https://economynext.com/sea-horse-yachts-to-set-up-sri-lanka-plant-namal-84704/",
+    "url_hash": "723a85e45e3ef73f0394ac929bb3d297",
+    "ut": 1628505019,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "58 million US dollar",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Hambantota Port, Sports",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Govt. responsible for escalating Covid mortality among elders: Rathnapriya",
+    "source": "www.dailymirror.lk",
+    "snippet": "National Trade Union Front Chairman Saman Rathnapriya today alleged that the Government should take the whole responsibility for the escalation of Covid mortality among senior citizens, as it has failed to prioritise vaccinating the people who are above 60 ...",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-responsible-for-escalating-Covid-mortality-among-elders-Rathnapriya/342-217870",
+    "url_hash": "79bc3d83c0b81b43d6b454ae921d5b5d",
+    "ut": 1628505950,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Trade Union Front",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Saman Rathnapriya",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "60",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: Nigeria postpones 2nd vaccine rollout",
+    "source": "www.sfgate.com",
+    "snippet": "LAGOS, Nigeria \u2014 Nigeria has postponed the rollout of its second batch of COVID-19 vaccine due to \"unforeseen circumstances,\" a setback for Africa's most populous nation as it faces a major surge in confirmed cases.",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Australia-to-get-1st-Moderna-doses-16373695.php",
+    "url_hash": "c4953624c7f4643e659ee66b2005a40d",
+    "ut": 1628506269,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "LAGOS",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
