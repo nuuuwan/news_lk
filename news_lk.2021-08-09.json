@@ -1689,6 +1689,41 @@
   },
   {
     "date": "2021-08-09",
+    "title": "SLs WAR ON DELTA ONLY TO WORSEN",
+    "source": "www.dailymirror.lk",
+    "snippet": "With beds running out in the main hospitals across the country and no beds available in the Western Province, doctors predict that daily deaths from the COVID-19 will hit at least 200 per day, the health services said .",
+    "url": "https://www.dailymirror.lk/main_image/SLs-WAR-ON-DELTA-ONLY-TO-WORSEN/346-217820",
+    "url_hash": "1f24c2952a2c7da7968cbdbfc479b394",
+    "ut": 1628478519,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 200",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Sri Lanka Coronavirus vaccinates 50-pct of population with one dose, 13.4-pct two doses",
     "source": "economynext.com",
     "snippet": "Sri Lanka has vaccinated 50.5 percent of the population or 11.08 million persons with the one dose of Coronavirus vaccine with 40 percent coming from Sinopharm and 13.4 percent with a second dose.",
@@ -2430,6 +2465,57 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Coronavirus latest: US judge backs Norwegian cruise line on Florida 'vaccine passports'",
+    "source": "www.ft.com",
+    "snippet": "The spread of the Delta strain of the virus that causes Covid-19 through the US has prompted a flurry of state-level proclamations over the weekend relating to mask mandates and vaccinations. The US is averaging about 100,",
+    "url": "https://www.ft.com/content/11117011-442e-43b4-b7d8-dcd31867ed09",
+    "url_hash": "ace980ed2ee36a19d23f1b506d2df80b",
+    "ut": 1628482105,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weekend",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "about 100",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Video: Rahul Dravid Teaches Kannada to British High Commissioner to India | WATCH",
     "source": "www.msn.com",
     "snippet": "The former batsman was seen playing the role of teacher to British High Commissioner to India, Alex Ellis as he taught him a phrase from the Kannada language, \"Bega Odi\", which means one run.",
@@ -2969,6 +3055,65 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Amaraweera tells CEA to submit report on all unauthorized constructions in Gannoruwa",
+    "source": "www.dailymirror.lk",
+    "snippet": "Environment Minister Mahinda Amaraweera instructed the Central Environmental Authority (CEA) to submit a report on all unauthorized construction in the Gannoruwa area in Kandy and within the boundaries of the Mahaweli River in the Kandy city suburbs.",
+    "url": "https://www.dailymirror.lk/breaking_news/Amaraweera-tells-CEA-to-submit-report-on-all-unauthorized-constructions-in-Gannoruwa/108-217856",
+    "url_hash": "94dd16789555336a3984d0f224151479",
+    "ut": 1628489282,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Environmental Authority",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEA",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Gannoruwa",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Kandy",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Mahaweli River",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Colombo recorded highest positive cases yesterday: NOCPCO",
     "source": "www.dailymirror.lk",
     "snippet": "After marking the number of daily COVID-19 cases as high as 2,961 yesterday, the Colombo District recorded the highest number of positive cases that stood at 852, the National Operations Centre for Prevention of COVID -19 Outbreak (NOCPCO) said.",
@@ -3431,6 +3576,49 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "New counter terrorism law will deal with crimes related to cryptocurrency -Ali Sabry-",
+    "source": "www.dailymirror.lk",
+    "snippet": "Justice Minister Ali Sabry takes questions regarding the process of amending the Prevention of Terrorism Act (PTA), the Muslim Marriage and Divorce Act and others. In his interview, he also responds matters related to cases under the PTA.",
+    "url": "https://www.dailymirror.lk/hard-talk/New-counter-terrorism-law-will-deal-with-crimes-related-to-cryptocurrency--Ali-Sabry-/334-217863",
+    "url_hash": "ccb27bee8061a51250bdc7f8e2c1087a",
+    "ut": 1628496482,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Justice",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ali Sabry",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslim",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "PTA",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
@@ -4769,6 +4957,81 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Sri Lankan shares flat as losses in material stocks offset industrial gains",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares ended flat on Monday, as gains in industrials were offset by losses in material stocks. * The CSE All-Share index ended 0.03% higher at 8,101.39. * Conglomerates Expolanka Holdings and Browns Investments were the top two boosts to the index,",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-flat-as-losses-in-material-stocks-offset-industrial-gains-idUSL4N2PG298",
+    "url_hash": "e24bc1039f203f661ff3e038364c2041",
+    "ut": 1628507291,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.03%",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "8,101.39",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Conglomerates Expolanka Holdings",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Browns Investments",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Country's COVID deaths 10 times higher than in India: Prof. Angampodi",
     "source": "www.dailymirror.lk",
     "snippet": "The number of COVID deaths reported in Sri Lanka is 10 times higher than the COVID deaths reported from India, Rajarata University Medicine Faculty Prof. Suneth Angampodi said. ..",
@@ -5328,6 +5591,199 @@
   },
   {
     "date": "2021-08-09",
+    "title": "France to allow Sri Lankans to enter, subject to health protocols",
+    "source": "www.dailymirror.lk",
+    "snippet": "France, in its entry conditions, has classified Sri Lanka in the orange zone enabling Sri Lankans to arrive in, subject to health protocols. ..",
+    "url": "https://www.dailymirror.lk/latest_news/France-to-allow-Sri-Lankans-to-enter-subject-to-health-protocols/342-217876",
+    "url_hash": "079654d74ae8c8267c5f7bfedc7adb20",
+    "ut": 1628510882,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the orange zone",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: Vaccine-maker BioNTech sees profits soar in Q2",
+    "source": "apnews.com",
+    "snippet": "BERLIN \u2014 German pharmaceutical maker BioNTech, which developed the first widely used coronavirus vaccine with Pfizer, saw its profits surge in the second quarter of 2021. The Mainz-based company said Monday that it made a net profit of almost 2.",
+    "url": "https://apnews.com/f7c4543cd374a7ebfedb4889fa6b67e0",
+    "url_hash": "7a29b852eb3e0cbbc42491357d35c643",
+    "ut": 1628510900,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BERLIN",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "German",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second quarter of 2021",
+        "start_end": [
+          23,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mainz",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "almost 2",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: France's virus pass required for cafes, trains",
+    "source": "www.ourmidland.com",
+    "snippet": "BERLIN \u2014 German pharmaceutical maker BioNTech, which developed the first widely used coronavirus vaccine with Pfizer, saw its profits surge in the second quarter of 2021. The Mainz-based company said Monday that it made a net profit of almost 2.",
+    "url": "https://www.ourmidland.com/news/article/The-Latest-Australia-to-get-1st-Moderna-doses-16373695.php",
+    "url_hash": "f86ce4ae07b54b712dfbe860129f0979",
+    "ut": 1628510900,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BERLIN",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "German",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second quarter of 2021",
+        "start_end": [
+          23,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mainz",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "almost 2",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Sri Lanka bond yields slightly up",
     "source": "economynext.com",
     "snippet": "Sri Lanka's bond yields in the secondary market up slightly while the rupee remains inactive in the forex market on Monday, market participants said. The island has raised a de facto 12-month policy rate which is below the overnight rate,",
@@ -5419,6 +5875,218 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Sri Lanka holds mass cremations as COVID-19 cases surge",
+    "source": "www.channelnewsasia.com",
+    "snippet": "COLOMBO: Sri Lanka has begun mass cremations to clear a backlog of dead bodies from COVID-19 as cases surge across the island, officials said Monday (Aug 9). Daily virus infections in the country have doubled in a month to more than 2,500 with nearly 100 ...",
+    "url": "https://www.channelnewsasia.com/asia/sri-lanka-covid-19-cremations-death-2102111",
+    "url_hash": "024d2b45c35ea950a3ac63cbb124f9ad",
+    "ut": 1628514491,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a month",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 2,500",
+        "start_end": [
+          44,
+          47
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly 100",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Maldives to host SAFF Championship 2021 in October",
+    "source": "khelnow.com",
+    "snippet": "Maldives will host the 13th edition of SAFF Championship later this year, SAFF confirmed in its virtual meeting earlier today.",
+    "url": "https://khelnow.com/football/saff-championship-2021-malaysia-hosts-confirmed",
+    "url_hash": "213eef7254e5b660d911186f7ec8cd0f",
+    "ut": 1628515151,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Maldives",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "13th",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "later this year",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SAFF",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "earlier today",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Rishad's wife",
+    "source": "dailynews.lk",
+    "snippet": "An application for bail filed by four suspects including the wife of MP Rishad Bathiudeen have been rejected by the Colombo Magistrate's Court The Magistrate ordered to further remand the",
+    "url": "http://dailynews.lk/tags/rishad%E2%80%99s-wife",
+    "url_hash": "bafaf8b7ac6663f9a5e3fa24980ece9f",
+    "ut": 1628515206,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Colombo Magistrate's",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Magistrate",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Special prayers in India for well-being of people of Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Special prayers were held in India today for the well-being of the people of Sri Lanka, the Indian High Commission in Sri Lanka said. The Maha Bodhi Society of India conducted the 'Sri Lanka-India Ash",
+    "url": "https://colombogazette.com/2021/08/09/special-prayers-in-india-for-well-being-of-people-of-sri-lanka/",
+    "url_hash": "b62e70396a91d3f4faa4587153627c39",
+    "ut": 1628517694,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian High Commission",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
