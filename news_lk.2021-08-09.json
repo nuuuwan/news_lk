@@ -1305,6 +1305,33 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Colombo land prices accelerate in first half with industrial land prices rising the most",
+    "source": "www.dailymirror.lk",
+    "snippet": "The gain in land prices in the Colombo district accelerated during the first half of the year, bucking a decelerating trend that lasted for two years, in a reflection that land prices are being gradually bid up with the rising demand caused by re-invigorated economic activities with lower interest rates also acting as a strong pull factor.",
+    "url": "https://www.dailymirror.lk/business-news/Colombo-land-prices-accelerate-in-first-half-with-industrial-land-prices-rising-the-most/273-217832",
+    "url_hash": "db1df44dffe4ad0177a36886cf68cf3d",
+    "ut": 1628478503,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the first half of the year",
+        "start_end": [
+          11,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two years",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Cargills Ceylon maintains revenues during pandemic-stricken June quarter",
     "source": "www.dailymirror.lk",
     "snippet": "PLC maintained its revenues during the three months ended in June, largely unchanged from the previous three months, but significantly up from a year ago when the virus related lockdowns forced businesses to remain shuttered and people to remain indoors for a longer period when the pandemic first struck the country.",
@@ -2046,6 +2073,65 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Video: Rahul Dravid Teaches Kannada to British High Commissioner to India | WATCH",
+    "source": "www.msn.com",
+    "snippet": "The former batsman was seen playing the role of teacher to British High Commissioner to India, Alex Ellis as he taught him a phrase from the Kannada language, \"Bega Odi\", which means one run.",
+    "url": "https://www.msn.com/en-in/sports/other/video-rahul-dravid-teaches-kannada-to-british-high-commissioner-to-india-watch/ar-AAN5LDP",
+    "url_hash": "1cc98eb48606d77baaa32471ac3f58a3",
+    "ut": 1628482112,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alex Ellis",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Kannada",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bega",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "More Pfizer jabs arrive in Sri Lanka",
     "source": "www.adaderana.lk",
     "snippet": "Another consignment of US-manufactured Pfizer COVID-19 vaccines has arrived in Sri Lanka today (August 09). The Qatar Airways flight carrying the doses has arrived at the Bandaranaike International Airport at around 02.",
@@ -2526,6 +2612,84 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Colombo recorded highest positive cases yesterday: NOCPCO",
+    "source": "www.dailymirror.lk",
+    "snippet": "After marking the number of daily COVID-19 cases as high as 2,961 yesterday, the Colombo District recorded the highest number of positive cases that stood at 852, the National Operations Centre for Prevention of COVID -19 Outbreak (NOCPCO) said.",
+    "url": "https://www.dailymirror.lk/latest_news/Colombo-recorded-highest-positive-cases-yesterday-NOCPCO/342-217857",
+    "url_hash": "a657ddabf461b011793ea8e95787c1af",
+    "ut": 1628489303,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "as high as",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Colombo District",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "852",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Operations Centre for Prevention of COVID -19 Outbreak",
+        "start_end": [
+          29,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "There's some fin down there!",
+    "source": "www.dailymirror.lk",
+    "snippet": "A postman came face-to-face with a huge shark while snorkelling off the coast of Cornwall. ..",
+    "url": "https://www.dailymirror.lk/caption_story/Theres-some-fin-down-there/110-217859",
+    "url_hash": "4171aa8acd0ddd4823165a8832421fac",
+    "ut": 1628489303,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Cornwall",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
     "source": "apnews.com",
     "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home.",
@@ -2617,6 +2781,49 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Ports employees launch protest",
+    "source": "www.newsfirst.lk",
+    "snippet": "The All Ceylon Ports General Employees Union has organized a protest in the Colombo Fort area today (09). The protest has been - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/09/ports-employees-launch-protest/",
+    "url_hash": "4cda7528f51a041b78082b36fe277f07",
+    "ut": 1628494486,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The All Ceylon Ports General Employees Union",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Colombo Fort",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
