@@ -3389,6 +3389,41 @@
   {
     "date": "2021-08-09",
     "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "www.yazooherald.net",
+    "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home.",
+    "url": "https://www.yazooherald.net/contractors-who-powered-us-war-afghanistan-stuck-dubai-1",
+    "url_hash": "84b5f25816b03d60fa48d63de67d3c23",
+    "ut": 1628489306,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
     "source": "apnews.com",
     "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home.",
     "url": "https://apnews.com/a5fe2dadffd222102d2875b776dbe794",
@@ -5299,6 +5334,81 @@
     "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-flat-as-losses-in-material-stocks-offset-industrial-gains-idUSL4N2PG298",
     "url_hash": "e24bc1039f203f661ff3e038364c2041",
     "ut": 1628507291,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.03%",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "8,101.39",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Conglomerates Expolanka Holdings",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Browns Investments",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Sri Lankan shares flat as losses in material stocks offset industrial gains",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares ended flat on Monday, as gains in industrials were offset by losses in material stocks. * The CSE All-Share index ended 0.03% higher at 8,101.39. * Conglomerates Expolanka Holdings and Browns Investments were the top two boosts to the index,",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close-idUSL4N2PG298",
+    "url_hash": "33a5bec4ffb6376fc913f772fa60dc80",
+    "ut": 1628507292,
     "ent_info_list": [
       {
         "label": "NORP",
@@ -7773,6 +7883,84 @@
   },
   {
     "date": "2021-08-09",
+    "title": "The Latest: Mississippi official raises hospital concerns",
+    "source": "www.stltoday.com",
+    "snippet": "Mississippi's top public health official said Monday that as COVID-19 cases continue to surge with the highly contagious delta variant, no intensive care beds were available in",
+    "url": "https://www.stltoday.com/news/world/the-latest-mississippi-official-raises-hospital-concerns/article_41a026c7-7a66-51b4-b5a6-e1ffae0d0e65.html",
+    "url_hash": "311d1ae56c67fc105ca5da588cc2b91a",
+    "ut": 1628532519,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Mississippi",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: Mexico to ask US for more vaccine doses",
+    "source": "omaha.com",
+    "snippet": "MEXICO CITY \u2014 Mexico will ask the United States to send at least 3.5 million more doses of COVID-19 vaccine as the country faces a third wave of infections, President",
+    "url": "https://omaha.com/news/world/the-latest-mexico-to-ask-us-for-more-vaccine-doses/article_2642b5ab-64fe-5a44-8a4f-64d2551c4824.html",
+    "url_hash": "341d7c6210b495487ecc72b72f59646b",
+    "ut": 1628532519,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "MEXICO CITY",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 3.5 million",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "The Latest: Mexico to ask US for more vaccine doses",
     "source": "www.stltoday.com",
     "snippet": "MEXICO CITY \u2014 Mexico will ask the United States to send at least 3.5 million more doses of COVID-19 vaccine as the country faces a third wave of infections, President",
@@ -7907,6 +8095,57 @@
         "start_end": [
           14,
           15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Lethargic approach of the health sector",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is going through a critical period in respect of containing the COVID 19, the pandemic that emerged in Wuhan city in China in late 2019 and had invaded the whole world by now. This may be the only issue in the human history which the mankind has been concerned about concurrently.",
+    "url": "https://www.dailymirror.lk/opinion/Lethargic-approach-of-the-health-sector/172-217910",
+    "url_hash": "7346dd916d6f2c5c9ed1b718c566d37e",
+    "ut": 1628536082,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the COVID 19",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wuhan city",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late 2019",
+        "start_end": [
+          26,
+          28
         ]
       }
     ]
@@ -8291,6 +8530,264 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Global toll rises to 42,94,735",
+    "source": "www.newagebd.net",
+    "snippet": "Sri Lanka has begun mass cremations to clear a backlog of dead bodies from Covid-19 as cases surge across the island, officials said Monday.",
+    "url": "https://www.newagebd.net/article/145928/index.php",
+    "url_hash": "56a587a6ed3f9dc4df84af3294264956",
+    "ut": 1628539692,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "apnews.com",
+    "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home.",
+    "url": "https://apnews.com/article/us-war-afghanistan-contractors-dubai-a5fe2dadffd222102d2875b776dbe794",
+    "url_hash": "a7002ed97dcf10426172a65cae9aa708",
+    "ut": 1628540901,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Mass cremations as COVID cases surge",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka has begun mass cremations to clear a backlog of dead bodies from COVID-19 as cases surge across the island, officials said Monday. ..",
+    "url": "https://www.ft.lk/news/Mass-cremations-as-COVID-cases-surge/56-721505",
+    "url_hash": "d114020769ae4f13b6e8150efe59814e",
+    "ut": 1628542452,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Washington governor sets vaccine requirement",
+    "source": "www.abqjournal.com",
+    "snippet": "Most state workers in Washington, as well as private health care and long-term care employees, will be required to show proof of vaccination for COVID-19 by Oct. 18 or will lose their",
+    "url": "https://www.abqjournal.com/2418074/the-latest-mexico-to-ask-us-for-more-vaccine-doses.html",
+    "url_hash": "a37f942c7d3d3dae3119dfe5f768f354",
+    "ut": 1628542719,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Oct. 18",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "ICF meets SL High Commissioner-designate to India",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka\u0432\u0402\u2122s High Commissioner-designate to India Milinda Moragoda met with The Indian CEO Forum (ICF) last week for an initial discussion on India-Sri Lanka ties. ..",
+    "url": "https://www.ft.lk/business/ICF-meets-SL-High-Commissioner-designate-to-India/34-721508",
+    "url_hash": "4e29e8b2df0927220761cb6612b21c9c",
+    "ut": 1628542766,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Milinda Moragoda",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Telecom industry joins CSSL Jaffna GenZ Chapter launch",
+    "source": "www.ft.lk",
+    "snippet": "The Computer Society of Sri Lanka (CSSL) launched its second GenZ Chapter at University of Jaffna and the Telecommunication Regulatory Commission of Sri Lanka (TRCSL) partnered with CSSL to extend an opportunity for telecommunication company CEOs to interact with students of University of Jaffna and other CSSL GenZ Chapters.",
+    "url": "https://www.ft.lk/it-telecom-tech/Telecom-industry-joins-CSSL-Jaffna-GenZ-Chapter-launch/50-721509",
+    "url_hash": "4ad537f09d0de4763c03de1f2d67fd47",
+    "ut": 1628542886,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Computer Society of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSSL",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "University of Jaffna",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Telecommunication Regulatory Commission",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSSL",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "University of Jaffna",
+        "start_end": [
+          45,
+          48
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSSL",
+        "start_end": [
+          50,
+          51
         ]
       }
     ]
