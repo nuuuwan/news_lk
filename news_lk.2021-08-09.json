@@ -7572,6 +7572,49 @@
   {
     "date": "2021-08-09",
     "title": "The Latest: Louisiana governor fasting, praying over virus",
+    "source": "www.stltoday.com",
+    "snippet": "COLOMBO, Sri Lanka \u2014 Sri Lanka has started a program to home-manage asymptomatic COVID-19 patients, abandoning its policy of hospitalizing almost everyone who tests positive, as the number of daily infections surges. People aged between 2 and 65 will be ...",
+    "url": "https://www.stltoday.com/news/world/the-latest-louisiana-governor-fasting-praying-over-virus/article_41a026c7-7a66-51b4-b5a6-e1ffae0d0e65.html",
+    "url_hash": "5d9aced1a17548ffe3f53eb95f08f739",
+    "ut": 1628528904,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 2 and 65",
+        "start_end": [
+          40,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: Louisiana governor fasting, praying over virus",
     "source": "www.bowenislandundercurrent.com",
     "snippet": "COLOMBO, Sri Lanka \u2014 Sri Lanka has started a program to home-manage asymptomatic COVID-19 patients, abandoning its policy of hospitalizing almost everyone who tests positive, as the number of daily infections surges. People aged between 2 and 65 will be ...",
     "url": "https://www.bowenislandundercurrent.com/the-mix/the-latest-louisiana-governor-fasting-praying-over-virus-4203593",
@@ -7916,6 +7959,57 @@
     "url": "https://omaha.com/news/world/the-latest-mexico-to-ask-us-for-more-vaccine-doses/article_2642b5ab-64fe-5a44-8a4f-64d2551c4824.html",
     "url_hash": "341d7c6210b495487ecc72b72f59646b",
     "ut": 1628532519,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "MEXICO CITY",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 3.5 million",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: Mexico to ask US for more vaccine doses",
+    "source": "madison.com",
+    "snippet": "MEXICO CITY \u2014 Mexico will ask the United States to send at least 3.5 million more doses of COVID-19 vaccine as the country faces a third wave of infections, President",
+    "url": "https://madison.com/news/world/the-latest-mexico-to-ask-us-for-more-vaccine-doses/article_765fee32-ee10-5c45-814c-531f7f0bf645.html",
+    "url_hash": "d7a31ca28d7c1535af19e5fafd8fc3d7",
+    "ut": 1628532524,
     "ent_info_list": [
       {
         "label": "GPE",
@@ -8536,6 +8630,33 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Impose curfew, Medical Specialists urge Govt.",
+    "source": "www.dailymirror.lk",
+    "snippet": "While stressing that the COVID-19 situation in Sri Lanka is extremely grim, the Association of Medical Specialsts (AMS) called upon the Government to impose curfew as it is the only successful mean of curtailing people's movement in the country.",
+    "url": "https://www.dailymirror.lk/breaking_news/Impose-curfew-Medical-Specialists-urge-Govt/108-217916",
+    "url_hash": "a4d5d5d8f7a2b9fdc3ac16aac87bf020",
+    "ut": 1628539684,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Association of Medical Specialsts",
+        "start_end": [
+          13,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Global toll rises to 42,94,735",
     "source": "www.newagebd.net",
     "snippet": "Sri Lanka has begun mass cremations to clear a backlog of dead bodies from Covid-19 as cases surge across the island, officials said Monday.",
@@ -8557,6 +8678,65 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: West Virginia governor encourages vaccination",
+    "source": "chinapost.nownews.com",
+    "snippet": "CHARLESTON, W.Va. \u2014 West Virginia Gov. Jim Justice said the rate of COVID-19 cases in his state is \"probably going to continue to get tougher in the weeks ahead.\" Justice has said he will not consider reinstating an indoor mask mandate and has continued to urge residents to be vaccinated.",
+    "url": "https://chinapost.nownews.com/20210810-2700053",
+    "url_hash": "40c7183fe0365249822e5306fdfacc61",
+    "ut": 1628539724,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "CHARLESTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "W.Va.",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "West Virginia",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jim Justice",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weeks ahead",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Justice",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
@@ -8788,6 +8968,114 @@
         "start_end": [
           50,
           51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: West Virginia governor encourages vaccination",
+    "source": "www.heraldonline.com",
+    "snippet": "West Virginia Gov_ Jim Justice says the rate of COVID-19 cases in his state is \"probably going to continue to get tougher in the weeks ahead.\".",
+    "url": "https://www.heraldonline.com/entertainment/article253364023.html",
+    "url_hash": "42e7b106e2ba05228743531dd13f20fc",
+    "ut": 1628543294,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "West Virginia",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weeks ahead",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "SL must use GSP+ for smarter positioning on sustainability",
+    "source": "www.ft.lk",
+    "snippet": "When Sri Lanka regained the GSP+ trade concessions to the EU, exporters from a range of sectors got a renewed opportunity to compete in this lucrative market. ..",
+    "url": "https://www.ft.lk/opinion/SL-must-use-GSP-for-smarter-positioning-on-sustainability/14-721518",
+    "url_hash": "ec5246ecbfce09283bde3363da8ad03c",
+    "ut": 1628543909,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EU",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Broken system: Drug control, detention and treatment of people who use drugs in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Drug Control, Detention and Treatment of People who Use Drugs in Sri Lanka' focuses on the impact of drug control, detention and treatment in Sri Lanka on the protection and promotion of human rights.",
+    "url": "https://www.ft.lk/columns/Broken-system-Drug-control-detention-and-treatment-of-people-who-use-drugs-in-Sri-Lanka/4-721522",
+    "url_hash": "edb867b026ce60d378786d80d0c3eb46",
+    "ut": 1628544869,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "North Special Corr",
+    "source": "dailynews.lk",
+    "snippet": "Kilinochchi Magistrate S. Lenin Kumar last Thursday ordered the police to ascertain whether there was a mass grave at the site where human skeletons were found with military uniforms and tools used...",
+    "url": "https://dailynews.lk/line/north-special-corr-0",
+    "url_hash": "1036a9f9c7465f1122403c2474719ccb",
+    "ut": 1628546109,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Kilinochchi Magistrate S. Lenin Kumar",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last Thursday",
+        "start_end": [
+          5,
+          7
         ]
       }
     ]
