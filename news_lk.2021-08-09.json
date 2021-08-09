@@ -5983,6 +5983,41 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Hard to operate trains due to staff infected by COVID: SLSMU",
+    "source": "www.dailymirror.lk",
+    "snippet": "It is difficult to maintain the train service due to COVID infection to 12 of the railway department staff, including station masters and junior staff members of the Railway Control Office, the Sri Lanka Station Masters' Union (SLSMU) said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Hard-to-operate-trains-due-to-staff-infected-by-COVID-SLSMU/108-217878",
+    "url_hash": "0a6cee35be3378c98acf5b34d5f6e7c1",
+    "ut": 1628510918,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Railway Control Office",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Station Masters' Union",
+        "start_end": [
+          33,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Sri Lanka bond yields slightly up",
     "source": "economynext.com",
     "snippet": "Sri Lanka's bond yields in the secondary market up slightly while the rupee remains inactive in the forex market on Monday, market participants said. The island has raised a de facto 12-month policy rate which is below the overnight rate,",
@@ -6184,6 +6219,25 @@
         "start_end": [
           48,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Alarming spike in delta variant, deaths mounting, hospitals spilling over: GMOF",
+    "source": "www.dailymirror.lk",
+    "snippet": "There is an alarming increase in daily COVID-19 positive cases in the country and deaths are on the rise, the Government Medical Officers Forum (GMOF) said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Alarming-spike-in-delta-variant-deaths-mounting-hospitals-spilling-over-GMOF/342-217879",
+    "url_hash": "a4e412682c0bf536e6aefd252a5c31ae",
+    "ut": 1628514518,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          6,
+          7
         ]
       }
     ]
@@ -6405,6 +6459,65 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Record 111 deaths in Sri Lanka Monday, bringing total COVID-19 deaths to 5,222",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka recorded 111 new COVID-19 deaths Monday (09), the country's highest daily death toll yet, according to the government information department. This bring total deaths in Sri Lanka from the disease to 5,",
+    "url": "https://economynext.com/record-111-deaths-in-sri-lanka-monday-bringing-total-covid-19-deaths-to-5222-84722/",
+    "url_hash": "abdf60ffe6545b5f73c2f9392624d51b",
+    "ut": 1628518147,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "111",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "09",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Department of Pensions",
     "source": "www.dailynews.lk",
     "snippet": "The Department of Pensions has decided to temporarily suspend the interviews and clients visiting its premises from tomorrow (August 10) until further notice due to the prevailing Covid-19",
@@ -6442,6 +6555,68 @@
         "start_end": [
           19,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Contractors used by US companies in Afghanistan stuck in Dubai",
+    "source": "www.msn.com",
+    "snippet": "Foreign workers trying to get to back to home countries are stuck in limbo at hotels across Dubai due to the pandemic.",
+    "url": "https://www.msn.com/en-us/news/world/contractors-used-by-us-companies-in-afghanistan-stuck-in-dubai/ar-AAN74DH",
+    "url_hash": "b1a77d4330e7d9aa50c3d6a01a399afe",
+    "ut": 1628523538,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Top 10 world news: France extends COVID-19 pass, EU climate chief says 'not too late', and more",
+    "source": "www.wionews.com",
+    "snippet": "French authorities began enforcing the COVID-19 pass Monday, a reform of vaccination rules that was championed by President Emmanuel Macron and aimed at improving vaccination rates. However, the new regulations have prompted weeks of angry protests from citizens.",
+    "url": "https://www.wionews.com/world/top-10-world-news-france-extends-covid-19-pass-eu-climate-chief-says-not-too-late-and-more-404286",
+    "url_hash": "8d75553e5995835d7939a12648971a51",
+    "ut": 1628523767,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "French",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Emmanuel Macron",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weeks",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
