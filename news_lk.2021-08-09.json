@@ -759,6 +759,57 @@
   },
   {
     "date": "2021-08-09",
+    "title": "SriLankan Airlines uplifted largest vaccine consignment to Sri Lanka",
+    "source": "island.lk",
+    "snippet": "Taking into consideration the national need of the hour SriLankan Airlines has uplifted another batch of Sinopharm vaccines amounting to 4 million doses to the country on three dedicated cargo flights.",
+    "url": "https://island.lk/srilankan-airlines-uplifted-largest-vaccine-consignment-to-sri-lanka/",
+    "url_hash": "b319236d395bc3d82ad11a424d14df88",
+    "ut": 1628474878,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "hour",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4 million",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "20 out of 37 bodies at Kalubowila Hospital mortuary were NON-COVID-19 deaths: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "State Minister of Production, Supply and Regulation of Pharmaceuticals Prof. Channa Jayasumana said 20 out 37 bodies kept at the refrigerated cabinets of the mortuary of Kalubowila Hospital (Colombo-south Hospital) were non- .",
@@ -1027,6 +1078,25 @@
         "start_end": [
           25,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Rising poultry feed prices continue to compress margins at Keells Food Products",
+    "source": "www.dailymirror.lk",
+    "snippet": "The perverse effects of rising poultry feed prices caused by import controls are fast feeding through its supply chain as processed meat producers such as Keells Food Products PLC have begun to feel the pinch from the rising meat prices,",
+    "url": "https://www.dailymirror.lk/business-news/Rising-poultry-feed-prices-continue-to-compress-margins-at-Keells-Food-Products/273-217827",
+    "url_hash": "5d42115c12308d5a4ff9ae661fb573ca",
+    "ut": 1628478470,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Keells Food Products PLC",
+        "start_end": [
+          25,
+          29
         ]
       }
     ]
@@ -1535,6 +1605,52 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Covid patients sans complications treated at home from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Treatment for COVID infected people who do not have complications will be given at home from today (9), the health ministry said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Covid-patients-sans-complications-treated-at-home-from-today/108-217821",
+    "url_hash": "26f570d45e3df7e1db7952d7c6806bb4",
+    "ut": 1628482070,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Workplace ID of people using public transport to be verified from today: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "The checking of official workplace identity cards of people using public transport will commence from today, Transport State Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Workplace-ID-of-people-using-public-transport-to-be-verified-from-today-Dilum/108-217854",
+    "url_hash": "31c1cd26bbce6f01215c6c4443055c73",
+    "ut": 1628482070,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
@@ -2088,6 +2204,132 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Teachers, Principals must be notified about today's cabinet decision: Joseph Stalin",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Teachers and Principals Unions today said that they will continue with their trade union action, if they do not receive solutions to their demands following today's cabinet meeting, Ceylon Teachers' Union General Secretary Joseph Stalin said.",
+    "url": "https://www.dailymirror.lk/latest_news/Teachers-Principals-must-be-notified-about-todays-cabinet-decision-Joseph-Stalin/342-217855",
+    "url_hash": "9d90fb818b9037e59d67ed13209572e6",
+    "ut": 1628485670,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Teachers and Principals Unions",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Teachers' Union",
+        "start_end": [
+          32,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joseph Stalin",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "More Pfizer jabs arrive in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Another consignment of US-manufactured Pfizer COVID-19 vaccines has arrived in Sri Lanka today (August 09). The Qatar Airways flight carrying the doses has arrived at the Bandaranaike International Airport at around 02.",
+    "url": "http://www.adaderana.lk/news.php?nid=76012",
+    "url_hash": "3baa2cbe64ce84049cd68f83432a99c9",
+    "ut": 1628485682,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 09",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Qatar Airways",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          30,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "around 02",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Sri Lanka raises de facto one year policy rate by 05bp",
     "source": "economynext.com",
     "snippet": "Sri Lanka has raised a de facto 12-month policy rate which is below the overnight rate, through which large volumes of debt has been monetized by 05 basis points to 5.33 percent, according to a central bank notice.",
@@ -2278,6 +2520,103 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "apnews.com",
+    "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home.",
+    "url": "https://apnews.com/a5fe2dadffd222102d2875b776dbe794",
+    "url_hash": "06b61dd66aebfd993c72b3a5033a8a47",
+    "ut": 1628489466,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Sri Lanka: Their Master's Voice",
+    "source": "www.srilankaguardian.org",
+    "snippet": "As Sri Lanka recorded nearly 100 deaths per day from COVID-19 and infection rates spiral uncontrollably, the country's intelligence services have conclusively determined that the wave of protests against Government policies were to blame for the spread of the deadly virus.",
+    "url": "http://www.srilankaguardian.org/2021/08/sri-lanka-their-masters-voice.html",
+    "url_hash": "8889be1dcb2320d2225d3019072fb26a",
+    "ut": 1628490058,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly 100",
+        "start_end": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "www.bowenislandundercurrent.com",
+    "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home.",
+    "url": "https://www.bowenislandundercurrent.com/the-mix/contractors-who-powered-us-war-in-afghanistan-stuck-in-dubai-4203590",
+    "url_hash": "f2fff94aa452360570f75af4608592ab",
+    "ut": 1628490898,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
