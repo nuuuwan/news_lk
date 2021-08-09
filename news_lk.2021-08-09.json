@@ -521,5 +521,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Sri Lanka private borrowings surge to Rs83bn in June, CB credit Rs124bn",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's private credit surged by 83 billion rupees in June 2021, while credit to government surged 170 billion rupees, of which 124 billion rupees were printed, official data showed.",
+    "url": "https://economynext.com/sri-lanka-private-borrowings-surge-to-rs83bn-in-june-cb-credit-rs124bn-84696/",
+    "url_hash": "fb8b71a4ee792ab4e496b940245b2781",
+    "ut": 1628472235,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "83 billion",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June 2021",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "170 billion",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "124 billion",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
   }
 ]
