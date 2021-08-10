@@ -497,6 +497,49 @@
   },
   {
     "date": "2021-08-10",
+    "title": "The Latest: Washington governor sets vaccine requirement",
+    "source": "www.local10.com",
+    "snippet": "Washington Gov. Jay Inslee says most state workers in Washington, as well as private health care and long-term care employees, will be required to show proof of vaccination for COVID-19 by Oct. 18 or will lose their jobs.",
+    "url": "https://www.local10.com/news/world/2021/08/09/the-latest-australia-to-get-1st-moderna-doses-next-month/",
+    "url_hash": "02bf84839d672ba68f8ca5c1f2515083",
+    "ut": 1628556254,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jay Inslee",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Oct. 18",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Sri Lanka holds mass cremations as COVID-19 cases surge",
     "source": "www.channelnewsasia.com",
     "snippet": "COLOMBO: Sri Lanka has begun mass cremations to clear a backlog of dead bodies from COVID-19 as cases surge across the island, officials said Monday (Aug 9). Daily virus infections in the country have doubled in a month to more than 2,500 with nearly 100 ...",
@@ -802,6 +845,25 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "People with HIV have increased risk from Covid: WHO expert",
+    "source": "www.dailymirror.lk",
+    "snippet": "A WHO (World Health Organisation) expert said people living with HIV had an increased risk for severe disease from Covid as well as hospitalisation and stressed the need to prioritise vaccination of them globally.",
+    "url": "https://www.dailymirror.lk/top_story/People-with-HIV-have-increased-risk-from-Covid-WHO-expert/155-217939",
+    "url_hash": "74cc5995e780d0a54dc336227b095529",
+    "ut": 1628559816,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "World Health Organisation",
+        "start_end": [
+          3,
+          6
         ]
       }
     ]
@@ -1428,6 +1490,49 @@
         "start_end": [
           37,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Nearly half a million people vaccinated yesterday",
+    "source": "www.dailymirror.lk",
+    "snippet": "Nearly half a million of people were vaccinated yesterday against Covid-19 with over 300,000 second dose of Sinopharm vaccines. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Nearly-half-a-million-people-vaccinated-yesterday/342-217943",
+    "url_hash": "09e3422636672027057c634f80922b88",
+    "ut": 1628567016,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Nearly half a million",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 300,000",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
@@ -4007,6 +4112,49 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Rishad Bathiudeen remanded",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Minister Rishad Bathiudeen, who was arrested and detained under the Prevention of Terrorism Act for aiding and abetting the suicide bombers of the Easter Sunday attack, was remanded by Fort Magistrate Priyantha Liyanage,",
+    "url": "https://www.dailymirror.lk/latest_news/Rishad-Bathiudeen-remanded/342-217962",
+    "url_hash": "8895ac9cd9e6db9d19cd6164a1eaed26",
+    "ut": 1628599440,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Prevention of Terrorism Act",
+        "start_end": [
+          11,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fort Magistrate Priyantha Liyanage",
+        "start_end": [
+          32,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "9 Alternative International Destinations You'll Absolutely Love",
     "source": "www.forbes.com",
     "snippet": "As technology has taken over our lives, the world has gotten smaller. You can scroll through photographs of world wonders mere minutes after they were taken or video chat with friends and colleagues all over the world.",
@@ -5133,6 +5281,65 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Coronavirus live: UK's daily death toll at highest level since March while over 75% of adults now fully jabbed",
+    "source": "www.theguardian.com",
+    "snippet": "UK reports 146 daily deaths, highest figure since 12 March; more than three-quarters of adults in UK now fully vaccinated",
+    "url": "https://www.theguardian.com/world/live/2021/aug/10/coronavirus-live-news-china-india-arkansas?page=with:block-6112af348f0811859fec3a5e",
+    "url_hash": "0e77e467baefe23f86fde6d891080aa7",
+    "ut": 1628617435,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "146",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12 March",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than three-quarters",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Thailand set to fully reopen for tourists in 90 days",
     "source": "www.weeklyblitz.net",
     "snippet": "Less than\u00a0100 days\u00a0before it plans to throw open its borders to international visitors, Thailand is in the grip of a\u00a0worsening\u00a0COVID outbreak and a sluggish vaccine rollout. It's a position familiar to other travel-reliant countries facing the unenviable task of rescuing crucial tourism industries decimated by 18 months of pandemic while guarding against the risk that",
@@ -5154,6 +5361,560 @@
         "start_end": [
           58,
           60
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka's daily COVID deaths top 100 for second consecutive day",
+    "source": "www.adaderana.lk",
+    "snippet": "COVID-19 fatalities confirmed in Sri Lanka swept past the grim milestone of 100 for the second consecutive day as 118 more victims of COVID-19 infection were confirmed by the Director-General of Healt",
+    "url": "http://www.adaderana.lk/news.php?nid=76059",
+    "url_hash": "3c8591a2d78e67f73b4e03e72a7c1f35",
+    "ut": 1628621025,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second consecutive day",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Delta variant cases detected in Sri Lanka rise to 117",
+    "source": "www.adaderana.lk",
+    "snippet": "Delta variant cases of COVID-19 detected in Sri Lanka so far now stand at 117, says Dr. Chandima Jeewandara, the Director of the Department of Immunology & Molecular Medicine at Sri Jayewardenepura. The increase has been observed in an island-wide random sample check of COVID-infected individuals.",
+    "url": "http://www.adaderana.lk/news/75939/delta-variant-cases-detected-in-sri-lanka-climb-to-117",
+    "url_hash": "66d5723d5fe0c17b8039cd594c32e072",
+    "ut": 1628621025,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "117",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandima Jeewandara",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Immunology & Molecular Medicine",
+        "start_end": [
+          24,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Delta variant fuels Covid surge in US",
+    "source": "www.thedailystar.net",
+    "snippet": "The rapid spread of Delta variant of coronavirus pushed cases and hospitalizations in the United States to a six-month high as only eight intensive care unit beds were available on Monday in the state of Arkansas,",
+    "url": "https://www.thedailystar.net/news/world/usa/news/delta-variant-fuels-covid-surge-us-2149586",
+    "url_hash": "d0abfc741f6a181240a021bdb6fdff21",
+    "ut": 1628621025,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-month",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "only eight",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arkansas",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Team Sri Lanka returns medal-less but unbowed, says NOC",
+    "source": "www.ft.lk",
+    "snippet": "After weeks of gruelling competition, the Tokyo 2020 Olympics drew to a close this past week and with it team Sri Lanka returned home. ..",
+    "url": "https://www.ft.lk/sports/Team-Sri-Lanka-returns-medal-less-but-unbowed-says-NOC/23-721549",
+    "url_hash": "216d65736ea51ee6f584c3bc7f58d258",
+    "ut": 1628621040,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "weeks",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tokyo 2020 Olympics",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this past week",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Disaster imminent in Sri Lanka: Stop chicanery and bring in solutions!",
+    "source": "www.ft.lk",
+    "snippet": "I have already pointed out that the true debt burden would exceed 112% of the GDP in actual fact when the effect of accounting chicanery made by the Government on international sovereign bonds (i.e. understating the pay-off commitments arising from ISBs by taking,",
+    "url": "https://www.ft.lk/columns/Disaster-imminent-in-Sri-Lanka-Stop-chicanery-and-bring-in-solutions/4-721536",
+    "url_hash": "fbf262c7509b271299fddb2eb71fd4d5",
+    "ut": 1628621040,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "112%",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ISBs",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Vaccine Drive",
+    "source": "dailynews.lk",
+    "snippet": "The Government has decided to launch a three-day vaccine drive from August 10 in Western Province for people over 60 years. The general public can call 1906 hotline and get registered.",
+    "url": "https://dailynews.lk/tags/vaccine-drive",
+    "url_hash": "6a6ff4ff008793a9406feb09897a464f",
+    "ut": 1628628221,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "three-day",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 10",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Western Province",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1906",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Lanka rejects lockdown to beat Covid 'bomb'",
+    "source": "www.gulf-times.com",
+    "snippet": "Sri Lanka's government yesterday rejected mounting calls for an immediate lockdown to contain a surge in Covid-19 cases and deaths that is severely stretching hospitals and crematoriums.",
+    "url": "https://www.gulf-times.com/story/698216/Lanka-rejects-lockdown-to-beat-Covid-bomb",
+    "url_hash": "9ed480f67feafb32c0d63ba100fdcad0",
+    "ut": 1628628225,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Maldivian yacht builders establish $ 58 m facility in Hambantota Port",
+    "source": "www.ft.lk",
+    "snippet": "Sea Horse Yachts Ltd. recently entered into an agreement with Hambantota International Port Group (HIPG) to set up a state-of-the-art yacht building facility at the port. ..",
+    "url": "https://www.ft.lk/front-page/Maldivian-yacht-builders-establish-58-m-facility-in-Hambantota-Port/44-721567",
+    "url_hash": "b12b12da43f7334a9b1b9a8c100a7528",
+    "ut": 1628628225,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sea Horse Yachts Ltd.",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Hambantota International Port Group",
+        "start_end": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "China cases rise as Delta variant challenges Beijing",
+    "source": "www.newagebd.net",
+    "snippet": "China's coronavirus cases hit a seven-month high on Tuesday, after a cluster at a test site helped drive up numbers as the Delta variant",
+    "url": "https://www.newagebd.net/article/146024/china-cases-rise-as-delta-variant-challenges-beijing",
+    "url_hash": "b5104ff25bceae3ab57e37b43c87adc5",
+    "ut": 1628628225,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "seven-month",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Global coronavirus toll rises to 43,03,610",
+    "source": "www.newagebd.net",
+    "snippet": "China's coronavirus cases hit a seven-month high on Tuesday, after a cluster at a test site helped drive up numbers as the Delta variant",
+    "url": "https://www.newagebd.net/article/146024/index.php",
+    "url_hash": "100e9a3fd46ad7c6a057971a5ce9177e",
+    "ut": 1628628225,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "seven-month",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Govt. grapples to keep essential goods prices from going up",
+    "source": "www.ft.lk",
+    "snippet": "The Government yesterday announced several tough and difficult measures aimed at keeping the cost of living under check from a sharper rise amidst mounting pressure. ..",
+    "url": "https://www.ft.lk/top-story/Govt-grapples-to-keep-essential-goods-prices-from-going-up/26-721574",
+    "url_hash": "ebd8285f2bf46f4c047f1014f0e11f97",
+    "ut": 1628628249,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "UK's CDC Group commits $ 50 m to ComBank to bolster SME lending and climate projects",
+    "source": "www.ft.lk",
+    "snippet": "The Commercial Bank of Ceylon said yesterday it had secured a $ 50 million (about Rs. 10 billion at current exchange rates) loan from the CDC Group, the UK's development finance institution and impact investor,",
+    "url": "https://www.ft.lk/front-page/UK-s-CDC-Group-commits-50-m-to-ComBank-to-bolster-SME-lending-and-climate-projects/44-721571",
+    "url_hash": "69e65099ba5b23097ca94f7a464823d0",
+    "ut": 1628628254,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Commercial Bank of Ceylon",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 50 million",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10 billion",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the CDC Group",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Protest in Mannar demanding vaccines",
+    "source": "www.dailynews.lk",
+    "snippet": "A protest was held using mannequins with placards in the heart of the Mahawewa town urging the authorities to expedite COVID vaccination in the Puttalam District.The organizers said that the district had only received a small quota of vaccines compared to other districts.",
+    "url": "http://www.dailynews.lk/2021/08/11/local/256359/protest-mannar-demanding-vaccines",
+    "url_hash": "a904ea9e60d46a28a9101bdf68534370",
+    "ut": 1628631821,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Mahawewa",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Puttalam District",
+        "start_end": [
+          23,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Senior Professor Ranjith Premalal De Silva Vice-Chancellor University of Vocational Technology",
+    "source": "dailynews.lk",
+    "snippet": "There is a consensus that the structure of the Sri Lankan election system needs to be revised and improved. It has been a discussion point in meetings and deliberations of the Cabinet, Parliament,...",
+    "url": "http://dailynews.lk/line/senior-professor-ranjith-premalal-de-silva-vice-chancellor-university-vocational-technology",
+    "url_hash": "0033ec51a6d51674f40e1e09e1de7c9c",
+    "ut": 1628632661,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
