@@ -1,6 +1,65 @@
 [
   {
     "date": "2021-08-10",
+    "title": "The Latest: West Virginia governor encourages vaccination",
+    "source": "www.timesunion.com",
+    "snippet": "CHARLESTON, W.Va. \u2014 West Virginia Gov. Jim Justice said the rate of COVID-19 cases in his state is \"probably going to continue to get tougher in the weeks ahead.\" Justice has said he will not consider reinstating an indoor mask mandate and has continued to urge residents to be vaccinated.",
+    "url": "https://www.timesunion.com/news/article/The-Latest-Australia-to-get-1st-Moderna-doses-16373695.php",
+    "url_hash": "9449d5c505cc95c5c89390a83373ce20",
+    "ut": 1628554684,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "CHARLESTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "W.Va.",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "West Virginia",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jim Justice",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weeks ahead",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Justice",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Sri Lanka's Legal Regime on the Sea",
     "source": "www.msn.com",
     "snippet": "Part 1As an Island State situated in the centre of the Indian Ocean, the Sea holds out great potential for Sri Lanka. The Law of the Sea is therefore of importance to Sri Lanka as it determines her maritime boundaries and the jurisdictional zones therein.",
@@ -405,6 +464,108 @@
         "start_end": [
           72,
           73
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "SC to examine preparedness to tackle third wave of Covid",
+    "source": "www.newsr.in",
+    "snippet": "The Society of Indian Automobile Manufacturers has announced postponement of Auto Expo 2022 citing concerns and uncertainty due to the anticipated third wave of the COVID-19 pandemic. #AutoExpo2022..",
+    "url": "https://www.newsr.in/n/India/1zn36w1mzt/SC-to-examine-preparedness-to-tackle-third-wave.htm",
+    "url_hash": "51c8cb4acd162c170d35373deb98d816",
+    "ut": 1628558379,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Society of Indian Automobile Manufacturers",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Auto Expo 2022",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "AutoExpo2022",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "The Latest: Texas looks to hire health workers out of state",
+    "source": "www.myjournalcourier.com",
+    "snippet": "DALLAS \u2014 Texas is looking for out-of-state health workers to help fight its third wave of coronavirus infections. Gov. Greg Abbott's move Monday came as a county-owned hospital in Houston raised tents to accommodate its COVID-19 overflow.",
+    "url": "https://www.myjournalcourier.com/news/article/The-Latest-Australia-to-get-1st-Moderna-doses-16373695.php",
+    "url_hash": "1f0290f837820fb8daf1c123f7cc7d7f",
+    "ut": 1628560307,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "DALLAS",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Greg Abbott",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Houston",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]
