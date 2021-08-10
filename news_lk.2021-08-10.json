@@ -854,6 +854,25 @@
     "title": "People with HIV have increased risk from Covid: WHO expert",
     "source": "www.dailymirror.lk",
     "snippet": "A WHO (World Health Organisation) expert said people living with HIV had an increased risk for severe disease from Covid as well as hospitalisation and stressed the need to prioritise vaccination of them globally.",
+    "url": "https://www.dailymirror.lk/latest_news/People-with-HIV-have-increased-risk-from-Covid-WHO-expert/342-217939",
+    "url_hash": "8798f7045fad8851ef654335dbaab35b",
+    "ut": 1628559255,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "World Health Organisation",
+        "start_end": [
+          3,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "People with HIV have increased risk from Covid: WHO expert",
+    "source": "www.dailymirror.lk",
+    "snippet": "A WHO (World Health Organisation) expert said people living with HIV had an increased risk for severe disease from Covid as well as hospitalisation and stressed the need to prioritise vaccination of them globally.",
     "url": "https://www.dailymirror.lk/top_story/People-with-HIV-have-increased-risk-from-Covid-WHO-expert/155-217939",
     "url_hash": "74cc5995e780d0a54dc336227b095529",
     "ut": 1628559816,
@@ -4209,6 +4228,33 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Sri Lanka rejects lockdown to beat Covid 'bomb'",
+    "source": "news.yahoo.com",
+    "snippet": "Sri Lanka's government rejected on Tuesday mounting calls for an immediate lockdown to contain a surge in Covid-19 cases and deaths that is severely stretching hospitals and crematoriums.",
+    "url": "https://news.yahoo.com/sri-lanka-rejects-lockdown-beat-134506985.html",
+    "url_hash": "7b60562ee38e714c0656afe2b523dcaf",
+    "ut": 1628602464,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Sri Lanka, India, Maldives to cooperate on maritime safety and security",
     "source": "www.southasiamonitor.org",
     "snippet": "A trilateral security meeting among Sri Lanka, India and Maldives has identified maritime safety and security, terrorism and radicalization, trafficking and organized crime and cybersecurity as the \"f",
@@ -5367,6 +5413,33 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Disaster imminent in Sri Lanka: Stop chicanery and bring in solutions!",
+    "source": "www.ft.lk",
+    "snippet": "I have already pointed out that the true debt burden would exceed 112% of the GDP in actual fact when the effect of accounting chicanery made by the Government on international sovereign bonds (i.e. understating the pay-off commitments arising from ISBs by taking,",
+    "url": "https://www.ft.lk/opinion/Disaster-imminent-in-Sri-Lanka-Stop-chicanery-and-bring-in-solutions/14-721536",
+    "url_hash": "137d1274ee1ae31929f3479a82a2ca79",
+    "ut": 1628620477,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "112%",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ISBs",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Sri Lanka's daily COVID deaths top 100 for second consecutive day",
     "source": "www.adaderana.lk",
     "snippet": "COVID-19 fatalities confirmed in Sri Lanka swept past the grim milestone of 100 for the second consecutive day as 118 more victims of COVID-19 infection were confirmed by the Director-General of Healt",
@@ -5915,6 +5988,127 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Chrispil Benedict Fernando",
+    "source": "www.dailynews.lk",
+    "snippet": "The country was in huge danger of collapsing into a deep economic abyss if strict travel restrictions were not imposed throughout the country, Sri Lanka Public Health Inspectors' (PHI) Association,...",
+    "url": "http://www.dailynews.lk/line/chrispil-benedict-fernando",
+    "url_hash": "ed215a264a62208de43b503db91cd373",
+    "ut": 1628636000,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Public Health Inspectors'",
+        "start_end": [
+          24,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PHI) Association",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka's daily COVID deaths top 100 for second consecutive day",
+    "source": "www.lankaweb.com",
+    "snippet": "Daily COVID-19 fatalities confirmed in Sri Lanka swept past the grim milestone of 100 for the second consecutive day as 118 more victims of COVID-19 infection",
+    "url": "https://www.lankaweb.com/news/items/2021/08/10/sri-lankas-daily-covid-deaths-top-100-for-second-consecutive-day/",
+    "url_hash": "4865e11a5cad1ca1513be2694100aa2e",
+    "ut": 1628636184,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second consecutive day",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka: Bridging The 'Growing Trust-Deficit' With The Indian Neighbor - Analysis",
+    "source": "www.lankaweb.com",
+    "snippet": "The well-earned publicity that the 'Integrated Country Strategy' for Sri Lankan missions in India has received in the Indian media is a welcome for more reasons than one. In particular, it deserves to be praised for acknowledging the 'trust-deficit' that has re-emerged in the bilateral relations over the past year\u2014after a relatively smooth sail in the five years before it.",
+    "url": "http://www.lankaweb.com/news/items/2021/08/10/sri-lanka-bridging-the-growing-trust-deficit-with-the-indian-neighbor-analysis/",
+    "url_hash": "14e4c6bd9a9fae0b79630a183835c4f2",
+    "ut": 1628637684,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past year",
+        "start_end": [
+          59,
+          62
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the five years",
+        "start_end": [
+          69,
+          72
         ]
       }
     ]
