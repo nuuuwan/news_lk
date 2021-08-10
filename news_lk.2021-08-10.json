@@ -827,6 +827,16 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Lockdown not ruled out",
+    "source": "www.dailymirror.lk",
+    "snippet": "Health authorities say a lockdown has not been completely ruled out and appropriate steps will be taken when required. Government sources said that a brief lockdown and other restrictions are being considered to contain the spread of the coronavirus.",
+    "url": "https://www.dailymirror.lk/top_story/Lockdown-not-ruled-out/155-217938",
+    "url_hash": "4223885ef55c5f34398e4a00ce48c1cf",
+    "ut": 1628561288,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-10",
     "title": "Uncertainty over next stock of Sputnik vaccines",
     "source": "www.dailymirror.lk",
     "snippet": "Uncertainty remains over the next stock of Sputnik V vaccines which were scheduled to be delivered to Sri Lanka. ..",
@@ -1709,6 +1719,76 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Possible travel restrictions to be imposed",
+    "source": "www.dailymirror.lk",
+    "snippet": "Possible travel restrictions, restricting the movement of people is likely to be imposed today or tomorrow following discussions with President Gotabaya Rajapaksa, the Daily Mirror learns. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Possible-travel-restrictions-to-be-imposed/342-217946",
+    "url_hash": "bc657adbbee36a6e126c69c2a9f47188",
+    "ut": 1628572088,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Cabinet approval to import organic fertilizer for Maha Season",
+    "source": "www.dailymirror.lk",
+    "snippet": "Cabinet approval has been granted to import organic fertilizer required for the Maha season (2020/21) as the local fertilizer producers were unable to supply the required volume. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Cabinet-approval-to-import-organic-fertilizer-for-Maha-Season/342-217945",
+    "url_hash": "6ac17a81781fa2926afd30efd81668ab",
+    "ut": 1628572088,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the Maha season",
+        "start_end": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Highest number of COVID vaccine second jabs administered yesterday in Sri Lanka",
     "source": "www.dailynews.lk",
     "snippet": "The highest number of second dose of COVID vaccinations administered in a single day was carried out yesterday. It was 311,102. A total of 490,805 were vaccinated yesterday. Accordingto the Epidemiology Unit statistics,",
@@ -1838,6 +1918,49 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Justice Nawaz declines to hear Azath Salley's petition",
+    "source": "www.dailymirror.lk",
+    "snippet": "Supreme Court Judge A.H.M.D. Nawaz today recused himself from hearing the Fundamental Rights petition filed by former Western Province Governor Azath Salley. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Justice-Nawaz-declines-to-hear-Azath-Salleys-petition/108-217947",
+    "url_hash": "8c84f7407a013280566c49c79af87c35",
+    "ut": 1628575688,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Western Province",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Azath Salley",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Sri Lanka abolishes tax on milk powder import",
     "source": "economynext.com",
     "snippet": "Sri Lanka's cabinet of ministers has decided to abolish the import tax on milk powder to maintain its current price, co-cabinet spokesman Minister Keheliya Rambukwella said on Tuesday (10). The move comes after severe scarcity for import milk powder has been reported amid speculation of hoarding.",
@@ -1910,6 +2033,234 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka to vaccinate below 30s as Covid cases rise among youths",
+    "source": "www.newindianexpress.com",
+    "snippet": "Lanka has vaccinated 50 per cent of the population with one dose, and 13.8 per cent with two doses by August 08.",
+    "url": "https://www.newindianexpress.com/world/2021/aug/10/sri-lanka-to-vaccinate-below-30s-as-covid-cases-rise-among-youths-2342739.html",
+    "url_hash": "1d522adc5620ec8f683b8a2eddd5e322",
+    "ut": 1628579296,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "50 per cent",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "13.8 per cent",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 08",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Notice from Examination Department",
+    "source": "www.dailynews.lk",
+    "snippet": "Issuing a notice the Examinations Department has stated that due to the prevailing COVID-19 situation the services will be provided as follow,",
+    "url": "http://www.dailynews.lk/2021/08/10/local/256241/notice-examination-department",
+    "url_hash": "98a23bb29ea1c9740ef366abef34a630",
+    "ut": 1628579592,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Examinations Department",
+        "start_end": [
+          3,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Mohomed Rasooldeem",
+    "source": "dailynews.lk",
+    "snippet": "A total of 18 mosques in the Beruwela area including Jumma mosque and Thakiyaas, have been closed on instructions from the Mosque Federation of the area where there is sizable Muslim population.... A total of 2,953 COVID-19 positive cases were reported in Sri Lanka,... About 12-15 midwives contract COVID-19 daily - GMA President About 12- 15 midwives contract COVID-19 daily due to the prevailing...",
+    "url": "https://dailynews.lk/line/mohomed-rasooldeem",
+    "url_hash": "d0bc1c20d786b971b3294e608646c418",
+    "ut": 1628580432,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "mosques",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beruwela",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jumma",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thakiyaas",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Mosque Federation",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslim",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,953",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "About 12-15",
+        "start_end": [
+          48,
+          52
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "COVID-19 daily",
+        "start_end": [
+          54,
+          56
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          61,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka cabinet appoints committee to look into teachers' salary demands",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - As an ongoing strike by Sri Lanka's school teachers and principals over long-running salary anomalies is about to move into its second month, the cabinet of ministers on Monday (09) appointed a four-member committee to recommend a ...",
+    "url": "https://economynext.com/sri-lanka-cabinet-appoints-committee-to-look-into-teachers-salary-demands-84734/",
+    "url_hash": "3124e72053ff7e7020dee1a33037ba04",
+    "ut": 1628582732,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "its second month",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "09",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]

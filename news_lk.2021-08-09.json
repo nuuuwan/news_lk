@@ -6595,6 +6595,81 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Sri Lankan shares flat as losses in material stocks offset industrial gains",
+    "source": "cn.reuters.com",
+    "snippet": "Sri Lankan shares ended flat on Monday, as gains in industrials were offset by losses in material stocks. * The CSE All-Share index ended 0.03% higher at 8,101.39. * Conglomerates Expolanka Holdings and Browns Investments were the top two boosts to the index,",
+    "url": "https://cn.reuters.com/article/sri-lanka-markets-close-idCNL4N2PG298",
+    "url_hash": "ce1766659d3e4141d6fa2e5aeadcf7db",
+    "ut": 1628510896,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.03%",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "8,101.39",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Conglomerates Expolanka Holdings",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Browns Investments",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "The Latest: Vaccine-maker BioNTech sees profits soar in Q2",
     "source": "apnews.com",
     "snippet": "BERLIN \u2014 German pharmaceutical maker BioNTech, which developed the first widely used coronavirus vaccine with Pfizer, saw its profits surge in the second quarter of 2021. The Mainz-based company said Monday that it made a net profit of almost 2.",
@@ -7283,6 +7358,57 @@
     "url": "https://www.dailymirror.lk/breaking_news/111-more-die-of-COVID-19-Death-toll-surges-to-5-222/108-217882",
     "url_hash": "99f1a436df956d1bca6cb5a0534f5a9d",
     "ut": 1628518078,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "111",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "08",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,222",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "111 more die of COVID-19: Death toll surges to 5,222",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 111 more COVID-19 related deaths that occurred yesterday (08) were confirmed by the Director-General of Health Services today pushing the death toll to 5,222. ..",
+    "url": "https://www.dailymirror.lk/latest_news/111-more-die-of-COVID-19-Death-toll-surges-to-5-222/342-217882",
+    "url_hash": "a59591aeacca1d325b3d9512799d0278",
+    "ut": 1628518088,
     "ent_info_list": [
       {
         "label": "CARDINAL",
