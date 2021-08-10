@@ -9183,6 +9183,41 @@
   {
     "date": "2021-08-09",
     "title": "The Latest: Local Florida school official to require masks",
+    "source": "madison.com",
+    "snippet": "MIAMI \u2014 The superintendent of the school district in the capital of Florida said Monday that he will require masks amid an increase in COVID-19 cases and hospitalizations fueled by",
+    "url": "https://madison.com/news/world/the-latest-local-florida-school-official-to-require-masks/article_765fee32-ee10-5c45-814c-531f7f0bf645.html",
+    "url_hash": "1e6324fc3957d2b8367d5b237c69edcc",
+    "ut": 1628536276,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "MIAMI",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: Local Florida school official to require masks",
     "source": "tulsaworld.com",
     "snippet": "MIAMI \u2014 The superintendent of the school district in the capital of Florida said Monday that he will require masks amid an increase in COVID-19 cases and hospitalizations fueled by",
     "url": "https://tulsaworld.com/news/world/the-latest-local-florida-school-official-to-require-masks/article_5a3a84c1-49b4-5298-bd79-20b180bf734d.html",
@@ -9940,6 +9975,41 @@
         "start_end": [
           23,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: Washington governor sets vaccine requirement",
+    "source": "madison.com",
+    "snippet": "SEATTLE \u2014 Most state workers in Washington, as well as private health care and long-term care employees, will be required to show proof of vaccination for COVID-19 by Oct. 18",
+    "url": "https://madison.com/news/national/the-latest-washington-governor-sets-vaccine-requirement/article_765fee32-ee10-5c45-814c-531f7f0bf645.html",
+    "url_hash": "f9decd5cf9645e5cd6716317267be7c7",
+    "ut": 1628543476,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SEATTLE",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Oct. 18",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]

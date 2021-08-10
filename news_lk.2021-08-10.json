@@ -2931,6 +2931,49 @@
     "title": "Writ petition seeks an order to detain Captain and crew of MV X-Press Pearl",
     "source": "www.dailymirror.lk",
     "snippet": "The Centre for Environmental Justice yesterday filed a writ petition in Court of Appeal seeking an Interim Order directing the authorities to take necessary steps to detain the Captain and the crew of MV X-Press Pearl to institute necessary criminal and civil actions against them.",
+    "url": "https://www.dailymirror.lk/latest_news/Writ-petition-seeks-an-order-to-detain-Captain-and-crew-of-MV-X-Press-Pearl/342-217953",
+    "url_hash": "992e5200f7345143806d65ce5905e483",
+    "ut": 1628586666,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Centre for Environmental Justice",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Court",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MV X-Press",
+        "start_end": [
+          33,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Writ petition seeks an order to detain Captain and crew of MV X-Press Pearl",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Centre for Environmental Justice yesterday filed a writ petition in Court of Appeal seeking an Interim Order directing the authorities to take necessary steps to detain the Captain and the crew of MV X-Press Pearl to institute necessary criminal and civil actions against them.",
     "url": "https://www.dailymirror.lk/breaking_news/Writ-petition-seeks-an-order-to-detain-Captain-and-crew-of-MV-X-Press-Pearl/108-217953",
     "url_hash": "86479be98b5dc07ab63916794d1864f3",
     "ut": 1628587149,
@@ -3449,6 +3492,111 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Japan immigration agency says 'lack of crisis awareness' behind SL woman's death",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Immigration Services Agency of Japan on Aug. 10 released a final report on the death of a Sri Lankan woman at a regional detention center in central Japan, pointing to the lack of a proper medical response after she said she was feeling unwell and stating that the facility ''lacked a sense of crisis and failed to accurately grasp the circumstances as an organization.",
+    "url": "https://www.dailymirror.lk/breaking_news/Japan-immigration-agency-says-lack-of-crisis-awareness-behind-SL-womans-death/108-217956",
+    "url_hash": "fe8ceb4a80c161e6fefbda2e0dff4cdc",
+    "ut": 1628593866,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Immigration Services Agency",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Aug. 10",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Financials, consumer staples push Sri Lankan shares to close lower",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares ended lower on Tuesday, weighed down by losses in financial and consumer staple stocks, while rising domestic COVID-19 cases also weighed on investors' risk appetite.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close-idUSL4N2PH2S5",
+    "url_hash": "0d7ec866464704261d2146d3a37684c2",
+    "ut": 1628593876,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka foreign employment bureau wants \"rapid PCR\" machines at Colombo airport",
+    "source": "economynext.com",
+    "snippet": "The Sri Lanka Bureau of Foreign Employment (SLBFE) is in the process of getting \"rapid PCR\" machines installed at the Bandaranayake International Airport (BIA), with health ministry approval pending.",
+    "url": "https://economynext.com/sri-lanka-foreign-employment-bureau-wants-rapid-pcr-machines-at-colombo-airport-84746/",
+    "url_hash": "511b25614bf2e453201e60413dd58dd1",
+    "ut": 1628593895,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Bureau of Foreign Employment",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Bandaranayake International Airport",
+        "start_end": [
+          23,
+          27
         ]
       }
     ]
