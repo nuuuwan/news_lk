@@ -3361,6 +3361,33 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Financials, consumer staples push Sri Lankan shares to close lower",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares ended lower on Tuesday, weighed down by losses in financial and consumer staple stocks, while rising domestic COVID-19 cases also weighed on investors' risk appetite.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/financials-consumer-staples-push-sri-lankan-shares-to-close-lower-idUSL4N2PH2S5",
+    "url_hash": "f53a00662aa6207ce9b75e30be45759e",
+    "ut": 1628593711,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Lockdown will be last resort, says Sri Lanka govt, despite surging COVID-19 deaths",
     "source": "economynext.com",
     "snippet": "The island nation saw a record 111 new COVID-19 deaths Monday ... But throughout the world including Sri Lanka, there has been growing public agitation against lockdown. There has been protests in some foreign countries,\" he told the reporters.",
@@ -3597,6 +3624,248 @@
         "start_end": [
           23,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka shares down on looming lockdown fears",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stocks slipped 0.38 percent on Tuesday as fears over a looming lockdown in the face of spike in Covid-19 cases",
+    "url": "https://economynext.com/sri-lanka-shares-down-on-looming-lockdown-fears-84750/",
+    "url_hash": "09c124aea7fe43a6d3ad47326f302624",
+    "ut": 1628601047,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.38 percent",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka, India, Maldives to cooperate on maritime safety and security",
+    "source": "www.southasiamonitor.org",
+    "snippet": "A trilateral security meeting among Sri Lanka, India and Maldives has identified maritime safety and security, terrorism and radicalization, trafficking and organized crime and cybersecurity as the \"f",
+    "url": "https://www.southasiamonitor.org/region/sri-lanka-india-maldives-cooperate-maritime-safety-and-security",
+    "url_hash": "498cbe0481f40ff7ae95579c65d84772",
+    "ut": 1628602891,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka rejects lockdown to beat Covid 'bomb'",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka's government rejected on Tuesday mounting calls for an immediate lockdown to contain a surge in Covid-19 cases and deaths that is severely stretching hospitals and crematoriums. At one morgue in Colombo on Tuesday morning,",
+    "url": "https://www.msn.com/en-za/news/world/sri-lanka-rejects-lockdown-to-beat-covid-bomb/ar-AAN9Hku",
+    "url_hash": "f46b93eb34907e849b31ca3d68c1e4b8",
+    "ut": 1628603095,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "morning",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka rejects lockdown to beat Covid 'bomb'",
+    "source": "www.france24.com",
+    "snippet": "Sri Lanka's government rejected on Tuesday mounting calls for an immediate lockdown to contain a surge in Covid-19 cases and deaths that is severely stretching hospitals and crematoriums. Government spokesman and Media Minister Keheliya Rambukwella said the country had not reached a critical stage even as the island nation suffers more than 100 deaths per day on average.",
+    "url": "https://www.france24.com/en/live-news/20210810-sri-lanka-rejects-lockdown-to-beat-covid-bomb",
+    "url_hash": "47d1767cf829604626d7cb1828fd2d37",
+    "ut": 1628603191,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 100",
+        "start_end": [
+          52,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Maldivian yacht builders establish facility in Hambantota Port",
+    "source": "nation.lk",
+    "snippet": "Ltd. recently entered into an agreement with the Hambantota International Port Group (HIPG) to set up a state-of-the-art yacht building facility at the port. The agreement was signed by Johnson Liu, CEO,",
+    "url": "https://nation.lk/online/maldivian-yacht-builders-establish-facility-in-hambantota-port-109430.html",
+    "url_hash": "a90a2da6ac3b6ea19b24043c5168f858",
+    "ut": 1628603191,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Hambantota International Port Group",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Johnson Liu",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "How a young entrepreneur finds worth in plastic waste",
+    "source": "www.nation.lk",
+    "snippet": "As industrialisation and population increase, Sri Lanka is battling a threatening matter; the growth in irresponsible plastic waste disposal/management. Plastic consumption on the island sees a 16% increase, where 265,000 metric tons are consumed annually.",
+    "url": "https://www.nation.lk/online/how-a-young-entrepreneur-finds-worth-in-plastic-waste-109443.html",
+    "url_hash": "e68aaf2b65b4525cfd8fd4dd385fb187",
+    "ut": 1628604331,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "16%",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "265,000 metric tons",
+        "start_end": [
+          36,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "annually",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]

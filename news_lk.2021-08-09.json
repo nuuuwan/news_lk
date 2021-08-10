@@ -7536,6 +7536,25 @@
   {
     "date": "2021-08-09",
     "title": "The Latest: France's virus pass required for cafes, trains",
+    "source": "accesswdun.com",
+    "snippet": "France is now requiring people, including tourists, to show a QR code proving they have a special virus pass before they can enjoy restaurants and cafes or travel across the country",
+    "url": "https://accesswdun.com/article/2021/8/1029248",
+    "url_hash": "75df08fe9db676b7c93c4c8c02f630cc",
+    "ut": 1628518119,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: France's virus pass required for cafes, trains",
     "source": "www.expressnews.com",
     "snippet": "PARIS \u2014 France is now requiring people to show a QR code proving they have a special virus pass before they can enjoy restaurants and cafes or travel across the country. The measure is part of a government plan to encourage more people to get a COVID-19 vaccine shot and slow down a surge in infections,",
     "url": "https://www.expressnews.com/news/article/The-Latest-Australia-to-get-1st-Moderna-doses-16373695.php",
@@ -7704,6 +7723,33 @@
         "start_end": [
           19,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "The Latest: France's virus pass required for cafes, trains",
+    "source": "chinapost.nownews.com",
+    "snippet": "PARIS \u2014 France is now requiring people to show a QR code proving they have a special virus pass before they can enjoy restaurants and cafes or travel across the country. The measure is part of a government plan to encourage more people to get a COVID-19 vaccine shot and slow down a surge in",
+    "url": "https://chinapost.nownews.com/20210809-2699590",
+    "url_hash": "45b3f2c7e235de0c5eea8e58d8615ccd",
+    "ut": 1628521735,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "PARIS",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          2,
+          3
         ]
       }
     ]
