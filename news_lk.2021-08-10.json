@@ -1,6 +1,148 @@
 [
   {
     "date": "2021-08-10",
+    "title": "Shiromy Abhayasinghe",
+    "source": "www.dailynews.lk",
+    "snippet": "The Government has plunged the entire country into a catastrophe by using the Army to control the COVID-19 pandemic, casting aside those attached to the health service, UNP General Secretary Palitha... A total of 2,953 COVID-19 positive cases were reported in Sri Lanka,... About 12-15 midwives contract COVID-19 daily - GMA President About 12- 15 midwives contract COVID-19 daily due to the prevailing...",
+    "url": "http://www.dailynews.lk/line/shiromy-abhayasinghe",
+    "url_hash": "3bc9ff8f08ef7dab3b365683887c66a1",
+    "ut": 1628554084,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Palitha",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,953",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "About 12-15",
+        "start_end": [
+          48,
+          52
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "COVID-19 daily",
+        "start_end": [
+          54,
+          56
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          61,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Three players test positive for COVID-19 ahead of SLC T20 League",
+    "source": "www.islandcricket.lk",
+    "snippet": "The players and officials of the four teams participating in the Sri Lanka Cricket (SLC) T20 League left Colombo for Kandy yesterday sans three players, who tested positive for COVID-19, and a few other players,",
+    "url": "https://www.islandcricket.lk/news/three-players-test-positive-for-covid-19-ahead-of-slc-t20-league/",
+    "url_hash": "70e06f1490f7eba38e1faba251ff58e6",
+    "ut": 1628554090,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Sri Lanka Cricket",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "T20 League",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "The Latest: West Virginia governor encourages vaccination",
     "source": "www.timesunion.com",
     "snippet": "CHARLESTON, W.Va. \u2014 West Virginia Gov. Jim Justice said the rate of COVID-19 cases in his state is \"probably going to continue to get tougher in the weeks ahead.\" Justice has said he will not consider reinstating an indoor mask mandate and has continued to urge residents to be vaccinated.",
@@ -470,6 +612,57 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Sri Lanka gets tourism investments despite Coronavirus pandemic",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka is getting proposals to invest in tourism despite a Coronavirus pandemic with 64 projects now being evaluated, and 38 projects valued at 102.3 million dollars being approved, the tourism office said.",
+    "url": "https://economynext.com/sri-lanka-gets-tourism-investments-despite-coronavirus-pandemic-84729/",
+    "url_hash": "c8fc221d69c49477e45336646a3fb9f4",
+    "ut": 1628557709,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coronavirus",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "64",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "38",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "102.3 million dollars",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "SC to examine preparedness to tackle third wave of Covid",
     "source": "www.newsr.in",
     "snippet": "The Society of Indian Automobile Manufacturers has announced postponement of Auto Expo 2022 citing concerns and uncertainty due to the anticipated third wave of the COVID-19 pandemic. #AutoExpo2022..",
@@ -566,6 +759,223 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Uncertainty over next stock of Sputnik vaccines",
+    "source": "www.dailymirror.lk",
+    "snippet": "Uncertainty remains over the next stock of Sputnik V vaccines which were scheduled to be delivered to Sri Lanka. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Uncertainty-over-next-stock-of-Sputnik-vaccines/108-217940",
+    "url_hash": "7d8b5d304bf669180c8c1f1177c752f1",
+    "ut": 1628561280,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "What are the highest and lowest Test totals featuring four or more ducks?",
+    "source": "www.espn.com",
+    "snippet": "Jimmy Anderson and Stuart Broad, with a combined age of 74, opened the bowling Test against India. Was this anywhere near a record? asked Phil Wiseman from England The combined age of England's new-ball pair at Trent Bridge Test - Jimmy Anderson turned 39 less than a fortnight ago,",
+    "url": "https://www.espn.com/cricket/story/_/id/31995519/ask-steven-highest-lowest-test-totals-featuring-four-more-ducks",
+    "url_hash": "395aa0f9b9e117b80e13588aaf2347d9",
+    "ut": 1628561318,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jimmy Anderson",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Stuart Broad",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "74",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Phil Wiseman",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Trent Bridge Test - Jimmy Anderson",
+        "start_end": [
+          43,
+          49
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "39",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Keiji Morita",
+    "source": "dailynews.lk",
+    "snippet": "In 1964, an unknown Olympian from a foreign country took Japan's breath away.The Olympian became known in Japan as \"Uniform Number 67,\" the runner from Ceylon (now Sri Lanka) who didn't abandon the... A total of 2,953 COVID-19 positive cases were reported in Sri Lanka,... About 12-15 midwives contract COVID-19 daily - GMA President About 12- 15 midwives contract COVID-19 daily due to the prevailing...",
+    "url": "https://dailynews.lk/line/keiji-morita",
+    "url_hash": "96d3592e46f641e205adf2c68f3e2544",
+    "ut": 1628562244,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "1964",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Olympian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Olympian",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "67",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ceylon",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,953",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          54,
+          56
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "About 12-15",
+        "start_end": [
+          58,
+          62
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "COVID-19 daily",
+        "start_end": [
+          64,
+          66
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          71,
+          72
         ]
       }
     ]
