@@ -837,6 +837,16 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Lockdown not ruled out",
+    "source": "www.dailymirror.lk",
+    "snippet": "Health authorities say a lockdown has not been completely ruled out and appropriate steps will be taken when required. Government sources said that a brief lockdown and other restrictions are being considered to contain the spread of the coronavirus.",
+    "url": "https://www.dailymirror.lk/breaking_news/Lockdown-not-ruled-out/108-217938",
+    "url_hash": "b5cb8bad1a7c7dbdeb218fbe8387290b",
+    "ut": 1628561289,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-10",
     "title": "Uncertainty over next stock of Sputnik vaccines",
     "source": "www.dailymirror.lk",
     "snippet": "Uncertainty remains over the next stock of Sputnik V vaccines which were scheduled to be delivered to Sri Lanka. ..",
@@ -2004,6 +2014,57 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Sri Lanka abolishes tax on milk powder import for maintain prices",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's cabinet has decided to abolish the import tax of 175 rupees per kg of milk powder to maintain its current price as importers have demanded a price hike, co-cabinet spokesman Keheliya Rambukwella said on Tuesday (10).",
+    "url": "https://economynext.com/sri-lanka-abolishes-tax-on-milk-powder-import-for-maintain-prices-84731/",
+    "url_hash": "1dc3d487789e5d56fb62ab111eb5574b",
+    "ut": 1628575713,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "175",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Government to resolve Milk Powder shortage",
     "source": "www.dailynews.lk",
     "snippet": "The attention of the Cabinet of Ministers focused on the Milk powder shortage that currently prevails in the Market. Accordingly, the Cabinet of Ministers decided to vest the powers to the Finance Minister to study the matter and take necessary action to ensure that sufficient stocks of milk powder are supplied to the local market by revising the existing tax rates or taking other appropriate measures to import milk powder without increasing the price of milk powder in the local market.",
@@ -2103,6 +2164,57 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "China's Covid-Zero Risks; Singapore 70% Vaccinated: Virus Update",
+    "source": "www.msn.com",
+    "snippet": "China's latest outbreak continues to expand, with more than 100 symptomatic cases reported on Tuesday as the nation's Covid-zero strategy risks leaving it isolated for years.",
+    "url": "https://www.msn.com/en-us/money/other/singapore-70-vaccinated-canada-s-india-curbs-virus-update/ar-AAN7MfK",
+    "url_hash": "00941ecf31eea165fc343f131a843605",
+    "ut": 1628579305,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 100",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Covid-zero",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
@@ -2305,6 +2417,205 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Sharp spike in COVID cases, deaths toll could rise in coming weeks: PHI Head",
+    "source": "www.dailymirror.lk",
+    "snippet": "No matter what could be done in the next two weeks, the number of COVID positive cases and COVID-related deaths will rise sharply, Public Health Inspectors' (PHI) Union President Upul Rohana said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Sharp-spike-in-COVID-cases-deaths-toll-could-rise-in-coming-weeks-PHI-Head/108-217949",
+    "url_hash": "808ab851e542f7ad43b56bc68d2ae368",
+    "ut": 1628582889,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the next two weeks",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Public Health Inspectors'",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Upul Rohana",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Guinea records West Africa's first Marburg virus death: WHO",
+    "source": "www.dailymirror.lk",
+    "snippet": "Health authorities in Guinea have confirmed one death from Marburg virus, a highly infectious hemorrhagic fever similar to Ebola, the World Health Organization said on Monday. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Guinea-records-West-Africas-first-Marburg-virus-death-WHO/108-217948",
+    "url_hash": "deaf2389a45c1bc883f21fe2eb3d31b5",
+    "ut": 1628582889,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Guinea",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Marburg",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Health Organization",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "This government is too stubborn - Sajith",
+    "source": "www.dailymirror.lk",
+    "snippet": "Whilst expressing his willingness to support the government to overcome the current medical crisis, Leader of Opposition Sajith Premadasa today questioned the government's delay in calling for an All Party Conference.",
+    "url": "https://www.dailymirror.lk/breaking_news/This-government-is-too-stubborn-Sajith/108-217950",
+    "url_hash": "cc4cab2b300086fcd06ca35d7e16c395",
+    "ut": 1628582889,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Opposition Sajith Premadasa",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "an All Party Conference",
+        "start_end": [
+          29,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Detained Rishard produced in court",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Minister Rishard Bathiudeen who was arrested and detained under the Prevention of Terrorism Act for aiding and abetting the suicide bombers of the Easter Sunday attack has been produced before the Fort Magistrate Court today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Detained-Rishard-produced-in-court/108-217951",
+    "url_hash": "ed2c48325efc1c9644ca3906a3a125dd",
+    "ut": 1628582909,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rishard Bathiudeen",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Prevention of Terrorism Act",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Fort Magistrate Court",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Posts mislead on Sri Lankan team's 'stretched resources' at Tokyo Olympics",
+    "source": "factcheck.afp.com",
+    "snippet": "An image of a Sri Lankan runner using safety pins to attach her name tag to her shirt at the Tokyo Olympics has been shared in multiple posts, along with a claim implying that the national team's resources are stretched because \"60 officials\" chose to accompany them.",
+    "url": "https://factcheck.afp.com/http%253A%252F%252Fdoc.afp.com%252F9JT2JU-1",
+    "url_hash": "14b0d3e47a707025cb305948bb04b32f",
+    "ut": 1628582909,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Tokyo Olympics",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "60",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "From Being An Outsider To Insider, Here's Jacqueline Fernandez's Journey Unfolded",
     "source": "www.herzindagi.com",
     "snippet": "Do you also love and follow Jacqueline Fernandez? If yes, then read on and discover all that you need to know about her journey.",
@@ -2385,6 +2696,248 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Inter Province travel restriction to be strictly monitored from today - Army Chief",
+    "source": "www.dailymirror.lk",
+    "snippet": "The inter province travel restriction will be strictly monitored from today and no one will be allowed to cross provinces other than essential and health workers, Army Commander General Shavendra Silva told Daily Mirror a short while ago.",
+    "url": "https://www.dailymirror.lk/top_story/Inter-Province-travel-restriction-to-be-strictly-monitored-from-today---Army-Chief/155-217952",
+    "url_hash": "90c4f270feb3b463c24f47d1f34d1478",
+    "ut": 1628586489,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Writ petition seeks an order to detain Captain and crew of MV X-Press Pearl",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Centre for Environmental Justice yesterday filed a writ petition in Court of Appeal seeking an Interim Order directing the authorities to take necessary steps to detain the Captain and the crew of MV X-Press Pearl to institute necessary criminal and civil actions against them.",
+    "url": "https://www.dailymirror.lk/breaking_news/Writ-petition-seeks-an-order-to-detain-Captain-and-crew-of-MV-X-Press-Pearl/108-217953",
+    "url_hash": "86479be98b5dc07ab63916794d1864f3",
+    "ut": 1628587149,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Centre for Environmental Justice",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Court",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MV X-Press",
+        "start_end": [
+          33,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Possible travel restrictions to be imposed",
+    "source": "www.dailymirror.lk",
+    "snippet": "Possible travel restrictions, restricting the movement of people is likely to be imposed today or tomorrow following discussions with President Gotabaya Rajapaksa, the Daily Mirror learns. A decisions on the fresh travel restrictions or possibly even a ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Possible-travel-restrictions-to-be-imposed/108-217946",
+    "url_hash": "e29c7f82654066ca647db8c54ab9164c",
+    "ut": 1628587449,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Forty unidentified bodies lying at hospital since 2017 to be buried",
+    "source": "www.adaderana.lk",
+    "snippet": "The court has ordered to bury 40 unidentified bodies lying at National Hospital in Colombo since 2017. According to reports, these bodies are expected to be buried at Oddamavadi following necessary legal procedures.",
+    "url": "http://www.adaderana.lk/news.php?nid=76049",
+    "url_hash": "ecc5d36c87114bd658621eeba73ca721",
+    "ut": 1628587521,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "40",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Hospital in Colombo",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2017",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oddamavadi",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Lockdown urged in Sri Lanka as Delta spike overwhelms hospitals",
+    "source": "www.ttgasia.com",
+    "snippet": "Calls from Sri Lankan healthcare personnel are growing louder by the day for the government to immediately impose a nationwide lockdown or curfews as a Delta-fuelled surge in Covid-19 cases sweep the country.",
+    "url": "https://www.ttgasia.com/2021/08/10/lockdown-urged-in-sri-lanka-as-delta-spike-overwhelms-hospitals/",
+    "url_hash": "a5fc81def2f23385ce0c0c7dd20a3471",
+    "ut": 1628588429,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the day",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Foreign Afghan War contractors stranded in Dubai",
+    "source": "www.arkansasonline.com",
+    "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home.",
+    "url": "https://www.arkansasonline.com/news/2021/aug/10/foreign-afghan-war-contractors-stranded-in-dubai/",
+    "url_hash": "5d91b52805ae7fe478d8d72b8d1d5d6e",
+    "ut": 1628589325,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
