@@ -1528,6 +1528,41 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "apnews.com",
+    "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home.",
+    "url": "https://apnews.com/article/us-war-afghanistan-contractors-dubai-a5fe2dadffd222102d2875b776dbe794",
+    "url_hash": "a7002ed97dcf10426172a65cae9aa708",
+    "ut": 1628568518,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Cricketers arrive in Kandy for SLC T20 League : Asalanka, Rajapakse Absent",
     "source": "www.islandcricket.lk",
     "snippet": "All national cricketers selected to play in the Sri Lanka Cricket (SLC) T20 League reached Kandy yesterday. The tournament will commence on Thursday and will continue till August 24.",
@@ -3757,6 +3792,33 @@
     "url": "https://www.dailymirror.lk/latest_news/Do-not-opt-out-of-online-education-Minister-requests-teachers/342-217958",
     "url_hash": "28cd203a5cb4566dfa4c85f1d8d9d148",
     "ut": 1628597280,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Do not opt out of online education: Minister requests teachers",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Education Minister also requested teachers and principals not to opt out of online education as the online education is essential for our children as there is an inability to open schools in the country today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Do-not-opt-out-of-online-education-Minister-requests-teachers/108-217958",
+    "url_hash": "c3a2247e1b68be8456b135f386c5a788",
+    "ut": 1628597297,
     "ent_info_list": [
       {
         "label": "ORG",
