@@ -784,6 +784,35 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Lockdown not ruled out",
+    "source": "www.dailymirror.lk",
+    "snippet": "Health authorities say a lockdown has not been completely ruled out and appropriate steps will be taken when required. Government sources said that a brief lockdown and other restrictions are being considered to contain the spread of the coronavirus.",
+    "url": "https://www.dailymirror.lk/latest_news/Lockdown-not-ruled-out/342-217938",
+    "url_hash": "4ba55a4330e41fd467949cc0e30a325b",
+    "ut": 1628561300,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Bureau Veritas introduces organic fertilizer analysis for Sri Lanka",
+    "source": "island.lk",
+    "snippet": "In supporting the vision of the country and sector to embrace organic fertilizers to improve and achieve better standards of healthy living, Bureau Veritas Consumer Products Services Lanka, part of the global leader for testing,",
+    "url": "https://island.lk/bureau-veritas-introduces-organic-fertilizer-analysis-for-sri-lanka/",
+    "url_hash": "0a4517770cbf05c41595c6c19132d9ad",
+    "ut": 1628561309,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Bureau Veritas Consumer Products Services Lanka",
+        "start_end": [
+          23,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "What are the highest and lowest Test totals featuring four or more ducks?",
     "source": "www.espn.com",
     "snippet": "Jimmy Anderson and Stuart Broad, with a combined age of 74, opened the bowling Test against India. Was this anywhere near a record? asked Phil Wiseman from England The combined age of England's new-ball pair at Trent Bridge Test - Jimmy Anderson turned 39 less than a fortnight ago,",
@@ -976,6 +1005,132 @@
         "start_end": [
           71,
           72
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Samsung Launches #BingeMonster Galaxy M32 with Segment-Best Display in Sri Lanka",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Features 6.4\u2033 FHD+ Super AMOLED display with 90Hz refresh rate Takes High Brightness Mode to 800 nits Sports massive 5000mAh battery and 64MP Quad Camera Samsung, Sri Lanka's No.1 smartphone brand announced the sale of Galaxy M32,",
+    "url": "http://bizenglish.adaderana.lk/samsung-launches-bingemonster-galaxy-m32-with-segment-best-display-in-sri-lanka/",
+    "url_hash": "342a663184579be678605c236da8e8a9",
+    "ut": 1628567009,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Super",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "90Hz",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "800",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sports",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "64MP",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "No.1",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Galaxy M32",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka Tourism attracts over $950 Million in tourism investments despite pandemic",
+    "source": "colombogazette.com",
+    "snippet": "Foreign investment is a key driver of economic growth, as is the revenue generated via tourism. As one of its primary exports, tourism remains Sri Lanka's calling card to the world. Over the last fifteen months (March 2020-June 2021) the government has attracted over $950 million in investments,",
+    "url": "https://colombogazette.com/2021/08/10/sri-lanka-tourism-attracts-over-950-million-in-tourism-investments-despite-pandemic/",
+    "url_hash": "29afadea2d36fdb148fcb36b82df3ec3",
+    "ut": 1628567933,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last fifteen months",
+        "start_end": [
+          37,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2020-June 2021",
+        "start_end": [
+          42,
+          47
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "over $950 million",
+        "start_end": [
+          52,
+          56
         ]
       }
     ]
