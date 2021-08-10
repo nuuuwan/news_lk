@@ -143,6 +143,73 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Asian Sevens Sri Lanka leg shifted to UAE",
+    "source": "www.msn.com",
+    "snippet": "The Asian Rugby Football Union (ARFU) has shifted the Asia Rugby Sevens Series Men's and Women's third leg from Colombo to the United Arab Emirates (UAE).The third leg, which was originally planned to be played on November 25 and 26 at the Racecourse Grounds in Colombo,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/asian-sevens-sri-lanka-leg-shifted-to-uae/ar-AAN7RFV",
+    "url_hash": "489e6469fe6a298a115fcf6ee6d156fb",
+    "ut": 1628554254,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Asian Rugby Football Union (ARFU",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Arab Emirates",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November 25",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Racecourse Grounds in Colombo",
+        "start_end": [
+          47,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "The Latest: West Virginia governor encourages vaccination",
     "source": "www.timesunion.com",
     "snippet": "CHARLESTON, W.Va. \u2014 West Virginia Gov. Jim Justice said the rate of COVID-19 cases in his state is \"probably going to continue to get tougher in the weeks ahead.\" Justice has said he will not consider reinstating an indoor mask mandate and has continued to urge residents to be vaccinated.",
@@ -3299,6 +3366,33 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Solution for teachers, principals' issues within three months: GL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following the cabinet meeting held yesterday, the ministers claimed that it is not practical to provide an instant solution to the salary anomalies of teachers and principals, which have remained unresolved for the past 24 years,",
+    "url": "https://www.dailymirror.lk/breaking_news/Solution-for-teachers-principals-issues-within-three-months-GL/108-217954",
+    "url_hash": "a96c5d4fb33b2e2ea6df5704318efc78",
+    "ut": 1628590246,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past 24 years",
+        "start_end": [
+          34,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Sri Lanka to have central bank run credit scheme for SOEs amid forex trouble",
     "source": "economynext.com",
     "snippet": "Sri Lanka's cabinet of ministers had cleared a proposal to extend a central bank credit scheme for Covid hit small and medium enterprises to provide working capital for state enterprises.",
@@ -3690,6 +3784,95 @@
     "url": "https://www.dailymirror.lk/latest_news/Bathiudeen-remanded-till-August-18/342-217962",
     "url_hash": "1bb322e23d9995cfb84bd151da1b723f",
     "ut": 1628597300,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Prevention of Terrorism Act",
+        "start_end": [
+          11,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fort Magistrate Priyantha Liyanage",
+        "start_end": [
+          32,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "'Buy a Meal' launched to support tourism & hospitality industry",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's struggling tourism industry will receive some support with the launch of the 'Buy a Meal' initiative that will take place this month. ..",
+    "url": "https://www.dailymirror.lk/business_247/Buy-a-Meal-launched-to-support-tourism-hospitality-industry/395-217961",
+    "url_hash": "664a03205ade6c587299667647f9644c",
+    "ut": 1628597446,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this month",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "CB introduces single point to handle complaints against financial services providers",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Central Bank said it has introduced a single point of contact to handle complaints against financial service providers (FSPs). ..",
+    "url": "https://www.dailymirror.lk/business/CB-introduces-single-point-to-handle-complaints-against-financial-services-providers/215-217960",
+    "url_hash": "fbbf428eece361fc9bde27487cab0812",
+    "ut": 1628597446,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rishad Bathiudeen remanded",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Minister Rishad Bathiudeen, who was arrested and detained under the Prevention of Terrorism Act for aiding and abetting the suicide bombers of the Easter Sunday attack, was remanded by Fort Magistrate Priyantha Liyanage,",
+    "url": "https://www.dailymirror.lk/breaking_news/Rishad-Bathiudeen-remanded/108-217962",
+    "url_hash": "ea87ed62b0f3276f5a7b79ef09c8d4d2",
+    "ut": 1628597466,
     "ent_info_list": [
       {
         "label": "PERSON",
@@ -4154,6 +4337,476 @@
         "start_end": [
           53,
           56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Covid deaths exceed 100 for second consecutive day",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 118 more COVID-19 related deaths that occurred yesterday (09) were confirmed by the Director-General of Health Services today pushing the death toll to 5,340. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Covid-deaths-exceed-100-for-second-consecutive-day/108-217966",
+    "url_hash": "67dbe7038e0b3549ab5e9da95692e3e9",
+    "ut": 1628608246,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "09",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,340",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "No vaccine certificate needed for Sri Lankan expats flying to Dubai",
+    "source": "www.dailymirror.lk",
+    "snippet": "People travelling to Dubai from India, Pakistan, Sri Lanka, Nepal, Uganda, and Nigeria do not need to produce a COVID-19 vaccination certificate on arrival, but need to register for pre-entry approval before arrival.",
+    "url": "https://www.dailymirror.lk/breaking_news/No-vaccine-certificate-needed-for-Sri-Lankan-expats-flying-to-Dubai/108-217963",
+    "url_hash": "afdc24a3fcc47593358e6a94376fc2d9",
+    "ut": 1628608246,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nepal",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Uganda",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Coronavirus live: UK's daily death toll at highest level since March while over 75% of adults now fully jabbed",
+    "source": "www.theguardian.com",
+    "snippet": "UK reports 146 daily deaths, highest figure since 12 March; more than three-quarters of adults in UK now fully vaccinated",
+    "url": "https://www.theguardian.com/world/live/2021/aug/10/coronavirus-live-news-china-india-arkansas?page=with:block-611290868f0892081f6d2336",
+    "url_hash": "6df8a57ed8bbba615d2565f5770e028b",
+    "ut": 1628608254,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "146",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12 March",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than three-quarters",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "COVID-19 deaths surge in Sri Lanka with record 118 confirmed dead Tuesday; no lockdown",
+    "source": "economynext.com",
+    "snippet": "In yet another record daily death toll in Sri Lanka, the government information department confirmed 118 COVID-19 deaths Tuesday (10) evening, hours after a top minister said there will be no lockdown measures imposed.",
+    "url": "https://economynext.com/covid-19-deaths-surge-in-sri-lanka-with-record-118-confirmed-dead-tuesday-no-lockdown-84758/",
+    "url_hash": "e40c8055623f992258390f459b290be0",
+    "ut": 1628608254,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10) evening",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka's daily COVID deaths top 100 for second consecutive day",
+    "source": "www.adaderana.lk",
+    "snippet": "COVID-19 fatalities confirmed in Sri Lanka swept past the grim milestone of 100 for the second consecutive day as 118 more victims of COVID-19 infection were confirmed by the Director-General of Healt",
+    "url": "http://www.adaderana.lk/news.php?nid=76058",
+    "url_hash": "31fd0b2f45af4a381c65a90d1120aa0e",
+    "ut": 1628608254,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second consecutive day",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "AG requests CJ to appoint Trial-at-Bar to hear cases against 25 suspects",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Attorney General has sent indictments to the Chief Justice to constitute a Trial-at-Bar to hear the cases against 25 suspects indicted for conspiracy over the Easter Sunday attacks. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/AG-requests-CJ-to-appoint-Trial-at-Bar-to-hear-cases-against-25-suspects/108-217968",
+    "url_hash": "5c85b1fc4adcd1134cefb9266f7883aa",
+    "ut": 1628611846,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Patient testing negative in Antigen test dies of COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A patient tested negative in the Antigen test at the OPD in the Karapitiya Teaching Hospital has died of COVID-19 within hours. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Patient-testing-negative-in-Antigen-test-dies-of-COVID-19/108-217967",
+    "url_hash": "fb3f9a3fe68018da6bca21c59a38d5ed",
+    "ut": 1628611846,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Antigen",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "OPD",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Karapitiya Teaching Hospital",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Unmatched features of three Huawei smart devices: Huawei Nova 7 SE, Band 4e (Active) and Band 6",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Huawei, the leading technology solutions provider boasts of a wide range of tech portfolio that addresses the increasing needs of this digital era. From innovative techs solutions such as smartphones,",
+    "url": "http://bizenglish.adaderana.lk/unmatched-features-of-three-huawei-smart-devices-huawei-nova-7-se-band-4e-active-and-band-6/",
+    "url_hash": "d55abcdd978115aa7babbc5d9a7c0a0f",
+    "ut": 1628612154,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Huawei",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Corona Sri Lanka",
+    "source": "dailynews.lk",
+    "snippet": "118 deaths reported due to COVID-19 within 24-hours, stated the Department of Government Information",
+    "url": "http://dailynews.lk/tags/corona-sri-lanka",
+    "url_hash": "ee10c5ead77a21d2b00974b72bfad37c",
+    "ut": 1628612390,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "24-hours",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Government Information",
+        "start_end": [
+          12,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Easter attacks: AG requests CJ to appoint Trial-at- Bar",
+    "source": "www.dailynews.lk",
+    "snippet": "The Attorney General had requested the Chief Justice to appoint a Trial-at-Bar to hear the Indictments comprising 23, 270 charges against 25 accused before the Colombo High Court Trial-at-Bar in connection with the Easter Sunday terror attacks that took place on April 21 in 2019.",
+    "url": "http://www.dailynews.lk/2021/08/10/law-order/256347/easter-attacks-ag-requests-cj-appoint-trial-bar",
+    "url_hash": "04fb9a0836bb738fb2495542ac33577d",
+    "ut": 1628614790,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Indictments",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "270",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo High Court Trial-at-Bar",
+        "start_end": [
+          29,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April 21",
+        "start_end": [
+          50,
+          52
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          53,
+          54
         ]
       }
     ]
