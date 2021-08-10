@@ -4541,6 +4541,49 @@
   },
   {
     "date": "2021-08-09",
+    "title": "40,000 elderly forgo COVID vaccine in Colombo",
+    "source": "www.dailymirror.lk",
+    "snippet": "At least 40,000 persons above 60 years of age have not received their COVID-19 vaccine in the Colombo city owing to several misconceptions, Chairman of State Pharmaceuticals Corporation (SPC) Dr. Prasanna Gunasena said.",
+    "url": "https://www.dailymirror.lk/latest_news/40-000-elderly-forgo-COVID-vaccine-in-Colombo/342-217865",
+    "url_hash": "f50bbb1db74e6e1af7ddb65edf6c7d5d",
+    "ut": 1628500072,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 40,000",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years of age",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State Pharmaceuticals Corporation",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Gunasena",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "EDB's Boat Show Sri Lanka 2021 to go virtual",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka will host its first ever virtual boat show come October with the aim of providing a single platform for all related business sectors involved directly and indirectly in the boat and ship building industry to showcase their products and services.",
@@ -8172,6 +8215,65 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Bangladesh dominates Australia to complete T20 series win",
+    "source": "apnews.com",
+    "snippet": "Left-arm spinner Shakib Al Hasan returned a remarkable figure of 4-9 as Bangladesh held Australia to its lowest Twenty20 cricket score in winning the final game of their series by 60 runs on Monday.",
+    "url": "https://apnews.com/article/sports-australia-bangladesh-f541cfe873db0ea5eadfd491240519bc",
+    "url_hash": "3291a34f16b8d5d5743d441b3f0ed42e",
+    "ut": 1628532490,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shakib Al Hasan",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4-9",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "60",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]

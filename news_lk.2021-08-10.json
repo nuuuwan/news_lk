@@ -784,6 +784,49 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Lanka to vaccinate below 30s as Covid cases rise among youths",
+    "source": "in.news.yahoo.com",
+    "snippet": "With young people infected with coronavirus making up a third of the hospital admissions in Sri Lanka, the government has decided to extend the current Covid vaccination programme to include those below 30 years of age,",
+    "url": "https://in.news.yahoo.com/lanka-vaccinate-below-30s-covid-055820726.html",
+    "url_hash": "de3b40c0c8d13b2454488424bb283892",
+    "ut": 1628561281,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "a third",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30 years of age",
+        "start_end": [
+          33,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Uncertainty over next stock of Sputnik vaccines",
     "source": "www.dailymirror.lk",
     "snippet": "Uncertainty remains over the next stock of Sputnik V vaccines which were scheduled to be delivered to Sri Lanka. ..",
@@ -1789,6 +1832,84 @@
         "start_end": [
           42,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Sri Lanka abolishes tax on milk powder import",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's cabinet of ministers has decided to abolish the import tax on milk powder to maintain its current price, co-cabinet spokesman Minister Keheliya Rambukwella said on Tuesday (10). The move comes after severe scarcity for import milk powder has been reported amid speculation of hoarding.",
+    "url": "https://economynext.com/sri-lanka-abolishes-tax-on-milk-powder-import-84731/",
+    "url_hash": "198691e54eb7e9c736367f5d5e555aa1",
+    "ut": 1628575699,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Government to resolve Milk Powder shortage",
+    "source": "www.dailynews.lk",
+    "snippet": "The attention of the Cabinet of Ministers focused on the Milk powder shortage that currently prevails in the Market. Accordingly, the Cabinet of Ministers decided to vest the powers to the Finance Minister to study the matter and take necessary action to ensure that sufficient stocks of milk powder are supplied to the local market by revising the existing tax rates or taking other appropriate measures to import milk powder without increasing the price of milk powder in the local market.",
+    "url": "http://www.dailynews.lk/2021/08/10/local/256240/government-resolve-milk-powder-shortage",
+    "url_hash": "572a13027ff1c81a845342008a9dbfe3",
+    "ut": 1628577476,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Cabinet of Ministers",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Cabinet of Ministers",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
