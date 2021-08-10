@@ -1,6 +1,41 @@
 [
   {
     "date": "2021-08-10",
+    "title": "Market in mixed mood - Softlogic Stockbrokers",
+    "source": "www.msn.com",
+    "snippet": "Both indices had a free-fall within the first half an hour of trading yesterday and recovered gradually to conclude the day on a mixed note. Thus, the All Share Price Index increased by 13.4 points (+0.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/market-in-mixed-mood-softlogic-stockbrokers/ar-AAN7RFR",
+    "url_hash": "c50ae9076ed31ad6385b3daea773cc81",
+    "ut": 1628554076,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the first half an hour",
+        "start_end": [
+          8,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13.4",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Shiromy Abhayasinghe",
     "source": "www.dailynews.lk",
     "snippet": "The Government has plunged the entire country into a catastrophe by using the Army to control the COVID-19 pandemic, casting aside those attached to the health service, UNP General Secretary Palitha... A total of 2,953 COVID-19 positive cases were reported in Sri Lanka,... About 12-15 midwives contract COVID-19 daily - GMA President About 12- 15 midwives contract COVID-19 daily due to the prevailing...",
@@ -4233,6 +4268,135 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Coronavirus live: over 75% of UK adults now fully jabbed and boosters could start in September",
+    "source": "www.theguardian.com",
+    "snippet": "UK health secretary says preparations being made to give people an extra jab; situation in Martinique described as 'dramatic'",
+    "url": "https://www.theguardian.com/world/live/2021/aug/10/coronavirus-live-news-china-india-arkansas?page=with:block-61128e158f0811859fec3844",
+    "url_hash": "219a4c4dbd775fcb49768d8b13595fed",
+    "ut": 1628604476,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Martinique",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Coronavirus live: UK's daily death toll at highest level since March while over 75% of adults now fully jabbed",
+    "source": "www.theguardian.com",
+    "snippet": "UK reports 146 daily deaths, highest figure since 12 March; more than three-quarters of adults in UK now fully vaccinated",
+    "url": "https://www.theguardian.com/world/live/2021/aug/10/coronavirus-live-news-china-india-arkansas?page=with:block-611296098f089093df87a17c",
+    "url_hash": "42a09df6ad5f8544d9a38a747f314ea0",
+    "ut": 1628604476,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "146",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12 March",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than three-quarters",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Covid Live Updates: Hospitalizations Soar in States With Low Vaccination Rates",
+    "source": "www.nytimes.com",
+    "snippet": "Nearly a third of eligible Americans remain unvaccinated. School districts in Florida and Texas are defying state government orders by requiring students to wear masks.",
+    "url": "https://www.nytimes.com/live/2021/08/10/world/covid-delta-variant-vaccine",
+    "url_hash": "09a36d54987285e643d4d43299084114",
+    "ut": 1628604485,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Nearly a third",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Sri Lanka Rejects Lockdown To Beat Covid 'Bomb'",
     "source": "www.ibtimes.com",
     "snippet": "Sri Lanka's government rejected on Tuesday mounting calls for an immediate lockdown to contain a surge in Covid-19 cases and deaths that is severely stretching hospitals and crematoriums. Government spokesman and Media Minister Keheliya Rambukwella said the country had not reached a critical stage even as the island nation suffers more than 100 deaths per day on average.",
@@ -4399,6 +4563,57 @@
         "start_end": [
           53,
           56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Covid deaths exceed 100 for second consecutive day",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 118 more COVID-19 related deaths that occurred yesterday (09) were confirmed by the Director-General of Health Services today pushing the death toll to 5,340. ..",
+    "url": "https://www.dailymirror.lk/live/Covid-deaths-exceed-100-for-second-consecutive-day/373-217966",
+    "url_hash": "ccf89f7869a7a62dabd447fdf4fd84b9",
+    "ut": 1628608066,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "09",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,340",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
@@ -4676,6 +4891,49 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Duminda Silva assumes duties",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former MP Duminda Silva, who was released on a special presidential pardon over the killing of Bharatha Lakshman Premachandra, assumed duties as the Chairman of the National Housing Development Authority. He was appointed to the new post last month and ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Duminda-Silva-assumes-duties/108-217969",
+    "url_hash": "5c1d002515f4f7d4a6ec42a487725056",
+    "ut": 1628611666,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Duminda Silva",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bharatha Lakshman Premachandra",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Housing Development Authority",
+        "start_end": [
+          27,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "AG requests CJ to appoint Trial-at-Bar to hear cases against 25 suspects",
     "source": "www.dailymirror.lk",
     "snippet": "The Attorney General has sent indictments to the Chief Justice to constitute a Trial-at-Bar to hear the cases against 25 suspects indicted for conspiracy over the Easter Sunday attacks. ..",
@@ -4869,6 +5127,33 @@
         "start_end": [
           53,
           54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Thailand set to fully reopen for tourists in 90 days",
+    "source": "www.weeklyblitz.net",
+    "snippet": "Less than\u00a0100 days\u00a0before it plans to throw open its borders to international visitors, Thailand is in the grip of a\u00a0worsening\u00a0COVID outbreak and a sluggish vaccine rollout. It's a position familiar to other travel-reliant countries facing the unenviable task of rescuing crucial tourism industries decimated by 18 months of pandemic while guarding against the risk that",
+    "url": "https://www.weeklyblitz.net/travel/thailand-set-to-fully-reopen-for-tourists-in-90-days/",
+    "url_hash": "00938ec993b6697cdd931b0e5d389522",
+    "ut": 1628618876,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "18 months",
+        "start_end": [
+          58,
+          60
         ]
       }
     ]

@@ -9462,6 +9462,65 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Sri Lanka holds mass cremations as corona cases surge",
+    "source": "www.daily-sun.com",
+    "snippet": "COLOMBO: Sri Lanka has begun mass cremations to clear a backlog of dead bodies from Covid-19 as cases surge across the island, officials said on Monday, reports AFP. Daily virus infections in the country have doubled in a month to more than 2,",
+    "url": "https://www.daily-sun.com/arcprint/details/569651/Sri-Lanka-holds-mass-cremations-as-corona-cases-surge/2021-08-10",
+    "url_hash": "9a769ade78a07405446aae0e50acd758",
+    "ut": 1628539676,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AFP",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Daily",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a month",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 2",
+        "start_end": [
+          44,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Impose curfew, Medical Specialists urge Govt.",
     "source": "www.dailymirror.lk",
     "snippet": "While stressing that the COVID-19 situation in Sri Lanka is extremely grim, the Association of Medical Specialsts (AMS) called upon the Government to impose curfew as it is the only successful mean of curtailing people's movement in the country.",
@@ -9949,6 +10008,41 @@
   },
   {
     "date": "2021-08-09",
+    "title": "Subdued start for stock market in fresh week",
+    "source": "www.ft.lk",
+    "snippet": "The Colombo stock market yesterday experienced a subdued start in a fresh week, with indices mixed and relatively low turnover, while foreign investors were net buyers for the third consecutive session.",
+    "url": "https://www.ft.lk/front-page/Subdued-start-for-stock-market-in-fresh-week/44-721497",
+    "url_hash": "09bd4d8ebb9662069d5e4ab349c8ffcd",
+    "ut": 1628543303,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a fresh week",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
     "title": "Standard Chartered showcases Sri Lanka's potential via China-Sri Lanka Virtual Investor Forum",
     "source": "www.ft.lk",
     "snippet": "Standard Chartered Sri Lanka together with Standard Chartered China recently organised the 'Showcase Sri Lanka: 2021 China-Sri Lanka Virtual Investor Forum' to highlight the partnership potential between the two countries and the emerging strategic opportunities in a shifting global landscape.",
@@ -10172,6 +10266,33 @@
         "start_end": [
           5,
           7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "title": "Cathay Pacific Cargo supports Sri Lanka's fight against pandemic by transporting testing kits",
+    "source": "www.ft.lk",
+    "snippet": "Cathay Pacific Cargo recently deployed a special charter flight that transported vital Rapid Diagnostic Testing kits to Sri Lanka. ..",
+    "url": "https://www.ft.lk/shippingaviation/Cathay-Pacific-Cargo-supports-Sri-Lanka-s-fight-against-pandemic-by-transporting-testing-kits/21-721531",
+    "url_hash": "bf8d53ff35d3472cc3b0848de15183cf",
+    "ut": 1628546889,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cathay Pacific Cargo",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
