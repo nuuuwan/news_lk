@@ -3079,6 +3079,33 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "www.weareiowa.com",
+    "snippet": "After nearly 20 years, the rapid withdrawal of troops has upended the lives of thousands of private security contractors from some of the world's poorest countries.",
+    "url": "https://www.weareiowa.com/article/news/nation-world/us-afghanistan-war-contractors-stuck-in-dubai/507-9b86bd82-9803-482f-8ae6-d976d9db6d26",
+    "url_hash": "678d65c90133fde48aae6d821ca7ff11",
+    "ut": 1628582935,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "nearly 20 years",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "From Being An Outsider To Insider, Here's Jacqueline Fernandez's Journey Unfolded",
     "source": "www.herzindagi.com",
     "snippet": "Do you also love and follow Jacqueline Fernandez? If yes, then read on and discover all that you need to know about her journey.",
@@ -4160,6 +4187,49 @@
         "start_end": [
           32,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "TISL calls for the appointment of independent RTI Commission",
+    "source": "colombogazette.com",
+    "snippet": "Transparency International Sri Lanka (TISL) has called for the appointment of an independent Right to Information (RTI) Commission in September. The tenure of the RTI Commission which is the central o",
+    "url": "https://colombogazette.com/2021/08/10/tisl-calls-for-the-appointment-of-independent-rti-commission/",
+    "url_hash": "3cb89b9981c1faed7819d78a2e9e4591",
+    "ut": 1628597350,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Transparency International Sri Lanka",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RTI) Commission",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the RTI Commission",
+        "start_end": [
+          28,
+          31
         ]
       }
     ]
@@ -5615,6 +5685,25 @@
   },
   {
     "date": "2021-08-10",
+    "title": "What to watch on Wednesday: 'The Kissing Booth 3' on Netflix",
+    "source": "www.msn.com",
+    "snippet": "The third and final installment concludes the trilogy that all started with an innocent high school kissing booth and a classic will-they-won't-the",
+    "url": "https://www.msn.com/en-us/tv/news/what-to-watch-on-wednesday-e2-80-98the-kissing-booth-3-e2-80-99-on-netflix/ar-AANaZoJ",
+    "url_hash": "04eb8f9c1b74e928f1c1454e163c9161",
+    "ut": 1628618926,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Disaster imminent in Sri Lanka: Stop chicanery and bring in solutions!",
     "source": "www.ft.lk",
     "snippet": "I have already pointed out that the true debt burden would exceed 112% of the GDP in actual fact when the effect of accounting chicanery made by the Government on international sovereign bonds (i.e. understating the pay-off commitments arising from ISBs by taking,",
@@ -6526,6 +6615,57 @@
         "start_end": [
           10,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Combating COVID outbreak: Is Sri Lanka paying for not following scientific process?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is experiencing one of the worst COVID outbreaks since the pandemic first struck the island last year. Photos of hospitals.... ..",
+    "url": "https://www.dailymirror.lk/plus/Combating-COVID-outbreak%3A-Is-Sri-Lanka-paying-for-not-following-scientific-process-/352-217974",
+    "url_hash": "c5818bed5f140adf0d67bc0bfc0ede86",
+    "ut": 1628636926,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "COVID",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
