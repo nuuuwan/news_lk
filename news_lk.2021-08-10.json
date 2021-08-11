@@ -5306,6 +5306,33 @@
     "title": "AG requests CJ to appoint Trial-at-Bar to hear cases against 25 suspects",
     "source": "www.dailymirror.lk",
     "snippet": "The Attorney General has sent indictments to the Chief Justice to constitute a Trial-at-Bar to hear the cases against 25 suspects indicted for conspiracy over the Easter Sunday attacks. ..",
+    "url": "https://www.dailymirror.lk/latest_news/AG-requests-CJ-to-appoint-Trial-at-Bar-to-hear-cases-against-25-suspects/342-217968",
+    "url_hash": "8bcb74e2c687e2f852603e374a78117c",
+    "ut": 1628611676,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "AG requests CJ to appoint Trial-at-Bar to hear cases against 25 suspects",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Attorney General has sent indictments to the Chief Justice to constitute a Trial-at-Bar to hear the cases against 25 suspects indicted for conspiracy over the Easter Sunday attacks. ..",
     "url": "https://www.dailymirror.lk/breaking_news/AG-requests-CJ-to-appoint-Trial-at-Bar-to-hear-cases-against-25-suspects/108-217968",
     "url_hash": "5c85b1fc4adcd1134cefb9266f7883aa",
     "ut": 1628611846,
@@ -6276,6 +6303,57 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Combating COVID outbreak: Is Sri Lanka paying for not following scientific process?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is experiencing one of the worst COVID outbreaks since the pandemic first struck the island last year. Photos of hospitals.... ..",
+    "url": "https://www.dailymirror.lk/news-features/Combating-COVID-outbreak:-Is-Sri-Lanka-paying-for-not-following-scientific-process-/131-217974",
+    "url_hash": "6569bb7e66e2322f1eedc56e415443be",
+    "ut": 1628636886,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "COVID",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
