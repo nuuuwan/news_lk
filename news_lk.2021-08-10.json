@@ -1373,6 +1373,49 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Nearly half a million people vaccinated yesterday",
+    "source": "www.dailymirror.lk",
+    "snippet": "Nearly half a million of people were vaccinated yesterday against Covid-19 with over 300,000 second dose of Sinopharm vaccines. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Nearly-half-a-million-people-vaccinated-yesterday/108-217943",
+    "url_hash": "7fea3b307eb6670eb1c75edf69c08bc3",
+    "ut": 1628564879,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Nearly half a million",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 300,000",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Visiting Pensions Dept. suspended from today until further notice",
     "source": "www.dailymirror.lk",
     "snippet": "Considering the pandemic situation in the country, the Pensions Department has decided to suspend the attendance of retirees for pension interview and retirees who come to the Department for various issues from today (10) until further notice.",
@@ -3937,6 +3980,25 @@
   },
   {
     "date": "2021-08-10",
+    "title": "CB introduces single point to handle complaints against financial services providers",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Central Bank said it has introduced a single point of contact to handle complaints against financial service providers (FSPs). ..",
+    "url": "https://www.dailymirror.lk/business_247/CB-introduces-single-point-to-handle-complaints-against-financial-services-providers/395-217960",
+    "url_hash": "48f1b7e26ae405811dcd2844c313900b",
+    "ut": 1628597279,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "'Buy a Meal' launched to support tourism & hospitality industry",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka's struggling tourism industry will receive some support with the launch of the 'Buy a Meal' initiative that will take place this month. ..",
@@ -6171,6 +6233,92 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Combating COVID outbreak: Is Sri Lanka paying for not following scientific process?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is experiencing one of the worst COVID outbreaks since the pandemic first struck the island last year. Photos of hospitals.... ..",
+    "url": "https://www.dailymirror.lk/news-features/Combating-COVID-outbreak-Is-Sri-Lanka-paying-for-not-following-scientific-process/131-217974",
+    "url_hash": "8d258be768cd27df257ae5980ae24aa1",
+    "ut": 1628636887,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "COVID",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Is another lockdown the answer?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is in crisis. Since April 2021, Sri Lanka saw a sharp increase of Covid-19 positive cases and deaths. Despite health.... ..",
+    "url": "https://www.dailymirror.lk/news-features/Is-another-lockdown-the-answer/131-217971",
+    "url_hash": "7259432145eaffaa29cb698c2ffce93a",
+    "ut": 1628636887,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April 2021",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
         ]
       }
     ]

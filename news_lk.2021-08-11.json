@@ -361,6 +361,68 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Inoculation drive: Armed forces' contribution immeasurable; Belittling tremendous achievements regretable - CDS",
+    "source": "island.lk",
+    "snippet": "Of 2.7mn fully vaccinated, 23 who had comorbidity succumb to Covid-19 By Shamindra Ferdinando Army Commander, who is also the Chief of Defence Staff General Shavendra Silva, says the overall contribution made by the armed forces in Sri Lanka's battle against Covid-19 is immeasurable.",
+    "url": "https://island.lk/inoculation-drive-armed-forces-contribution-immeasurable-belittling-tremendous-achievements-regretable-cds/",
+    "url_hash": "7e8bcfffeff7e1ca0c08dae601065d96",
+    "ut": 1628644087,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Shamindra Ferdinando Army",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Sri Lanka rupee, economy bought to tipping point by monetary fallacies: Bellwether",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's severe monetary instability, the obsession with controlling imports, the trade and current account deficit is a graphic example of how Keynesian or Mercantilist ideology, which is not based on logic,",
+    "url": "https://economynext.com/sri-lanka-rupee-economy-bought-to-tipping-point-by-monetary-fallacies-bellwether-84762/",
+    "url_hash": "b4863c81e28e76e3f4e81651139cafba",
+    "ut": 1628644087,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "UK's CDC Group commits $50 million to ComBank to bolster SME lending and climate projects",
     "source": "island.lk",
     "snippet": "The Commercial Bank of Ceylon has secured a US $50 million (about Rs 10 billion at current exchange rates) loan from the CDC Group, the UK's development finance institution and impact investor, to facilitate lending to small and medium-sized enterprises (SMEs) and support climate projects in Sri Lanka.",
@@ -680,6 +742,143 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "SinoCorrugated and SinoFoldingCarton 2021 Hybrid Tradeshows Conclude in Shanghai",
+    "source": "apnews.com",
+    "snippet": "SinoCorrugated and SinoFoldingCarton 2021, organized by RX China, has concluded a successful four-day run in China after the two tradeshows, both held in physical and online formats, connected exhibitors with over 12,",
+    "url": "https://apnews.com/press-release/pr-newswire/technology-business-shanghai-63d83849e4b6d8595e9def70dc65dbc0",
+    "url_hash": "24dbab2eec2ed0158b0a3da8dbc8a544",
+    "ut": 1628650156,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RX China",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-day",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Maldivian yacht builders establish facility in Hambantota Port",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Ltd. recently entered into an agreement with the Hambantota International Port Group (HIPG) to set up a state-of-the-art yacht building facility at the port. The agreement was signed by Johnson Liu, CEO,",
+    "url": "http://bizenglish.adaderana.lk/maldivian-yacht-builders-establish-facility-in-hambantota-port/",
+    "url_hash": "e5e6eb815641b9fb6e4744619af5c427",
+    "ut": 1628650987,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Hambantota International Port Group",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Johnson Liu",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Sri Lanka receives 15,000 more doses of Sputnik V vaccine",
+    "source": "nation.lk",
+    "snippet": "A consignment of 15,000 doses of Russia-manufactured Sputnik V vaccines has arrived in Sri Lanka this morning (August 11). MORE..",
+    "url": "https://nation.lk/online/sri-lanka-receives-15-000-more-doses-of-sputnik-v-vaccine-109643.html",
+    "url_hash": "96f8e7273c1797ab5055b50f33da55c4",
+    "ut": 1628651052,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "15,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 11",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
