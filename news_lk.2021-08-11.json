@@ -3113,6 +3113,89 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Sri Lanka indicts 25 suspects in Easter Sunday bombings",
+    "source": "in.news.yahoo.com",
+    "snippet": "Sri Lanka has filed 23,270 charges against 25 people in connection with the deadly 2019 Easter Sunday attacks that killed over 270 people, including 11 Indians, the president's office said on Wednesday.",
+    "url": "https://in.news.yahoo.com/sri-lanka-indicts-25-suspects-140429988.html",
+    "url_hash": "cb5cee837b55411c8f881af6be086e19",
+    "ut": 1628665708,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23,270",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 270",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "A ton of gas in world market increased by more than 80% compared to 2019: State Minister",
     "source": "www.dailymirror.lk",
     "snippet": "The world market price of a ton of gas has increased by more than 80 percent compared to 2019, Cooperative Services, Marketing Development and Consumer Protection State Minister Lasantha Alagiyawanna said.",
@@ -3655,6 +3738,33 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Birth, Marriage, Death Certificates through online: Registrar General's Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Registrar General's Department initiated a programme yesterday to issue birth, death and marriage certificates through online service. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Birth-Marriage-Death-Certificates-through-online-Registrar-Generals-Dept/342-218030",
+    "url_hash": "b431a764132c322c16851dba6a25989d",
+    "ut": 1628669299,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Registrar General's Department",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
         ]
       }
     ]
@@ -5509,6 +5619,167 @@
   },
   {
     "date": "2021-08-11",
+    "title": "124 more die of COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 124 more COVID-19 related deaths that occurred yesterday (10) were confirmed by the Director-General of Health Services today pushing the death toll to 5,464. ..",
+    "url": "https://www.dailymirror.lk/latest_news/124-more-die-of-COVID-19/342-218043",
+    "url_hash": "d49696905adaeb86de002948e7f91fba",
+    "ut": 1628690899,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "124",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,464",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Japanese opposition reportedly demands parliamentary hearing on SL woman's death",
+    "source": "www.dailymirror.lk",
+    "snippet": "Four opposition parties in Japan, the Constitutional Democratic, the Democratic Party for the People, the Communist and the Social Democratic, demanded that the case of the death of a Sri Lankan woman in the immigration centre be brought before the parliamentary committee on legal issues,",
+    "url": "https://www.dailymirror.lk/breaking_news/Japanese-opposition-reportedly-demands-parliamentary-hearing-on-SL-womans-death/108-218042",
+    "url_hash": "ec0bddc9daa77129878d0d6717b1cae8",
+    "ut": 1628690899,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Four",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Democratic",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Democratic Party",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Communist",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Social Democratic",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Covid-19: daily count of new cases climbs to 2,890",
+    "source": "www.adaderana.lk",
+    "snippet": "The Ministry of Health reported that another 736 persons have tested positive for Covid-19 today, increasing the daily count of new cases to 2,890",
+    "url": "http://www.adaderana.lk/news.php?nid=76085",
+    "url_hash": "6eb9924bcbcd02c05c032fc33050af80",
+    "ut": 1628690908,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,890",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "Rain, spin could hold sway at Sabina Park as WI face Pakistan",
     "source": "www.msn.com",
     "snippet": "Big picture   A dustbowl at Sabina Park, devoid of spectators owing to the Covid-19 pandemic, with rain forecast on all five days of the Test match, doesn't sound like the first step of any great journey.",
@@ -5538,6 +5809,108 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "25 Hottest Countries in the World",
+    "source": "news.yahoo.com",
+    "snippet": "In this article, we will be discussing the 25 hottest countries in the world. You can skip our detailed analysis of the sun's temporal temperature distribution and go directly to the 5 Hottest Countries in the World.",
+    "url": "https://news.yahoo.com/25-hottest-countries-world-141132629.html",
+    "url_hash": "bf54fee125b2783be7be8bb2fab305f5",
+    "ut": 1628695048,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Hottest Countries",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "SLC Invitational T20 League 2021: Full squads, Fixtures & Preview: All you need to know",
+    "source": "www.cricketworld.com",
+    "snippet": "SLC Invitational T20 League 2021, comprising 12 league matches and the Final, will be played between August 12 and 24 in Sri Lanka. Fans will have to wait a bit longer for the Lankan Premier League, but in the meantime,",
+    "url": "https://www.cricketworld.com/slc-invitational-t20-league-2021-full-squads-fixtures-preview-all-you-need-to-know/72281.htm",
+    "url_hash": "cc1e857182ee56d5c40989ac9d50062d",
+    "ut": 1628695948,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLC Invitational",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between August 12 and",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
