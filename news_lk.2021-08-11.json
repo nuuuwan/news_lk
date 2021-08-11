@@ -3266,6 +3266,49 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Two employees of Sri Lanka Cricket board infected",
+    "source": "menafn.com",
+    "snippet": "Two employees of the Sri Lanka Cricket board have tested positive for the coronavirus, Sri Lanka Cricket said today.   Sr",
+    "url": "https://menafn.com/1102608219/Two-employees-of-Sri-Lanka-Cricket-board-infected",
+    "url_hash": "92c001e3160cd6ce53f62d72e25c3290",
+    "ut": 1628665709,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Cricket",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "A ton of gas in world market increased by more than 80% compared to 2019: State Minister",
     "source": "www.dailymirror.lk",
     "snippet": "The world market price of a ton of gas has increased by more than 80 percent compared to 2019, Cooperative Services, Marketing Development and Consumer Protection State Minister Lasantha Alagiyawanna said.",
@@ -5034,6 +5077,25 @@
   },
   {
     "date": "2021-08-11",
+    "title": "On a positive note!!",
+    "source": "www.tripadvisor.co.uk",
+    "snippet": "When's your next trip planned and where on the island will you be, what are your plans whilst there, how long are you staying?? etc etc. Obviously no-one has a crystal ball but how are things looking for Sri Lanka when it comes to their vaccination ...",
+    "url": "https://www.tripadvisor.co.uk/ShowTopic-g293961-i8983-k13638822-o10-On_a_positive_note-Sri_Lanka.html",
+    "url_hash": "959a5cfb8c768ca2ee10bd1c5bbde006",
+    "ut": 1628680087,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          46,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "Consumer discretionary, financial stocks boost Sri Lankan shares",
     "source": "www.reuters.com",
     "snippet": "Sri Lankan shares ended higher on Wednesday, helped by gains in consumer discretionary and financial stocks. * The CSE All-Share index ended 0.31% higher at 8,095.57. * Investment holding company Ambeon Capital Plc and finance and leasing company LOLC Development Finance Plc were the top boosts to the index,",
@@ -5947,6 +6009,57 @@
     "title": "124 more die of COVID-19",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 124 more COVID-19 related deaths that occurred yesterday (10) were confirmed by the Director-General of Health Services today pushing the death toll to 5,464. ..",
+    "url": "https://www.dailymirror.lk/live/124-more-die-of-COVID-19/373-218043",
+    "url_hash": "36961d8c14517d03d89a2988b35f876f",
+    "ut": 1628690879,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "124",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,464",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "124 more die of COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 124 more COVID-19 related deaths that occurred yesterday (10) were confirmed by the Director-General of Health Services today pushing the death toll to 5,464. ..",
     "url": "https://www.dailymirror.lk/latest_news/124-more-die-of-COVID-19/342-218043",
     "url_hash": "d49696905adaeb86de002948e7f91fba",
     "ut": 1628690899,
@@ -6848,6 +6961,92 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Record COVID-19 deaths in Sri Lanka for sixth consecutive day; infections surge",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lanka's confirmed daily COVID-19 death toll reached a record high for the sixth day running on Wednesday with the government information department reporting 124 deaths as confirmed by the Director General of Health Services.",
+    "url": "https://economynext.com/record-covid-19-deaths-in-sri-lanka-for-sixth-consecutive-day-infections-surge-84803/",
+    "url_hash": "019f576ff7d0cd7a5aa9f6e9d9615021",
+    "ut": 1628708964,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ECONOMYNEXT - Sri Lanka's",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the sixth day",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "124",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Shiromy Abhayasinghe",
+    "source": "dailynews.lk",
+    "snippet": "The Government has plunged the entire country into a catastrophe by using the Army to control the COVID-19 pandemic, casting aside those attached to the health service, UNP General Secretary Palitha...",
+    "url": "https://dailynews.lk/line/shiromy-abhayasinghe",
+    "url_hash": "6cfd8c0c9438b3d6b221b626b7480c2b",
+    "ut": 1628709243,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Palitha",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
