@@ -3080,6 +3080,33 @@
   {
     "date": "2021-08-10",
     "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "www.wqad.com",
+    "snippet": "After nearly 20 years, the rapid withdrawal of troops has upended the lives of thousands of private security contractors from some of the world's poorest countries.",
+    "url": "https://www.wqad.com/article/news/nation-world/us-afghanistan-war-contractors-stuck-in-dubai/507-9b86bd82-9803-482f-8ae6-d976d9db6d26",
+    "url_hash": "bf9a223911f7f655534c4fffc708760f",
+    "ut": 1628582926,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "nearly 20 years",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
     "source": "www.weareiowa.com",
     "snippet": "After nearly 20 years, the rapid withdrawal of troops has upended the lives of thousands of private security contractors from some of the world's poorest countries.",
     "url": "https://www.weareiowa.com/article/news/nation-world/us-afghanistan-war-contractors-stuck-in-dubai/507-9b86bd82-9803-482f-8ae6-d976d9db6d26",
@@ -6650,6 +6677,92 @@
         "start_end": [
           10,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Is another lockdown the answer?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is in crisis. Since April 2021, Sri Lanka saw a sharp increase of Covid-19 positive cases and deaths. Despite health.... ..",
+    "url": "https://www.dailymirror.lk/insight/Is-another-lockdown-the-answer/374-217971",
+    "url_hash": "3473b4a6a2dc043a75cdf928aecd5319",
+    "ut": 1628636910,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April 2021",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Combating COVID outbreak: Is Sri Lanka paying for not following scientific process?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is experiencing one of the worst COVID outbreaks since the pandemic first struck the island last year. Photos of hospitals.... ..",
+    "url": "https://www.dailymirror.lk/plus/Combating-COVID-outbreak-Is-Sri-Lanka-paying-for-not-following-scientific-process/352-217974",
+    "url_hash": "cdfd0f52aa03782faa5b85e9a133fa5f",
+    "ut": 1628636919,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "COVID",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
