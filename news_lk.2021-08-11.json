@@ -2138,6 +2138,89 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Inoculating unvaccinated senior citizens in WP underway",
+    "source": "www.dailymirror.lk",
+    "snippet": "The three-day vaccination drive for People over 60 years of age, who have not received their first dose of the Covid vaccine got underway at three vaccination centres in Colombo, Gampaha and Kalutara Districts today.",
+    "url": "https://www.dailymirror.lk/latest_news/Inoculating-unvaccinated-senior-citizens-in-WP-underway/342-218029",
+    "url_hash": "005c09fe48017c12abaa76366717fc53",
+    "ut": 1628658647,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "three-day",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years of age",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kalutara Districts",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "Dubai's busy airport sees passenger traffic drop 40% in 2021",
     "source": "apnews.com",
     "snippet": "Dubai International Airport, the world's busiest airport for international travel, handled some 40% less passenger traffic in the first half of 2021, compared to the same period last year, its chief executive said Wednesday.",
@@ -2680,6 +2763,57 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Land area to bury 2,400 COVID victims at Irakkamam: Dr. Hamdani",
+    "source": "www.dailymirror.lk",
+    "snippet": "A new land area has been selected at Irakkamam in the Ampara District of the Eastern Province for the burial of COVID victims, Medical Technical Services Director Dr. Anwar Hamdani said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Land-area-to-bury-2-400-COVID-victims-at-Irakkamam-Dr-Hamdani/342-218026",
+    "url_hash": "fff47230378973bc889cf292276d9a9d",
+    "ut": 1628662247,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Irakkamam",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Ampara District",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Eastern Province",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medical Technical Services",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anwar Hamdani",
+        "start_end": [
+          29,
+          31
         ]
       }
     ]
@@ -4021,6 +4155,73 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Coronavirus live news: Russia reports record 799 deaths; Thailand set for nasal spray vaccine trial",
+    "source": "www.theguardian.com",
+    "snippet": "Russia reports record-breaking daily deaths for fourth time in a month; two jabs being developed in Thailand to be trialled from end of year",
+    "url": "https://www.theguardian.com/world/live/2021/aug/11/coronavirus-live-news-south-korea-reports-record-new-cases-who-calls-for-end-to-disgraceful-vaccine-inequality?page=with:block-61138aa38f0892081f6d2e54",
+    "url_hash": "dec6e754d35947a5482ff406582b3ee4",
+    "ut": 1628673082,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a month",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "year",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "Sri Lanka Cricket Head quarters closed temporarily due to COVID-19",
     "source": "www.islandcricket.lk",
     "snippet": "Two staff workers of Sri Lanka Cricket Head quarters tests positive for COVID-19. Head quarters at Colombo has been closed temporarily. However, T20 invitational league will be played as scheduled.",
@@ -4352,6 +4553,73 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Consumer discretionary, financial stocks boost Sri Lankan shares",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares ended higher on Wednesday, helped by gains in consumer discretionary and financial stocks. * The CSE All-Share index ended 0.31% higher at 8,095.57. * Investment holding company Ambeon Capital Plc and finance and leasing company LOLC Development Finance Plc were the top boosts to the index,",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close-idUSL4N2PI313",
+    "url_hash": "7991a6beee25610ece1e9087d34b1f0f",
+    "ut": 1628680257,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.31%",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8,095.57",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ambeon Capital Plc",
+        "start_end": [
+          36,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LOLC Development Finance Plc",
+        "start_end": [
+          44,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "Sri Lanka -- a country that offers entertaining cricket and lasting friendships",
     "source": "www.netindian.in",
     "snippet": "The air is clean and the greenery soothing as you begin your cricket tour to the tourist-friendly Sri Lanka with high expectations of some good competition and, of course, the attraction of visiting some historic spots.",
@@ -4483,6 +4751,272 @@
         "start_end": [
           26,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Sri Lanka stocks up on quarterly earnings; pandemic concern weighs",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stocks closed 0.31 percent up on LOLC Development Finance, Ambeon Capital and Buki Darah, brokers said.",
+    "url": "https://economynext.com/sri-lanka-stocks-up-on-quarterly-earnings-pandemic-concern-weighs-84797/",
+    "url_hash": "30d7d89ac17562d31a8e795f66a44317",
+    "ut": 1628683857,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.31 percent",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LOLC Development Finance",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ambeon Capital",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Buki Darah",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Cabinet reshuffle imminent for Sri Lanka - Daily FT",
+    "source": "menafn.com",
+    "snippet": "A Cabinet reshuffle is reportedly imminent, with President Gotabaya Rajapaksa likely to make changes to key Ministri",
+    "url": "https://menafn.com/1102606005/Cabinet-reshuffle-imminent-for-Sri-Lanka-Daily-FT",
+    "url_hash": "89009a37e4db65678a7fbe006d10273b",
+    "ut": 1628684169,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Capt. Elmo Jayawardena",
+    "source": "dailynews.lk",
+    "snippet": "\"One more wild goose chase,\" that's what Dil, my boss said when she reluctantly agreed to accompany me to the southern fringe of Sri Lanka, in search of Justin and his memories of aeroplanes that...",
+    "url": "https://dailynews.lk/line/%C2%A0capt-elmo-jayawardena",
+    "url_hash": "52b5b67f90473b86ee23f7cf8b7c32c4",
+    "ut": 1628685771,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Justin",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Anantara Hotels, Resorts & Spas",
+    "source": "www.journaldespalaces.com",
+    "snippet": "The new island resort will be Anantara's seventh property in the UAE and the first resort to open on the World Islands",
+    "url": "https://www.journaldespalaces.com/en/pressrelease-61255-Anantara-Hotels-Resorts-Spas-announces-upcoming-launch-of-new-resort-on-Dubai-s-World-Islands.html",
+    "url_hash": "91a086d2ad091276ae4f325648d0951d",
+    "ut": 1628685897,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Anantara",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "seventh",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the World Islands",
+        "start_end": [
+          20,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Pakistani official summoned over 41 prisoners convicted in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The High Court in Islamabad has summoned the country's Interior Secretary over a case pertaining to 41 Pakistani prisoners who were sentenced in drug smuggling cases in Sri Lanka. According to The News in Pakistan,",
+    "url": "https://colombogazette.com/2021/08/11/pakistani-official-summoned-over-41-prisoners-convicted-in-sri-lanka/",
+    "url_hash": "b4e3548a239b09d8fdf563aefbaf1761",
+    "ut": 1628685978,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The High Court",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Islamabad",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Interior",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "41",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Pakistani",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Muffasir Rashid",
+    "source": "dailynews.lk",
+    "snippet": "As by the end of this month, the United States of America (USA) will complete its troop withdrawal from Afghanistan- the 'Graveyard of Empires', it will produce a 'Saigon Moment' once again. This '...",
+    "url": "https://dailynews.lk/line/muffasir-rashid",
+    "url_hash": "58eae17f902e8d35ac59a0c128d53b20",
+    "ut": 1628686071,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the end of this month",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States of America",
+        "start_end": [
+          8,
+          13
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Saigon Moment'",
+        "start_end": [
+          35,
+          38
         ]
       }
     ]
