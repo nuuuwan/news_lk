@@ -6745,6 +6745,49 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Sri Lanka's daily COVID deaths top 100 for second consecutive day",
+    "source": "www.lankaweb.com",
+    "snippet": "Daily COVID-19 fatalities confirmed in Sri Lanka swept past the grim milestone of 100 for the second consecutive day as 118 more victims of COVID-19 infection",
+    "url": "http://www.lankaweb.com/news/items/2021/08/10/sri-lankas-daily-covid-deaths-top-100-for-second-consecutive-day/",
+    "url_hash": "b7b13df5ebaeb149ad6ebab0ede9c0b5",
+    "ut": 1628636918,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second consecutive day",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-10",
     "title": "Combating COVID outbreak: Is Sri Lanka paying for not following scientific process?",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka is experiencing one of the worst COVID outbreaks since the pandemic first struck the island last year. Photos of hospitals.... ..",
