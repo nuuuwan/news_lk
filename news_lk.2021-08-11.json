@@ -1,6 +1,65 @@
 [
   {
     "date": "2021-08-11",
+    "title": "Dialog powers SLC Invitational T20 League",
+    "source": "island.lk",
+    "snippet": "Sri Lanka's premier connectivity provider, Dialog Axiata PLC has come forth as the title sponsor for 'Dialog - SLC Invitational T20 League' which will be played from 12th to 24th August 2021 at the Pallekele International Stadium,",
+    "url": "https://island.lk/dialog-powers-slc-invitational-t20-league/",
+    "url_hash": "46be6c9aa9dd6f151c5bce92fc6d3d93",
+    "ut": 1628640499,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dialog Axiata PLC",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Dialog - SLC Invitational",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "T20 League'",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12th to 24th August 2021",
+        "start_end": [
+          31,
+          36
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Pallekele International Stadium",
+        "start_end": [
+          37,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "How a young entrepreneur finds worth in plastic waste",
     "source": "island.lk",
     "snippet": "Pathum's love towards keeping the environment plastic-free drives his passion for implementing a viable system for waste collection in Sri Lanka International Youth Day is a reminder to recognise the initiatives of young people whose meaningful contributions will have a lasting impact on global developmental efforts.",
@@ -2022,6 +2081,33 @@
     "snippet": "A cabinet reshuffle is likely to take place next week with several key portfolios likely to change heads, the Daily Mirror learns. ..",
     "url": "https://www.dailymirror.lk/top_story/Cabinet-Reshuffle-Key-ministers-to-change-including-Health/155-218024",
     "url_hash": "e5b0497afb3136fac158591c7484c148",
+    "ut": 1628658490,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Cabinet Reshuffle - Key ministers to change including Health",
+    "source": "www.dailymirror.lk",
+    "snippet": "A cabinet reshuffle is likely to take place next week with several key portfolios likely to change heads, the Daily Mirror learns. ..",
+    "url": "https://www.dailymirror.lk/top_story/Cabinet-Reshuffle---Key-ministers-to-change-including-Health/155-218024",
+    "url_hash": "01c3689f0c490a8719abe22ac064f6ca",
     "ut": 1628658490,
     "ent_info_list": [
       {
@@ -7125,6 +7211,68 @@
         "start_end": [
           33,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Youth Activist becomes first Sri Lankan to represent country at Mr. Gay World",
+    "source": "www.dailymirror.lk",
+    "snippet": "For the first time in Sri Lankan history a popular rights activist and model will be representing the country at an International competition which is also a platform for LGBT and Human Rights. ..",
+    "url": "https://www.dailymirror.lk/news-features/Youth-Activist-becomes-first-Sri-Lankan-to-represent-country-at-Mr-Gay-World/131-218049",
+    "url_hash": "89f230a913802d98937d505a705b0cfe",
+    "ut": 1628716090,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Biloela asylum seeker Tharnicaa Murugappan in High Court bid for Australian visa",
+    "source": "www.msn.com",
+    "snippet": "Lawyers for a\u00a0Tamil asylum seeker from Biloela make an application in the\u00a0High Court in a bid to get the four-year-old an Australian visa as the\u00a0Murugappan family continues their long battle against deportation.",
+    "url": "https://www.msn.com/en-au/news/australia/biloela-asylum-seeker-tharnicaa-murugappan-in-high-court-bid-for-australian-visa/ar-AANcUT2",
+    "url_hash": "6b1014e78e3d3cee127e136078d00f3c",
+    "ut": 1628716099,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Biloela",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-year-old",
+        "start_end": [
+          23,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
