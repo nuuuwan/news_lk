@@ -6403,5 +6403,131 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Sri Lanka Charges 25 Suspects In Easter Sunday Bombings",
+    "source": "www.ndtv.com",
+    "snippet": "Sri Lanka has filed 23,270 charges against 25 people in connection with the deadly 2019 Easter Sunday attacks that killed over 270 people, including 11 Indians, the president's office said on Wednesday.",
+    "url": "https://www.ndtv.com/world-news/sri-lanka-charges-25-suspects-in-easter-sunday-bombings-2508339",
+    "url_hash": "eb63119a4e1a6d69c5e396b11dbcc488",
+    "ut": 1628702659,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23,270",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 270",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Department of Pensions",
+    "source": "dailynews.lk",
+    "snippet": "The Department of Pensions has decided to temporarily suspend the interviews and clients visiting its premises from tomorrow (August 10) until further notice due to the prevailing Covid-19",
+    "url": "https://dailynews.lk/tags/department-pensions",
+    "url_hash": "c716bf0691d3fc9562db0fd609a25b7c",
+    "ut": 1628704635,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Department of Pensions",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "premises",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 10",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
   }
 ]
