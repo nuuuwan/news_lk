@@ -5598,6 +5598,33 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Hindu texts help scientists communicate earthquake hazards in Nepal",
+    "source": "www.preventionweb.net",
+    "snippet": "To connect with Nepalis about earthquake hazards, scientists must understand religious beliefs regarding the source of shaking, gleaned from ancient Hindu epics.",
+    "url": "https://www.preventionweb.net/news/hindu-texts-help-scientists-communicate-earthquake-hazards-nepal",
+    "url_hash": "c3f84ef32b7175cbafe0087eb8e646b0",
+    "ut": 1628683714,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Nepalis",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "Sri Lanka stocks up on quarterly earnings; pandemic concern weighs",
     "source": "economynext.com",
     "snippet": "Sri Lanka stocks closed 0.31 percent up on LOLC Development Finance, Ambeon Capital and Buki Darah, brokers said.",
@@ -7852,6 +7879,49 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Dubai's busy airport sees passenger traffic drop 40% in 2021",
+    "source": "www.channelnewsasia.com",
+    "snippet": "Dubai International Airport, the world's busiest airport for international travel, handled around 40 per cent less passenger traffic in the first half of 2021, compared to the same period last year, its chief executive said on Wednesday (Aug 11).",
+    "url": "https://www.channelnewsasia.com/business/dubais-busy-airport-sees-passenger-traffic-drop-40-2021-2105496",
+    "url_hash": "8dd4fa5be63b6036250c6c1b1a03aff2",
+    "ut": 1628708923,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Dubai International Airport",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first half of 2021",
+        "start_end": [
+          22,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the same period last year",
+        "start_end": [
+          30,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
