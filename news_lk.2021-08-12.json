@@ -3128,6 +3128,16 @@
   },
   {
     "date": "2021-08-12",
+    "title": "Number of infected patients higher than official daily count?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Leading medical workers, in the forefront of the COVID-19 pandemic have alleged that there is a discrepancy in the official count of infected patients released to the media. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Number-of-infected-patients-higher-than-official-daily-count/108-218103",
+    "url_hash": "73d06b2eba325fd41f681311a54b9622",
+    "ut": 1628755703,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-12",
     "title": "Narahenpita & Werahera DMT offices closed",
     "source": "www.dailymirror.lk",
     "snippet": "The offices of the Department of Motor Traffic in Narahenpita and Werahera will remain closed from Monday (16), State Minister Dilum Amunugama said. ..",
@@ -5479,6 +5489,323 @@
         "text": "PHI) Association",
         "start_end": [
           31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Tougher travel restrictions over the weekend?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Another crucial meeting will held this morning between President Gotabaya Rajapaksa and the Presidential Task Force on Prevention of COVID-19 to decide if travel restrictions will be imposed over the weekend to combat the spread of the COVID-19 virus.",
+    "url": "https://www.dailymirror.lk/breaking_news/Tougher-travel-restrictions-over-the-weekend/108-218120",
+    "url_hash": "a58ee0f9174f2feb76055c910db8b64d",
+    "ut": 1628795303,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Presidential Task Force on Prevention of COVID-19",
+        "start_end": [
+          12,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weekend",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Rugby returns after 17 months",
+    "source": "www.ft.lk",
+    "snippet": "The oval shaped ball game will return to the island when two A division rugby clubs, Sri Lanka Air Force and CH & FC lock horns in the first edition of the Commanders Cup 2021 rugby encounter at Ratmalana today.",
+    "url": "https://www.ft.lk/sports/Rugby-returns-after-17-months/23-721630",
+    "url_hash": "eade2ef5d1ca9ea474a268495cb87f17",
+    "ut": 1628798912,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Air Force and CH & FC",
+        "start_end": [
+          17,
+          25
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Commanders Cup 2021",
+        "start_end": [
+          32,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "De Kock, Miller, Ngidi in for T20 but to miss ODI series in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "South Africa will send a weakened squad into their men\u0432\u0402\u2122s ODI series in Sri Lanka next month, which could complicate their attempts to book a place in the 2023 World Cup. ..",
+    "url": "https://www.ft.lk/sports/De-Kock-Miller-Ngidi-in-for-T20-but-to-miss-ODI-series-in-Sri-Lanka/23-721633",
+    "url_hash": "ac7c95871b6926b89d6eb764d2c6203e",
+    "ut": 1628798926,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2023",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "www.12news.com",
+    "snippet": "After nearly 20 years, the rapid withdrawal of troops has upended the lives of thousands of private security contractors from some of the world's poorest countries.",
+    "url": "https://www.12news.com/article/news/nation-world/us-afghanistan-war-contractors-stuck-in-dubai/507-9b86bd82-9803-482f-8ae6-d976d9db6d26",
+    "url_hash": "736b3392905cf10189ae7a96086e62a5",
+    "ut": 1628798981,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "nearly 20 years",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "CA Sri Lanka, CFA Society encourage corporates to adopt ESG",
+    "source": "www.ft.lk",
+    "snippet": "Amidst challenges stemming from global warming to social unrest, two of the country\u0432\u0402\u2122s top professional bodies, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) and the CFA Society Sri Lanka have banded together to encourage corporates to be more environmentally and socially responsible by embracing the concept of ESG (Environment,",
+    "url": "https://www.ft.lk/business/CA-Sri-Lanka-CFA-Society-encourage-corporates-to-adopt-ESG/34-721635",
+    "url_hash": "5bcda0c02eec9649a7c14b67091bb091",
+    "ut": 1628799046,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Institute of Chartered Accountants of Sri Lanka",
+        "start_end": [
+          20,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Spotlight on Delta! Citizens of Western Province most vulnerable",
+    "source": "www.dailymirror.lk",
+    "snippet": "COVID- 19 has been a part of our lives for more than a year now, but like how everything in this world, mutates and evolves- the virus.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Spotlight-on-Delta-Citizens-of-Western-Province-most-vulnerable/231-218126",
+    "url_hash": "34ee3b8856f1aff7b5d3ca1bf1024437",
+    "ut": 1628800043,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "19",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than a year",
+        "start_end": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Dhammika Rathnaweera",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka leg-spinner Wanindu Hasaranga, who is currently the world's no. 2 bowler in the ICC T20I rankings, has claimed that two teams from the Indian Premier League (IPL) have approached him.This...",
+    "url": "https://dailynews.lk/line/dhammika-rathnaweera",
+    "url_hash": "c5063a82e0e0c6f77b2b43a2d83284c5",
+    "ut": 1628801787,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wanindu Hasaranga",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICC",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          32,
           34
         ]
       }
