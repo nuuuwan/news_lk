@@ -7589,6 +7589,49 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Sri Lanka Convention Bureau launches social media campaign under tagline 'MeetInSriLanka'",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka Convention Bureau (SLCB) recently launched a social media campaign under the tagline of 'MeetInSriLanka'. The campaign started in March 2021 and is the first-ever social media campaign launched by Sri Lanka Convention Bureau on Facebook ...",
+    "url": "https://www.ft.lk/travel-tourism/Sri-Lanka-Convention-Bureau-launches-social-media-campaign-under-tagline-MeetInSriLanka/27-721616",
+    "url_hash": "1328e05ffafabf93aa0e342e60cce518",
+    "ut": 1628705298,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Convention Bureau",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2021",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Convention Bureau",
+        "start_end": [
+          38,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "EDB Chief raises concerns over shortage of containers for export shipments",
     "source": "www.ft.lk",
     "snippet": "By Charumini de Silva The Export Development Board (EDB) raised concerns on the shortage of containers as a result of multiple global supply chain bottlenecks. \"Exporters are still grappling with the shortfall of containers out of the Colombo Port.",
@@ -8613,6 +8656,132 @@
         "start_end": [
           26,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "BUSINESSSri Lanka Tourism attracts over $950 million in tourism investments despite pandemic",
+    "source": "www.lankaweb.com",
+    "snippet": "As one of its primary exports, tourism remains Sri Lanka's calling card to the world. Over the last fifteen months (March 2020-June 2021) the government has attracted over $950 million in investments,",
+    "url": "https://www.lankaweb.com/news/items/2021/08/11/businesssri-lanka-tourism-attracts-over-950-million-in-tourism-investments-despite-pandemic/comment-page-1/",
+    "url_hash": "ba72274f6a88f03d6a094eef3d685cc4",
+    "ut": 1628723285,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last fifteen months",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2020-June 2021",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "over $950 million",
+        "start_end": [
+          34,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Hambantota port to manufacture yachts for a Maldivian company",
+    "source": "www.lankaweb.com",
+    "snippet": "Sri Lanka's Hambantota International Port (HIP) signed a 58-million-U.S. dollar deal with Maldivian company Sea Horse Yachts on Monday to assemble and export yachts from HIP's industrial park. Namal Rajapaksa,",
+    "url": "http://www.lankaweb.com/news/items/2021/08/11/hambantota-port-to-manufacture-yachts-for-a-maldivian-company/comment-page-1/",
+    "url_hash": "9be04b1ba7527dc8b4fa64e5e6bc4421",
+    "ut": 1628723285,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Hambantota International Port",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "58-million",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Maldivian",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HIP",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
