@@ -1,6 +1,49 @@
 [
   {
     "date": "2021-08-12",
+    "title": "Dialog Enterprise partners MiHCM to launch MiHCM Lite for SME",
+    "source": "www.msn.com",
+    "snippet": "With the objective of offering a dedicated HR solution to Small and Medium Sized Businesses (SMBs) in the country, Dialog Enterprise, the corporate solutions arm of Dialog Axiata PLC, recently partnered MiHCM (Pvt) Ltd to launch MiHCM Lite,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/dialog-enterprise-partners-mihcm-to-launch-mihcm-lite-for-sme/ar-AANdwKJ",
+    "url_hash": "b5238adc3a9e8aab6ca9852931a9382e",
+    "ut": 1628726877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SMBs",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dialog Enterprise",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dialog Axiata PLC",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "MiHCM",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
     "title": "ARMY QUARANTINE CENTRES: Where Feeling helps Healing",
     "source": "www.msn.com",
     "snippet": "Even though the word 'Quarantine' was not familiar to us in Sri Lanka before the COVID-19 pandemic, it has a long history around the globe during various time periods with the emergence of different diseases.",
@@ -445,6 +488,41 @@
         "text": "Chair - Department of Community Medicine",
         "start_end": [
           26,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "JAT Holdings to reap benefits of manufacturing in Bangladesh ahead of schedule",
+    "source": "www.dailymirror.lk",
+    "snippet": "JAT Holdings Limited, Sri Lanka's trusted industry leader in finishing and furnishing, witnesses immense organizational progress fueled by the firm's intention to begin its manufacturing operations in Bangladesh further boosting its already established presence in the country.",
+    "url": "https://www.dailymirror.lk/business-news/JAT-Holdings-to-reap-benefits-of-manufacturing-in-Bangladesh-ahead-of-schedule/273-218070",
+    "url_hash": "b5a27c8e992bdcf074762c8d45d5ff65",
+    "ut": 1628737668,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "JAT Holdings Limited",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          31,
           32
         ]
       }
@@ -1448,6 +1526,138 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Approval granted to increase Laugfs gas price",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Consumer Affairs Authority (CAA) has granted approval to increase the price of Laugfs gas cylinders, officials said. Accordingly, the price of a 12.5kg Laugfs gas cylinder has been increased by Rs. 363 to be sold at Rs. 1,856. The price of the ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Approval-granted-to-increase-Laugfs-gas-price/108-218098",
+    "url_hash": "f05a69a38aeedbf290323ddec3dc89fb",
+    "ut": 1628744868,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Consumer Affairs Authority",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Laugfs",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "12.5kg",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "363",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,856",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Quarantine measures for travellers arriving from overseas revised",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Health Ministry has revised the quarantine measures to be followed by travellers arriving from foreign countries. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Quarantine-measures-for-travellers-arriving-from-overseas-revised/108-218097",
+    "url_hash": "6f44a962d9cd8061433fdb9fc80fed1b",
+    "ut": 1628744868,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "High Court blow not end of road for Tamils",
+    "source": "www.bordermail.com.au",
+    "snippet": "The fate of a Tamil family detained for years while fighting for a permanent life in Australia rests entirely with the immigration minister after a blow in",
+    "url": "https://www.bordermail.com.au/story/7382585/high-court-blow-not-end-of-road-for-tamils/",
+    "url_hash": "b33aca03989dde541829d691e131464b",
+    "ut": 1628744877,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Neil Mackay: Why is Police Scotland training Sri Lankan forces accused of executions, torture and human rights abuses?",
+    "source": "www.heraldscotland.com",
+    "snippet": "IT'S gone unreported in Scotland but over in New York, Human Rights Watch has just called out our national police force for propping up the",
+    "url": "https://www.heraldscotland.com/politics/19507167.neil-mackay-police-scotland-training-sri-lankan-forces-accused-executions-torture-human-rights-abuses/?ref=rss",
+    "url_hash": "8845443b0f40972eeebf98cf8712bbc7",
+    "ut": 1628744877,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Scotland",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          9,
+          11
         ]
       }
     ]
