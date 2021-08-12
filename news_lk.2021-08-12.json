@@ -5539,6 +5539,75 @@
   },
   {
     "date": "2021-08-12",
+    "title": "South China Sea becomes flashpoint despite war on covid virus",
+    "source": "www.dailymirror.lk",
+    "snippet": "While the people all over the world are fighting what appears to be a losing battle against an invisible virus which keeps.... ..",
+    "url": "https://www.dailymirror.lk/opinion/South-China-Sea-becomes-flashpoint-despite-war-on-covid-virus/172-218123",
+    "url_hash": "bae6ef17d3272c07c0b4528bef553e98",
+    "ut": 1628798894,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-12",
+    "title": "UNP will form a govt in 2023 - Vajira Abeywardane",
+    "source": "www.dailymirror.lk",
+    "snippet": "Only Ranil Wickremesinghe can give leadership to resurrect it United National Party (UNP) Chairman Vajira Abeywardane, in an interview with the Daily Mirror, speaks with confidence that his party will form a government at the end of 2023.",
+    "url": "https://www.dailymirror.lk/opinion/UNP-will-form-a-govt-in-2023-Vajira-Abeywardane/231-218121",
+    "url_hash": "a62b58d709e57cdca1b2d139bdc3654d",
+    "ut": 1628798894,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United National Party",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vajira Abeywardane",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of 2023",
+        "start_end": [
+          38,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
     "title": "Rugby returns after 17 months",
     "source": "www.ft.lk",
     "snippet": "The oval shaped ball game will return to the island when two A division rugby clubs, Sri Lanka Air Force and CH & FC lock horns in the first edition of the Commanders Cup 2021 rugby encounter at Ratmalana today.",
@@ -5807,6 +5876,124 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Dinesh Chandimal to appear for Bhairahawa Gladiators in Nepal's Everest Premier League",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka batter Dinesh Chandimal is the latest high-profile player who will feature in the Everest Premier League, Nepal's domestic T20 tournament. Chandimal, 31, will represent Bhairahawa Gladiators in the tournament,",
+    "url": "https://www.islandcricket.lk/news/dinesh-chandimal-to-appear-for-bhairahawa-gladiators-in-nepals-everest-premier-league/",
+    "url_hash": "c5af2a6a81419caed4779ed57b955a15",
+    "ut": 1628802502,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chandimal",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "League",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nepal",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chandimal",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "31",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bhairahawa Gladiators",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Mediquipment installs Sri Lanka's most advanced AI-driven CT scanner at National Hospital",
+    "source": "www.ft.lk",
+    "snippet": "Mediquipment Ltd., Sri Lanka's leading biomedical engineering service provider, which specialises in high-end medical imaging technology, announced the introduction of an advanced standard in medical diagnostics with the successful installation of the first ever Canon AQ One PRISM Edition CT scanner at the Radiology Department of the National Hospital of Sri Lanka.",
+    "url": "https://www.ft.lk/news/Mediquipment-installs-Sri-Lanka-s-most-advanced-AI-driven-CT-scanner-at-National-Hospital/56-721645",
+    "url_hash": "02477952d3f0d2d12d8b0446607237ba",
+    "ut": 1628805214,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Canon AQ One",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Radiology Department",
+        "start_end": [
+          48,
+          51
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Hospital of Sri Lanka",
+        "start_end": [
+          52,
+          58
         ]
       }
     ]
