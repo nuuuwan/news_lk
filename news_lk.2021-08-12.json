@@ -5070,6 +5070,57 @@
   },
   {
     "date": "2021-08-12",
+    "title": "156 more succumb to COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 156 more COVID-19 related deaths that occurred yesterday (11) were confirmed by the Director-General of Health Services today pushing the death toll to 5,620. ..",
+    "url": "https://www.dailymirror.lk/latest_news/156-more-succumb-to-COVID-19/342-218116",
+    "url_hash": "30e45bf1d02402e027acfd4c4d5d5943",
+    "ut": 1628781036,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "156",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,620",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
     "title": "Sri Lanka COVID-19: record deaths for seventh day running; 3,000+ new cases",
     "source": "economynext.com",
     "snippet": "Total confirmed COVID-19 deaths in Sri Lanka now stand at 5,620. The government also confirmed 3,039 new infections on Wednesday, the highest daily total in nearly three months. Active cases in the country as of Thursday evening are 37,",
@@ -5139,6 +5190,84 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Forty unidentified bodies lying at NHSL since 2017 to be buried",
+    "source": "www.adaderana.lk",
+    "snippet": "The Maligakanda Magistrate's Court has given the nod to bury 40 unidentified bodies lying at National Hospital of Sri Lanka (NHSL) in Colombo since 2017",
+    "url": "http://www.adaderana.lk/news/76049/forty-unidentified-bodies-lying-at-nhsl-since-2017-to-be-buried",
+    "url_hash": "f30bea2dfb84648e77eea40ae08f078e",
+    "ut": 1628784649,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Magistrate's Court",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "40",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Hospital of Sri Lanka",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "NHSL",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2017",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Chrispil Benedict Fernando",
+    "source": "dailynews.lk",
+    "snippet": "The country was in huge danger of collapsing into a deep economic abyss if strict travel restrictions were not imposed throughout the country, Sri Lanka Public Health Inspectors' (PHI) Association,...",
+    "url": "https://dailynews.lk/line/chrispil-benedict-fernando",
+    "url_hash": "f4315b5173a0c9fb45ccbadc10035968",
+    "ut": 1628786141,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Public Health Inspectors'",
+        "start_end": [
+          24,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PHI) Association",
+        "start_end": [
+          31,
+          34
         ]
       }
     ]
