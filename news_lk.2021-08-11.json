@@ -2705,6 +2705,89 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Inoculating unvaccinated senior citizens in WP underway",
+    "source": "www.dailymirror.lk",
+    "snippet": "The three-day vaccination drive for People over 60 years of age, who have not received their first dose of the Covid vaccine got underway at three vaccination centres in Colombo, Gampaha and Kalutara Districts today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Inoculating-unvaccinated-senior-citizens-in-WP-underway/108-218029",
+    "url_hash": "c3bae7d726b7d7da7929cf10a10561ff",
+    "ut": 1628662088,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "three-day",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years of age",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kalutara Districts",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "Youth from India who entered Sri Lanka illegally sent to quarantine",
     "source": "www.adaderana.lk",
     "snippet": "The Jaffna Police has traced a Sri Lankan youth who have entered the island illegally from India via sea routes, says the police spokesman",
@@ -6973,6 +7056,49 @@
   },
   {
     "date": "2021-08-11",
+    "title": "Unidentified bodies taken for burial...",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 40 bodies of COVID-19 victims that remained unclaimed at the Colombo National Hospital were taken to the Oddamavadi burial site following the court order. Pix by Waruna Wanniarachchi ..",
+    "url": "https://www.dailymirror.lk/caption_story/Unidentified-bodies-taken-for-burial/110-218048",
+    "url_hash": "abba0558b81f3b502f156270f30134a1",
+    "ut": 1628701688,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "40",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo National Hospital",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oddamavadi",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Waruna Wanniarachchi",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
     "title": "Sri Lanka Charges 25 Suspects In Easter Sunday Bombings",
     "source": "www.ndtv.com",
     "snippet": "Sri Lanka has filed 23,270 charges against 25 people in connection with the deadly 2019 Easter Sunday attacks that killed over 270 people, including 11 Indians, the president's office said on Wednesday.",
@@ -7965,6 +8091,57 @@
         "start_end": [
           26,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "BUSINESSSri Lanka Tourism attracts over $950 million in tourism investments despite pandemic",
+    "source": "www.lankaweb.com",
+    "snippet": "As one of its primary exports, tourism remains Sri Lanka's calling card to the world. Over the last fifteen months (March 2020-June 2021) the government has attracted over $950 million in investments,",
+    "url": "https://www.lankaweb.com/news/items/2021/08/11/businesssri-lanka-tourism-attracts-over-950-million-in-tourism-investments-despite-pandemic/",
+    "url_hash": "bbda315ca929e14f83045b3f93b061a6",
+    "ut": 1628723296,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last fifteen months",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2020-June 2021",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "over $950 million",
+        "start_end": [
+          34,
+          38
         ]
       }
     ]
