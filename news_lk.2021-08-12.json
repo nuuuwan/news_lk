@@ -5153,6 +5153,57 @@
   },
   {
     "date": "2021-08-12",
+    "title": "156 more succumb to COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 156 more COVID-19 related deaths that occurred yesterday (11) were confirmed by the Director-General of Health Services today pushing the death toll to 5,620. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/156-more-succumb-to-COVID-19/108-218116",
+    "url_hash": "56d2335e76185d83e64844dc7e0c1893",
+    "ut": 1628780896,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "156",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,620",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
     "title": "SL mulls improving labour protection for domestic workers",
     "source": "news.webindia123.com",
     "snippet": "Sri Lanka's Minister of Labour Nimal Siripala De Silva has proposed amendments to local laws that would increase protections for domestic workers and make them eligible for pension schemes, local media reported on Thursday.",
@@ -5308,6 +5359,49 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Govt places orders for Oxygen supplies from India and Singapore",
+    "source": "www.dailymirror.lk",
+    "snippet": "With the spike of Covid -19 patients needing breathing support, the government placed orders for the import of liquid Oxygen from India and Singapore, a Minister said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-places-orders-for-Oxygen-supplies-from-India-and-Singapore/108-218117",
+    "url_hash": "881d9dca8362490a595edd990bdd87be",
+    "ut": 1628784496,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Covid",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Oxygen",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
