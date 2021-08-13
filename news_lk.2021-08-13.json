@@ -2575,6 +2575,57 @@
   },
   {
     "date": "2021-08-13",
+    "title": "WHO warns SL could soon face a health crisis: Says urgent priority is to SAVE LIVES",
+    "source": "www.dailymirror.lk",
+    "snippet": "The World Health Organization (WHO) expert group said today that Sri Lanka is showing a rapid increase in daily reported number of cases and deaths and the trends indicate that Sri Lanka could soon face a health crisis of unprecedented proportions.",
+    "url": "https://www.dailymirror.lk/latest_news/WHO-warns-SL-could-soon-face-a-health-crisis-Says-urgent-priority-is-to-SAVE-LIVES/342-218183",
+    "url_hash": "767b42e1d7dc4ffac7b60879ea409c43",
+    "ut": 1628842082,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Health Organization",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Why did State Minister write to Sports Minister requesting for vaccines, instead of Health minister?",
     "source": "www.dailymirror.lk",
     "snippet": "SLPP Puttalam District MP and State Minister Priyankara Jayarathna has written to Youth and Sports Affairs Minister Namal Rajapaksa requesting for 100,000 COVID-19 vaccines to the Puttalam District, instead of writing to the Ministry of Health.",
@@ -2886,6 +2937,33 @@
         "start_end": [
           16,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "President says NO lockdown, but tighter travel restrictions",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following a meeting held between President Gotabaya Rajapaksa and the Presidential Task Force on COVID-19, the President said he was not ready to impose an islandwide lockdown but opted for tougher travel restrictions,",
+    "url": "https://www.dailymirror.lk/breaking_news/President-says-NO-lockdown-but-tighter-travel-restrictions/108-218185",
+    "url_hash": "5842cee37ec3eed3d57d17e72e755292",
+    "ut": 1628845682,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Presidential Task Force",
+        "start_end": [
+          9,
+          13
         ]
       }
     ]
@@ -3505,6 +3583,57 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Another MP tests Covid positive",
+    "source": "www.dailymirror.lk",
+    "snippet": "State Minister Prasanna Ranaweera tested positive for COVID 19 today and thus became the fifth Member of Parliament to become positive within the last ten days. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Another-MP-tests-Covid-positive/342-218191",
+    "url_hash": "22a50f76a131873890d5b2d705a23005",
+    "ut": 1628852882,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranaweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last ten days",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Delta variant of COVID-19 spreading fast in Sri Lanka",
     "source": "www.moneycontrol.com",
     "snippet": "Sri Lanka is fighting the third wave of coronavirus. The first five cases of the Delta variant detected came from Colombo on June 17.",
@@ -3838,6 +3967,288 @@
   },
   {
     "date": "2021-08-13",
+    "title": "ID office, all branch offices closed for public from Monday : DRP Commissioner General",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Department for Registration of Persons (DRP) has decided to close their main office at Battaramulla and all other branch offices for the public from Monday (16) until further notice, DRP Commissioner-General Viyani Gunathilaka said.",
+    "url": "https://www.dailymirror.lk/latest_news/ID-office-all-branch-offices-closed-for-public-from-Monday-DRP-Commissioner-General/342-218193",
+    "url_hash": "9dd5853f3174c4dc3ea05b2cc206c08e",
+    "ut": 1628856482,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Department for Registration of Persons",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "DRP",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Viyani Gunathilaka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Vaccination cards for those above 30, will be checked from Sept. 15",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government has decided to check the vaccination cards of those above 30 years, when they visit all public places, from September 15, Army Commander General Shavendra Silva said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Vaccination-cards-for-those-above-30-will-be-checked-from-Sept-15/342-218192",
+    "url_hash": "a80dcad279bafc6fcd8ee97e6cdb3623",
+    "ut": 1628856482,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "30 years",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 15",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Pay special attention to senior citizens with chronic diseases: Prez to health officials",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has directed the health officials to pay special attention to those who are above the age of 60 and are suffering from chronic non-communicable diseases. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Pay-special-attention-to-senior-citizens-with-chronic-diseases-Prez-to-health-officials/342-218194",
+    "url_hash": "81a55494578664e3e7ce90e748c987f4",
+    "ut": 1628856482,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the age of 60",
+        "start_end": [
+          17,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lankan shares post weekly fall as virus takes toll",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares edged up on Friday as financial stocks gained, but closed the week lower as the country posted a record single-day death toll due to COVID-19.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-post-weekly-fall-as-virus-takes-toll-idUSL4N2PK321",
+    "url_hash": "a06cfc0a76c8b2719ae481feab8c75e4",
+    "ut": 1628856492,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the week",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Technical Committee concedes powers back to Sri Lanka Cricket",
+    "source": "www.islandcricket.lk",
+    "snippet": "In the high-powered meeting with Sports Minister Namal Rajapaksa on Monday (2) in Colombo, the Cricket Advisory Committee (TAC) headed by Aravinda de Silva, has conceded its powers back to Sri Lanka Cricket (SLC),",
+    "url": "https://www.islandcricket.lk/news/technical-committee-concedes-powers-back-to-sri-lanka-cricket/",
+    "url_hash": "81c772ec144d083a9f6fe065d853ccd7",
+    "ut": 1628856492,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sports",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Cricket Advisory Committee",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TAC",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Aravinda de Silva",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "South Africa omit Du Plessis for tour to Sri Lanka",
+    "source": "www.islandcricket.lk",
+    "snippet": "Former captain Faf du Plessis was a notable omission from the South African squad named on Thursday for a white-ball tour of Sri Lanka next month, the team's final outings before the Twenty20 World Cup.",
+    "url": "https://www.islandcricket.lk/news/south-africa-omit-star-du-plessis-for-tour-to-sri-lanka/",
+    "url_hash": "88e1412818d88ba28fafc70ed7ae5bfd",
+    "ut": 1628856492,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Faf du Plessis",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South African",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Twenty20 World Cup",
+        "start_end": [
+          35,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Sri Lanka Human Capital Development : Realizing the Promise and Potential of Human Capital",
     "source": "openknowledge.worldbank.org",
     "snippet": "Human capital is a central determinant of economic well-being and social advancement in the modern world economy. The concept of human capital covers the knowledge, skills, nutrition, and health that people accumulate over their lives,",
@@ -3939,6 +4350,33 @@
         "start_end": [
           30,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Former MP Mangala Samaraweera hospitalized with COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Parliamentarian, Mangala Samaraweera has been hospitalized after being infected with the COVID-19 virus, the Daily Mirror learns. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Former-MP-Mangala-Samaraweera-hospitalized-with-COVID-19/108-218195",
+    "url_hash": "b0505e0c1454e06a7af7504e75844ad6",
+    "ut": 1628860082,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Parliamentarian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          16,
+          19
         ]
       }
     ]
