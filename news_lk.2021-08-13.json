@@ -213,6 +213,16 @@
   },
   {
     "date": "2021-08-13",
+    "title": "No consensus in the government to enforce complete lockdown?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Tough restrictions are expected to be announced by the government soon to contain the rapid spread of the coronavirus, government sources said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/No-consensus-in-the-government-to-enforce-complete-lockdown/342-218128",
+    "url_hash": "1de831db76dfad10e8439e4c4f2a201a",
+    "ut": 1628816877,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-13",
     "title": "UNP to send policy on Covid to Govt. and party leaders: Ruwan",
     "source": "www.dailymirror.lk",
     "snippet": "The UNP, which has come up with a policy to deal with the COVID- 19 pandemic, has decided to send it to the President, Prime Minister , Minister of Health, Speaker, Army Commander and leaders of other political parties,",
@@ -690,6 +700,41 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Samsung Sri Lanka launches 2021 Neo QLED 8K line",
+    "source": "www.dailymirror.lk",
+    "snippet": "Samsung, Sri Lanka's leading consumer electronics brand, launched its 2021 Neo QLED 8K line-up, which features technological breakthroughs that deliver immersive and true-to-life viewing experiences like never before.",
+    "url": "https://www.dailymirror.lk/business-news/Samsung-Sri-Lanka-launches-2021-Neo-QLED-8K-line/273-218138",
+    "url_hash": "ad82072a1fea17a7250c8844032c08cc",
+    "ut": 1628824077,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "KFC marks 25th anniversary in Sri Lanka",
     "source": "www.dailymirror.lk",
     "snippet": "The story of KFC in Sri Lanka began in 1996, when the first restaurant opened its doors at the popular shopping complex Majestic City. Fast forward to 25 years and 44 restaurants later, KFC Sri Lanka has gone from strength to strength.",
@@ -1073,6 +1118,57 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Aitken Spence records strong 1Q with significant contributions from non-tourism sectors",
+    "source": "www.dailymirror.lk",
+    "snippet": "Aitken Spence PLC made an impressive comeback in the first quarter ending 30th June 2021 (1Q22) by recording a 145 percent increase in profit before tax (PBT) of Rs. 1.2 billion compared to Rs.513 million in the previous year from the non-tourism sectors.",
+    "url": "https://www.dailymirror.lk/business-news/Aitken-Spence-records-strong-1Q-with-significant-contributions-from-non-tourism-sectors/273-218152",
+    "url_hash": "25700e9c6a5903c35206589b3819bb04",
+    "ut": 1628827677,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Aitken Spence PLC",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first quarter ending 30th June 2021",
+        "start_end": [
+          8,
+          15
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "145 percent",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.2 billion",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the previous year",
+        "start_end": [
+          41,
+          44
         ]
       }
     ]
@@ -1544,6 +1640,92 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Australia's capital goes into snap lockdown",
+    "source": "www.dailymirror.lk",
+    "snippet": "Australia's capital Canberra was ordered into a seven-day lockdown Thursday, after a single Covid-19 case was detected in the city that has largely avoided virus restrictions. ..",
+    "url": "https://www.dailymirror.lk/international/Australias-capital-goes-into-snap-lockdown/107-218170",
+    "url_hash": "e46cb30edaeceb0ed8ea957f2561f6f0",
+    "ut": 1628831277,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canberra",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "seven-day",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lanka Cricket earns big money from series against India",
+    "source": "www.sentinelassam.com",
+    "snippet": "The recent white-ball series between India and Sri Lanka has resulted in big money for the Sri Lanka Cricket (SLC). Even after the Indian camp got hit by Covid-19",
+    "url": "https://www.sentinelassam.com/sports-news/sri-lanka-cricket-earns-big-money-from-series-against-india-550379",
+    "url_hash": "4dc368a8339e2a92364d3d2b143e3564",
+    "ut": 1628831300,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Cricket",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Sri Lanka Minister follows Diocletian after printing money, but stops short of death penalty",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Consumer Affairs Authority, an agency that creates shortages in essential goods after slamming price controls, is planning hikes fines to 100 times, treading the path of Roman Emperor Diocletian who decreed death,",
@@ -1616,6 +1798,207 @@
         "start_end": [
           23,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lanka: Yet another Pada Yathra without Crowd",
+    "source": "www.srilankaguardian.org",
+    "snippet": "In Parallel to the pilgrimage to Mountain Kaillash in Himalayas in India (near Pithoragarh District, Uttarakhand State, India), there is a pilgrimage in Sri Lanka known in ancient history as Southern Kaillash (Dakshina Kaillash),",
+    "url": "http://www.srilankaguardian.org/2021/08/sri-lanka-yet-another-pada-yathra.html",
+    "url_hash": "cf1091937df7eff971441dcdd88c8a23",
+    "ut": 1628834886,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Mountain Kaillash",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Himalayas",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Pithoragarh District",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Uttarakhand State",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Southern Kaillash",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dakshina Kaillash",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lanka: Sri Lankans listed as missing are living abroad",
+    "source": "www.srilankaguardian.org",
+    "snippet": "We have reports to prove that hundreds of persons said to have gone missing are in fact living abroad. Their names are on the lists of persons who allegedly disappeared. Leader of the House and Foreign Minister Dinesh Gunawardena yesterday said that there were reports that a large number of persons believed to have gone missing during the war were living abroad under different names.",
+    "url": "http://www.srilankaguardian.org/2021/08/sri-lanka-sri-lankans-listed-as-missing.html",
+    "url_hash": "044079ae97fbe20736aad4bbee614cd8",
+    "ut": 1628835666,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "House",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardena",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Little Simz stars on the cover of the new edition of Music Week",
+    "source": "www.musicweek.com",
+    "snippet": "Music Week is delighted to reveal Little Simz as the cover star of our new monthly print edition. In 2019, the star won an Ivor Novello and a Mercury Prize nod for her third album Grey Area. To top it,",
+    "url": "https://www.musicweek.com/media/read/little-simz-stars-on-the-cover-of-the-new-edition-of-music-week/083916",
+    "url_hash": "d40ed462190d18828ab54ad5161287a3",
+    "ut": 1628836086,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "Music Week",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Little Simz",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "monthly",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Ivor",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mercury",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Grey Area",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
