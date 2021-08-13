@@ -2169,6 +2169,41 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Coronavirus: Philippines extends travel ban on India and 9 other countries; Sydney poised to tighten lockdown",
+    "source": "www.msn.com",
+    "snippet": "Meanwhile, Sydney is poised to tighten lockdown rules as daily Covid-19 cases hover near record highs despite a nearly seven-week lockdown.",
+    "url": "https://www.msn.com/en-xl/news/other/coronavirus-philippines-extends-travel-ban-on-india-and-9-other-countries-sydney-poised-to-tighten-lockdown/ar-AANhpwv",
+    "url_hash": "1488bf9d1a9a27a07843b7f771fde078",
+    "ut": 1628838482,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sydney",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "seven-week",
+        "start_end": [
+          20,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Impose lockdown for two weeks; Medical professionals urge President",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka Medical Association and the Intercollegiate Committee have urged President Gotabaya Rajapaksa to impose lockdown for a minimum of two weeks in order to prevent a vast escalation of COVID-19 infections and fatalities.",
@@ -2666,6 +2701,130 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Govt's failure to prevent Covid deaths worse than failure to prevent Easter Attacks: Tilvin",
+    "source": "www.dailymirror.lk",
+    "snippet": "Criticizing the Government's failure to intervene in preventing Covid mortality, JVP General Secretary Tilvin Silva said today that the Government should be responsible for Covid deaths even more than the previous government that was responsible for Easter Attacks deaths.",
+    "url": "https://www.dailymirror.lk/breaking_news/Govts-failure-to-prevent-Covid-deaths-worse-than-failure-to-prevent-Easter-Attacks-Tilvin/108-218184",
+    "url_hash": "a597716dd80b09e3658cee1d65ec2b35",
+    "ut": 1628845673,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "JVP General",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tilvin Silva",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "President says NO lockdown, but tighter travel restrictions",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following a meeting held between President Gotabaya Rajapaksa and the Presidential Task Force on COVID-19, the President said he was not ready to impose an islandwide lockdown but opted for tougher travel restrictions,",
+    "url": "https://www.dailymirror.lk/latest_news/President-says-NO-lockdown-but-tighter-travel-restrictions/342-218185",
+    "url_hash": "f263c89af9d157d7fc31297c132cd5c5",
+    "ut": 1628845673,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Presidential Task Force",
+        "start_end": [
+          9,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Revised quarantine measures for travellers from overseas",
+    "source": "www.adaderana.lk",
+    "snippet": "The Director-General of Health Services has issued revised quarantine measures for travellers arriving in Sri Lanka from overseas during the COVID-19 pandemic",
+    "url": "http://www.adaderana.lk/news/76092/revised-quarantine-measures-for-travellers-from-overseas",
+    "url_hash": "a06914de77a6ef83b66574a5bc0453b9",
+    "ut": 1628845682,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health Services",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Cricket for India sees meteoric rise in digital following during pandemic",
+    "source": "theprint.in",
+    "snippet": "For the ones who just can't get enough of cricket or the cricketers, Cricket for India -  is the perfect digital destination. An online community built by the fans, for the fans, The Cricket for India website and Social Media pages provide insight into the sport,",
+    "url": "https://theprint.in/ani-press-releases/cricket-for-india-sees-meteoric-rise-in-digital-following-during-pandemic/714585/",
+    "url_hash": "48f325903187a0831fed2550992069c2",
+    "ut": 1628845690,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Cricket for India",
+        "start_end": [
+          38,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Social Media",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Mediquipment installs Sri Lanka's most advanced AI-driven CT scanner at National Hospital",
     "source": "bizenglish.adaderana.lk",
     "snippet": "First and highest spec machine in Sri Lanka with AI-based image-quality optimization First spectral CT-capable 320 row/640 slice scanner in the country Ideal for advanced heart and brain scanning Enables unprecedented diagnostic and imaging capabilities,",
@@ -2840,6 +2999,197 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "No island-wide lockdown",
+    "source": "www.dailynews.lk",
+    "snippet": "No plans to impose island-wide lockdown, said the State Minister Professor...",
+    "url": "http://www.dailynews.lk/2021/08/13/local/256575/no-island-wide-lockdown",
+    "url_hash": "0243ee968538a7a5c2ce3683f4b67708",
+    "ut": 1628849277,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "No COVID-19 lockdown in Sri Lanka, decides govt, despite repeated appeals from experts",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will not go into a total lockdown despite surging COVID-19 deaths and daily cases, but will instead opt for a tightening of existing restrictions, according to State Minister Prof Channa Jayasumana.",
+    "url": "https://economynext.com/no-covid-19-lockdown-in-sri-lanka-decides-govt-despite-repeated-appeals-from-experts-84855/",
+    "url_hash": "85dfaf0b5771726575a8c16a4d673f28",
+    "ut": 1628849282,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prof Channa Jayasumana",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lanka June 2021 imports, trade deficit hit three year high on inflationary policy",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's imports hit 10,015 million US dollars, highest since 2018 and the trade deficit hit 4,316 million dollars, also a two year high, official data showed as the central bank ran unusually inflationary policy.",
+    "url": "https://economynext.com/sri-lanka-june-2021-imports-trade-deficit-hit-three-year-high-on-inflationary-policy-84856/",
+    "url_hash": "6acf31be41bd168a94dccf2111ef409a",
+    "ut": 1628849298,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "10,015 million US dollars",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2018",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "4,316 million dollars",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two year",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Railway Station Masters' strike continues",
+    "source": "www.hirunews.lk",
+    "snippet": "With the strike launched by the Railway Station Masters, train services on all routes have been restricted. The Railway Control Room stated that the train services were being delayed. Hiru Correspondents stated that the ticket counters at the railway stations were also closed today (13) due to the strike.",
+    "url": "https://www.hirunews.lk/english/279600/railway-station-masters-strike-continues",
+    "url_hash": "b338b66383c35d52ff2f053e12829288",
+    "ut": 1628849594,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Railway Station Masters",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Railway Control Room",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Delta variant of COVID-19 spreading fast in Sri Lanka",
+    "source": "www.newindianexpress.com",
+    "snippet": "By early this month, 75 per cent of the new infections detected in the Western province were carrying the Delta variant and the island is bracing to face its most decisive fortnight.",
+    "url": "https://www.newindianexpress.com/world/2021/aug/13/delta-variant-of-covid-19-spreading-fast-in-sri-lanka-2344264.html",
+    "url_hash": "66cb03c18b85bd311c2230517d285307",
+    "ut": 1628850902,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "early this month",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "75 per cent",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
