@@ -5185,6 +5185,41 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Coronavirus: Hong Kong medical expert says people don't need to worry, after virus found on chilled fish imports from Indonesia",
+    "source": "www.scmp.com",
+    "snippet": "Authorities also reveal infection involving the L452R mutant strain detected in the community; carrier had visited places in Wan Chai, Causeway Bay and Stanley.",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3144930/coronavirus-hong-kong-medical-expert-says-people",
+    "url_hash": "485d244e94a2680ef274d753e29e7578",
+    "ut": 1628870886,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Wan Chai",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Causeway Bay",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Stanley",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Hemas' Continued Focus on Consumer and Healthcare Delivers Strong First Quarter Performance",
     "source": "bizenglish.adaderana.lk",
     "snippet": "First Three Months Performance Hemas Holdings PLC (HHL) delivered yet another strong quarter amidst challenging operating environment conditions with key businesses gaining momentum in all areas. The Group's continued focus on growing the Consumer and Healthcare businesses along with operational excellence,",
@@ -5778,6 +5813,33 @@
     "title": "COVID pandemic, KNDU debate and civil-military relations",
     "source": "www.ft.lk",
     "snippet": "The COVID-19 pandemic undoubtedly is the central challenge Sri Lanka is facing today along with other countries. All indications are t ..",
+    "url": "https://www.ft.lk/opinion/COVID-pandemic-KNDU-debate-and-civil-military-relations/14-721666",
+    "url_hash": "9d011532e27c1574379fb28ccc2b413c",
+    "ut": 1628881699,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "COVID pandemic, KNDU debate and civil-military relations",
+    "source": "www.ft.lk",
+    "snippet": "The COVID-19 pandemic undoubtedly is the central challenge Sri Lanka is facing today along with other countries. All indications are t ..",
     "url": "https://www.ft.lk/columns/COVID-pandemic-KNDU-debate-and-civil-military-relations/4-721666",
     "url_hash": "c759013771772d841a5b58c0484ecc9a",
     "ut": 1628881701,
@@ -6067,6 +6129,78 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Who's fooling whom?",
+    "source": "www.dailymirror.lk",
+    "snippet": "The public continues to question the accuracy of statistics revealed by the Health Ministry with regards to the number of COVID positive cases reported from around the country ..",
+    "url": "https://www.dailymirror.lk/plus/Whos-fooling-whom/352-218238",
+    "url_hash": "10919a73890af0ec71fa57100bec8941",
+    "ut": 1628885277,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "US demography 'changing dramatically': New census data",
+    "source": "www.dailymirror.lk",
+    "snippet": "Newly released data from the US Census Bureau show the percentage of white Americans declining sooner than demographers expected, while Asian, Hispanic, and Other categories are on the rise. Most Covid-19 deaths weren't counted.",
+    "url": "https://www.dailymirror.lk/international/US-demography-%E2%80%98changing-dramatically%E2%80%99:-New-census-data/107-218244",
+    "url_hash": "f773b26464677dc7d51f0a8ace36f665",
+    "ut": 1628885277,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the US Census Bureau",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hispanic",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Has government failed in managing forces at work?",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a democratic system, widely perceived view is that the majority opinion always counts. It is true. Likewise, another common perception is that governance is a smooth sail as long as an overwhelming majority of people are with the ruling side.",
+    "url": "https://www.dailymirror.lk/plus/Has-government-failed-in-managing-forces-at-work/352-218237",
+    "url_hash": "762fa476a086d963376e5148cc17e082",
+    "ut": 1628885277,
+    "ent_info_list": []
   },
   {
     "date": "2021-08-13",
@@ -6580,6 +6714,49 @@
         "start_end": [
           12,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Issues in banning polygamy in Sri Lanka.",
+    "source": "www.lankaweb.com",
+    "snippet": "There is no data on the extent of polygamy among Sri Lankan Muslims. Yet, polygamy is seen by the authorities and the majority Sinhala community as being a widely prevalent custom among Muslims, which is both a social evil and a demographic threat to the Sinhala community.",
+    "url": "https://www.lankaweb.com/news/items/2021/08/13/issues-in-banning-polygamy-in-sri-lanka/",
+    "url_hash": "b7e221c8d423deea0e86747eae9e89b3",
+    "ut": 1628895246,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslims",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslims",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sinhala",
+        "start_end": [
+          48,
+          49
         ]
       }
     ]
