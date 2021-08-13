@@ -3685,6 +3685,49 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Contractors who powered US war in Afghanistan stuck in Dubai",
+    "source": "www.houstonchronicle.com",
+    "snippet": "Some of the foreign contractors who powered the logistics of America's \"forever war\" in Afghanistan now find themselves stranded on an unending layover in Dubai without a way to get home. After nearly two decades,",
+    "url": "https://www.houstonchronicle.com/news/article/Contractors-who-powered-US-war-in-Afghanistan-16373651.php",
+    "url_hash": "fbbf582ef3e2fb8ffa9110371c5811ad",
+    "ut": 1628852889,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly two decades",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Delta variant of COVID-19 spreading fast in Sri Lanka",
     "source": "www.moneycontrol.com",
     "snippet": "Sri Lanka is fighting the third wave of coronavirus. The first five cases of the Delta variant detected came from Colombo on June 17.",
@@ -5444,6 +5487,151 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Special Commodity Levy imposed on a series of food items",
+    "source": "www.newsfirst.lk",
+    "snippet": "Sri Lanka's Finance Minister issued an Extraordinary Gazette on Friday (13) evening imposing a Special Commodity Levy on multiple - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/13/special-commodity-levy-imposed-on-a-series-of-food-items/",
+    "url_hash": "746f4ce3e4de8cc2bec0029da5f1eaa5",
+    "ut": 1628879124,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "13) evening",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Special Commodity Levy",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "COVID pandemic, KNDU debate and civil-military relations",
+    "source": "www.ft.lk",
+    "snippet": "The COVID-19 pandemic undoubtedly is the central challenge Sri Lanka is facing today along with other countries. All indications are t ..",
+    "url": "https://www.ft.lk/columns/COVID-pandemic--KNDU-debate-and-civil-military-relations/4-721666",
+    "url_hash": "fce8038e13da588ebdf496a4f1257fc2",
+    "ut": 1628880014,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Wear House, the fashion industry game-changer",
+    "source": "www.ft.lk",
+    "snippet": "Wear House, a designer hub for shoppers and sellers, was unveiled by Lin Asia Holdings and House of Indi recently, uniting fashion, beauty, and lifestyle brands under one roof in Colombo 7. Shining the spotlight on Sri Lankan designer brands,",
+    "url": "https://www.ft.lk/ft-lite/Wear-House-the-fashion-industry-game-changer/6-721667",
+    "url_hash": "2d37daf251657633c1cec2447c9100a2",
+    "ut": 1628880014,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Wear House",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lin Asia Holdings",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "House of Indi",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Colombo 7",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          42,
+          44
         ]
       }
     ]
