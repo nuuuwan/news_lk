@@ -6932,6 +6932,57 @@
   },
   {
     "date": "2021-08-12",
+    "title": "3,039 persons test positive for COVID-19",
+    "source": "www.ft.lk",
+    "snippet": "COVID-19 detections exceeded 3,000 for the first time since 5 June, with the detection of 3,039 COVID-19 patients yesterday. ..",
+    "url": "https://www.ft.lk/news/3-039-persons-test-positive-for-COVID-19/56-721647",
+    "url_hash": "8e275e0bd8ae332f1c88bac69fdf7cf8",
+    "ut": 1628806088,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "3,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "5 June",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,039",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
     "title": "Kapila Somratne",
     "source": "dailynews.lk",
     "snippet": "An accused was remanded till August 14 by Moratuwa Aditional Magistrate Uddala Suwardurugoda on Monday for abusing his granddaughter in Moratuwa.Moratuwa Police arrested the suspect and recorded his... National Water Supply and Drainage Board Special Squad at Ratmalana last week raided a hotel at Dehiwala and found that it was taking water through a pipe attached to a...",

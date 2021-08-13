@@ -4581,6 +4581,33 @@
   },
   {
     "date": "2021-08-13",
+    "title": "COVID-19 victims; before bidding adieu for the last time....",
+    "source": "www.dailymirror.lk",
+    "snippet": "The bodies of the COVID-19 victims were seen brought to the Borella Cemetery for cremation. A new cremation area was established in the Borella cemetery specially for COVID-19 victims. Pix by Kithsiri de Mel .",
+    "url": "https://www.dailymirror.lk/caption_story/COVID-19-victims-before-bidding-adieu-for-the-last-time/110-218198",
+    "url_hash": "c2c5314a112f8c785da56181f0f5e0a9",
+    "ut": 1628863679,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Borella",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kithsiri de Mel",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "6 new educational TV channels for school children from next week: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "As a first step of the programme to launch 20 television channels dedicated to education, six new television channels and a radio frequency will be launched next week, Education Minister Prof. G.L. Peiris said.",
@@ -5638,6 +5665,33 @@
   },
   {
     "date": "2021-08-13",
+    "title": "COVID pandemic, KNDU debate and civil-military relations",
+    "source": "www.ft.lk",
+    "snippet": "The COVID-19 pandemic undoubtedly is the central challenge Sri Lanka is facing today along with other countries. All indications are t ..",
+    "url": "https://www.ft.lk/columns/COVID-pandemic-KNDU-debate-and-civil-military-relations/4-721666",
+    "url_hash": "c759013771772d841a5b58c0484ecc9a",
+    "ut": 1628881701,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Fitch warns Lankan banks' national ratings constrained by sovereign rating",
     "source": "www.ft.lk",
     "snippet": "National ratings on Sri Lankan banks remain constrained by the sovereign credit profile (CCC), Fitch Ratings said yesterday. The highest national rating for domestic banks with ratings driven by their intrinsic credit profiles is 'AA-(lka)'.",
@@ -5900,6 +5954,135 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Possibility of higher death toll: WHO warns Sri Lanka",
+    "source": "dailynews.lk",
+    "snippet": "Expert Group has said that Sri Lanka will avert about 18,000 deaths by January 2022 if the level of stringency is immediately increased similar to May 2021 for four weeks and urged the authorities to pay urgent priority to save lives.",
+    "url": "https://dailynews.lk/2021/08/14/local/256633/possibility-higher-death-toll-who-warns-sri-lanka",
+    "url_hash": "19bd3b74c2293143f5dc0d999fdcb156",
+    "ut": 1628885283,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Expert Group",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "about 18,000",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January 2022",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 2021",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four weeks",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Supreme TV broadens telecast islandwide",
+    "source": "www.dailymirror.lk",
+    "snippet": "Supreme TV, Sri Lanka's latest Sinhala TV channel, has expanded islandwide, joining the fight against COVID-19's adverse impact on the nation's education sector. ..",
+    "url": "https://www.dailymirror.lk/business-news/Supreme-TV-broadens-telecast-islandwide/273-218230",
+    "url_hash": "66690560f05fbebfcd5e5b36d33836d0",
+    "ut": 1628885288,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Supreme TV",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinhala TV",
+        "start_end": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "COVID Death",
+    "source": "dailynews.lk",
+    "snippet": "124 deaths reported due to COVID-19 within 24-hours, stated the Department of Government Information",
+    "url": "https://dailynews.lk/tags/covid-death",
+    "url_hash": "f27ab2e2524cc20525e349b9e7bfdfe4",
+    "ut": 1628886963,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "124",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "24-hours",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Government Information",
+        "start_end": [
+          12,
+          17
         ]
       }
     ]
