@@ -213,6 +213,49 @@
   },
   {
     "date": "2021-08-13",
+    "title": "UNP to send policy on Covid to Govt. and party leaders: Ruwan",
+    "source": "www.dailymirror.lk",
+    "snippet": "The UNP, which has come up with a policy to deal with the COVID- 19 pandemic, has decided to send it to the President, Prime Minister , Minister of Health, Speaker, Army Commander and leaders of other political parties, party Deputy Leader Ruwan ...",
+    "url": "https://www.dailymirror.lk/latest_news/UNP-to-send-policy-on-Covid-to-Govt-and-party-leaders-Ruwan/342-218127",
+    "url_hash": "0ffa35ae890f0438168d75fa596c349e",
+    "ut": 1628816901,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "19",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ruwan",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Sri Lanka Tobacco sales maintains profit in June, despite sales fall",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Ceylon Tobacco Company reported profits of 3.9 billion rupees in the June 2021 quarter up from 3.0 billion rupees a year ago, through sales volumes were down 16 percent from the March quarter,",
@@ -282,6 +325,33 @@
         "start_end": [
           34,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "False posts about Covid-19 state of emergency in Sri Lankan hospital misuse photos from other countries",
+    "source": "factcheck.afp.com",
+    "snippet": "Facebook posts have circulated in Sri Lanka claiming a hospital in the capital Colombo \"declared a state of emergency\" in early August as Covid-19 infections surged. These posts also show several photos of exhausted health workers.",
+    "url": "https://factcheck.afp.com/http%253A%252F%252Fdoc.afp.com%252F9KV76N-1",
+    "url_hash": "f5335c361d7eb050a5c11e68a357dee7",
+    "ut": 1628820511,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early August",
+        "start_end": [
+          22,
+          24
         ]
       }
     ]
@@ -518,6 +588,151 @@
         "start_end": [
           39,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lanka still at start of Delta variant spread",
+    "source": "island.lk",
+    "snippet": "Experts insist on decisive action now to halt it in its track By Rathindra Kuruwita Sri Lanka was still at the early stages of the COVID wave created by the Delta variant and it had not spread to most parts of the country,",
+    "url": "https://island.lk/sri-lanka-still-at-start-of-delta-variant-spread/",
+    "url_hash": "6fea2da041da9cdbb758bfdf21276b6f",
+    "ut": 1628824111,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rathindra",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "COVID",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Philippines extends ban on travellers from Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The Philippines has extended a ban on travellers from Sri Lanka until the end of August. President Rodrigo Duterte, upon the recommendation of the Inter-Agency Task Force for the Management of Emerging Infectious Diseases (IATF-EID),",
+    "url": "https://colombogazette.com/2021/08/13/philippines-extends-ban-on-travellers-from-sri-lanka-3/",
+    "url_hash": "647b5891fcc126f6044d2ba28c94b5d5",
+    "ut": 1628824133,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Philippines",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of August",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rodrigo Duterte",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Inter-Agency Task Force",
+        "start_end": [
+          25,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Management of Emerging Infectious Diseases (",
+        "start_end": [
+          32,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lanka Tourism launches membership drive for informal sector supported by Australia's MDF",
+    "source": "island.lk",
+    "snippet": "Registration in the accommodation sector increased by 48% since 2020 \u2022 Provisional registration launched with relaxed documentation requirements \u2022 Registration fees reduced to Rs.2200 and Rs.1100 from Rs.",
+    "url": "https://island.lk/sri-lanka-tourism-launches-membership-drive-for-informal-sector-supported-by-australias-mdf/",
+    "url_hash": "26670f8525116521b714b470eac260b2",
+    "ut": 1628825851,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "48%",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "\u2022 Provisional",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Rs.2200",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
