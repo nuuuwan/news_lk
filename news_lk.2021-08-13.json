@@ -4252,6 +4252,16 @@
     "title": "Sri Lanka Human Capital Development : Realizing the Promise and Potential of Human Capital",
     "source": "openknowledge.worldbank.org",
     "snippet": "Human capital is a central determinant of economic well-being and social advancement in the modern world economy. The concept of human capital covers the knowledge, skills, nutrition, and health that people accumulate over their lives,",
+    "url": "https://openknowledge.worldbank.org/handle/10986/36113?show=full",
+    "url_hash": "c3d73e1bf17552fdda83c64228dd29bf",
+    "ut": 1628856511,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lanka Human Capital Development : Realizing the Promise and Potential of Human Capital",
+    "source": "openknowledge.worldbank.org",
+    "snippet": "Human capital is a central determinant of economic well-being and social advancement in the modern world economy. The concept of human capital covers the knowledge, skills, nutrition, and health that people accumulate over their lives,",
     "url": "https://openknowledge.worldbank.org/handle/10986/36113?show=full&locale-attribute=en",
     "url_hash": "e541ab26e95d465293f7a82649f7f42c",
     "ut": 1628856668,
@@ -4377,6 +4387,127 @@
         "start_end": [
           16,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "6 new educational TV channels for school children from next week: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "As a first step of the programme to launch 20 television channels dedicated to education, six new television channels and a radio frequency will be launched next week, Education Minister Prof. G.L. Peiris said.",
+    "url": "https://www.dailymirror.lk/latest_news/6-new-educational-TV-channels-for-school-children-from-next-week-Minister/342-218197",
+    "url_hash": "4c9e966b17fbeaafae0c1390a3d4df8b",
+    "ut": 1628863700,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G.L. Peiris",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lanka will avert nearly 18,000 COVID deaths with increased stringency levels: Experts group",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka is showing a rapid increase in number of cases and deaths reported daily and the recent trends indicate the country could soon face a health crisis of unprecedented proportions, a group of i",
+    "url": "http://www.adaderana.lk/news.php?nid=76125",
+    "url_hash": "040576e90d028f38cc121cb1a09e1d44",
+    "ut": 1628863711,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "IPL 2021 Phase 2: Here Are Stars Who Can Replace Pat Cummins In KKR",
+    "source": "www.republicworld.com",
+    "snippet": "Pat Cummins during a Live Q&A session on his official YouTube channel stated that he will not be traveling to the UAE because his wife is pregnant",
+    "url": "https://www.republicworld.com/sports-news/cricket-news/ipl-2021-phase-2-here-are-stars-who-can-replace-pat-cummins-in-kkr.html",
+    "url_hash": "e77c0e9f6a1e86b8fa0da346f70f6ec2",
+    "ut": 1628863725,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pat Cummins",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "Live Q&A",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "YouTube",
+        "start_end": [
+          10,
+          11
         ]
       }
     ]
