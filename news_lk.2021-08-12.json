@@ -5749,6 +5749,49 @@
     "title": "Tougher travel restrictions over the weekend?",
     "source": "www.dailymirror.lk",
     "snippet": "Another crucial meeting will held this morning between President Gotabaya Rajapaksa and the Presidential Task Force on Prevention of COVID-19 to decide if travel restrictions will be imposed over the weekend to combat the spread of the COVID-19 virus.",
+    "url": "https://www.dailymirror.lk/latest_news/Tougher-travel-restrictions-over-the-weekend/342-218120",
+    "url_hash": "95b49ba40c8be5c1c82adc10b44b4616",
+    "ut": 1628795291,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Presidential Task Force on Prevention of COVID-19",
+        "start_end": [
+          12,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weekend",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Tougher travel restrictions over the weekend?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Another crucial meeting will held this morning between President Gotabaya Rajapaksa and the Presidential Task Force on Prevention of COVID-19 to decide if travel restrictions will be imposed over the weekend to combat the spread of the COVID-19 virus.",
     "url": "https://www.dailymirror.lk/breaking_news/Tougher-travel-restrictions-over-the-weekend/108-218120",
     "url_hash": "a58ee0f9174f2feb76055c910db8b64d",
     "ut": 1628795303,
@@ -5783,6 +5826,65 @@
         "start_end": [
           29,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-12",
+    "title": "NTB delivers strong performance; continues support to economic revival initiatives",
+    "source": "www.ft.lk",
+    "snippet": "Nations Trust Bank said yesterday it continued to demonstrate its resilience in performance during the year. The loan portfolio increased by Rs. 26 billion, recording a 12% growth during the first six months of the year despite the challenging business environment.",
+    "url": "https://www.ft.lk/front-page/NTB-delivers-strong-performance-continues-support-to-economic-revival-initiatives/44-721627",
+    "url_hash": "ccc3e62fcf7c7e6d755e3571e4bbba9e",
+    "ut": 1628795328,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nations Trust Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the year",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26 billion",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "12%",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first six months of the year",
+        "start_end": [
+          33,
+          40
         ]
       }
     ]
@@ -6590,6 +6692,41 @@
     "url_hash": "adf261cad109565608ad5a0c8e484487",
     "ut": 1628808924,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-12",
+    "title": "Police training in Sri Lanka halted over abuse fears",
+    "source": "www.thetimes.co.uk",
+    "snippet": "The global watchdog has reported a surge in police abuses in Sri Lanka during the pandemic, including extrajudicial killings, torture and arbitrary detention. Its South Asian director, Meenakshi Ganguly,",
+    "url": "https://www.thetimes.co.uk/article/police-training-in-sri-lanka-halted-over-abuse-fears-3w87qk9rp",
+    "url_hash": "4828466c3f9510f2f27b3d66ec8e87c8",
+    "ut": 1628809700,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Meenakshi Ganguly",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-12",
