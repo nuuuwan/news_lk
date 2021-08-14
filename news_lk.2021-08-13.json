@@ -4566,6 +4566,33 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Daily Mirror World Focus | Report on Austrailia",
+    "source": "www.dailymirror.lk",
+    "snippet": "A look at the damning report by the UN on climate change and the Covid-19 situation in Australia. ..",
+    "url": "https://www.dailymirror.lk/dailymirror_online/Daily-Mirror-World-Focus-Report-on-Austrailia/379-218261",
+    "url_hash": "ce20c69bc3937f8c8bdd64b7bee21108",
+    "ut": 1628856508,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Sri Lanka Human Capital Development : Realizing the Promise and Potential of Human Capital",
     "source": "openknowledge.worldbank.org",
     "snippet": "Human capital is a central determinant of economic well-being and social advancement in the modern world economy. The concept of human capital covers the knowledge, skills, nutrition, and health that people accumulate over their lives,",
@@ -4755,6 +4782,49 @@
         "start_end": [
           16,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "A floating pool to reconnect us with nature",
+    "source": "www.domusweb.it",
+    "snippet": "POOL, conceived a decade ago, is on its way to completion. In the meantime, many things have changed, mainly for two reasons: climate change and pandemic. We talk about it with cocreator Dong-Ping Wong.",
+    "url": "https://www.domusweb.it/en/speciali/un-estate-a-new-york/2021/a-floating-pool-to-reconnect-us-with-nature.html",
+    "url_hash": "c77b70de4f868d301fdca4b2c6d76f4d",
+    "ut": 1628860118,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "POOL",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a decade ago",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dong-Ping Wong",
+        "start_end": [
+          39,
+          43
         ]
       }
     ]

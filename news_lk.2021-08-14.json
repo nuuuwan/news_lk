@@ -1502,6 +1502,41 @@
   {
     "date": "2021-08-14",
     "title": "SL administers over 11mn 1st doses of Covid vax",
+    "source": "www.sify.com",
+    "snippet": "Over 11 million first dose of Covid-19 vaccines have been administered across Sri Lanka till date as a mass program is underway to inoculate all citizens above 30 years of age amid a resurgence in the island nation,",
+    "url": "https://www.sify.com/news/sl-administers-over-11mn-1st-doses-of-covid-vax-news-international-vioh4jiajgjfi.html",
+    "url_hash": "4a34d2407d5c2f5bb5eae3d0af1893b8",
+    "ut": 1628924918,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Over 11 million",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "above 30 years of age",
+        "start_end": [
+          26,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "SL administers over 11mn 1st doses of Covid vax",
     "source": "www.msn.com",
     "snippet": "Over 11 million first dose of Covid-19 vaccines have been administered across Sri Lanka till date as a mass program is underway to inoculate all citizens above 30 years of age amid a resurgence in the island nation,",
     "url": "https://www.msn.com/en-in/news/world/sl-administers-over-11mn-1st-doses-of-covid-vax/ar-AANjc4Y",
@@ -1864,6 +1899,35 @@
   },
   {
     "date": "2021-08-14",
+    "title": "Ex- Airman arrested for alleged threat on a Colombo institution",
+    "source": "www.dailymirror.lk",
+    "snippet": "An ex-Air Force personnel has been arrested for making alleged threats to attack an institution in Colombo, Police said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Ex-Airman-arrested-for-alleged-threat-on-a-Colombo-institution/108-218265",
+    "url_hash": "7440cceef289294bf9692fcdbb5a8d6f",
+    "ut": 1628935708,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Allowing visitors to prisons temporarily suspended",
+    "source": "www.hirunews.lk",
+    "snippet": "Chandana Ekanayake says that due to the rapid spread of the COVID-19 pandemic, the process of allowing visitors to prisons island-wide has been temporarily suspended until further notice. According to the prison spokesman,",
+    "url": "https://www.hirunews.lk/goldfmnews/279696/allowing-visitors-to-prisons-temporarily-suspended",
+    "url_hash": "8e9e640e405fa5156259ed6a2fee14c8",
+    "ut": 1628935718,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Chandana Ekanayake",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "Scotland suspends training for Sri Lanka Police officers",
     "source": "menafn.com",
     "snippet": "Police Scotland has put a controversial scheme to train officers in troubled Sri Lanka on hold amid criticism from global watchdogs, the",
@@ -1971,6 +2035,121 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "INDIA AUGUST 15 CELEBRATIONS",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "India August 15 celebrations Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. India August 15 celebrations Blogs, Comments and Archive News on Economictimes.com",
+    "url": "https://economictimes.indiatimes.com/topic/India-August-15-celebrations",
+    "url_hash": "c789b71fcaf2100fd760ee5acb406140",
+    "ut": 1628939331,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 15",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Latest Breaking News",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pictures",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Videos",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Special Reports",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Economic Times",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 15",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Blogs",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Comments",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Archive News",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Economictimes.com",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
