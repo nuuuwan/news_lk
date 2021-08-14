@@ -329,6 +329,57 @@
   },
   {
     "date": "2021-08-14",
+    "title": "Some Christian preachers against COVID vaccine: SLNCC",
+    "source": "www.dailymirror.lk",
+    "snippet": "Some Christian preachers are misleading their followers requesting them not to get the COVID-19 vaccine, saying the Bible had forbidden taking such vaccines, Sri Lanka National Christian Conference (SLNCC) said yesterday.",
+    "url": "https://www.dailymirror.lk/latest_news/Some-Christian-preachers-against-COVID-vaccine-SLNCC/342-218252",
+    "url_hash": "abf0644abfec4c54553bc367b8f57e02",
+    "ut": 1628906892,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Christian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Bible",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLNCC",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "Seizure of AK-47s, ammo from SL boat: LTTE, Pakistan links identified",
     "source": "www.dailymirror.lk",
     "snippet": "The National Investigation Agency (NIA) probing the seizure of five AK-47 rifles and `3,000-crore worth of heroin from a Sri Lanka boat off the Kerala coast on March 25 has found that a Pakistan national was the main handler of the smugglers.",
@@ -575,6 +626,41 @@
     "url_hash": "3a60b441d188f838a6a0efc97b237fa6",
     "ut": 1628910457,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Gazette Notification levying taxes on several items",
+    "source": "www.dailymirror.lk",
+    "snippet": "An Extraordinary Gazette Notification has been issued imposing a Special Commodity Levy on several items, including Sprats, Dried fish, Kurakkan flour, mustard seeds and salt. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Gazette-Notification-levying-taxes-on-several-items/342-218251",
+    "url_hash": "8680e69b9fd8c7619d78a2b65441f6db",
+    "ut": 1628910492,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Special Commodity Levy",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sprats",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kurakkan",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-14",
@@ -845,6 +931,65 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Ties soured by the China factor, Sri Lanka's new policy document reaches out to India",
+    "source": "www.southasiamonitor.org",
+    "snippet": "The document seeks to achieve Sri Lanka's foreign policy objective vis-\u00e0-vis India while coming closest to admitting that China has cast a long shadow over Colombo-New Delhi ties, writes M.R. Narayan",
+    "url": "https://www.southasiamonitor.org/index.php/spotlight/ties-soured-china-factor-sri-lankas-new-policy-document-reaches-out-india",
+    "url_hash": "f4592e48fffcc2650991d4ed83894df1",
+    "ut": 1628918745,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "M.R.",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Narayan",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
