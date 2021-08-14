@@ -1775,6 +1775,92 @@
   },
   {
     "date": "2021-08-14",
+    "title": "Homecare program for children infected with Covid-19 begins",
+    "source": "www.adaderana.lk",
+    "snippet": "Providing home-based care for COVID-infected children aged above 02 years has commenced, says Dr. Channa De Silva, Consultant Paediatric Chest Physician at Lady Ridgeway Hospital, Colombo. Accordingly,",
+    "url": "http://www.adaderana.lk/news/76074/homecare-program-for-children-infected-with-covid-19-begins",
+    "url_hash": "9a11294108662205ce45c2700a23eb69",
+    "ut": 1628932183,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "above 02 years",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Channa De Silva",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lady Ridgeway Hospital",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Sri Lanka to purchase 100 MT of Oxygen per week from India",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Ministry of Health has decided to import 100 tons of oxygen per week from India. Minister of Health Pavithra Wanniarachchi stated - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/14/sri-lanka-to-purchase-100-mt-of-oxygen-per-week-from-india/",
+    "url_hash": "7349f2e7efdf7dd30b5e1505d11d40ff",
+    "ut": 1628932207,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 tons",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Pavithra Wanniarachchi",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "Saudi Arabia assures Sri Lanka over bilateral partnership",
     "source": "menafn.com",
     "snippet": "Saudi Arabia has assured it will continue to attach importance to its bilateral partnership with Sri Lanka.   In his virt",
@@ -2150,6 +2236,95 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Sri Lanka will avert nearly 18,000 COVID deaths with increased stringency levels: Experts group",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka is showing a rapid increase in number of cases and deaths reported daily and the recent trends indicate the country could soon face a health crisis of unprecedented proportions, a group of i",
+    "url": "http://www.adaderana.lk/news/76124/sri-lanka-will-avert-nearly-18000-covid-deaths-with-increased-stringency-levels-experts-group",
+    "url_hash": "c1dc2d685fb54dd4af03f57229ffe0c5",
+    "ut": 1628943103,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Corona deaths",
+    "source": "dailynews.lk",
+    "snippet": "COVID-19 within 24-hours, stated the Department of Government Information.",
+    "url": "https://dailynews.lk/tags/corona-deaths",
+    "url_hash": "af266d5212e091e0aab35579ef10ac71",
+    "ut": 1628943279,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "24-hours",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Government Information",
+        "start_end": [
+          7,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Covid news Sri lanka",
+    "source": "dailynews.lk",
+    "snippet": "155 deaths reported due to COVID-19 within 24-hours, stated the Department of Government Information",
+    "url": "https://dailynews.lk/tags/covid-news-sri-lanka",
+    "url_hash": "e0f5508192670316236b3671a1681965",
+    "ut": 1628943279,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "155",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "24-hours",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Government Information",
+        "start_end": [
+          12,
+          17
         ]
       }
     ]
