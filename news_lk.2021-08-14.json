@@ -993,5 +993,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Govt prepares to purchase oxygen stocks from India",
+    "source": "www.hirunews.lk",
+    "snippet": "The government has decided to purchase 100 metric tons of oxygen gas from India for COVID patients who are being treated in hospital intensive care units. The oxygen stocks which are set to be purchased next week will be delivered to COVID treatment centres immediately.",
+    "url": "https://www.hirunews.lk/english/279671/govt-prepares-to-purchase-oxygen-stocks-from-india",
+    "url_hash": "a07184777116e2acdbc9f763ea75f8f9",
+    "ut": 1628921275,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "100 metric tons",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Sri Lanka- DPGV enters Russian market",
+    "source": "menafn.com",
+    "snippet": "D P Global Ventures (DPGV), the agricultural wing of the David Pieris Group of Companies, recently concluded its first export consignment to the Ru",
+    "url": "https://menafn.com/1102620219/Sri-Lanka-DPGV-enters-Russian-market",
+    "url_hash": "4734819b9f56c34e5d105bea5e9f9d78",
+    "ut": 1628923038,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the David Pieris Group of Companies",
+        "start_end": [
+          12,
+          18
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Ru",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
   }
 ]
