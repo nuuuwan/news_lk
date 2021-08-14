@@ -5081,6 +5081,81 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Sri Lanka Catholic Church: Big fish in attacks at large",
+    "source": "theindependent.com",
+    "snippet": "Sri Lanka's Catholic Church said Friday that 25 people charged this week in connection with the 2019 Easter Sunday bomb attacks that killed 269 people",
+    "url": "https://theindependent.com/news/world/sri-lanka-catholic-church-big-fish-in-attacks-at-large/article_0b785bdb-8f7f-5dba-81f3-a855890d46f9.html",
+    "url_hash": "c1f87738a4eef6b1ab9b0846fba13258",
+    "ut": 1628867292,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Catholic Church",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "269",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Sri Lanka Catholic Church faults government's bombing probe",
     "source": "apnews.com",
     "snippet": "Sri Lanka's Catholic Church said Friday that 25 people charged this week in connection with the 2019 Easter Sunday bomb attacks that killed 269 people could be \"smaller fish,\" and accused the government of still not taking steps to identify the true conspirators.",
@@ -6721,6 +6796,33 @@
         "start_end": [
           28,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Tourism industry shares proposals with govt. on Act amendment",
+    "source": "www.dailymirror.lk",
+    "snippet": "The tourism industry stakeholders shared with the government this week proposals to take into account when amending the Tourism Act, so that the sector does not take another hit. ..",
+    "url": "https://www.dailymirror.lk/business-news/Tourism-industry-shares-proposals-with-govt-on-Act-amendment/273-218228",
+    "url_hash": "4c213b095f7f23bef3ca1bfd6da8e40b",
+    "ut": 1628885284,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Tourism Act",
+        "start_end": [
+          17,
+          20
         ]
       }
     ]
