@@ -1085,6 +1085,57 @@
   },
   {
     "date": "2021-08-14",
+    "title": "Royal-Thomian big match postponed again",
+    "source": "www.dailymirror.lk",
+    "snippet": "Battle of the Blues Inter-School Big Match between Royal College and S. Thomas' College which is scheduled to be held from September 9 to 11 at the Mahinda Rajapaksa Stadium in Hambantota, had been postponed until further notice,",
+    "url": "https://www.dailymirror.lk/breaking_news/Royal-Thomian-big-match-postponed-again/108-218256",
+    "url_hash": "b97b22f74eaa2b61a39514ed96d047a0",
+    "ut": 1628921292,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Royal College",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "S. Thomas' College",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 9 to 11",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Mahinda Rajapaksa Stadium",
+        "start_end": [
+          29,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hambantota",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "Sri Lanka- DPGV enters Russian market",
     "source": "menafn.com",
     "snippet": "D P Global Ventures (DPGV), the agricultural wing of the David Pieris Group of Companies, recently concluded its first export consignment to the Ru",
@@ -1243,6 +1294,116 @@
         "start_end": [
           24,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Sri Lanka state techs oppose private testing labs at airport",
+    "source": "economynext.com",
+    "snippet": "A Sri Lanka state sector union has opposed plans to allow private labs to provide Rapid PCR tests to passengers departing to countries like the UAE, saying the government can do it and equipment should be bought fast and results can be given 'free of charge'.",
+    "url": "https://economynext.com/sri-lanka-state-techs-oppose-private-testing-labs-at-airport-84887/",
+    "url_hash": "a2faeae111c79e1aef15a265778f9ad4",
+    "ut": 1628928521,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UAE",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Pakistan assures unconditional support to Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Pakistan today assured it will continue to extend unconditional support to Sri Lanka at all fora. The High Commission of Pakistan and the Pakistani community in Sri Lanka today celebrated the 75th Ind",
+    "url": "https://colombogazette.com/2021/08/14/pakistan-assures-unconditional-support-to-sri-lanka-2/",
+    "url_hash": "f24fd1dbc30ca38354cdec3ccbfc2c4e",
+    "ut": 1628929006,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The High Commission of",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Pakistani",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "75th",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
