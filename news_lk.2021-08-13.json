@@ -6787,6 +6787,65 @@
   },
   {
     "date": "2021-08-13",
+    "title": "The 'Iron Man' who believed in nonviolence",
+    "source": "www.dailymirror.lk",
+    "snippet": "Dr. E.M.V.Naganathan, former Member of Parliament for Nallur and Senator (member of the senate or upper house of parliament) was one of the founding members of the Ilankai Thamizh Arasu Katchi (ITAK) or the Federal Party along with Mr.",
+    "url": "https://www.dailymirror.lk/news-features/The-Iron-Man-who-believed-in-nonviolence/131-218236",
+    "url_hash": "11692c8cc5a33d7c3633a43fe1e26d75",
+    "ut": 1628886407,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Nallur",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "senate",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Thamizh Arasu Katchi",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "ITAK",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Federal Party",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "COVID Death",
     "source": "dailynews.lk",
     "snippet": "124 deaths reported due to COVID-19 within 24-hours, stated the Department of Government Information",
@@ -6985,6 +7044,41 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Vaccine to the door...",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Medical teams of the Sri Lanka Army Medical Corps were engaged in mobile vaccination in the Western Province where immobile and bedridden elderly people are administered with a COVID-19 vaccine. Pix by Waruna Wanniarachchi .",
+    "url": "https://www.dailymirror.lk/caption_story/Vaccine-to-the-door/110-218239",
+    "url_hash": "facc0994e51f41532a67703212bfc54b",
+    "ut": 1628897189,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army Medical Corps",
+        "start_end": [
+          4,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Waruna Wanniarachchi",
+        "start_end": [
+          34,
+          36
         ]
       }
     ]
