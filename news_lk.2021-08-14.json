@@ -1,6 +1,81 @@
 [
   {
     "date": "2021-08-14",
+    "title": "Prasad Jayasanka the table tennis star from Vidyartha",
+    "source": "www.msn.com",
+    "snippet": "Twenty three year old Prasad Jayasanka de Silva is an old boy of Vidyartha College,Kandy who is a talented Table Tennis player under the guidance of Buddhika Dikkumbura and Gayan Liyanage, two outstanding Table Tennis coaches of the School.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/prasad-jayasanka-the-table-tennis-star-from-vidyartha/ar-AANiIIw",
+    "url_hash": "27381ff4c12b0ba9308b3228c6136379",
+    "ut": 1628899669,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Twenty three year old",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasad Jayasanka de Silva",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Vidyartha College",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Buddhika Dikkumbura",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gayan Liyanage",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "School",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "'SUPREME TV' broadens Telecast Islandwide",
     "source": "www.msn.com",
     "snippet": "'Supreme TV'- Sri Lanka's latest Sinhala TV Channel has expanded islandwide joining the fight against Covid-19's adverse impact on the nation's education sector.The Channel has joined an existing TV infrastructure and has hurriedly expanded island wide especially to cater to over 660,",
@@ -2242,6 +2317,49 @@
   },
   {
     "date": "2021-08-14",
+    "title": "The Latest: Iran to impose 6-day general lockdown in cities",
+    "source": "www.stltoday.com",
+    "snippet": "TEHRAN, Iran \u2014 Iranian state media says authorities will impose a six-day \"general lockdown\" in cities across the country.",
+    "url": "https://www.stltoday.com/news/national/the-latest-iran-to-impose-6-day-general-lockdown-in-cities/article_0268ab4f-f3e9-587c-82b2-cf0126bc395c.html",
+    "url_hash": "de09b2b69a47a147cc322118af98d845",
+    "ut": 1628942877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "TEHRAN",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iran",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Iranian",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-day",
+        "start_end": [
+          12,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "Sri Lanka will avert nearly 18,000 COVID deaths with increased stringency levels: Experts group",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka is showing a rapid increase in number of cases and deaths reported daily and the recent trends indicate the country could soon face a health crisis of unprecedented proportions, a group of i",
@@ -2325,6 +2443,108 @@
         "start_end": [
           12,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Military had connection with Easter Sunday bombers: SL Catholic Church",
+    "source": "www.canindia.com",
+    "snippet": "Sri Lanka's Catholic Church has alleged that a section of the military intelligence had connections with 2019 Easter Sunday suicide bombers who were",
+    "url": "https://www.canindia.com/military-had-connection-with-easter-sunday-bombers-sl-catholic-church/",
+    "url_hash": "a8fb2cfbe1227fb8382d5b9416616ed5",
+    "ut": 1628948415,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Catholic Church",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2019",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Rasula Gamage - Northern Province Special Corr.",
+    "source": "dailynews.lk",
+    "snippet": "A special operation conducted in Illuppukadawai, Mannar on Tuesday led to the seizure of about 131 kg and 725g of Kerala cannabis and a truck used for the transport of the drugs. Two suspects",
+    "url": "https://dailynews.lk/line/rasula-gamage-northern-province-special-corr",
+    "url_hash": "53a8acb36624d2e509c68ed0e67ab4db",
+    "ut": 1628949464,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Illuppukadawai",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 131 kg",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "725",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
