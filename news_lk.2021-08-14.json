@@ -471,6 +471,33 @@
   },
   {
     "date": "2021-08-14",
+    "title": "B. M. Wijesuriya - Anuradhapura Central Special Corr:",
+    "source": "dailynews.lk",
+    "snippet": "The Computer Technology Unit of the Anuradhapura DIG's Office assisting the Women and Children's Bureau have launched an investigation to take into custody an individual who wore a mask",
+    "url": "https://dailynews.lk/line/b-m-wijesuriya-anuradhapura-central-special-corr-2",
+    "url_hash": "59106d674501220a70e8c1ec0862cee9",
+    "ut": 1628906888,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Computer Technology Unit",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Women and Children's Bureau",
+        "start_end": [
+          11,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "Some Christian preachers against COVID vaccine: SLNCC",
     "source": "www.dailymirror.lk",
     "snippet": "Some Christian preachers are misleading their followers requesting them not to get the COVID-19 vaccine, saying the Bible had forbidden taking such vaccines, Sri Lanka National Christian Conference (SLNCC) said yesterday.",
@@ -2545,6 +2572,60 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Say it loud: Let Cuba Live!",
+    "source": "www.srilankaguardian.org",
+    "snippet": "Cuba - a country of eleven million people - is living through a difficult crisis due to the growing scarcity of food and medicine. Recent protests have drawn the world's attention to this. It's unconscionable,",
+    "url": "http://www.srilankaguardian.org/2021/08/say-it-loud-let-cuba-live.html",
+    "url_hash": "2d5b2b09989d7c6ad5f580ac112a1547",
+    "ut": 1628950753,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Cuba",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eleven million",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Dharmadasa Siriwardhana Galle District Correspondent and D. J. Wijesinghe Alpitiya Special",
+    "source": "dailynews.lk",
+    "snippet": "A 30-year-old disabled graduate who was called for an interview for the position of nutritionist at the Sports and Medical Institute, was unable to attend interview as the letter calling for the...",
+    "url": "https://dailynews.lk/line/dharmadasa-siriwardhana-galle-district-correspondent-and-d-j-wijesinghe-alpitiya-special",
+    "url_hash": "9258a32291f34bb29f084e92ae4d2eb2",
+    "ut": 1628953028,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "30-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sports and Medical Institute",
+        "start_end": [
+          20,
+          25
         ]
       }
     ]
