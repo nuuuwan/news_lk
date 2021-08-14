@@ -200,6 +200,41 @@
   },
   {
     "date": "2021-08-14",
+    "title": "Milk powder importers still insist on Rs. 260 price hike a kilo",
+    "source": "www.dailymirror.lk",
+    "snippet": "The milk powder importers still insist on a price hike of at least Rs. 260 for a packet of one kilo despite tax exemptions and by the slight drop of world market prices. Earlier, they sought a price hike of Rs.",
+    "url": "https://www.dailymirror.lk/breaking_news/Milk-powder-importers-still-insist-on-Rs-260-price-hike-a-kilo/108-218247",
+    "url_hash": "1044d1610f2f0a43c7d366bb4ed9e7b5",
+    "ut": 1628903304,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "260",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rs",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "\"AMAZING AUTHENTIC CHINEESE FOOD IN COLOMBO\"",
     "source": "www.tripadvisor.co.uk",
     "snippet": "AMAZING AUTHENTIC CHINEESE FOOD IN COLOMBO - See 182 traveller reviews, 59 candid photos, and great deals for Colombo, Sri Lanka, at Tripadvisor.",
@@ -237,6 +272,124 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Seizure of AK-47s, ammo from SL boat: LTTE, Pakistan links identified",
+    "source": "www.dailymirror.lk",
+    "snippet": "The National Investigation Agency (NIA) probing the seizure of five AK-47 rifles and `3,000-crore worth of heroin from a Sri Lanka boat off the Kerala coast on March 25 has found that a Pakistan national was the main handler of the smugglers.",
+    "url": "https://www.dailymirror.lk/breaking_news/Seizure-of-AK-47s-ammo-from-SL-boat-LTTE-Pakistan-links-identified/108-218250",
+    "url_hash": "838e8224b799e8242c90b725f520cd3a",
+    "ut": 1628906904,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The National Investigation Agency",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five AK-47",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,000",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 25",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Some Christian preachers against COVID vaccine: SLNCC",
+    "source": "www.dailymirror.lk",
+    "snippet": "Some Christian preachers are misleading their followers requesting them not to get the COVID-19 vaccine, saying the Bible had forbidden taking such vaccines, Sri Lanka National Christian Conference (SLNCC) said yesterday.",
+    "url": "https://www.dailymirror.lk/breaking_news/Some-Christian-preachers-against-COVID-vaccine-SLNCC/108-218248",
+    "url_hash": "1d449878899397b73688e00cd59d66d6",
+    "ut": 1628906904,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Christian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Bible",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLNCC",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
@@ -361,5 +514,211 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Sri Lanka forex reserves drop to 2,833bn after bond repayment, liquidity injections",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's gross official reserves dropped to 2,833.5 million US dollars in July 2021, from 4,060 million in June after a billion US dollar bond and some other accounts were repaid in July, official data show.",
+    "url": "https://economynext.com/sri-lanka-forex-reserves-drop-to-2833bn-after-bond-repayment-liquidity-injections-84883/",
+    "url_hash": "3d98451db03f6041b35544fd76c5e33c",
+    "ut": 1628910532,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "2,833.5 million US dollars",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 2021",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,060 million",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "billion US dollar",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Mediquipment installs Sri Lanka's most advanced AI-driven CT scanner at National Hospital",
+    "source": "island.lk",
+    "snippet": "First and highest spec machine in Sri Lanka with AI-based image-quality optimization \u2022 First spectral CT-capable 320 row/640 slice scanner in the country \u2022 Ideal for advanced heart and brain scanning \u2022 Enables unprecedented diagnostic and imaging capabilities,",
+    "url": "https://island.lk/mediquipment-installs-sri-lankas-most-advanced-ai-driven-ct-scanner-at-national-hospital/",
+    "url_hash": "1a1fa5ea311ae0f775e8fd15c31d8cac",
+    "ut": 1628910753,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "First",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AI",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "\u2022 First",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CT",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "320",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "\u2022 Enables",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Linkages and breakages: Marxist historiography in Sri Lanka",
+    "source": "island.lk",
+    "snippet": "His explorations into pre-modern urban settlements and architecture in Sri Lanka and his attempts at periodising local history, the latter an endeavour that occupied R. A. L. H. Gunawardana, are free of the kind of rigidity which so despairingly ...",
+    "url": "https://island.lk/linkages-and-breakages-marxist-historiography-in-sri-lanka/",
+    "url_hash": "ee55b778df4e157b9de92f657fc105f7",
+    "ut": 1628910813,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "R. A. L. H. Gunawardana",
+        "start_end": [
+          27,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "BOC notches LKR 22.1 billion PAT in steady performance",
+    "source": "island.lk",
+    "snippet": "Amidst unexpected challenges, the Bank of Ceylon's Profit Before Tax for the six months ended 30th June 2021 stood at LKR 27.1 billion, moving forward with stable performance, while managing headwinds caused by low interest rates,",
+    "url": "https://island.lk/boc-notches-lkr-22-1-billion-pat-in-steady-performance/",
+    "url_hash": "e167d833eed32b21ebd2e6e789a2a1bb",
+    "ut": 1628911247,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Bank of Ceylon's Profit Before Tax",
+        "start_end": [
+          4,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the six months ended 30th June 2021",
+        "start_end": [
+          13,
+          20
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "LKR 27.1 billion",
+        "start_end": [
+          22,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Army-manned COVID vaccination centres operative today",
+    "source": "dailynews.lk",
+    "snippet": "http://www.dailynews.lk/sites/default/files/news/2021/08/14/Vaccination%20List.pdf",
+    "url": "https://dailynews.lk/2021/08/14/local/256643/army-manned-covid-vaccination-centres-operative-today",
+    "url_hash": "e15d558f7eeb3490b3aeb8490c6ee4bb",
+    "ut": 1628911948,
+    "ent_info_list": []
   }
 ]
