@@ -278,6 +278,57 @@
   },
   {
     "date": "2021-08-14",
+    "title": "Some Christian preachers against COVID vaccine: SLNCC",
+    "source": "www.dailymirror.lk",
+    "snippet": "Some Christian preachers are misleading their followers requesting them not to get the COVID-19 vaccine, saying the Bible had forbidden taking such vaccines, Sri Lanka National Christian Conference (SLNCC) said yesterday.",
+    "url": "https://www.dailymirror.lk/breaking_news/Some-Christian-preachers-against-COVID-vaccine-SLNCC/108-218252",
+    "url_hash": "286513584b67a2ad65889e4acf663d2b",
+    "ut": 1628906853,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Christian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Bible",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLNCC",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "Seizure of AK-47s, ammo from SL boat: LTTE, Pakistan links identified",
     "source": "www.dailymirror.lk",
     "snippet": "The National Investigation Agency (NIA) probing the seizure of five AK-47 rifles and `3,000-crore worth of heroin from a Sri Lanka boat off the Kerala coast on March 25 has found that a Pakistan national was the main handler of the smugglers.",
@@ -517,6 +568,16 @@
   },
   {
     "date": "2021-08-14",
+    "title": "Army-manned COVID vaccination centres operative today",
+    "source": "www.dailynews.lk",
+    "snippet": "http://www.dailynews.lk/sites/default/files/news/2021/08/14/Vaccination%20List.pdf",
+    "url": "http://www.dailynews.lk/2021/08/14/local/256643/army-manned-covid-vaccination-centres-operative-today",
+    "url_hash": "3a60b441d188f838a6a0efc97b237fa6",
+    "ut": 1628910457,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-14",
     "title": "Sri Lanka forex reserves drop to 2,833bn after bond repayment, liquidity injections",
     "source": "economynext.com",
     "snippet": "Sri Lanka's gross official reserves dropped to 2,833.5 million US dollars in July 2021, from 4,060 million in June after a billion US dollar bond and some other accounts were repaid in July, official data show.",
@@ -720,5 +781,72 @@
     "url_hash": "e15d558f7eeb3490b3aeb8490c6ee4bb",
     "ut": 1628911948,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-14",
+    "title": "July was Earth's hottest month on record",
+    "source": "www.dailymirror.lk",
+    "snippet": "July 2021 has earned the unenviable distinction as the world's hottest month ever recorded, according to new global data released today by National Oceanic and Atmospheric Administration's (NOAA) National Centers for Environmental Information (NCEI).",
+    "url": "https://www.dailymirror.lk/breaking_news/July-was-Earths-hottest-month-on-record/108-218253",
+    "url_hash": "c8c3f6b400517e795e02cf8b25881159",
+    "ut": 1628914113,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "July 2021",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "month",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Oceanic and Atmospheric Administration's",
+        "start_end": [
+          24,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NOAA",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Centers for Environmental Information",
+        "start_end": [
+          33,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NCEI",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
   }
 ]
