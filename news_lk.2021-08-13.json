@@ -4488,6 +4488,49 @@
   },
   {
     "date": "2021-08-13",
+    "title": "Ocean and climate work in developing countries receives \u00a316.2m in UK aid",
+    "source": "www.chronicle.gi",
+    "snippet": "By Emily Beament, PA Environment Correspondent More than \u00a316 million in UK aid is to fund efforts to tackle climate change and poverty and protect the oceans in developing countries, the Government has said.",
+    "url": "https://www.chronicle.gi/ocean-and-climate-work-in-developing-countries-receives-16-2m-in-uk-aid/",
+    "url_hash": "445dd6a81908296308ed4e00f7d08d7c",
+    "ut": 1628856505,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Emily Beament",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "More than \u00a316 million",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
     "title": "Sri Lanka Human Capital Development : Realizing the Promise and Potential of Human Capital",
     "source": "openknowledge.worldbank.org",
     "snippet": "Human capital is a central determinant of economic well-being and social advancement in the modern world economy. The concept of human capital covers the knowledge, skills, nutrition, and health that people accumulate over their lives,",
@@ -5442,6 +5485,57 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Sri Lankan health minister warns of risky days ahead",
+    "source": "www.southasiamonitor.org",
+    "snippet": "Amid rising Covid-19 cases, Sri Lankan Health Minister Sudarshani Fernandopulle has said that next month will be very risky as the island nation on Wednesday recorded almost 6000 cases, the highest si",
+    "url": "https://www.southasiamonitor.org/index.php/sri-lanka/sri-lankan-health-minister-warns-risky-days-ahead",
+    "url_hash": "840d7c7b9de96aa0f99fa2a2175ac7dd",
+    "ut": 1628870905,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sudarshani Fernandopulle",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "almost 6000",
+        "start_end": [
+          27,
+          29
         ]
       }
     ]
@@ -6906,6 +7000,60 @@
     "url_hash": "617db0189386d0d35c6f6fad0d73e2da",
     "ut": 1628885292,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Who's fooling whom?",
+    "source": "www.dailymirror.lk",
+    "snippet": "The public continues to question the accuracy of statistics revealed by the Health Ministry with regards to the number of COVID positive cases reported from around the country ..",
+    "url": "https://www.dailymirror.lk/news-features/Whos-fooling-whom/131-218238",
+    "url_hash": "7bd038871117d3267bbdb4126efdfd35",
+    "ut": 1628885294,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-13",
+    "title": "Softlogic Life coasts to 9.2bn GWP in first half with 43% growth",
+    "source": "www.dailymirror.lk",
+    "snippet": "Softlogic Life recorded a superior first half performance in a pandemic-affected business landscape, posting a gross written premium (GWP) of Rs.9,183 million during the six months ending on June 30,",
+    "url": "https://www.dailymirror.lk/business-news/Softlogic-Life-coasts-to-9-2bn-GWP-in-first-half-with-43-growth/273-218231",
+    "url_hash": "2a74dc32daeb9ab8327dee2df9944097",
+    "ut": 1628885294,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "a superior first half",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Rs.9,183 million",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the six months ending on June 30",
+        "start_end": [
+          28,
+          35
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-13",
