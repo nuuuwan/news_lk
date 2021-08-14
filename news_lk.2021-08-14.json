@@ -1029,6 +1029,65 @@
   },
   {
     "date": "2021-08-14",
+    "title": "Showers or thundershowers in some areas after 2pm",
+    "source": "www.adaderana.lk",
+    "snippet": "Several spells of showers will occur in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts, says the Department of Meteorology",
+    "url": "http://www.adaderana.lk/news.php?nid=76143",
+    "url_hash": "b8818baa3951faf5f16da2f1bf0d5050",
+    "ut": 1628910514,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Western",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          25,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "Sri Lanka forex reserves drop to 2,833bn after bond repayment, liquidity injections",
     "source": "economynext.com",
     "snippet": "Sri Lanka's gross official reserves dropped to 2,833.5 million US dollars in July 2021, from 4,060 million in June after a billion US dollar bond and some other accounts were repaid in July, official data show.",
@@ -2016,6 +2075,57 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "One dead, two missing as torrential rains slam Japan",
+    "source": "www.hirunews.lk",
+    "snippet": "One woman was dead and two people were missing on Saturday after torrential rains touched off a landslide and engulfed at least two houses in western Japan, with rivers overflowing their banks as rain continued to pound the area.",
+    "url": "https://www.hirunews.lk/goldfmnews/279684/one-dead-two-missing-as-torrential-rains-slam-japan",
+    "url_hash": "c5d6c4ecbd97d49eb8e63e1093c3a0d7",
+    "ut": 1628932114,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least two",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
