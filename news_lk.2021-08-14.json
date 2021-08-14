@@ -3271,6 +3271,57 @@
   },
   {
     "date": "2021-08-14",
+    "title": "3,263 fresh COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 3,263 more COVID-19 patients were detected today increasing the number of patients reported in Sri Lanka to 351,533, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/3-263-fresh-COVID-19-cases-detected-today/342-218269",
+    "url_hash": "347f2045834a7159e060d13c27b8da2e",
+    "ut": 1628957275,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "3,263",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "351,533",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
     "title": "The Latest: Michigan surpasses 20,000 deaths from COVID-19",
     "source": "www.stltoday.com",
     "snippet": "Michigan has surpassed 20,000 deaths from COVID-19, with a top state health official encouraging people to take precautions.",
@@ -3472,6 +3523,92 @@
         "start_end": [
           39,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "The Latest: Health pass protesters march again in France",
+    "source": "omaha.com",
+    "snippet": "PARIS \u2014 Thousands of people, from families to far-right sympathizers, marched in cities across France for a fifth straight Saturday to denounce a COVID-19 health pass needed to enter restaurants",
+    "url": "https://omaha.com/news/national/the-latest-health-pass-protesters-march-again-in-france/article_a5203692-319f-5dfe-ae6a-34a1a2e280d6.html",
+    "url_hash": "b227976a46380a369314624315c7d2a2",
+    "ut": 1628968094,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "PARIS",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Thousands",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-14",
+    "title": "Scarlet Nexus Episode 8: What to Expect?",
+    "source": "thecinemaholic.com",
+    "snippet": "Based on an action role-playing game created by Bandai Namco Studios and Tose and released through Bandai Namco Entertainment, 'Scarlet Nexus' is a sci-fi military action TV anime. The story revolves around a war between humans and entities known as the Others.",
+    "url": "https://thecinemaholic.com/scarlet-nexus-episode-8-what-to-expect/",
+    "url_hash": "e29d61e7f0df33cedc256882f5540a5f",
+    "ut": 1628971685,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Bandai Namco Studios",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bandai Namco Entertainment",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Scarlet Nexus'",
+        "start_end": [
+          23,
+          26
         ]
       }
     ]
