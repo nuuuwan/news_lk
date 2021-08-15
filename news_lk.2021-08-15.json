@@ -8134,6 +8134,67 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Role of Data Science in Managing COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "In managing the COVID-19 pandemic, it is important to generate and focus on appropriate data more relevant to the existing.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Role-of-Data-Science-in-Managing-COVID-19/231-218323",
+    "url_hash": "6b535d9bc31580f6935343c2660d4d0f",
+    "ut": 1629058086,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Children hospitalized with COVID-19 in US hits record number",
+    "source": "www.dailymirror.lk",
+    "snippet": "The number of children hospitalized with COVID-19 in the United States hit a record high of just over 1,900 on Saturday, as hospitals across the South were stretched to capacity fighting outbreaks caused by the highly transmissible Delta variant.",
+    "url": "https://www.dailymirror.lk/international/Children-hospitalized-with-COVID-19-in-US-hits-record-number/107-218318",
+    "url_hash": "d12b9458ed5c8ef57f39eddf2de62b37",
+    "ut": 1629058086,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "just over 1,900",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "The Latest: US booster shot decision expected within 2 weeks",
     "source": "www.mysanantonio.com",
     "snippet": "The director of the National Institutes of Health says the U.S. could decide in the next couple weeks whether to offer coronavirus booster shots to Americans this fall. Dr. Francis Collins tells \"Fox News Sunday\" that federal health officials are looking at the U.",
