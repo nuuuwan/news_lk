@@ -1906,6 +1906,92 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Two arrested over assault of two PHIs",
+    "source": "www.dailymirror.lk",
+    "snippet": "Two persons were arrested for assaulting two public health inspectors attached to the Dickwella Medical Officer of Health at Kondeniya in Dickwella. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-arrested-over-assault-of-two-PHIs/108-218273",
+    "url_hash": "973dc2b158e9981124f00395b70ce8b5",
+    "ut": 1629004066,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kondeniya",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dickwella",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Philippines extends ban on travellers from Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "The Philippines has extended a ban on travellers from Sri Lanka until the end of August.   President Rodrigo Duterte, upo",
+    "url": "https://menafn.com/1102621140/Philippines-extends-ban-on-travellers-from-Sri-Lanka",
+    "url_hash": "3440db102b0c44836278b7f5cf72dbc4",
+    "ut": 1629004097,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Philippines",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of August",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rodrigo Duterte",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Afghan conflict: Taliban take Mazar-i-Sharif, government's last northern stronghold",
     "source": "www.hirunews.lk",
     "snippet": "Sharif, the last major city in northern Afghanistan which was still under government control. The fall of the traditional anti-Taliban bastion marked a major gain for the militants, who have been advancing at speed as US-led forces withdraw.",
@@ -2021,6 +2107,183 @@
         "start_end": [
           47,
           48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Massive earthquake kills 304 in Haiti",
+    "source": "dailynews.lk",
+    "snippet": "A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people and injuring more than 1,800. The 7.2-magnitude quake hit the west of the country on Saturday morning, toppling and damaging buildings including churches and hotels.",
+    "url": "https://dailynews.lk/2021/08/15/world/256652/massive-earthquake-kills-304-haiti",
+    "url_hash": "9cee72fe48232d1997c80e4d96c28cba",
+    "ut": 1629007671,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Haiti",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 304",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 1,800",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "7.2-magnitude",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "morning",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "75th Independence day of India",
+    "source": "www.ft.lk",
+    "snippet": "As India celebrates her glorious 75th year of Independence, I extend my heartiest greetings to all fellow Indians in Sri Lanka and all the friendly people of Sri Lanka ..",
+    "url": "https://www.ft.lk/advertorial/75th-Independence-day-of-India/10529-721708",
+    "url_hash": "2d0b7f6ad6d6da002fa21fce932e2158",
+    "ut": 1629007688,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Proposal from BASL to Chief Justice regarding COVID spread",
+    "source": "www.hirunews.lk",
+    "snippet": "In light of the COVID pandemic spreading in the country, the Bar Association of Sri Lanka (BASL) has submitted an eight-point proposal to the Chief Justice as to how the judiciary should function. The letter forwarded points out that the operation of the Sri Lanka Judiciary is at risk in a background where over 100 COVID deaths are reported daily.",
+    "url": "https://www.hirunews.lk/english/279747/proposal-from-basl-to-chief-justice-regarding-covid-spread",
+    "url_hash": "3108ee7b0a3d893c7da52522135d1ff9",
+    "ut": 1629010375,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "COVID",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bar Association of Sri Lanka",
+        "start_end": [
+          11,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BASL",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Sri Lanka Judiciary",
+        "start_end": [
+          48,
+          52
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 100",
+        "start_end": [
+          59,
+          61
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          65,
+          66
         ]
       }
     ]
