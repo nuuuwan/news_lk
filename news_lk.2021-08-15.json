@@ -52,6 +52,57 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Curfew between 10pm and 4 a.m. from tomorrow",
+    "source": "www.msn.com",
+    "snippet": "Island-wide curfew will be imposed from 10 pm to 4 am daily from tomorrow (August 16) until further notice, said the Head of the National Operation Centre for Prevention of COVID-19 Outbreak Army Commander General Shavendra Silva.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/curfew-between-10pm-and-4-am-from-tomorrow/ar-AANlCsz",
+    "url_hash": "55f4c64d1881c8661f9931d978a5bef7",
+    "ut": 1628986164,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "10 pm to 4",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 16",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Operation Centre for Prevention of COVID-19 Outbreak Army",
+        "start_end": [
+          28,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Celebrating independence: At 75, India taking on a global role",
     "source": "www.newindianexpress.com",
     "snippet": "As we celebrate the 75th Independence Day, 'Azadi Ka Amrut Mahotsav', soaked in patriotic fervour, I extend my warm greetings and best wishes to all my fellow Indians.",
@@ -2537,6 +2588,25 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Opposition happy with escalation of COVID cases, deaths: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "Responding to the statements made by the opposition is a waste of time because they are very happy with the vast increase in COVID positive cases and the death toll in the country, Transport State Minister Dilum Amunugama said.",
+    "url": "https://www.dailymirror.lk/latest_news/Opposition-happy-with-escalation-of-COVID-cases-deaths-Dilum/342-218274",
+    "url_hash": "bc0b493fccfd1cca75904659b1e1c1b1",
+    "ut": 1629007755,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Proposal from BASL to Chief Justice regarding COVID spread",
     "source": "www.hirunews.lk",
     "snippet": "In light of the COVID pandemic spreading in the country, the Bar Association of Sri Lanka (BASL) has submitted an eight-point proposal to the Chief Justice as to how the judiciary should function. The letter forwarded points out that the operation of the Sri Lanka Judiciary is at risk in a background where over 100 COVID deaths are reported daily.",
@@ -3966,6 +4036,41 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Weddings banned; no gatherings until further notice",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government has decided to suspend all functions where people gather in large numbers including weddings from Tuesday midnight (17). ..",
+    "url": "https://www.dailymirror.lk/latest_news/Weddings-banned-no-gatherings-until-further-notice/342-218278",
+    "url_hash": "4c7ff45d2bbd4efef68665c6145238ca",
+    "ut": 1629022155,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Punjab: Balloons, flags of Pakistan found in Rupnagar",
     "source": "www.malaysiasun.com",
     "snippet": "Balloons and flags of Pakistan were found in the fields of Sandoa village in the Rupnagar district of Punjab on Sunday morning, the police said.",
@@ -4202,6 +4307,25 @@
         "start_end": [
           16,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Office transport facilities for essential workers commute between provinces: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "Permission will be granted if buses are requested institutionally to transport employees only for essential services, Transport State Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Office-transport-facilities-for-essential-workers-commute-between-provinces-Dilum/342-218291",
+    "url_hash": "6cdee32ff43396097be78109f35bf4a5",
+    "ut": 1629025755,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
@@ -4972,6 +5096,49 @@
   {
     "date": "2021-08-15",
     "title": "The Latest: Sri Lanka bans public gatherings as virus surges",
+    "source": "www.sfgate.com",
+    "snippet": "COLOMBO, Sri Lanka \u2014 The Sri Lankan government on Sunday banned all public gatherings, its latest move to contain a rapid surge of COVID-19 cases. The ban will be effective from Sunday night and people are urged to avoid visiting public places as much as possible,",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Russia-sees-800-daily-virus-deaths-16388156.php",
+    "url_hash": "e5eda150a77bd49f4b39487cfce1ef29",
+    "ut": 1629036577,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Sunday night",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "The Latest: Sri Lanka bans public gatherings as virus surges",
     "source": "www.beaumontenterprise.com",
     "snippet": "COLOMBO, Sri Lanka \u2014 The Sri Lankan government on Sunday banned all public gatherings, its latest move to contain a rapid surge of COVID-19 cases. The ban will be effective from Sunday night and people are urged to avoid visiting public places as much as possible,",
     "url": "https://www.beaumontenterprise.com/news/article/The-Latest-Russia-sees-800-daily-virus-deaths-16388156.php",
@@ -5371,6 +5538,116 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Chinese pharma company to set up Covid-19 vaccine plant in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "China and Sri Lanka are set to deepen their bilateral \"vaccine diplomacy\" with a leading Chinese pharma company preparing to set up a manufacturing plant to make anti-Covid jabs in President Gotabaya Rajapaksa's home district,",
+    "url": "https://www.dailymirror.lk/breaking_news/Chinese-pharma-company-to-set-up-Covid-19-vaccine-plant-in-Sri-Lanka/108-218290",
+    "url_hash": "3925932d54cf92316fa4b2b4dbd98a1a",
+    "ut": 1629040155,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "anti-Covid",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Islandwide curfew from 10 pm to 4 am daily from Monday",
+    "source": "www.dailymirror.lk",
+    "snippet": "An islandwide curfew will be imposed daily from Monday 10 pm to 4 am, daily due to the present COVID-19 crisis. Army Commander General Shavendra Silva said this however will not apply on essential services.",
+    "url": "https://www.dailymirror.lk/top_story/Islandwide-curfew-from-10-pm-to-4-am-daily-from-Monday/155-218288",
+    "url_hash": "9bb4dfee90a5ec0a0881a2c638aacf1e",
+    "ut": 1629040164,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10 pm to 4 am",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Hungary bus crash kills eight, injures dozens",
     "source": "www.fourstateshomepage.com",
     "snippet": "A bus traveling on a highway in Hungary crashed through a guardrail and tipped over early Sunday, killing at least eight people and injuring dozens, police said. The crash",
@@ -5628,6 +5905,285 @@
         "start_end": [
           28,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Is SLC properly managed?",
+    "source": "www.dailymirror.lk",
+    "snippet": "However, apart from pointing the finger at the current domestic structure which as many say decide who is taking office, Sri Lanka Cricket (SLC) has come under very little criticism given how things stood perhaps ten years ago.",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Is-SLC-properly-managed/324-218292",
+    "url_hash": "5f6417eca082276db54488f84f3f0b23",
+    "ut": 1629043755,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten years ago",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "The Latest: US booster shot decision expected within 2 weeks",
+    "source": "www.chron.com",
+    "snippet": "The director of the National Institutes of Health says the U.S. could decide in the next couple weeks whether to offer coronavirus booster shots to Americans this fall. Dr. Francis Collins tells \"Fox News Sunday\" that federal health officials are looking at the U.",
+    "url": "https://www.chron.com/news/article/The-Latest-Russia-sees-800-daily-virus-deaths-16388156.php",
+    "url_hash": "6e65854d1d838147ca7a6b9e1cfce846",
+    "ut": 1629043772,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National Institutes of Health",
+        "start_end": [
+          3,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next couple weeks",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this fall",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Francis Collins",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fox News",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "An Afghan woman in Kabul's dashed hopes amid Taliban blitz",
+    "source": "www.fourstateshomepage.com",
+    "snippet": "Hunkering indoors and watching her country fall to the Taliban, one young woman in Afghanistan's capital of Kabul described on Sunday the anxiety, fears",
+    "url": "https://www.fourstateshomepage.com/news/an-afghan-woman-in-kabuls-dashed-hopes-amid-taliban-blitz/",
+    "url_hash": "ce3cbc8331b0b5dd9ccb9b5db1f9ce5e",
+    "ut": 1629043772,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "The Latest: US booster shot decision expected within 2 weeks",
+    "source": "accesswdun.com",
+    "snippet": "The director of the National Institutes of Health says the U.S. could decide in the next couple weeks whether to offer coronavirus booster shots to Americans this fall",
+    "url": "https://accesswdun.com/article/2021/8/1030853",
+    "url_hash": "39069b1170b03314ee593c57fbfb79cf",
+    "ut": 1629044857,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National Institutes of Health",
+        "start_end": [
+          3,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next couple weeks",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this fall",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "India intervenes at the highest level to release Sri Lanka- bound syringes stuck at Delhi-UP border",
+    "source": "www.dailymirror.lk",
+    "snippet": "The consignment of 800,000 disposal syringes donated by India was stuck at Delhi- Uttar Pradesh during transportation in a truck to the Indira Gandhi International Airport, but the highest level intervention by the Indian External Affairs Ministry cleared it for dispatch by air to Sri Lanka on August 14,",
+    "url": "https://www.dailymirror.lk/breaking_news/India-intervenes-at-the-highest-level-to-release-Sri-Lanka-bound-syringes-stuck-at-Delhi-UP-border/108-218293",
+    "url_hash": "de1adc1b065e982d1c21432c53375a6a",
+    "ut": 1629045255,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "800,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Uttar Pradesh",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indira Gandhi International Airport",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian External Affairs Ministry",
+        "start_end": [
+          33,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          45,
+          47
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 14",
+        "start_end": [
+          48,
+          50
         ]
       }
     ]
