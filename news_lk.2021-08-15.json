@@ -1,6 +1,41 @@
 [
   {
     "date": "2021-08-15",
+    "title": "Celebrating independence: At 75, India taking on a global role",
+    "source": "www.newindianexpress.com",
+    "snippet": "As we celebrate the 75th Independence Day, 'Azadi Ka Amrut Mahotsav', soaked in patriotic fervour, I extend my warm greetings and best wishes to all my fellow Indians.",
+    "url": "https://www.newindianexpress.com/opinions/columns/2021/aug/15/celebrating-independence-at-75-india-taking-on-a-global-role-2344911.html",
+    "url_hash": "5b99442c2a7f9054b0d4f391aa7a6852",
+    "ut": 1628986427,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "75th",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Independence Day",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Sumanthriran's dinner discussion with US envoy doesn't go down well with rest of TNA",
     "source": "www.sundaytimes.lk",
     "snippet": "Sumanthiran was present at a dinner with Minister of Education G. L.Peiris on Wednesday at the residence of the US ambassador in Colombo. The dinner hosted by US ambassador Alaina B. Teplitz saw the discussion focused on the proposed political solution for the 'ethnic conflict' through a new Constitution.",
@@ -929,6 +964,132 @@
         "start_end": [
           961,
           962
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Gamer.LK announces Singer Esports Premier League 2021 with Rs.1 million prize pool",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Sri Lanka's premier Esports company Gamer.LK announced the Singer Esports Premier League - a franchise based PUBG Mobile League consisting of 12 teams and a Rs.1 million prize pool. With over 2,000 Esports athletes expected to compete for a spot in the 12 teams,",
+    "url": "https://www.sundaytimes.lk/210815/sports/gamer-lk-announces-singer-esports-premier-league-2021-with-rs-1-million-prize-pool-452173.html",
+    "url_hash": "683e738580b000627491e0048b4f17b3",
+    "ut": 1628991513,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Esports",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LK",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUBG Mobile League",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 2,000",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Esports",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "550 sugar containers released from Customs detention",
+    "source": "www.sundaytimes.lk",
+    "snippet": "A heavy container backlog had been created at the port due to the detention of 550 sugar containers on an order issued by Imports and Exports Controller General Damayanthi Karunarathne in accordance with the circular on banning imports issued on June 22,",
+    "url": "https://www.sundaytimes.lk/210815/business-times/550-sugar-containers-released-from-customs-detention-452099.html",
+    "url_hash": "20072282969c160143590e58f0b25686",
+    "ut": 1628991656,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "550",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Exports Controller",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Damayanthi Karunarathne",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June 22",
+        "start_end": [
+          40,
+          42
         ]
       }
     ]
