@@ -6846,6 +6846,67 @@
     "title": "Biodiversity and business: What can be learnt from the Sri Lankan tea industry",
     "source": "www.ft.lk",
     "snippet": "Biodiversity is considered the 'web of life' of all living beings in the universe. It is the link between all organisms on earth, binding each into an interdependent ecosystem in which all species play their role.",
+    "url": "https://www.ft.lk/columns/Biodiversity-and-business-What-can-be-learnt-from-the-Sri-Lankan-tea-industry/4-721718",
+    "url_hash": "ba7c11eedfe574c8be27d84eb69e61ef",
+    "ut": 1629050903,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Faizal Salieh elected Chairman of Sri Lanka Institute of Directors",
+    "source": "www.ft.lk",
+    "snippet": "Faizal Salieh was unanimously elected as the Chairman of the Sri Lanka Institute of Directors (SLID) for the year 2021/22 at its Annual Membership Meeting held on 11 August fully conducted on a virtual platform.",
+    "url": "https://www.ft.lk/business/Faizal-Salieh-elected-Chairman-of-Sri-Lanka-Institute-of-Directors/34-721744",
+    "url_hash": "fc8f1b2dce8abeca3bc7047b56971b33",
+    "ut": 1629050903,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Faizal Salieh",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Institute of Directors",
+        "start_end": [
+          9,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the year 2021/22",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Annual Membership Meeting",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "11 August",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Biodiversity and business: What can be learnt from the Sri Lankan tea industry",
+    "source": "www.ft.lk",
+    "snippet": "Biodiversity is considered the 'web of life' of all living beings in the universe. It is the link between all organisms on earth, binding each into an interdependent ecosystem in which all species play their role.",
     "url": "https://www.ft.lk/opinion/Biodiversity-and-business-What-can-be-learnt-from-the-Sri-Lankan-tea-industry/14-721718",
     "url_hash": "391873ec1069d19a7a2b920307f75a3a",
     "ut": 1629050907,
@@ -7144,6 +7205,57 @@
         "start_end": [
           162,
           164
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Faizal Salieh elected Sri Lanka Institute of Directors Chairman",
+    "source": "www.dailymirror.lk",
+    "snippet": "Faizal Salieh was unanimously elected as the Chairman of The Sri Lanka Institute of Directors (SLID) for the year 2021/22 at the fully virtual Annual Membership Meeting held on August 11th. ..",
+    "url": "https://www.dailymirror.lk/business-news/Faizal-Salieh-elected-Sri-Lanka-Institute-of-Directors-Chairman/273-218309",
+    "url_hash": "3a2bcd6dd11ba54df5a28d12ef353c7d",
+    "ut": 1629054482,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Faizal Salieh",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Institute of Directors",
+        "start_end": [
+          9,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the year 2021/22",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Annual Membership Meeting",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 11th",
+        "start_end": [
+          31,
+          33
         ]
       }
     ]
@@ -7696,6 +7808,118 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Onset of COVID-19 fourth Wave: An 'Existential Threat' demands 'Extaordinary Measures'",
+    "source": "www.dailymirror.lk",
+    "snippet": "The facets of the human needs are linked to the concept of \"security\". As a result, eliminating thethreat to human survival requires.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Onset-of-COVID-19-fourth-Wave-An-Existential-Threat-demands-Extaordinary-Measures/172-218322",
+    "url_hash": "0d7eeb0a7834f6fa312e2f3b4ed63707",
+    "ut": 1629058082,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Relief and Welfare during Depression",
+    "source": "www.dailymirror.lk",
+    "snippet": "If there were any doubts over the last year as to whether Sri Lanka was sliding into a crisis, the shortages of milk powder and cooking... ..",
+    "url": "https://www.dailymirror.lk/opinion/Relief-and-Welfare-during-Depression/172-218320",
+    "url_hash": "7ffef44e1f4507da1ec12840f35f3d2a",
+    "ut": 1629058082,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the last year",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Ceylon Tobacco revenues languish in 2Q amid volume decline",
+    "source": "www.dailymirror.lk",
+    "snippet": "Ceylon Tobacco Company PLC (CTC) saw its top line easing further in the three months to June (2Q21) from the preceding three months ended in March as cigarette volumes declined by 16 percent from the March quarter due to mobility and other restrictions that took hold from the third week from April,",
+    "url": "https://www.dailymirror.lk/business-news/Ceylon-Tobacco-revenues-languish-in-2Q-amid-volume-decline/273-218313",
+    "url_hash": "913a1531bc35ab355a39d39709ef3ed2",
+    "ut": 1629058082,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ceylon Tobacco Company PLC",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CTC",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the three months to June",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the preceding three months ended in March",
+        "start_end": [
+          23,
+          30
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "16 percent",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the March quarter",
+        "start_end": [
+          38,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the third week",
+        "start_end": [
+          51,
+          54
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          55,
+          56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "New avenues explored by govt. to raise inflows for debt repayment: Cabraal",
     "source": "www.dailymirror.lk",
     "snippet": "Determined to have no default in debt repayment, the government shared it will turn to the underused assets under its ownership to generate the required finances to iron out what seems to be a never ending debt crisis.",
@@ -7979,6 +8203,41 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "COVID-19: Elderlies in Nepal wait for months to get inoculated",
+    "source": "www.aninews.in",
+    "snippet": "ANI brings the latest news on Politics and Current Affairs in India & around the World, Sports, Health & Fitness, Entertainment, News.",
+    "url": "https://www.aninews.in/videos/world/covid-19-elderlies-nepal-wait-months-get-inoculated/",
+    "url_hash": "d541b4f3501f44f3aed255a7c1b5d39d",
+    "ut": 1629062291,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Politics and Current Affairs",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health & Fitness",
+        "start_end": [
+          19,
+          22
         ]
       }
     ]
