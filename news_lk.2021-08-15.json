@@ -4313,6 +4313,57 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Taliban enters Afghan capital as US diplomats evacuated by chopper",
+    "source": "www.dailymirror.lk",
+    "snippet": "Taliban insurgents entered the Afghanistan capital Kabul today, an interior ministry official said, as the United States evacuated diplomats from its embassy by helicopter. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Taliban-enters-Afghan-capital-as-US-diplomats-evacuated-by-chopper/108-218282",
+    "url_hash": "351c160860d8392509d9561d0ec0bb2c",
+    "ut": 1629025685,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Office transport facilities for essential workers commute between provinces: Dilum",
     "source": "www.dailymirror.lk",
     "snippet": "Permission will be granted if buses are requested institutionally to transport employees only for essential services, Transport State Minister Dilum Amunugama said. ..",
@@ -5334,6 +5385,49 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Covid spread not due to opening country for tourists: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "While refuting allegations that opening the country for tourists resulted in the spread of Covid pandemic, Tourism Minister Prasanna Ranatunge said today the country was opened for tourists to facilitate three million people who were engaged in the tourism trade.",
+    "url": "https://www.dailymirror.lk/latest_news/Covid-spread-not-due-to-opening-country-for-tourists-Minister/342-218289",
+    "url_hash": "113e84a9df2954e3f1b3f30e1531a739",
+    "ut": 1629040085,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunge",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three million",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Covid deaths exceed 6,000 mark",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka's total COVID-19 deaths exceeded 6,000 with the announcement of 161 more fatalities that occurred yesterday. ..",
@@ -5914,6 +6008,92 @@
     "title": "Is SLC properly managed?",
     "source": "www.dailymirror.lk",
     "snippet": "However, apart from pointing the finger at the current domestic structure which as many say decide who is taking office, Sri Lanka Cricket (SLC) has come under very little criticism given how things stood perhaps ten years ago.",
+    "url": "https://www.dailymirror.lk/headline/Is-SLC-properly-managed/419-218292",
+    "url_hash": "a149776d7a7cdaad16cc3cd665955e94",
+    "ut": 1629043685,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten years ago",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "The Latest: US booster shot decision expected within 2 weeks",
+    "source": "www.sunherald.com",
+    "snippet": "The director of the National Institutes of Health says the U.S. could decide in the next couple weeks whether to offer coronavirus booster shots to Americans this fall.",
+    "url": "https://www.sunherald.com/news/business/article253505924.html",
+    "url_hash": "8027c587404a86e1ba89ac983a594534",
+    "ut": 1629043709,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National Institutes of Health",
+        "start_end": [
+          3,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next couple weeks",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this fall",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Is SLC properly managed?",
+    "source": "www.dailymirror.lk",
+    "snippet": "However, apart from pointing the finger at the current domestic structure which as many say decide who is taking office, Sri Lanka Cricket (SLC) has come under very little criticism given how things stood perhaps ten years ago.",
     "url": "https://www.dailymirror.lk/top-story-sports-1/Is-SLC-properly-managed/324-218292",
     "url_hash": "5f6417eca082276db54488f84f3f0b23",
     "ut": 1629043755,
@@ -6184,6 +6364,100 @@
         "start_end": [
           48,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Sri Lanka imposes overnight curfew amidst surge in Covid deaths",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka announced an island-wide overnight curfew from Monday following the record of daily increase in Covid death toll.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-imposes-overnight-curfew-amidst-surge-in-covid-deaths/ar-AANlykR",
+    "url_hash": "0760cf4e8e93fcff053c9e0a05d6e209",
+    "ut": 1629048218,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Sri Lanka imposes overnight curfew amidst surge in Covid deaths",
+    "source": "www.canindia.com",
+    "snippet": "Sri Lanka announced an island-wide overnight curfew from Monday following the record of daily increase in Covid death toll. Army Commander and the head of",
+    "url": "https://www.canindia.com/sri-lanka-imposes-overnight-curfew-amidst-surge-in-covid-deaths-2/",
+    "url_hash": "145178943c70df9ada2467093bc88e03",
+    "ut": 1629050234,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]
