@@ -1,6 +1,57 @@
 [
   {
     "date": "2021-08-15",
+    "title": "Ehsan Mani may get extension as PCB chairman despite poor performance",
+    "source": "www.msn.com",
+    "snippet": "Chairman Ehsan Mani is losing a lot of sleep these days, and nights, over the matter of his extension in office for another three years. He is widely considered Prime Minister Imran Khan's blue-eyed boy at the PCB,",
+    "url": "https://www.msn.com/en-xl/asia/pakistan/ehsan-mani-may-get-extension-as-pcb-chairman-despite-poor-performance/ar-AANkpTw",
+    "url_hash": "c78a82a91a63213ccb04f043c4f913b0",
+    "ut": 1628986131,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ehsan Mani",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "these days",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "nights",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another three years",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Imran Khan",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Celebrating independence: At 75, India taking on a global role",
     "source": "www.newindianexpress.com",
     "snippet": "As we celebrate the 75th Independence Day, 'Azadi Ka Amrut Mahotsav', soaked in patriotic fervour, I extend my warm greetings and best wishes to all my fellow Indians.",
@@ -1090,6 +1141,135 @@
         "start_end": [
           40,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "The Latest: Foo Fighters require vaccines, negative tests",
+    "source": "www.stltoday.com",
+    "snippet": "The Anchorage Daily News reports that the Foo Fighters rock band is requiring that people who attend their upcoming shows in Alaska be fully vaccinated against COVID-19",
+    "url": "https://www.stltoday.com/news/national/the-latest-foo-fighters-require-vaccines-negative-tests/article_0268ab4f-f3e9-587c-82b2-cf0126bc395c.html",
+    "url_hash": "5a1fca1e30fe97730f6f17fad1befcf4",
+    "ut": 1628993336,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Anchorage Daily News",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Foo Fighters",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Alaska",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Sri Lanka no longer just a transit route for drug trafficking",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka is no longer just a transit route or hub but a is also becoming a final destination for drug trafficking, official said. The Institute of National Security Studies, the premier think tank on",
+    "url": "https://colombogazette.com/2021/08/15/sri-lanka-no-longer-just-a-transit-route-for-drug-trafficking/",
+    "url_hash": "dbb80cac7e91ffe59d0fe631d8c9ec70",
+    "ut": 1628993766,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Institute of National Security Studies",
+        "start_end": [
+          26,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "The Latest: Poland sends 1 million vaccines to Australia",
+    "source": "www.stltoday.com",
+    "snippet": "SYDNEY \u2014 Poland has sent one million COVID-19 vaccines to Sydney where the delta variant continues to spread, Australian Prime Minister Scott Morrison said on Sunday.",
+    "url": "https://www.stltoday.com/news/national/the-latest-poland-sends-1-million-vaccines-to-australia/article_0268ab4f-f3e9-587c-82b2-cf0126bc395c.html",
+    "url_hash": "6566042e8d1badf92287d9aa33ea36e0",
+    "ut": 1628994056,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "SYDNEY",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Poland",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sydney",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Scott Morrison",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
