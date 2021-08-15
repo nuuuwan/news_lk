@@ -1547,6 +1547,25 @@
   },
   {
     "date": "2021-08-15",
+    "title": "A chance to end our Olympic medal drought",
+    "source": "island.lk",
+    "snippet": "Rex Clementine\u00a0 Population of a nation is no indication of their sporting talents or achievements. Look at Barbados. Their population is less than 300,000 but look at the cricketers they have produced.",
+    "url": "https://island.lk/a-chance-to-end-our-olympic-medal-drought/",
+    "url_hash": "e03d6def7d9cf7a53960d9b002273df2",
+    "ut": 1628996881,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "less than 300,000",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "'As long as people want the military to help, we will be there'",
     "source": "island.lk",
     "snippet": "National recognition was conferred on a group of internationally certified search and rescue operators at the Disaster Management Center in Colombo on August 12. Participants from the search and rescue programs conducted by A-PAD with instructors from the International Rescue Instructors Association received national recognition in Swift Water search and rescue.",
@@ -2284,6 +2303,84 @@
         "start_end": [
           65,
           66
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "If you're playing and scoring runs, you will be in the side: Jonny Bairstow",
+    "source": "www.crictracker.com",
+    "snippet": "Jonny Bairstow opened up about his batting position and also stated that his aim is to keep contributing to the team.",
+    "url": "https://www.crictracker.com/if-youre-playing-and-scoring-runs-you-will-be-in-the-side-jonny-bairstow/",
+    "url_hash": "f590e1243483965a97a8d461ba985551",
+    "ut": 1629011533,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jonny Bairstow",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Pros and cons of the Lankan Foreign Ministry going into a PPP",
+    "source": "menafn.com",
+    "snippet": "By Gitanjali Marcelline Colombo, August 14 (newsin.asia): It is with interest that I read in the Sunday Times of 8th August 2021, that the Ministry of Foreign Affairs is looking to the private sector to recruit mid-career diplomats through a Public-Private Partnership (PPP) arrangement.",
+    "url": "https://menafn.com/1102624093/Pros-and-cons-of-the-Lankan-Foreign-Ministry-going-into-a-PPP",
+    "url_hash": "6a775a53ea4cc107561c610af1b6726b",
+    "ut": 1629012901,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gitanjali Marcelline Colombo",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 14",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sunday Times of",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "8th August 2021",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Foreign Affairs",
+        "start_end": [
+          27,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "a Public-Private Partnership",
+        "start_end": [
+          45,
+          50
         ]
       }
     ]
