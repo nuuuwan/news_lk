@@ -282,5 +282,397 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Wellawaya Corr.",
+    "source": "www.dailynews.lk",
+    "snippet": "Three students who had come to bathe in the Katugalagalge tank on the Badalkumbura road in Buttala have drowned.Buttala Police said the deceased have been identified as students studying at the...",
+    "url": "http://www.dailynews.lk/line/wellawaya-corr",
+    "url_hash": "126d7bbe31a806663ae1dde5b717207e",
+    "ut": 1629072868,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Katugalagalge",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Badalkumbura",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Buttala",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Buttala Police",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Ishara Mudugamuwa and Anuradhapura Central Corr.",
+    "source": "www.dailynews.lk",
+    "snippet": "The Government is prepared to go for a lockdown if health and other experts recommend, Pharmaceutical Production, Supply and Regulation State Minister Prof.Channa Jayasumana said yesterday.Speaking...",
+    "url": "http://www.dailynews.lk/line/ishara-mudugamuwa-and-anuradhapura-central-corr",
+    "url_hash": "8d91270f57ac32368b7f2fa1e3d24fcf",
+    "ut": 1629072868,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Pharmaceutical Production",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasumana",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "COVID-19 protocols deprive Dimuth of playing county cricket",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka Test captain Dimuth Karunaratne's rare opportunity to play for Nottinghamshire in the English County Championships has been lost due to visa clearance issues and the health protocols that he has to follow to enter the United Kingdom due to the current COVID-19 pandemic.",
+    "url": "https://www.islandcricket.lk/news/covid-19-protocols-deprive-dimuth-of-playing-county-cricket/",
+    "url_hash": "d81f7dc8b775d754a6d74f31ddb4a1a6",
+    "ut": 1629072873,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dimuth Karunaratne's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the English County",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United Kingdom",
+        "start_end": [
+          37,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: Texas court blocks 2 counties' mask mandates",
+    "source": "www.sfgate.com",
+    "snippet": "The Texas Supreme Court has blocked mask mandates ordered by two of the nation's largest counties that defied Republican Gov. Greg Abbott as COVID-19 cases surge and hospitals are stretched thin. Sunday's order by the state's highest court \u2014 which is entirely comprised of elected Republican justices \u2014 halts mask requirements that county leaders in Dallas and San Antonio put in place as new infections soar and students begin returning to school.",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Russia-sees-800-daily-virus-deaths-16388156.php",
+    "url_hash": "e5eda150a77bd49f4b39487cfce1ef29",
+    "ut": 1629072883,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Texas Supreme Court",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Greg Abbott",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          49,
+          50
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dallas",
+        "start_end": [
+          59,
+          60
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "San Antonio",
+        "start_end": [
+          61,
+          63
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: Texas Court Blocks 2 Counties' Mask Mandates",
+    "source": "www.usnews.com",
+    "snippet": "The Texas Supreme Court has blocked mask mandates ordered by two of the nation's largest counties that defied Republican Gov. Greg Abbott as COVID-19 cases surge and hospitals are stretched thin.",
+    "url": "https://www.usnews.com/news/world/articles/2021-08-15/the-latest-russia-sees-800-daily-virus-deaths-for-4th-day",
+    "url_hash": "a42a3b3f89821f1ca3e9732632e0033f",
+    "ut": 1629072888,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Texas Supreme Court",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Greg Abbott",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka trying to evacuate nationals in Afghanistan",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka is trying to evacuate nationals in Afghanistan with the help of international partners the Foreign Ministry said as the country is taken over by the Taliban movement following the withdrawal of US forces.",
+    "url": "https://economynext.com/sri-lanka-trying-to-evacuate-nationals-in-afghanistan-84911/",
+    "url_hash": "510915339000a5b2eaf1d984ccb99ddd",
+    "ut": 1629076493,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Foreign Ministry",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Dragonboats come to Jaffna",
+    "source": "www.lankabusinessonline.com",
+    "snippet": "By Northwind Projects, a team promoting sporting and other activities in the Northern Province, successfully brought together the Sri Lankan Navy, the Northern Provincial Council's Ministry of Education,",
+    "url": "https://www.lankabusinessonline.com/dragonboats-come-to-jaffna/",
+    "url_hash": "0e35642c07500fdde3169458c1c0dd9b",
+    "ut": 1629077493,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Northwind Projects",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Northern Province",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Navy",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Northern Provincial Council's",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ministry of Education",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Wishma Sandamali",
+    "source": "dailynews.lk",
+    "snippet": "The family of a Sri Lankan woman who died in March following mistreatment at a Japanese immigration center said she was \"treated like a dog\" after the government disclosed Thursday security camera...",
+    "url": "https://dailynews.lk/tags/wishma-sandamali",
+    "url_hash": "662c9c80b84f5abf680f5fdb893be38d",
+    "ut": 1629079468,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Japanese",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
   }
 ]
