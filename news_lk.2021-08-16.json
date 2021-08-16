@@ -964,6 +964,159 @@
   },
   {
     "date": "2021-08-16",
+    "title": "Taliban denies links to LTTE",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Taliban insists it had no links with the LTTE before or after the defeat of the rebels. Speaking exclusively to Daily Mirror, Taliban spokesman and international negotiator Suhail Shaheen said that the Taliban is an independent liberation force.",
+    "url": "https://www.dailymirror.lk/breaking_news/Taliban-denies-links-to-LTTE/108-218329",
+    "url_hash": "826b27e593ae5d31edc7873ec0872038",
+    "ut": 1629079707,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Suhail Shaheen",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka's death toll fast increasing from COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's death toll from the rapidly spreading COVID-19 virus is fast rising with an average of 32 deaths reported per million by August 13, which is very high for a country with a 21 million population,",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lankas-death-toll-fast-increasing-from-COVID-19/108-218328",
+    "url_hash": "104121601302d3ebde363e97cb6763e6",
+    "ut": 1629079707,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "32",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "million",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 13",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21 million",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "All bodies cremated in Colombo are not from Colombo: City Chief MOH",
+    "source": "www.dailymirror.lk",
+    "snippet": "Majority of bodies of COVID victims cremated in cemeteries within the Colombo City are of those who reside outside the city, Chief Medical Officer Colombo (CMC) Dr. Ruwan Wijayamuni said yesterday. ..",
+    "url": "https://www.dailymirror.lk/latest_news/All-bodies-cremated-in-Colombo-are-not-from-Colombo-City-Chief-MOH/342-218330",
+    "url_hash": "4c9a4b45df771a3717a33f45f1800031",
+    "ut": 1629079707,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Colombo City",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CMC",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ruwan Wijayamuni",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "Sri Lanka's CAA drives Laugfs Gas to the wall, negative equity in June",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Laugfs Gas Plc, a the island's second cooking gas distributor has reported negative equity in the June 2021 quarter after the Consumer Affairs Authority, a state agency that creates shortages and black markets with price controls,",
@@ -1006,6 +1159,41 @@
       {
         "label": "ORG",
         "text": "the Consumer Affairs Authority",
+        "start_end": [
+          25,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "253 arrested for violating quarantine laws, strict monitoring to continue - Police",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka Police says that 253 persons have been arrested for violating quarantine regulations such as wearing face masks and maintaining social distancing, within the last 24 hours",
+    "url": "http://www.adaderana.lk/news.php?nid=76187",
+    "url_hash": "0014b811e8a25612fe81f3d59e8756a9",
+    "ut": 1629079717,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Police",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "253",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the last 24 hours",
         "start_end": [
           25,
           29
@@ -1342,6 +1530,175 @@
         "start_end": [
           1,
           3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka receives another batch of Pfizer vaccines",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has received another consignment of the Pfizer-BioNTech COVID-19 vaccine this morning (16). A consignment of 100,000 doses of the vaccine arrived via a special flight today at the Bandaranaike International Airport (BIA),",
+    "url": "http://www.adaderana.lk/news.php?nid=76186",
+    "url_hash": "4bc753f75749c8383d972cd4e44b8285",
+    "ut": 1629083322,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          34,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka hikes de facto policy rate by 05bp for second time",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has raised a ceiling yield on the 12-month Treasury bill yield which serves a de facto one year policy rate to generate excess liquidity and create forex shortages, by 05 basis points for the second time in as many weeks.",
+    "url": "https://economynext.com/sri-lanka-hikes-de-facto-policy-rate-by-05bp-for-second-time-84917/",
+    "url_hash": "e974a39ef228f32410baaee4f2b4039f",
+    "ut": 1629083336,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-month",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "05",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "as many weeks",
+        "start_end": [
+          42,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Inter-provincial travel ban",
+    "source": "dailynews.lk",
+    "snippet": "Inter-provincial public transport will be stopped with effect from midnight today, announced the Head of National Operation Centre for Prevention of COVID-19 Outbreak Army Commander General",
+    "url": "https://dailynews.lk/tags/inter-provincial-travel-ban",
+    "url_hash": "1a0d091358a684ae7ded63f015bbadca",
+    "ut": 1629085112,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Operation Centre for Prevention",
+        "start_end": [
+          18,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Outbreak Army",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
