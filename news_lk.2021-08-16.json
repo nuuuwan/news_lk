@@ -2207,6 +2207,81 @@
   },
   {
     "date": "2021-08-16",
+    "title": "The Latest: Texas court blocks 2 counties' mask mandates",
+    "source": "www.registercitizen.com",
+    "snippet": "The Texas Supreme Court has blocked mask mandates ordered by two of the nation's largest counties that defied Republican Gov. Greg Abbott as COVID-19 cases surge and hospitals are stretched thin. Sunday's order by the state's highest court \u2014 which is entirely comprised of elected Republican justices \u2014 halts mask requirements that county leaders in Dallas and San Antonio put in place as new infections soar and students begin returning to school.",
+    "url": "https://www.registercitizen.com/news/article/The-Latest-Russia-sees-800-daily-virus-deaths-16388156.php",
+    "url_hash": "26f862ec6e02879dab20a8fd142dd344",
+    "ut": 1629090506,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Texas Supreme Court",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Greg Abbott",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          49,
+          50
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dallas",
+        "start_end": [
+          59,
+          60
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "San Antonio",
+        "start_end": [
+          61,
+          63
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "Sri Lanka opposition calls for self-imposed Coronavirus lockdown",
     "source": "economynext.com",
     "snippet": "Sri Lanka's citizens should stay indoors and avoid travel Sri Lanka's main opposition Samagi Jana Balawegaya said as a Coronavirus pandemic worsened with rising deaths and hospital staff unable to fully care for patients and authorities refrained from imposing a full lockdown.",
@@ -2819,6 +2894,57 @@
   },
   {
     "date": "2021-08-16",
+    "title": "Taliban assures Sri Lanka on security of Buddhist sites",
+    "source": "menafn.com",
+    "snippet": "The Taliban has assured Sri Lanka that Buddhist sites in Afghanistan will not be at risk under a Taliban-led administration.  </",
+    "url": "https://menafn.com/1102628536/Taliban-assures-Sri-Lanka-on-security-of-Buddhist-sites",
+    "url_hash": "de7b695646bf625b781e4cba3a5c2d39",
+    "ut": 1629097715,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "Sri Lanka receives more Pfizer; over 31,000 fully vaxxed with US-made jab",
     "source": "economynext.com",
     "snippet": "Sri Lanka received another 74,880 doses of the Pfizer-BioNTech COVID-19 vaccine Monday (16) morning, the State Pharmaceutical Corporation (SPC) said. So far, 31,605 Sri Lankans have been fully vaccinated with Pfizer,",
@@ -3307,6 +3433,334 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka Axes Health Minister Over Covid Misinformation As Outbreak Grows",
+    "source": "www.ibtimes.com",
+    "snippet": "Sri Lanka's president on Monday demoted the health minister who publicly endorsed sorcery and magic potions to battle Covid-19, as coronavirus infections and deaths hit record highs. President Gotabaya Rajapaksa's office said Pavithra Wanniarachchi's health portfolio had been given to Media Minister Keheliya Rambukwella who is also the government spokesman.",
+    "url": "https://www.ibtimes.com/sri-lanka-axes-health-minister-over-covid-misinformation-outbreak-grows-3274403",
+    "url_hash": "706a99a599791d53fe888db79cc0d55b",
+    "ut": 1629104892,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pavithra Wanniarachchi's",
+        "start_end": [
+          36,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka axes health minister who pushed sorcery, magic potions as remedy for Covid",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka's president on Monday demoted the health minister who publicly endorsed sorcery and magic potions to battle Covid-19, as coronavirus infections and deaths hit record highs. President Gotabaya Rajapaksa's office said Pavithra Wanniarachchi's health portfolio had been given to Media Minister Keheliya Rambukwella who is also the government spokesman.",
+    "url": "https://www.msn.com/en-my/news/world/sri-lanka-axes-health-minister-who-pushed-sorcery-magic-potions-as-remedy-for-covid/ar-AANn2Aq",
+    "url_hash": "2b1b3c258f91ed413415c5620d6bb9b3",
+    "ut": 1629104892,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pavithra Wanniarachchi's",
+        "start_end": [
+          36,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka Axes Health Minister Who Endorsed 'Magic Potion', 'Blessed Water' to Battle Covid",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka's president on Monday demoted the health minister who publicly endorsed sorcery and magic potions to battle Covid-19, as coronavirus infections and deaths hit record highs.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-axes-health-minister-who-endorsed-magic-potion-blessed-water-to-battle-covid/ar-AANmz4i",
+    "url_hash": "15f4359e2ef76d7b6d83d953d6ecac8e",
+    "ut": 1629105132,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Nissei introduces new soft ice cream in Japan",
+    "source": "www.aninews.in",
+    "snippet": "ANI brings the latest news on Politics and Current Affairs in India & around the World, Sports, Health & Fitness, Entertainment, News.",
+    "url": "https://www.aninews.in/videos/world/nissei-introduces-new-soft-ice-cream-japan/",
+    "url_hash": "1cd07472d0dd0008dd927b653a8a2baa",
+    "ut": 1629105372,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Politics and Current Affairs",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health & Fitness",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "New Health Minister gets things rolling",
+    "source": "www.dailymirror.lk",
+    "snippet": "While saying he is privileged and honoured to be appointed as the Health Minister of Sri Lanka, Keheliya Rambukwella said it is imperative that the collective social responsibility of all citizens will be needed to defeat the COVID-19 challenge.",
+    "url": "https://www.dailymirror.lk/breaking_news/New-Health-Minister-gets-things-rolling/108-218366",
+    "url_hash": "3382930589c61f95d2d80605bc8c46f8",
+    "ut": 1629105842,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Bureau of Foreign Employment to vaccinate Sri Lankans flying abroad for work",
+    "source": "economynext.com",
+    "snippet": "The Sri Lanka Bureau of Foreign Employment (SLBFE) is set to resume vaccination of Sri Lankans leaving the country for work, an official said. The SLBFE plans to begin vaccination on Tuesday (17), starting with workers leaving for countries that accept the AstraZeneca COVID-19 jab,",
+    "url": "https://economynext.com/bureau-of-foreign-employment-to-vaccinate-sri-lankans-flying-abroad-for-work-84945/",
+    "url_hash": "5ab42f6a46475a2779ae0f17f16d9771",
+    "ut": 1629106231,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Bureau of Foreign Employment",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLBFE",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          49,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka demotes health minister over COVID-19 misinformation",
+    "source": "english.alarabiya.net",
+    "snippet": "Sri Lanka's president on Monday demoted the health minister who publicly endorsed sorcery and magic potions to battle COVID-19, as coronavirus infections",
+    "url": "https://english.alarabiya.net/coronavirus/2021/08/16/Sri-Lanka-demotes-health-minister-over-COVID-19-misinformation-",
+    "url_hash": "2f404ed65628dbc693f8f57498993ce2",
+    "ut": 1629106392,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "SSP Nihal Thalduwa",
+    "source": "www.dailynews.lk",
+    "snippet": "Senior Superintendent of Police (SSP) Attorney-at-Law Nihal Thalduwa has been appointed as the new Police Media Spokesman, confirmed the Senior DIG Ajith Rohana. The new High Dependency Unit (HDU) of Wathupitiwala Base Hospital, built...",
+    "url": "http://www.dailynews.lk/tags/ssp-nihal-thalduwa",
+    "url_hash": "d2624026a6777f415357d1211e881ade",
+    "ut": 1629106866,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Police Media Spokesman",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HDU",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Wathupitiwala Base Hospital",
+        "start_end": [
+          40,
+          43
         ]
       }
     ]

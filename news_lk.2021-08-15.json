@@ -7190,6 +7190,65 @@
   },
   {
     "date": "2021-08-15",
+    "title": "As hospitals packed with Covid patients, SL to purchase oxygen from India",
+    "source": "www.netindia123.com",
+    "snippet": "As hospitals packed with Covid patients, SL to purchase oxygen from India Colombo \\|Sunday, 2021 2:45:06 PM IST By As Sri Lankan hospitals are getting overcrowded",
+    "url": "https://www.netindia123.com/showdetails.asp?id=3803511&cat=Health",
+    "url_hash": "a104d12b77d6ef9e6962c9581dfe35b7",
+    "ut": 1629050892,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "SL",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "\\|Sunday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Biodiversity and business: What can be learnt from the Sri Lankan tea industry",
     "source": "www.ft.lk",
     "snippet": "Biodiversity is considered the 'web of life' of all living beings in the universe. It is the link between all organisms on earth, binding each into an interdependent ecosystem in which all species play their role.",
@@ -7245,6 +7304,41 @@
         "start_end": [
           29,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "SLT-Mobitel's 'The Embryo' to build digital solutions for Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "SLT-Mobitel, has recently established 'The Embryo', the SLT Group's pioneering Research and Development initiative. The Embryo comes with the aim of driving a multi-channel innovation pipeline to build cutting-edge digital solutions to serve the nation,",
+    "url": "https://www.ft.lk/it-telecom-tech/SLT-Mobitel-s--The-Embryo--to-build-digital-solutions-for-Sri-Lanka/50-721733",
+    "url_hash": "a0026998edbec7f563c6f258f6d2fe7f",
+    "ut": 1629050906,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLT-Mobitel",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the SLT Group's",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Research and Development",
+        "start_end": [
+          17,
+          20
         ]
       }
     ]
