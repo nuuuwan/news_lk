@@ -6868,6 +6868,49 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Hundreds are evacuated as tinderbox Spain tackles wildfires",
+    "source": "www.fourstateshomepage.com",
+    "snippet": "At least 800 people were evacuated in Spain as forest fires blazed Sunday in two regions, with extremely dry conditions worsening the risk of more wildfires during the hottest",
+    "url": "https://www.fourstateshomepage.com/news/international/hundreds-are-evacuated-as-tinderbox-spain-tackles-wildfires/",
+    "url_hash": "72fbdb6aec5dc237fb6ab29b4c6146c2",
+    "ut": 1629043723,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 800",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Spain",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Is SLC properly managed?",
     "source": "www.dailymirror.lk",
     "snippet": "However, apart from pointing the finger at the current domestic structure which as many say decide who is taking office, Sri Lanka Cricket (SLC) has come under very little criticism given how things stood perhaps ten years ago.",
@@ -9179,6 +9222,57 @@
         "start_end": [
           19,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
+    "title": "Chinese pharma company to set up Covid-19 vaccine plant in Sri Lanka",
+    "source": "www.lankaweb.com",
+    "snippet": "The new plant will be set up under an agreement that will allow Colombo to source nine million Covid-19 vaccine doses from the Chinese pharma company that sets it up, Sri Lankan ambassador to China, Palitha Kohona,",
+    "url": "https://www.lankaweb.com/news/items/2021/08/15/chinese-pharma-company-to-set-up-covid-19-vaccine-plant-in-sri-lanka/comment-page-1/",
+    "url_hash": "02d272dc30f66d64c2e10a16be99f184",
+    "ut": 1629065323,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "nine million",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Palitha Kohona",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
