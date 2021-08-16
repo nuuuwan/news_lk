@@ -752,6 +752,57 @@
   },
   {
     "date": "2021-08-16",
+    "title": "Sri Lanka's death toll fast increasing from COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's death toll from the rapidly spreading COVID-19 virus is fast rising with an average of 32 deaths reported per million by August 13, which is very high for a country with a 21 million population,",
+    "url": "https://www.dailymirror.lk/top_story/Sri-Lankas-death-toll-fast-increasing-from-COVID-19/155-218328",
+    "url_hash": "d1879cc9b39e4675b37b7840dcc8668c",
+    "ut": 1629079663,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "32",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "million",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 13",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21 million",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "Taliban denies links to LTTE",
     "source": "www.dailymirror.lk",
     "snippet": "The Taliban insists it had no links with the LTTE before or after the defeat of the rebels. Speaking exclusively to Daily Mirror, Taliban spokesman and international negotiator Suhail Shaheen said that the Taliban is an independent liberation force.",
@@ -1791,6 +1842,41 @@
   },
   {
     "date": "2021-08-16",
+    "title": "Is SLC properly managed?",
+    "source": "www.dailymirror.lk",
+    "snippet": "However, apart from pointing the finger at the current domestic structure which as many say decide who is taking office, Sri Lanka Cricket (SLC) has come under very little criticism given how things stood perhaps ten years ago.",
+    "url": "https://www.dailymirror.lk/headline/Is-SLC-properly-managed/419-218292",
+    "url_hash": "a149776d7a7cdaad16cc3cd665955e94",
+    "ut": 1629086863,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten years ago",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "At last, SLC to offer player contracts for 2021",
     "source": "www.islandcricket.lk",
     "snippet": "Following months of protracted disputes, arguments, and counterarguments, Sri Lanka Cricket (SLC) has finally decided to offer player contracts for the year 2021. \"We are planning to give the contracts to the players.",
@@ -2219,6 +2305,221 @@
       {
         "label": "DATE",
         "text": "July",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Cabinet reshuffle today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A cabinet reshuffle will take place in a short while, government sources told Daily Mirror. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-reshuffle-today/108-218360",
+    "url_hash": "c51f16afe228396880713e17b20f229e",
+    "ut": 1629094063,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Battle against Covid intensified",
+    "source": "www.dailymirror.lk",
+    "snippet": "The battle against Covid has been intensified with some regulations being reintroduced and an overnight curfew being enforced ..",
+    "url": "https://www.dailymirror.lk/audio/dm_audio/Battle-against-Covid-intensified/376-218361",
+    "url_hash": "de4216e0b2fa533d2fd44cf159e64a7c",
+    "ut": 1629094063,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka's Aitken Spence June losses down on Maldives recovery, logistics",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Aitken Spence Plc, which has interests in leisure and logistics said that net losses for the June quarter fell 84 percent to 245.5 million rupees from a year earlier, as Maldives tourism recovered and logistics profits grew,",
+    "url": "https://economynext.com/sri-lankas-aitken-spence-june-losses-down-on-maldives-recovery-logistics-84932/",
+    "url_hash": "ff422937ab04a0ecad404d2008569b01",
+    "ut": 1629094087,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Aitken Spence Plc",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the June quarter",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "84 percent",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "245.5 million",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a year earlier",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Maldives",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lanka enforces night curfew to curb Covid-19 spike",
+    "source": "www.ttgasia.com",
+    "snippet": "Sri Lankan authorities have imposed an indefinite nationwide night curfew which will come into effect on Monday (August 16) night as the country faces a rising tide of infections linked to the fast-spreading Delta variant.",
+    "url": "https://www.ttgasia.com/2021/08/16/sri-lanka-enforces-night-curfew-to-curb-covid-19-spike/",
+    "url_hash": "54cd3906b6e02e456c9b6d12ca8c3b63",
+    "ut": 1629096183,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: Australian state sees 478 new virus infections",
+    "source": "www.beaumontenterprise.com",
+    "snippet": "Australia's most populous state on Monday reported its worst day of the pandemic with 478 new COVID-19 infections and seven deaths. The previous record daily tally in New South Wales was 466 new cases reported on Saturday.",
+    "url": "https://www.beaumontenterprise.com/news/article/The-Latest-Russia-sees-800-daily-virus-deaths-16388156.php",
+    "url_hash": "b28669c0703f9abf98797f96cb594443",
+    "ut": 1629097383,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "478",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New South Wales",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "466",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
         "start_end": [
           38,
           39
