@@ -9083,6 +9083,57 @@
   },
   {
     "date": "2021-08-15",
+    "title": "Chinese pharma company to set up Covid-19 vaccine plant in Sri Lanka",
+    "source": "www.lankaweb.com",
+    "snippet": "The new plant will be set up under an agreement that will allow Colombo to source nine million Covid-19 vaccine doses from the Chinese pharma company that sets it up, Sri Lankan ambassador to China, Palitha Kohona,",
+    "url": "http://www.lankaweb.com/news/items/2021/08/15/chinese-pharma-company-to-set-up-covid-19-vaccine-plant-in-sri-lanka/comment-page-1/",
+    "url_hash": "e88c08fb6ca2a4bfb2e1a0d1a22902d7",
+    "ut": 1629065355,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "nine million",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Palitha Kohona",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-15",
     "title": "Vaccination drive on track...",
     "source": "www.dailymirror.lk",
     "snippet": "With adequate vaccine doses now available in the country, people are seen actively coming in large numbers to get vaccinated. Pictures show the vaccination drive being carried out at the Vihara Maha Devi Park.",
