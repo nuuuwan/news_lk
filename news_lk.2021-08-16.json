@@ -921,6 +921,73 @@
   },
   {
     "date": "2021-08-16",
+    "title": "Sri Lanka receives another batch of Pfizer vaccines",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has received another consignment of the Pfizer-BioNTech COVID-19 vaccine this morning (16). A consignment of 100,000 doses of the vaccine arrived via a special flight today at the Bandaranaike International Airport (BIA),",
+    "url": "http://www.adaderana.lk/news/76186/sri-lanka-receives-another-batch-of-pfizer-vaccines",
+    "url_hash": "4fe9df104f39cd123f7860179dc38343",
+    "ut": 1629079669,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          34,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "Taliban denies links to LTTE",
     "source": "www.dailymirror.lk",
     "snippet": "The Taliban insists it had no links with the LTTE before or after the defeat of the rebels. Speaking exclusively to Daily Mirror, Taliban spokesman and international negotiator Suhail Shaheen said that the Taliban is an independent liberation force.",
@@ -6849,6 +6916,41 @@
   },
   {
     "date": "2021-08-16",
+    "title": "The Latest: New York City to require proof of COVID-19 shot",
+    "source": "www.seattlepi.com",
+    "snippet": "AMSTERDAM \u2014 The European Medicines Agency has started an accelerated review process to determine if a common arthritis drug might help people hospitalized with severe COVID-19, months after the drug was granted an emergency use authorization in the U.",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "72391dc8caf077e81c6b38bd5e0e5857",
+    "ut": 1629122864,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "AMSTERDAM",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The European Medicines Agency",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "Europe eyes arthritis drug for COVID-19 cases",
     "source": "journalgazette.net",
     "snippet": "The European Medicines Agency has started an accelerated review process to determine if a common arthritis drug might help people hospitalized with severe COVID-19.",
@@ -7037,6 +7139,119 @@
   },
   {
     "date": "2021-08-16",
+    "title": "167 more die of COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 167 more COVID-19 related deaths that occurred yesterday (15) were confirmed by the Director-General of Health Services today pushing the death toll to 6,263. ..",
+    "url": "https://www.dailymirror.lk/latest_news/167-more-die-of-COVID-19/342-218377",
+    "url_hash": "dd6e58c58abef59b3369dace3e413ac0",
+    "ut": 1629126455,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "167",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6,263",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: New York City to require proof of COVID-19 shot",
+    "source": "www.middletownpress.com",
+    "snippet": "AMSTERDAM \u2014 The European Medicines Agency has started an accelerated review process to determine if a common arthritis drug might help people hospitalized with severe COVID-19, months after the drug was granted an emergency use authorization in the U.",
+    "url": "https://www.middletownpress.com/news/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "58af93738052d1d7772368c9f498e291",
+    "ut": 1629126473,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "AMSTERDAM",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The European Medicines Agency",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: Europe eyes arthritis drug for COVID-19 cases",
+    "source": "www.thetelegraph.com",
+    "snippet": "AMSTERDAM \u2014 The European Medicines Agency has started an accelerated review process",
+    "url": "https://www.thetelegraph.com/news/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "5ed71c5c07a3680979150b51189fc5b3",
+    "ut": 1629126473,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "AMSTERDAM",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The European Medicines Agency",
+        "start_end": [
+          2,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "FACTBOX-Countries making COVID-19 vaccines mandatory",
     "source": "www.msn.com",
     "snippet": "Aug 16 (Reuters) - A sharp upturn in infections due to the Delta variant and a slowdown in vaccinations have pushed governments to make COVID-19 shots mandatory for health workers and other high-risk groups.",
@@ -7190,6 +7405,49 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: Over 1 million in Israel get booster vaccine",
+    "source": "abcnews.go.com",
+    "snippet": "Israel says more than 1 million people over the age of 50 have received a third dose of the coronavirus vaccine",
+    "url": "https://abcnews.go.com/Health/wireStory/latest-germany-approves-vaccinations-12s-79475300",
+    "url_hash": "bcc7281fb5ab6c1a80c5d6f1047daa3d",
+    "ut": 1629137264,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Israel",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 1 million",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the age of 50",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          15,
+          16
         ]
       }
     ]
