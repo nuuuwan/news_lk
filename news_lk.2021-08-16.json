@@ -2817,6 +2817,49 @@
   },
   {
     "date": "2021-08-16",
+    "title": "Three schoolboys drown in Buttala lake",
+    "source": "www.dailymirror.lk",
+    "snippet": "Three school boys had drowned in the Katugaha Galge lake at Buttala and their bodies were recovered last morning by ..",
+    "url": "https://www.dailymirror.lk/news/Three-schoolboys-drown--in-Buttala-lake/239-218348",
+    "url_hash": "0f26b098225addd25ac44241db170427",
+    "ut": 1629090473,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Katugaha Galge",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Buttala",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last morning",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "Foreign Ministry to evacuate Lankans in Afghanistan",
     "source": "www.dailymirror.lk",
     "snippet": "The Foreign Ministry said that it was currently in the process of working with international partners to facilitate the return of Sri Lankan nationals in Afghanistan, if they wish to return. ..",
@@ -7917,6 +7960,111 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: New York City to require proof of COVID-19 shot",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "NEW YORK \u2014 New York City will begin requiring proof of COVID-19 vaccinations on Tuesday for anyone wanting to partake in much of public life including dining at an indoor restaurant, working out at a gym or strolling through a museum.",
+    "url": "https://www.stamfordadvocate.com/business/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "6d74fcb57c13e2c47d65bbab9bc455ba",
+    "ut": 1629149112,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "NEW YORK",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York City",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "CMI Sri Lanka hosts its 20th AGM virtually",
+    "source": "www.ft.lk",
+    "snippet": "The 20th AGM of the Chartered Management Institute \u0432\u0402\" Sri Lanka Branch was conducted virtually last month, conforming to the health and safety regulations issued by the Government of Sri Lanka in the aftermath of the outbreak of the COVID-19 pandemic.",
+    "url": "https://www.ft.lk/hr/CMI-Sri-Lanka-hosts-its-20th-AGM-virtually/47-721791",
+    "url_hash": "ec3dd77d8ea0a09a6ef2c77d5a6d3eb8",
+    "ut": 1629149357,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "20th",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Chartered Management Institute \u0432\u0402",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government of Sri Lanka",
+        "start_end": [
+          28,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Transforming Sri Lanka into a startup nation",
+    "source": "www.ft.lk",
+    "snippet": "Post-COVID-19, Sri Lanka will be in an ideal position for a major pivot away from its old safety net of traditional investments. ..",
+    "url": "https://www.ft.lk/business/Transforming-Sri-Lanka-into-a-startup-nation/34-721792",
+    "url_hash": "30e9ecc3129d109f79e32a46351d3be5",
+    "ut": 1629149477,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
         ]
       }
     ]
