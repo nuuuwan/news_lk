@@ -1702,5 +1702,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "At last, SLC to offer player contracts for 2021",
+    "source": "www.islandcricket.lk",
+    "snippet": "Following months of protracted disputes, arguments, and counterarguments, Sri Lanka Cricket (SLC) has finally decided to offer player contracts for the year 2021. \"We are planning to give the contracts to the players.",
+    "url": "https://www.islandcricket.lk/news/at-last-slc-to-offer-player-contracts-for-2021/",
+    "url_hash": "ca64ea4daaf05881240cd483017901a2",
+    "ut": 1629086882,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the year 2021",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Sri Lankan Govt enforces overnight curfew amidst surge in Covid deaths",
+    "source": "english.newstracklive.com",
+    "snippet": "The government of Sri Lanka announced an island-wide overnight curfew from Monday following the record of daily increase in Covid death toll. Army Com..|News Track",
+    "url": "https://english.newstracklive.com/news/sri-lankan-govt--enforces-overnight-curfew-amidst-surge-in-covid-deaths-sc57-nu318-ta318-1176888-1.html",
+    "url_hash": "624e7576775b61de5c5d8bb593c5c092",
+    "ut": 1629088584,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Taliban assures Sri Lanka Buddhist sites not at risk",
+    "source": "colombogazette.com",
+    "snippet": "The Taliban has assured Sri Lanka that Buddhist sites in Afghanistan will not be at risk under a Taliban-led administration. Speaking exclusively to Daily Mirror, Taliban spokesman and international negotiator Suhail Shaheen said that the Taliban also had no links to the LTTE.",
+    "url": "https://colombogazette.com/2021/08/16/taliban-assures-sri-lanka-buddhist-sites-not-at-risk/",
+    "url_hash": "3f75b428897470aca2676b47a4e0563d",
+    "ut": 1629090084,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Suhail Shaheen",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
   }
 ]
