@@ -2291,6 +2291,57 @@
   },
   {
     "date": "2021-08-16",
+    "title": "Taliban assures Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Taliban insists it had no links with the LTTE before or after the defeat of the rebels. Easwaran Rutnam spoke briefly to Taliban spokesman and international negotiator Suhail Shaheen ..",
+    "url": "https://www.dailymirror.lk/audio/recommended_audio/Taliban-assures-Sri-Lanka/377-218344",
+    "url_hash": "e218efc0af6cbce39ee0996f476a2287",
+    "ut": 1629086869,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rutnam",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Suhail Shaheen",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "At last, SLC to offer player contracts for 2021",
     "source": "www.islandcricket.lk",
     "snippet": "Following months of protracted disputes, arguments, and counterarguments, Sri Lanka Cricket (SLC) has finally decided to offer player contracts for the year 2021. \"We are planning to give the contracts to the players.",
@@ -7769,6 +7820,33 @@
     "title": "Escape from climate change no longer possible",
     "source": "www.dailymirror.lk",
     "snippet": "A damning new U.N. report warning of certain devastation from climate change has been dubbed humanity's 'final wake-up call' by environmental experts. The U.N.'s IPCC climate panel has released a highly anticipated report warning that efforts to limit global warming to close to .",
+    "url": "https://www.dailymirror.lk/hard-talk/Escape-from-climate-change-no-longer-possible/334-218401",
+    "url_hash": "7df3fadb68618ae75897ed12f057b2a3",
+    "ut": 1629140869,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "U.N.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "U.N.",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Escape from climate change no longer possible",
+    "source": "www.dailymirror.lk",
+    "snippet": "A damning new U.N. report warning of certain devastation from climate change has been dubbed humanity's 'final wake-up call' by environmental experts. The U.N.'s IPCC climate panel has released a highly anticipated report warning that efforts to limit global warming to close to .",
     "url": "https://www.dailymirror.lk/opinion/Escape-from-climate-change-no-longer-possible/172-218401",
     "url_hash": "4f6f1fede40289296294ed3b4ad6b0ba",
     "ut": 1629140880,
@@ -8065,6 +8143,237 @@
         "start_end": [
           4,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: Some Hawaii Private Schools Mandate Vaccination",
+    "source": "www.usnews.com",
+    "snippet": "HONOLULU \u2014 Some private schools in Hawaii are mandating coronavirus vaccination for students, faculty and staff. The Honolulu Star-Advertiser says Parker School in Waimea on the Big Island will require all employees and eligible students to be vaccinated by Oct.",
+    "url": "https://www.usnews.com/news/world/articles/2021-08-16/the-latest-europe-eyes-arthritis-drug-for-covid-19-cases",
+    "url_hash": "ab7a038d2ab1ab856ab82924f4fded51",
+    "ut": 1629151678,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Hawaii",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parker School",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Oct.",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: Wyoming governor won't bring back mask mandate",
+    "source": "kvoa.com",
+    "snippet": "CHEYENNE, Wyo. \u2014 Wyoming's governor says the state will not return to a statewide mask order or mandate vaccination against the coronavirus despite a resurgence of the virus. Gov. Mark Gordon imposed a statewide mask mandate in December and lifted it in March.",
+    "url": "https://kvoa.com/ap-national-news/2021/08/16/the-latest-germany-approves-vaccinations-for-over-12s/",
+    "url_hash": "5a7b20dfd590aa8cc423b270c436c561",
+    "ut": 1629151678,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "CHEYENNE",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wyo.",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wyoming",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Gordon",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: New York City to require proof of COVID-19 shot",
+    "source": "www.mysanantonio.com",
+    "snippet": "NEW YORK \u2014 New York City will begin requiring proof of COVID-19 vaccinations on Tuesday for anyone wanting to partake in much of public life including dining at an indoor restaurant, working out at a gym or strolling through a museum.",
+    "url": "https://www.mysanantonio.com/business/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "4bf68d782b8cde6e97b3ae9b56c66d3a",
+    "ut": 1629152698,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "NEW YORK",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York City",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Frud Bezhan",
+    "source": "www.dailynews.lk",
+    "snippet": "The situation in the Afghan capital, Kabul, is changing rapidly as the Taliban has moved into the city and taken over parts of it, including the Presidential Palace. This happened as Afghan...",
+    "url": "http://www.dailynews.lk/line/frud-bezhan",
+    "url_hash": "8dd393c27405c7aee405d778f0c3fd09",
+    "ut": 1629153894,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Presidential Palace",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Navy to promote water sports in Jaffna",
+    "source": "news.lk",
+    "snippet": "With a view to promoting water sports in Jaffna, Sri Lanka Navy in collaboration with the Canoe Association of Sri Lanka and Sri Lanka Life Saving, conducted a workshop on Dragon Boat racing and life-saving at sea.",
+    "url": "https://news.lk/news/political-current-affairs/item/32756-navy-to-promote-water-sports-in-jaffna",
+    "url_hash": "8ede32737e47f1d5bab99dcaf1ba43e7",
+    "ut": 1629153911,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Jaffna",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Canoe Association of Sri Lanka",
+        "start_end": [
+          16,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dragon Boat",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]
