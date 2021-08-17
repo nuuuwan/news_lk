@@ -1839,6 +1839,41 @@
   },
   {
     "date": "2021-08-17",
+    "title": "Gampaha Lawyers' Association decides to refrain from court work",
+    "source": "www.dailymirror.lk",
+    "snippet": "Taking into account the rapid spread of Covid-19 in Gampaha town, the Gampaha Lawyers' Association has taken a unanimous decision not to attend court proceedings until August 23. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Gampaha-Lawyers-Association-decides-to-refrain-from-court-work/108-218435",
+    "url_hash": "77edc01595342318cf3cefb67ef3833d",
+    "ut": 1629180484,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Gampaha Lawyers' Association",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 23",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "The Latest: Alabama ICUs near capacity amid COVID-19 surge",
     "source": "www.thetelegraph.com",
     "snippet": "MONTGOMERY, Alabama \u2014 Alabama's intensive care units are near capacity amid",
@@ -2206,6 +2241,73 @@
         "start_end": [
           11,
           15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "World Cup T20 Fixture",
+    "source": "www.dailynews.lk",
+    "snippet": "The ICC Men's T20 World Cup 2021 in UAE and Oman will get underway from 17 October, with the Final to be played in Dubai on 14 November. The ICC announced the fixtures for the marquee tournament...",
+    "url": "http://www.dailynews.lk/tags/world-cup-t20-fixture",
+    "url_hash": "025c9416f2124835dd40a1382d0bef82",
+    "ut": 1629184088,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Cup 2021",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Oman",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17 October",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "14 November",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICC",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
@@ -2659,6 +2761,199 @@
         "start_end": [
           53,
           55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Navy Ship leaves for India to bring medical oxygen shipment to Sri Lanka",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka Naval Ship 'Shakthi' left the Trincomalee harbour for the Port of Chennai, India this morning (17) for a shipment of medical grade oxygen to Sri Lanka. The ship will take the delivery of the oxygen ordered from the Indian government,",
+    "url": "http://dailynews.lk/2021/08/17/local/256879/navy-ship-leaves-india-bring-medical-oxygen-shipment-sri-lanka",
+    "url_hash": "4a5abb78aaa2b60d2e1837cf9f756236",
+    "ut": 1629187688,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Naval",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Port of Chennai",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "New Zealand imposes three-day lockdown over single COVID-19 case",
+    "source": "dailynews.lk",
+    "snippet": "New Zealand's Prime Minister Jacinda Ardern put the nation under strict lockdown on Tuesday after one new case of the coronavirus was reported in its largest city of Auckland, the country's first in six months.",
+    "url": "https://dailynews.lk/2021/08/17/world/256880/new-zealand-imposes-three-day-lockdown-over-single-covid-19-case",
+    "url_hash": "89cc6ad1ed36671ebb42aa67198290c9",
+    "ut": 1629187688,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jacinda Ardern",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six months",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Three mutations of the Delta variant detected in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Three mutations of the coronavirus Delta variant have been detected in Sri Lanka. State Minister of Production, Supply and Regulation of Pharmaceuticals Channa Jayasumana told Parliament today that the mutations were identified as SA 222 - V,",
+    "url": "https://colombogazette.com/2021/08/17/three-mutations-of-the-delta-variant-detected-in-sri-lanka/",
+    "url_hash": "6850127b105e1cda8e1c8d4b44dae087",
+    "ut": 1629189753,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jayasumana",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
