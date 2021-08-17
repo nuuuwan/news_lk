@@ -347,5 +347,279 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka's CEB loses Rs4.5bn up to June",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's state-run power utility, Ceylon Electricity Board has lost 4.5 billion rupees in the half year to June 2021, down from 22 billion rupees a year ealier, with all the losses coming in the first quarter,",
+    "url": "https://economynext.com/sri-lankas-ceb-loses-rs4-5bn-up-to-june-84989/",
+    "url_hash": "2b66b26387bd274f72a8414919d2eaa2",
+    "ut": 1629166123,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Electricity Board",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4.5 billion",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the half year to June 2021",
+        "start_end": [
+          18,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22 billion",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a year ealier",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first quarter",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka banks on vaccination to see it through delta surge",
+    "source": "www.chron.com",
+    "snippet": "When the 51-year-old tutor suffered a heart attack in late July, his loved ones rushed him to a nearby hospital in a suburb of Sri Lanka's capital, Colombo. But as his condition deteriorated over the next few hours,",
+    "url": "https://www.chron.com/business/article/Sri-Lanka-banks-on-vaccination-to-see-it-through-16391401.php",
+    "url_hash": "8ca9ca70fc3c8d903e9cd87f4b3ce4e0",
+    "ut": 1629168393,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "51-year-old",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late July",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the next few hours",
+        "start_end": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka banks on vaccination to see it through delta surge",
+    "source": "www.wivb.com",
+    "snippet": "Manjula Wijesuriya had COVID-19, but his friends and family say that's not what killed him. When the 51-year-old tutor suffered a heart attack in late July, his",
+    "url": "https://www.wivb.com/news/world/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge/",
+    "url_hash": "14461449560c902ddaa462ed4a9250f7",
+    "ut": 1629168593,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Manjula Wijesuriya",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "51-year-old",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late July",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "The Latest: Wyoming governor won't bring back mask mandate",
+    "source": "www.middletownpress.com",
+    "snippet": "Wyoming's governor says the state will not return to a statewide mask order or mandate vaccination against the coronavirus despite a resurgence of the virus. Gov. Mark Gordon imposed a statewide mask mandate in December and lifted it in March.",
+    "url": "https://www.middletownpress.com/news/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "58af93738052d1d7772368c9f498e291",
+    "ut": 1629169293,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Wyoming",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Gordon",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "US to recommend COVID-19 vaccine boosters at 8 months for all Americans, sources say",
+    "source": "www.cbs17.com",
+    "snippet": "U.S. experts are expected to recommend COVID-19 vaccine boosters for all Americans, regardless of age, eight months after they received their second dose of the shot, to",
+    "url": "https://www.cbs17.com/community/health/coronavirus/us-to-recommend-covid-19-vaccine-boosters-at-8-months-for-all-americans-sources-say/",
+    "url_hash": "caaa72c580a5a53d611f28a1855cd0d0",
+    "ut": 1629169293,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "age, eight months",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka banks on vaccination to see it through delta surge",
+    "source": "wnyt.com",
+    "snippet": "COLOMBO, Sri Lanka (AP) - Manjula Wijesuriya had COVID-19, but his friends and family say that's not what killed him. When the 51-year-old tutor suffered a heart attack in late July, his loved ...",
+    "url": "https://wnyt.com/money/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge/6209803/",
+    "url_hash": "f9f15ad711c4381ad42101f07e722a97",
+    "ut": 1629169538,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AP",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "51-year-old",
+        "start_end": [
+          28,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late July",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
   }
 ]
