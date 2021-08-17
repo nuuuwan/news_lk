@@ -1060,6 +1060,57 @@
   {
     "date": "2021-08-17",
     "title": "Sri Lanka banks on vaccination to see it through delta surge",
+    "source": "www.stltoday.com",
+    "snippet": "Sri Lankan health workers carry the dead body of a person to test for COVID-19 before handing over them to families in Colombo, Sri Lanka, Wednesday, Aug. 11, 2021. The Indian Ocean island nation is facing its most severe spike of the pandemic,",
+    "url": "https://www.stltoday.com/news/world/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge/article_4dc98464-3cd1-5bc9-b294-343942ebeebd.html",
+    "url_hash": "ad23b35c733c8b92ed317a1f9fe0be9e",
+    "ut": 1629169704,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday, Aug. 11, 2021",
+        "start_end": [
+          27,
+          33
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Indian Ocean",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka banks on vaccination to see it through delta surge",
     "source": "omaha.com",
     "snippet": "Sri Lankan health workers carry the dead body of a person to test for COVID-19 before handing over them to families in Colombo, Sri Lanka, Wednesday, Aug. 11, 2021. The Indian Ocean island nation is facing its most severe spike of the pandemic,",
     "url": "https://omaha.com/news/world/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge/article_ddd5a0fd-d2a0-5cb6-8218-7dbd7eb52075.html",
@@ -5314,6 +5365,57 @@
   },
   {
     "date": "2021-08-17",
+    "title": "Winning and losing in Geneva",
+    "source": "www.ft.lk",
+    "snippet": "Geneva, Rights and Sovereignty' Rajiva Wijesinha's new book 'Representing Sri Lanka' (S. Godage & Brothers) spans seven significant years of Sri Lanka's engagement with the international community, from 2007 to 2014.",
+    "url": "https://www.ft.lk/columns/Winning-and-losing-in-Geneva/4-721821",
+    "url_hash": "59c2c99179ef483f6ccebe91f887a2eb",
+    "ut": 1629223733,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "S. Godage & Brothers",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2007",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "Unions promise \"forced\" lockdown, MPs trade allegations as Sri Lanka loses another 171 lives",
     "source": "economynext.com",
     "snippet": "As Sri Lanka confirmed a record 171 COVID-19 deaths on Tuesday (17), a collective of trade unions across multiple sectors threatened to \"force\" a 10-day lockdown starting next Monday (23), while government and opposition MPs traded charges on who was to blame for the country's worst public health crisis in recent times.",
@@ -5375,6 +5477,84 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Keep all Parties informed of COVID control measures - UNP Leader",
+    "source": "www.msn.com",
+    "snippet": "United National Party Leader, MP Ranil Wickremesinghe has requested President Gotabaya Rajapaksa yesterday (17) to keep all political parties informed of the actions being taken by the Government regarding the COVID-19 pandemic.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/keep-all-parties-informed-of-covid-control-measures-unp-leader/ar-AANqOr8",
+    "url_hash": "2d78ba940d6145c547d13a7c07ad91b9",
+    "ut": 1629232839,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "United National Party",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Chinese Air Force Iron wings of courage",
+    "source": "www.msn.com",
+    "snippet": "The realm of the clouds is the domain of pilots. The Chinese Air Force has a rich heritage embellished with determination and innovation. This branch is the aerial wing of the People's Liberation Army.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/chinese-air-force-iron-wings-of-courage/ar-AANqHI7",
+    "url_hash": "b1e9cb0d88eda033e202db654a6e5380",
+    "ut": 1629232839,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Chinese Air Force",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the People's Liberation Army",
+        "start_end": [
+          32,
+          37
         ]
       }
     ]
