@@ -1337,6 +1337,33 @@
   },
   {
     "date": "2021-08-17",
+    "title": "Tangible action to resolve teachers' principals' TU action: Dinesh",
+    "source": "www.dailymirror.lk",
+    "snippet": "Necessary steps will be taken to resolve the trade union action initiated by the teachers through discussions, new Education Minister Dinesh Gunawardena said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Tangible-action-to-resolve-teachers-principals-TU-action-Dinesh/342-218431",
+    "url_hash": "62a98b26df93c5990cfab47ba5a7bc42",
+    "ut": 1629173272,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardena",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "Sri Lanka CSE says will rectify broker system glitch, DVP running",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Colombo Stock Exchange said it will clear a problem with a IT system provided by a vendor for broker, which delayed opening on Monday and that delivery versus payment system had started as earlier planned.",
@@ -1530,6 +1557,65 @@
   },
   {
     "date": "2021-08-17",
+    "title": "ICC Men's T20 World Cup 2021 fixtures revealed",
+    "source": "www.dailymirror.lk",
+    "snippet": "The ICC Men's T20 World Cup 2021 in UAE and Oman will get underway from 17 October, with the final to be played in Dubai on 14 November. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/ICC-Mens-T20-World-Cup-2021-fixtures-revealed/108-218434",
+    "url_hash": "57e86f12aa5c0456e22d6c8c998f54ae",
+    "ut": 1629176872,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Cup 2021",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Oman",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17 October",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "14 November",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "Misleading posts claiming Sri Lanka 'ranked first' in global Covid-19 deaths circulate online",
     "source": "factcheck.afp.com",
     "snippet": "A claim has been shared in multiple Facebook posts that Sri Lanka \"surpassed all other nations and ranked first\" in Covid-19 death rates on August 8, 2021. But these posts are misleading: they show incomplete data from a database of global Covid-19 trends.",
@@ -1669,6 +1755,352 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Gazette issued detailing functions, duties of Minister Namal's new ministry",
+    "source": "dailynews.lk",
+    "snippet": "An Extraordinary gazette notification has been issued with regard to the duties, functions, institutional and legal framework of the Development Coordination and Supervision Ministry of Minister Namal Rajapaksa.",
+    "url": "https://dailynews.lk/2021/08/17/local/256876/gazette-issued-detailing-functions-duties-minister-namal%E2%80%99s-new-ministry",
+    "url_hash": "1f669735297c669966eafbcc5dd96ab1",
+    "ut": 1629181797,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Development Coordination and Supervision Ministry",
+        "start_end": [
+          20,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Among France's poorest, once-lagging vaccine rates jump",
+    "source": "www.msn.com",
+    "snippet": "The poorest region in mainland France has managed to dramatically speed up its COVID-19 vaccination campaign in recent weeks, notably by opening walk-in pop-up centers to reach out to people where they live and work.",
+    "url": "https://www.msn.com/en-us/news/world/among-frances-poorest-once-lagging-vaccine-rates-jump/ar-AANp2Rj",
+    "url_hash": "83d3db981bdc3f065e56a15eb21cd605",
+    "ut": 1629182532,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent weeks",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "ICC T20 World Cup 2021 fixtures announced",
+    "source": "www.dailynews.lk",
+    "snippet": "The ICC Men's T20 World Cup 2021 in UAE and Oman will get underway from 17 October, with the Final to be played in Dubai on 14 November. The ICC announced the fixtures for the marquee tournament on Tuesday,",
+    "url": "http://www.dailynews.lk/2021/08/17/sports/256877/icc-t20-world-cup-2021-fixtures-announced",
+    "url_hash": "e0f122c9946d128ca8f422736c27001b",
+    "ut": 1629182637,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Cup 2021",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Oman",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17 October",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "14 November",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICC",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "India, Pakistan to meet in Group 2 opener at T20 World Cup",
+    "source": "apnews.com",
+    "snippet": "India will play Pakistan in the opening Group 2 match at the International Cricket Council's Twenty20 World Cup in October, a day after Australia takes on South Africa and the West Indies meet England in the first games of the Super 12 stage.",
+    "url": "https://apnews.com/5b1f9ee4285da07ccd9c315874aa912c",
+    "url_hash": "b98c4f0637ceca4ee0b7b25e62e1eaef",
+    "ut": 1629183072,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Group 2",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Cricket Council's",
+        "start_end": [
+          11,
+          16
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Twenty20 World Cup",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a day",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "West Indies",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "Super 12",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "World Cup T20 Fixture",
+    "source": "dailynews.lk",
+    "snippet": "The ICC Men's T20 World Cup 2021 in UAE and Oman will get underway from 17 October, with the Final to be played in Dubai on 14 November. The ICC announced the fixtures for the marquee tournament...",
+    "url": "https://dailynews.lk/tags/world-cup-t20-fixture",
+    "url_hash": "d83cd7366ca624c3a11a7449b02fd263",
+    "ut": 1629183117,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Cup 2021",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Oman",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17 October",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "14 November",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICC",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "More Pfizer vaccines arrive in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "More Pfizer vaccines arrived in Sri Lanka today, officials at the Bandaranaike International Airport (BIA) said.   A batc",
+    "url": "https://menafn.com/1102631685/More-Pfizer-vaccines-arrive-in-Sri-Lanka",
+    "url_hash": "84150e08cfadc962026a46746cdbf1f6",
+    "ut": 1629183385,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          11,
+          15
         ]
       }
     ]
