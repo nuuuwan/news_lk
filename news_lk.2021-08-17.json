@@ -127,6 +127,57 @@
   },
   {
     "date": "2021-08-17",
+    "title": "The Latest: Alabama ICUs near capacity amid COVID-19 surge",
+    "source": "www.mysanantonio.com",
+    "snippet": "MONTGOMERY, Alabama \u2014 Alabama's intensive care units are near capacity amid the state's surge in COVID-19 cases. The head of the Alabama Hospital Association says the state has 1,562 intensive care unit beds and 1,",
+    "url": "https://www.mysanantonio.com/news/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "d0e815439c169cefe2a75958ce7fe394",
+    "ut": 1629158891,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Alabama",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Alabama",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Alabama Hospital Association",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,562",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "The Latest: Over 1 million in Israel get booster vaccine",
     "source": "www.myplainview.com",
     "snippet": "Israel was one of the world's leaders in vaccinating its population early this year, using the Pfizer/BioNTech vaccine. But it has seen a surge in COVID-19 cases in recent weeks",
@@ -694,6 +745,215 @@
   },
   {
     "date": "2021-08-17",
+    "title": "Army-manned COVID vaccination centres operative today",
+    "source": "www.dailynews.lk",
+    "snippet": "http://www.dailynews.lk/sites/default/files/news/2021/08/17/ARMY%20MANAGE%20VACCINATION%20CENTRES%20-%2017%20AUG%202021.pdf",
+    "url": "http://www.dailynews.lk/2021/08/17/local/256873/army-manned-covid-vaccination-centres-operative-today",
+    "url_hash": "14f365f8ab024aeaf05e628d33f92041",
+    "ut": 1629169677,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka banks on vaccination to see it through delta surge",
+    "source": "www.chron.com",
+    "snippet": "When the 51-year-old tutor suffered a heart attack in late July, his loved ones rushed him to a nearby hospital in a suburb of Sri Lanka's capital, Colombo. But as his condition deteriorated over the next few hours,",
+    "url": "https://www.chron.com/news/article/Sri-Lanka-banks-on-vaccination-to-see-it-through-16391401.php",
+    "url_hash": "5a89b93fa30bc9be4c0e2d9453121c74",
+    "ut": 1629169691,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "51-year-old",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late July",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the next few hours",
+        "start_end": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Biden: Afghan chaos 'gut-wrenching' but stands by withdrawal",
+    "source": "www.fox44news.com",
+    "snippet": "A defiant President Joe Biden rejected blame for chaotic scenes of Afghans clinging to U.S. military planes in Kabul in a desperate bid to flee their home country after the",
+    "url": "https://www.fox44news.com/news/national-world-news/biden-afghan-chaos-gut-wrenching-but-stands-by-withdrawal/",
+    "url_hash": "a135239b3f9e516f6520c1c636c2615b",
+    "ut": 1629169691,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghans",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "GOP hits Biden despite divides over Afghanistan withdrawal",
+    "source": "www.fox44news.com",
+    "snippet": "When President Joe Biden announced he would stick to his predecessor's plan to withdraw U.S. troops from Afghanistan, Republican reaction was mixed and largely muted.",
+    "url": "https://www.fox44news.com/news/political-news/gop-hits-biden-despite-divides-over-afghanistan-withdrawal/",
+    "url_hash": "38dcdbffca76e038df8416bf30e69d49",
+    "ut": 1629169691,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Billions spent on Afghan army ultimately benefited Taliban",
+    "source": "www.fox44news.com",
+    "snippet": "Built and trained at a two-decade cost of $83 billion, Afghan security forces collapsed so quickly and completely \u2014 in some cases without a shot fired \u2014 that the ultimate",
+    "url": "https://www.fox44news.com/news/billions-spent-on-afghan-army-ultimately-benefited-taliban/",
+    "url_hash": "64fdf7a292499db072822219d5122e87",
+    "ut": 1629169691,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "two-decade",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$83 billion",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Tropical depression drenching earthquake-stricken Haiti",
+    "source": "www.fox44news.com",
+    "snippet": "Tropical Depression Grace swept over Haiti with drenching rains just two days after a powerful earthquake battered the impoverished Caribbean nation, adding to the misery",
+    "url": "https://www.fox44news.com/news/tropical-depression-drenching-earthquake-stricken-haiti/",
+    "url_hash": "e7ece7b668fababc8c7253a27751354c",
+    "ut": 1629169691,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Haiti",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "just two days",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "Sri Lanka banks on vaccination to see it through delta surge",
     "source": "omaha.com",
     "snippet": "Sri Lankan health workers carry the dead body of a person to test for COVID-19 before handing over them to families in Colombo, Sri Lanka, Wednesday, Aug. 11, 2021. The Indian Ocean island nation is facing its most severe spike of the pandemic,",
@@ -985,6 +1245,135 @@
         "start_end": [
           44,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka CSE says will rectify broker system glitch, DVP running",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Colombo Stock Exchange said it will clear a problem with a IT system provided by a vendor for broker, which delayed opening on Monday and that delivery versus payment system had started as earlier planned.",
+    "url": "https://economynext.com/sri-lanka-cse-says-will-rectify-broker-system-glitch-dvp-running-84994/",
+    "url_hash": "673a37ce74b46b96728f7ccd98e315a7",
+    "ut": 1629173300,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo Stock Exchange",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Duties, functions of Namal' s new ministry gazetted",
+    "source": "www.adaderana.lk",
+    "snippet": "A new Gazette Extraordinary has specified the duties, functions and institutional & legal framework of the Ministry of Development Co-ordination and Monitoring",
+    "url": "http://www.adaderana.lk/news.php?nid=76211",
+    "url_hash": "948292bf839f4b29fb9a034d3f5493fd",
+    "ut": 1629174385,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Gazette Extraordinary",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "institutional & legal",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Development Co-ordination",
+        "start_end": [
+          16,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Nihonbashi Burgers present a Japanese range of Hamburgers to Colombo",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lankan-Japanese Chef-restaurateur Dharshan Munidasa introduces \"Nihonbashi Burgers\" to Colombo. These artisanal burgers are homage to the Japanese 'Wafu' Burger; and the starting lineup consists of three varieties of Teriyaki Burgers: Chicken,",
+    "url": "https://colombogazette.com/2021/08/17/nihonbashi-burgers-present-a-japanese-range-of-hamburgers-to-colombo/",
+    "url_hash": "dccaf1a4d8612cadac34e51afcf4885b",
+    "ut": 1629175405,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Japanese",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dharshan Munidasa",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Japanese",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Teriyaki Burgers:",
+        "start_end": [
+          39,
+          42
         ]
       }
     ]
