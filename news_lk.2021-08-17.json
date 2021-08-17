@@ -350,6 +350,33 @@
   },
   {
     "date": "2021-08-17",
+    "title": "Indonesian cemetery photo wrongly shared in posts about Sri Lankan coronavirus deaths",
+    "source": "factcheck.afp.com",
+    "snippet": "An image of a burial ground has been shared in multiple Facebook posts which claim it shows a site for Covid-19 fatalities in Sri Lanka. The claim is false: the image actually shows a cemetery in Indonesia.",
+    "url": "https://factcheck.afp.com/http%253A%252F%252Fdoc.afp.com%252F9L64FH-2",
+    "url_hash": "3e47ddfe9d0856abeca6aed92585991f",
+    "ut": 1629166119,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "Sri Lanka's CEB loses Rs4.5bn up to June",
     "source": "economynext.com",
     "snippet": "Sri Lanka's state-run power utility, Ceylon Electricity Board has lost 4.5 billion rupees in the half year to June 2021, down from 22 billion rupees a year ealier, with all the losses coming in the first quarter,",
@@ -411,6 +438,49 @@
         "start_end": [
           40,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sources: US to recommend COVID vaccine boosters at 8 months",
+    "source": "www.fox44news.com",
+    "snippet": "U.S. experts are expected to recommend COVID-19 vaccine boosters for all Americans, regardless of age, eight months after they received their second dose of the shot, to ensure",
+    "url": "https://www.fox44news.com/news/sources-us-to-recommend-covid-vaccine-boosters-at-8-months/",
+    "url_hash": "396d4fbab507e435dbd0433f389a4f1e",
+    "ut": 1629166124,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "age, eight months",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          23,
+          24
         ]
       }
     ]
@@ -618,6 +688,303 @@
         "start_end": [
           39,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka banks on vaccination to see it through delta surge",
+    "source": "omaha.com",
+    "snippet": "Sri Lankan health workers carry the dead body of a person to test for COVID-19 before handing over them to families in Colombo, Sri Lanka, Wednesday, Aug. 11, 2021. The Indian Ocean island nation is facing its most severe spike of the pandemic,",
+    "url": "https://omaha.com/news/world/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge/article_ddd5a0fd-d2a0-5cb6-8218-7dbd7eb52075.html",
+    "url_hash": "41a4b4f8fb5fc32a799c7fdc1ab83008",
+    "ut": 1629169715,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday, Aug. 11, 2021",
+        "start_end": [
+          27,
+          33
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Indian Ocean",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "The Latest: Some Hawaii private schools mandate vaccination",
+    "source": "www.mrt.com",
+    "snippet": "HONOLULU \u2014 Some private schools in Hawaii are mandating coronavirus vaccination for students, faculty and staff. The Honolulu Star-Advertiser says Parker School in Waimea on the Big Island will require all employees and eligible students to be vaccinated by Oct.",
+    "url": "https://www.mrt.com/news/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "3f7ff3926c37717f9892ac3ec23380e2",
+    "ut": 1629169724,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Hawaii",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parker School",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Oct.",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Sri Lanka banks on vaccination to see it through delta surge",
+    "source": "www.gazettetimes.com",
+    "snippet": "Sri Lankan health workers carry the dead body of a person to test for COVID-19 before handing over them to families in Colombo, Sri Lanka, Wednesday, Aug. 11, 2021. The Indian Oce",
+    "url": "https://www.gazettetimes.com/news/world/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge/article_3a88a37d-0a2d-518d-b6ff-526c02839489.html",
+    "url_hash": "c6d780faac6c666a322ea7c9cfccfae8",
+    "ut": 1629169738,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday, Aug. 11, 2021",
+        "start_end": [
+          27,
+          33
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Army-manned COVID vaccination centres operative today",
+    "source": "dailynews.lk",
+    "snippet": "http://www.dailynews.lk/sites/default/files/news/2021/08/17/ARMY%20MANAGE%20VACCINATION%20CENTRES%20-%2017%20AUG%202021.pdf",
+    "url": "https://dailynews.lk/2021/08/17/local/256873/army-manned-covid-vaccination-centres-operative-today",
+    "url_hash": "4f4b3a7b3daada0c1c44037904083ed6",
+    "ut": 1629171148,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Cron homers with one out in 9th, Rockies beat Padres 6-5",
+    "source": "wgnradio.com",
+    "snippet": "C.J. Cron hit a solo homer in the ninth inning to give the Colorado Rockies a 6-5 win over the San Diego Padres on Monday night. It was Cron's 20th homer of the season and came",
+    "url": "https://wgnradio.com/sports/cron-homers-with-one-out-in-9th-rockies-beat-padres-6-5/",
+    "url_hash": "644d0398764e5e69539b84599bdb813b",
+    "ut": 1629172604,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "C.J. Cron",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "ninth",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Colorado Rockies",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the San Diego Padres",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Monday night",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cron",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "20th",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the season",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Navy ship leaves for India to bring oxygen to Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Shakthi left the Trincomalee harbour for the Port of Chennai, India this morning (17th August 2021) to transport a shipment of medical grade oxygen to Sri Lanka. Accordingly, the ship will take the delivery of the oxygen ordered from the Indian Government,",
+    "url": "https://colombogazette.com/2021/08/17/navy-ship-leaves-for-india-to-bring-oxygen-to-sri-lanka/",
+    "url_hash": "346574c1e30845412362a5159811c227",
+    "ut": 1629173098,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "the Port of Chennai",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "17th",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 2021",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian Government",
+        "start_end": [
+          44,
+          47
         ]
       }
     ]

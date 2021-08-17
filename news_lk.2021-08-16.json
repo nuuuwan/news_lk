@@ -8157,6 +8157,65 @@
   },
   {
     "date": "2021-08-16",
+    "title": "ICCSL-Daily FT webinar tomorrow on 'Role of Education, Skills and HR for Lanka's Success'",
+    "source": "www.ft.lk",
+    "snippet": "ICCSL in partnership with Daily FT, Daily Mirror, CA Sri Lanka, GPW Sri Lanka, HR Cornucopia, Job Enrich, PIBT, hSenid, ..",
+    "url": "https://www.ft.lk/hr/ICCSL-Daily-FT-webinar-tomorrow-on-Role-of-Education-Skills-and-HR-for-Lanka-s-Success/47-721789",
+    "url_hash": "995dccb7e65ee5d3664698266c312543",
+    "ut": 1629148129,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Daily FT",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "GPW Sri Lanka",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PIBT",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "hSenid",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "The Latest: New York City to require proof of COVID-19 shot",
     "source": "www.stamfordadvocate.com",
     "snippet": "NEW YORK \u2014 New York City will begin requiring proof of COVID-19 vaccinations on Tuesday for anyone wanting to partake in much of public life including dining at an indoor restaurant, working out at a gym or strolling through a museum.",
@@ -9032,6 +9091,52 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "Economic development at the cost of human lives no use: Rajitha",
+    "source": "www.dailymirror.lk",
+    "snippet": "Dr. Rajitha Senaratne said prioritisation of national economic development in line with the neo-liberal model at the cost of human lives would not bode well for Sri Lanka. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Economic-development-at-the-cost-of-human-lives-no-use-Rajitha/342-218427",
+    "url_hash": "6bf6c6eac92d45c9865b9bb471ae9873",
+    "ut": 1629155303,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rajitha Senaratne",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
+    "title": "The Latest: Wyoming governor won't bring back mask mandate",
+    "source": "www.stltoday.com",
+    "snippet": "Wyoming's governor says the state will not return to a statewide mask order or mandate vaccination against the coronavirus despite a resurgence of the virus.",
+    "url": "https://www.stltoday.com/news/national/the-latest-wyoming-governor-wont-bring-back-mask-mandate/article_12d19e70-80eb-5ae3-bf8a-6dd671270513.html",
+    "url_hash": "d8a8386d4c50ff0c099e8cfee7002abf",
+    "ut": 1629155324,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Wyoming",
+        "start_end": [
+          0,
+          1
         ]
       }
     ]
