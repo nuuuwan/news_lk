@@ -124,5 +124,134 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "The Latest: Alabama ICUs Near Capacity Amid COVID-19 Surge",
+    "source": "www.usnews.com",
+    "snippet": "MONTGOMERY, Alabama \u2014 Alabama's intensive care units are near capacity amid the state's surge in COVID-19 cases. The head of the Alabama Hospital Association says the state has 1,562 intensive care unit beds and 1,",
+    "url": "https://www.usnews.com/news/world/articles/2021-08-16/the-latest-europe-eyes-arthritis-drug-for-covid-19-cases",
+    "url_hash": "ab7a038d2ab1ab856ab82924f4fded51",
+    "ut": 1629160038,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Alabama",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Alabama",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Alabama Hospital Association",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,562",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "The Latest: New York City to require proof of COVID-19 shot",
+    "source": "www.sfgate.com",
+    "snippet": "New York City will begin requiring proof of COVID-19 vaccinations on Tuesday for anyone wanting to partake in much of public life including dining at an indoor restaurant, working out at a gym or strolling through a museum.",
+    "url": "https://www.sfgate.com/business/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "77cc2bf768e4a3589059c0eb4d335f71",
+    "ut": 1629160047,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New York City",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "The Latest: Alabama ICUs near capacity amid COVID-19 surge",
+    "source": "www.sfgate.com",
+    "snippet": "MONTGOMERY, Alabama \u2014 Alabama's intensive care units are near capacity amid the state's surge in COVID-19 cases. The head of the Alabama Hospital Association says the state has 1,562 intensive care unit beds and 1,",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "fa184c14f771b08d820a264c175cd34a",
+    "ut": 1629160047,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Alabama",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Alabama",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Alabama Hospital Association",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,562",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
   }
 ]
