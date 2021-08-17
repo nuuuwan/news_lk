@@ -1598,6 +1598,65 @@
   },
   {
     "date": "2021-08-17",
+    "title": "Message of H.E. I Gusti Ngurah Ardiyasa Ambassador of the Republic of Indonesia",
+    "source": "www.ft.lk",
+    "snippet": "August 2021 is a special day for Indonesian citizens all over the world for celebrating the 76th Anniversary of Indonesian Independence Day. On the same day in 1945, the first President of Indonesia Ir.",
+    "url": "https://www.ft.lk/advertorial/Message-of-H-E--I-Gusti-Ngurah-Ardiyasa-Ambassador-of-the-Republic-of-Indonesia/10529-721814",
+    "url_hash": "f389039ccec51f29f1d860474f29dd89",
+    "ut": 1629173312,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "August 2021",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indonesian",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indonesian",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the same day in 1945",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indonesia Ir",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "Tangible action to resolve teachers' principals' TU action: Dinesh",
     "source": "www.dailymirror.lk",
     "snippet": "Necessary steps will be taken to resolve the trade union action initiated by the teachers through discussions, new Education Minister Dinesh Gunawardena said. ..",
@@ -5368,6 +5427,57 @@
     "title": "Winning and losing in Geneva",
     "source": "www.ft.lk",
     "snippet": "Geneva, Rights and Sovereignty' Rajiva Wijesinha's new book 'Representing Sri Lanka' (S. Godage & Brothers) spans seven significant years of Sri Lanka's engagement with the international community, from 2007 to 2014.",
+    "url": "https://www.ft.lk/opinion/Winning-and-losing-in-Geneva/14-721821",
+    "url_hash": "2cedd319a3dc1bb5abfa56293c1e9fdb",
+    "ut": 1629223726,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "S. Godage & Brothers",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2007",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Winning and losing in Geneva",
+    "source": "www.ft.lk",
+    "snippet": "Geneva, Rights and Sovereignty' Rajiva Wijesinha's new book 'Representing Sri Lanka' (S. Godage & Brothers) spans seven significant years of Sri Lanka's engagement with the international community, from 2007 to 2014.",
     "url": "https://www.ft.lk/columns/Winning-and-losing-in-Geneva/4-721821",
     "url_hash": "59c2c99179ef483f6ccebe91f887a2eb",
     "ut": 1629223733,
@@ -5555,6 +5665,49 @@
         "start_end": [
           32,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Over 12",
+    "source": "dailynews.lk",
+    "snippet": "The Prime Minister Mahinda Rajapaksa today (15) stated that the Government has planned to vaccinate children over 12 years of age against COVID-19 and the programme in this regard will be initiated...",
+    "url": "https://dailynews.lk/tags/over-12",
+    "url_hash": "ceaf2d1cd4f5c6be3e4928340b03585d",
+    "ut": 1629237554,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over 12 years of age",
+        "start_end": [
+          18,
+          23
         ]
       }
     ]
