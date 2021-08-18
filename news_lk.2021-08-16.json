@@ -4068,6 +4068,49 @@
   },
   {
     "date": "2021-08-16",
+    "title": "The Latest: New Zealand has first local virus case in months",
+    "source": "news.yahoo.com",
+    "snippet": "New Zealand has detected its first community transmission of the coronavirus in months, triggering urgent meetings among top lawmakers. Prime Minister Jacinda Ardern has promised a tough approach, including possible lockdowns,",
+    "url": "https://news.yahoo.com/latest-germany-approves-vaccinations-over-100828842.html",
+    "url_hash": "4259e9190ebe84ff3f2a75efe3c91126",
+    "ut": 1629101304,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jacinda Ardern",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-16",
     "title": "Laugfs to resume Sri Lanka LP gas sales from Aug 20, still expects losses",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Laugfs Gas Plc, badly hit by price controls from the Consumer Affairs Authority said it had expected resume supplies to the domestic market on August 20, though it will still make losses at a raised controlled price.",
