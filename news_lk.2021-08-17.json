@@ -6146,6 +6146,33 @@
   },
   {
     "date": "2021-08-17",
+    "title": "Sri Lanka banks on vaccination to see it through delta surge",
+    "source": "www.wfmj.com",
+    "snippet": "Sri Lanka has seen an unprecedented rise in coronavirus patients and deaths. The country's latest wave of infections, which began in April, has been the mos",
+    "url": "https://www.wfmj.com/story/44533177/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge",
+    "url_hash": "d9ea9f44a4a84c5827d2115132d3ae82",
+    "ut": 1629213069,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "Following are the top foreign stories at 2030 hours",
     "source": "www.theweek.in",
     "snippet": "Hours after expressing hope that the Taliban will form an \"open and inclusive\" Islamic government and ensure a smooth transition in Afghanistan, China has warned the Afghan militant group against the country once again becoming a \"haven\" for terrorists.",
@@ -6379,6 +6406,41 @@
         "start_end": [
           23,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "COVID: 2,663 more people test positive in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "As many as 2,663 persons have tested positive for coronavirus so far today (August 17), the Ministry of Health confirmed",
+    "url": "http://www.adaderana.lk/news.php?nid=76227",
+    "url_hash": "670b9e62df1647c474cbe7c2aaea1755",
+    "ut": 1629220269,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "As many as 2,663",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 17",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          18,
+          22
         ]
       }
     ]
