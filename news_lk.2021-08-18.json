@@ -170,6 +170,57 @@
   },
   {
     "date": "2021-08-18",
+    "title": "Beruwela Base Hospital converted into ICU COVID Centre",
+    "source": "www.msn.com",
+    "snippet": "The Beruwala Base Hospital (BBH) has been converted into a 30-bed fully equipped ICU COVID Centre by the China Fort Mosque Society.The facility which costs Rs 7.5 million, generated from donations from philanthropists from the area,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/beruwela-base-hospital-converted-into-icu-covid-centre/ar-AANsG7j",
+    "url_hash": "89ff7631d1ff0f5db95bbc1ff852a816",
+    "ut": 1629245329,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Beruwala Base Hospital",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICU COVID Centre",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the China Fort Mosque Society",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Rs 7.5 million",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Keep all Parties informed of COVID control measures - UNP Leader",
     "source": "www.msn.com",
     "snippet": "United National Party Leader, MP Ranil Wickremesinghe has requested President Gotabaya Rajapaksa yesterday (17) to keep all political parties informed of the actions being taken by the Government regarding the COVID-19 pandemic.",
@@ -324,6 +375,41 @@
     "url": "https://www.dailymirror.lk/news-features/Mandatory-vaccination-cards-%3A-Working-professionals--rights-activists-question-rule-by-order/131-218465",
     "url_hash": "0790a2b89967de07ca4215a0e8b7f93d",
     "ut": 1629248891,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Government of",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "GoSL",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Mandatory vaccination cards : Working professionals, rights activists question rule by order",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government of Sri Lanka (GoSL) recently announced that carrying the vaccination card will be made mandatory for people..... ..",
+    "url": "https://www.dailymirror.lk/recomended-news/Mandatory-vaccination-cards-Working-professionals-rights-activists-question-rule-by-order/277-218465",
+    "url_hash": "3634b597ae5ecc9b3abf73f2d4714c7c",
+    "ut": 1629248908,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -2513,6 +2599,41 @@
   },
   {
     "date": "2021-08-18",
+    "title": "The Latest: US health officials call for virus booster shots",
+    "source": "www.texomashomepage.com",
+    "snippet": "U.S. health officials are recommending all Americans get COVID-19 booster shots. The plan, as outlined by the director of the Centers for Disease Control and Prevention and other top",
+    "url": "https://www.texomashomepage.com/news/health/the-latest-pope-appears-in-video-promoting-vaccination/",
+    "url_hash": "8e0e35165ce76c2584d5480aedcef899",
+    "ut": 1629266941,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Centers for Disease Control and Prevention",
+        "start_end": [
+          21,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Sri Lanka to purchase 14 mn Sinopharm, 9 mn Pfizer doses to vaccinate over-18s",
     "source": "economynext.com",
     "snippet": "Sri Lanka's cabinet of ministers have approved a proposal to purchase nine million doses of Sinopharm and 14 million doses of Pfizer-BioNTech to vaccinate the over-18 population by end of September 2021.",
@@ -4048,6 +4169,41 @@
   },
   {
     "date": "2021-08-18",
+    "title": "Health Ministry issues new health guidelines",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Health Ministry today issued a set of new health guidelines to be followed by the general public until August 31. ..",
+    "url": "https://www.dailymirror.lk/top_story/Health-Ministry-issues-new-health-guidelines/155-218520",
+    "url_hash": "8c669e6056f30c8bd19993d606180061",
+    "ut": 1629288508,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 31",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Sri Lanka to import Pakistan rice, establish mills after failed price stability efforts",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - After repeated failure to maintain lower rice prices, Sri Lanka is now looking to import 6,000 metric tons of rice from Pakistan to overcome shortage in the short term and establish five modern rice mills in five major rice producing districts in the near future.",
@@ -4341,6 +4497,52 @@
   },
   {
     "date": "2021-08-18",
+    "title": "First dose of Sputnik-V highly immunogenic, new research funds out",
+    "source": "www.dailymirror.lk",
+    "snippet": "A new research carried out by a team of world renowned scientists including two local scientists and researchers from Ministry of Health has determined that the single dose of Sputnik-V is highly immunogenic.",
+    "url": "https://www.dailymirror.lk/breaking_news/First-dose-of-Sputnik-V-highly-immunogenic-new-research-funds-out/108-218521",
+    "url_hash": "eadf2245f3f94146f7a1c7044473a749",
+    "ut": 1629295708,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ministry of Health",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "9 Most Beautiful Sunrises In The World",
+    "source": "www.travelawaits.com",
+    "snippet": "Hey, early birds! Here are the best places to see the most beautiful sunrises in the world, according to TravelAwaits writers.",
+    "url": "https://www.travelawaits.com/2688458/best-sunrises/",
+    "url_hash": "33d98db1e83e446705fee5e95e1ec2ea",
+    "ut": 1629295716,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "TravelAwaits",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Sri Lanka's new cabinet spox admits teachers' salary below kottu maker, non-academic staff",
     "source": "economynext.com",
     "snippet": "Sri Lanka's newly appointed cabinet spokesman and media minister Dullas Alahapperuma, who proposed the salary increase for teachers when he was the education minister last year, admitted that teachers' salaries are below the wage of non-academic staff and kottu makers.",
@@ -4413,6 +4615,154 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: US health officials call for virus booster shots",
+    "source": "apnews.com",
+    "snippet": "U.S. health officials are recommending all Americans get COVID-19 booster shots. The plan, as outlined by the director of the Centers for Disease Control and Prevention and other top health authorities,",
+    "url": "https://apnews.com/article/europe-business-health-religion-coronavirus-pandemic-0801c217c6d2bbfa36f4e253f86ec42b",
+    "url_hash": "314227322f47e9af533c84a63f8046c3",
+    "ut": 1629299325,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Centers for Disease Control and Prevention",
+        "start_end": [
+          21,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: Texas schools amend dress code to require masks",
+    "source": "www.registercitizen.com",
+    "snippet": "A Texas school district is amending its dress code to require masks in hopes of sidestepping Gov. Greg Abbott's executive order banning mask mandates. The Paris Independent School District's board of trustees voted to require masks as part of its dress code when classes begin Thursday.",
+    "url": "https://www.registercitizen.com/news/article/The-Latest-Pope-appears-in-video-promoting-16394362.php",
+    "url_hash": "d6088e9e29d189894fc45c5f626060a5",
+    "ut": 1629299325,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Greg Abbott",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Paris Independent School District's",
+        "start_end": [
+          26,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Sri Lanka stocks surge on export-led shares after rupee fall",
+    "source": "economynext.com",
+    "snippet": "Sri Lank stock jumped 2.56 percent on Wednesday led by Expolanka, Commercial Leasing and Finance, and LOLC Holdings",
+    "url": "https://economynext.com/sri-lanka-stocks-surge-on-export-led-shares-after-rupee-fall-85167/",
+    "url_hash": "a1d655460d016dcbf7b0a5ae789011f3",
+    "ut": 1629299333,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lank",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "2.56 percent",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Expolanka, Commercial Leasing",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LOLC Holdings",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Nihal Thalduwa",
+    "source": "dailynews.lk",
+    "snippet": "Attorney-at-Law Nihal Thalduwa has been appointed as the new Police Media Spokesman, confirmed the Senior DIG Ajith Rohana.******************",
+    "url": "https://dailynews.lk/tags/nihal-thalduwa",
+    "url_hash": "89e4bb10ffa27e2ad19adf3cb8254b15",
+    "ut": 1629300332,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Police Media Spokesman",
+        "start_end": [
+          13,
+          16
         ]
       }
     ]
