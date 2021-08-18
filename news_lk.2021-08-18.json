@@ -4989,6 +4989,25 @@
   },
   {
     "date": "2021-08-18",
+    "title": "The Latest: WHO: Warns against boosters before 1st vaccines",
+    "source": "www.yahoo.com",
+    "snippet": "The chief scientist of the World Health Organization is warning of \"even more dire situations\" worldwide in the coronavirus pandemic if high-income countries start administering vaccine boosters ahead of poorer countries without vaccines.",
+    "url": "https://www.yahoo.com/news/latest-pope-appears-video-promoting-061551041.html",
+    "url_hash": "a0d043ab7cfbc2036f5bd646d26287cf",
+    "ut": 1629302939,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the World Health Organization",
+        "start_end": [
+          4,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "APIDM launches its most sought-after Digital Marketing Diploma in Cambodia",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Revolutionizing the global Digital Marketing industry, the Asia Pacific Institute of Digital Marketing (APIDM), Sri Lanka's leading digital marketing skills training provider took a giant step forward to make its most sought-after Digital Marketing course available to overseas.",
@@ -5096,6 +5115,162 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Taliban militants violently disperse rare Afghan protest",
+    "source": "www.lmtonline.com",
+    "snippet": "Taliban militants attacked protesters Wednesday in eastern Afghanistan who dared to take down their banner and replace it with the country's flag, killing at least one person and fueling fears about how the insurgents would govern this fractious nation.",
+    "url": "https://www.lmtonline.com/news/article/Taliban-destroy-statue-of-Shiite-foe-from-1990s-16394440.php",
+    "url_hash": "1103f60153544e812fedd0e49bb98ae9",
+    "ut": 1629306523,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least one",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Sri Lanka to probe COVID-19 data cook up allegation",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's newly appointed health minister will look into alleged manipulation of data related to COVID-19 deaths and cases, a cabinet spokesman said on Wednesday (18) after regional data showed significant discrepancies with national data released by the health ministry.",
+    "url": "https://economynext.com/sri-lanka-to-probe-covid-19-data-cook-up-allegation-85168/",
+    "url_hash": "5768ea0d62e2122500033e1b4a261492",
+    "ut": 1629306771,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "18",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "I.R.Garusinghe",
+    "source": "dailynews.lk",
+    "snippet": "Three students who had come to bathe in the Katugalagalge tank on the Badalkumbura road in Buttala have drowned.Buttala Police said the deceased have been identified as students studying at the...",
+    "url": "https://dailynews.lk/line/irgarusinghe",
+    "url_hash": "8ec20fef8dc682530872e64551460ddd",
+    "ut": 1629307050,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Katugalagalge",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Badalkumbura",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Buttala",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Buttala Police",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "When the Taliban ruled Afghanistan, soccer was often replaced by public executions",
+    "source": "www.infobae.com",
+    "snippet": "Concern and anguish, especially among female athletes, at the return of one of the most oppressive and brutal regimes of the last decades",
+    "url": "https://www.infobae.com/aroundtherings/articles/2021/08/18/when-the-taliban-ruled-afghanistan-soccer-was-often-replaced-by-public-executions/",
+    "url_hash": "da5c799d3bb8704465561c3e9b086843",
+    "ut": 1629308623,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last decades",
+        "start_end": [
+          22,
+          25
         ]
       }
     ]
