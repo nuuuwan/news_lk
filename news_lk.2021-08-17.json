@@ -5195,6 +5195,49 @@
   },
   {
     "date": "2021-08-17",
+    "title": "Sri Lanka Banks on Vaccination to See It Through Delta Surge",
+    "source": "thediplomat.com",
+    "snippet": "When the 51-year-old tutor suffered a heart attack in late July, his loved ones rushed him to a nearby hospital in a suburb of Sri Lanka's capital, Colombo. But as his condition deteriorated over the next few hours,",
+    "url": "https://thediplomat.com/2021/08/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge/",
+    "url_hash": "c289c748a2e8311cf4913a8bbef205d0",
+    "ut": 1629202128,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "51-year-old",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late July",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the next few hours",
+        "start_end": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "COVID: 2,663 more people test positive in Sri Lanka",
     "source": "www.adaderana.lk",
     "snippet": "As many as 2,663 persons have tested positive for coronavirus so far today (August 17), the Ministry of Health confirmed",
@@ -5455,6 +5498,57 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Biodiversity and business: What can be learnt from the Sri Lankan tea industry",
+    "source": "global.chinadaily.com.cn",
+    "snippet": "Biodiversity and historical developments in the tea industry. In its history of more than 2,500 years, Sri Lanka has been colonised by three European nations from the 16th century",
+    "url": "http://global.chinadaily.com.cn/a/202108/17/WS611b7da5a310efa1bd6695e9_2.html",
+    "url_hash": "e90eb98de47fa36cf2813dc07c142e0d",
+    "ut": 1629205728,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "more than 2,500 years",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "European",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 16th century",
+        "start_end": [
+          28,
+          31
         ]
       }
     ]

@@ -799,6 +799,25 @@
   },
   {
     "date": "2021-08-18",
+    "title": "Cinema: A local industry that is not an industry",
+    "source": "www.dailymirror.lk",
+    "snippet": "The cinema industry is not even a real industry in our country,\" agreed all three guests who participated in a discussion on the future.... ..",
+    "url": "https://www.dailymirror.lk/insight/Cinema-A-local-industry-that-is-not-an-industry/374-218466",
+    "url_hash": "7ea7298962a5ee8692e727a9024881f5",
+    "ut": 1629252518,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Album relating to voyages 27 to 31 on the ship Crusader",
     "source": "natlib.govt.nz",
     "snippet": "A travel album compiled by John Horsman, chiefly relating to his work as a radio operator on the vessel 'Crusader' GXGN between March 1962 and",
@@ -2413,6 +2432,41 @@
   },
   {
     "date": "2021-08-18",
+    "title": "Cabinet nod to import rice from Pakistan to address rice shortage",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cabinet of Ministers has approved the proposal submitted to import 6,000 metric tons of rice immediately from Pakistan. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-nod-to-import-rice-from-Pakistan-to-address-rice-shortage/108-218511",
+    "url_hash": "00a106848ed828042ee62b0b7b7207a0",
+    "ut": 1629270518,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Cabinet of Ministers",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "6,000 metric tons",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Sri Lanka replaces health minister said to promote shaman's herbal syrup as a Covid remedy",
     "source": "www.msn.com",
     "snippet": "Under the tenure of Health Minister Pavithra Wanniarachchi, the ministry was criticized over its handling of the pandemic.",
@@ -2663,6 +2717,65 @@
   },
   {
     "date": "2021-08-18",
+    "title": "Govt approves procurement of 9 Mn Sinopharm, 14 Mn Pfizer doses for 18 to 30 yr olds",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government has approved the purchase of nine million doses of Sinopharm and 14 million doses of Pfizer at the unit price and it has been decided to vaccinate all people over 18 years of age by September 30 in order to reduce the impact of the COVID-19 pandemic.",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-approves-procurement-of-9-Mn-Sinopharm-14-Mn-Pfizer-doses-for-18-to-30-yr-olds/342-218512",
+    "url_hash": "58c1717cd88b0e8ac445fb1a56303e2a",
+    "ut": 1629274118,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "nine million",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14 million",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "18 years of age",
+        "start_end": [
+          32,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 30",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Vaccine hoarding inhibits global recovery",
     "source": "www.worldfinance.com",
     "snippet": "Wealthier countries are buying their way to a fully vaccinated population while others fall behind. Developing countries desperately need support if we are to bring an end to the global pandemic for e",
@@ -2796,6 +2909,92 @@
         "start_end": [
           40,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "EFL 40th Anniversary: Celebrating milestones and looking to the future together",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Sri Lanka's first public interest organization working on environmental protection and conservation celebrated its 40th anniversary on 3rd August. Speaking to mark this special occasion Dr. Eric Wikramanayake,",
+    "url": "http://bizenglish.adaderana.lk/efl-40th-anniversary-celebrating-milestones-and-looking-to-the-future-together/",
+    "url_hash": "a20bf51c84e5d74fefb9a46fa5235224",
+    "ut": 1629277728,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "40th anniversary",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "3rd",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Eric Wikramanayake",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Sri Lanka to import 480,000 litres of liquid oxygen as COVID-19 surges",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka cabinet of ministers have approved a proposal to import 360,000 litres of liquid medicinal oxygen in addition to previously approved 120,000 litres as the demand for oxygen increases with the ongoing surge in COVID-19 cases,",
+    "url": "https://economynext.com/sri-lanka-to-import-480000-litres-of-liquid-oxygen-as-covid-19-surges-85159/",
+    "url_hash": "8285d67fa105e97f00ef3019ae75ace2",
+    "ut": 1629278349,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "360,000",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "120,000",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]
