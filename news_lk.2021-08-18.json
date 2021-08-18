@@ -700,6 +700,49 @@
   },
   {
     "date": "2021-08-18",
+    "title": "SL probing implications of new identified delta mutations and what lies ahead",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's health experts have launched a probe to identify the implications of the three new mutations of the Delta variant found mainly from Colombo and if it is more contagious than the original Delta variant which itself is fast spreading in the country.",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-probing-implications-of-new-identified-delta-mutations-and-what-lies-ahead/108-218464",
+    "url_hash": "fc6028c7166dc9c247ad599874d91fc5",
+    "ut": 1629252480,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "$250M currency swap with Bangladesh: Sri Lanka gets first tranche of $50m this week",
     "source": "www.dailymirror.lk",
     "snippet": "The central bank of Bangladesh will lend $50 million to under-pressure Sri Lanka this week as part of Bangladesh's efforts to support the Island nation suffering from a foreign exchange crisis. ..",
@@ -5933,12 +5976,117 @@
   },
   {
     "date": "2021-08-18",
+    "title": "The Latest: AP Source: Shots required for nursing home staff",
+    "source": "www.fairfieldcitizenonline.com",
+    "snippet": "Hundreds of thousands of nursing home workers are not vaccinated, according to federal data. That's despite those facilities bearing the brunt of the early COVID-19 outbreak and their workers being among the first in the country eligible for shots.",
+    "url": "https://www.fairfieldcitizenonline.com/news/article/The-Latest-Pope-appears-in-video-promoting-16394362.php",
+    "url_hash": "0c96abf7c8ad420342445ee4dfa6264f",
+    "ut": 1629313696,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Hundreds of thousands",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "The Latest: AP Source: Disney World tweaks outdoor mask rule",
     "source": "www.centredaily.com",
     "snippet": "Disney World is tweaking its face mask policy. Starting Thursday, the theme park resort in Florida will allow visitors to chose whether or not to wear face coverings in outdoor lines, outdoor theaters and outdoor attractions.",
     "url": "https://www.centredaily.com/entertainment/celebrities/article253565809.html",
     "url_hash": "83f41e4661b0b6bb1f6e569d0f73bd5b",
     "ut": 1629313699,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Disney World",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: AP Source: Shots required for nursing home staff",
+    "source": "madison.com",
+    "snippet": "WASHINGTON \u2014 The Biden administration will require that nursing home staff are vaccinated against COVID-19 as a condition for those facilities to continue receiving federal Medicare and Medicaid funding.",
+    "url": "https://madison.com/news/national/the-latest-ap-source-shots-required-for-nursing-home-staff/article_41c72f6f-b1fd-5aad-beee-466f7e09a97d.html",
+    "url_hash": "f4d02b27ec3a200b33aeb6379b9f1fe6",
+    "ut": 1629313700,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicare",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicaid",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: AP Source: Disney World tweaks outdoor mask rule",
+    "source": "www.theolympian.com",
+    "snippet": "Disney World is tweaking its face mask policy. Starting Thursday, the theme park resort in Florida will allow visitors to chose whether or not to wear face coverings in outdoor lines, outdoor theaters and outdoor attractions.",
+    "url": "https://www.theolympian.com/entertainment/celebrities/article253565809.html",
+    "url_hash": "6bdd37bf38e949a1a2dc55a3b2e91381",
+    "ut": 1629313700,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -6224,6 +6372,41 @@
   },
   {
     "date": "2021-08-18",
+    "title": "The Latest: AP Source: Disney World tweaks outdoor mask rule",
+    "source": "accesswdun.com",
+    "snippet": "Disney World is tweaking its face mask policy. Starting Thursday, the theme park resort in Florida will allow visitors to chose whether or not to wear face coverings in outdoor lines, outdoor theaters and outdoor attractions.",
+    "url": "https://accesswdun.com/article/2021/8/1031717",
+    "url_hash": "b48f0c2b0f737defb3782e888a5071ea",
+    "ut": 1629317296,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Disney World",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "The Latest: Biden says booster shots could begin next month",
     "source": "www.startribune.com",
     "snippet": "President Joe Biden said that coronavirus booster shots will be available starting the week of September 20, pending approval by the FDA.",
@@ -6362,6 +6545,100 @@
     "url": "http://www.msn.com/en-ca/news/canada/the-latest-ap-source-maryland-enacts-hospital-vaccine-rule/ar-AANt6A0",
     "url_hash": "2310ea66c5d3666df75b1039e78b9fcb",
     "ut": 1629319595,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Maryland",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Larry Hogan",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "227",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Afghanistan's darkest hour!",
+    "source": "www.dailymirror.lk",
+    "snippet": "Joe Biden was a mythic hero for some quarters at home and abroad since he defeated his predecessor Donald Trump and began reversing some of Mr Trump's controversial policies. ..",
+    "url": "https://www.dailymirror.lk/opinion/Afghanistans-darkest-hour/172-218528",
+    "url_hash": "d26eef96b93048c9ee73c27145c93707",
+    "ut": 1629320880,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "some quarters",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Donald Trump",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Trump",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: AP Source: Maryland enacts hospital vaccine rule",
+    "source": "www.mysanantonio.com",
+    "snippet": "All workers at Maryland hospitals and nursing homes will be required to get vaccinated or submit to regular coronavirus testing, Republican Gov. Larry Hogan announced Wednesday. The requirement affects the state's 227 nursing homes and all hospital systems,",
+    "url": "https://www.mysanantonio.com/news/article/The-Latest-Pope-appears-in-video-promoting-16394362.php",
+    "url_hash": "aa369ba608469b7cf539a6c4b46a4e40",
+    "ut": 1629320896,
     "ent_info_list": [
       {
         "label": "GPE",
