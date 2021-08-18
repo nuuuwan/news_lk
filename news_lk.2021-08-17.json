@@ -4096,6 +4096,81 @@
   },
   {
     "date": "2021-08-17",
+    "title": "The Latest: New Zealand has first local virus case in months",
+    "source": "www.seattlepi.com",
+    "snippet": "WELLINGTON, New Zealand \u2014 New Zealand has detected its first community transmission of the coronavirus in months, triggering urgent meetings among top lawmakers. Health officials say the positive case was found in Auckland on Tuesday afternoon and has no known link to outside the country.",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Germany-approves-vaccinations-for-16389413.php",
+    "url_hash": "72391dc8caf077e81c6b38bd5e0e5857",
+    "ut": 1629194893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WELLINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "afternoon",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
     "title": "Emergence of new COVID variant at end 2021, could bypass immunity created by current vaccination: GMOA",
     "source": "www.dailymirror.lk",
     "snippet": "The most dangerous threat that Sri Lanka may face is the potential for an emergence new severe COVID virus strain by the end of 2021, that would bypass the immunity created by the current vaccination programme,",
@@ -5756,6 +5831,57 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-17",
+    "title": "Among France's poorest, once-lagging vaccine rates jump",
+    "source": "www.sfgate.com",
+    "snippet": "Manuela Buval, 53, was waiting for her teenage son, who was getting his first vaccine shot Friday in a public park in Le Bourget. \"Everybody in the neighborhood walks through the park ... whether on their way to work or to come play with their children,",
+    "url": "https://www.sfgate.com/news/article/Among-France-s-poorest-once-lagging-vaccine-16391627.php",
+    "url_hash": "6b10c7a6dc136e39d81839c49c39ded0",
+    "ut": 1629212893,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Manuela Buval",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "53",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Le Bourget",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]

@@ -2354,6 +2354,65 @@
   },
   {
     "date": "2021-08-18",
+    "title": "Sri Lanka to purchase 14 mn Sinopharm, 9 mn Pfizer doses to vaccinate over-18s",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's cabinet of ministers have approved a proposal to purchase nine million doses of Sinopharm and 14 million doses of Pfizer-BioNTech to vaccinate the over-18 population by end of September 2021.",
+    "url": "https://economynext.com/sri-lanka-to-purchase-14-mn-sinopharm-9-mn-pfizer-doses-to-vaccinate-over-18s-85151/",
+    "url_hash": "b6151f9e42386deebb23d52cada2987f",
+    "ut": 1629270483,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine million",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14 million",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pfizer-BioNTech",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over-18",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Sri Lanka replaces health minister said to promote shaman's herbal syrup as a Covid remedy",
     "source": "www.msn.com",
     "snippet": "Under the tenure of Health Minister Pavithra Wanniarachchi, the ministry was criticized over its handling of the pandemic.",
@@ -2555,6 +2614,188 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Reports claiming Mangala has succumbed to COVID-19 are false",
+    "source": "www.dailymirror.lk",
+    "snippet": "Social Media reports claiming that former MP Mangala Samaraweera has passed away after battling COVID19 are false, his colleagues confirmed to Daily Mirror a short while ago. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Reports-claiming-Mangala-has-succumbed-to-COVID-19-are-false/342-218510",
+    "url_hash": "4bd55151691c31b8dc3a999abc91bddb",
+    "ut": 1629274075,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Social Media",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "COVID19",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Vaccine hoarding inhibits global recovery",
+    "source": "www.worldfinance.com",
+    "snippet": "Wealthier countries are buying their way to a fully vaccinated population while others fall behind. Developing countries desperately need support if we are to bring an end to the global pandemic for e",
+    "url": "https://www.worldfinance.com/markets/vaccine-hoarding-inhibits-global-recovery",
+    "url_hash": "6163e2eab9a0820e1a6694f1799005c2",
+    "ut": 1629274143,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Licensed Banks have not been asked to \"Devalue\" the Sri Lanka Rupee",
+    "source": "dailynews.lk",
+    "snippet": "Issuing a statement the Central Bank of Sri Lanka (CBSL) refutes the claims that it has requested licensed banks to 'devalue' the Sri Lankan Rupee. It stated, \"the Central Bank of Sri Lanka (CBSL) has observed messages being circulated claiming that licensed banks have been officially asked to devalue the Sri Lanka rupee with immediate effect.",
+    "url": "http://dailynews.lk/2021/08/18/business/256990/licensed-banks-have-not-been-asked-%E2%80%9Cdevalue%E2%80%9D-sri-lanka-rupee",
+    "url_hash": "89d8acecb2b9009c041c56671557fb59",
+    "ut": 1629275039,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          3,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          34,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          59,
+          61
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Pope Francis urges people to get vaccinated against COVID",
+    "source": "dailynews.lk",
+    "snippet": "The Pope has joined his voice to those of Bishops across North and South America to urge people to get jabbed against Covid-19. In a video message produced in conjunction with the Ad Council, Pope Francis praised the work of researchers and scientists in producing safe and effective Covid-19 vaccines.",
+    "url": "https://dailynews.lk/2021/08/18/world/256991/pope-francis-urges-people-get-vaccinated-against-covid",
+    "url_hash": "82b5b0664b30b218346c89035b005440",
+    "ut": 1629275459,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pope",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "North and South America",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ad Council",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pope Francis",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Lahiru Thirimanne joins Sri Lankan legends in Australia - Nation Today: Sri Lankan News",
+    "source": "www.islandcricket.lk",
+    "snippet": "Mulgrave Cricket Club has announced the signing of Sri Lanka's Test opener Lahiru Thirimanne for their season. In a statement, Mulgrave Cricket Club said, \"Mulgrave Cricket Club are thrilled to announce the signing of current Sri Lankan international,",
+    "url": "https://www.islandcricket.lk/news/lahiru-thirimanne-joins-sri-lankan-legends-in-australia-nation-today-sri-lankan-news/",
+    "url_hash": "16fe74a414b115fb0067dd3e67c5709c",
+    "ut": 1629275463,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lahiru Thirimanne",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "season",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mulgrave Cricket Club",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          40,
+          42
         ]
       }
     ]
