@@ -7519,6 +7519,49 @@
   },
   {
     "date": "2021-08-18",
+    "title": "The Latest: AP Source: Shots required for nursing home staff",
+    "source": "www.wfmj.com",
+    "snippet": "WASHINGTON \u2014 The Biden administration will require that nursing home staff are vaccinated against COVID-19 as a condition for those facilities to continue receiving federal Medicare and Medicaid funding.",
+    "url": "https://www.wfmj.com/story/44543655/the-latest-ap-source-disney-world-tweaks-outdoor-mask-rule",
+    "url_hash": "943236652bc152b383133a8d406863f2",
+    "ut": 1629320924,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicare",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicaid",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Superspreaders galore!",
     "source": "www.dailymirror.lk",
     "snippet": "The Coronavirus has changed the world. It has transformed lifestyles. It has forced a re-think on a wide range of activities and things we have taken for granted. ..",
@@ -8505,6 +8548,25 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Self-lockdown...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Colombo Fort looked deserted with some shop owners going for a self-lockdown closing their shops. Pix by Pradeep Dilruckshana ..",
+    "url": "https://www.dailymirror.lk/caption_story/Self-lockdown/110-218583",
+    "url_hash": "4d7c35d2631f06325a577a51e9607b56",
+    "ut": 1629328103,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Colombo Fort",
+        "start_end": [
+          0,
+          2
         ]
       }
     ]
