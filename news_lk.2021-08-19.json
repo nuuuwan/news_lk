@@ -36,6 +36,127 @@
   },
   {
     "date": "2021-08-19",
+    "title": "Frud Bezhan",
+    "source": "dailynews.lk",
+    "snippet": "The situation in the Afghan capital, Kabul, is changing rapidly as the Taliban has moved into the city and taken over parts of it, including the Presidential Palace. This happened as Afghan...",
+    "url": "https://dailynews.lk/line/frud-bezhan",
+    "url_hash": "cb098f3993f668a7865e7ac3859f13aa",
+    "ut": 1629332024,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Presidential Palace",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "The Latest: Louisiana education hearing ended by maskless",
+    "source": "www.mysanantonio.com",
+    "snippet": "BATON ROUGE, La. \u2014 Louisiana's top school board ended debate about whether Gov. Bel Edwards' mask mandate for schools should be challenged after a raucous crowd of angry parents packed the hearing room and refused to put on face coverings.",
+    "url": "https://www.mysanantonio.com/business/article/The-Latest-Pope-appears-in-video-promoting-16394362.php",
+    "url_hash": "0234d5ce2b2334867d4249c49d6e52c3",
+    "ut": 1629332036,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "La.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Louisiana",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bel Edwards",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "The Latest: US suggests world leaders leaders skip UN trip",
+    "source": "www.registercitizen.com",
+    "snippet": "California will tighten its rules for indoor events next month, requiring either proof of vaccination or a negative coronavirus test for gatherings of 1,000 people or more as new cases continue to climb because of the delta variant.",
+    "url": "https://www.registercitizen.com/news/article/The-Latest-Pope-appears-in-video-promoting-16394362.php",
+    "url_hash": "d6088e9e29d189894fc45c5f626060a5",
+    "ut": 1629332036,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "California",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,000",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
     "title": "Sri Lanka Day 2021 goes virtual on August 20",
     "source": "www.msn.com",
     "snippet": "When the annual Sri Lanka Day was celebrated in the historic city of Pasadena in 2019, the thousands of visitors who filed along the historic route of the New Year's Day Rose Parade gasped in amazement as they watched the 'Pageant of Lanka,",
@@ -312,6 +433,57 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "The Latest: AP Source: Maryland enacts hospital vaccine rule",
+    "source": "www.mysanantonio.com",
+    "snippet": "All workers at Maryland hospitals and nursing homes will be required to get vaccinated or submit to regular coronavirus testing, Republican Gov. Larry Hogan announced Wednesday. The requirement affects the state's 227 nursing homes and all hospital systems,",
+    "url": "https://www.mysanantonio.com/news/article/The-Latest-Pope-appears-in-video-promoting-16394362.php",
+    "url_hash": "aa369ba608469b7cf539a6c4b46a4e40",
+    "ut": 1629337196,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Maryland",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Larry Hogan",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "227",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
