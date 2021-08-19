@@ -5468,6 +5468,25 @@
   },
   {
     "date": "2021-08-18",
+    "title": "The Latest: WHO: Warns against boosters before 1st vaccines",
+    "source": "www.stltoday.com",
+    "snippet": "GENEVA \u2014 The chief scientist of the World Health Organization is warning of \"even more dire situations\" worldwide in the coronavirus pandemic if high-income countries start administering vaccine boost",
+    "url": "https://www.stltoday.com/news/world/the-latest-who-warns-against-boosters-before-1st-vaccines/article_b9b185b0-975d-541a-84bf-3f6dfd43cb12.html",
+    "url_hash": "7d7987bfb545117f404adf73cb283a7d",
+    "ut": 1629302903,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the World Health Organization",
+        "start_end": [
+          6,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "The Latest: WHO: Warns Against Boosters Before 1st Vaccines",
     "source": "www.usnews.com",
     "snippet": "The chief scientist of the World Health Organization is warning of \"even more dire situations\" in the coronavirus pandemic if high-income countries start administering booster vaccines ahead of poorer countries without vaccines.",
@@ -5869,6 +5888,33 @@
       {
         "label": "DATE",
         "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Baurs to put together scientific and practical plan for Sri Lanka's agri-ecosystem",
+    "source": "www.ft.lk",
+    "snippet": "A. Baur & Co. Ltd. yesterday announced that it would share scientific and practical solutions for the country's farming industry to successfully master the conversion from conventional to organic, backed by scientific evidence and sound knowledge drawing from both professional and practical experiences.",
+    "url": "https://www.ft.lk/agriculture/Baurs-to-put-together-scientific-and-practical-plan-for-Sri-Lanka-s-agri-ecosystem/31-721891",
+    "url_hash": "24da0444cf8ea0121155fc5902f508df",
+    "ut": 1629310108,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "A. Baur & Co. Ltd.",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
         "start_end": [
           5,
           6
@@ -6288,6 +6334,41 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: AP Source: Shots required for nursing home staff",
+    "source": "accesswdun.com",
+    "snippet": "The Biden administration will require that nursing home staff are vaccinated against COVID-19 as a condition for those facilities to continue receiving federal Medicare and Medicaid funding",
+    "url": "https://accesswdun.com/article/2021/8/1031703",
+    "url_hash": "d8c8c963fd3527a77768a7919fddda59",
+    "ut": 1629313703,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicare",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicaid",
+        "start_end": [
+          25,
+          26
         ]
       }
     ]
@@ -6899,6 +6980,41 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: Biden says booster shots could begin next month",
+    "source": "accesswdun.com",
+    "snippet": "President Joe Biden says that coronavirus booster shots will be available starting the week of September 20, pending approval by the FDA",
+    "url": "https://accesswdun.com/article/2021/8/1031744",
+    "url_hash": "c84e1651159bbf605e0f4576e60861b0",
+    "ut": 1629320903,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the week of September 20",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]

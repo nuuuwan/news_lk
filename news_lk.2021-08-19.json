@@ -388,6 +388,41 @@
   },
   {
     "date": "2021-08-19",
+    "title": "Hela Bodhu Saviya offers to conduct online final rites for Covid victims",
+    "source": "www.dailymirror.lk",
+    "snippet": "An organisation called Hela Bodhu Saviya has offered to conduct the final rites of Buddhist Covid victims through Zoom technology. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Hela-Bodhu-Saviya-offers-to-conduct-online-final-rites-for-Covid-victims/108-218556",
+    "url_hash": "f896ccbd33570df6c12984bc14780b05",
+    "ut": 1629335286,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Hela Bodhu Saviya",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Zoom",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
     "title": "The Latest: Biden says booster shots could begin next month",
     "source": "www.middletownpress.com",
     "snippet": "President Joe Biden said that coronavirus booster shots will be available starting the week of September 20, pending approval by the FDA. The shots will be free and will be provided to people eight months after they received their second shot of the vaccine,",
@@ -484,6 +519,135 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Sri Lanka central bank raises overnight rate 50bp as forex reserves run low",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank has raised an overnight rate by 50 basis points to 6.0 percent at its monetary policy meeting in August, as it runs out of foreign reserves due to liquidity injected through ceiling Treasuries yields which act as de facto policy rate.",
+    "url": "https://economynext.com/sri-lanka-central-bank-raises-overnight-rate-50bp-as-forex-reserves-run-low-85171/",
+    "url_hash": "ffe46c3bac9e288493552bad46bb2671",
+    "ut": 1629338912,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "overnight",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "50",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "6.0 percent",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Navy takes hold of smuggled dried turmeric stock with a suspect in Kalpitiya",
+    "source": "www.news.lk",
+    "snippet": "Sri Lanka Navy seized about 370kg of smuggled dried turmeric stock with a suspect, during a special operation conducted on Kilitivu Island in Kalpitiya lagoon on 17th August 2021. Sri Lanka Navy has been conducting regular operations in island waters in a bid to foil smuggling attempts being made",
+    "url": "https://www.news.lk/news/political-current-affairs/item/32766-navy-takes-hold-of-smuggled-dried-turmeric-stock-with-a-suspect-in-kalpitiya",
+    "url_hash": "49c6d3e84bb41d8d2d1155dc1733a181",
+    "ut": 1629340454,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 370kg",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Kilitivu Island",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kalpitiya",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17th August 2021",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Municipal Council",
+    "source": "dailynews.lk",
+    "snippet": "Mayor of the Colombo Municipal Council Rosy Senanayake urges the people of Colombo and the outlying areas of Colombo to stay indoors and refrain from going out except for urgent matters. Issuing",
+    "url": "https://dailynews.lk/tags/municipal-council",
+    "url_hash": "3b02695c49962765b9f5c686a74b965e",
+    "ut": 1629341350,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Colombo Municipal Council Rosy Senanayake",
+        "start_end": [
+          2,
+          8
         ]
       }
     ]
