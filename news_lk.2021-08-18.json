@@ -6666,6 +6666,33 @@
   },
   {
     "date": "2021-08-18",
+    "title": "The Latest: AP Source: Shots required for nursing home staff",
+    "source": "www.thestar.com",
+    "snippet": "WASHINGTON \u2014 The Biden administration will require that nursing home staff are vaccinated against COVID-19 as a condition for those facilities to",
+    "url": "https://www.thestar.com/life/health_wellness/2021/08/18/the-latest-texas-schools-amend-dress-code-to-require-masks.html",
+    "url_hash": "15c70bef30a158572fcbba5681ca1bb1",
+    "ut": 1629313712,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Timeline of R. Kelly's life, lurid rumor to criminal charges",
     "source": "apnews.com",
     "snippet": "R. Kelly has long faced allegations of lurid sexual behavior and abuse, some of which have been made public through documentaries or court documents.",
@@ -7376,6 +7403,81 @@
         "start_end": [
           22,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Timeline of R. Kelly's life, lurid rumor to criminal charges",
+    "source": "www.wftv.com",
+    "snippet": "Feb. 6, 2019: Kelly announces by tweet a new tour outside the U.S., saying he'd be going to Australia, New Zealand and Sri Lanka. The tweet was later deleted following backlash from Twitter users who urged fans not to buy concert tickets. \u2014 Feb. 14 ...",
+    "url": "https://www.wftv.com/entertainment/timeline-r-kellys/JUPUHM7YKUWWFX5FT6GZDSI6KE/",
+    "url_hash": "e388ab2c75ea67d97006ccda396b481e",
+    "ut": 1629320912,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Feb. 6, 2019:",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kelly",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Twitter",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Feb. 14",
+        "start_end": [
+          50,
+          52
         ]
       }
     ]
