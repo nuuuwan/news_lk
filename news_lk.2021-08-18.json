@@ -2932,6 +2932,33 @@
   },
   {
     "date": "2021-08-18",
+    "title": "Sri Lanka replaces health minister said to promote shaman's herbal syrup as a Covid remedy",
+    "source": "www.msn.com",
+    "snippet": "Under the tenure of Health Minister Pavithra Wanniarachchi, the ministry was criticized over its handling of the pandemic.",
+    "url": "http://www.msn.com/en-us/news/world/sri-lanka-replaces-health-minister-said-to-promote-shaman-s-herbal-syrup-as-a-covid-remedy/ar-AANrvVa",
+    "url_hash": "24c5a75e2b7913df93b6ad1b3569afdf",
+    "ut": 1629270497,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pavithra Wanniarachchi",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Cabinet nod to import rice from Pakistan to address rice shortage",
     "source": "www.dailymirror.lk",
     "snippet": "The Cabinet of Ministers has approved the proposal submitted to import 6,000 metric tons of rice immediately from Pakistan. ..",
@@ -5916,6 +5943,41 @@
   },
   {
     "date": "2021-08-18",
+    "title": "State Minister Godahewa mostly true on relatively high population dependence on agriculture sector",
+    "source": "www.dailymirror.lk",
+    "snippet": "In his statement, the state minister claimed that the population percentage dependent on agriculture is over 30%, while the contribution to GDP is less than 10%. His figures indicate that the population percentage dependent on agricultur .",
+    "url": "https://www.dailymirror.lk/slide-1/State-Minister-Godahewa-mostly-true-on-relatively-high-population-dependence-on-agriculture-sector/329-218567",
+    "url_hash": "2c57c5f3f7070d4d74f540626262a227",
+    "ut": 1629310080,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "over 30%",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "less than 10%",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "agricultur",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "Close business as precaution to contain pandemic spread - Colombo Mayoress",
     "source": "www.dailymirror.lk",
     "snippet": "Mayoress of Colombo Rosy Senanayake today requested for the closure of all business establishments in Colombo city as a precaution to contain\u00a0 COVID 19 pandemic.\u00a0 ..",
@@ -7029,6 +7091,41 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: Biden says booster shots could begin next month",
+    "source": "www.dailyjournal.net",
+    "snippet": "President Joe Biden says that coronavirus booster shots will be available starting the week of September 20, pending approval by the FDA",
+    "url": "http://www.dailyjournal.net/2021/08/18/virus-outbreak-the-latest-5/",
+    "url_hash": "02b13a604dccfb796a1fd58824d28932",
+    "ut": 1629320888,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the week of September 20",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]
