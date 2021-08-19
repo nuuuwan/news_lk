@@ -5040,6 +5040,33 @@
   },
   {
     "date": "2021-08-18",
+    "title": "The Latest: US health officials call for virus booster shots",
+    "source": "abcnews.go.com",
+    "snippet": "The booster doses could begin the week of Sept. 20. Health officials say people who received the single-dose Johnson & Johnson vaccine also probably need extra shots because some",
+    "url": "https://abcnews.go.com/Health/wireStory/latest-pope-appears-video-promoting-vaccination-79513479",
+    "url_hash": "edb35dfc1130a837495d9c39c42c8880",
+    "ut": 1629296630,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the week of Sept. 20",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Johnson & Johnson",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
     "title": "The Latest: Texas schools amend dress code to require masks",
     "source": "www.michigansthumb.com",
     "snippet": "A Texas school district is amending its dress code to require masks in hopes of sidestepping Gov. Greg Abbott's executive order banning mask mandates. The Paris Independent School District's board of trustees voted to require masks as part of its dress code when classes begin Thursday.",
@@ -5362,6 +5389,41 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "The Latest: US health officials call for virus booster shots",
+    "source": "accesswdun.com",
+    "snippet": "U.S. health officials are recommending all Americans get COVID-19 booster shots. The plan, as outlined by the director of the Centers for Disease Control and Prevention and other top health authorities,",
+    "url": "https://accesswdun.com/article/2021/8/1031640",
+    "url_hash": "434ec604665d916550860b3e57a74d3a",
+    "ut": 1629300239,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Centers for Disease Control and Prevention",
+        "start_end": [
+          21,
+          28
         ]
       }
     ]
@@ -7611,6 +7673,197 @@
         "start_end": [
           50,
           51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Lankan travellers will be able to visit Switzerland without restrictions from Sept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankans will be able to visit Switzerland without any restrictions from September, with the country opening its borders to fully vaccinated travellers. ..",
+    "url": "https://www.dailymirror.lk/business-news/Lankan-travellers-will-be-able-to-visit-Switzerland-without-restrictions-from-Sept/273-218544",
+    "url_hash": "db8b482b42a702631b11a82c51e1ce25",
+    "ut": 1629325422,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Switzerland",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Distilleries loses sales momentum due to restrictions on alcobev sector",
+    "source": "www.dailymirror.lk",
+    "snippet": "The restrictions on liquor sales and the subsequent partial lockdowns, which lasted for a month, had a bearing on Distilleries Company of Ceylon PLC in the quarter ended in June 2021, as the company lost its sales momentum it built through the end of March 2021.",
+    "url": "https://www.dailymirror.lk/business-news/Distilleries-loses-sales-momentum-due-to-restrictions-on-alcobev-sector/273-218546",
+    "url_hash": "fafb62c9762a3096c1de025a1034f0bd",
+    "ut": 1629325422,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "a month",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Distilleries Company of Ceylon PLC",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the quarter ended in June 2021",
+        "start_end": [
+          27,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of March 2021",
+        "start_end": [
+          44,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Govt. to set up rice mills as private-cooperative partnerships to counter exorbitant prices",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cabinet approval has been granted to a proposal to establish rice mills as private-cooperative partnerships across the country and to allow additional rice imports as a solution to exorbitant prices of rice prevailing in the market,",
+    "url": "https://www.dailymirror.lk/business-news/Govt-to-set-up-rice-mills-as-private-cooperative-partnerships-to-counter-exorbitant-prices/273-218545",
+    "url_hash": "ecbf40e9cd7362ac3e441dd2dcc3f00a",
+    "ut": 1629325422,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "HNB records over Rs.100bn in volume on PAYFAST for 1H",
+    "source": "www.dailymirror.lk",
+    "snippet": "In an effort to enhance the nation's digital financial landscape in the wake of the COVID-19 pandemic, Sri Lanka's leading private sector bank HNB PLC recently announced that its secure corporate payment platform 'PAYFAST' had recorded over a colossal Rs.",
+    "url": "https://www.dailymirror.lk/financial-news/HNB-records-over-Rs-100bn-in-volume-on-PAYFAST-for-1H/265-218555",
+    "url_hash": "dd15397c1df38fcd97a107f240eb97ef",
+    "ut": 1629325422,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HNB PLC",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Govt. approves US $ 500mn project to improve agricultural supply chains",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cabinet of Ministers this week approved the 'Inclusive Connectivity and Development Project', which is to be implemented with US $ 500 million financial assistance from the World Bank (WB), with an aim to strengthen the agricultural supply chains in selected districts to provide a safe,",
+    "url": "https://www.dailymirror.lk/business-news/Govt-approves-US-500mn-project-to-improve-agricultural-supply-chains/273-218542",
+    "url_hash": "01f8500f763e91a3bfa2e07bead1b7e6",
+    "ut": 1629325422,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Cabinet of Ministers",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Inclusive Connectivity and Development Project'",
+        "start_end": [
+          9,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 500 million",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Bank",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WB",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
