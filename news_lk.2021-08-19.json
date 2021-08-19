@@ -1769,5 +1769,161 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Sri Lanka Raises Rates As Rupee Falls To Record Low",
+    "source": "www.ibtimes.com",
+    "snippet": "Sri Lanka's central bank raised interest rates for the first time in nearly three years Thursday as the rupee hit a record low amid a crippling foreign exchange shortage. With the country of 21 million already facing shortages of imported cooking gas and sugar because of the lack of dollars,",
+    "url": "https://www.ibtimes.com/sri-lanka-raises-rates-rupee-falls-record-low-3276749",
+    "url_hash": "f26be3a268a06934e8d32966fbc06b71",
+    "ut": 1629356933,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly three years Thursday",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21 million",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Kumu Beach",
+    "source": "www.mrandmrssmith.com",
+    "snippet": "Set on a raised strip of beachfront on Sri Lanka's south-west coast ... Trains run from Colombo Fort to Balapitiya five times a day, but be warned that they can get incredibly busy at times. If you're happy to compromise on luxury, the hour-and ...",
+    "url": "https://www.mrandmrssmith.com/luxury-hotels/kumu-beach?s%5Bchild_ages%5D%5B0%5D=5&s%5Bchild_ages%5D%5B1%5D=7",
+    "url_hash": "04672e40a6b6d7455888480cdfde8d17",
+    "ut": 1629356948,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Colombo Fort",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Balapitiya",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Sri Lanka College of Psychiatrists says homosexuality no illness, calls for decriminalisation",
+    "source": "economynext.com",
+    "snippet": "Weeks after a video surfaced of a person identifying herself as a counsellor openly making homophobic remarks at a police training in Kandy, the Sri Lanka College of Psychiatrists has said it does not consider homosexuality a mental illness and called for its decriminalisation.",
+    "url": "https://economynext.com/sri-lanka-college-of-psychiatrists-says-homosexuality-no-illness-calls-for-decriminalisation-85208/",
+    "url_hash": "47f0281b30d94f757fa7e2aaf4315249",
+    "ut": 1629357493,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Weeks",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka College of Psychiatrists",
+        "start_end": [
+          24,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Sri Lanka to put ceilings on exporter dollar deposits",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will place ceilings on dollar deposits of exporters to reduce the gap between rupee and dollar deposit rate and rupee loans, Central Bank Governor W D Lakshman said.",
+    "url": "https://economynext.com/sri-lanka-to-put-ceilings-on-exporter-dollar-deposits-85210/",
+    "url_hash": "3dfe8cfda0021dced958c299acc15fa5",
+    "ut": 1629357913,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "W D Lakshman",
+        "start_end": [
+          27,
+          30
+        ]
+      }
+    ]
   }
 ]
