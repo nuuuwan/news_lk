@@ -882,5 +882,142 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Sri Lanka: Save our Elephants",
+    "source": "www.srilankaguardian.org",
+    "snippet": "Sri Lanka Army's elite units can help the Wild life department in this effort. There is Sinhala saying that you will never get bored by watching \"Bali and Ali\", which means watching traditional dancing call Bali and elephants,",
+    "url": "http://www.srilankaguardian.org/2021/08/sri-lanka-save-our-elephants.html",
+    "url_hash": "4c132b7a319c643b2fdad735acbc0f93",
+    "ut": 1629346544,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Army's",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Wild",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bali",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ali",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bali",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Sri Lankans above 18 yrs to get vaccinated to curb fast spreading Covid",
+    "source": "www.msn.com",
+    "snippet": "The Sri Lankan government has decided to inoculate every citizen above 18 years of age by September 30 in an effort to curb the fast spreading Covid-19 pandemic.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lankans-above-18-yrs-to-get-vaccinated-to-curb-fast-spreading-covid/ar-AANu2IE",
+    "url_hash": "7268872f27e5b2d868225c0e310fee6c",
+    "ut": 1629347384,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "above 18 years of age by",
+        "start_end": [
+          10,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 30",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "New quarantine measures introduced for travellers to Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "New quarantine measures have been introduced for travellers to Sri Lanka, the Health Ministry said. The Health Ministry said that even full vaccinated travellers arriving in Sri Lanka must follow the Covid preventive measures introduced by the Government.",
+    "url": "https://colombogazette.com/2021/08/19/new-quarantine-measures-introduced-for-travellers-to-sri-lanka/",
+    "url_hash": "401b8676845bc0f7ab039e98f306d8d6",
+    "ut": 1629347644,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
   }
 ]
