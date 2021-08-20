@@ -5819,6 +5819,33 @@
   },
   {
     "date": "2021-08-19",
+    "title": "No community spread yet, says Health Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a situation where patients infected with COVID-19 are detected every part of the country with no origin, Deputy Director General of Health Services Dr. Hemantha Herath said there is no community transmission yet in the country.",
+    "url": "https://www.dailymirror.lk/latest_news/No-community-spread-yet-says-Health-Ministry/342-218597",
+    "url_hash": "5d6a6a11c98521639389dbb6bb175db7",
+    "ut": 1629389296,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health Services Dr.",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hemantha Herath",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
     "title": "Sri Lanka confirms highest daily COVID-19 deaths, cases yet; lockdown calls grow louder",
     "source": "economynext.com",
     "snippet": "Sri Lanka confirmed its highest daily COVID-19 death toll and highest daily caseload yet on Thursday (19) at 186 deaths and 3,806 new infections, as calls for a lockdown grow ever louder from both within and without the establishment.",
@@ -6224,6 +6251,33 @@
         "start_end": [
           0,
           2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Dilith's Company Making Whopping Profits From Antigen Test Kits: Senior Monk Cries Foul",
+    "source": "www.colombotelegraph.com",
+    "snippet": "Addressing a press conference, the senior monk said that the company importing Rapid Antigen Test (RAT) kits to Sri Lanka makes a pure profit of approximately Rs 24,000 on each test kit sold to private hospitals in the country.",
+    "url": "https://www.colombotelegraph.com/index.php/diliths-company-making-whopping-profits-from-antigen-test-kits-senior-monk-cries-foul/",
+    "url_hash": "8a96b732f56f3123d6ca4902489a126e",
+    "ut": 1629400113,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "approximately Rs 24,000",
+        "start_end": [
+          28,
+          31
         ]
       }
     ]
