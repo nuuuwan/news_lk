@@ -6155,6 +6155,73 @@
     "title": "Bangladesh sends $50 million to Sri Lanka in first phase of currency swap",
     "source": "www.adaderana.lk",
     "snippet": "The Bangladesh Bank on Thursday sent $50 million to Sri Lanka as the first instalment of a currency swap agreement initiated in March and signed on August 3",
+    "url": "http://www.adaderana.lk/news/76287/bangladesh-sends-50-million-to-sri-lanka-in-first-phase-of-currency-swap",
+    "url_hash": "adace264f2517e7d11d560889d6fc4d7",
+    "ut": 1629396669,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Bangladesh Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$50 million",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 3",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Bangladesh sends $50 million to Sri Lanka in first phase of currency swap",
+    "source": "www.adaderana.lk",
+    "snippet": "The Bangladesh Bank on Thursday sent $50 million to Sri Lanka as the first instalment of a currency swap agreement initiated in March and signed on August 3",
     "url": "http://www.adaderana.lk/news.php?nid=76287",
     "url_hash": "3de03c52641b49b2a7c034caec250f3b",
     "ut": 1629396859,
@@ -6291,6 +6358,49 @@
     "url_hash": "5eeb6b9099c07c93f856b067f087ea9f",
     "ut": 1629400128,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-19",
+    "title": "SRI LANKA CAN RELATE TO THE CHAOS IN AFGHANISTAN - EDITORIAL",
+    "source": "www.dailymirror.lk",
+    "snippet": "The fall of the Afghan Government and the take over of the country by Taliban rebels bring back memories of the rule by the Liberation Tigers of Tamil Ealam in the northern and eastern parts of Sri Lanka,",
+    "url": "https://www.dailymirror.lk/opinion/SRI-LANKA-CAN-RELATE-TO-THE-CHAOS-IN-AFGHANISTAN-EDITORIAL/231-218606",
+    "url_hash": "b951fc3fdcae34176c6c80561ac6beaa",
+    "ut": 1629400259,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Afghan Government",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Liberation Tigers of Tamil Ealam",
+        "start_end": [
+          23,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-19",
