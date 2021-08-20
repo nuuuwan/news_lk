@@ -103,6 +103,41 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Rohana Ariyarathna",
+    "source": "dailynews.lk",
+    "snippet": "All shops in the Beliatta town will be closed from August 18 to 22 due to the spike in COVID-19 cases in the area. The decision was taken by the Beliatta Pradeshiya Sabha and other trade unions in...",
+    "url": "http://dailynews.lk/line/rohana-ariyarathna",
+    "url_hash": "a7b76141e741f97fe1f41a0f631cfe9d",
+    "ut": 1629421693,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Beliatta",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 18 to 22",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Beliatta Pradeshiya Sabha",
+        "start_end": [
+          30,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Water Cut Sri Lanka",
     "source": "dailynews.lk",
     "snippet": "The National Water Supply and Drainage Board says water supply to several areas will be suspended for 12-hours from 10am tomorrow (August 18). The areas that will be affected by this are",
@@ -210,6 +245,41 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Ten Party leaders call for three week lockdown",
+    "source": "www.dailynews.lk",
+    "snippet": "Leaders of ten constituent Parties in the government have written to President Gotabaya Rajapaksa urging him to immediately lock down the country for at least three weeks to control the rapidly spreading COVID-19 virus.",
+    "url": "http://www.dailynews.lk/2021/08/20/local/257212/ten-party-leaders-call-three-week-lockdown",
+    "url_hash": "c6f8b3e2ca11c6e0112c39853aaeb201",
+    "ut": 1629440173,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "at least three weeks",
+        "start_end": [
+          23,
+          27
         ]
       }
     ]
