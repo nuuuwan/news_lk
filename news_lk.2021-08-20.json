@@ -100,5 +100,48 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Water Cut Sri Lanka",
+    "source": "dailynews.lk",
+    "snippet": "The National Water Supply and Drainage Board says water supply to several areas will be suspended for 12-hours from 10am tomorrow (August 18). The areas that will be affected by this are",
+    "url": "https://dailynews.lk/tags/water-cut-sri-lanka",
+    "url_hash": "22eafb72e95deed08075ae846440dad3",
+    "ut": 1629421713,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The National Water Supply and Drainage Board",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "12-hours",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10am",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 18",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
   }
 ]

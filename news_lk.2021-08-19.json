@@ -5019,6 +5019,65 @@
   },
   {
     "date": "2021-08-19",
+    "title": "Ranil urges Govt. not to recognise Taliban administration",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Prime Minister Ranil Wickremesinghe today urged the government not to recognise the Taliban administration and to shut down the Sri Lankan mission in Kabul, Afghanistan. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-urges-Govt-not-to-recognise-Taliban-administration/108-218593",
+    "url_hash": "aa67204d0bc8aea02a0e1d79bf892fdc",
+    "ut": 1629382109,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
     "title": "Bangladesh sends $50 million to Sri Lanka in 1st phase of currency swap",
     "source": "www.dhakatribune.com",
     "snippet": "On Thursday, the island nation's central bank raised interest rates for the first time in nearly three years as its currency hit a record low amid its crippling forex shortage The Bangladesh Bank on Thursday sent $50 million to Sri Lanka as the first ...",
@@ -5635,6 +5694,60 @@
         "start_end": [
           11,
           13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "COVID: 2,663 more people test positive in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "As many as 2,663 persons have tested positive for coronavirus so far today (August 17), the Ministry of Health confirmed",
+    "url": "http://www.adaderana.lk/news/76226/covid-2663-more-people-test-positive-in-sri-lanka",
+    "url_hash": "e601dd59d0b3bdbb624ca8f039f006fc",
+    "ut": 1629407318,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "As many as 2,663",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 17",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          18,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Legends give up leisure time to help rural kids improve spoken English skills",
+    "source": "www.ft.lk",
+    "snippet": "Some of the brightest kids in the land who succeed at the all island scholarship exams and gain entry to the leading Government schools in Colombo sadly lack good English speaking skills. ..",
+    "url": "https://www.ft.lk/news/Legends-give-up-leisure-time-to-help-rural-kids-improve-spoken-English-skills/56-721950",
+    "url_hash": "917871a0a3bfb4079dcf030843e84c8c",
+    "ut": 1629407318,
+    "ent_info_list": [
+      {
+        "label": "LANGUAGE",
+        "text": "English",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
