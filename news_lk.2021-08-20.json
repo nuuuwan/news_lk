@@ -715,6 +715,33 @@
   },
   {
     "date": "2021-08-20",
+    "title": "President to address the nation",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabhaya Rajapaksa is scheduled to address the nation, President's Spokesman Kyngsly Rathnayake said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/President-to-address-the-nation/108-218610",
+    "url_hash": "f5024cc6d11cd3280a8a11a92ba9430e",
+    "ut": 1629425267,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabhaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kyngsly Rathnayake",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "No fuel shortage: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "Energy Minister Udaya Gammanpila said today that there was no fuel shortage in the country. There were long queues reported near filling stations in several areas due to reports that there will be a fuel shortage.",
@@ -814,6 +841,41 @@
         "start_end": [
           5,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "TPL wins award for Right Environment at Cummins APAC Distributor Conference",
+    "source": "www.dailymirror.lk",
+    "snippet": "Trade Promoters Limited (TPL), the authorised distributor in Sri Lanka and the Maldives for global entity Cummins Inc. (diesel generators and engines for marine, construction and industrial applications),",
+    "url": "https://www.dailymirror.lk/business-news/TPL-wins-award-for-Right-Environment-at-Cummins-APAC-Distributor-Conference/273-218621",
+    "url_hash": "21992af8555bec617653403da5f65f55",
+    "ut": 1629428867,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Maldives",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cummins Inc.",
+        "start_end": [
+          19,
+          21
         ]
       }
     ]
@@ -2127,6 +2189,57 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Afghanistan under Taliban rule",
+    "source": "www.dailymirror.lk",
+    "snippet": "Easwaran Rutnam speaks to the Ambassador of Afghanistan to Sri Lanka Ashraf Haidari and the UN Special Rapporteur in the field of cultural rights Karima Bennoune",
+    "url": "https://www.dailymirror.lk/world_focus/Afghanistan-under-Taliban-rule/455-218653",
+    "url_hash": "42e5e9a268eb74ffa07bfdd86d3545b4",
+    "ut": 1629443267,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ashraf Haidari",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the UN Special Rapporteur",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Karima Bennoune",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Work for the day of employee completed or not to be decided by employer not employee:SC",
     "source": "www.dailymirror.lk",
     "snippet": "The Supreme Court in a judgment relating to an industrial dispute case held that it is a matter for the employer, not the employee to decide whether the work for the day of an employee was completed or not.",
@@ -2148,6 +2261,124 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "140 tonnes of liquid medical oxygen en-route to SL from India",
+    "source": "www.dailymirror.lk",
+    "snippet": "An Indian vessel and a vessel of the Sri Lankan navy have departed from India carrying 140 tonnes of liquid medical oxygen. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/140-tonnes-of-liquid-medical-oxygen-en-route-to-SL-from-India/108-218655",
+    "url_hash": "d02d544b15ff2a3f041d82d9f155f517",
+    "ut": 1629446867,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "140 tonnes",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka to go into 10-day lockdown as COVID-19 surges",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka confirmed 186 COVID-19 deaths for Wednesday (18), the highest daily death toll yet. With 3,806 new infections for Thursday, active cases in the island have risen to nearly 48,000. (Colombo/Aug20/2021)",
+    "url": "https://economynext.com/sri-lanka-to-go-into-10-day-lockdown-as-covid-19-surges-85246/",
+    "url_hash": "10b0a76e5dabb26527c727124417f261",
+    "ut": 1629446875,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "186",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,806",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly 48,000",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo/Aug20/2021",
+        "start_end": [
+          38,
+          41
         ]
       }
     ]
@@ -2613,6 +2844,49 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Coronavirus live news: Israel to start booster shots for over 40s; UK approves new Covid treatment",
+    "source": "www.theguardian.com",
+    "snippet": "Israelis aged 40 and over to receive booster shots starting this weekend; Ronapreve found to lower hospitalisation or mortality by 70%",
+    "url": "https://www.theguardian.com/world/live/2021/aug/20/coronavirus-live-news-israel-to-start-booster-shots-for-over-40s-3000-fake-vaccination-cards-seized-in-alaska?page=with:block-611f675c8f08f7d07c0588e8",
+    "url_hash": "919ba3fbab48b8344056ee373b885f68",
+    "ut": 1629450502,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Israelis",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "40",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this weekend",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "70%",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Demand for small onions from S-E Asia comes to exporters' rescue",
     "source": "www.thehindubusinessline.com",
     "snippet": "Demand for onions smaller in size from South-East Asia is helping exports of the commodity even as high freight rates have affected Indian onion shipments to West Asia, one of its main markets. South-East Asian nations,",
@@ -2894,6 +3168,73 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka announces lockdown as coronavirus cases surge; president to address nation",
+    "source": "www.metro.us",
+    "snippet": "Sri Lanka announced a 10-day lockdown starting on Friday night in an effort to curb the spread of the coronavirus, as surging infections and deaths overwhelm the island's health system. The Indian Ocean nation recorded its highest single-day death toll of 187 and 3,",
+    "url": "https://www.metro.us/sri-lanka-announces-lockdown/",
+    "url_hash": "b5cc7ff47e10629aea99a20bc3fd9be9",
+    "ut": 1629454075,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Indian Ocean",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "single-day",
+        "start_end": [
+          42,
+          45
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "187 and 3",
+        "start_end": [
+          48,
+          51
         ]
       }
     ]
@@ -3203,6 +3544,49 @@
         "start_end": [
           22,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "COVID deaths continue to rise in coming weeks: Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "The COVID-19 related deaths could remain at the current rate which is around 180 in coming weeks as well, though active cases might fall, Deputy Director General of Health Services Dr. Hemantha Herath said.",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-deaths-continue-to-rise-in-coming-weeks-Ministry/108-218659",
+    "url_hash": "663a5d0fb80b9cf109782d4decd51f83",
+    "ut": 1629457667,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "around 180",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "coming weeks",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services Dr.",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hemantha Herath",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
@@ -3737,6 +4121,41 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Sri Lankan shares end lower as country set to enter 10-day lockdown",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares ended lower on Friday after the government announced a 10-day lockdown as COVID-19 infections and deaths overwhelmed the island nation's health system.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-end-lower-as-country-set-to-enter-10-day-lockdown-idUSL4N2PR2PY",
+    "url_hash": "c5abfa68991ff9f22604508a90738ae2",
+    "ut": 1629461275,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          12,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: AP-NORC poll: Vaccine requirements favored in US",
     "source": "abcnews.go.com",
     "snippet": "The heightened worry is reflected in a new poll from The Associated Press-NORC Center ... population has been fully vaccinated. COLOMBO, Sri Lanka \u2014 Sri Lanka's government imposed a 10-day ...",
@@ -3774,6 +4193,57 @@
         "start_end": [
           34,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Record Covid deaths force 10-day lockdown in Sri Lanka",
+    "source": "www.sify.com",
+    "snippet": "After recording its highest single-day Covid death toll of 186, Sri Lanka has announced a 10-day lockdown starting Friday night.",
+    "url": "https://www.sify.com/news/record-covid-deaths-force-10-day-lockdown-in-sri-lanka-news-international-viumOfdjifigj.html",
+    "url_hash": "2efd1f574183d2e84208103633ceaef1",
+    "ut": 1629464875,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "186",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
@@ -3930,6 +4400,25 @@
         "start_end": [
           19,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Heathrow Airport: The 60 countries the government says you shouldn't travel to",
+    "source": "www.getreading.co.uk",
+    "snippet": "Obsessing over traffic lights and local travel rules that might not let your teenage children in also provides additional stress. The rules have been relaxed over the past few months, with the government's scrapping of the quarantine requirement for anyone who is double vaccinated and coming back from an amber list country,",
+    "url": "https://www.getreading.co.uk/whats-on/whats-on-news/heathrow-airport-60-countries-government-21363286",
+    "url_hash": "d2692511c4260f8da4b0a2ea3cb7a5b1",
+    "ut": 1629468489,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the past few months",
+        "start_end": [
+          27,
+          31
         ]
       }
     ]
@@ -4223,6 +4712,41 @@
   },
   {
     "date": "2021-08-20",
+    "title": "People requested to brace themselves if lockdown drags for long time",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a situationg where the Government has already imposed a ten-day lockdown, President Gotabaya Rajapaksa requested the general public to be prepared to make sacrifices if the country is to be placed under a lockdown for a longer period of time.",
+    "url": "https://www.dailymirror.lk/breaking_news/People-requested-to-brace-themselves-if-lockdown-drags-for-long-time/108-218668",
+    "url_hash": "336125a3f94da4bf289bfd878f930042",
+    "ut": 1629475667,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten-day",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: WHO asks experts to join virus advisory group",
     "source": "www.stltoday.com",
     "snippet": "A Sri Lankan municipal health worker sprays disinfectants on ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide spike in infections, spurred by the highly ...",
@@ -4244,6 +4768,127 @@
         "start_end": [
           20,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Lockdown Sri Lanka",
+    "source": "dailynews.lk",
+    "snippet": "Essential services (such as pharmacies, apparel and agricultural sectors) will function as usual during the lockdown period, announced the Head of National Operation Centre for Prevention of",
+    "url": "https://dailynews.lk/tags/lockdown-sri-lanka",
+    "url_hash": "5b4b8f86e73ba692938128183ee662f2",
+    "ut": 1629479271,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Operation Centre for Prevention of",
+        "start_end": [
+          25,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Georgia mayors slam Gov. Kemp's order on virus",
+    "source": "www.seattlepi.com",
+    "snippet": "ATLANTA \u2014 The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic. In an open letter on Friday, the mayors of Atlanta,",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "39acbdc8dd34a592ea34a1671dfdb3b2",
+    "ut": 1629479284,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ATLANTA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Georgia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Brian Kemp",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Atlanta",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Georgia majors slam Gov. Kemp's order on virus",
+    "source": "www.sfgate.com",
+    "snippet": "ATLANTA \u2014 The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic. In an open letter on Friday, the mayors of Atlanta,",
+    "url": "https://www.sfgate.com/business/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "8d73e0f2d00e074cadbb4a9922005cf9",
+    "ut": 1629479284,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ATLANTA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Georgia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Brian Kemp",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Atlanta",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
@@ -4609,6 +5254,119 @@
         "start_end": [
           42,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "President to address the nation tonight",
+    "source": "www.dailynews.lk",
+    "snippet": "President Gotabaya Rajapaksa will address the nation at 8.30pm today, the President's Media Division said. It will be simultaneously broadcast by all television and radio channels.",
+    "url": "http://www.dailynews.lk/2021/08/20/local/257229/president-address-nation-tonight",
+    "url_hash": "fa75f9381aa8607f6b486d928313b90b",
+    "ut": 1629487611,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "8.30pm",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media Division",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Georgia mayors slam Gov. Kemp's order on virus",
+    "source": "accesswdun.com",
+    "snippet": "The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic",
+    "url": "https://accesswdun.com/article/2021/8/1032198",
+    "url_hash": "e4c04b3807b328de322f29bbf394f3a3",
+    "ut": 1629488995,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Georgia",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Brian Kemp",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "www.lmtonline.com",
+    "snippet": "WASHINGTON \u2014 The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19. That's despite increasing pressure to lift the restriction.",
+    "url": "https://www.lmtonline.com/news/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "6497b800cc14d470ab24dde85136753c",
+    "ut": 1629489364,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
