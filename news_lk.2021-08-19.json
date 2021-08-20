@@ -4090,6 +4090,73 @@
   },
   {
     "date": "2021-08-19",
+    "title": "Kuwait decides to resume commercial flights to Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Kuwait has decided to resume direct commercial flights to Sri Lanka as well as Bangladesh, Egypt, India, Nepal and Pakistan.  </",
+    "url": "https://menafn.com/1102645628/Kuwait-decides-to-resume-commercial-flights-to-Sri-Lanka",
+    "url_hash": "4c7d5ffbd9b9980fc17ad83f6af552b4",
+    "ut": 1629367717,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Kuwait",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nepal",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
     "title": "India eyes bigger influence in Indian Ocean through Colombo Security Conclave",
     "source": "www.globaltimes.cn",
     "snippet": "India's attempts to revive the Colombo Security Conclave have garnered media attention. On Tuesday, the South China Morning Post argued that the revival of a trilateral grouping between India, Sri Lanka and the Maldives, shows New Delhi's wariness of ...",
@@ -5653,6 +5720,57 @@
     "title": "Daily Covid death toll exceeds 180",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 186 more COVID-19 related deaths that occurred yesterday (18) were confirmed by the Director-General of Health Services today pushing the death toll to 6,790. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Daily-Covid-death-toll-exceeds-180/108-218596",
+    "url_hash": "37b28f9a1ac097ea0663fd78598265d5",
+    "ut": 1629385684,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "186",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6,790",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Daily Covid death toll exceeds 180",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 186 more COVID-19 related deaths that occurred yesterday (18) were confirmed by the Director-General of Health Services today pushing the death toll to 6,790. ..",
     "url": "https://www.dailymirror.lk/latest_news/Daily-Covid-death-toll-exceeds-180/342-218596",
     "url_hash": "a635e297e36b139abc98f8acbeb61256",
     "ut": 1629385702,
@@ -6228,6 +6346,81 @@
     "url_hash": "cd46e50a6f25ec51e7cd66588c9e43fa",
     "ut": 1629403710,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-19",
+    "title": "The Latest: Australian state sees 478 new virus infections",
+    "source": "www.seattlepi.com",
+    "snippet": "Australia's most populous state on Monday reported its worst day of the pandemic with 478 new COVID-19 infections and seven deaths. The previous record daily tally in New South Wales was 466 new cases reported on Saturday.",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Russia-sees-800-daily-virus-deaths-16388156.php",
+    "url_hash": "db2fd12efc40bd317acc5106a6f51936",
+    "ut": 1629407307,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "478",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New South Wales",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "466",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-19",
