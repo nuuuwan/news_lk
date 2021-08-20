@@ -299,6 +299,89 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Consulate General of India celebrates Independence Day",
+    "source": "www.msn.com",
+    "snippet": "The Consulate General of India, Hambantota celebrated the 75th Independence Day of India recently.Consul General of India, Hambantota Dipin P.R hoisted the Indian National Flag amidst the Consulate Officials.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/consulate-general-of-india-celebrates-independence-day/ar-AANvVfH",
+    "url_hash": "6879144d63ff214a3e9bd97c3b020352",
+    "ut": 1629418118,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Consulate General",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Hambantota",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "75th",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Independence Day",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dipin P.R",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian National Flag",
+        "start_end": [
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Bourse witnesses profit-taking",
     "source": "www.msn.com",
     "snippet": "Colombo bourse witnessed a profit-taking spree yesterday and closed in the red zone amidst a 50 bps rate hike by CBSL.Thus, the All Share Price Index declined by 82.8 points (-0.9%) to close at 8,260.",
@@ -1636,6 +1719,73 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Pistols, ammo found in Weligama",
+    "source": "www.dailymirror.lk",
+    "snippet": "Five pistols, eight magazines and ten bullets were found hidden in a jungle at Walana in Weligama by the Police Narcotics Bureau (PNB). ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Pistols-ammo-found-in-Weligama/108-218652",
+    "url_hash": "c2749660b9dad3016f2beba8a1d3b4d1",
+    "ut": 1629439694,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Five",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Walana",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Weligama",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Police Narcotics Bureau",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PNB",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Sri Lanka raises rates as rupee falls to record low",
     "source": "www.dailyexpress.com.my",
     "snippet": "Last month, the Moody's ratings agency placed Sri Lanka under watch for a downgrade on persistent fears that the island could default on its foreign debt. Sri Lanka's annual foreign debt servicing is estimated at $4 billion to $5 billion over the next ...",
@@ -1794,6 +1944,57 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Tourism Minister requests MPs to donate 75% of salary",
+    "source": "dailynews.lk",
+    "snippet": "Tourism Minister Prasanna Ranatunga has called for Parliamentarians to donate 75% of their salaries, for public and private sector employees, except for health workers to donate 50% of their salaries and for minor workers to donate 30% of their salaries during the lockdown period.",
+    "url": "http://dailynews.lk/2021/08/20/local/257223/tourism-minister-requests-mps-donate-75-salary",
+    "url_hash": "494ece15049fda895497d6ca149451f5",
+    "ut": 1629446899,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Parliamentarians",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "75%",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "donate 50%",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "donate 30%",
+        "start_end": [
+          39,
+          42
         ]
       }
     ]
@@ -1985,6 +2186,65 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Demand for small onions from S-E Asia comes to exporters' rescue",
+    "source": "www.thehindubusinessline.com",
+    "snippet": "Demand for onions smaller in size from South-East Asia is helping exports of the commodity even as high freight rates have affected Indian onion shipments to West Asia, one of its main markets. South-East Asian nations,",
+    "url": "https://www.thehindubusinessline.com/economy/agri-business/demand-for-small-onions-from-s-e-asia-comes-to-exporters-rescue/article36012620.ece",
+    "url_hash": "10df08428bcf67023ccd8f3e0e0acf3c",
+    "ut": 1629450504,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "South-East Asia",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "West Asia",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South-",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "East Asian",
+        "start_end": [
+          39,
+          41
         ]
       }
     ]
@@ -2597,6 +2857,148 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "www.mysanantonio.com",
+    "snippet": "WASHINGTON \u2014 The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19. That's despite increasing pressure to lift the restriction.",
+    "url": "https://www.mysanantonio.com/business/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "217b4fffd87d7d9c05547a84ef6ad644",
+    "ut": 1629472113,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka will go into 10-day lockdown from 10pm today",
+    "source": "www.dailynews.lk",
+    "snippet": "Sri Lanka will go into island-wide lockdown for 10-days from 10pm today (August 20) till Monday (August 30), announced the Health Minister Keheliya Rambukwella. Health Minister tweeted, \"Nationwide Lockdown in effect from 10pm today (20/08) to Monday (30/08).",
+    "url": "http://www.dailynews.lk/2021/08/20/local/257224/sri-lanka-will-go-10-day-lockdown-10pm-today",
+    "url_hash": "781ffe0c66b6e753da79e16bca8ce01c",
+    "ut": 1629474019,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-days",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10pm",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nationwide Lockdown",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10pm",
+        "start_end": [
+          45,
+          47
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20/08",
+        "start_end": [
+          49,
+          50
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30/08",
+        "start_end": [
+          54,
+          55
         ]
       }
     ]
