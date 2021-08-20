@@ -715,6 +715,33 @@
   },
   {
     "date": "2021-08-20",
+    "title": "No fuel shortage: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Energy Minister Udaya Gammanpila said today that there was no fuel shortage in the country. There were long queues reported near filling stations in several areas due to reports that there will be a fuel shortage.",
+    "url": "https://www.dailymirror.lk/breaking_news/No-fuel-shortage-Minister/108-218611",
+    "url_hash": "f18a8a0dfa26106fe220f5923ef412e1",
+    "ut": 1629425276,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Udaya Gammanpila",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Tane Picken named GM at Island Shangri-La and Area VP",
     "source": "insights.ehotelier.com",
     "snippet": "A South African native, Mr Picken is a well-versed hotelier with over two decades of experience in hospitality management covering a variety of luxury hotel brands across Africa, the Middle East and Asia.",
@@ -2127,6 +2154,135 @@
   },
   {
     "date": "2021-08-20",
+    "title": "140 tonnes of liquid medical oxygen en-route to SL from India",
+    "source": "www.dailymirror.lk",
+    "snippet": "An Indian vessel and a vessel of the Sri Lankan navy have departed from India carrying 140 tonnes of liquid medical oxygen. ..",
+    "url": "https://www.dailymirror.lk/latest_news/140-tonnes-of-liquid-medical-oxygen-en-route-to-SL-from-India/342-218655",
+    "url_hash": "f9b432724e41e11e0e221e25c5b98692",
+    "ut": 1629446876,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "140 tonnes",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Tourism Minister requests MPs to donate 75% of salary",
+    "source": "dailynews.lk",
+    "snippet": "Tourism Minister Prasanna Ranatunga has called for Parliamentarians to donate 75% of their salaries, for public and private sector employees, except for health workers to donate 50% of their salaries and for minor workers to donate 30% of their salaries during the lockdown period.",
+    "url": "https://dailynews.lk/2021/08/20/local/257223/tourism-minister-requests-mps-donate-75-salary",
+    "url_hash": "bb8681548ae81732c1f436fceca70ef5",
+    "ut": 1629446880,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Parliamentarians",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "75%",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "donate 50%",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "donate 30%",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka raises rates as rupee falls to record low",
+    "source": "www.dailyexpress.com.my",
+    "snippet": "Sri Lanka's central bank raised interest rates for the first time in nearly three years Thursday as the rupee hit a record low amid a crippling foreign exchange shortage",
+    "url": "https://www.dailyexpress.com.my/news/176617/sri-lanka-raises-rates-as-rupee-falls-to-record-low/",
+    "url_hash": "a7667cb7c50388ba1e87ea48e3a05cef",
+    "ut": 1629446885,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly three years Thursday",
+        "start_end": [
+          13,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Sri Lankans Seek Full COVID Lockdown Ahead of President's Address",
     "source": "www.usnews.com",
     "snippet": "Sri Lankan President Gotabaya Rajapaksa will meet his COVID-19 advisers on Friday and is expected later to address the nation as infections and deaths overwhelm the island's health system, leading to calls for a complete lockdown.",
@@ -2373,6 +2529,49 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lankan lives matter - Sajith",
+    "source": "island.lk",
+    "snippet": "Leader of the Opposition Sajith Premadasa reminded the government yesterday that 'Sri Lanka Lives Matter' and that the government must immediately listen to health professionals. Premadasa said that the pandemic raged and that the general consensus was that the government had given up.",
+    "url": "https://island.lk/sri-lankan-lives-matter-sajith/",
+    "url_hash": "df5731352e1da61a2a16ac5bfe4beab0",
+    "ut": 1629450485,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Opposition Sajith Premadasa",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Premadasa",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
@@ -2701,6 +2900,41 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Sri Lanka announces lockdown as coronavirus cases surge; president to address nation",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "President Gotabaya Rajapaksa met with members of the presidential task force on coronavirus and was expected to address the nation on Friday evening.",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/sri-lanka-announces-lockdown-as-coronavirus-cases-surge-president-to-address-nation/articleshow/85484526.cms",
+    "url_hash": "8466278d3e19f79358b57db5c7c250db",
+    "ut": 1629454085,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "evening",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "'DOC CALL 247'",
     "source": "island.lk",
     "snippet": "A telephonic Labour Of Love from Sri Lanka Medical Association The Sri Lanka Medical Association (SLMA), the premier non-political, non-trade union, academic organisation of all doctors in Sri Lanka,",
@@ -2969,6 +3203,159 @@
         "start_end": [
           22,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "President to address nation at 8.30 pm tonight",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa will address the nation at 8.30 pm tonight, the President's Media Division said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/President-to-address-nation-at-8-30-pm-tonight/108-218660",
+    "url_hash": "a54627b2656d150c14e44eb0a7c5fedd",
+    "ut": 1629457676,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "8.30 pm",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "tonight",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media Division",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka to impose 10-day nation-wide lockdown from Friday night",
+    "source": "www.theweek.in",
+    "snippet": "Sri Lankan President Gotabhaya Rajapaksa has ordered a 10-day nation-wide lockdown from Friday night, amidst mounting pressure from medics and the powerful Buddhist clergy to curb the raging third wave of COVID-19 infection.",
+    "url": "https://www.theweek.in/wire-updates/international/2021/08/20/fgn40-virus-lanka-lockdown.html",
+    "url_hash": "f99e567c1b40a156e9e69fac298c6efa",
+    "ut": 1629457685,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabhaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka Announces Lockdown as Covid-19 Cases Surge; President to Address Nation",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka announced a 10-day lockdown starting on Friday night in an effort to curb the spread of the coronavirus, as surging infections and deaths overwhelm the island's health system.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-announces-lockdown-as-covid-19-cases-surge-president-to-address-nation/ar-AANxgsT",
+    "url_hash": "283da5e12f14c12d3252a6f9c5be2c05",
+    "ut": 1629457685,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          11,
+          12
         ]
       }
     ]
@@ -3393,6 +3780,76 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: AP-NORC Poll: Vaccine Requirements Favored in US",
+    "source": "www.usnews.com",
+    "snippet": "More state governments and school districts are adopting masking and vaccination requirements and the nation's hospital bed capacity is once again stretched to the limit. The poll shows nearly 6 in 10 Americans want vaccination mandates for those attending movies,",
+    "url": "https://www.usnews.com/news/health-news/articles/2021-08-20/the-latest-thailand-passes-1m-cases-as-latest-surge-drops",
+    "url_hash": "ac3acc52889b5bfaa500c790cfd24663",
+    "ut": 1629464895,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "nearly 6",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Coronavirus live news: Sri Lanka to impose nationwide lockdown; one in 80 people in England had Covid last week",
+    "source": "www.theguardian.com",
+    "snippet": "Sri Lanka government bows to intense pressure from experts as hospitals overwhelmed; prevalence in England falls slightly on previous week",
+    "url": "https://www.theguardian.com/world/live/2021/aug/20/coronavirus-live-news-israel-to-start-booster-shots-for-over-40s-3000-fake-vaccination-cards-seized-in-alaska?page=with:block-611fb9f68f08cc0d8b0047ab",
+    "url_hash": "d7e3aeea32430e467cc742836f500985",
+    "ut": 1629464895,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "previous week",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: AP-NORC poll: Vaccine requirements favored in US",
     "source": "madison.com",
     "snippet": "The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs ... Approximately 55% of the adult population has been fully vaccinated. COLOMBO, Sri Lanka \u2014 Sri Lanka's government imposed a 10-day lockdown ...",
@@ -3532,6 +3989,41 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Every citizen above 30 to be fully vaccinated by Sept. 10: Prez",
+    "source": "www.dailymirror.lk",
+    "snippet": "Every citizen above 30 years of age will be given both doses of the Covid-19 vaccine by September 10,President Gotabaya Rajapaksa said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Every-citizen-above-30-to-be-fully-vaccinated-by-Sept-10-Prez/342-218666",
+    "url_hash": "df9b079e2fe7fc1c70566a49cd931e9c",
+    "ut": 1629472076,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "above 30 years of age",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          19,
+          21
         ]
       }
     ]
@@ -3758,6 +4250,57 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: Georgia majors slam Gov. Kemp's order on virus",
+    "source": "www.registercitizen.com",
+    "snippet": "ATLANTA \u2014 The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic. In an open letter on Friday, the mayors of Atlanta,",
+    "url": "https://www.registercitizen.com/business/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "fd996a5ac9b83aaf0f7a0d9caa4375e7",
+    "ut": 1629479285,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ATLANTA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Georgia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Brian Kemp",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Atlanta",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: Georgia mayors slam Gov. Kemp's order on virus",
     "source": "www.sfgate.com",
     "snippet": "ATLANTA \u2014 The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic. In an open letter on Friday, the mayors of Atlanta,",
@@ -3803,6 +4346,269 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Record Covid deaths force 10-day lockdown in Sri Lanka",
+    "source": "www.daijiworld.com",
+    "snippet": "After recording its highest single-day Covid death toll of 186, Sri Lanka has announced a 10-day lockdown starting Friday night. Health Minister Keheliya Rambukwella announced that the island-wide lockdown will come into effect from Friday night and will end on August 30.",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=865158",
+    "url_hash": "0d531d8b5c36cc6262bde6df11a294ae",
+    "ut": 1629483845,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "186",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Vaccine drive for over 60s will continue during lockdown",
+    "source": "dailynews.lk",
+    "snippet": "Essential services (such as pharmacies, apparel and agricultural sectors) will function as usual during the lockdown period, announced the Head of National Operation Centre for Prevention of COVID-19 Outbreak Army Commander General Shavendra Silva.",
+    "url": "https://dailynews.lk/2021/08/20/local/257226/vaccine-drive-over-60s-will-continue-during-lockdown",
+    "url_hash": "5ce786d3a4ecacffc22afe5d67d444b2",
+    "ut": 1629485160,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Operation Centre for Prevention",
+        "start_end": [
+          25,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Outbreak Army",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Kandy Esala Perahera",
+    "source": "dailynews.lk",
+    "snippet": "The historical Kandy Esala Perahera this year will continue without spectators in spite of the quarantine curfew, said the Army Commander General Shavendra Silva. The Kumbal Perahera paraded",
+    "url": "http://dailynews.lk/tags/kandy-esala-perahera",
+    "url_hash": "84ee2e7a35010b879e0da0fe0e753bbb",
+    "ut": 1629485460,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kandy Esala Perahera",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Perahera",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "www.ourmidland.com",
+    "snippet": "WASHINGTON \u2014 The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19. That's despite increasing pressure to lift the restriction.",
+    "url": "https://www.ourmidland.com/business/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "80bec93fa2ff39559e81814910b56295",
+    "ut": 1629485775,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Navy ships heading to Colombo with medical grade oxygen",
+    "source": "www.dailynews.lk",
+    "snippet": "Shakthi which departed the Trincomalee harbour on 17th August 2021 for a shipment of medical grade oxygen, arrived at the port of Chennai, India in the evening of 18th August. Having taken the delivery of oxygen ordered from the Indian government,",
+    "url": "http://www.dailynews.lk/2021/08/20/local/257222/navy-ships-heading-colombo-medical-grade-oxygen",
+    "url_hash": "83e26f3c838af185b90236fd657516a3",
+    "ut": 1629486180,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "August 2021",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Chennai",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "18th August",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
