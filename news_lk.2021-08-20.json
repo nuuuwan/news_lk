@@ -984,6 +984,49 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Afghan protests spread to Kabul in early challenge to Taliban",
+    "source": "www.dailymirror.lk",
+    "snippet": "Protests against the Taliban's takeover in Afghanistan have spread to more cities, including the capital Kabul, while the militant group called on the country's imams to urge unity at Friday prayers,",
+    "url": "https://www.dailymirror.lk/international/Afghan-protests-spread-to-Kabul-in-early-challenge-to-Taliban/107-218638",
+    "url_hash": "57d68b94d0613d0d725bea928590a168",
+    "ut": 1629432478,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Development or Survival? The Heat is Killing",
     "source": "groundviews.org",
     "snippet": "Photo courtesy of Sri Lanka Mirror In 1979 an official communique displayed in the news media proclaimed, \"No oil means no development and less oil less development. It is oil that keeps the",
@@ -1524,6 +1567,16 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Army-manned COVID vaccination centres operative today",
+    "source": "dailynews.lk",
+    "snippet": "http://www.dailynews.lk/sites/default/files/news/2021/08/20/ARMY%20MANAGE%20VACCINATION%20CENTRES%20-%2020%20AUG%202021.pdf",
+    "url": "https://dailynews.lk/2021/08/20/local/257219/army-manned-covid-vaccination-centres-operative-today",
+    "url_hash": "13efa2ddda535fb9661eea8d4a568135",
+    "ut": 1629439682,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-20",
     "title": "CEB lost Rs.160 bn due to private diesel power plant buys",
     "source": "www.dailynews.lk",
     "snippet": "Engineers' Association President Saumya Kumarawadu said yesterday that over the past 19 years, a loss of over Rs.160 billion has been incurred due to the short-term decision taken by the United National Front (UNF) in 2002 to purchase electricity from private diesel power plants at high prices to meet the country's electricity demand.",
@@ -1706,6 +1759,41 @@
         "start_end": [
           23,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lankans Seek Full COVID Lockdown Ahead of President's Address",
+    "source": "www.usnews.com",
+    "snippet": "Sri Lankan President Gotabaya Rajapaksa will meet his COVID-19 advisers on Friday and is expected later to address the nation as infections and deaths overwhelm the island's health system, leading to calls for a complete lockdown.",
+    "url": "https://www.usnews.com/news/world/articles/2021-08-20/sri-lankans-seek-full-covid-lockdown-ahead-of-presidents-address",
+    "url_hash": "11af0e186b70c0afde2a84e1fc87a6a1",
+    "ut": 1629446886,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          11,
+          12
         ]
       }
     ]
@@ -2162,6 +2250,81 @@
   {
     "date": "2021-08-20",
     "title": "The Latest: Sri Lanka to enter 10-day lockdown to curb cases",
+    "source": "apnews.com",
+    "snippet": "Thailand passed 1 million total coronavirus infections Friday as its latest surge dropped below 20,000 daily cases for the first time in 10 days. Over 97% of the cases counted since the pandemic began have been since April.",
+    "url": "https://apnews.com/article/business-health-coronavirus-pandemic-thailand-2b89e1ab8cf44ae078acab9ee7ec0ede",
+    "url_hash": "bdc45b9614c2b5a9c3b3bea0635e361c",
+    "ut": 1629457694,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1 million",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20,000",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10 days",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "Over 97%",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Sri Lanka to enter 10-day lockdown to curb cases",
     "source": "www.nhregister.com",
     "snippet": "Sri Lanka's government imposed a 10-day lockdown across the island on Friday in an attempt to contain the rapid escalation of COVID-19 cases. The lockdown will be effective from 10:00 p.m. Friday until Aug.",
     "url": "https://www.nhregister.com/news/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
@@ -2332,6 +2495,108 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: AP-NORC poll: Vaccine requirements favored in US",
+    "source": "abcnews.go.com",
+    "snippet": "The heightened worry is reflected in a new poll from The Associated Press-NORC Center ... population has been fully vaccinated. COLOMBO, Sri Lanka \u2014 Sri Lanka's government imposed a 10-day ...",
+    "url": "https://abcnews.go.com/Health/wireStory/latest-thailand-passes-1m-cases-latest-surge-drops-79555949",
+    "url_hash": "5070649b3dabfcbc934541392770f284",
+    "ut": 1629461294,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center",
+        "start_end": [
+          10,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Sri Lanka to enter 10-day lockdown to curb cases",
+    "source": "www.ctpost.com",
+    "snippet": "Sri Lanka's government imposed a 10-day lockdown across the island on Friday in an attempt to contain the rapid escalation of COVID-19 cases. The lockdown will be effective from 10:00 p.m. Friday until Aug.",
+    "url": "https://www.ctpost.com/news/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "c2a7a1bc3009ff577d88156684ea046d",
+    "ut": 1629469146,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10:00 p.m.",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Aug.",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]
