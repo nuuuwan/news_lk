@@ -2310,6 +2310,16 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Delta starts work early, before symptoms begin to show",
+    "source": "www.dailymirror.lk",
+    "snippet": "New study finds that the Covid-19 variant's rapid spread is caused by infected persons who feel fine even after infection ..",
+    "url": "https://www.dailymirror.lk/recomended-news/Delta-starts-work-early--before-symptoms-begin-to-show/277-218656",
+    "url_hash": "c50fb2e7b579eb35f5c15e85895ce2e2",
+    "ut": 1629446873,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-20",
     "title": "Sri Lanka to go into 10-day lockdown as COVID-19 surges",
     "source": "economynext.com",
     "snippet": "Sri Lanka confirmed 186 COVID-19 deaths for Wednesday (18), the highest daily death toll yet. With 3,806 new infections for Thursday, active cases in the island have risen to nearly 48,000. (Colombo/Aug20/2021)",
@@ -3746,6 +3756,49 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: AP-NORC poll: Vaccine requirements favored in US",
+    "source": "www.wtrf.com",
+    "snippet": "DENVER \u2014 Anxiety in the United States over COVID-19 is at its highest level since winter. The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs",
+    "url": "https://www.wtrf.com/news/international/the-latest-sri-lanka-to-enter-10-day-lockdown-to-curb-cases/",
+    "url_hash": "b48b44a2df06188f5f60f26fe50cf358",
+    "ut": 1629457691,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "DENVER",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "winter",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center for Public Affairs",
+        "start_end": [
+          27,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: Sri Lanka to enter 10-day lockdown to curb cases",
     "source": "apnews.com",
     "snippet": "Thailand passed 1 million total coronavirus infections Friday as its latest surge dropped below 20,000 daily cases for the first time in 10 days. Over 97% of the cases counted since the pandemic began have been since April.",
@@ -4150,6 +4203,33 @@
         "start_end": [
           12,
           15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "As COVID deaths surge, Sri Lanka prepares for 10-day lockdown",
+    "source": "www.msn.com",
+    "snippet": "Lockdown starting Friday night announced after government bows to pressure from experts as surge overwhelms hospitals.",
+    "url": "https://www.msn.com/en-us/news/world/as-covid-deaths-surge-sri-lanka-prepares-for-10-day-lockdown/ar-AANxoug",
+    "url_hash": "e8d9f002291b47150617747a46defcb0",
+    "ut": 1629461282,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          3,
+          4
         ]
       }
     ]
@@ -4747,6 +4827,65 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Every citizen above 30 to be fully vaccinated by Sept. 10: Prez",
+    "source": "www.dailymirror.lk",
+    "snippet": "Every citizen above 30 years of age will be given both doses of the Covid-19 vaccine by September 10,President Gotabaya Rajapaksa said. Addressing the nation, he said 98 percent of the population have been given the first dose of the vaccine while 43 ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Every-citizen-above-30-to-be-fully-vaccinated-by-Sept-10-Prez/108-218666",
+    "url_hash": "2a0b9696e9bc9da9264873feb12c34a2",
+    "ut": 1629475673,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "above 30 years of age",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "98 percent",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "43",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: WHO asks experts to join virus advisory group",
     "source": "www.stltoday.com",
     "snippet": "A Sri Lankan municipal health worker sprays disinfectants on ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide spike in infections, spurred by the highly ...",
@@ -4787,6 +4926,33 @@
         "start_end": [
           25,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "No community spread yet, says Health Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a situation where patients infected with COVID-19 are detected every part of the country with no origin, Deputy Director General of Health Services Dr. Hemantha Herath said there is no community transmission yet in the country. Replying to a query posed ...",
+    "url": "https://www.dailymirror.lk/latest_news/No-community-spread-yet--says-Health-Ministry/342-218597",
+    "url_hash": "a0854ec8d8004e60a56ef71a6e29172f",
+    "ut": 1629479273,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health Services Dr.",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hemantha Herath",
+        "start_end": [
+          26,
+          28
         ]
       }
     ]
@@ -5367,6 +5533,57 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Georgia majors slam Gov. Kemp's order on virus",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "ATLANTA \u2014 The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic. In an open letter on Friday, the mayors of Atlanta,",
+    "url": "https://www.stamfordadvocate.com/business/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "dc6277a2aa061fdfdfcfdbc07f12c749",
+    "ut": 1629493031,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ATLANTA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Georgia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Brian Kemp",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Atlanta",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
