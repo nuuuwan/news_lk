@@ -2483,6 +2483,57 @@
   },
   {
     "date": "2021-08-19",
+    "title": "Singapore to remove restrictions on Sri Lankan Work Permit Holders",
+    "source": "colombogazette.com",
+    "snippet": "Singapore is to remove the minimum Period of Employment (POE) requirement on Sri Lankan Work Permit Holders. The Singapore Government is introducing new measures to help companies in the Construction,",
+    "url": "https://colombogazette.com/2021/08/19/singapore-to-remove-restrictions-on-sri-lankan-work-permit-holders/",
+    "url_hash": "35bb5b37c7067e1d2f698731c086a9ba",
+    "ut": 1629353299,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "POE",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Work Permit Holders",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Singapore Government",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Construction",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
     "title": "Timeline of R. Kelly's life, lurid rumor to criminal charges",
     "source": "www.sfgate.com",
     "snippet": "R. Kelly has long faced allegations of lurid sexual behavior and abuse, some of which have been made public through documentaries or court documents. The R&B singer is once again heading to court, this time for a federal trial in New York stemming from years of sexual abuse allegations.",
@@ -3673,6 +3724,89 @@
         "start_end": [
           21,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-19",
+    "title": "Sri Lankans above 18 yrs to get vaccinated to curb fast spreading Covid",
+    "source": "news.webindia123.com",
+    "snippet": "The Sri Lankan government has decided to inoculate every citizen above 18 years of age by September 30 in an effort to curb the fast spreading Covid-19 pandemic. The Cabinet has decided to purchase nine million doses of the Sinopharm vaccines and 14 million doses of the Pfizer jabs to vaccinate thoese aged between 18 and 30.",
+    "url": "https://news.webindia123.com/news/Articles/Health/20210819/3805588.html",
+    "url_hash": "7787322b6c03f73ae8f9c0de393b1981",
+    "ut": 1629367680,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "above 18 years of age by",
+        "start_end": [
+          10,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 30",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine million",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14 million",
+        "start_end": [
+          43,
+          45
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 18 and 30",
+        "start_end": [
+          54,
+          58
         ]
       }
     ]
