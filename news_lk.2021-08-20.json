@@ -1019,6 +1019,57 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Producers grapple with over 10% price increase across supply chains in June",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's producers contend over 10 percent increase in prices across their supply chains as producer inflation accelerated during June from a month ago when the country was under virus-related restrictions for three weeks while fuel prices were raised.",
+    "url": "https://www.dailymirror.lk/business-news/Producers-grapple-with-over-10-price-increase-across-supply-chains-in-June/273-218626",
+    "url_hash": "8da274f5fdf9088973df02dd82665864",
+    "ut": 1629428884,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "10 percent",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a month ago",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three weeks",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Singapore-based Robocash to commence online lending operations in Sri Lanka",
     "source": "www.dailymirror.lk",
     "snippet": "Singapore-based leading alternative lending service provider, Robocash Group plans to commence an online lending operation in Sri Lanka within this quarter (3Q). ..",
@@ -1886,6 +1937,73 @@
     "url_hash": "13efa2ddda535fb9661eea8d4a568135",
     "ut": 1629439682,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Pistols, ammo found in Weligama",
+    "source": "www.dailymirror.lk",
+    "snippet": "Five pistols, eight magazines and ten bullets were found hidden in a jungle at Walana in Weligama by the Police Narcotics Bureau (PNB). ..",
+    "url": "https://www.dailymirror.lk/latest_news/Pistols-ammo-found-in-Weligama/342-218652",
+    "url_hash": "cb2319f54b5ede6429e029764367d269",
+    "ut": 1629439684,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Five",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Walana",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Weligama",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Police Narcotics Bureau",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PNB",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-20",
@@ -2819,6 +2937,151 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Sri Lanka announces lockdown as coronavirus cases surge; president to address nation",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lanka announced a 10-day lockdown starting on Friday night in an effort to curb the spread of thecoronavirus, assurging infections and deaths overwhelm the island's health system.",
+    "url": "https://www.reuters.com/world/asia-pacific/sri-lankans-seek-full-covid-lockdown-ahead-presidents-address-2021-08-20/",
+    "url_hash": "e17bbae11bdb8bf9798ad8785e4c908a",
+    "ut": 1629450492,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Samsung Launches Galaxy Tab S7 FE in Sri Lanka",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "This device is the latest addition to Samsung's Galaxy Tab portfolio, and together meets the productivity, creativity and entertainment needs of consumers.",
+    "url": "http://bizenglish.adaderana.lk/samsung-launches-galaxy-tab-s7-fe-in-sri-lanka/",
+    "url_hash": "8813603c7069a465fb914e8dfe604a9a",
+    "ut": 1629450492,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Galaxy Tab",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka goes into lockdown till Aug 30 as COVID-19 surges",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka confirmed 186 COVID-19 deaths for Wednesday (18), the highest daily death toll yet. With 3,806 new infections for Thursday, active cases in the island have risen to nearly 48,000. (Colombo/Aug20/2021)",
+    "url": "https://economynext.com/sri-lanka-goes-into-lockdown-till-aug-30-as-covid-19-surges-85246/",
+    "url_hash": "89a79bcf39b9d338bce563b3b9a8cd09",
+    "ut": 1629450492,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "186",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,806",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly 48,000",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo/Aug20/2021",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Perfect place - Review of Ellaidhoo Maldives by Cinnamon",
     "source": "www.tripadvisor.co.uk",
     "snippet": "See 2,418 traveller reviews, 5,437 candid photos, and great deals for Ellaidhoo Maldives by Cinnamon at Tripadvisor.",
@@ -3251,6 +3514,57 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Delta starts work early, before symptoms begin to show",
+    "source": "www.dailymirror.lk",
+    "snippet": "Infected persons with the Covid-19 Delta variant begin showing symptoms around five days after infection, the head of the Department of Immunology and Molecular Biology at Sri Jayewardenepura University Dr. Chandima Jeewandara said citing latest research ...",
+    "url": "https://www.dailymirror.lk/recomended-news/Delta-starts-work-early-before-symptoms-begin-to-show/277-218656",
+    "url_hash": "e8c3ec990adb583839b42a3ef46ad241",
+    "ut": 1629454084,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "around five days",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Immunology and Molecular Biology",
+        "start_end": [
+          19,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Jayewardenepura University",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandima Jeewandara",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Sri Lanka announces lockdown as coronavirus cases surge; president to address nation",
     "source": "economictimes.indiatimes.com",
     "snippet": "President Gotabaya Rajapaksa met with members of the presidential task force on coronavirus and was expected to address the nation on Friday evening.",
@@ -3280,6 +3594,41 @@
         "start_end": [
           22,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka announces nationwide lockdown over spiraling Covid-19 cases",
+    "source": "www.laprensalatina.com",
+    "snippet": "The Sri Lankan government announced Friday a 10-day nationwide lockdown responding to calls from health officials, lawmakers and religious leaders over spiraling cases of the coronavirus in the island nation.",
+    "url": "https://www.laprensalatina.com/sri-lanka-announces-nationwide-lockdown-over-spiraling-covid-19-cases/",
+    "url_hash": "e9e9447cee6ee9dcf03124f5e69646ed",
+    "ut": 1629454092,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          7,
+          10
         ]
       }
     ]
@@ -3646,6 +3995,16 @@
   },
   {
     "date": "2021-08-20",
+    "title": "As hospitals spillover, only those with serious symptoms will now be hospitalised",
+    "source": "www.dailymirror.lk",
+    "snippet": "Patients told to register through SMS to 1904 Patients will be categorized under A, B or C Those under category A will be transported to an allocated hospital Patients who are seriously ill will be taken to hospitals, others to be treated at home As ...",
+    "url": "https://www.dailymirror.lk/breaking_news/As-hospitals-spillover-only-those-with-serious-symptoms-will-now-be-hospitalised/108-218650",
+    "url_hash": "2af8ecb815dae87a42c29eec6744b594",
+    "ut": 1629457684,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-20",
     "title": "Sri Lanka to impose 10-day nation-wide lockdown from Friday night",
     "source": "www.theweek.in",
     "snippet": "Sri Lankan President Gotabhaya Rajapaksa has ordered a 10-day nation-wide lockdown from Friday night, amidst mounting pressure from medics and the powerful Buddhist clergy to curb the raging third wave of COVID-19 infection.",
@@ -3793,6 +4152,49 @@
         "start_end": [
           27,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Sri Lanka to enter 10-day lockdown to curb cases",
+    "source": "madison.com",
+    "snippet": "COLOMBO, Sri Lanka \u2014 Sri Lanka's government imposed a 10-day lockdown across the island on Friday in an attempt to contain the rapid escalation of COVID-19 cases.",
+    "url": "https://madison.com/business/the-latest-sri-lanka-to-enter-10-day-lockdown-to-curb-cases/article_a0b7c66c-6ac2-58af-b1f5-2f9b98583b99.html",
+    "url_hash": "b6eadb3884494684abcfed0a8f40f9ad",
+    "ut": 1629457692,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
@@ -4330,6 +4732,108 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Preparing for 'stay indoors'",
+    "source": "www.dailymirror.lk",
+    "snippet": "People are preparing ahead for the upcoming stay-at-home order which comes into effect from 10 pm today until August 30. The Government has imposed a ten-day lockdown in view to prevent the prevalent COVID-19 outbreak in the county. Pix by Samantha Perera ...",
+    "url": "https://www.dailymirror.lk/caption_story/Preparing-for-stay-indoors/110-218661",
+    "url_hash": "54a03e630a868e9641b0e8df95b830b7",
+    "ut": 1629464884,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "10 pm",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten-day",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Samantha Perera",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka stocks down on lockdown, rates worries",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lank stock fell 0.55 percent on Friday as the government's announcement for an Island wide curfew till August 30 ... companies to perform well below their potential. Sri Lanka's pandemic situation has been worsening with COVID ...",
+    "url": "https://economynext.com/sri-lanka-stocks-down-on-lockdown-rates-worries-85261/",
+    "url_hash": "5507dd25b9d3a36be4935b7d42455a8b",
+    "ut": 1629464892,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ECONOMYNEXT - Sri Lank",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.55 percent",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: AP-NORC Poll: Vaccine Requirements Favored in US",
     "source": "www.usnews.com",
     "snippet": "More state governments and school districts are adopting masking and vaccination requirements and the nation's hospital bed capacity is once again stretched to the limit. The poll shows nearly 6 in 10 Americans want vaccination mandates for those attending movies,",
@@ -4486,6 +4990,41 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Kandy Esala festival to continue without spectators",
+    "source": "dailynews.lk",
+    "snippet": "The historical Kandy Esala Perahera this year will continue without... COVID booster shots to be given to health workers A COVID 19 vaccine booster shot is to be given to health workers in the...",
+    "url": "https://dailynews.lk/2021/08/20/local/257245/kandy-esala-festival-continue-without-spectators",
+    "url_hash": "995fcec784ac69ffbcaed5e85f15ecbc",
+    "ut": 1629468488,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kandy Esala Perahera",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "A COVID 19",
+        "start_end": [
+          20,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Heathrow Airport: The 60 countries the government says you shouldn't travel to",
     "source": "www.getreading.co.uk",
     "snippet": "Obsessing over traffic lights and local travel rules that might not let your teenage children in also provides additional stress. The rules have been relaxed over the past few months, with the government's scrapping of the quarantine requirement for anyone who is double vaccinated and coming back from an amber list country,",
@@ -4593,6 +5132,57 @@
         "start_end": [
           19,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Si Lanka",
+    "source": "www.dailynews.lk",
+    "snippet": "The Bogawantalawa Police and the Bogawantalawa Health Medical Officer's Office have taken steps to disperse about 100 people who had attended a wedding held at a hall in the Bogawantalawa area today...",
+    "url": "http://www.dailynews.lk/tags/si-lanka",
+    "url_hash": "bc00a53d5a9bbb800245a755f170e112",
+    "ut": 1629472088,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Bogawantalawa Police",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bogawantalawa Health Medical Officer's",
+        "start_end": [
+          4,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "about 100",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bogawantalawa",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
@@ -5163,6 +5753,73 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Detangling Sinophobia and criticism of the Chinese State",
+    "source": "www.ft.lk",
+    "snippet": "In May this year the enactment of the Colombo Port City Economic Commission (CPCEC) Bill provoked severe public backlash against China's potential influence in Sri Lanka. More recently, China's influence over Sri Lanka through 'vaccine .",
+    "url": "https://www.ft.lk/opinion/Detangling-Sinophobia-and-criticism-of-the-Chinese-State/14-721979",
+    "url_hash": "2649955de506034c70fe0819108ef767",
+    "ut": 1629482904,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "May this year",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Port City Economic Commission",
+        "start_end": [
+          7,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Record Covid deaths force 10-day lockdown in Sri Lanka",
     "source": "www.daijiworld.com",
     "snippet": "After recording its highest single-day Covid death toll of 186, Sri Lanka has announced a 10-day lockdown starting Friday night. Health Minister Keheliya Rambukwella announced that the island-wide lockdown will come into effect from Friday night and will end on August 30.",
@@ -5426,6 +6083,76 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Sri Lanka announces nationwide lockdown as COVID-19 cases surge",
+    "source": "www.wionews.com",
+    "snippet": "Sri Lanka announced a 10-day lockdown starting from Friday night in an effort to curb the spread of coronavirus cases. This comes as surging infections and deaths overwhelm the island's health system.",
+    "url": "https://www.wionews.com/videos/sri-lanka-announces-nationwide-lockdown-as-covid-19-cases-surge-407336",
+    "url_hash": "3a9612749e7fa3690ab147f1b7d1801b",
+    "ut": 1629486492,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Sri Lanka to enter 10-day lockdown to curb cases",
+    "source": "accesswdun.com",
+    "snippet": "Sri Lanka's government is imposing a 10-day lockdown across the island to contain a rapid escalation of COVID-19 cases",
+    "url": "https://accesswdun.com/article/2021/8/1032121",
+    "url_hash": "d47d216ad74786b1ccf28706a64d989f",
+    "ut": 1629486500,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          7,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "President to address the nation tonight",
     "source": "www.dailynews.lk",
     "snippet": "President Gotabaya Rajapaksa will address the nation at 8.30pm today, the President's Media Division said. It will be simultaneously broadcast by all television and radio channels.",
@@ -5539,6 +6266,92 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "www.mysanantonio.com",
+    "snippet": "Sri Lanka's government imposed a 10-day lockdown across the island on Friday in an attempt to contain the rapid escalation of COVID-19 cases. The lockdown will be effective from 10:00 p.m. Friday until Aug.",
+    "url": "https://www.mysanantonio.com/news/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "70026822aa1ae647ad8058fcf6192304",
+    "ut": 1629490100,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10:00 p.m.",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Aug.",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Orlando hospitals need oxygen from public water",
+    "source": "omaha.com",
+    "snippet": "A Sri Lankan municipal health worker sprays ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide ...",
+    "url": "https://omaha.com/business/the-latest-mississippi-hospital-mandates-shots-for-staff/article_c6472618-4b9b-5460-b7d8-01a28d6e0a2d.html",
+    "url_hash": "46b947a10519899b27bc4af5119815ae",
+    "ut": 1629490100,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center for Public Affairs Research",
+        "start_end": [
+          18,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: Georgia majors slam Gov. Kemp's order on virus",
     "source": "www.stamfordadvocate.com",
     "snippet": "ATLANTA \u2014 The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic. In an open letter on Friday, the mayors of Atlanta,",
@@ -5584,6 +6397,97 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka to impose 10-day nation-wide lockdown from Friday night",
+    "source": "www.tribuneindia.com",
+    "snippet": "Over 5 million out of the 21 million population have been given two doses of a vaccine Sri Lankan President Gotabhaya Rajapaksa has ordered a 10-day nation-wide lockdown from Friday night, amidst mounting pressure from medics and the powerful Buddhist clergy to curb the raging third wave of Covid-19 infection.",
+    "url": "https://www.tribuneindia.com/news/world/sri-lanka-to-impose-10-day-nation-wide-lockdown-from-friday-night-299873",
+    "url_hash": "72f8328e79f97fac9cb58069cf020a71",
+    "ut": 1629496392,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Over 5 million",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21 million",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabhaya Rajapaksa",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          50,
+          51
         ]
       }
     ]
