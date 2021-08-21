@@ -6501,6 +6501,49 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "omaha.com",
+    "snippet": "WASHINGTON \u2014 The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19.",
+    "url": "https://omaha.com/business/the-latest-us-keeps-ban-on-nonessential-crossings-to-canada/article_c6472618-4b9b-5460-b7d8-01a28d6e0a2d.html",
+    "url_hash": "3b5c98ac039912ba251ed1c44202ca84",
+    "ut": 1629472196,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Long queues at filling stations",
     "source": "www.dailymirror.lk",
     "snippet": "Long queues were seen at petrol stations in Colombo due to rumours circulating on social media that there is a fuel shortage in the country. Pix by Pradeep Dilrukshana",
@@ -7325,6 +7368,41 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: AP-NORC poll: Vaccine requirements favored in US",
+    "source": "accesswdun.com",
+    "snippet": "More state governments and school districts are adopting masking and vaccination requirements and the nation's hospital bed capacity is once again stretched to the limit. The poll shows nearly 6 in 10 Americans want vaccination mandates for those attending movies,",
+    "url": "https://accesswdun.com/article/2021/8/1032142",
+    "url_hash": "f053879e5cc5a361ededd23275368d65",
+    "ut": 1629479404,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "nearly 6",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
@@ -9056,6 +9134,65 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Russia to pump 5.6bn cm gas via Nord Stream 2",
+    "source": "www.dailymirror.lk",
+    "snippet": "Gas supplies via the Nord Stream 2 gas pipeline may total 5.6 billion cubic meters this year, Russia's state-run energy giant Gazprom said in a statement on Thursday. ..",
+    "url": "https://www.dailymirror.lk/international/Russia-to-pump-5-6bn-cm-gas-via-Nord-Stream-2/107-218686",
+    "url_hash": "24e62e78b596d7e711cc255121094b8c",
+    "ut": 1629490187,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nord Stream 2",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "5.6 billion cubic meters",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gazprom",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
