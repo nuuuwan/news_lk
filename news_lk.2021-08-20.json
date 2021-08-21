@@ -7012,6 +7012,33 @@
   {
     "date": "2021-08-20",
     "title": "The Latest: WHO asks experts to join virus advisory group",
+    "source": "omaha.com",
+    "snippet": "A Sri Lankan municipal health worker sprays ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide ...",
+    "url": "https://omaha.com/news/world/the-latest-who-asks-experts-to-join-virus-advisory-group/article_c6472618-4b9b-5460-b7d8-01a28d6e0a2d.html",
+    "url_hash": "3a944111f84f63f1ada086b0a6648bb3",
+    "ut": 1629475715,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center for Public Affairs Research",
+        "start_end": [
+          18,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: WHO asks experts to join virus advisory group",
     "source": "www.stltoday.com",
     "snippet": "A Sri Lankan municipal health worker sprays disinfectants on ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide spike in infections, spurred by the highly ...",
     "url": "https://www.stltoday.com/news/world/the-latest-who-asks-experts-to-join-virus-advisory-group/article_12fcb3f3-62a8-5767-bc98-a38688f64b18.html",
@@ -7723,6 +7750,33 @@
         "start_end": [
           43,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: San Fran: Full vaccination to enter restaurants",
+    "source": "www.stltoday.com",
+    "snippet": "A Sri Lankan municipal health worker sprays disinfectants on ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide spike in infections, spurred by the highly ...",
+    "url": "https://www.stltoday.com/business/the-latest-san-fran-full-vaccination-to-enter-restaurants/article_12fcb3f3-62a8-5767-bc98-a38688f64b18.html",
+    "url_hash": "0ea23dbe4d85e72f1985da67f3f323c4",
+    "ut": 1629482915,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center for Public Affairs Research",
+        "start_end": [
+          20,
+          30
         ]
       }
     ]
@@ -10489,6 +10543,41 @@
         "start_end": [
           50,
           53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "accesswdun.com",
+    "snippet": "The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19",
+    "url": "https://accesswdun.com/article/2021/8/1032169",
+    "url_hash": "5c2e9a4aedcb4462db3671543e31cbb7",
+    "ut": 1629500915,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
