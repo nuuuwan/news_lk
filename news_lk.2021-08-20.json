@@ -7705,6 +7705,49 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: Georgia mayors slam Gov. Kemp's order on virus",
+    "source": "omaha.com",
+    "snippet": "The heightened worry is reflected in a new poll from The Associated Press-NORC Center ... population has been fully vaccinated. COLOMBO, Sri Lanka \u2014 Sri Lanka's government imposed a 10-day ...",
+    "url": "https://omaha.com/business/the-latest-georgia-mayors-slam-gov-kemps-order-on-virus/article_c6472618-4b9b-5460-b7d8-01a28d6e0a2d.html",
+    "url_hash": "b7c634d680543e9211c8ed00a458bea5",
+    "ut": 1629482904,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center",
+        "start_end": [
+          10,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: AP-NORC poll: Vaccine requirements favored in US",
     "source": "www.msn.com",
     "snippet": "The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs ... Approximately 55% of the adult population has been fully vaccinated. COLOMBO, Sri Lanka \u2014 Sri Lanka's government imposed a 10-day lockdown ...",
@@ -8563,6 +8606,41 @@
         "start_end": [
           45,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Coronavirus live news: Sri Lanka to impose nationwide lockdown; one in 80 people in England had Covid last week",
+    "source": "www.theguardian.com",
+    "snippet": "Sri Lanka government bows to intense pressure from experts as hospitals overwhelmed; prevalence in England falls slightly on previous week",
+    "url": "https://www.theguardian.com/world/live/2021/aug/20/coronavirus-live-news-israel-to-start-booster-shots-for-over-40s-3000-fake-vaccination-cards-seized-in-alaska?page=with:block-6120018c8f08cc0d8b004ca8",
+    "url_hash": "ac09c63ba41c706a93416f528c3dd291",
+    "ut": 1629486504,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "previous week",
+        "start_end": [
+          19,
+          21
         ]
       }
     ]
@@ -10433,6 +10511,41 @@
         "start_end": [
           30,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Orlando urges water limits amid COVID-19 surge",
+    "source": "www.wral.com",
+    "snippet": "The mayor of Orlando asked residents on Friday to stop watering their lawns and washing their cars for a least a week, saying water usage needed to be cut back because of the recent surge of COVID-19 hospitalizations.",
+    "url": "https://www.wral.com/the-latest-thailand-passes-1m-cases-as-latest-surge-drops/19834645/",
+    "url_hash": "57600d2c0c28fcb4c25682ee3fa1dd38",
+    "ut": 1629497304,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Orlando",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a least a week",
+        "start_end": [
+          18,
+          22
         ]
       }
     ]
