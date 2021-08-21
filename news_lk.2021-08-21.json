@@ -28,6 +28,65 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Dulara a promising cricketer of Dharmaraja",
+    "source": "www.msn.com",
+    "snippet": "Seventeen year old Dulara Kalahantha Bandulasena, a Grade Twelve student of Dharmaraja College,Kandy is a talented cricketer of the School a fine left arm spinner who will be a top spinner in the future.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/dulara-a-promising-cricketer-of-dharmaraja/ar-AANyHMb",
+    "url_hash": "e486039a1f7ef64780ba59439574eca9",
+    "ut": 1629504527,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Seventeen year old",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dulara Kalahantha Bandulasena",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Grade Twelve",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dharmaraja College",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "School",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "The Latest: Georgia majors slam Gov. Kemp's order on virus",
     "source": "www.sfgate.com",
     "snippet": "ATLANTA \u2014 The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic. In an open letter on Friday, the mayors of Atlanta,",
@@ -1444,6 +1503,81 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Gamer.LK announces the Singer Esports Premier League 2021 with Rs. 1 million prize pool",
+    "source": "island.lk",
+    "snippet": "Sri Lanka's premier Esports company Gamer.LK has announced the Singer Esports Premier League - a franchise based PUBG Mobile league consisting of 12 teams and a prize pool of Rs. 1 million. With over 2,",
+    "url": "https://island.lk/gamer-lk-announces-the-singer-esports-premier-league-2021-with-rs-1-million-prize-pool/",
+    "url_hash": "cbe0ce75c1f4ddd679fa0f76876dfd37",
+    "ut": 1629544547,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Esports",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LK",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mobile",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1 million",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
