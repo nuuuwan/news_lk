@@ -10348,6 +10348,33 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: Orlando hospitals need oxygen from public water",
+    "source": "www.stltoday.com",
+    "snippet": "A Sri Lankan municipal health worker sprays disinfectants on ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide spike in infections, spurred by the highly ...",
+    "url": "https://www.stltoday.com/business/the-latest-orlando-hospitals-need-oxygen-from-public-water/article_12fcb3f3-62a8-5767-bc98-a38688f64b18.html",
+    "url_hash": "19b2ddc6eb72cc5b1880b1c5fbadd885",
+    "ut": 1629493708,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center for Public Affairs Research",
+        "start_end": [
+          20,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Coronavirus live news: Sri Lanka to impose nationwide lockdown; one in 80 people in England had Covid last week",
     "source": "www.theguardian.com",
     "snippet": "Sri Lanka government bows to intense pressure from experts as hospitals overwhelmed; prevalence in England falls slightly on previous week",
@@ -10605,6 +10632,25 @@
         "start_end": [
           18,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Georgia mayors slam governor over COVID order",
+    "source": "www.thenewstribune.com",
+    "snippet": "The World Health Organization has issued a call for experts to join a new advisory group to address the agency's attempts to further investigate the origins of the coronavirus pandemic.",
+    "url": "https://www.thenewstribune.com/news/business/article253626023.html",
+    "url_hash": "4a37691b69ddfad2a199e87a82c2d6e0",
+    "ut": 1629497308,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Health Organization",
+        "start_end": [
+          0,
+          4
         ]
       }
     ]

@@ -1223,6 +1223,33 @@
   },
   {
     "date": "2021-08-21",
+    "title": "This Mumbai home brings Geoffrey Bawa's tropical aesthetic to the city on a budget",
+    "source": "www.architecturaldigest.in",
+    "snippet": "Designed by Studio Untag, the space abounds in warm wooden accents, pops of greenery, and Sri Lanka-inspired artwork",
+    "url": "https://www.architecturaldigest.in/story/this-mumbai-home-brings-geoffrey-bawa-tropical-aesthetic-to-the-city-on-a-budget/",
+    "url_hash": "cdfff992347afd3be07cd06cbb0a92e0",
+    "ut": 1629515298,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Studio Untag",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Royal Challengers Sign Sri Lanka Spinner Wanindu Hasaranga",
     "source": "menafn.com",
     "snippet": "Sri Lanka leg-spinner Wanindu Hasaranga, who played a pivotal role in his team's T20 series win against a depleted Indian side, has",
@@ -1780,6 +1807,73 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Demand for small onions from S-E Asia comes to exporters' rescue",
+    "source": "www.thehindubusinessline.com",
+    "snippet": "Demand for onions smaller in size from South-East Asia is helping exports of the commodity even as high freight rates have affected Indian onion shipments to West Asia, one of its main markets. \"There is good demand for small onions (of 25-35 mm diameter size) in countries such as Malaysia and Thailand.",
+    "url": "https://www.thehindubusinessline.com/economy/agri-business/demand-for-small-onions-from-s-e-asia-comes-to-exporters-rescue/article36012620.ece",
+    "url_hash": "10df08428bcf67023ccd8f3e0e0acf3c",
+    "ut": 1629529698,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "South-East Asia",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "West Asia",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "25-35 mm",
+        "start_end": [
+          47,
+          51
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          58,
+          59
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          60,
+          61
         ]
       }
     ]
@@ -2936,6 +3030,92 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Liquid Oxygen Needed for COVID-19 Patients, Not Cars",
+    "source": "www.infobae.com",
+    "snippet": "The city of Orlando, Florida has asked its residents to cut back on its use of water for several weeks because of a shortage of liquid oxygen, which is used to purify the water supply. The oxygen shortage is another consequence of the COVID-19 pandemic.",
+    "url": "https://www.infobae.com/en/2021/08/21/liquid-oxygen-needed-for-covid-19-patients-not-cars/",
+    "url_hash": "f22b77fe26db3c7fad164d27d88e9fae",
+    "ut": 1629547708,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Orlando",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "several weeks",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Navy ships from Sri Lanka and India heading to Colombo with oxygen",
+    "source": "menafn.com",
+    "snippet": "A Sri Lanka Navy ship and an Indian Navy ship are heading to Colombo with much needed oxygen.   Sri Lanka Naval Ship (SLN",
+    "url": "https://menafn.com/1102650890/Navy-ships-from-Sri-Lanka-and-India-heading-to-Colombo-with-oxygen",
+    "url_hash": "ecebcfac429d9af8d95a6d88c8165fe8",
+    "ut": 1629547722,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Naval",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLN",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Sri Lanka bans 'drunk driving' of elephants",
     "source": "colombogazette.com",
     "snippet": "Sri Lanka will issue captive elephants with their own biometric identity cards and ban their riders from drinking on the job under a wide-ranging new animal protection law. Many rich Sri Lankans \u2014 including Buddhist monks \u2014 keep elephants as pets to show off their wealth,",
@@ -3982,6 +4162,49 @@
   },
   {
     "date": "2021-08-21",
+    "title": "CPC Union Secretary Ananda Palitha arrested over fuel shortage claims",
+    "source": "www.dailymirror.lk",
+    "snippet": "Jathika Sevaka Sangamaya wing (JSS) Secretary Ananda Palitha has been arrested by the Criminal Investigations Department (CID) for making a statement about fuel shortage. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/CPC-Union-Secretary-Ananda-Palitha-arrested-over-fuel-shortage-claims/108-218741",
+    "url_hash": "033921c3a2bffd8a72089f77955bf04a",
+    "ut": 1629562088,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jathika Sevaka Sangamaya",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "JSS",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ananda Palitha",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Criminal Investigations Department",
+        "start_end": [
+          14,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Police arrest hundreds of protesters as Australia reports record COVID-19 cases",
     "source": "dailynews.lk",
     "snippet": "Australian police arrested hundreds of anti-lockdown protesters in Melbourne and Sydney on Saturday and seven officers were hospitalised as a result of clashes, as the country saw its highest ever single-day rise in COVID-19 cases.",
@@ -4344,6 +4567,76 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Plan B for Afghanistan: Travel to Sri Lanka via Pakistan and Dubai",
+    "source": "www.espn.co.uk",
+    "snippet": "Afghanistan board draws up contingency plan for travel, as no commercial flights have taken off from Kabul since the Taliban's takeover of the country | ESPN.co.uk",
+    "url": "https://www.espn.co.uk/cricket/story/_/id/32059336/afg-vs-pak-2021-plan-b-afghanistan-travel-sri-lanka-via-pakistan-dubai",
+    "url_hash": "1a563a0e214bb64d7ef8512ef24c773c",
+    "ut": 1629569298,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Full FDA approval for Pfizer vaccine is imminent, sources say; Fenway working on details of new mask rules",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/full-fda-approval-for-pfizer-vaccine-is-imminent-sources-say-fenway-working-on-details-of-new-mask-rules/ar-AAMrNBT",
+    "url_hash": "1607a81702267334c205de0653a75766",
+    "ut": 1629572908,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Sri Lanka's daily COVID count rises",
     "source": "www.dailynews.lk",
     "snippet": "The highest number of COVID-19 patients were reported today in Sri Lanka with 3,884 new infections. The total count of positive coronavirus cases found in Sri Lanka currently sits at 385,696, stated t",
@@ -4475,6 +4768,81 @@
         "start_end": [
           27,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "SLNS Shakthi: Sailing to Save Lives",
+    "source": "www.defence.lk",
+    "snippet": "One of these landing ship tankers, SLNS Shakthi (L880), responded to the nation's clarion call and her crew set sail to Chennai, India from the Eastern Naval Command Harbour in Trincomalee. This was done on a directive of President Gotabaya Rajapaksa who instructed Navy Commander Vice Admiral Nishantha Ulugetenne to urgently deploy a naval ship for this task.",
+    "url": "https://www.defence.lk/Article/view_article/3872",
+    "url_hash": "2b3bef286bc502e34f0813f92d427fcb",
+    "ut": 1629579498,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "SLNS Shakthi",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Chennai",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Eastern Naval Command Harbour",
+        "start_end": [
+          30,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          46,
+          48
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          50,
+          51
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nishantha Ulugetenne",
+        "start_end": [
+          54,
+          56
         ]
       }
     ]
