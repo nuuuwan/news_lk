@@ -2782,6 +2782,16 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Delta starts work early, before symptoms begin to show",
+    "source": "www.dailymirror.lk",
+    "snippet": "New study finds that the Covid-19 variant's rapid spread is caused by infected persons who feel fine even after infection ..",
+    "url": "https://www.dailymirror.lk/insight/Delta-starts-work-early--before-symptoms-begin-to-show/374-218656",
+    "url_hash": "e3c69ce9c544b2a25eb0ae1625f5b405",
+    "ut": 1629446886,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-20",
     "title": "Tourism Minister requests MPs to donate 75% of salary",
     "source": "dailynews.lk",
     "snippet": "Tourism Minister Prasanna Ranatunga has called for Parliamentarians to donate 75% of their salaries, for public and private sector employees, except for health workers to donate 50% of their salaries and for minor workers to donate 30% of their salaries during the lockdown period.",
@@ -6065,6 +6075,49 @@
   {
     "date": "2021-08-20",
     "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "omaha.com",
+    "snippet": "WASHINGTON \u2014 The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19.",
+    "url": "https://omaha.com/news/world/the-latest-us-keeps-ban-on-nonessential-crossings-to-canada/article_c6472618-4b9b-5460-b7d8-01a28d6e0a2d.html",
+    "url_hash": "14ddf5df932f7beaa1e32b2b19a6f75d",
+    "ut": 1629472105,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
     "source": "www.mysanantonio.com",
     "snippet": "WASHINGTON \u2014 The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19. That's despite increasing pressure to lift the restriction.",
     "url": "https://www.mysanantonio.com/business/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
@@ -8174,6 +8227,49 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka banks on vaccines to see it through massive surge in COVID cases",
+    "source": "nypost.com",
+    "snippet": "COLOMBO, Sri Lanka \u2014 Manjula Wijesuriya had COVID-19 ... is swamping the Indian Ocean island nation. \"The delta variant is like a bomb,\" said Channa Jayasmana, state minister of ...",
+    "url": "https://nypost.com/2021/08/20/sri-lanka-banks-on-vaccination-to-see-it-through-delta-surge/",
+    "url_hash": "afab6c7f101a1006d152414e96885855",
+    "ut": 1629490096,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Manjula Wijesuriya",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Indian Ocean",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasmana",
+        "start_end": [
+          29,
+          31
         ]
       }
     ]
