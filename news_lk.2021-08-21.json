@@ -175,5 +175,107 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Camelia Nathaniel and Ishara Mudugamuwa",
+    "source": "dailynews.lk",
+    "snippet": "A countrywide quarantine curfew was declared from 10 p.m. yesterday till 4 a.m. on Monday 30th August under the instructions of the President Gotabaya Rajapaksa.Speaking to the Daily News, Head of...",
+    "url": "http://dailynews.lk/line/camelia-nathaniel-and-ishara-mudugamuwa",
+    "url_hash": "d0be62c52e3a85d7378158bc5cefdbe9",
+    "ut": 1629513196,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "10 p.m.",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "4 a.m.",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday 30th",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily News",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "The Latest: Louisiana gov. urges parents to mask children",
+    "source": "www.manisteenews.com",
+    "snippet": "More state governments and school districts are adopting masking and vaccination requirements and the nation's hospital bed capacity is once again stretched to the limit. The poll shows nearly 6 in 10 Americans want vaccination mandates for those attending movies,",
+    "url": "https://www.manisteenews.com/news/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "dd90a2dab05e97224d97f261164c07b2",
+    "ut": 1629514650,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "nearly 6",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
   }
 ]
