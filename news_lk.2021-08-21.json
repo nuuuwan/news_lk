@@ -52,6 +52,25 @@
   },
   {
     "date": "2021-08-21",
+    "title": "A critical review of Sri Lanka in 2021",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka has a wealth of competent professionals of integrity ... Our unique environment provides the natural security of an island, a strategic geographic location and manageable size, with extraordinary biodiversity. It is mostly arable, mainly flat ...",
+    "url": "https://www.ft.lk/columns/A-critical-review-of-Sri-Lanka-in-2021/4-722006",
+    "url_hash": "45e781e2abdef19d1e93a973566898d3",
+    "ut": 1629508078,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Khuram Sheikh's murder; 20 years jail term against Tangalle former PS Chairman effective from 2014",
     "source": "www.dailymirror.lk",
     "snippet": "The Colombo High Court has announced that 20-year-rigorous imprisonment was imposed against four accused including Tangalle Pradeshiya Sabha former Chairman Sampath Vidanapathirana for murdering a British aid worker Khuram Sheikh,",
@@ -317,6 +336,76 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "India gives emergency approval for world's first COVID-19 DNA jab",
+    "source": "www.dailynews.lk",
+    "snippet": "India's drug regulator has granted emergency use approval for Zydus Cadila's COVID-19 vaccine, the world's first DNA shot against the coronavirus, in adults and children aged 12 years and above. The approval gives a boost to India's vaccination programme,",
+    "url": "http://www.dailynews.lk/2021/08/21/world/257305/india-gives-emergency-approval-world%E2%80%99s-first-covid-19-dna-jab",
+    "url_hash": "27020cf81ce0b6afb81e589f8279bb88",
+    "ut": 1629519533,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Zydus Cadila's",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12 years",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Galle is a dump - museum entry $50 USD!",
+    "source": "www.tripadvisor.co.uk",
+    "snippet": "We went to the newly refurbished maritime museum but we were shocked to see that they charged $50 USD entry fee. This is not a large museum. Who are they kidding, are they trying to drive tourists away or what?",
+    "url": "https://www.tripadvisor.co.uk/ShowTopic-g297896-i9471-k4998469-o40-Galle_is_a_dump_museum_entry_50_USD-Galle_Galle_District_Southern_Province.html",
+    "url_hash": "57244c34ac977c81faa54a2e395b750f",
+    "ut": 1629520573,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "50",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]

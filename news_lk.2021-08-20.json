@@ -4625,6 +4625,41 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: Mississippi hospital mandates shots for staff",
+    "source": "www.wane.com",
+    "snippet": "Mississippi's only Level 1 trauma center and teaching hospital announced Friday it will mandate all employees and students to be vaccinated against COVID-19. The University of",
+    "url": "https://www.wane.com/news/the-latest-sri-lanka-to-enter-10-day-lockdown-to-curb-cases/",
+    "url_hash": "406c8e7791ae035eb303a48ed8a15599",
+    "ut": 1629457693,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Mississippi",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The University of",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: Sri Lanka to enter 10-day lockdown to curb cases",
     "source": "apnews.com",
     "snippet": "Thailand passed 1 million total coronavirus infections Friday as its latest surge dropped below 20,000 daily cases for the first time in 10 days. Over 97% of the cases counted since the pandemic began have been since April.",
@@ -5072,6 +5107,41 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Kandy Esala Perehara to continue despite quarantine curfew",
+    "source": "www.dailymirror.lk",
+    "snippet": "Army Commander General Shavendra Silva said that despite the quarantine curfew which will be imposed, the Kandy Esala Perehara will continue without public participation. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Kandy-Esala-Perehara-to-continue-despite-quarantine-curfew/342-218662",
+    "url_hash": "de2ab04054ad6d86505c5c9d065f22cf",
+    "ut": 1629461268,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "the Kandy Esala Perehara",
+        "start_end": [
+          16,
+          20
         ]
       }
     ]
@@ -6348,6 +6418,65 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Sri Lanka enters lockdown as Covid overwhelms hospitals - latest updates",
+    "source": "www.entornointeligente.com",
+    "snippet": "Entornointeligente.com / Coronavirus pandemic has killed over 4.4 million people and infected over 210.6 million globally. Here are the coronavirus-related developments for August 20: A medical official stands next to coffins for bodies of coronavirus disease victims at Judicial Medical Officer's premises in Colombo,",
+    "url": "https://www.entornointeligente.com/20/08/2021/sri-lanka-enters-lockdown-as-covid-overwhelms-hospitals-latest-updates/",
+    "url_hash": "07b846edcc9f1aef9847dea82a5ef001",
+    "ut": 1629475693,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Entornointeligente.com / Coronavirus",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 4.4 million",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "210.6 million",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 20",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Judicial Medical Officer's",
+        "start_end": [
+          42,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "The Latest: WHO asks experts to join virus advisory group",
     "source": "www.stltoday.com",
     "snippet": "A Sri Lankan municipal health worker sprays disinfectants on ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide spike in infections, spurred by the highly ...",
@@ -6786,6 +6915,41 @@
         "start_end": [
           0,
           2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Coronavirus live news: Sri Lanka to impose nationwide lockdown; one in 80 people in England had Covid last week",
+    "source": "www.theguardian.com",
+    "snippet": "Sri Lanka government bows to intense pressure from experts as hospitals overwhelmed; prevalence in England falls slightly on previous week",
+    "url": "https://www.theguardian.com/world/live/2021/aug/20/coronavirus-live-news-israel-to-start-booster-shots-for-over-40s-3000-fake-vaccination-cards-seized-in-alaska?page=with:block-611ff67b8f08f7d07c059279",
+    "url_hash": "44acd2c592fc44018520d379b96a3b76",
+    "ut": 1629482888,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "previous week",
+        "start_end": [
+          19,
+          21
         ]
       }
     ]
@@ -7753,6 +7917,172 @@
   },
   {
     "date": "2021-08-20",
+    "title": "15 years after disappearance; No truth, No justice",
+    "source": "www.dailymirror.lk",
+    "snippet": "Less than three years after he disappeared, on the last day of the war in May 2009, another Catholic priest, Rev. Fr. Francis Joseph too had had gone missing after he was last seen surrendering to the Army and taken away in a bus His disappearance and the May 2006 massacre in Allaipiddy (together with the killing of four others in two nearby villages) was amongst 16 high profile incidents of serious violations of human rights that a Presidential Commission of Inquiry appointed in 2006 was asked to investigate 15 years ago,",
+    "url": "https://www.dailymirror.lk/opinion/15-years-after-disappearance-No-truth-No-justice/172-218690",
+    "url_hash": "cd4bf544f844d68650507b2aeaf4424c",
+    "ut": 1629490068,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Less than three years",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last day",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 2009",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Catholic",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Fr",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Francis Joseph",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 2006",
+        "start_end": [
+          52,
+          54
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Allaipiddy",
+        "start_end": [
+          56,
+          57
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          63,
+          64
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          66,
+          67
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          72,
+          73
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "a Presidential Commission of Inquiry",
+        "start_end": [
+          83,
+          88
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2006",
+        "start_end": [
+          90,
+          91
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "15 years ago",
+        "start_end": [
+          95,
+          98
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Riffle shooter and rugby's tanker falls silent",
+    "source": "www.dailymirror.lk",
+    "snippet": "As a senior alumnus of Zahira College Colombo I am saddened to learn the demise of retired SSP Ibrahim Hamid on August 19. ..",
+    "url": "https://www.dailymirror.lk/news-features/Riffle-shooter-and-rugbys-tanker-falls-silent/131-218692",
+    "url_hash": "4286d24403c3b059e92d47e34d58aa31",
+    "ut": 1629490068,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Zahira College Colombo",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ibrahim Hamid",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 19",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Sri Lanka announces nationwide lockdown as COVID-19 cases surge",
     "source": "www.msn.com",
     "snippet": "Sri Lanka announced a 10-day lockdown starting from Friday night in an effort to curb the spread of coronavirus cases. This comes as surging infections and deaths overwhelm the island's health system. Like us on Facebook to see similar stories Please give ...",
@@ -7876,6 +8206,65 @@
         "start_end": [
           18,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Marikkar blames Govt.'s insensitivity and mismanagement for crises in country",
+    "source": "www.ft.lk",
+    "snippet": "Parliam-entarian S. M. Marikkar yesterday blamed the Gover-nment's insensitivity and mismanagement for the health and economic crises in the country. At a media briefing yesterday, Marikkar argued that the Government is the people's servant and the custodian of the country for a set period of time.",
+    "url": "https://www.ft.lk/front-page/Marikkar-blames-Govt-s-insensitivity-and-mismanagement-for-crises-in-country/44-722022",
+    "url_hash": "0b421f29a088d0b228afea7a1c9ae32d",
+    "ut": 1629490107,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Parliam-entarian",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. M. Marikkar",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gover",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Marikkar",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
