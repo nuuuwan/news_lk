@@ -5038,6 +5038,16 @@
   },
   {
     "date": "2021-08-20",
+    "title": "COVID booster shots to be given to health workers",
+    "source": "dailynews.lk",
+    "snippet": "Home COVID booster shots to be given to health workers",
+    "url": "https://dailynews.lk/2021/08/20/local/257230/covid-booster-shots-be-given-health-workers",
+    "url_hash": "5d3906a176319371e80903bc5046644e",
+    "ut": 1629462395,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-20",
     "title": "Record Covid deaths force 10-day lockdown in Sri Lanka",
     "source": "www.sify.com",
     "snippet": "After recording its highest single-day Covid death toll of 186, Sri Lanka has announced a 10-day lockdown starting Friday night.",
@@ -5449,6 +5459,41 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: AP-NORC poll: Vaccine requirements favored in US",
+    "source": "www.therepublic.com",
+    "snippet": "More state governments and school districts are adopting masking and vaccination requirements and the nation's hospital bed capacity is once again stretched to the limit. The poll shows nearly 6 in 10 Americans want vaccination mandates for those attending movies,",
+    "url": "http://www.therepublic.com/2021/08/20/virus-outbreak-the-latest/",
+    "url_hash": "94a0e5818eb15f783eaa676867e6fade",
+    "ut": 1629466009,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "nearly 6",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Kandy Esala festival to continue without spectators",
     "source": "dailynews.lk",
     "snippet": "The historical Kandy Esala Perahera this year will continue without... COVID booster shots to be given to health workers A COVID 19 vaccine booster shot is to be given to health workers in the...",
@@ -5787,6 +5832,84 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Long queues at filling stations",
+    "source": "www.dailymirror.lk",
+    "snippet": "Long queues were seen at petrol stations in Colombo due to rumours circulating on social media that there is a fuel shortage in the country. Pix by Pradeep Dilrukshana",
+    "url": "https://www.dailymirror.lk/latest_news/Long-queues-at-filling-stations/342-218663",
+    "url_hash": "6bd4836e158a3ac2496fb6d05dc343b6",
+    "ut": 1629473190,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lanka imposes nationwide lockdown amid virus surge",
+    "source": "www.aa.com.tr",
+    "snippet": "The island nation reported 3,806 infections a day earlier, raising the overall tally to 373,165, including 6,790 fatalities. Around 12 million people have received at least one dose of a COVID-19 vaccine in Sri Lanka, according to the minister.",
+    "url": "https://www.aa.com.tr/en/asia-pacific/sri-lanka-imposes-nationwide-lockdown-amid-virus-surge/2341528",
+    "url_hash": "ed06b34afd80a790618ce9e78b7853ec",
+    "ut": 1629473200,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "3,806",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a day earlier",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "373,165",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6,790",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Around 12 million",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
@@ -6991,6 +7114,49 @@
   },
   {
     "date": "2021-08-20",
+    "title": "HSBC launches Project CORE in Sri Lanka to tackle climate change",
+    "source": "www.dailymirror.lk",
+    "snippet": "HSBC has committed Rs.48.2 million for Project CORE (Climate-smart Opportunities through Restoration and Education): a first of its kind, science-backed restoration initiative combining nature-based knowledge, ecosystem best practices, youth involvement ...",
+    "url": "https://www.dailymirror.lk/business-news/HSBC-launches-Project-CORE-in-Sri-Lanka-to-tackle-climate-change/273-218672",
+    "url_hash": "5e0f41325565a8b8033a5a37c0fc0f11",
+    "ut": 1629487590,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "HSBC",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Project CORE",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Opportunities through Restoration and Education",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "President to address the nation tonight",
     "source": "www.dailynews.lk",
     "snippet": "President Gotabaya Rajapaksa will address the nation at 8.30pm today, the President's Media Division said. It will be simultaneously broadcast by all television and radio channels.",
@@ -7466,6 +7632,25 @@
         "start_end": [
           44,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "A critical review of Sri Lanka in 2021",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka has a wealth of competent professionals of integrity ... Our unique environment provides the natural security of an island, a strategic geographic location and manageable size, with extraordinary biodiversity. It is mostly arable, mainly flat ...",
+    "url": "https://www.ft.lk/columns/A-critical-review-of-Sri-Lanka-in-2021/4-722006",
+    "url_hash": "45e781e2abdef19d1e93a973566898d3",
+    "ut": 1629491200,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
         ]
       }
     ]
