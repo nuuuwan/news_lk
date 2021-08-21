@@ -1,6 +1,81 @@
 [
   {
     "date": "2021-08-21",
+    "title": "Singer Esports Premier League begins on August 28",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka's largest Esports league where competitors can play from home Sri Lanka's premier Esports company Gamer.LK has announced the Singer Esports Premier League - a franchise based PUBG Mobile league consisting of 12 teams and a Rs.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/singer-esports-premier-league-begins-on-august-28/ar-AANywyR",
+    "url_hash": "6c8008dc90beb3fcc868bc4c51ca195d",
+    "ut": 1629504469,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Esports",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Esports",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamer",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LK",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mobile",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "J'pura don, at Opposition leader's office, asks for Cabinet rearrangement",
     "source": "www.dailymirror.lk",
     "snippet": "The Cabinet should be rearranged in accordance with the urgent need of fighting the current pandemic and re-building the battered economy, a leading university don said yesterday. ..",
@@ -175,6 +250,73 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Sri Lanka goes on new lockdown as COVID deaths surge",
+    "source": "eturbonews.com",
+    "snippet": "Sri Lanka announces new 10-day lockdown. Sri Lanka's new COVID-19 cases and deaths soar. Spiking pandemic overwhelms Sri Lanka's hospitals and morgues. Sri Lanka was forced to bow to intense pressure from medical experts after it recorded its highest single-day COVID-19 death toll of 187 and 3,",
+    "url": "https://eturbonews.com/3001148/sri-lanka-goes-on-new-lockdown-as-covid-deaths-surge/",
+    "url_hash": "039a8c145f722b66c15070307157e32a",
+    "ut": 1629508069,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "single-day",
+        "start_end": [
+          46,
+          49
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "187 and 3",
+        "start_end": [
+          53,
+          56
         ]
       }
     ]
@@ -597,6 +739,65 @@
     "snippet": "Army Commander General Shavendra Silva yesterday warned people not to misuse the 10-day quarantine curfew which came into effect from 10 pm last night and to remain at home as health workers and authorities rushed against time to stop a further spread of the contagious Delta variant.",
     "url": "https://www.dailymirror.lk/breaking_news/Do-not-misuse-curfew-and-stay-home-warns-army-chief/108-218704",
     "url_hash": "5aaab8473d419026b4f387bff74f572c",
+    "ut": 1629511661,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10 pm",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Do not misuse curfew and stay home, warns army chief",
+    "source": "www.dailymirror.lk",
+    "snippet": "Army Commander General Shavendra Silva yesterday warned people not to misuse the 10-day quarantine curfew which came into effect from 10 pm last night and to remain at home as health workers and authorities rushed against time to stop a further spread of the contagious Delta variant.",
+    "url": "https://www.dailymirror.lk/top_story/Do-not-misuse-curfew-and-stay-home-warns-army-chief/155-218704",
+    "url_hash": "ad5852d3090e26bb75333b291851a83b",
     "ut": 1629511661,
     "ent_info_list": [
       {
@@ -2311,6 +2512,84 @@
   },
   {
     "date": "2021-08-21",
+    "title": "SPC & SL Post to deliver medicine to homes",
+    "source": "www.newsfirst.lk",
+    "snippet": "The State Pharmaceutical Company and Sri Lanka Post has devised a method to deliver medicine to residents in major cities in the - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/21/spc-sl-post-to-deliver-medicine-to-homes/",
+    "url_hash": "648d85f71dc1c974a785cfeb2ba87071",
+    "ut": 1629544069,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The State Pharmaceutical Company",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Post",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Timeline of travel rule changes",
+    "source": "www.expressandstar.com",
+    "snippet": "Fifty changes to the rules for travellers arriving in England have been made since March 2020. Here is a timeline of the amendments: Airlines have called for the travel rules to be simplified (Steve Parsons/PA) - 1.",
+    "url": "https://www.expressandstar.com/news/uk-news/2021/08/21/timeline-of-travel-rule-changes/",
+    "url_hash": "3c6e61b1a490b1eb5a4b44746b48c31d",
+    "ut": 1629544069,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Fifty",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2020",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Steve Parsons/",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Sri Lanka bans 'drunk driving' of elephants",
     "source": "economynext.com",
     "snippet": "Sri Lanka will issue captive elephants with their own biometric identity cards and ban their riders from drinking on the job under a wide-ranging new animal protection law. Many rich Sri Lankans \u2014 including Buddhist monks \u2014 keep elephants as pets to show off their wealth,",
@@ -2812,6 +3091,100 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Highest oxygen consumption of COVID patients recorded yesterday (Video)",
+    "source": "www.hirunews.lk",
+    "snippet": "The highest oxygen consumption in hospitals was reported yesterday (20) as the number of COVID patients who depend on oxygen continues to increase. The Ministry of Health stated that the reserves of the two private companies that supply oxygen to hospitals are gradually declining.",
+    "url": "https://www.hirunews.lk/english/280279/highest-oxygen-consumption-of-covid-patients-recorded-yesterday-video",
+    "url_hash": "d1710e509ff61fcf824c943f05294bda",
+    "ut": 1629554869,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Coronavirus live: UK expert calls for 'strategic' booster jabs; anti-lockdown clashes in Australia",
+    "source": "www.theguardian.com",
+    "snippet": "British virologist Dr Chris Smith told BBC Breakfast that the UK government should deploy booster vaccines \"strategically\". He said the pandemic needed to be ended all over the world but also the UK could not allow the effectiveness of vaccines to wane.",
+    "url": "https://www.theguardian.com/world/live/2021/aug/21/coronavirus-live-anti-lockdown-protesters-clash-with-police-in-australia?page=with:block-6121142c8f08cc0d8b005635",
+    "url_hash": "2ebbe3e85ce73adb6952409aecffb967",
+    "ut": 1629554877,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chris Smith",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BBC Breakfast",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
@@ -3599,6 +3972,16 @@
   },
   {
     "date": "2021-08-21",
+    "title": "How Fintech And Edutech Companies Calling The Shots In Cricket Sponsorship?",
+    "source": "www.hydnews.net",
+    "snippet": "The much hyped\u00a0Bitcoin exchange platforms are the latest to join the cricket sponsorship bandwagon already in the grip of edutech and real money gaming players.",
+    "url": "https://www.hydnews.net/how-fintech-and-edutech-companies-calling-the-shots-in-cricket-sponsorship/",
+    "url_hash": "7b5b7fba93e7598f62465cdc844d29c5",
+    "ut": 1629562077,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-21",
     "title": "Police arrest hundreds of protesters as Australia reports record COVID-19 cases",
     "source": "dailynews.lk",
     "snippet": "Australian police arrested hundreds of anti-lockdown protesters in Melbourne and Sydney on Saturday and seven officers were hospitalised as a result of clashes, as the country saw its highest ever single-day rise in COVID-19 cases.",
@@ -3955,6 +4338,143 @@
         "start_end": [
           23,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Sri Lanka's daily COVID count rises",
+    "source": "www.dailynews.lk",
+    "snippet": "The highest number of COVID-19 patients were reported today in Sri Lanka with 3,884 new infections. The total count of positive coronavirus cases found in Sri Lanka currently sits at 385,696, stated t",
+    "url": "http://www.dailynews.lk/2021/08/21/local/257317/sri-lanka%E2%80%99s-daily-covid-count-rises",
+    "url_hash": "ef8e586a1fa5916ccc41d9dca62b9621",
+    "ut": 1629573405,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,884",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "385,696",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Sri Lanka bans 'drunk driving' of elephants in new protection law",
+    "source": "www.daily-sun.com",
+    "snippet": "COLOMBO: Sri Lanka will issue captive elephants with their own biometric identity cards and ban their riders from drinking on the job under a wide-ranging new animal protection law, reports AFP. Many",
+    "url": "https://www.daily-sun.com/post/571834/Sri-Lanka-bans-%E2%80%98drunk-driving%E2%80%99-of-elephants-in-new-protection-law",
+    "url_hash": "f64075f7578dceecf8632aa3d0d684fd",
+    "ut": 1629574809,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AFP",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Kerala cannabis worth over Rs. 1 million seized",
+    "source": "www.dailynews.lk",
+    "snippet": "About 3kg and 548g of Kerala cannabis were seized by the Sri Lanka Navy during a special operation conducted in Jayanagar of Kuchchaveli, Trincomalee this afternoon.",
+    "url": "http://www.dailynews.lk/2021/08/21/local/257314/kerala-cannabis-worth-over-rs-1-million-seized",
+    "url_hash": "7ff3044ad2112d4ffd86722880666895",
+    "ut": 1629575325,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "About 3kg",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "548",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Navy",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jayanagar of Kuchchaveli",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this afternoon",
+        "start_end": [
+          27,
+          29
         ]
       }
     ]
