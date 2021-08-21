@@ -79,6 +79,100 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Workers Struggles: Asia and Australia",
+    "source": "www.wsws.org",
+    "snippet": "Tamil Nadu state government workers protest. Thousands of workers from state government departments protested and wore black badges on Monday over several demands. The",
+    "url": "https://www.wsws.org/en/articles/2021/08/21/labo-a21.html",
+    "url_hash": "226fd4e1ee528ac8d2ae159b749d2e01",
+    "ut": 1629508071,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Thousands",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Thundershowers expected to develop over most parts of the island",
+    "source": "www.hirunews.lk",
+    "snippet": "Due to a low-level atmospheric disturbance, thundershowers are expected to develop over most parts of the island during today (21) and tomorrow (22). Showers or thundershowers will occur at times in Central, Uva, Northern, North-central, Eastern and ...",
+    "url": "https://www.hirunews.lk/goldfmnews/280223/thundershowers-expected-to-develop-over-most-parts-of-the-island",
+    "url_hash": "599cccf2e55953cfd9efccfad43e1c7f",
+    "ut": 1629508071,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Central",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Eastern",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "A critical review of Sri Lanka in 2021",
     "source": "www.ft.lk",
     "snippet": "Sri Lanka has a wealth of competent professionals of integrity ... Our unique environment provides the natural security of an island, a strategic geographic location and manageable size, with extraordinary biodiversity. It is mostly arable, mainly flat ...",
@@ -347,6 +441,65 @@
         "start_end": [
           22,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Do not misuse curfew and stay home, warns army chief",
+    "source": "www.dailymirror.lk",
+    "snippet": "Army Commander General Shavendra Silva yesterday warned people not to misuse the 10-day quarantine curfew which came into effect from 10 pm last night and to remain at home as health workers and authorities rushed against time to stop a further spread of the contagious Delta variant.",
+    "url": "https://www.dailymirror.lk/breaking_news/Do-not-misuse-curfew-and-stay-home-warns-army-chief/108-218704",
+    "url_hash": "5aaab8473d419026b4f387bff74f572c",
+    "ut": 1629511661,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10 pm",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          47,
+          48
         ]
       }
     ]
@@ -897,6 +1050,41 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Programme to vaccinate 60+ who are not vaccinated",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Home Affairs Ministry advised all Divisional and District Secretaries to arrange a programme to find people over 60 years of age who have not received any of the COVID-19 vaccine doses. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Programme-to-vaccinate-60-who-are-not-vaccinated/108-218726",
+    "url_hash": "6187cc2b716e6ef1adc2e1cf42409970",
+    "ut": 1629522461,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Home Affairs Ministry",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Divisional",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years of age",
+        "start_end": [
+          18,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Sri Lanka goes Silent",
     "source": "www.dailymirror.lk",
     "snippet": "A 10 day quarantine curfew came into effect from last night. Seen here are the deserted roads of Colombo today morning. Pix by Jamila Husain and Nisal Baduge ..",
@@ -1154,6 +1342,25 @@
         "start_end": [
           46,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "The Latest: WHO asks experts to join virus advisory group",
+    "source": "accesswdun.com",
+    "snippet": "The World Health Organization has issued a call for experts to join a new advisory group to address the agency's attempts to further investigate the origins of the coronavirus pandemic",
+    "url": "https://accesswdun.com/article/2021/8/1032166",
+    "url_hash": "6033e946cbc2cdcf38e3322e7fcd31ca",
+    "ut": 1629533271,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Health Organization",
+        "start_end": [
+          0,
+          4
         ]
       }
     ]
