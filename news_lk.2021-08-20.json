@@ -2869,6 +2869,41 @@
   {
     "date": "2021-08-20",
     "title": "Sri Lankans seek full COVID lockdown ahead of president's address",
+    "source": "news.yahoo.com",
+    "snippet": "Sri Lankan President Gotabaya Rajapaksa will meet his COVID-19 advisers on Friday and is expected later to address the nation as infections and deaths overwhelm the island's health system, leading to calls for a complete lockdown.",
+    "url": "https://news.yahoo.com/sri-lankans-seek-full-covid-082601822.html",
+    "url_hash": "ed527999ece9adb807ca2c9a6c7bcfc6",
+    "ut": 1629446919,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Sri Lankans seek full COVID lockdown ahead of president's address",
     "source": "finance.yahoo.com",
     "snippet": "Sri Lankan President Gotabaya Rajapaksa will meet his COVID-19 advisers on Friday and is expected later to address the nation as infections and deaths overwhelm the island's health system, leading to calls for a complete lockdown.",
     "url": "https://finance.yahoo.com/news/sri-lankans-seek-full-covid-081121704.html",
@@ -5247,6 +5282,25 @@
         "start_end": [
           34,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Long queues at filling stations",
+    "source": "www.dailymirror.lk",
+    "snippet": "Long queues were seen at petrol stations in Colombo due to rumours circulating on social media that there is a fuel shortage in the country.pix by Pradeep Dilrukshana ..",
+    "url": "https://www.dailymirror.lk/caption_story/Long-queues-at-filling-stations/110-218663",
+    "url_hash": "234ff17cc840cf5cbff62d90eecfcc93",
+    "ut": 1629461309,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
