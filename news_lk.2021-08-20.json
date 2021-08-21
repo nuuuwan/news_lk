@@ -3213,6 +3213,57 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Nationwide lockdown from tonight till 10 days",
+    "source": "www.dailymirror.lk",
+    "snippet": "A nationwide lockdown has been announced from 10 pm tonight till Monday, August 30, Health Minister Keheliya Rambukwella said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Nationwide-lockdown-from-tonight-till-10-days/108-218657",
+    "url_hash": "8b8519dfcd858ca7a192e375397c6946",
+    "ut": 1629450491,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "10 pm",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "tonight",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday, August 30",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Sri Lanka announces lockdown as coronavirus cases surge; president to address nation",
     "source": "www.reuters.com",
     "snippet": "Sri Lanka announced a 10-day lockdown starting on Friday night in an effort to curb the spread of thecoronavirus, assurging infections and deaths overwhelm the island's health system.",
@@ -6080,6 +6131,49 @@
     "url": "https://omaha.com/news/world/the-latest-us-keeps-ban-on-nonessential-crossings-to-canada/article_c6472618-4b9b-5460-b7d8-01a28d6e0a2d.html",
     "url_hash": "14ddf5df932f7beaa1e32b2b19a6f75d",
     "ut": 1629472105,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "www.stltoday.com",
+    "snippet": "WASHINGTON \u2014 The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19.",
+    "url": "https://www.stltoday.com/business/the-latest-who-asks-experts-to-join-virus-advisory-group/article_12fcb3f3-62a8-5767-bc98-a38688f64b18.html",
+    "url_hash": "e19ca5cb19853d3a375ad8cdd4b5806b",
+    "ut": 1629472111,
     "ent_info_list": [
       {
         "label": "GPE",
@@ -9001,6 +9095,41 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Coronavirus live news: Sri Lanka to impose nationwide lockdown; one in 80 people in England had Covid last week",
+    "source": "www.theguardian.com",
+    "snippet": "Sri Lanka government bows to intense pressure from experts as hospitals overwhelmed; prevalence in England falls slightly on previous week",
+    "url": "https://www.theguardian.com/world/live/2021/aug/20/coronavirus-live-news-israel-to-start-booster-shots-for-over-40s-3000-fake-vaccination-cards-seized-in-alaska?page=with:block-612014938f08f7d07c0593d1",
+    "url_hash": "16f4f786bacf1b4c7d70cc62e3caa156",
+    "ut": 1629493711,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "previous week",
+        "start_end": [
+          19,
+          21
         ]
       }
     ]
