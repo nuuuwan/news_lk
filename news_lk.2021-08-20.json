@@ -6366,6 +6366,33 @@
     "date": "2021-08-20",
     "title": "The Latest: US keeps ban on nonessential crossings to Canada",
     "source": "www.stltoday.com",
+    "snippet": "A Sri Lankan municipal health worker sprays disinfectants on ... The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs Research. It comes amid another nationwide spike in infections, spurred by the highly ...",
+    "url": "https://www.stltoday.com/news/world/the-latest-us-keeps-ban-on-nonessential-crossings-to-canada/article_12fcb3f3-62a8-5767-bc98-a38688f64b18.html",
+    "url_hash": "e085dfd66f9bd3091862340fa70e70e5",
+    "ut": 1629472105,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center for Public Affairs Research",
+        "start_end": [
+          20,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: US keeps ban on nonessential crossings to Canada",
+    "source": "www.stltoday.com",
     "snippet": "WASHINGTON \u2014 The U.S. government is extending a ban on nonessential travel along the borders with Canada and Mexico to slow the spread of COVID-19.",
     "url": "https://www.stltoday.com/business/the-latest-who-asks-experts-to-join-virus-advisory-group/article_12fcb3f3-62a8-5767-bc98-a38688f64b18.html",
     "url_hash": "e19ca5cb19853d3a375ad8cdd4b5806b",
@@ -7651,6 +7678,57 @@
   },
   {
     "date": "2021-08-20",
+    "title": "The Latest: AP-NORC poll: Vaccine requirements favored in US",
+    "source": "www.msn.com",
+    "snippet": "The heightened worry is reflected in a new poll from The Associated Press-NORC Center for Public Affairs ... Approximately 55% of the adult population has been fully vaccinated. COLOMBO, Sri Lanka \u2014 Sri Lanka's government imposed a 10-day lockdown ...",
+    "url": "http://www.msn.com/en-ca/lifestyle/smart-living/the-latest-ap-norc-poll-vaccine-requirements-favored-in-us/ar-AANxrdU",
+    "url_hash": "5c7cbdddc64f29dc66bb1a7fb66e7e57",
+    "ut": 1629482905,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Associated Press-NORC Center for Public Affairs",
+        "start_end": [
+          10,
+          19
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "Approximately 55%",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          37,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          43,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Detangling Sinophobia and criticism of the Chinese State",
     "source": "www.ft.lk",
     "snippet": "In May this year the enactment of the Colombo Port City Economic Commission (CPCEC) Bill provoked severe public backlash against China's potential influence in Sri Lanka. More recently, China's influence over Sri Lanka through 'vaccine .",
@@ -8238,6 +8316,25 @@
   },
   {
     "date": "2021-08-20",
+    "title": "Under pressure, Sri Lanka takes baby steps to address international rights concerns",
+    "source": "economynext.com",
+    "snippet": "The island nation is under pressure to deliver on the past demands ... violations of human rights or serious violations of international humanitarian law in Sri Lanka, to advocate for victims and survivors, and to support relevant judicial and other ...",
+    "url": "https://economynext.com/under-pressure-sri-lanka-takes-baby-steps-to-address-international-rights-concerns-85268/",
+    "url_hash": "25afffd4a4e29128baa62e86cb833560",
+    "ut": 1629486496,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "A critical review of Sri Lanka in 2021",
     "source": "www.ft.lk",
     "snippet": "Public discourse everywhere confirms that Sri Lanka is in a parlous situation on several fronts. This paper appraises our current situation against a proposed national development framework. National resources Sri Lanka's two key resources are its people and environment.",
@@ -8412,6 +8509,41 @@
         "start_end": [
           45,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Mississippi hospital mandates shots for staff",
+    "source": "www.stltoday.com",
+    "snippet": "JACKSON, MISS. \u2014 Mississippi's only Level 1 trauma center and teaching hospital announced Friday it will mandate all employees and students to be vaccinated against COVID-19.",
+    "url": "https://www.stltoday.com/news/world/the-latest-georgia-mayors-slam-gov-kemps-order-on-virus/article_12fcb3f3-62a8-5767-bc98-a38688f64b18.html",
+    "url_hash": "25394bef3e10052b1af9021fb9043a14",
+    "ut": 1629486505,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "JACKSON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mississippi",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
@@ -8869,6 +9001,33 @@
   },
   {
     "date": "2021-08-20",
+    "title": "CSR urges sri lankans to join today's black hartal",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Easter Sunday bomb attacks on churches and hotels killed 269 people leaving many maimed for life. But who is the mastermind behind these terror attacks? ..",
+    "url": "https://www.dailymirror.lk/news-features/CSR-urges-sri-lankans-to-join-todays-black-hartal/131-218693",
+    "url_hash": "751463208ca5ccde511489ec8e976a39",
+    "ut": 1629490086,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "269",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
     "title": "Sri Lanka banks on vaccines to see it through massive surge in COVID cases",
     "source": "nypost.com",
     "snippet": "COLOMBO, Sri Lanka \u2014 Manjula Wijesuriya had COVID-19 ... is swamping the Indian Ocean island nation. \"The delta variant is like a bomb,\" said Channa Jayasmana, state minister of ...",
@@ -8992,6 +9151,33 @@
         "start_end": [
           18,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Georgia mayors slam governor over COVID order",
+    "source": "omaha.com",
+    "snippet": "The mayors of some of Georgia's largest cities are slamming Gov. Brian Kemp's new order that aims to limit local efforts to curb the coronavirus pandemic.",
+    "url": "https://omaha.com/business/the-latest-more-school-districts-enact-mask-mandates/article_c6472618-4b9b-5460-b7d8-01a28d6e0a2d.html",
+    "url_hash": "814b152b997b7eb968f5579c151f94bd",
+    "ut": 1629490105,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Georgia",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Brian Kemp",
+        "start_end": [
+          12,
+          14
         ]
       }
     ]
@@ -9868,6 +10054,76 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "Coronavirus live news: Sri Lanka to impose nationwide lockdown; one in 80 people in England had Covid last week",
+    "source": "www.theguardian.com",
+    "snippet": "Sri Lanka government bows to intense pressure from experts as hospitals overwhelmed; prevalence in England falls slightly on previous week",
+    "url": "https://www.theguardian.com/world/live/2021/aug/20/coronavirus-live-news-israel-to-start-booster-shots-for-over-40s-3000-fake-vaccination-cards-seized-in-alaska?page=with:block-61201e5d8f08cc0d8b004dae",
+    "url_hash": "12ab8290a1d39c5063b2416fcda0b3fc",
+    "ut": 1629493705,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "previous week",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-20",
+    "title": "The Latest: Orlando hospitals need oxygen from public water",
+    "source": "omaha.com",
+    "snippet": "The mayor of Orlando asked residents on Friday to stop watering their lawns and washing their cars for a least a week, saying water usage needed to",
+    "url": "https://omaha.com/business/the-latest-orlando-hospitals-need-oxygen-from-public-water/article_c6472618-4b9b-5460-b7d8-01a28d6e0a2d.html",
+    "url_hash": "c3a37a92ee835cedd58327b2d15f64fc",
+    "ut": 1629493705,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Orlando",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a least a week",
+        "start_end": [
+          18,
+          22
         ]
       }
     ]

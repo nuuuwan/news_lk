@@ -1886,6 +1886,73 @@
   },
   {
     "date": "2021-08-21",
+    "title": "RCB rope in Wanindu & Chameera for IPL 2021",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lankan pair of\u00a0Wanindu Hasaranga\u00a0and\u00a0Dushmantha Chameera, as well as Australia's Singapore-born\u00a0Tim David, have joined Royal Challengers Bangalore for the second part of IPL 2021. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/RCB-rope-in-Wanindu-Chameera-for-IPL-2021/108-218738",
+    "url_hash": "0e00e8f11d7ab12da2a570d6014ba501",
+    "ut": 1629544086,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hasaranga\u00a0",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Royal Challengers Bangalore",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "IPL 2021",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Afghanistan and Sri Lanka discuss situation after Taliban grabbed power",
     "source": "colombogazette.com",
     "snippet": "Afghanistan and Sri Lanka had talks on the situation in the capital Kabul after Taliban grabbed power. The Afghan Ambassador to Sri Lanka, M. Ashraf Haidari called on Prime Minister Mahinda Rajapaksa and the Honorable Foreign Minister G.",
@@ -2164,6 +2231,135 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Sri Lanka bans 'drunk driving' of elephants as part of wide-ranging protection law",
+    "source": "www.channelnewsasia.com",
+    "snippet": "COLOMBO: Sri Lanka will issue captive elephants with their own biometric identity cards and ban their riders from drinking on the job under a wide-ranging new animal protection law. Many rich Sri Lankans - including Buddhist monks - keep elephants as pets to show off their wealth,",
+    "url": "https://www.channelnewsasia.com/asia/sri-lanka-elephants-animal-protection-law-2127996",
+    "url_hash": "b6f2f0bbf40ec6c142e36ea5c15ac168",
+    "ut": 1629555220,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Highest oxygen consumption of COVID patients recorded yesterday",
+    "source": "www.hirunews.lk",
+    "snippet": "The highest oxygen consumption in hospitals was reported yesterday (20) as the number of COVID patients who depend on oxygen continues to increase. The Ministry of Health stated that the reserves of the two private companies that supply oxygen to hospitals are gradually declining.",
+    "url": "https://www.hirunews.lk/goldfmnews/280279/highest-oxygen-consumption-of-covid-patients-recorded-yesterday",
+    "url_hash": "edad4c2f27ed95a58599ea56a1aca015",
+    "ut": 1629555736,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "India gives emergency approval for world's first COVID-19 DNA jab",
+    "source": "dailynews.lk",
+    "snippet": "India's drug regulator has granted emergency use approval for Zydus Cadila's COVID-19 vaccine, the world's first DNA shot against the coronavirus, in adults and children aged 12 years and above. The approval gives a boost to India's vaccination programme,",
+    "url": "https://dailynews.lk/2021/08/21/world/257305/india-gives-emergency-approval-world%E2%80%99s-first-covid-19-dna-jab",
+    "url_hash": "b3382951148aaddc8e8293fdeae9b3bc",
+    "ut": 1629556271,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Zydus Cadila's",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12 years",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
