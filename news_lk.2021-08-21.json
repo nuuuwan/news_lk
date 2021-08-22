@@ -4624,6 +4624,65 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Taliban and cricket: What is the game's future in Afghanistan?",
+    "source": "www.freepressjournal.in",
+    "snippet": "Taliban loves cricket. Yes, you read it right! The insurgents, who seized power in Afghanistan two weeks before the U.S. was set to complete its troop withdrawal after a costly two-decade war, will purportedly not interfere with the activities of the Afghanistan Cricket Board (ACB).",
+    "url": "https://www.freepressjournal.in/sports/cricket/taliban-and-cricket-what-is-the-games-future-in-afghanistan",
+    "url_hash": "f79228897a97798452225df17a707bd3",
+    "ut": 1629555011,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two weeks",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-decade",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Afghanistan Cricket Board",
+        "start_end": [
+          47,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Sri Lanka bans 'drunk driving' of elephants as part of wide-ranging protection law",
     "source": "www.channelnewsasia.com",
     "snippet": "COLOMBO: Sri Lanka will issue captive elephants with their own biometric identity cards and ban their riders from drinking on the job under a wide-ranging new animal protection law. Many rich Sri Lankans - including Buddhist monks - keep elephants as pets to show off their wealth,",
@@ -4935,6 +4994,81 @@
         "start_end": [
           28,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Coronavirus death toll in Sri Lanka crosses the 7000 mark",
+    "source": "colombogazette.com",
+    "snippet": "The coronavirus death toll in Sri Lanka crossed the 7000 mark today. The Health Ministry said that another 198 deaths were confirmed today. Accordingly, the coronavirus death toll in Sri Lanka reached 7,",
+    "url": "https://colombogazette.com/2021/08/21/coronavirus-death-toll-in-sri-lanka-crosses-the-7000-mark/",
+    "url_hash": "cb662649baff1fffa14dff6762d3ff58",
+    "ut": 1629558635,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7000",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "198",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
@@ -6845,6 +6979,33 @@
         "start_end": [
           836,
           838
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Renowned Chicago investigative reporter Bill Recktenwald dies at 79",
+    "source": "www.dailyherald.com",
+    "snippet": "Before that, from 1978 to 1999, he enjoyed a storied career as an investigative reporter and deputy bureau chief at the Chicago Tribune, winning acclaim for work that often saw him going undercover in daring journalistic stings that exposed graft,",
+    "url": "https://www.dailyherald.com/news/20210821/renowned-chicago-investigative-reporter-bill-recktenwald-dies-at-79",
+    "url_hash": "00f9089b49163ba611079edc83b1a522",
+    "ut": 1629587411,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "1978 to 1999",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Chicago Tribune",
+        "start_end": [
+          22,
+          25
         ]
       }
     ]
