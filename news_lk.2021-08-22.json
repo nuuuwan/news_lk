@@ -272,5 +272,48 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Finally a lockdown after garbled messaging, confusion and blind panic",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Garbled messaging, confusion and blind panic marred the government's announcement on Friday of a 10-day countrywide lockdown in the face of the COVID-19 pandemic. President Gotabaya Rajapaksa had resisted calls for a countrywide lockdown for several weeks,",
+    "url": "https://www.sundaytimes.lk/210822/columns/finally-a-lockdown-after-garbled-messaging-confusion-and-blind-panic-453091.html",
+    "url_hash": "13de487d21e9a740cda451ff388fc6a9",
+    "ut": 1629602605,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "several weeks",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
   }
 ]
