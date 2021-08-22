@@ -2644,6 +2644,25 @@
   },
   {
     "date": "2021-08-22",
+    "title": "All this toil for pure survival.....",
+    "source": "www.dailymirror.lk",
+    "snippet": "Porters are seen working in Colombo inspire of the lockdown to find their means for survival. Pix by Pradeep Dilrukshana. ..",
+    "url": "https://www.dailymirror.lk/latest_news/All-this-toil-for-pure-survival/342-218765",
+    "url_hash": "809cce9d5197d700d53fd888e8887504",
+    "ut": 1629644867,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "183 more succumb to Covid-19",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 183 more COVID-19 related deaths that occurred yesterday (21) were confirmed by the Director-General of Health Services today pushing the death toll to 7,366. ..",
@@ -3237,6 +3256,135 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Daily Covid-19 cases exceed 4,000 mark",
+    "source": "www.dailymirror.lk",
+    "snippet": "COVID-19 cases today surpassed the 4,000 mark increasing the total number of positive cases in Sri Lanka to 390,000, the Government Information Department said. . ..",
+    "url": "https://www.dailymirror.lk/latest_news/Daily-Covid-19-cases-exceed-4-000-mark/342-218769",
+    "url_hash": "7349d461839e4f2c2cf002e3d97a97c5",
+    "ut": 1629655667,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,000",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "390,000",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          20,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Coronavirus | INS Shakti with 100 tonnes of medical oxygen reaches Sri Lanka",
+    "source": "www.thehindu.com",
+    "snippet": "Indian naval ship Shakti carrying 100 tonnes of liquid medical oxygen (LMO) reached Sri Lanka on Sunday to help the island nation in combating the COVID-19 pandemic. The countrys",
+    "url": "https://www.thehindu.com/news/international/coronavirus-ins-shakti-with-100-tonnes-of-medical-oxygen-reaches-sri-lanka/article36047636.ece",
+    "url_hash": "2129e75b10dd0d7e2c2c69602e838983",
+    "ut": 1629655676,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 tonnes",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LMO",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "US-Lanka relations after Taliban triumph",
+    "source": "www.ft.lk",
+    "snippet": "Having led the country deeper and deeper into a quagmire of an aggressive virus pandemic and depressed economy, the GR-MR-BR trio is now scrambling to repair the damage it has caused to Sri Lanka's foreign relations.",
+    "url": "https://www.ft.lk/opinion/US-Lanka-relations-after-Taliban-triumph/14-722036",
+    "url_hash": "49fcddcff9a2e6a75ec0b3dd5362a037",
+    "ut": 1629657010,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          37,
+          40
         ]
       }
     ]
