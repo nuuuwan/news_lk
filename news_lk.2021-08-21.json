@@ -2556,6 +2556,41 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Sri Lankan President warns of consequences if longer COVID-19 lockdown enforced",
+    "source": "www.thehindu.com",
+    "snippet": "Sri Lankan President Gotabaya Rajapaksa has warned of the consequences the public will face if a longer lockdown is enforced, as he ordered a 10-day nationwide shutdown to combat the spike in coronavirus cases.",
+    "url": "https://www.thehindu.com/news/international/sri-lankan-president-warns-of-consequences-if-longer-covid-19-lockdown-enforced/article36029557.ece",
+    "url_hash": "4875ac25abf100a1c5ab3d478d8815b9",
+    "ut": 1629533298,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Empowering Paralympian athletes at the Paralympic Games",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Representing Sri Lanka with much expectation is Dinesh Priyantha ... stand as a true testament to the endurance and dedication held by Sri Lankans across the island. This year, the athletes are determined to showcase their talent and skills while breaking ...",
@@ -5822,6 +5857,73 @@
         "start_end": [
           27,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Delta variant continues to disrupt life",
+    "source": "www.thedailystar.net",
+    "snippet": "Australian police arrested hundreds of anti-lockdown protesters in Melbourne and Sydney yesterday and seven officers were hospitalised as a result of clashes, as the country saw its highest ever single-day rise in Covid-19 cases.",
+    "url": "https://www.thedailystar.net/news/world/africa-rest-the-world/australia/news/delta-variant-continues-disrupt-life-2157821",
+    "url_hash": "a8c9a0919b6fa34e023a0e12de3eb507",
+    "ut": 1629576498,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Melbourne",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sydney",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "single-day",
+        "start_end": [
+          32,
+          35
         ]
       }
     ]
