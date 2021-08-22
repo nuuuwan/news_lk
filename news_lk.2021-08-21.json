@@ -1851,6 +1851,41 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Programme to vaccinate 60+ who were not vaccinated",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Home Affairs Ministry advised all Divisional and District Secretaries to arrange a programme to find people over 60 years of age who have not received any of the COVID-19 vaccine doses. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Programme-to-vaccinate-60-who-were-not-vaccinated/108-218726",
+    "url_hash": "ec5f90e5bdbc363e9db4dd4974e1f3ee",
+    "ut": 1629523626,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Home Affairs Ministry",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Divisional",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years of age",
+        "start_end": [
+          18,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "2,000-rupee relief allowance for families lost livelihood due to quarantine curfew",
     "source": "www.dailymirror.lk",
     "snippet": "Families that lose their livelihoods due to quarantine curfew will be provided with a relief allowance of Rs. 2,000 from next Monday, Finance Ministry Secretary S.R. Attygalle said. ..",
@@ -2641,6 +2676,49 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Three new mutations appearing together in Delta variant from Colombo",
+    "source": "www.adaderana.lk",
+    "snippet": "Gene sequencing tests have identified three new mutations occurring within the Delta variant in Sri Lanka making it the first time a situation as such was reported across the world, says Dr",
+    "url": "http://www.adaderana.lk/news.php?nid=76310",
+    "url_hash": "e737d7419ef473898d3ee2903321a18a",
+    "ut": 1629538036,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
@@ -3739,6 +3817,49 @@
         "start_end": [
           19,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "RCB signs Wanindu Hasaranga and Dushmantha Chameera for IPL 2021",
+    "source": "sportstar.thehindu.com",
+    "snippet": "Royal Challengers Bangalore says New Zealand's Finn Allen and Scott Kuggeleijn will also be unavailable for the upcoming UAE leg of the IPL.",
+    "url": "https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2021-rcb-squad-team-news-mike-hesson-bangalore-uae/article36031845.ece",
+    "url_hash": "d9310b7c90b7dd27a674f4859c1e59a7",
+    "ut": 1629548836,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Royal Challengers Bangalore",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Finn Allen",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Scott Kuggeleijn",
+        "start_end": [
+          10,
+          12
         ]
       }
     ]
