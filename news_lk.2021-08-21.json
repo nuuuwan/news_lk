@@ -2731,6 +2731,25 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Sri Lankan president warns of consequences if longer Covid lockdown enforced",
+    "source": "www.newindianexpress.com",
+    "snippet": "Rajapaksa also underlined that a lockdown will damage the country's economy, including the tourism sector which is trying to revive.",
+    "url": "https://www.newindianexpress.com/world/2021/aug/21/sri-lankan-president-warns-of-consequences-if-longer-covid-lockdown-enforced-2347837.html",
+    "url_hash": "0947276423df85afb05198ab2f08ae94",
+    "ut": 1629536899,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Rajapaksa",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Timeline of travel rule changes",
     "source": "www.shropshirestar.com",
     "snippet": "Fifty changes to the rules for travellers arriving in England have been made since March 2020. Here is a timeline of the amendments: Airlines have called for the travel rules to be simplified (Steve Parsons/PA) - 1.",
@@ -5298,6 +5317,33 @@
         "start_end": [
           16,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Among France's poorest, once-lagging vaccine rates jump",
+    "source": "businessmirror.com.ph",
+    "snippet": "The poorest region in mainland France has managed to dramatically speed up its Covid-19 vaccination campaign in recent weeks, notably by opening walk-in pop-up centers to reach out to people where they live and work.",
+    "url": "https://businessmirror.com.ph/2021/08/22/among-frances-poorest-once-lagging-vaccine-rates-jump/",
+    "url_hash": "e558eea7096c7a61aa592d0063d15998",
+    "ut": 1629562107,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent weeks",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
