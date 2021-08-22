@@ -917,6 +917,41 @@
   },
   {
     "date": "2021-08-22",
+    "title": "Namal assures no tax on e-platforms",
+    "source": "www.dailymirror.lk",
+    "snippet": "As a surge in online transaction volume is expected with the rise in Covid-19 cases and casualties in the country, Minister Development Co-ordination and Monitoring, and State Minister Digital Technology and Enterprise Development Namal Rajapaksa assured that no tax will be imposed on online platforms.",
+    "url": "https://www.dailymirror.lk/business_247/Namal-assures-no-tax-on-e-platforms/395-218749",
+    "url_hash": "8b303d2cbc69337d052674690cfa9c9e",
+    "ut": 1629616091,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Development Co-ordination",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Digital Technology",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "Mass. grapples with whether to adopt new restrictions; US weekly COVID infections surpass 1 million amid Delta surge",
     "source": "www.msn.com",
     "snippet": "Health officials are scrambling to vaccinate as the Delta variant takes hold. Below, we're gathering the latest news and updates on coronavirus in New England and beyond. Lockdowns or vaccines? 3 Pacific nations try diverging paths \u2014 12:18 a.",
@@ -1032,6 +1067,100 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "45 artistes participated in Kandy Perahera test Covid positive",
+    "source": "www.dailymirror.lk",
+    "snippet": "Some 45 artistes in a dance troupe which had taken part in the Kandy Esala Perahera have been tested positive with Covid-19, Health Authorities said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/45-artistes-participated-in-Kandy-Perahera-test-Covid-positive/108-218755",
+    "url_hash": "47d37d05c23bf47acf46e2b8c0b3110b",
+    "ut": 1629625091,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Some 45",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy Esala Perahera",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Authorities",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Sri Lanka records biggest ever daily increase of Covid deaths due to inadequate corona patient management protocol.",
+    "source": "www.lankaweb.com",
+    "snippet": "News of Sri Lanka. Sri Lanka records the biggest ever daily increase of Covid deaths for the second day in a row, as new cases rise sharply. The daily number of coronavirus deaths",
+    "url": "http://www.lankaweb.com/news/items/2021/08/20/sri-lanka-records-biggest-ever-daily-increase-of-covid-deaths-due-to-inadequate-corona-patient-management-protocol/",
+    "url_hash": "c77368fe5b4ae93ac9c656094a63bc9c",
+    "ut": 1629626480,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second day in a row",
+        "start_end": [
+          17,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
