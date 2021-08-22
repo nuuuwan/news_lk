@@ -275,6 +275,92 @@
   },
   {
     "date": "2021-08-22",
+    "title": "No more LP gas scarcity from tomorrow: State Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The prevailing domestic Liquid Petroleum (LP) gas scarcity in the country will be settled from tomorrow (23), Co-operative Services, Marketing Development and Consumer Protection State Minister Lasantha Alagiyawanna said.",
+    "url": "https://www.dailymirror.lk/breaking_news/No-more-LP-gas-scarcity-from-tomorrow-State-Minister/108-218745",
+    "url_hash": "19877e0fab7c214ea6532de034034bdf",
+    "ut": 1629601651,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Marketing Development and Consumer Protection",
+        "start_end": [
+          27,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lasantha Alagiyawanna",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Sri Lanka prints Rs29bn a day after monetary 'tightening'",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has printed 29 billion rupees following a failed Treasury bill auction after the agency ostensibly 'tightened' monetary policy by raising its policy rate by 50 basis points to 6.0 percent, official data shows.",
+    "url": "https://economynext.com/sri-lanka-prints-rs29bn-a-day-after-monetary-tightening-85313/",
+    "url_hash": "a1a09639a6a6373535482adcad0ec5bc",
+    "ut": 1629601675,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "29 billion",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "50",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "6.0 percent",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "Finally a lockdown after garbled messaging, confusion and blind panic",
     "source": "www.sundaytimes.lk",
     "snippet": "Garbled messaging, confusion and blind panic marred the government's announcement on Friday of a 10-day countrywide lockdown in the face of the COVID-19 pandemic. President Gotabaya Rajapaksa had resisted calls for a countrywide lockdown for several weeks,",
@@ -312,6 +398,84 @@
         "start_end": [
           40,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Sri Lanka apparel firms build care centres, 50-pct of workers vaccinated with two doses",
+    "source": "economynext.com",
+    "snippet": "Around 50 percent of Sri Lanka's apparel workforce had got a second Coronavirus vaccination dose and 11 care centres with 4,500 beds have been built for workers and more are under construction, an industry body said.",
+    "url": "https://economynext.com/sri-lanka-apparel-firms-build-care-centres-50-pct-of-workers-vaccinated-with-two-doses-85315/",
+    "url_hash": "b9ef9bd96c4b44870f10f3ceadacccb5",
+    "ut": 1629605995,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "Around 50 percent",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coronavirus",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,500",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Heavy Rain and Severe Lightning Advisory for Sri Lanka",
+    "source": "www.newsfirst.lk",
+    "snippet": "Showers or thundershowers will occur in the most parts of the island particularly in the evening or night. Fairly heavy showers above - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/22/heavy-rain-and-severe-lightning-advisory-for-sri-lanka/",
+    "url_hash": "58957b8d0cc4fa4b93d7baf8a08fda62",
+    "ut": 1629606279,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "evening",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
