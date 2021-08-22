@@ -3510,6 +3510,41 @@
   },
   {
     "date": "2021-08-21",
+    "title": "Plan B for Afghanistan: Travel to Sri Lanka via Pakistan and Dubai",
+    "source": "www.msn.com",
+    "snippet": "Afghanistan board draws up contingency plan for travel, as no commercial flights have taken off from Kabul since the Taliban's takeover of the country",
+    "url": "https://www.msn.com/en-in/sports/cricket/plan-b-for-afghanistan-travel-to-sri-lanka-via-pakistan-and-dubai/ar-AANzqib",
+    "url_hash": "12cc3dc6852f710253c99a273e469429",
+    "ut": 1629544102,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "Programme to vaccinate 60+ who are not vaccinated",
     "source": "www.dailymirror.lk",
     "snippet": "The Home Affairs Ministry advised all Divisional and District Secretaries to arrange a programme to find people over 60 years of age who have not received any of the COVID-19 vaccine doses. The Ministry Secretary, N.H.M. Chithrananda said in a letter to ...",
@@ -5516,6 +5551,81 @@
         "start_end": [
           49,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
+    "title": "Indian batsman Suryakumar Yadav Dancing With Wife After Reuniting With Her in London After 65 Days, Heartwarming Video Goes Viral",
+    "source": "www.aajkikhabar.com",
+    "snippet": "India cricketer Suryakumar Yadav finally reunited with his wife in London after a period of two months and the couple celebrated it by doing a small jig on Friday. He has been away from his wife since he entered the bio bubble of the Indian squad which toured Sri Lanka last month.",
+    "url": "https://www.aajkikhabar.com/en/278055/indian-batsman-suryakumar-yadav-dancing-with-wife-after-reuniting-with-her-in-london-after-65-days-heartwarming-video-goes-viral/",
+    "url_hash": "07862406e7889a80deac47004181f580",
+    "ut": 1629562130,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Suryakumar Yadav",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two months",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          49,
+          51
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          51,
+          53
         ]
       }
     ]
