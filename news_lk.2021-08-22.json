@@ -1,6 +1,41 @@
 [
   {
     "date": "2021-08-22",
+    "title": "Warning of heavy rain and lightning",
+    "source": "www.msn.com",
+    "snippet": "The Meteorology Department has issued a warning of sever lightening and heavy rain to several provinces, which is valid until 7.30 am. tomorrow(August 23).Due to a low level atmospheric disturbance in the vicinity of Sri Lanka,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/warning-of-heavy-rain-and-lightning/ar-AANABkT",
+    "url_hash": "9bc3522e173c90c9e70f5083a2110733",
+    "ut": 1629590880,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Meteorology Department",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7.30",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "Full FDA approval for Pfizer vaccine is imminent, sources say; Fenway working on details of new mask rules",
     "source": "www.msn.com",
     "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
@@ -572,6 +607,41 @@
         "start_end": [
           33,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Sri Lanka bans 'drunk driving' of elephants in new protection law",
+    "source": "www.freemalaysiatoday.com",
+    "snippet": "COLOMBO: Sri Lanka will issue captive elephants with their own biometric identity cards and ban their riders from drinking on the job under a wide-ranging new animal protection law. Many rich Sri Lankans - including Buddhist monks - keep elephants as pets to show off their wealth,",
+    "url": "https://www.freemalaysiatoday.com/category/world/2021/08/22/sri-lanka-bans-drunk-driving-of-elephants-in-new-protection-law/",
+    "url_hash": "219af7640fdc19a54fc75c423388e40d",
+    "ut": 1629613643,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
