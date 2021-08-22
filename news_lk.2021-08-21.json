@@ -1531,6 +1531,41 @@
   },
   {
     "date": "2021-08-21",
+    "title": "The Latest: Louisiana gov. urges parents to mask children",
+    "source": "www.theintelligencer.com",
+    "snippet": "The mayor of Orlando asked residents on Friday to stop watering their lawns and washing their cars for a least a week, saying water usage needed to be cut back because of the recent surge of COVID-19 hospitalizations.",
+    "url": "https://www.theintelligencer.com/news/article/The-Latest-Thailand-passes-1M-cases-as-latest-16399848.php",
+    "url_hash": "d818f9b889650067daaea5c1b37c918a",
+    "ut": 1629518900,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Orlando",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a least a week",
+        "start_end": [
+          18,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-21",
     "title": "The Latest: SF requires full vaccination for indoor activity",
     "source": "www.stamfordadvocate.com",
     "snippet": "San Francisco has become the first major city in the nation to require proof of full vaccination against the coronavirus for people to dine inside restaurants, work out in gyms or attend indoor concerts.",

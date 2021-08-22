@@ -60,5 +60,217 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Sri Lanka announces lockdown as Covid cases surge",
+    "source": "www.dawn.com",
+    "snippet": "COLOMBO: Sri Lanka announced a 10-day lockdown starting on Friday night in an effort to curb the spread of the coronavirus, as surging infections and deaths overwhelm the islands",
+    "url": "https://www.dawn.com/news/1641925/sri-lanka-announces-lockdown-as-covid-cases-surge",
+    "url_hash": "2d888ece2b3aaf047b86408e5aebdada",
+    "ut": 1629594492,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Lakshadweep: Where Blue Whales Sing",
+    "source": "theshillongtimes.com",
+    "snippet": "One hot 2019 afternoon in Lakshadweep, as marine mammal scientist Divya Panicker sat engrossed in listening to recordings retrieved from underwater sound recorders, she came across low blue whale moans,",
+    "url": "https://theshillongtimes.com/2021/08/22/lakshadweep-where-blue-whales-sing/",
+    "url_hash": "28ac142f7f09cac160bcaf69aacdefb2",
+    "ut": 1629594492,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "2019 afternoon",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Lakshadweep",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Divya Panicker",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "The Three Musketeers concede with appeals",
+    "source": "www.islandcricket.lk",
+    "snippet": "Banned cricketers Kusal Mendis, Danushka Gunathilaka and Niroshan Dickwella have appealed to Sri Lanka Cricket (SLC) and the Sports Ministry to reconsider their suspensions and fines. The cricketers admitted to breaching the bio-secure bubble during the recent England tour and were banned for six months from domestic cricket,",
+    "url": "https://www.islandcricket.lk/news/the-three-musketeers-concede-with-appeals/",
+    "url_hash": "35799580c870005ba0704585220990a0",
+    "ut": 1629598092,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kusal Mendis",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Danushka Gunathilaka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Niroshan Dickwella",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sports Ministry",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six months",
+        "start_end": [
+          49,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "30-man squad for South Africa ODI and T20 series: Chandimal returns, four rookies called in",
+    "source": "www.islandcricket.lk",
+    "snippet": "Former Sri Lanka skipper Dinesh Chandimal has earned a recall to the national white-ball side as selectors named him in a 30-man squad to play South Africa in a six-match limited over series. The squad also includes uncapped players in Dilshan Madushanka,",
+    "url": "https://www.islandcricket.lk/news/30-man-squad-for-south-africa-odi-and-t20-series-chandimal-returns-four-rookies-called-in/",
+    "url_hash": "38d973d118a5cef6f1d1bb3102ae6f91",
+    "ut": 1629598332,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chandimal",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dilshan Madushanka",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
   }
 ]
