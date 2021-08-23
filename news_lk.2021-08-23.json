@@ -1,6 +1,108 @@
 [
   {
     "date": "2021-08-23",
+    "title": "INS Shakti with a batch of medical-grade oxygen arrives at Colombo harbour",
+    "source": "news.lk",
+    "snippet": "In response to a call of Commander of the Navy, Vice Admiral Nishantha Ulugetenne, from the Chief of Naval Staff of India, Admiral Karambir Singh, Indian Naval Ship (INS) Shakti was rushed to Sri Lanka with a batch of medical-grade oxygen,",
+    "url": "https://news.lk/news/political-current-affairs/item/32793-ins-shakti-with-a-batch-of-medical-grade-oxygen-arrives-at-colombo-harbour",
+    "url_hash": "d749413871b0d9289ac34cd97ee6ec54",
+    "ut": 1629677300,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nishantha Ulugetenne",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Karambir Singh",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Indian Naval Ship",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Sri Lanka plans lentil credit line as money printing drive forex shortages",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's planning an import credit facility for big ticket items like lentils (parippu) and fuel from supplier countries, Central Bank Governor W D Lakshman said as liquidity injections pressured a currency peg and led to record balance of payments deficits.",
+    "url": "https://economynext.com/sri-lanka-plans-lentil-credit-line-as-money-printing-drive-forex-shortages-85320/",
+    "url_hash": "d56b77d5504094c00bbeb2f164939745",
+    "ut": 1629680918,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "W D Lakshman",
+        "start_end": [
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Dinesh Chandimal named in Sri Lanka's 30-man probable squad for South Africa white-ball series",
     "source": "www.sportskeeda.com",
     "snippet": "Sri Lankan selectors have recalled wicketkeeper-batsman and former captain Dinesh Chandimal for the white-ball series against South Africa, according to news reports. Sri Lanka and South Africa will clash in three ODIs and as many T20Is from September 2 in Colombo.",
@@ -207,6 +309,277 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "SL in talks for credit lines for big ticket imports to alleviate pressure on BoP",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is holding discussions to explore the possibility of obtaining credit lines from importing countries for big ticket imports such as petroleum to lessen the burden on the foreign exchange and thereby the balance of payment created by the pandemic induced challenges on foreign exchange earnings such as tourism,",
+    "url": "https://www.dailymirror.lk/business-news/SL-in-talks-for-credit-lines-for-big-ticket-imports-to-alleviate-pressure-on-BoP/273-218784",
+    "url_hash": "bb78951c7ce32b26084bae45954c7a4d",
+    "ut": 1629684491,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Sri Lanka Navy Ship arrives with 40 tonnes of Oxygen",
+    "source": "www.hirunews.lk",
+    "snippet": "Sri Lanka Navy Ship \"Shakthi\" has arrived at the Colombo port this morning with 40 tonnes of Oxygen from India. Meanwhile, Indian Naval Ship (INS) Shakti was rushed to Sri Lanka with a batch of medical-grade oxygen,",
+    "url": "https://www.hirunews.lk/english/280383/sri-lanka-navy-ship-arrives-with-40-tonnes-of-oxygen",
+    "url_hash": "fbe1ad3f165abf682448c173c0575e74",
+    "ut": 1629684500,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "40 tonnes",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Oxygen",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Indian Naval Ship",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Sri Lanka receives more Pfizer jabs",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has received another consignment of the Pfizer-BioNTech Covid-19 vaccine this morning (23). A consignment of 76,000 doses of the vaccine arrived at the Bandaranaike International Airport (BIA) today via a Qatar Airways cargo flight,",
+    "url": "http://www.adaderana.lk/news.php?nid=76350",
+    "url_hash": "7f2bb3df3be1f41b96df82dc0704189e",
+    "ut": 1629684505,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "76,000",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          29,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Qatar Airways",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Locations of COVID vaccination centres operating today",
+    "source": "www.adaderana.lk",
+    "snippet": "COVID-19 vaccinations will continue at many locations across the country today (Aug. 20), the Ministry of Health announced. Reportedly, the second dose of Pfizer-BioNTech vaccine is rolled out in the Puttalam District while the second dose of Moderna vaccine is administered in parts of Matale and Kandy districts.",
+    "url": "http://www.adaderana.lk/news/76292/locations-of-covid-vaccination-centres-operating-today",
+    "url_hash": "69b4d2ada33f74955b7da6a0fe09663b",
+    "ut": 1629685100,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Aug. 20",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pfizer-BioNTech",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Moderna",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Mass. grapples with whether to adopt new restrictions; US weekly COVID infections surpass 1 million amid Delta surge",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/covid-19-cases-overwhelm-gulf-coast-leaving-region-with-no-icu-beds/ar-AAMrNBT",
+    "url_hash": "242c18d88c73c67337deba8cb5753536",
+    "ut": 1629685894,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
         ]
       }
     ]
