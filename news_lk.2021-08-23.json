@@ -4204,6 +4204,41 @@
   },
   {
     "date": "2021-08-23",
+    "title": "India plans to set up pharma plants in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "India and Sri Lankan top diplomats have discussed the opportunity to set up pharmaceutical manufacturing plants of India in the island nation",
+    "url": "http://www.adaderana.lk/news/76365/india-plans-to-set-up-pharma-plants-in-sri-lanka",
+    "url_hash": "04c1d255d66b0eabaa6872f191f1e07b",
+    "ut": 1629716941,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Sri Lanka requests China for liquid oxygen to meet urgent demand",
     "source": "colombogazette.com",
     "snippet": "Sri Lanka has requested China for liquid oxygen to meet the urgent demand in the country. The request was made during a meeting between the Ambassador of China to Sri Lanka Qi Zhenhong and Foreign Minister Professor G.",
@@ -5361,6 +5396,41 @@
   {
     "date": "2021-08-23",
     "title": "The Latest: Egypt reports first case of the delta variant",
+    "source": "accesswdun.com",
+    "snippet": "Egypt reports that it has detected the country's first case of the alarming coronavirus delta variant last month",
+    "url": "https://accesswdun.com/article/2021/8/1032722",
+    "url_hash": "986fa9f5c0f7a3ba109f9a4c39d060a2",
+    "ut": 1629724152,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Egypt reports first case of the delta variant",
     "source": "www.middletownpress.com",
     "snippet": "Egypt's health Minister says Monday they have detected the country's first case of the alarming coronavirus delta variant last month. Health Minister Hala Zayed told a news conference in Cairo that the first case of delta variant was for a 35-year-old Egyptian woman that showed \"very mild\" symptoms and did not require hospitalization.",
     "url": "https://www.middletownpress.com/news/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
@@ -6139,6 +6209,60 @@
   },
   {
     "date": "2021-08-23",
+    "title": "The Latest: NYC public school teachers to be vaccinated",
+    "source": "www.mrt.com",
+    "snippet": "All New York City public school teachers and other staffers will have to get vaccinated against the coronavirus. Officials announced the new policy Monday as the nation's largest school system prepares for classes to start next month.",
+    "url": "https://www.mrt.com/news/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
+    "url_hash": "49b7242d026221a7f46b24ddd65b86bf",
+    "ut": 1629731352,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New York City",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: North Macedonia urges people to get vaccinated",
+    "source": "accesswdun.com",
+    "snippet": "North Macedonia's prime minister is urging people who have not been immunized against COVID-19 to ignore anti-vaccine movements, as an infection surge has forced authorities to reopen field hospitals.",
+    "url": "https://accesswdun.com/article/2021/8/1032745",
+    "url_hash": "27c8e86d349d003c9475ef8c93f784f0",
+    "ut": 1629731352,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "North Macedonia's",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "The Latest: Pentagon to make vaccine mandatory for military",
     "source": "www.stltoday.com",
     "snippet": "The Pentagon says it's preparing to make the COVID-19 vaccine mandatory for the military. Spokesman John Kirby said Monday that Pentagon officials are preparing to issue guidance to require vaccination now that the Pfizer vaccine has been given full approval.",
@@ -6904,6 +7028,49 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: LSU to require students be vaccinated for virus",
+    "source": "www.stltoday.com",
+    "snippet": "ATLANTA \u2014 Louisiana State University will require students on its campuses to be vaccinated now that the FDA has given full approval to the Pfizer vaccine, but details of the",
+    "url": "https://www.stltoday.com/news/world/the-latest-lsu-to-require-students-be-vaccinated-for-virus/article_08dc5c83-30cc-5884-8420-83dae6637049.html",
+    "url_hash": "d25eafd5802268ae54841288614287cd",
+    "ut": 1629738541,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ATLANTA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Louisiana State University",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
