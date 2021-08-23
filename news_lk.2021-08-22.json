@@ -2282,6 +2282,105 @@
   },
   {
     "date": "2021-08-22",
+    "title": "INS Shakti reaches Colombo with 100 tons of Oxygen",
+    "source": "www.malaysiasun.com",
+    "snippet": "An Indian Naval Vessel Shakti on Sunday reached Colombo with 100 tons of Oxygen from Visakhapatnam. The High Commission of India in Colombo said the Indian Navy Ship Shakti reached Sri Lanka with wishes and goodwill from the people of India to the people of the Island country.",
+    "url": "https://www.malaysiasun.com/news/270826720/ins-shakti-reaches-colombo-with-100-tons-of-oxygen",
+    "url_hash": "892704ee2bfb965148bc73243c78b60b",
+    "ut": 1629637676,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 tons",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Oxygen",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Visakhapatnam",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The High Commission of India",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "Sri Lanka decrees 4-hour work day, 2-year maternity leave for elephants",
     "source": "economynext.com",
     "snippet": "For the first time, Sri Lanka has introduced regulations to improve working conditions of domesticated elephants following long-standing allegations of cruelty.",
@@ -4572,6 +4671,108 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Is it \"Epidemiological stupidity\"?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Boris Johnson early last month told his people, \"Learn to Live with Covid as we do with Flu.\" The British Premier declared an end... ..",
+    "url": "https://www.dailymirror.lk/opinion/Is-it-Epidemiological-stupidity/231-218771",
+    "url_hash": "6f6d43986fb3158f8c6f4eed18c9dda8",
+    "ut": 1629662868,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Boris Johnson",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early last month",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Learn to Live with Covid",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Flu",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "India's 'Shakti' reaches Colombo with oxygen to battle Covid",
+    "source": "news.webindia123.com",
+    "snippet": "Indian Navy's fleet tanker 'Shakti' has arrived here with 100 tonnes of Liquid Medical Oxygen (LMO) to fight the fast spreading Covid-19 pandemic in the island-nation. The Indian High Commission stated that along with the shipment of medical grade oxygen,",
+    "url": "https://news.webindia123.com/news/articles/World/20210823/3807322.html",
+    "url_hash": "30934470f1d666196e8d7d0c8d6b6a6e",
+    "ut": 1629662876,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Indian Navy's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 tonnes",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LMO",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Indian High Commission",
+        "start_end": [
+          34,
+          38
         ]
       }
     ]

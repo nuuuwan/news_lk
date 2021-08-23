@@ -908,6 +908,105 @@
   },
   {
     "date": "2021-08-23",
+    "title": "INS Shakti reaches Colombo with 100 tons of Oxygen from Visakhapatnam",
+    "source": "news.webindia123.com",
+    "snippet": "An Indian Naval Vessel Shakti on Sunday reached Colombo with 100 tons of Oxygen from Visakhapatnam. The High Commission of India in Colombo said the Indian Navy Ship Shakti reached Sri Lanka with wishes and goodwill from the people of India to the people of the Island country.",
+    "url": "https://news.webindia123.com/news/Articles/World/20210822/3807218.html",
+    "url_hash": "c19a9d9e209b4641da6fd264f3e147b8",
+    "ut": 1629684501,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 tons",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Oxygen",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Visakhapatnam",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The High Commission of India",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Sri Lanka receives more Pfizer jabs",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka has received another consignment of the Pfizer-BioNTech Covid-19 vaccine this morning (23). A consignment of 76,000 doses of the vaccine arrived at the Bandaranaike International Airport (BIA) today via a Qatar Airways cargo flight,",
@@ -2982,6 +3081,285 @@
         "start_end": [
           15,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Pakistan government issues visas to the Afghanistan cricket team for helping them travel to Sri Lanka",
+    "source": "www.crictracker.com",
+    "snippet": "Pakistan government have issued visas to Afghanistan players so that they can travel to Sri Lanka via Pakistan and UAE",
+    "url": "https://www.crictracker.com/pakistan-government-issues-visas-to-the-afghanistan-cricket-team-for-helping-them-travel-to-sri-lanka/",
+    "url_hash": "1515903362e8a1797ae3d9a110811697",
+    "ut": 1629713276,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UAE",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "IPL 2021 | Wanindu Hasaranga is Phenomenal Inclusion For RCB: Aakash Chopra",
+    "source": "www.msn.com",
+    "snippet": "Former India opener Aakash Chopra heaped huge praise on Royal Challengers Bangalore newly-recruit Wanindu Hasaranga for the UAE leg of IPL 2021. Chopra feels Hasaranga is a phenomenal addition to the RCB unit who are currently at the third spot on the points table with five wins in seven matches.",
+    "url": "https://www.msn.com/en-in/sports/cricket/ipl-2021-wanindu-hasaranga-is-phenomenal-inclusion-for-rcb-aakash-chopra/ar-AAND6xW",
+    "url_hash": "9dc5560d01795447e8291e1748cb3d2a",
+    "ut": 1629714116,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Aakash Chopra",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Royal Challengers Bangalore",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wanindu Hasaranga",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hasaranga",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RCB",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Unilever Sri Lanka Once Again Emerges as Number 1 Most Respected FMCG Company",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Unilever Sri Lanka, one of the largest fast-moving consumer goods (FMCG ... oral hygiene habits through school programmes and mass-scale dental clinics across the island; Committed to strengthening the fabric of Sri Lankan society made up of multi ...",
+    "url": "http://bizenglish.adaderana.lk/unilever-sri-lanka-once-again-emerges-as-number-1-most-respected-fmcg-company/",
+    "url_hash": "ade8ca77343621ce651a1ddf5e6a3138",
+    "ut": 1629714476,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Unilever Sri Lanka",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Vietnam's largest city tightens lockdown",
+    "source": "abcnews.go.com",
+    "snippet": "Vietnam's largest metropolis, Ho Chi Minh City, has begun a tightened lockdown to battle the coronavirus, a day ahead of U.S. Vice President Kamala Harris's visit to the capital, Hanoi",
+    "url": "https://abcnews.go.com/Health/wireStory/latest-vietnam-imposes-strict-lockdown-southern-city-79595947",
+    "url_hash": "810513353d200233c918677f21bc558c",
+    "ut": 1629714788,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ho Chi Minh City",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamala Harris's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hanoi",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Vietnam's largest city tightens lockdown",
+    "source": "www.sfgate.com",
+    "snippet": "Vietnam's largest metropolis, Ho Chi Minh City, has begun a tightened lockdown to battle the coronavirus, a day ahead of U.S. Vice President Kamala Harris's visit to the capital, Hanoi. Police and army troops have mobilized to enforce the lockdown and deliver food and supplies to households.",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
+    "url_hash": "9d3737456acf95bd0aa2d3ca8bc1405e",
+    "ut": 1629714904,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ho Chi Minh City",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamala Harris's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hanoi",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
