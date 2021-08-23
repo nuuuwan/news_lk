@@ -6957,6 +6957,92 @@
   },
   {
     "date": "2021-08-23",
+    "title": "4,355 fresh COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 4,355 more COVID-19 patients have been detected today increasing the total cases reported in Sri Lanka to 394,355, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/4-355-fresh-COVID-19-cases-detected-today/342-218857",
+    "url_hash": "73dee81e4c5d9ee547f98bb5faf02a21",
+    "ut": 1629734892,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,355",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "394,355",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Pentagon to make vaccine mandatory for military",
+    "source": "www.wbal.com",
+    "snippet": "WBAL NewsRadio 1090/FM 101.5 - Some emergency medical service workers in Maine spoke out against a COVID-19 vaccine mandate because of concerns that it would lead to ill-timed staff shortages",
+    "url": "https://www.wbal.com/article/530159/127/the-latest-pentagon-to-make-vaccine-mandatory-for-military",
+    "url_hash": "d81132de9dfbfd48a38f5e27369c9b0b",
+    "ut": 1629734910,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "WBAL NewsRadio 1090/FM",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "101.5",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maine",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "UNP decries Govt's perceived recognition of Taliban",
     "source": "www.dailymirror.lk",
     "snippet": "The United National Party (UNP) today questioned the decision of the Government of Sri Lanka to officially recognise the Taliban as the Governing authority in Afghanistan. ..",
@@ -7768,6 +7854,92 @@
   },
   {
     "date": "2021-08-23",
+    "title": "The saga of the 'Water Cutting Ceremony'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Robert Knox, who was a prisoner for 9 years in Sri Lanka, speaks of this water cutting ceremony; An acolyte with a golden sword in hand awaits the arrival of the Devale procession",
+    "url": "https://www.dailymirror.lk/news-features/The-saga-of-the-Water-Cutting-Ceremony/131-218862",
+    "url_hash": "1595893f4fc27077577f78915f8edabd",
+    "ut": 1629745692,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Robert Knox",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "9 years",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Devale",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Biden celebrates full approval of Pfizer vaccine",
+    "source": "omaha.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is celebrating the full FDA approval of Pfizer's COVID-19 vaccine and is urging the unvaccinated to go get their inoculations.",
+    "url": "https://omaha.com/news/world/the-latest-biden-celebrates-full-approval-of-pfizer-vaccine/article_661a67b6-4e9a-5866-9230-741e569a7f6b.html",
+    "url_hash": "174d09b2b08631e616ea99e3475a1793",
+    "ut": 1629745701,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Afghanistan's ODI series vs. Pakistan postponed",
     "source": "apnews.com",
     "snippet": "Afghanistan's three-match ODI series against Pakistan has been postponed, the Pakistan Cricket Board said on Monday. The series was scheduled to be played in Sri Lanka in early September, but the PCB said the Afghanistan Cricket Board requested the postponement following the collapse of the country's government and the takeover by the Taliban.",
@@ -8232,6 +8404,76 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "WHO Urges Delay in Booster Shots",
+    "source": "www.voanews.com",
+    "snippet": "The head of the World Health Organization urged countries to delay administering booster shots by at least two months to allow nations with low vaccine doses to receive more.\u00a0 WHO Director-General Tedros Adhanom Ghebreyesus told reporters during a visit to Hungary's capital,",
+    "url": "https://www.voanews.com/covid-19-pandemic/who-urges-delay-booster-shots",
+    "url_hash": "6746c8ba03dc3511100dae088678a650",
+    "ut": 1629757701,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the World Health Organization",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "at least two months",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hungary",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Strengthening Sri Lanka's apparel SME reliance is good for everyone",
+    "source": "www.ft.lk",
+    "snippet": "Micro, small and medium enterprises (MSMEs) are the backbone of any economy, and that is certainly true for Sri Lanka. MSMEs make up more than 90% of all non-agricultural business establishments in the country and generate 52% of GDP.",
+    "url": "https://www.ft.lk/business/Strengthening-Sri-Lanka-s-apparel-SME-reliance-is-good-for-everyone/34-722119",
+    "url_hash": "0e5c18be79c41a936bf8e1d6a41ad854",
+    "ut": 1629757835,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "more than 90%",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "52%",
+        "start_end": [
+          44,
+          46
         ]
       }
     ]
