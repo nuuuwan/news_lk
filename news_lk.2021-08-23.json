@@ -1791,6 +1791,49 @@
   },
   {
     "date": "2021-08-23",
+    "title": "Monday morning UK news briefing: Boris Johnson will push Joe Biden to delay US exit from Afghanistan",
+    "source": "www.telegraph.co.uk",
+    "snippet": "Boris Johnson will personally ask Joe Biden for a delay to the withdrawal of US forces from Afghanistan. The Prime Minister will put the President on the spot in front of world le",
+    "url": "https://www.telegraph.co.uk/news/2021/08/23/monday-morning-uk-news-briefing-todays-top-headlines-telegraph2/",
+    "url_hash": "463715c6443ac17adba1c3575aab9937",
+    "ut": 1629691784,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Boris Johnson",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Medical grade oxygen arrives in Colombo",
     "source": "colombogazette.com",
     "snippet": "The Sri Lanka Navy ship, SLNS Shakthi, carrying medical grade oxygen from India arrived at the port of Colombo today. SLNS Shakthi left the Trincomalee harbour for the port of Chennai, India on 17th August 2021,",
@@ -5400,6 +5443,41 @@
   },
   {
     "date": "2021-08-23",
+    "title": "SAfrica coach sorry for racist behaviour",
+    "source": "www.standard.net.au",
+    "snippet": "South Africa coach Mark Boucher has apologised for singing offensive songs and using racist nicknames during his playing days. Boucher was responding to",
+    "url": "https://www.standard.net.au/story/7399243/safrica-coach-sorry-for-racist-behaviour/",
+    "url_hash": "fd737843f66b63d182e796dcf7a3ae14",
+    "ut": 1629724184,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Boucher",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Proteas plunged into crisis as assistant coach sensationally QUITS!",
     "source": "www.msn.com",
     "snippet": "The Proteas will depart this week for Sri Lanka for a six-match white-ball series without their assistant coach Enoch Nkwe.",
@@ -5693,6 +5771,33 @@
   },
   {
     "date": "2021-08-23",
+    "title": "Checkpoints in operation",
+    "source": "www.dailymirror.lk",
+    "snippet": "Police checkpoints are operational throughout the country as the country has been placed under ten-day lockdown. Pix by Waruna Wanniarachchi ..",
+    "url": "https://www.dailymirror.lk/caption_story/Checkpoints-in-operation/110-218847",
+    "url_hash": "c8b0517c9e71a29050737ea5b85678aa",
+    "ut": 1629727747,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "ten-day",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Waruna Wanniarachchi",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "President vows to fulfill national responsibilities and duties despite challenges, obstacles",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa said today that despite the challenges and obstacles the country would have to face,there are a number of national responsibilities and duties that need to be fulfilled. .",
@@ -5961,6 +6066,127 @@
     "url_hash": "0601dd670ae7c523d18d446537d7e82a",
     "ut": 1629729791,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Colombo turns busy again...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Despite the nationwide lockdown, vehicles are seen moving in Colombo. People seem busy with their usual activities. However, certain cities in Colombo were haunted by emptiness. Pix by Pradeep Dilrukshana .",
+    "url": "https://www.dailymirror.lk/latest_news/Colombo-turns-busy-again/342-218856",
+    "url_hash": "e5f54f2f2f64fae5a7c9345a44fa680e",
+    "ut": 1629731347,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "194 Covid deaths reported: Death toll surges to 7,560",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 194 more COVID-19 related deaths that occurred yesterday (22) were confirmed by the Director-General of Health Services today pushing the death toll to 7,560. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/194-Covid-deaths-reported-Death-toll-surges-to-7-560/108-218853",
+    "url_hash": "d9f69ba99b58524cd10994281389004f",
+    "ut": 1629731347,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "194",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7,560",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Pentagon to make vaccine mandatory for military",
+    "source": "www.stltoday.com",
+    "snippet": "The Pentagon says it's preparing to make the COVID-19 vaccine mandatory for the military. Spokesman John Kirby said Monday that Pentagon officials are preparing to issue guidance to require vaccination now that the Pfizer vaccine has been given full approval.",
+    "url": "https://www.stltoday.com/news/world/the-latest-pentagon-to-make-vaccine-mandatory-for-military/article_08dc5c83-30cc-5884-8420-83dae6637049.html",
+    "url_hash": "6d10af19e8a9708b0e523d543faa0461",
+    "ut": 1629731356,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Pentagon",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Kirby",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pentagon",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-23",
@@ -6270,6 +6496,414 @@
         "start_end": [
           42,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "UNP decries Govt's perceived recognition of Taliban",
+    "source": "www.dailymirror.lk",
+    "snippet": "The United National Party (UNP) today questioned the decision of the Government of Sri Lanka to officially recognise the Taliban as the Governing authority in Afghanistan. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/UNP-decries-Govts-perceived-recognition-of-Taliban/108-218851",
+    "url_hash": "170ae9c5b5898003c22132885ee9b266",
+    "ut": 1629734947,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The United National Party",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government of",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Sri Lanka new foreign minister pushes, trade, investment with foreign envoys",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's newly appointed foreign minister focused on trade, investment, and Covid-19 combat when he met envoys of strategically important foreign nations to Sri Lanka, as money printing triggered forex shortages and brought the country closer to default.",
+    "url": "https://economynext.com/sri-lanka-new-foreign-minister-pushes-trade-investment-with-foreign-envoys-85364/",
+    "url_hash": "41dd7ed736dab3de86c8c0db93f7d81a",
+    "ut": 1629734975,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Sri Lanka: Racism, Nationalism and Supranationalism - I",
+    "source": "www.srilankaguardian.org",
+    "snippet": "The home of Tamil nationalism must be Tamil Nadu, not Sri Lanka, contrary to what the handful of racists among ordinary Sri Lankan Tamil politicians claim on behalf of the barely 4% of the global Tamil population that live in little Sri Lanka.",
+    "url": "http://www.srilankaguardian.org/2021/08/sri-lanka-racism-nationalism-and.html",
+    "url_hash": "609fae185737bce0d7d824a850c04fad",
+    "ut": 1629735316,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan Tamil",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "the barely 4%",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Hawaii Coffee Association Presents Legislature Award",
+    "source": "bigislandnow.com",
+    "snippet": "The Hawaii Coffee Association (HCA) presented Senator Dru Mamo Kanuha (D-Kona, Ka\u02bbu) with its first ever Legislator of the Year Award amid coffee trees laden with ripening fruit. The Hawaii Senate Majority Leader received an appreciation plaque crafted from a century-old fallen koa tree that once flourished at Kona's Greenwell Farms.",
+    "url": "https://bigislandnow.com/2021/08/23/hawaii-coffee-association-presents-legislature-award/",
+    "url_hash": "dfc416da00aa429f71ca0815673ecff2",
+    "ut": 1629735436,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Hawaii Coffee Association",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ka\u02bbu",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Hawaii Senate Majority",
+        "start_end": [
+          36,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "century-old",
+        "start_end": [
+          48,
+          51
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kona",
+        "start_end": [
+          58,
+          59
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Greenwell Farms",
+        "start_end": [
+          60,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "4,355 fresh COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 4,355 more COVID-19 patients have been detected today increasing the total cases reported in Sri Lanka to 394,355, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/4-355-fresh-COVID-19-cases-detected-today/108-218857",
+    "url_hash": "a176b2fc79c81cd0704171d052b888ca",
+    "ut": 1629735667,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,355",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "394,355",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "South Africa coach Boucher apologises for racist behaviour during playing days",
+    "source": "www.dhakatribune.com",
+    "snippet": "Boucher was responding to allegations levelled against him by former spinner Paul Adams, who last month said at the SJN hearings that he was subjected to racial discrimination and name-calling during",
+    "url": "https://www.dhakatribune.com/sport/cricket/2021/08/23/south-africa-coach-boucher-apologises-for-racist-behaviour-during-playing-days",
+    "url_hash": "a2a69935a6c5f9ef70b36c3c8c5fb3b0",
+    "ut": 1629737084,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Boucher",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Paul Adams",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJN",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Proteas coach Mark Boucher apologises for 'racist taunts'",
+    "source": "www.heraldlive.co.za",
+    "snippet": "Embattled Proteas coach Mark Boucher has apologised for his involvement in racial taunts aimed at black former national team teammates with a written response to the allegations of racism, perceived or real,",
+    "url": "https://www.heraldlive.co.za/sport/cricket/2021-08-23-proteas-coach-mark-boucher-apologises-for-racist-taunts/",
+    "url_hash": "efafc3dc1ec6a3f259f8e065450f5cb2",
+    "ut": 1629737084,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Embattled Proteas",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: LSU to require students be vaccinated for virus",
+    "source": "www.expressnews.com",
+    "snippet": "Vietnam's largest metropolis, Ho Chi Minh City, began a strict lockdown on Monday in an attempt to curb its worst coronavirus outbreak, a day before U.S Vice President Kamala Harris arrives in the country on a state visit.",
+    "url": "https://www.expressnews.com/news/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
+    "url_hash": "2962a970149edc53b166149aa3f43af2",
+    "ut": 1629737836,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ho Chi Minh City",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a day",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamala Harris",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]
