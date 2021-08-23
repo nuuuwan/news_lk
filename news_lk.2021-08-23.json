@@ -6141,6 +6141,25 @@
     "date": "2021-08-23",
     "title": "Colombo turns busy again...",
     "source": "www.dailymirror.lk",
+    "snippet": "Despite the nationwide lockdown, vehicles are seen moving in Colombo. People seem busy with their usual activities. However, certain cities in Colombo were haunted by emptiness. Pix by Pradeep Dilrukshana and Pradeep Pathirana .",
+    "url": "https://www.dailymirror.lk/caption_story/Colombo-turns-busy-again/110-218856",
+    "url_hash": "d33ced75cc5e42c4cc85755168e0338d",
+    "ut": 1629731266,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Colombo turns busy again...",
+    "source": "www.dailymirror.lk",
     "snippet": "Despite the nationwide lockdown, vehicles are seen moving in Colombo. People seem busy with their usual activities. However, certain cities in Colombo were haunted by emptiness. Pix by Pradeep Dilrukshana .",
     "url": "https://www.dailymirror.lk/latest_news/Colombo-turns-busy-again/342-218856",
     "url_hash": "e5f54f2f2f64fae5a7c9345a44fa680e",
@@ -6626,6 +6645,49 @@
   },
   {
     "date": "2021-08-23",
+    "title": "Lanka FM Lauds India's 'Continuous Support' to Combat Covid; $15 Mn Offer to Enhance Religious Tourism",
+    "source": "www.msn.com",
+    "snippet": "The two sides also highlighted the pivotal importance of relations between Lanka and India, the foreign ministry said in a statement.",
+    "url": "https://www.msn.com/en-in/news/other/lanka-fm-lauds-india-s-continuous-support-to-combat-covid-15-mn-offer-to-enhance-religious-tourism/ar-AANDBCg",
+    "url_hash": "c1d2718d188332788a6e3d528ed80384",
+    "ut": 1629734876,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Lanka",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the foreign ministry",
+        "start_end": [
+          15,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "UNP decries Govt's perceived recognition of Taliban",
     "source": "www.dailymirror.lk",
     "snippet": "The United National Party (UNP) today questioned the decision of the Government of Sri Lanka to officially recognise the Taliban as the Governing authority in Afghanistan. ..",
@@ -7035,6 +7097,49 @@
   {
     "date": "2021-08-23",
     "title": "The Latest: LSU to require students be vaccinated for virus",
+    "source": "omaha.com",
+    "snippet": "ATLANTA \u2014 Louisiana State University will require students on its campuses to be vaccinated now that the FDA has given full approval to the Pfizer vaccine, but details of the",
+    "url": "https://omaha.com/news/world/the-latest-lsu-to-require-students-be-vaccinated-for-virus/article_661a67b6-4e9a-5866-9230-741e569a7f6b.html",
+    "url_hash": "4b793712d43df41d5e193879d8aadd98",
+    "ut": 1629738476,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ATLANTA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Louisiana State University",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: LSU to require students be vaccinated for virus",
     "source": "www.stltoday.com",
     "snippet": "ATLANTA \u2014 Louisiana State University will require students on its campuses to be vaccinated now that the FDA has given full approval to the Pfizer vaccine, but details of the",
     "url": "https://www.stltoday.com/news/world/the-latest-lsu-to-require-students-be-vaccinated-for-virus/article_08dc5c83-30cc-5884-8420-83dae6637049.html",
@@ -7071,6 +7176,183 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Dushmantha Chameera",
+    "source": "dailynews.lk",
+    "snippet": "The Sri Lankan pair of Wanindu Hasaranga and Dushmantha Chameera, as well as Australia's Singapore-born Tim David, have joined Royal Challengers Bangalore for the second part of IPL 2021.",
+    "url": "https://dailynews.lk/tags/dushmantha-chameera",
+    "url_hash": "fc27db1fa357afaf0623ec4def88b830",
+    "ut": 1629742371,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wanindu Hasaranga",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dushmantha Chameera",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tim David",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Royal Challengers Bangalore",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "IPL 2021",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Biden celebrates full approval of Pfizer vaccine",
+    "source": "apnews.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is celebrating the full FDA approval of Pfizer's COVID-19 vaccine and is urging the unvaccinated to go get their inoculations. Biden on Monday addressed those who were waiting on the full approval and declared \"it is now happened,",
+    "url": "https://apnews.com/article/business-health-coronavirus-pandemic-coronavirus-vaccine-vietnam-34e91ee7218b27a7ec83d561e6470312",
+    "url_hash": "c62e43bc223b7f65a653312265ff6898",
+    "ut": 1629743945,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Newton implements mask requirements inside public areas of municipal buildings; New Jersey orders COVID vaccine for teachers",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/biden-says-companies-should-mandate-shots-after-vaccine-approval-new-jersey-orders-covid-vaccine-for-teachers/ar-AAMrNBT",
+    "url_hash": "0d947fe8d5b02a58a1985eba90fddd6f",
+    "ut": 1629744549,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
         ]
       }
     ]
