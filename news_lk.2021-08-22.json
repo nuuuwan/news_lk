@@ -3824,6 +3824,57 @@
   },
   {
     "date": "2021-08-22",
+    "title": "Daily Covid-19 cases exceed 4,000 mark",
+    "source": "www.dailymirror.lk",
+    "snippet": "COVID-19 cases today surpassed the 4,000 mark increasing the total number of positive cases in Sri Lanka to 390,000, the Government Information Department said. . ..",
+    "url": "https://www.dailymirror.lk/live/Daily-Covid-19-cases-exceed-4-000-mark/373-218769",
+    "url_hash": "fc4dc73ff4ee4fb33af6daec45d1c68f",
+    "ut": 1629655673,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,000",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "390,000",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          20,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "Coronavirus | INS Shakti with 100 tonnes of medical oxygen reaches Sri Lanka",
     "source": "www.thehindu.com",
     "snippet": "Indian naval ship Shakti carrying 100 tonnes of liquid medical oxygen (LMO) reached Sri Lanka on Sunday to help the island nation in combating the COVID-19 pandemic. The countrys",
