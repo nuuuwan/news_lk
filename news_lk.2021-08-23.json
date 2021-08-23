@@ -2779,6 +2779,49 @@
   },
   {
     "date": "2021-08-23",
+    "title": "The Latest: Pentagon to make vaccine mandatory for military",
+    "source": "www.khon2.com",
+    "snippet": "The Pentagon says it's preparing to make the COVID-19 vaccine mandatory for the military. Spokesman John Kirby said Monday that Pentagon officials are preparing to issue guidance to",
+    "url": "https://www.khon2.com/international/the-latest-vietnam-imposes-strict-lockdown-in-southern-city/",
+    "url_hash": "4c245c696dc75d1eb1180ac9a5bdba93",
+    "ut": 1629702524,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Pentagon",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Kirby",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pentagon",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "More Pfizer arrives in Sri Lanka; vaccine rollout continues amid lockdown",
     "source": "economynext.com",
     "snippet": "Sri Lanka received another 76,050 doses of the Pfizer-BioNTech COVID-19 vaccine Monday (23) morning, authorities said. So far, 254,032 Sri Lankans have received at least one dose of Pfizer, of whom 103,",
@@ -7366,6 +7409,41 @@
   {
     "date": "2021-08-23",
     "title": "The Latest: LSU to require students be vaccinated for virus",
+    "source": "accesswdun.com",
+    "snippet": "Louisiana State University will require students on its campuses to be vaccinated now that the FDA has given full approval to the Pfizer vaccine",
+    "url": "https://accesswdun.com/article/2021/8/1032775",
+    "url_hash": "4915dab1556697c6f34a769c60c99438",
+    "ut": 1629738524,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Louisiana State University",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: LSU to require students be vaccinated for virus",
     "source": "www.stltoday.com",
     "snippet": "ATLANTA \u2014 Louisiana State University will require students on its campuses to be vaccinated now that the FDA has given full approval to the Pfizer vaccine, but details of the",
     "url": "https://www.stltoday.com/news/world/the-latest-lsu-to-require-students-be-vaccinated-for-virus/article_08dc5c83-30cc-5884-8420-83dae6637049.html",
@@ -7868,6 +7946,25 @@
   {
     "date": "2021-08-23",
     "title": "The Latest: EMS workers oppose Maine's COVID vaccine mandate",
+    "source": "omaha.com",
+    "snippet": "Some emergency medical service workers in Maine spoke out against a COVID-19 vaccine mandate because of concerns that it would lead to ill-timed staff shortages.",
+    "url": "https://omaha.com/business/the-latest-ems-workers-oppose-maine-s-covid-vaccine-mandate/article_661a67b6-4e9a-5866-9230-741e569a7f6b.html",
+    "url_hash": "2f8393332bf3771e99222846f97b6e4f",
+    "ut": 1629749316,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Maine",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: EMS workers oppose Maine's COVID vaccine mandate",
     "source": "apnews.com",
     "snippet": "PORTLAND, Maine \u2014 Some emergency medical service workers in Maine spoke out against a COVID-19 vaccine mandate because of concerns that it would lead to ill-timed staff shortages. The Maine Board of Emergency Medical Services held a public hearing on the subject on Monday.",
     "url": "https://apnews.com/34e91ee7218b27a7ec83d561e6470312",
@@ -7955,6 +8052,186 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Sustainable tourism replaces conventional globetrotting: Experts",
+    "source": "www.ft.lk",
+    "snippet": "Sustainable tourism has replaced conventional globetrotting, tourism experts said recently, highlighting that the need for Sri Lanka to steer and develop paradigms under the umbrella of sustainability would be imperative post-pandemic.",
+    "url": "https://www.ft.lk/front-page/Sustainable-tourism-replaces-conventional-globetrotting-Experts/44-722089",
+    "url_hash": "21148f1c1cbcef7a5d26876b9c4e20df",
+    "ut": 1629753720,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Aeroflot to launch service to Sri Lanka from 2 Sept.",
+    "source": "www.ft.lk",
+    "snippet": "Ticket sales are going well for Aeroflot\u0432\u0402\u2122s new direct service between Moscow-Colombo, Sri Lanka which starts on 2 September. ..",
+    "url": "https://www.ft.lk/front-page/Aeroflot-to-launch-service-to-Sri-Lanka-from-2-Sept/44-722092",
+    "url_hash": "0265e1f26db7361f8d7765256e5160ea",
+    "ut": 1629753900,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2 September",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Unilever Sri Lanka crowned as the 'No. 1 Most Respected FMCG Company' again",
+    "source": "www.ft.lk",
+    "snippet": "Unilever Sri Lanka, one of the largest fast-moving consumer goods (FMCG) companies in the country, has once again emerged as the 'No. 1 Most Respected FMCG Company' in LMD's Most Respected Entities List in Sri Lanka for 2021 with an overall rank of 10th from over 100 companies across varying industries.",
+    "url": "https://www.ft.lk/business/Unilever-Sri-Lanka-crowned-as-the-No-1-Most-Respected-FMCG-Company-again/34-722105",
+    "url_hash": "af9beac99005d9fd547846ffe76c27ce",
+    "ut": 1629754788,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Unilever Sri Lanka",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LMD",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "10th",
+        "start_end": [
+          53,
+          54
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 100",
+        "start_end": [
+          55,
+          57
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "CA Sri Lanka to host 20th CAPA Conference and 42nd National Conference in Colombo",
+    "source": "www.ft.lk",
+    "snippet": "The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) will host two important accounting assemblies in Colombo in October this year. The combined event is expected to attract over 2,500 local and foreign delegates from 30 countries,",
+    "url": "https://www.ft.lk/hr/CA-Sri-Lanka-to-host-20th-CAPA-Conference-and-42nd-National-Conference-in-Colombo/47-722107",
+    "url_hash": "47f02f9bcf197be9685742beb8059467",
+    "ut": 1629755028,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Institute of Chartered Accountants of Sri Lanka",
+        "start_end": [
+          0,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October this year",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,500",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
