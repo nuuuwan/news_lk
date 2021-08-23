@@ -1168,6 +1168,73 @@
   },
   {
     "date": "2021-08-23",
+    "title": "Fairly heavy rainfall expected in parts of the island",
+    "source": "www.adaderana.lk",
+    "snippet": "Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara Eliya districts, says the Department of Meteorology",
+    "url": "http://www.adaderana.lk/news/76208/fairly-heavy-showers-expected-in-parts-of-the-island",
+    "url_hash": "55beebfa71f6e6a13288a0d63c1c714e",
+    "ut": 1629684643,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Western",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nuwara Eliya",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          23,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Locations of COVID vaccination centres operating today",
     "source": "www.adaderana.lk",
     "snippet": "COVID-19 vaccinations will continue at many locations across the country today (Aug. 20), the Ministry of Health announced. Reportedly, the second dose of Pfizer-BioNTech vaccine is rolled out in the Puttalam District while the second dose of Moderna vaccine is administered in parts of Matale and Kandy districts.",
@@ -1965,6 +2032,73 @@
         "start_end": [
           36,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Tamil Nadu: Fishermen attacked by Sri Lankan Navy at Katchatheevu island",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "Chennai: A total of 60 Indian fishing boats were allegedly pelted stones by the Sri Lankan Navy ein Katchatheevu island on Saturday according to state fishing department officials. The fishing boats were engaged in fishing off the Rameshwaram coast in Tamil Nadu.",
+    "url": "https://economictimes.indiatimes.com/news/india/tamil-nadu-fishermen-attacked-by-sri-lankan-navy-at-katchatheevu-island/videoshow/85554390.cms",
+    "url_hash": "fe87d3f395c8721dcf76ea97e3d4f543",
+    "ut": 1629695443,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "60",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Navy",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Katchatheevu",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rameshwaram",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          42,
+          44
         ]
       }
     ]
@@ -3291,6 +3425,41 @@
   },
   {
     "date": "2021-08-23",
+    "title": "Four motorcyclists killed in road accidents in various parts of the island yesterday",
+    "source": "www.hirunews.lk",
+    "snippet": "Four motorcyclists killed in road accidents in various parts of the island yesterday. Most visited website in Sri Lanka.",
+    "url": "https://www.hirunews.lk/english/280406/four-motorcyclists-killed-in-road-accidents-in-various-parts-of-the-island-yesterday",
+    "url_hash": "803a6aed99f084697c3bd27a02d5c073",
+    "ut": 1629709843,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Four",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "SA bowling coach Charl Langeveldt, fast bowler Junior Dala to miss Sri Lanka tour due to new COVID-19 norms",
     "source": "www.crictracker.com",
     "snippet": "South Africa's plans have been dented with bowling coach Charl Langeveldt and fast bowler Junior Dala missing the tour.",
@@ -3371,6 +3540,135 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Man turning out firearms in Kiriella arrested by STF",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 37-year-old suspect has been arrested by the Special Task Force of Police for running a factory making weapons ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-turning-out-firearms-in-Kiriella-arrested-by-STF/108-218843",
+    "url_hash": "d27e5bac31eaa87cadc016072a6bcc9d",
+    "ut": 1629713435,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "37-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Special Task Force of Police",
+        "start_end": [
+          11,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Fairfirst Insurance announces partnership with CamCom to harness AI powered automobile inspection solutions",
+    "source": "theprint.in",
+    "snippet": "India] / Colombo [Sri Lanka], August 23 (ANI/NewsVoir): CamCom, a global leader in AI powered visual inspection solutions has inked a partnership with",
+    "url": "https://theprint.in/ani-press-releases/fairfirst-insurance-announces-partnership-with-camcom-to-harness-ai-powered-automobile-inspection-solutions/720805/",
+    "url_hash": "9c62de0757da4af00ea613ece95f7793",
+    "ut": 1629713451,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 23",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CamCom",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "AI",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Vietnam's Largest City Tightens Lockdown",
+    "source": "www.usnews.com",
+    "snippet": "Vietnam's largest metropolis, Ho Chi Minh City, has begun a tightened lockdown to battle the coronavirus, a day ahead of U.S. Vice President Kamala Harris's visit to the capital, Hanoi.",
+    "url": "https://www.usnews.com/news/world/articles/2021-08-23/the-latest-vietnam-imposes-strict-lockdown-in-southern-city",
+    "url_hash": "9bf9c5467fa41c670aa5859a479935b5",
+    "ut": 1629713455,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ho Chi Minh City",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamala Harris's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hanoi",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
@@ -3699,6 +3997,57 @@
   },
   {
     "date": "2021-08-23",
+    "title": "The Latest: Vietnam's largest city tightens lockdown",
+    "source": "www.myjournalcourier.com",
+    "snippet": "Vietnam's largest metropolis, Ho Chi Minh City, has begun a tightened lockdown to battle the coronavirus, a day ahead of U.S. Vice President Kamala Harris's visit to the capital, Hanoi. Police and army troops have mobilized to enforce the lockdown and deliver food and supplies to households.",
+    "url": "https://www.myjournalcourier.com/news/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
+    "url_hash": "319f29e43603e10680fe218e02474e54",
+    "ut": 1629717051,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ho Chi Minh City",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamala Harris's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hanoi",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Sri Lanka obligated to respect rights of Afghan asylum seekers: main opposition SJB",
     "source": "economynext.com",
     "snippet": "Sri Lanka has an obligation to respect the rights of Afghan asylum seekers who are either already in the country or may arrive in the future, the main opposition the Samagi Jana Balavegaya (SJB) said.",
@@ -3969,6 +4318,462 @@
         "start_end": [
           59,
           61
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Showers expected in many parts of the island",
+    "source": "www.hirunews.lk",
+    "snippet": "Showers will occur in the Western, Sabaragamuwa, and Southern Provinces and in a few places in the Kandy and Nuwara Eliya districts during the afternoon or night today (23), the Met Department said. The Meteorological Department also stated that showers or thundershowers will occur at several places in other parts of the island this afternoon.",
+    "url": "https://www.hirunews.lk/english/280429/showers-expected-in-many-parts-of-the-island",
+    "url_hash": "c1dd2901cd249dc04acb4b0b61bf9b6d",
+    "ut": 1629720643,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Western",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Southern Provinces",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kandy",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nuwara Eliya",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the afternoon or night",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Met Department",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Meteorological Department",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this afternoon",
+        "start_end": [
+          59,
+          61
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Egypt reports first case of the delta variant",
+    "source": "www.star-telegram.com",
+    "snippet": "Egypt reports that it has detected the country's first case of the alarming coronavirus delta variant last month.",
+    "url": "https://www.star-telegram.com/news/nation-world/national/article253679213.html",
+    "url_hash": "52310e4ff50135110612d1349a21fccf",
+    "ut": 1629720655,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Cabinet ministers to donate their August salary for COVID fund",
+    "source": "www.dailymirror.lk",
+    "snippet": "The cabinet today approved the proposal submitted by Prime Minister Mahinda Rajapaksa to donate the salaries of all Cabinet Ministers for the month of August to the Covid-19 fund. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabinet-ministers-to-donate-their-August-salary-for-COVID-fund/108-218844",
+    "url_hash": "d99618aac0b9e3245bdbf3e4f125186e",
+    "ut": 1629721835,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the month of August",
+        "start_end": [
+          21,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Death of underaged domestic aide: Rishad named as the fifth suspect",
+    "source": "dailynews.lk",
+    "snippet": "Former minister Rishad Bathiudeen has been named as the fifth suspect over the death of 16-year-old girl who was employed as a domestic aide in Minister's residence. Meanwhile, the Parliamentarian's wife,",
+    "url": "https://dailynews.lk/2021/08/23/law-order/257407/death-underaged-domestic-aide-rishad-named-fifth-suspect",
+    "url_hash": "a75b0ab9f92e46d6ac6c84e3d4391ba2",
+    "ut": 1629722139,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "16-year-old",
+        "start_end": [
+          15,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Egypt reports first case of the delta variant",
+    "source": "www.seattlepi.com",
+    "snippet": "Egypt's health Minister says Monday they have detected the country's first case of the alarming coronavirus delta variant last month. Health Minister Hala Zayed told a news conference in Cairo that the first case of delta variant was for a 35-year-old Egyptian woman that showed \"very mild\" symptoms and did not require hospitalization.",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
+    "url_hash": "88a0ee3df21ee14dd071da251081273d",
+    "ut": 1629722751,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hala Zayed",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cairo",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "35-year-old",
+        "start_end": [
+          43,
+          48
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Egyptian",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Ishalini Murder Case",
+    "source": "dailynews.lk",
+    "snippet": "Former minister Rishad Bathiudeen has been named as the fifth suspect over the death of 16-year-old girl who was employed as a domestic aide in Minister's residence. Meanwhile, the Parliamentarian...",
+    "url": "https://dailynews.lk/tags/ishalini-murder-case",
+    "url_hash": "202d691a5df595b0acb77e59b60895cf",
+    "ut": 1629722919,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "16-year-old",
+        "start_end": [
+          15,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Surgeon general says FDA vaccine approval will likely lead to more mandates",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/surgeon-general-says-fda-vaccine-approval-will-likely-lead-to-more-mandates-majority-of-americans-support-mask-and-vaccine-mandates-in-schools-poll-says/ar-AAMrNBT",
+    "url_hash": "ba884d1b67056307b01caf4cdcc2b927",
+    "ut": 1629723175,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "INS Shakti reaches Colombo with 100 tons of Oxygen from Visakhapatnam",
+    "source": "en.trend.az",
+    "snippet": "An Indian Naval Vessel Shakti on Sunday reached, ANI reports. The High Commission of India in Colombo said the Indian Navy Ship Shakti reached Sri Lanka with wishes and goodwill from the people of India to the people of the Island country.",
+    "url": "https://en.trend.az/world/other/3473009.html",
+    "url_hash": "72da4ce5f640f7678c7d75a2b56b4633",
+    "ut": 1629723367,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ANI",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The High Commission of India",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]

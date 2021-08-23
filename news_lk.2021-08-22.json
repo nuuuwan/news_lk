@@ -2931,6 +2931,49 @@
   },
   {
     "date": "2021-08-22",
+    "title": "Indian Fishermen Attacked By Sri Lankan Navy At Katchatheevu Island: TN Officials",
+    "source": "www.msn.com",
+    "snippet": "The fisherman said that the Sri Lankan naval officials came in five vessels and conducted heavy stone-pelting on the Indian vessels thus damaging 25 including their fishing nets. Although none of the fishermen were injured.",
+    "url": "https://www.msn.com/en-in/news/newsindia/indian-fishermen-attacked-by-sri-lankan-navy-at-katchatheevu-island-tn-officials/ar-AANBcov",
+    "url_hash": "13ac46120ff9185cea2aa86e5bd27ef5",
+    "ut": 1629641443,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "18 to 30 years olds to be vaccinated from second week of Sept.: Dr. Ginige",
     "source": "www.dailymirror.lk",
     "snippet": "The government has planned to complete providing the COVID-19 vaccine for people between the ages of 18 and 30 from the second week of September, Epidemiology Unit Director Dr. Samitha Ginige said. Addressing the media, he said nearly 3.2 million people ...",
@@ -3976,6 +4019,41 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Indian naval ship with 100 tonnes of oxygen reaches Sri Lanka amidst rapid increase in COVID-19 cases",
+    "source": "www.newindianexpress.com",
+    "snippet": "The deployment of the Indian naval vessel for the delivery of oxygen was in response to a personal request for assistance by Sri Lankan President Gotabaya Rajapaksa.",
+    "url": "https://www.newindianexpress.com/world/2021/aug/22/indian-naval-ship-with-100-tonnes-of-oxygen-reaches-sri-lanka-amidst-rapid-increase-in-covid-19-case-2348314.html",
+    "url_hash": "59fec7fd9f25de431f88d8819815f40f",
+    "ut": 1629652243,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
