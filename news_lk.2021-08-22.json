@@ -2845,6 +2845,92 @@
   },
   {
     "date": "2021-08-22",
+    "title": "India's 'Shakti' reaches Colombo with oxygen to battle Covid",
+    "source": "www.msn.com",
+    "snippet": "Indian Navy's fleet tanker 'Shakti' has arrived here with 100 tonnes of Liquid Medical Oxygen (LMO) to fight the fast spreading Covid-19 pandemic in the island-nation.",
+    "url": "https://www.msn.com/en-in/news/world/indias-shakti-reaches-colombo-with-oxygen-to-battle-covid/ar-AANBqKs",
+    "url_hash": "79c92b670430aeb4ac5918dac8da7a80",
+    "ut": 1629641321,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Indian Navy's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 tonnes",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LMO",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Indian Fishermen Attacked By Sri Lankan Navy At Katchatheevu Island: TN Officials",
+    "source": "www.msn.com",
+    "snippet": "The fisherman said that the Sri Lankan naval officials came in five vessels and conducted heavy stone-pelting on the Indian vessels thus damaging 25 including their fishing nets. Although none of the fishermen were injured.",
+    "url": "https://www.msn.com/en-in/news/other/indian-fishermen-attacked-by-sri-lankan-navy-at-katchatheevu-island-tn-officials/ar-AANBcov",
+    "url_hash": "d86078bcdbea7a9ab555ebd9135b4b5a",
+    "ut": 1629641321,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "18 to 30 years olds to be vaccinated from second week of Sept.: Dr. Ginige",
     "source": "www.dailymirror.lk",
     "snippet": "The government has planned to complete providing the COVID-19 vaccine for people between the ages of 18 and 30 from the second week of September, Epidemiology Unit Director Dr. Samitha Ginige said. Addressing the media, he said nearly 3.2 million people ...",
@@ -3516,6 +3602,49 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "New York group offers $9.5 billion for UK supermarket chain Morrisons",
+    "source": "www.malaysiasun.com",
+    "snippet": "As bidders seek to top each other, the price to purchase British supermarket chain Morrisons has reached 7 billion-pounds ($9.5 billion). The high bid has been su",
+    "url": "https://www.malaysiasun.com/news/270828033/new-york-group-offers-95-billion-for-uk-supermarket-chain-morrisons",
+    "url_hash": "4d0295a6ce46ae7c3c2f6f94a7a16d65",
+    "ut": 1629648521,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Morrisons",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "7 billion-pounds",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$9.5 billion",
+        "start_end": [
+          23,
+          26
         ]
       }
     ]
@@ -5043,6 +5172,41 @@
     "url": "https://www.dailymirror.lk/opinion/U-S-had-nothing-to-lose-by-remaining-in-Afghanistan-Ashraf-Haidari/172-218773",
     "url_hash": "56d3962e067bf418dc38198466b5f4b8",
     "ut": 1629666489,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghans",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "U.S. had nothing to lose by remaining in Afghanistan - Ashraf Haidari",
+    "source": "www.dailymirror.lk",
+    "snippet": "People storming the Kabul airport, attempting to cross the Afghan border to other countries and some Afghans falling.... ..",
+    "url": "https://www.dailymirror.lk/hard-talk/U-S-had-nothing-to-lose-by-remaining-in-Afghanistan-Ashraf-Haidari/334-218773",
+    "url_hash": "1a4704445012bd0a05886d6c502c70b9",
+    "ut": 1629666511,
     "ent_info_list": [
       {
         "label": "GPE",
