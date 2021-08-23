@@ -2550,6 +2550,73 @@
   },
   {
     "date": "2021-08-22",
+    "title": "China to supply 3Mn more vaccines by end Aug.",
+    "source": "www.dailymirror.lk",
+    "snippet": "Another three million Sinopharm vaccines will be supplied by the China by the end of this month, the Chinese Embassy in Sri Lanka said today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/China-to-supply-3Mn-more-vaccines-by-end-Aug/342-218760",
+    "url_hash": "d1f2279d5e5fd401f942ed9d742da30d",
+    "ut": 1629641279,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three million",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of this month",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Chinese Embassy",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "18 to 30 years olds to be vaccinated from second week of Sept.: Dr. Ginige",
     "source": "www.dailymirror.lk",
     "snippet": "The government has planned to complete providing the COVID-19 vaccine for people between the ages of 18 and 30 from the second week of September, Epidemiology Unit Director Dr. Samitha Ginige said. ..",
@@ -2939,6 +3006,57 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Oxford-AstraZeneca vaccine 95% effective in controlling 'Delta' variants: NRC Chairman",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Oxford-AstraZeneca COVISHIELD vaccine was 95% effective in controlling the 'Delta' variants which have been identified in the country, the National Research Council (NRC) Chairman Prof. Hemantha Dodampahala said.",
+    "url": "https://www.dailymirror.lk/top_story/Oxford-AstraZeneca-vaccine-95-effective-in-controlling-Delta-variants-NRC-Chairman/155-218767",
+    "url_hash": "381dd74ea30f2a3db0a80bf54ad26603",
+    "ut": 1629644879,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "95%",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Research Council",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NRC",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hemantha Dodampahala",
+        "start_end": [
+          34,
+          36
         ]
       }
     ]
@@ -4044,6 +4162,132 @@
   },
   {
     "date": "2021-08-22",
+    "title": "Shehara creates history as Ceylon Association of Shipping Agents' first woman chairperson",
+    "source": "www.ft.lk",
+    "snippet": "CASA conducts 55th AGM virtually CASA, the voice of the shipping industry, held its Annual General Meeting on 17 August virtually with the attendance of over 100 members and stakeholders.\u00a0 McLarens Shipping Ltd.",
+    "url": "https://www.ft.lk/front-page/Shehara-creates-history-as-Ceylon-Association-of-Shipping-Agents-first-woman-chairperson/44-722063",
+    "url_hash": "80a3f4862c3951b595c4bd7a9d11429e",
+    "ut": 1629655711,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CASA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "55th",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AGM",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CASA",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17 August",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 100",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "McLarens Shipping Ltd.",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "FAO supports Environment Ministry on National Roadmap to tackle urban food waste challenge",
+    "source": "www.ft.lk",
+    "snippet": "In a bid to address the urban food waste challenge in Sri Lanka, a National Roadmap on Urban Food Waste Prevention and Reduction for Households, Food services, Retailers, and Wholesalers was prepared by FAO for the Ministry of Environment.",
+    "url": "https://www.ft.lk/front-page/FAO-supports-Environment-Ministry-on-National-Roadmap-to-tackle-urban-food-waste-challenge/44-722055",
+    "url_hash": "36d9170982120c585d9ab60dacd9f3e4",
+    "ut": 1629655711,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Urban Food Waste Prevention and Reduction for Households, Food",
+        "start_end": [
+          18,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Retailers",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wholesalers",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FAO",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Environment",
+        "start_end": [
+          39,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
     "title": "US-Lanka relations after Taliban triumph",
     "source": "www.ft.lk",
     "snippet": "Having led the country deeper and deeper into a quagmire of an aggressive virus pandemic and depressed economy, the GR-MR-BR trio is now scrambling to repair the damage it has caused to Sri Lanka's foreign relations.",
@@ -4570,6 +4814,33 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-22",
+    "title": "Apparel industry urges not to scuttle delivery under the pretext of Covid-19 prevention",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Chamber of Garment Exporters, which represents the SMES in the apparel industry stressed the need to proceed with manufacture of garment products despite the lockdown to meet orders from foreign buyers with quality and on time delivery.",
+    "url": "https://www.dailymirror.lk/latest_news/Apparel-industry-urges-not-to-scuttle-delivery-under-the-pretext-of-Covid-19-prevention/342-218783",
+    "url_hash": "d81e59b94837505c51bbd81a47e85f85",
+    "ut": 1629670079,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SMES",
+        "start_end": [
+          10,
+          11
         ]
       }
     ]

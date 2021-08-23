@@ -106,6 +106,33 @@
     "title": "Work on roads, bridges to continue despite quarantine curfew: Highways Minister",
     "source": "www.dailymirror.lk",
     "snippet": "Highways Minister Johnston Fernando yesterday said that construction work of roads, bridges and highways will continue as usual despite the countrywide quarantine curfew. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Work-on-roads-bridges-to-continue-despite-quarantine-curfew-Highways-Minister/342-218774",
+    "url_hash": "d8174841d00380ce400ee53f3ddac471",
+    "ut": 1629680879,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Johnston Fernando",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Work on roads, bridges to continue despite quarantine curfew: Highways Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Highways Minister Johnston Fernando yesterday said that construction work of roads, bridges and highways will continue as usual despite the countrywide quarantine curfew. ..",
     "url": "https://www.dailymirror.lk/breaking_news/Work-on-roads-bridges-to-continue-despite-quarantine-curfew-Highways-Minister/108-218774",
     "url_hash": "e43aa9b129bba134c3a18e98a1498d65",
     "ut": 1629680889,
@@ -1426,6 +1453,49 @@
   },
   {
     "date": "2021-08-23",
+    "title": "When Sri Lankan lives matter\u2026",
+    "source": "colombogazette.com",
+    "snippet": "By N Sathiya Moorthy President Gotabaya Rajapaksa's belated announcement to declare a 10-day, nation-wide lock-down beginning 20 August could not have been delayed any further. Maybe, some lives would have been saved from the Covid grip if the clampdown had been declared earlier,",
+    "url": "https://colombogazette.com/2021/08/23/when-sri-lankan-lives-matter/",
+    "url_hash": "ae5ea5d54f347306bb5e178f931f40d5",
+    "ut": 1629691707,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "20 August",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Medical grade oxygen arrives in Colombo",
     "source": "colombogazette.com",
     "snippet": "The Sri Lanka Navy ship, SLNS Shakthi, carrying medical grade oxygen from India arrived at the port of Colombo today. SLNS Shakthi left the Trincomalee harbour for the port of Chennai, India on 17th August 2021,",
@@ -1538,6 +1608,49 @@
         "start_end": [
           34,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Elephant runs amok during Kandy Perahera",
+    "source": "www.dailymirror.lk",
+    "snippet": "A tense situation prevailed during the final Randoli Perahera of the historic Temple of the Tooth in Kandy when an elephant carrying the casket of the Kataragama Devalaya, ran amok last night. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Elephant-runs-amok-during-Kandy-Perahera/108-218832",
+    "url_hash": "48c79f56def8338fdd62f0bc741ad674",
+    "ut": 1629695279,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Randoli Perahera",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Temple of the Tooth in Kandy",
+        "start_end": [
+          12,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Kataragama Devalaya",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last night",
+        "start_end": [
+          31,
+          33
         ]
       }
     ]
@@ -1747,6 +1860,41 @@
         "start_end": [
           53,
           54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Private entities will only develop infrastructure under PPP agreement, says Sports Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "A Sports Ministry proposal titled \"Streamlining of management, maintenance and development of sports complexes and grounds built at provincial and district level\" was part of the Cabinet proposals made on August 9 and was subsequently approved.",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Private-entities-will-only-develop-infrastructure-under-PPP-agreement-says-Sports-Minister/324-218835",
+    "url_hash": "d94d216cbc092f2686ea909bb0caaecf",
+    "ut": 1629698879,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sports Ministry",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 9",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
@@ -2198,6 +2346,341 @@
         "start_end": [
           23,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Medical grade oxygen arrives in Colombo",
+    "source": "menafn.com",
+    "snippet": "The Sri Lanka Navy ship, SLNS Shakthi, carrying medical grade oxygen from India arrived at the port of Colombo today.   S",
+    "url": "https://menafn.com/1102664269/Medical-grade-oxygen-arrives-in-Colombo&source=246",
+    "url_hash": "77d7f55ca5bb460e8179a28bd068b31d",
+    "ut": 1629706107,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "SLNS Shakthi",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Lankan housemaid in UAE wins Dh1 million compensation in car accident case",
+    "source": "www.dailymirror.lk",
+    "snippet": "A Sri Lankan housemaid in Dubai has been awarded Dh1 million compensation by Dubai Courts following a road accident last year. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Lankan-housemaid-in-UAE-wins-Dh1-million-compensation-in-car-accident-case/108-218839",
+    "url_hash": "458e98b31a176ba62c194ca908a57b9e",
+    "ut": 1629706919,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dubai Courts",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Pakistan Comes to the Rescue of Afghanistan Cricket Team Once Again",
+    "source": "propakistani.pk",
+    "snippet": "The ODI series between Pakistan and Afghanistan has been facing hurdles ever since the Taliban takeover in Afghanistan. The three-match",
+    "url": "https://propakistani.pk/2021/08/23/pakistan-comes-to-the-rescue-of-afghanistan-cricket-team-once-again/",
+    "url_hash": "849445daf867103013189b251668c72c",
+    "ut": 1629707648,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "President pays homage to Temple of Sacred Tooth Relic",
+    "source": "dailynews.lk",
+    "snippet": "President Gotabaya Rajapaksa paid homage to the Sacred Tooth Relic at Sri Dalada Maligawa, Kandy and obtained blessings last evening. The President was warmly welcomed by the custodian of the Temple of the Sacred Tooth Relic,",
+    "url": "https://dailynews.lk/2021/08/23/local/257397/president-pays-homage-temple-sacred-tooth-relic",
+    "url_hash": "222474b3e09a41f0eb05ef2098d13cd2",
+    "ut": 1629707884,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Sacred Tooth Relic",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last evening",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Temple of the Sacred Tooth Relic",
+        "start_end": [
+          31,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "RAJA WADYASEKERA",
+    "source": "dailynews.lk",
+    "snippet": "The National Fertiliser Secretariat has instructed the Hambantota District Secretary to take actions against traders who sell fertiliser at high prices.District Secretary Bandula Harischandra said... Tangalle prison riot case: Arrest warrant on suspect The Tangalle high court judge Sujatha Alahapperuma issued arrest warrant on the 12th suspect Jayasinha Kapuge Chandrasena of the Tangalle riot case for not... The Hambantota Police and the Hambantota ASP's office are conducting separate investigations into the disappearance of a youth from the Hambantota Police Station after being... President Gotabaya Rajapaksa paid homage to the Sacred Tooth Relic at Sri... High Commissioner of India to Sri Lanka calls on Foreign Minister The High Commissioner of India to Sri Lanka Gopal Baglay called on the new... Peliyagoda Fish Market opens for wholesale trade The Peliyagoda Fish Market, will be opened only for wholesale trade from...",
+    "url": "https://dailynews.lk/line/raja-wadyasekera",
+    "url_hash": "537605291f7d935220a4e326c2c1c59d",
+    "ut": 1629708784,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Hambantota",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bandula Harischandra",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tangalle",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tangalle",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sujatha Alahapperuma",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 12th",
+        "start_end": [
+          48,
+          50
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jayasinha Kapuge Chandrasena",
+        "start_end": [
+          51,
+          54
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tangalle",
+        "start_end": [
+          56,
+          57
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Hambantota Police Station",
+        "start_end": [
+          82,
+          86
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          90,
+          92
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Sacred Tooth Relic at Sri",
+        "start_end": [
+          95,
+          101
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          105,
+          106
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          107,
+          109
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          117,
+          118
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          119,
+          121
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gopal Baglay",
+        "start_end": [
+          121,
+          123
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Peliyagoda Fish Market",
+        "start_end": [
+          135,
+          139
         ]
       }
     ]
