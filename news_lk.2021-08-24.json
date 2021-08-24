@@ -5356,6 +5356,57 @@
   },
   {
     "date": "2021-08-24",
+    "title": "4,446 COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 4,446 more COVID-19 patients have been detected today increasing the total cases reported in Sri Lanka to 398,801, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/4-446-COVID-19-cases-detected-today/342-218933",
+    "url_hash": "8c41952d9ef4b2fee2b8a7497a4bb822",
+    "ut": 1629817728,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,446",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "398,801",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Worker support grows for harsher vaccine stances from employers; Fauci expects uptick after FDA approves Pfizer shot",
     "source": "www.msn.com",
     "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
@@ -5439,6 +5490,143 @@
         "start_end": [
           22,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Locals in Sri Lanka Accidentally Unearthed a Star Sapphire Worth $140 Million",
+    "source": "www.yahoo.com",
+    "snippet": "This theory came holds true for locals in Sri Lanka who recently made an epic discovery, and it happened entirely by change. According to Good News Network, a couple of residents in the area were digging a well and they then uncovered a boulder featuring two-and-a-half million carats of star sapphires.",
+    "url": "https://www.yahoo.com/lifestyle/locals-sri-lanka-accidentally-unearthed-163458083.html",
+    "url_hash": "733b768b48daf9577c863b7b317962e8",
+    "ut": 1629824937,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Good News Network",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Taliban urges US to stop evacuating skilled Afghans: Live",
+    "source": "www.aljazeera.com",
+    "snippet": "The Taliban on Tuesday urged skilled Afghans not to flee the country, as the new rulers of Afghanistan warned the United States and its NATO allies they would not accept an extension to a looming evacuation deadline - even as Western countries said time was running out.",
+    "url": "https://www.aljazeera.com/news/2021/8/24/g7-to-meet-on-afghanistan-withdrawal-deadline-live-news",
+    "url_hash": "17e497e970c1b85e10635ed87bd6af7c",
+    "ut": 1629825486,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghans",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NATO",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Western",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "US outbreaks force early reversals on in-person learning; Fauci says third COVID shot may bring lasting protection",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/cvs-health-other-companies-mandate-covid-shots-after-fda-approval-us-outbreaks-force-early-reversals-on-in-person-learning/ar-AAMrNBT",
+    "url_hash": "7f27e653c23e57a176f2cfa4dd56b22c",
+    "ut": 1629827951,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
         ]
       }
     ]
