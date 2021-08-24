@@ -6214,6 +6214,49 @@
   },
   {
     "date": "2021-08-23",
+    "title": "SAfrica coach sorry for racist behaviour",
+    "source": "au.sports.yahoo.com",
+    "snippet": "South Africa coach Mark Boucher has apologised for singing offensive songs and using racist nicknames during his playing days.Boucher was responding to allegations levelled against him by ex-teammate Paul Adams.",
+    "url": "https://au.sports.yahoo.com/safrica-coach-sorry-racist-behaviour-140547285.html",
+    "url_hash": "3e947c930f66b334b27a49b54e05503b",
+    "ut": 1629727728,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Boucher",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Paul Adams",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Checkpoints in operation",
     "source": "www.dailymirror.lk",
     "snippet": "Police checkpoints are operational throughout the country as the country has been placed under ten-day lockdown. Pix by Waruna Wanniarachchi ..",
@@ -8493,6 +8536,57 @@
         "start_end": [
           12,
           13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Lanka lauds India's 'continuous support' to combat COVID; $15 mn offer to enhance religious tourism",
+    "source": "arunachaltimes.in",
+    "snippet": "Sri Lanka's newly-appointed foreign minister G L Peiris on Monday appreciated India's \"continuous support\" for combatting the COVID-19 pandemic and also the USD 15 million offer to preserve and promote Buddhist cultural sites in the island nation.",
+    "url": "https://arunachaltimes.in/index.php/2021/08/24/lanka-lauds-indias-continuous-support-to-combat-covid-15-mn-offer-to-enhance-religious-tourism/",
+    "url_hash": "c255c0c292030798b5f809e5d8456aec",
+    "ut": 1629745702,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G L Peiris",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]

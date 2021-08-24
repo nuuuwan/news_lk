@@ -3162,6 +3162,81 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Beggars not forgotten during vaccination drive...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Beggars who live in the Colombo area are seen getting the first dose of the Chinese Sinopharm COVID-19 vaccine in Colombo today. The event was organized by the Dam Street Police and the Colombo Municipal Council (CMC) Health Division.",
+    "url": "https://www.dailymirror.lk/latest_news/Beggars-not-forgotten-during-vaccination-drive/342-218916",
+    "url_hash": "c93995a38c206bb6edbdfcd4de5134a6",
+    "ut": 1629796094,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Beggars",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Dam Street Police",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Municipal Council",
+        "start_end": [
+          33,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Division",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Which countries are most at risk of tsunamis?",
     "source": "www.thescottishsun.co.uk",
     "snippet": "TSUNAMIS are among the most terrifying and dangerous of natural disasters. Here we look at the top ten most devastating tsunamis in modern history\u2026 Which countries are most at risk of",
@@ -3336,6 +3411,65 @@
         "start_end": [
           41,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Vaccines for all members of clergy: Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "Under the programme of providing the COVID vaccine for people who are above 60 years of age and above, the government has decided to gather information from all Buddhist, Hindu, Catholic and Muslim clergy.",
+    "url": "https://www.dailymirror.lk/latest_news/Vaccines-for-all-members-of-clergy-Ministry/342-218920",
+    "url_hash": "5c8b6fed8659290334b4fe19ee95df57",
+    "ut": 1629799694,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "COVID",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years of age",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Catholic",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslim",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
@@ -3704,6 +3838,92 @@
         "start_end": [
           9,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "State Minister Janaka Wakkumbura tests Covid-19 positive",
+    "source": "www.dailymirror.lk",
+    "snippet": "State Minister Janaka Wakkumbura tested positive to Covid- 19 becoming the eighth member of Parliament to be tested Covid-19 positive within this month. ..",
+    "url": "https://www.dailymirror.lk/latest_news/State-Minister-Janaka-Wakkumbura-tests-Covid-19-positive/342-218925",
+    "url_hash": "9bd7ad937552b6813f97c3cc8a6f73ad",
+    "ut": 1629806894,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Janaka Wakkumbura",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "19",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "eighth",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this month",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Sri Lanka share hits record as interest rates move slowly",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's main stock index hit a fresh record high on Tuesday after crossing the 8,700 psychological benchmark as investors bought shares with the central bank's tightening measures yet to impact the bourse,",
+    "url": "https://economynext.com/sri-lanka-share-hits-record-as-interest-rates-move-slowly-85402/",
+    "url_hash": "d939196b461dc8676dabf4480d8d8906",
+    "ut": 1629806919,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8,700",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
@@ -4112,6 +4332,194 @@
         "start_end": [
           38,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Mangala's funeral held in Colombo today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Minister Mangala Samaraweera's funeral was held in Colombo today. SJB MP, Harsha De Silva, in a video post on his Facebook said his colleagues were not allowed in but the video he managed to capture showed Samaraweera's remains being taken to the crematorium.",
+    "url": "https://www.dailymirror.lk/latest_news/Mangalas-funeral-held-in-Colombo-today/342-218927",
+    "url_hash": "0f69bf38dd6e63bf33fa4c6ec37fb2fb",
+    "ut": 1629810494,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harsha De Silva",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Samaraweera",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "CSA mum on the future of embattled Proteas coach Mark Boucher",
+    "source": "www.timeslive.co.za",
+    "snippet": "With less than 24 hours to their scheduled departure to Sri Lanka, Cricket SA declined to comment when asked if Proteas coach Mark Boucher will travel with the team.",
+    "url": "https://www.timeslive.co.za/sport/cricket/2021-08-24-csa-mum-on-the-future-of-embattled-proteas-coach-mark-boucher/",
+    "url_hash": "f90faa9c21e53a4d6c9ac72c97e6d092",
+    "ut": 1629810948,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "less than 24 hours",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cricket SA",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Proteas",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Cruise passenger dies from COVID; Maine vaccinates 95 percent of people in their 70s for COVID-19",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/disney-reaches-vaccination-agreement-with-union-workers-how-to-handle-frustration-and-anger-as-delta-variant-rages/ar-AAMrNBT",
+    "url_hash": "970dc1fbcc71dc1a794c0f9cabc5629b",
+    "ut": 1629813455,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "SriLankan Airlines enhances connectivity to Sri Lanka from key Indian cities",
+    "source": "www.travelbizmonitor.com",
+    "snippet": "SriLankan Airlines, the national carrier of Sri Lanka in a bid to promote greater travel opportunities from India to Sri Lanka, announced strengthening its presence in India with more destinations and frequencies offering travellers to enjoy the freedom of travel.",
+    "url": "https://www.travelbizmonitor.com/srilankan-airlines-enhances-connectivity-to-sri-lanka-from-key-indian-cities/",
+    "url_hash": "cec972a111a1a805c805cc8e4dd76d90",
+    "ut": 1629813562,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
