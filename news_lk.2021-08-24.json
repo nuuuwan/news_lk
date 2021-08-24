@@ -6382,6 +6382,25 @@
   },
   {
     "date": "2021-08-24",
+    "title": "A pathway to alleviate poverty and gain prosperity",
+    "source": "www.ft.lk",
+    "snippet": "This article is about the manner in which the economy of Sri Lanka should be rebuilt, mainly to alleviate poverty worsened by the devastating effect of the COVID-19 pandemic. But it goes beyond the short term to the long term as the economy was already very sick when the pandemic hit the country,",
+    "url": "https://www.ft.lk/opinion/A-pathway-to-alleviate-poverty-and-gain-prosperity/14-722136",
+    "url_hash": "c3fe49e73895affdda9f738730d2388a",
+    "ut": 1629828497,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Where to go for whale watching",
     "source": "timesofindia.indiatimes.com",
     "snippet": "Mirissa, Sri Lanka Not just whales ... and you have a chance to spot the large blue whales here. Vancouver Island, Canada A sustainable whale watching experience in British Columbia, this is ...",
@@ -6427,6 +6446,140 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "COVID vaccines remain highly effective at stopping severe disease, data shows; Multiple companies mandate shots after FDA approval",
+    "source": "www.msn.com",
+    "snippet": "Nehls, the former sheriff of Fort Bend County who was elected to Congress last year ... beyond the city of Melbourne and introduced measures to protect children. Sri Lanka also began another lockdown, its first since June. Protesters still marching ...",
+    "url": "http://www.msn.com/en-us/news/us/covid-vaccines-remain-highly-effective-at-stopping-severe-disease-data-shows-multiple-companies-mandate-shots-after-fda-approval/ar-AAMrNBT",
+    "url_hash": "a22606cb8bcec119ab8c4bea5a07c65b",
+    "ut": 1629835697,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nehls",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Fort Bend County",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Congress",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Melbourne",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "CA Sri webinar on Colombo Port City Economic Commission Act on Friday",
+    "source": "www.ft.lk",
+    "snippet": "In its standing as the National Body of Accountants, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) will pay special attention to the newly legislated Colombo Port City Economic Commission Act by organising a virtual seminar to help clarify matters pertaining to the Bill.",
+    "url": "https://www.ft.lk/business/CA-Sri-webinar-on-Colombo-Port-City-Economic-Commission-Act-on-Friday/34-722164",
+    "url_hash": "a69e68fe888f8bef438f3f7ea4a48ed2",
+    "ut": 1629835697,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "the National Body of Accountants",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Institute of Chartered Accountants of",
+        "start_end": [
+          10,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Colombo Port City Economic Commission Act",
+        "start_end": [
+          31,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill",
+        "start_end": [
+          49,
+          50
         ]
       }
     ]
