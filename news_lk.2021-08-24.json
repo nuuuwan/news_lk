@@ -1,6 +1,57 @@
 [
   {
     "date": "2021-08-24",
+    "title": "The Latest: EMS workers oppose Maine's COVID vaccine mandate",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "PORTLAND, Maine \u2014 Some emergency medical service workers in Maine spoke out against a COVID-19 vaccine mandate because of concerns that it would lead to ill-timed staff shortages. The Maine Board of Emergency Medical Services held a public hearing on the subject on Monday.",
+    "url": "https://www.stamfordadvocate.com/business/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
+    "url_hash": "a75688ace1ca6c7014573208e412eef0",
+    "ut": 1629763680,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "PORTLAND",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maine",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maine",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Maine Board of Emergency Medical Services",
+        "start_end": [
+          32,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "ERASING THE EELAM VICTORY Part 24b",
     "source": "www.lankaweb.com",
     "snippet": "The west finds that the case for Tamil Eelam is about to be exposed and weakened at Geneva. That is due to the Global Sri Lanka Forum, starting to invade the HRC sessions In Geneva, well primed and ready to demolish the case for a bogus Eelam.",
@@ -4376,6 +4427,57 @@
   },
   {
     "date": "2021-08-24",
+    "title": "IUBF protest...",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Inter-University Bhikkhu Federation (IUBF) today launched an online protest demanding the immediate release of student leaders and Trade Union leaders fighting against the Kotelawela Bill. Pix by Nimalsiri Edirisinghe .",
+    "url": "https://www.dailymirror.lk/caption_story/IUBF-protest/110-218935",
+    "url_hash": "5ba5b1fd4d3a21454e0552a8742ba951",
+    "ut": 1629803263,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Inter-University Bhikkhu Federation",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Trade Union",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Kotelawela Bill",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nimalsiri Edirisinghe",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Scenes From Afghanistan: Here's What Happened Today",
     "source": "www.nytimes.com",
     "snippet": "Even as scenes of chaos and desperation have unfolded outside Kabul's airport, just seven kilometers away, players on the Afghan national cricket team are continuing to train at their home stadium. As recently as Wednesday,",
@@ -6057,6 +6159,41 @@
         "start_end": [
           41,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Mangala Samaraweera, an advocate of liberalism, dies",
+    "source": "www.thehindu.com",
+    "snippet": "Mangala Samaraweera, a former Foreign Minister of Sri Lanka and a notable advocate of liberalism from the country's dominant Sinhala-Buddhist polity, passed away at a private hospital in Colombo after treatment for COVID-19-related complications failed.",
+    "url": "https://www.thehindu.com/news/international/mangala-samaraweera-an-advocate-of-liberalism-dies/article36075905.ece",
+    "url_hash": "76faed2fa6f9c17b6345aa3984405696",
+    "ut": 1629828471,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sinhala-Buddhist",
+        "start_end": [
+          21,
+          24
         ]
       }
     ]
