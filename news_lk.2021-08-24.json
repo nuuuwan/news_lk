@@ -935,6 +935,49 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Sinopharm vaccine shipment with 1 million doses arrives in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Another shipment of Sinopharm COVID-19 vaccines purchased by the government of Sri Lanka has arrived on the island this morning (August 24)",
+    "url": "http://www.adaderana.lk/news/76377/sinopharm-vaccine-shipment-with-1-million-doses-arrives-in-sri-lanka",
+    "url_hash": "d573c9642a00a58b78e2fb80976b93aa",
+    "ut": 1629774524,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 24",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Env. Ministry to initiate NEP to last throughout",
     "source": "www.dailymirror.lk",
     "snippet": "The Environment Minister instructed the officials to formulate a National Environmental Policy (NEP) that would not change the policies of certain ministries even during government or ministerial change.",
@@ -4553,6 +4596,33 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Sri Lanka rupee falls to 221 to US dollar, margins widen without price transparency",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's rupee has fallen to as much as 221 to the US dollars in the importer market for large transactions, market participants said, with banks scrambling to find dollar give to importers who come with printed rupees seeking convertibility.",
+    "url": "https://economynext.com/sri-lanka-rupee-falls-to-221-to-us-dollar-margins-widen-without-price-transparency-85403/",
+    "url_hash": "40991f33ef3b9c320c6994dfb684cc53",
+    "ut": 1629810543,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "as much as 221",
+        "start_end": [
+          7,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "CSA mum on the future of embattled Proteas coach Mark Boucher",
     "source": "www.timeslive.co.za",
     "snippet": "With less than 24 hours to their scheduled departure to Sri Lanka, Cricket SA declined to comment when asked if Proteas coach Mark Boucher will travel with the team.",
@@ -4684,6 +4754,130 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "190 Covid deaths reported: Death toll surges to 7,750",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 190 more COVID-19 related deaths that occurred yesterday (23) were confirmed by the Director-General of Health Services today pushing the death toll to 7,750. ..",
+    "url": "https://www.dailymirror.lk/latest_news/190-Covid-deaths-reported-Death-toll-surges-to-7-750/342-218932",
+    "url_hash": "45d290221e50dedaa3d0293f34bb64a0",
+    "ut": 1629814114,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "190",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7,750",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Only wholesale activities in Pettah",
+    "source": "www.dailymirror.lk",
+    "snippet": "The streets of Pettah are seen deserted due to the nationwide quarantine curfew. Only wholesale business activities take place in what would be bustling place at the heart of the Colombo city. Pix by Pradeep Pathirana .",
+    "url": "https://www.dailymirror.lk/latest_news/Only-wholesale-activities-in-Pettah/342-218930",
+    "url_hash": "cd84716cdd2249b6d2f5f44f852f67fb",
+    "ut": 1629814114,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pettah",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Arrested suspect dies being taken to police station due to COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 40-year-old suspect arrested by the Mathugama Police had died while being taken to the Police station, police said. He was infected with the COVID-19. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Arrested-suspect-dies-being-taken-to-police-station-due-to-COVID-19/108-218931",
+    "url_hash": "e0ef5e354874329642651b7d5c6590c7",
+    "ut": 1629814114,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "40-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Mathugama Police",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Police",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Travel restrictions should be further tightened to control the virus: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "Travel restrictions should be further tightened up to 80 to 90 per cent and the imposed restrictions should be implemented perfectly, the Government Medical Officers' Association (GMOA) said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Travel-restrictions-should-be-further-tightened-to-control-the-virus-GMOA/108-218929",
+    "url_hash": "cddafc72de220bfc7ee5260ab1d1f8af",
+    "ut": 1629814114,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "up to 80 to 90",
+        "start_end": [
+          6,
+          11
         ]
       }
     ]
@@ -4842,6 +5036,41 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Worker support grows for harsher vaccine stances from employers; Fauci expects uptick after FDA approves Pfizer shot",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/us-outbreaks-force-early-reversals-on-in-person-learning-fauci-says-third-covid-shot-may-bring-lasting-protection/ar-AAMrNBT",
+    "url_hash": "166ace499fabce3a21736d27d25dee92",
+    "ut": 1629819598,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
         ]
       }
     ]
