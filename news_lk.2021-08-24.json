@@ -1,6 +1,167 @@
 [
   {
     "date": "2021-08-24",
+    "title": "Over 450 SLTB buses deployed to serve public and private institutions",
+    "source": "www.msn.com",
+    "snippet": "Deputy General Manager of Operations Panduka Swarnahansa said that over 450 SLTB buses have been deployed throughout the country at the request of public and private institutions during the lockdown.About 400 buses will be used to provide services to Government hospitals in each province,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/over-450-sltb-buses-deployed-to-serve-public-and-private-institutions/ar-AANElPV",
+    "url_hash": "059f3c04db7ead69f924e9156ac685cd",
+    "ut": 1629764026,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Operations Panduka Swarnahansa",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 450",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLTB",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "About 400",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Indian relief for COVID-19 affected in South",
+    "source": "www.msn.com",
+    "snippet": "The Consulate General of India in Hambantota distributed dry rations and essential items to families affected by the COVID-19 pandemic in the Madampagama, Hikkaduwa and Ratgama areas.The materials were distributed by Consul General of India in Hambantota,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/indian-relief-for-covid-19-affected-in-south/ar-AANEtZ7",
+    "url_hash": "03cd1ce57c901b76bc992379a996bb1f",
+    "ut": 1629764026,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Consulate General",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Hambantota",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Madampagama",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Hikkaduwa",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Ratgama",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Consul General",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hambantota",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "The Latest: Egypt reports first case of the delta variant",
+    "source": "www.theolympian.com",
+    "snippet": "Egypt reports that it has detected the country's first case of the alarming coronavirus delta variant last month.",
+    "url": "https://www.theolympian.com/news/business/article253679213.html",
+    "url_hash": "4cc6bdd87a14cec0a78836eb343667c7",
+    "ut": 1629764026,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "India Navy delivers 100 tonnes of oxygen to Sri Lanka",
     "source": "economynext.com",
     "snippet": "India has delivered 100 tonnes of medical oxygen to Sri Lanka on August 22 though a Navy vessel following a request by Sri Lanka as a Coronavirus wave worsened and hospitalization and deaths increased.",
