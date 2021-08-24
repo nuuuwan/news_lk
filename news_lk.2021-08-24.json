@@ -838,6 +838,33 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Env. Ministry to initiate NEP to last throughout",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Environment Minister instructed the officials to formulate a National Environmental Policy (NEP) that would not change the policies of certain ministries even during government or ministerial change.",
+    "url": "https://www.dailymirror.lk/latest_news/Env-Ministry-to-initiate-NEP-to-last-throughout/342-218901",
+    "url_hash": "6366370bbc4bbe41a3306d32a62c52b0",
+    "ut": 1629774471,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Environmental Policy",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NEP",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Sinopharm vaccine shipment with 1 million doses arrives in Sri Lanka",
     "source": "www.adaderana.lk",
     "snippet": "Another shipment of Sinopharm COVID-19 vaccines purchased by the government of Sri Lanka has arrived on the island this morning (August 24)",
@@ -1413,6 +1440,95 @@
   },
   {
     "date": "2021-08-24",
+    "title": "82,194 vehicles assigned to Govt. institutions: Report reveals",
+    "source": "www.dailymirror.lk",
+    "snippet": "It was revealed that a total of 82,194 vehicles have been assigned to the government institutions, including Ministries, State Enterprises, Provincial Councils and Local Government Institutions. ..",
+    "url": "https://www.dailymirror.lk/latest_news/82-194-vehicles-assigned-to-Govt-institutions-Report-reveals/342-218906",
+    "url_hash": "a9fcac7c53aee6ab291d0948430b2559",
+    "ut": 1629781671,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "82,194",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ministries, State Enterprises, Provincial Councils and Local Government Institutions",
+        "start_end": [
+          18,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Govt. to import 300,000 liters of liquid medical oxygen weekly",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cabinet Minister had approved importing of 300,000 liters of liquid medical oxygen weekly which is required to treat Covid-19 patients who are in critical condition. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-to-import-300-000-liters-of-liquid-medical-oxygen-weekly/342-218905",
+    "url_hash": "9e6d7511895903644e990bcf9d2d4bf9",
+    "ut": 1629781671,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "300,000",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Govt. approves 180-day online visa facilities for tourists",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government has approved issuing tourist visa licenses valid for 180 days for tourists visiting Sri Lanka. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-approves-180-day-online-visa-facilities-for-tourists/342-218904",
+    "url_hash": "b55c8fa81960fff1c258a334bf184000",
+    "ut": 1629781671,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "180 days",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Alpha variant moving out of SL as Delta becomes dominant",
     "source": "www.dailymirror.lk",
     "snippet": "Unofficial figures show nearly 6000 daily infections Daily death toll to hit over 200 Delta has developed 4 mutations which are highly transmissible 194 deaths reported yesterday Hospitals increasing oxygen capacity Health experts in the forefront of the ...",
@@ -1678,6 +1794,299 @@
         "start_end": [
           4,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Former minister Mangala Samaraweera passes away",
+    "source": "www.adaderana.lk",
+    "snippet": "Former Minister Mangala Samaraweera has passed away while being treated for COVID-19 infection, sources told Ada Derana",
+    "url": "http://www.adaderana.lk/news/76381/former-minister-mangala-samaraweera-passes-away",
+    "url_hash": "3c27986b872260c2f6f00f7ff1c0b7de",
+    "ut": 1629785283,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ada Derana",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Veteran politician Mangala Samaraweera passes away",
+    "source": "www.adaderana.lk",
+    "snippet": "Former Minister Mangala Samaraweera has passed away while being treated for COVID-19 infection, sources told Ada Derana",
+    "url": "http://www.adaderana.lk/news/76381/veteran-politician-mangala-samaraweera-passes-away",
+    "url_hash": "c8480ee4916366861382fd23158f1fa5",
+    "ut": 1629785283,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ada Derana",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Steps to be taken to further contain spread of virus",
+    "source": "menafn.com",
+    "snippet": "Steps are to be taken to further contain the spread of the coronavirus, the State Ministry of Primary Health Care, Epidemics and Covid Di",
+    "url": "https://menafn.com/1102670045/Steps-to-be-taken-to-further-contain-spread-of-virus",
+    "url_hash": "64ad2b4c65b960ef5d1f28678652ec9d",
+    "ut": 1629785304,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the State Ministry of Primary Health Care",
+        "start_end": [
+          14,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Covid Di",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "SL born British national pleads guilty to financial crimes in US",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankan born British national Sivendran Vettivetpillai of Abraaj group has pleaded guilty to nine counts of criminal charges carrying a total of 115 years in jail and a fine of up to $11.5 million,",
+    "url": "https://www.dailymirror.lk/latest_news/SL-born-British-national-pleads-guilty-to-financial-crimes-in-US/342-218908",
+    "url_hash": "0939c7ae5ceedd764d85cabbb6705499",
+    "ut": 1629785331,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sivendran Vettivetpillai",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "115 years",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "up to $11.5 million",
+        "start_end": [
+          31,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Coronavirus live news: Hawaii governor wants to curb travel; Israel boosters 'beating Delta'",
+    "source": "www.theguardian.com",
+    "snippet": "US state asks people to reduce movement to tackle spread of Delta strain; Israeli sees cases dip in wake of third shots; New Zealand heads for record outbreak",
+    "url": "https://www.theguardian.com/world/live/2021/aug/24/coronavirus-live-news-hawaii-governor-wants-to-curb-travel-israel-boosters-beating-delta?page=with:block-612489c48f08cc0d8b007cd4",
+    "url_hash": "88809301c32f5649298ece7f70931b7e",
+    "ut": 1629786084,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Israeli",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Sri Lanka former finance minister Mangala Samaraweera succumbs to COVID-19",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's former finance minister Mangala Samaraweera passed away from COVID-19 on Tuesday (24), a coordinator for the former minister said. Samaraweera contracted the virus earlier this month and was receiving intensive care unit (ICU) treatment at the Lanka Hospital,",
+    "url": "https://economynext.com/sri-lanka-former-finance-minister-mangala-samaraweera-succumbs-to-covid-19-85380/",
+    "url_hash": "4870f79168368c13b80d9b89a474016f",
+    "ut": 1629786256,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier this month",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICU",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Lanka Hospital",
+        "start_end": [
+          44,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "T\u00e9rapy Ceylon brings together Pure Ceylon Tea and Ayurveda into a delicious cup of Tea",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "In an answer to the current global health crisis, homegrown Sri Lankan brands such as T\u00e9rapy Ceylon have dug into our island's ancient healing heritage by bringing together Pure Ceylon Tea and Ceylon Ayurveda,",
+    "url": "http://bizenglish.adaderana.lk/terapy-ceylon-brings-together-pure-ceylon-tea-and-ayurveda-into-a-delicious-cup-of-tea/",
+    "url_hash": "cc386f649bef17bb8a2c09e0f42475fe",
+    "ut": 1629787619,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "T\u00e9rapy Ceylon",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ceylon Ayurveda",
+        "start_end": [
+          34,
+          36
         ]
       }
     ]
