@@ -599,6 +599,33 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Journalist detained for giving information to Indian Embassy",
+    "source": "menafn.com",
+    "snippet": "A web journalist has been detained for allegedly giving information to the Indian Embassy in Colombo.   A media organisat",
+    "url": "https://menafn.com/1102673088/Journalist-detained-for-giving-information-to-Indian-Embassy",
+    "url_hash": "07044148b7f64edaf06cea723a911543",
+    "ut": 1629770922,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Indian Embassy",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "The Latest: Slight easing due for Australia state's lockdown",
     "source": "www.thehour.com",
     "snippet": "Australia's most populous state is in lockdown because of the virus outbreak, as is Victoria, which is the country's second most populous state. Government leaders hope the lockdowns will end in October once 80% of people 16 years and older are fully vaccinated.",
@@ -3417,6 +3444,49 @@
   },
   {
     "date": "2021-08-24",
+    "title": "SL receives US$ 780 million in SDR from IMF",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka received US$ 780 million Special Drawing Rights (SDR) from the International Monetary Fund (IMF), an official said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/SL-receives-US-780-million-in-SDR-from-IMF/342-218919",
+    "url_hash": "b68812aa0caf06fe1eee8cfad4874cb4",
+    "ut": 1629799690,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "US$ 780 million",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Special Drawing Rights",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          13,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Vaccines for all members of clergy: Ministry",
     "source": "www.dailymirror.lk",
     "snippet": "Under the programme of providing the COVID vaccine for people who are above 60 years of age and above, the government has decided to gather information from all Buddhist, Hindu, Catholic and Muslim clergy.",
@@ -3744,6 +3814,49 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Scenes From Afghanistan: Here's What Happened Today",
+    "source": "www.nytimes.com",
+    "snippet": "Even as scenes of chaos and desperation have unfolded outside Kabul's airport, just seven kilometers away, players on the Afghan national cricket team are continuing to train at their home stadium. As recently as Wednesday,",
+    "url": "https://www.nytimes.com/live/2021/08/24/world/afghanistan-photos",
+    "url_hash": "13888f571c3cb293669ec23b93b14f12",
+    "ut": 1629803308,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "seven kilometers",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
@@ -4390,6 +4503,57 @@
   {
     "date": "2021-08-24",
     "title": "CSA mum on the future of embattled Proteas coach Mark Boucher",
+    "source": "www.sowetanlive.co.za",
+    "snippet": "With less than 24 hours to their scheduled departure to Sri Lanka, Cricket SA declined to comment when asked if Proteas coach Mark Boucher will travel with the team.",
+    "url": "https://www.sowetanlive.co.za/sport/cricket/2021-08-24-csa-mum-on-the-future-of-embattled-proteas-coach-mark-boucher/",
+    "url_hash": "901ab3b5d8bbfd68d5832a117ea2deee",
+    "ut": 1629810526,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "less than 24 hours",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cricket SA",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Proteas",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "CSA mum on the future of embattled Proteas coach Mark Boucher",
     "source": "www.timeslive.co.za",
     "snippet": "With less than 24 hours to their scheduled departure to Sri Lanka, Cricket SA declined to comment when asked if Proteas coach Mark Boucher will travel with the team.",
     "url": "https://www.timeslive.co.za/sport/cricket/2021-08-24-csa-mum-on-the-future-of-embattled-proteas-coach-mark-boucher/",
@@ -4520,6 +4684,164 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Sri Lanka green light for Covaxin: Opens quarantine free for fully jabbed Indian tourists",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka has reopened for fully vaccinated tourists from India \u2014 including those who have got Covaxin\u2014 SriLankan Airlines' head of worldwide sales and distribution, Dimuthu Tennakoon, told TOI on Tuesday.",
+    "url": "https://www.msn.com/en-in/money/topstories/sri-lanka-green-light-for-covaxin-opens-quarantine-free-for-fully-jabbed-indian-tourists/ar-AANGTn4",
+    "url_hash": "5ca21eced49b4255a33dac38a10bb6d3",
+    "ut": 1629815779,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines'",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dimuthu Tennakoon",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TOI",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Cricket: Pakistan-Afghanistan ODI series postponed until next year",
+    "source": "www.channelnewsasia.com",
+    "snippet": "A one-day series between Pakistan and Afghanistan, scheduled for early September in Sri Lanka, has been postponed until 2022 following the Taliban's takeover of power in Afghanistan. The two countries were due to play three ODI matches,",
+    "url": "https://www.channelnewsasia.com/sport/cricket-odi-pakistan-afghanistan-2132071",
+    "url_hash": "c77e911c11e0d9d7f836dd9e02e224e4",
+    "ut": 1629817159,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early September",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]

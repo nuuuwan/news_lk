@@ -6672,6 +6672,25 @@
   {
     "date": "2021-08-23",
     "title": "The Latest: NYC public school teachers to be vaccinated",
+    "source": "www.riverbender.com",
+    "snippet": "All New York City public school teachers and other staffers will have to get vaccinated against the coronavirus.Officials announced the new",
+    "url": "https://www.riverbender.com/topnews/details.cfm?id=352667",
+    "url_hash": "7c2a8badc6bad0dbf5d864b0a9e9a8d0",
+    "ut": 1629731299,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New York City",
+        "start_end": [
+          1,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: NYC public school teachers to be vaccinated",
     "source": "accesswdun.com",
     "snippet": "All New York City public school teachers and other staffers will have to get vaccinated against the coronavirus. Officials announced the new policy Monday as the nation's largest school system prepares for classes to start next month.",
     "url": "https://accesswdun.com/article/2021/8/1032752",
@@ -6751,6 +6770,49 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "SAfrica coach sorry for racist behaviour",
+    "source": "www.denipt.com.au",
+    "snippet": "South Africa coach Mark Boucher has apologised for singing offensive songs and using racist nicknames during his playing days. Boucher was responding to allegations levelled against him by ex-teammate Paul Adams.",
+    "url": "https://www.denipt.com.au/other-sport/2021/08/24/4986361/safrica-coach-sorry-for-racist-behaviour",
+    "url_hash": "24146ca929c122d1c8431135209b840c",
+    "ut": 1629731326,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Boucher",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Paul Adams",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]
@@ -8493,6 +8555,49 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: Biden celebrates full approval of Pfizer vaccine",
+    "source": "www.stltoday.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is celebrating the full FDA approval of Pfizer's COVID-19 vaccine and is urging the unvaccinated to go get their inoculations.",
+    "url": "https://www.stltoday.com/news/world/the-latest-biden-celebrates-full-approval-of-pfizer-vaccine/article_08dc5c83-30cc-5884-8420-83dae6637049.html",
+    "url_hash": "a2595a90c3340094a405093778c66515",
+    "ut": 1629745699,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          12,
+          13
         ]
       }
     ]
