@@ -6558,6 +6558,57 @@
   },
   {
     "date": "2021-08-23",
+    "title": "The Latest: Pentagon to make vaccine mandatory for military",
+    "source": "omaha.com",
+    "snippet": "The Pentagon says it's preparing to make the COVID-19 vaccine mandatory for the military. Spokesman John Kirby said Monday that Pentagon officials are preparing to issue guidance to require vaccination now that the Pfizer vaccine has been given full approval.",
+    "url": "https://omaha.com/news/world/the-latest-pentagon-to-make-vaccine-mandatory-for-military/article_661a67b6-4e9a-5866-9230-741e569a7f6b.html",
+    "url_hash": "a063a3671cda81a8ee2d929a7ddabf41",
+    "ut": 1629731315,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Pentagon",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Kirby",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pentagon",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "Colombo turns busy again...",
     "source": "www.dailymirror.lk",
     "snippet": "Despite the nationwide lockdown, vehicles are seen moving in Colombo. People seem busy with their usual activities. However, certain cities in Colombo were haunted by emptiness. Pix by Pradeep Dilrukshana .",
@@ -7639,6 +7690,49 @@
     "url": "https://omaha.com/news/world/the-latest-lsu-to-require-students-be-vaccinated-for-virus/article_661a67b6-4e9a-5866-9230-741e569a7f6b.html",
     "url_hash": "4b793712d43df41d5e193879d8aadd98",
     "ut": 1629738476,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ATLANTA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Louisiana State University",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "The Latest: LSU to require students be vaccinated for virus",
+    "source": "omaha.com",
+    "snippet": "ATLANTA \u2014 Louisiana State University will require students on its campuses to be vaccinated now that the FDA has given full approval to the Pfizer vaccine, but details of the",
+    "url": "https://omaha.com/business/the-latest-lsu-to-require-students-be-vaccinated-for-virus/article_661a67b6-4e9a-5866-9230-741e569a7f6b.html",
+    "url_hash": "b9cd3abfbce2fc4686d66f31199b3786",
+    "ut": 1629738515,
     "ent_info_list": [
       {
         "label": "GPE",
