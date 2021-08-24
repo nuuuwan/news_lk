@@ -9007,6 +9007,65 @@
   },
   {
     "date": "2021-08-23",
+    "title": "The Latest: British Columbia bringing in COVID vaccine card",
+    "source": "www.trumbulltimes.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is celebrating the full FDA approval of Pfizer's COVID-19 vaccine and is urging the unvaccinated to go get their inoculations. Biden on Monday addressed those who were waiting on the full approval and declared \"it is now happened,",
+    "url": "https://www.trumbulltimes.com/business/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
+    "url_hash": "35e0ad6797545101ab4f5b2ad8dd1b39",
+    "ut": 1629752901,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
     "title": "The Latest: LSU to require students be vaccinated for virus",
     "source": "www.local10.com",
     "snippet": "Louisiana State University will require students on its campuses to be vaccinated now that the FDA has given full approval to the Pfizer vaccine.",

@@ -1827,6 +1827,57 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Israeli attack on Gaza Strip 'apparently broke the law', HRW says",
+    "source": "www.hirunews.lk",
+    "snippet": "Israeli air raids that demolished four high-rise buildings in the besieged Gaza Strip during its assault on the enclave in May apparently violated international laws of war, a leading international human rights group said Monday,",
+    "url": "https://www.hirunews.lk/english/280475/israeli-attack-on-gaza-strip-apparently-broke-the-law-hrw-says",
+    "url_hash": "490f67021c942f3c371c0d44b8ca1f9c",
+    "ut": 1629781701,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Israeli",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gaza Strip",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Govt. approves 180-day online visa facilities for tourists",
     "source": "www.dailymirror.lk",
     "snippet": "The government has approved issuing tourist visa licenses valid for 180 days for tourists visiting Sri Lanka. ..",
@@ -2668,6 +2719,124 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Pakistan-Afghanistan ODI series postponed until next year",
+    "source": "bdnews24.com",
+    "snippet": "A one-day series between Pakistan and Afghanistan, scheduled for next month in Sri Lanka, has been postponed until 2022 following the Taliban's takeover of power in Afghanistan.",
+    "url": "https://bdnews24.com/cricket/2021/08/24/pakistan-afghanistan-odi-series-postponed-until-next-year",
+    "url_hash": "75098cc2cdae2da47ab982f25dc6ed00",
+    "ut": 1629788892,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Afghanistan crisis updates | Considering Afghanistan players' mental health, series against Pakistan postponed",
+    "source": "www.thehindu.com",
+    "snippet": "The G7, chaired by UK Prime Minister Borris Johnson, is set to hold an emergency meeting to discuss Afghan situation. Evacuations continue in full swing.",
+    "url": "https://www.thehindu.com/news/international/afghanistan-crisis-august-24-live-updates/article36072571.ece",
+    "url_hash": "f3030a7ca316661dd4d8d30b376ee4fa",
+    "ut": 1629788901,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "G7",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Borris Johnson",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "How many batters have bagged king pairs in Tests?",
     "source": "africa.espn.com",
     "snippet": "How often has this happened in Tests? asked Zeeshan Bhayani from Pakistan The unfortunate Sam Curran fell to his first ball in both innings of last week's exciting Test against India at Lord's. Curran was the 23rd man to bag what's usually known as a \"king pair\" in Tests.",
@@ -2842,6 +3011,33 @@
         "start_end": [
           3,
           5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Antibody that fights many variants identified in US",
+    "source": "www.tribuneindia.com",
+    "snippet": "Researchers have identified an antibody that is highly protective at low doses against a wide range of variants of the SARS-CoV-2 virus which causes Covid. The findings, posted as a pre-proof in the journal Immunity,",
+    "url": "https://www.tribuneindia.com/news/health/antibody-that-fights-many-variants-identified-in-us-301349",
+    "url_hash": "35db8299278d37da299763121f8a7dba",
+    "ut": 1629792492,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Covid",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Immunity",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
@@ -3358,6 +3554,41 @@
   },
   {
     "date": "2021-08-24",
+    "title": "No decision to cut salaries of state or private sector employees: Govt.",
+    "source": "www.dailymirror.lk",
+    "snippet": "No decision has been taken by the government to make pay cuts of any state or private sector employees, Cabinet Spokesman and Media Minister Dullas Alahapperuma said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/No-decision-to-cut-salaries-of-state-or-private-sector-employees-Govt/108-218915",
+    "url_hash": "dbfa35a0239c19be3823f33f6380fe16",
+    "ut": 1629796083,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dullas Alahapperuma",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Beggars not forgotten during vaccination drive...",
     "source": "www.dailymirror.lk",
     "snippet": "Beggars who live in the Colombo area are seen getting the first dose of the Chinese Sinopharm COVID-19 vaccine in Colombo today. The event was organized by the Dam Street Police and the Colombo Municipal Council (CMC) Health Division.",
@@ -3709,6 +3940,49 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Ambuja Cement Foundation partners with Hafele to strengthen the reach and impact of its menstrual hygiene management project",
+    "source": "www.business-standard.com",
+    "snippet": "With an aim to strengthen women's health in rural areas, Ambuja Cement Foundation (ACF) has conceptualized and implemented the Menstrual Hygiene Management Programme across 7 locations.",
+    "url": "https://www.business-standard.com/content/press-releases-ani/ambuja-cement-foundation-partners-with-hafele-to-strengthen-the-reach-and-impact-of-its-menstrual-hygiene-management-project-121082400750_1.html",
+    "url_hash": "bae5570e319c008000671519bfaa5210",
+    "ut": 1629799701,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ambuja Cement Foundation",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ACF",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Menstrual Hygiene Management Programme",
+        "start_end": [
+          22,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
@@ -4692,6 +4966,41 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "The Latest: Biden celebrates full approval of Pfizer vaccine",
+    "source": "www.thenewstribune.com",
+    "snippet": "President Joe Biden is celebrating the full FDA approval of Pfizer's COVID-19 vaccine and is urging the unvaccinated to go get their inoculations.",
+    "url": "https://www.thenewstribune.com/news/business/article253679213.html",
+    "url_hash": "816a303c4c6b5f67bc4ec92f92622b79",
+    "ut": 1629810501,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          10,
+          11
         ]
       }
     ]
