@@ -9391,6 +9391,16 @@
   },
   {
     "date": "2021-08-23",
+    "title": "Tight monetary policy overpowered by Government borrowings from banks",
+    "source": "www.ft.lk",
+    "snippet": "At present, policymakers are facing unprecedented challenges in dealing with the economic setback exacerbated by the COVID-19 pandemic. ..",
+    "url": "https://www.ft.lk/opinion/Tight-monetary-policy-overpowered-by-Government-borrowings-from-banks/14-722117",
+    "url_hash": "522b53d32bcdde08b09b42ffa64a8eb8",
+    "ut": 1629756505,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-23",
     "title": "WHO Urges Delay in Booster Shots",
     "source": "www.voanews.com",
     "snippet": "The head of the World Health Organization urged countries to delay administering booster shots by at least two months to allow nations with low vaccine doses to receive more.\u00a0 WHO Director-General Tedros Adhanom Ghebreyesus told reporters during a visit to Hungary's capital,",
@@ -9573,6 +9583,41 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-23",
+    "title": "Expiry date of all Dubai-issued resident visas extended until Nov.10",
+    "source": "www.gulftoday.ae",
+    "snippet": "The expiry date will not be extended for UAE residents with Dubai-issued visas who have stayed outside of the UAE for more than 6 months if they left before Oct.20, 2020.",
+    "url": "https://www.gulftoday.ae/news/2021/08/23/expiry-date-of-dubai-visas-extended",
+    "url_hash": "37762615dc4a26742375f2b203dd8258",
+    "ut": 1629760091,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than 6 months",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Oct.20, 2020",
+        "start_end": [
+          31,
+          34
         ]
       }
     ]
