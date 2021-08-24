@@ -417,6 +417,73 @@
     "title": "One mn doses of Sinopharm vaccines arrive in SL",
     "source": "www.dailymirror.lk",
     "snippet": "A cargo containing one million doses of Chinese Sinopharm COVID-19 Vaccine vials has reached the country this morning from China, the Katunayake airport duty Manage confirmed. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/One-mn-doses-of-Sinopharm-vaccines-arrive-in-SL/108-218900",
+    "url_hash": "5ad4265710aef2e98c23d62f624ec635",
+    "ut": 1629770889,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one million",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vaccine",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Katunayake",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Manage",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "One mn doses of Sinopharm vaccines arrive in SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "A cargo containing one million doses of Chinese Sinopharm COVID-19 Vaccine vials has reached the country this morning from China, the Katunayake airport duty Manage confirmed. ..",
     "url": "https://www.dailymirror.lk/latest_news/One-mn-doses-of-Sinopharm-vaccines-arrive-in-SL/342-218900",
     "url_hash": "8b861be98702a2d392a29566b2da4876",
     "ut": 1629770906,
@@ -1340,6 +1407,277 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Alpha variant moving out of SL as Delta becomes dominant",
+    "source": "www.dailymirror.lk",
+    "snippet": "Unofficial figures show nearly 6000 daily infections Daily death toll to hit over 200 Delta has developed 4 mutations which are highly transmissible 194 deaths reported yesterday Hospitals increasing oxygen capacity Health experts in the forefront of the ...",
+    "url": "https://www.dailymirror.lk/top_story/Alpha-variant-moving-out-of-SL-as-Delta-becomes-dominant/155-218899",
+    "url_hash": "0614a69e876277f1ea1528069b33a51d",
+    "ut": 1629781689,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "6000",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Daily",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 200",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "194",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Afghanistan ODI series postponed until next year",
+    "source": "www.heraldlive.co.za",
+    "snippet": "The two countries were due to play three ODI matches in early September in Sri Lanka, but the Pakistan Cricket Board (PCB) said late on Monday that the Afghanistan Cricket Board had requested the series be postponed.",
+    "url": "https://www.heraldlive.co.za/sport/cricket/2021-08-24-afghanistan-odi-series-postponed-until-next-year/",
+    "url_hash": "7207d9b0e7b6fe0b1cfed1890fd24da6",
+    "ut": 1629782599,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early September",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Pakistan Cricket Board",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Afghanistan Cricket Board",
+        "start_end": [
+          30,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Pakistan donates 75 ventilators, 150 CPAP machines to Sri Lanka Covid hospitals",
+    "source": "economynext.com",
+    "snippet": "Pakistan had donated 75 ventilators and 150 non-invasive continuous positive airway pressure machines to Sri Lanka, to help fight a Coronavirus wave that is now claiming 190 lives a day.",
+    "url": "https://economynext.com/pakistan-donates-75-ventilators-150-cpap-machines-to-sri-lanka-covid-hospitals-85378/",
+    "url_hash": "5342e2eb4bccd953e4397e7e835ba41b",
+    "ut": 1629782619,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "75",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "150",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coronavirus",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "190",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Sri Lanka on alert for possible Covid 'super strain'",
+    "source": "colombogazette.com",
+    "snippet": "By Ashanthi Warunasuriya Sri Lanka is on alert for a possible Covid 'super strain' which could combine existing strains. Health authorities said that they are aware of a threat of the Covid super strain emerging in the country.",
+    "url": "https://colombogazette.com/2021/08/24/sri-lanka-on-alert-for-possible-covid-super-strain/",
+    "url_hash": "8fc4cc477c2a75bce432e111a2b8cf8e",
+    "ut": 1629784303,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Covid",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "South Africa coach Boucher apologises for racist behaviour during playing days",
+    "source": "www.stabroeknews.com",
+    "snippet": "South Africa head coach Mark Boucher has apologised for singing offensive songs and using racist nicknames during his playing days in an",
+    "url": "https://www.stabroeknews.com/2021/08/24/sports/south-africa-coach-boucher-apologises-for-racist-behaviour-during-playing-days/",
+    "url_hash": "afbd30824b3028f9b6618b06e30bf059",
+    "ut": 1629784848,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          4,
+          6
         ]
       }
     ]
