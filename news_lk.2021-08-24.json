@@ -814,6 +814,143 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Env. Ministry to initiate NEP to last throughout",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Environment Minister instructed the officials to formulate a National Environmental Policy (NEP) that would not change the policies of certain ministries even during government or ministerial change.",
+    "url": "https://www.dailymirror.lk/breaking_news/Env-Ministry-to-initiate-NEP-to-last-throughout/108-218901",
+    "url_hash": "4bb6fd9db9a2211dbc765b5d613c09bc",
+    "ut": 1629774534,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Environmental Policy",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NEP",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Today's Weather Forecast",
+    "source": "dailynews.lk",
+    "snippet": "Few showers will occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, stated the Meteorology Department. Showers or thundershowers will occur at few places elsewhere after 2.",
+    "url": "http://dailynews.lk/2021/08/24/local/257465/todays-weather-forecast",
+    "url_hash": "f4f756a9a9df2c4ac8ad91138638d57b",
+    "ut": 1629774539,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Western",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nuwara-Eliya",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Meteorology Department",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "COVID-19 cases are rising in Maine; Biden says companies should mandate shots after vaccine approval",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/nyc-will-require-vaccination-for-high-risk-school-sports-india-approves-first-dna-based-covid-shot/ar-AAMrNBT",
+    "url_hash": "692859e25cf131846f61f25aa0f08830",
+    "ut": 1629774558,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "US-Supported Sri Lanka@100 Hosts Webinar on Transformational Growth",
     "source": "colombogazette.com",
     "snippet": "Sri Lanka@100 (SL@100) hosted its third public webinar \"Unlocking Opportunities with Transformational Growth\" to support high-potential, small and medium enterprises to adapt to the increasingly challenging business landscape and drive sustainable revenue growth.",
@@ -878,6 +1015,331 @@
         "start_end": [
           32,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Colombo Econ. centres remain open today and tomorrow: Colombo Dist. Secy.",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Agriculture Ministry has decided to keep the economic centres open in the Colombo district today and tomorrow, Colombo District Secretary Pradeep Yasarathna said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Colombo-Econ-centres-remain-open-today-and-tomorrow-Colombo-Dist-Secy/108-218903",
+    "url_hash": "0f1dcd4415b7bebfadb584de8c17d0a9",
+    "ut": 1629778134,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Agriculture Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Sri Lanka to import 300,000 litres of oxygen a week",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will import 300,000 litres of oxygen for the state health system, Minister Ramesh Pathirana said, as a Coronavirus wave worsened and daily deaths topped 190.",
+    "url": "https://economynext.com/sri-lanka-to-import-300000-litres-of-oxygen-a-week-85372/",
+    "url_hash": "f30a7324c8d0a0929fa860a2f1c0da51",
+    "ut": 1629778943,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "300,000",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ramesh Pathirana",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coronavirus",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "190",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Sri Lankan president reluctantly imposes pandemic lockdown",
+    "source": "www.wsws.org",
+    "snippet": "Rajapakse's speech came after he had consistently rejected repeated appeals by independent medical experts for the imposition of stringent restrictions to prevent the rapid spread of the Delta variant.",
+    "url": "https://www.wsws.org/en/articles/2021/08/24/slpr-a24.html",
+    "url_hash": "12baef2f65645d639950e0c202224988",
+    "ut": 1629779164,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rajapakse",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Fake social media blogger arrested in Nugegoda",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 36-year-old man from Nugegoda was arrested for sharing fake images corpses in a foreign country and indicated that the bodies of those who died due to the Covid virus are being dumped in the the Kalubowila Hospital wards.",
+    "url": "https://www.dailymirror.lk/breaking_news/Fake-social-media-blogger-arrested-in-Nugegoda/108-218902",
+    "url_hash": "1ab42cda3eaf82d00897080694af6862",
+    "ut": 1629779334,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "36-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nugegoda",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Afghanistan-Pakistan ODI Series Shifted From Sri Lanka to Pakistan",
+    "source": "www.islandcricket.lk",
+    "snippet": "Afghanistan's 3-match ODI series against Pakistan has been moved from SL's Hambantota to Pakistan because of logistical challenges in the team's travel\u2026",
+    "url": "https://www.islandcricket.lk/news/afghanistan-pakistan-odi-series-shifted-from-sri-lanka-to-pakistan/",
+    "url_hash": "5ab6d8d0c87c8a2796edf3a555b6884a",
+    "ut": 1629779764,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SL",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Sri Lanka to import 300,000 liters of liquid medical oxygen weekly",
+    "source": "colombogazette.com",
+    "snippet": "The Government has decided to import 300,000 liters of liquid medical oxygen, weekly. Approval was given at the Cabinet meeting held on 24th May, 2021 to import 120,000 liters of oxygen per month to ensure the supply of liquid medical oxygen to the Covid-19 patients in critical condition.",
+    "url": "https://colombogazette.com/2021/08/24/sri-lanka-to-import-300000-liters-of-liquid-medical-oxygen-weekly/",
+    "url_hash": "34a240e3b0dd6efd25ec0a2e1d2f9ab6",
+    "ut": 1629780687,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "300,000",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May, 2021",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "120,000",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "The Latest: COVID-19 cases straining Kentucky's hospitals",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "Kentucky's governor says a flood of COVID-19 patients is stressing the state's hospitals and intensive care units. Gov, Andy Bashear said Monday that more than 20 Kentucky hospitals are confronting critical staffing shortages and some hospitals are converting space to treat the influx of ICU patients.",
+    "url": "https://www.stamfordadvocate.com/news/article/The-Latest-Vietnam-imposes-strict-lockdown-in-16404675.php",
+    "url_hash": "4c184805ae839525bbdbf17bc520560d",
+    "ut": 1629780733,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Kentucky",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gov, Andy Bashear",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 20",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kentucky",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICU",
+        "start_end": [
+          48,
+          49
         ]
       }
     ]
