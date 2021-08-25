@@ -1907,6 +1907,148 @@
   },
   {
     "date": "2021-08-25",
+    "title": "China's PLA donates 300,000 Sinopharm doses to SL Army",
+    "source": "www.dailymirror.lk",
+    "snippet": "The People's Liberation Army (PLA) of China has donated 300,000 doses of Sinopharm Covid-19 vaccines for the use of the Sri Lanka Army. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Chinas-PLA-donates-300-000-Sinopharm-doses-to-SL-Army/342-218983",
+    "url_hash": "3b618945ec65fb3adb4f11b7b3d24d6b",
+    "ut": 1629868226,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The People's Liberation Army",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "300,000",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Lahiru Milantha leaves for the USA",
+    "source": "www.dailymirror.lk",
+    "snippet": "One more Sri Lankan cricketer has migrated to the USA. The 28-year-old wicket-keeper batsman Lahiru Milantha, who has played 66 First Class matches, reached North Carolina with his wife on Tuesday early morning.",
+    "url": "https://www.dailymirror.lk/sports/Lahiru-Milantha-leaves-for-the-USA/322-218984",
+    "url_hash": "bf8c061d6732ec4cb36e833b501084fa",
+    "ut": 1629868226,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "USA",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "28-year-old",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lahiru Milantha",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "66",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "First",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "North Carolina",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "early morning",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Mass drug trafficker ''Chandrika'' arrested with over Rs.2.6Mn cash",
     "source": "www.dailymirror.lk",
     "snippet": "The Special Task Force of Police (STF) has arrested a woman who is involved in large scale drug trafficking and peddling in many areas with over Rs. 2.6 million in cash, at Kiribathgoda. ..",
@@ -2605,6 +2747,33 @@
         "start_end": [
           19,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Only fully vaccinated mobile vendors allowed in Colombo District: Dist. Secy.",
+    "source": "www.dailymirror.lk",
+    "snippet": "Colombo District Secretary Pradeep Yasarathna said today that only those who had been given both the vaccines would be allowed for mobile trading in the Colombo District during the quarantine curfew period.",
+    "url": "https://www.dailymirror.lk/latest_news/Only-fully-vaccinated-mobile-vendors-allowed-in-Colombo-District-Dist-Secy/342-218992",
+    "url_hash": "3f9b46b80dc922b58c1b5c9cfaf0436d",
+    "ut": 1629875426,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Colombo District",
+        "start_end": [
+          24,
+          27
         ]
       }
     ]
@@ -3355,6 +3524,92 @@
   },
   {
     "date": "2021-08-25",
+    "title": "Advisory Board appointed to make recommendations on suspects detained under PTA",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has appointed an Advisory Board to make recommendations and advise the President on the investigation, release, granting of bail and future action related to the persons imprisoned over terrorist activities and detained under detention orders.",
+    "url": "https://www.dailymirror.lk/latest_news/Advisory-Board-appointed-to-make-recommendations-on-suspects-detained-under-PTA/342-218999",
+    "url_hash": "cdd9c5b424153ad7ccfa7ecac4e0710e",
+    "ut": 1629889826,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Advisory Board",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "LIOC forced dealers to increase sales of premium brands: Petroleum Dealers Association",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Lanka Indian Oil Corporation (LIOC) is forcing several local petroleum dealers to sell their XtraMile Diesel and XtraPremium Petrol up to 15 and 20 per cent more than their normal Petrol and Diesel stocks,",
+    "url": "https://www.dailymirror.lk/breaking_news/LIOC-forced-dealers-to-increase-sales-of-premium-brands-Petroleum-Dealers-Association/108-218996",
+    "url_hash": "4dc5d9153dff5a88f8e5e5f77b0f7e72",
+    "ut": 1629889826,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Lanka Indian Oil Corporation",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "XtraMile Diesel",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "XtraPremium Petrol",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "up to 15 and 20 per cent",
+        "start_end": [
+          22,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Petrol",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Diesel",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Senior officers at 11 prisons transferred",
     "source": "www.dailymirror.lk",
     "snippet": "The Department of Prisons has decided to transfer two Superintendent of Prisons and nine Assistant Superintendents of Prisons with effect from September 1 due to service requirements. ..",
@@ -3510,6 +3765,269 @@
         "start_end": [
           26,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "No medication for Covid; beware of misleading social media posts: Medical expert",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that no medication has yet been discovered against Covid-19, a medical expert today warned people not to be deceived by medications guided on social media claiming to cure Covid-19. ..",
+    "url": "https://www.dailymirror.lk/latest_news/No-medication-for-Covid-beware-of-misleading-social-media-posts-Medical-expert/342-219000",
+    "url_hash": "22ce3cbdbff9962fe8b834e1e8cae709",
+    "ut": 1629893426,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Sri Lanka appoints panel to recommend changes to anti-terror law",
+    "source": "economynext.com",
+    "snippet": "President Gotabaya Rajapaksa on Wednesday (25) appointed three retired legal experts to recommend changes to an anti-terror law which many Western nations and rights groups have said was being used to suppress dissent and minorities.",
+    "url": "https://economynext.com/sri-lanka-appoints-panel-to-recommend-changes-to-anti-terror-law-85435/",
+    "url_hash": "11ed0ae40cdc3b7efafe6a9f7888a1ec",
+    "ut": 1629894715,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "25",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Western",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Vikas Pandey",
+    "source": "dailynews.lk",
+    "snippet": "The Taliban's blisteringly fast takeover of Afghanistan has stunned security and diplomacy experts worldwide. Days after the fall of Kabul, nations are hurriedly evacuating their diplomats and...",
+    "url": "https://dailynews.lk/line/vikas-pandey",
+    "url_hash": "0b4d37d12d86057542056b1c4650d665",
+    "ut": 1629895051,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Days",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "IPL 2021: RCB sign English all-rounder George Garton",
+    "source": "www.sportskeeda.com",
+    "snippet": "Royal Challengers Bangalore (RCB) have signed English all-rounder George Garton and have filled up their overseas quota for IPL 2021. The announcement was made on RCB's official Instagram handle. The post was captioned: You can view the post below: George Garton is a left-arm quick who impressed in his debut season for Sussex and was fast-tracked to the England squad to face Sri Lanka A and Pakistan A side four months after making his county debut.",
+    "url": "https://www.sportskeeda.com/cricket/news-ipl-2021-rcb-sign-english-all-rounder-george-garton",
+    "url_hash": "e39785d74afec8644bde3e1ef3ae56c1",
+    "ut": 1629895056,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Royal Challengers Bangalore",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RCB",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "LANGUAGE",
+        "text": "English",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "George Garton",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "IPL 2021",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RCB",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "George Garton",
+        "start_end": [
+          48,
+          50
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sussex",
+        "start_end": [
+          63,
+          64
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          71,
+          72
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          75,
+          77
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pakistan A",
+        "start_end": [
+          79,
+          81
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four months",
+        "start_end": [
+          82,
+          84
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Sri Lanka president appoints expert panel to advise on terror prevention law",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - President Gotabaya Rajapaksa on Wednesday ... Facing threats of losing a European Union trade concession that has kept Sri Lanka's key export sectors alive, and possible targeted sanctions, the country has been moving forward with ...",
+    "url": "https://economynext.com/sri-lanka-president-appoints-expert-panel-to-advise-on-terror-prevention-law-85436/",
+    "url_hash": "d6bc03e4cd6d3e10fe7e3f3b8c7fab50",
+    "ut": 1629896875,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "a European Union",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          20,
+          23
         ]
       }
     ]
