@@ -3339,6 +3339,41 @@
   },
   {
     "date": "2021-08-24",
+    "title": "SL to obtain crude oil and petroleum products on long-term credit facility",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka has had discussion with Acting Head of the Embassy of the UAE in Sri Lanka Saif Alanofy on the possibility of obtaining crude oil and petroleum products on a long-term credit facility. ..",
+    "url": "https://www.dailymirror.lk/latest_news/SL-to-obtain-crude-oil-and-petroleum-products-on-long-term-credit-facility/342-218910",
+    "url_hash": "3c18149307a52edd45a417d97aa84f7d",
+    "ut": 1629792483,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Embassy of the UAE",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Cricket world stunned after South African coach's bombshell statement",
     "source": "nz.news.yahoo.com",
     "snippet": "The coach of South Africa has made a stunning apology over allegations made towards him during his playing days. Find out what happened here.",
@@ -6454,6 +6489,81 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Samantha Power describes Mangala as a patriot",
+    "source": "colombogazette.com",
+    "snippet": "Administrator of the United States Agency for International Development (USAID) Samantha Power has described late Minister Mangala Samaraweera as a great patriot and statesman. The former US Ambassador to the United Nations said that she was devastated by the passing of Mangala Samaraweera.",
+    "url": "https://colombogazette.com/2021/08/24/samantha-power-describes-mangala-as-a-patriot/",
+    "url_hash": "2b60dbe6c9e3e21ff32309206adc2d05",
+    "ut": 1629824914,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "the United States Agency",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Development",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "USAID",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samantha Power",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          44,
+          46
         ]
       }
     ]
