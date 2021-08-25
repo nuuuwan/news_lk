@@ -1666,6 +1666,97 @@
   },
   {
     "date": "2021-08-25",
+    "title": "Lahiru Milantha leaves for the USA",
+    "source": "www.dailymirror.lk",
+    "snippet": "One more Sri Lankan cricketer has migrated to the USA. The 28-year-old wicket-keeper batsman Lahiru Milantha, who has played 66 First Class matches, reached North Carolina with his wife on Tuesday early morning.",
+    "url": "https://www.dailymirror.lk/sports/Lahiru-Milantha-leaves-for-the-USA/323-218984",
+    "url_hash": "cb76e7a9fa6efe67e007b493602d6abd",
+    "ut": 1629868101,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "USA",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "28-year-old",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lahiru Milantha",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "66",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "First",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "North Carolina",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "early morning",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Mass drug trafficker ''Chandrika'' arrested with over Rs.2.6Mn cash",
     "source": "www.dailymirror.lk",
     "snippet": "The Special Task Force of Police (STF) has arrested a woman who is involved in large scale drug trafficking and peddling in many areas with over Rs. 2.6 million in cash, at Kiribathgoda. ..",
@@ -1824,6 +1915,49 @@
         "start_end": [
           29,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Saudi Arabia mulls FTAs with Sri Lanka 10 other countries",
+    "source": "www.dailymirror.lk",
+    "snippet": "Saudi Arabia is looking forward to more trading partners as it aims at increasing non-oil exports share in its gross domestic product (GDP) and is reportedly resuming free trade agreement (FTA) negotiations with 11 countries including Sri Lanka.",
+    "url": "https://www.dailymirror.lk/latest_news/Saudi-Arabia-mulls-FTAs-with-Sri-Lanka-10-other-countries/342-218989",
+    "url_hash": "111ff63bb866e87c447e846a3691e4d6",
+    "ut": 1629871701,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Saudi Arabia",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FTA",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          42,
+          44
         ]
       }
     ]
@@ -2001,6 +2135,143 @@
         "start_end": [
           25,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Australia's Tamil community mourns suicide of 38-year-old refugee",
+    "source": "www.theguardian.com",
+    "snippet": "Community leaders claim Koneshwaran Krishnapillai feared deportation after the recent high-profile case involving the Murugappan family from Biloela",
+    "url": "https://www.theguardian.com/australia-news/2021/aug/25/australias-tamil-community-mourns-suicide-of-38-year-old-refugee",
+    "url_hash": "637294672f44aba619473fb44d7879fb",
+    "ut": 1629875310,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Koneshwaran Krishnapillai",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Murugappan",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Biloela",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "SriLankan Airlines enhances connectivity to Sri Lanka from key Indian cities",
+    "source": "www.indiablooms.com",
+    "snippet": "Mumbai: SriLankan Airlines, the national carrier of Sri Lanka and a member of oneworld alliance, in a bid to promote greater travel opportunities from India to Sri Lanka, is adding more destinations and frequencies.",
+    "url": "https://www.indiablooms.com/travel-details/N/1517/srilankan-airlines-enhances-connectivity-to-sri-lanka-from-key-indian-cities.html",
+    "url_hash": "84419f2db7dc4eb3346ac0b09740916e",
+    "ut": 1629875310,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Empowering Paralympian athletes at the Paralympic Games",
+    "source": "colombogazette.com",
+    "snippet": "This August, nine Sri Lankan Paralympian athletes are set to take the stage once again at the upcoming Paralympic Games in Tokyo. Despite several adversities faced in the past, the athletes have overcome challenges thrown their way and continue to train untiringly in their respective sports.",
+    "url": "https://colombogazette.com/2021/08/25/empowering-paralympian-athletes-at-the-paralympic-games/",
+    "url_hash": "cc9dd01150ae7e3822f3b8793095c1f3",
+    "ut": 1629875670,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "This August",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Paralympic Games",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]
