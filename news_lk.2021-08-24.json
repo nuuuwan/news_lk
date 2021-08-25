@@ -7164,6 +7164,33 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Sri Lankan politicians, foreign leaders pay tribute to Mangala Samaraweera",
+    "source": "www.adaderana.lk",
+    "snippet": "Tributes and condolence messages have poured in from government and opposition politicians as well as from foreign leaders and diplomats, after former Sri Lankan minister and veteran politician Mangal",
+    "url": "http://www.adaderana.lk/news.php?nid=76389",
+    "url_hash": "e3629349ac7582f336340359bc089e12",
+    "ut": 1629832104,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mangal",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Where to go for whale watching",
     "source": "timesofindia.indiatimes.com",
     "snippet": "Mirissa, Sri Lanka Not just whales ... and you have a chance to spot the large blue whales here. Vancouver Island, Canada A sustainable whale watching experience in British Columbia, this is ...",
@@ -7755,6 +7782,25 @@
     "url": "https://www.dailymirror.lk/recomended-news/Rumble-in-the--Sri-Lankan-gas-market/277-218940",
     "url_hash": "ae79e1d9b88ee842599192c650fe3fad",
     "ut": 1629839279,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Trade",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Rumble in the Sri Lankan gas market",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following the 'manmade' gas shortage in the country there is public opinion to say that this was allegedly manipulated by the Ministry of Trade.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Rumble-in-the--Sri-Lankan-gas-market/172-218940",
+    "url_hash": "0a8c6ca7f92d77baf0cac250e599ae79",
+    "ut": 1629839294,
     "ent_info_list": [
       {
         "label": "ORG",
