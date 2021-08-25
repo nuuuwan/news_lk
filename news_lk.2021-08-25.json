@@ -1,6 +1,33 @@
 [
   {
     "date": "2021-08-25",
+    "title": "A multi-faceted approach",
+    "source": "www.msn.com",
+    "snippet": "As per our lead story yesterday, the estimated economic loss from the 10-day lockdown exceeds a whopping Rs.150 billion, which could otherwise have been spent on development and social welfare during any other time.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/a-multi-faceted-approach/ar-AANI8Ft",
+    "url_hash": "2f42b67c7322bbd51255130dc4edbbf4",
+    "ut": 1629850117,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-day",
+        "start_end": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Formidable female aviators of Chinese Air Force",
     "source": "www.msn.com",
     "snippet": "The prudent novelist Fyodor Dostoevsky once said, \"The mystery of human existence lies not in just staying alive, but in finding something to live for.\" The women pilots of the Chinese Air Force have risen to prove that their passion for flying is on par with other pilots across the world.",
@@ -320,6 +347,178 @@
         "start_end": [
           44,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Sri Lanka opens for fully vaccinated Indian travellers",
+    "source": "www.traveldailymedia.com",
+    "snippet": "Fully vaccinated travellers from India will now be able to travel to Sri Lanka. As per the reports, anyone travelling from India, who have completed both the doses of either Covaxin or Covishield vaccine, will be allowed entry into the island nation.",
+    "url": "https://www.traveldailymedia.com/sri-lanka-opens-for-fully-vaccinated-indian-travellers/",
+    "url_hash": "6a00362208a597a3afdc0a2a0d39e896",
+    "ut": 1629857303,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Covishield",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Sri Lanka bond yields up, no bids for first repo auction in 17-months",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lanka bond yields gained in a partially frozen market as interest rates edged up following a rate hike, dealers said and there were no bids for the first repo auction in 17 months to drain excess liquidity from money markets. On Tuesday ...",
+    "url": "https://economynext.com/sri-lanka-bond-yields-up-no-bids-for-first-repo-auction-in-17-months-85414/",
+    "url_hash": "e4b19fef0ed60e3ebe91c710f3a3d87d",
+    "ut": 1629858342,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ECONOMYNEXT - Sri Lanka",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17 months",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "SLT-MOBITEL and LNC join to organize online lecture series",
+    "source": "island.lk",
+    "snippet": "SLT-MOBITEL, and Lanka Nature Conservationists (LNC) jointly organized to host a free monthly online lecture series via the eSiphala from SLT-Mobitel platform to raise awareness and education on the country's rich environmental heritage.",
+    "url": "https://island.lk/slt-mobitel-and-lnc-join-to-organize-online-lecture-series/",
+    "url_hash": "daae87643018c49baaee143104d546ca",
+    "ut": 1629859643,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLT-MOBITEL",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Lanka Nature Conservationists",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "monthly",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "eSiphala",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLT-Mobitel",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Dialog holds exclusive event line-up for Club Vision members and customers",
+    "source": "island.lk",
+    "snippet": "As part of its ongoing efforts to deliver exceptional experiences to its valued Club Vision members and customers, Dialog Axiata PLC, Sri Lanka's premier connectivity provider, hosted a series of exclusive virtual events.",
+    "url": "https://island.lk/dialog-holds-exclusive-event-line-up-for-club-vision-members-and-customers/",
+    "url_hash": "ce5caab0aef760097f11faf985798c6f",
+    "ut": 1629859643,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Club Vision",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dialog Axiata PLC",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          23,
+          26
         ]
       }
     ]

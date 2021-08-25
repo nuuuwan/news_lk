@@ -1131,6 +1131,49 @@
   },
   {
     "date": "2021-08-24",
+    "title": "The Latest: Hawaii gov seeks to limit visits to the islands",
+    "source": "www.stltoday.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is celebrating the full FDA approval of Pfizer's COVID-19 vaccine and is urging the unvaccinated to go get their inoculations.",
+    "url": "https://www.stltoday.com/news/world/the-latest-biden-celebrates-full-approval-of-pfizer-vaccine/article_08dc5c83-30cc-5884-8420-83dae6637049.html",
+    "url_hash": "a2595a90c3340094a405093778c66515",
+    "ut": 1629774512,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FDA",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "Sinopharm vaccine shipment with 1 million doses arrives in Sri Lanka",
     "source": "www.adaderana.lk",
     "snippet": "Another shipment of Sinopharm COVID-19 vaccines purchased by the government of Sri Lanka has arrived on the island this morning (August 24)",
@@ -6411,6 +6454,49 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Fort receives first female command sergeant",
+    "source": "www.myheraldreview.com",
+    "snippet": "The installation's first female command sergeant major took the reins from the departing command sergeant major who retired Tuesday morning after serving 30 years in the Army.",
+    "url": "https://www.myheraldreview.com/news/cochise_county/fort-receives-first-female-command-sergeant/article_69dceec8-0500-11ec-987f-4f5af86ccb14.html",
+    "url_hash": "416fd1e7aa006fed12fa21c679c849d9",
+    "ut": 1629824917,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "morning",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30 years",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
