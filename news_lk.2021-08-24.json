@@ -6638,6 +6638,57 @@
     "title": "4,446 COVID-19 cases detected today",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 4,446 more COVID-19 patients have been detected today increasing the total cases reported in Sri Lanka to 398,801, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/4-446-COVID-19-cases-detected-today/108-218933",
+    "url_hash": "d17764a928009f180b1d9e8ff096a169",
+    "ut": 1629817719,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,446",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "398,801",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "4,446 COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 4,446 more COVID-19 patients have been detected today increasing the total cases reported in Sri Lanka to 398,801, the Government Information Department said. ..",
     "url": "https://www.dailymirror.lk/latest_news/4-446-COVID-19-cases-detected-today/342-218933",
     "url_hash": "8c41952d9ef4b2fee2b8a7497a4bb822",
     "ut": 1629817728,
