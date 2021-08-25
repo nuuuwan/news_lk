@@ -243,6 +243,65 @@
   },
   {
     "date": "2021-08-25",
+    "title": "Sri Lanka records 4,446 daily COVID cases 190 deaths",
+    "source": "menafn.com",
+    "snippet": "The number of coronavirus positive patients detected in Sri Lanka crossed the 398,000 mark as another 4,446 new Covid-19 cases had been detected across the country yesterday (24). The total number of COVID-19 positive cases stands at 398,",
+    "url": "https://menafn.com/1102676249/Sri-Lanka-records-4446-daily-COVID-cases-190-deaths",
+    "url_hash": "d84fff09633741b28ce09b635af42d7b",
+    "ut": 1629853684,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "398,000",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "another 4,446",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "398",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Sri Lanka central bank orders 5.0-pct ceiling on foreign currency deposits",
     "source": "economynext.com",
     "snippet": "Sri Lanka's central bank has ordered a 5.0 percent ceiling on foreign currency deposits in a bid to reduce a gap between rupee yields and dollar yields, an order under the country's banking law shows.",
@@ -3771,6 +3830,57 @@
   },
   {
     "date": "2021-08-25",
+    "title": "Sri Lanka president appoints expert panel to advise on anti-terror law",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka President Gotabaya Rajapaksa on Wednesday (25) appointed three top retired legal experts to make recommendations on a controversial anti-terror law that some Western nations and international rights groups claim has been used to suppress minorities and silence dissent.",
+    "url": "https://economynext.com/sri-lanka-president-appoints-expert-panel-to-advise-on-anti-terror-law-85436/",
+    "url_hash": "c245a5b7cb3b0575545b2ca6a86528ce",
+    "ut": 1629893303,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "25",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "No medication for Covid; beware of misleading social media posts: Medical expert",
     "source": "www.dailymirror.lk",
     "snippet": "Claiming that no medication has yet been discovered against Covid-19, a medical expert today warned people not to be deceived by medications guided on social media claiming to cure Covid-19. ..",
@@ -4028,6 +4138,132 @@
         "start_end": [
           20,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Northern Province Special Corr. - Rasula Dilhara Gamage",
+    "source": "dailynews.lk",
+    "snippet": "Jaffna District Tamil National Alliance (TNA) Member of Parliament M. A. Sumanthiran said on Tuesday that although the Geneva Human Rights Commission sessions are due to be held in September, the...",
+    "url": "https://dailynews.lk/line/northern-province-special-corr-%E2%80%93-rasula-dilhara-gamage",
+    "url_hash": "4afd95f0f1a457047546d87ca04d36d3",
+    "ut": 1629897120,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Tamil National Alliance",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament M. A. Sumanthiran",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Geneva Human Rights Commission",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Sri Lanka to issue digital Covid vaccination cards",
+    "source": "www.daijiworld.com",
+    "snippet": "Sri Lanka will issue a digital Covid vaccination card to those fully inoculated from mid-September onwards. Health Minister Keheliya Rambukwella said that 75 per cent of people over 30 years of age are to be vaccinated by the first week of September and from September 15",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=866804",
+    "url_hash": "0fbc98c619227bbc7c6c851420ffb5c7",
+    "ut": 1629899344,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "mid-September",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "75 per cent",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over 30 years of age",
+        "start_end": [
+          30,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first week of September",
+        "start_end": [
+          40,
+          45
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 15",
+        "start_end": [
+          47,
+          49
         ]
       }
     ]
