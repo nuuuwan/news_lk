@@ -3229,6 +3229,57 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Coronavirus live news: Hawaii governor wants to curb travel; Israel boosters 'beating Delta'",
+    "source": "www.theguardian.com",
+    "snippet": "US state asks people to reduce movement to tackle spread of Delta strain; Israeli sees cases dip in wake of third shots; New Zealand heads for record outbreak",
+    "url": "https://www.theguardian.com/world/live/2021/aug/24/coronavirus-live-news-hawaii-governor-wants-to-curb-travel-israel-boosters-beating-delta?page=with:block-6124a20b8f08cc0d8b007db4",
+    "url_hash": "741a6228022fb757d695988291bdf5d2",
+    "ut": 1629788913,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Israeli",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "How many batters have bagged king pairs in Tests?",
     "source": "africa.espn.com",
     "snippet": "How often has this happened in Tests? asked Zeeshan Bhayani from Pakistan The unfortunate Sam Curran fell to his first ball in both innings of last week's exciting Test against India at Lord's. Curran was the 23rd man to bag what's usually known as a \"king pair\" in Tests.",
@@ -5974,6 +6025,25 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Travel restrictions should be further tightened to control the virus: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "Travel restrictions should be further tightened up to 80 to 90 per cent and the imposed restrictions should be implemented perfectly, the Government Medical Officers' Association (GMOA) said. ..",
+    "url": "https://www.dailymirror.lk/top_story/Travel-restrictions-should-be-further-tightened-to-control-the-virus-GMOA/155-218929",
+    "url_hash": "7deff0a6be67e521e16d08610d83e425",
+    "ut": 1629814077,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "up to 80 to 90",
+        "start_end": [
+          6,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "190 Covid deaths reported: Death toll surges to 7,750",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 190 more COVID-19 related deaths that occurred yesterday (23) were confirmed by the Director-General of Health Services today pushing the death toll to 7,750. ..",
@@ -7657,6 +7727,41 @@
         "start_end": [
           22,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Fairfirst highest rated general insurer on social media",
+    "source": "www.ft.lk",
+    "snippet": "Fairfirst Insurance, one of the leading general insurers in Sri Lanka, was recently recognised at the most ... of mind to individuals and businesses spread across this beautiful island. As an insurer that has served this nation for over three decades ...",
+    "url": "https://www.ft.lk/financial-services/Fairfirst-highest-rated-general-insurer-on-social-media/42-722152",
+    "url_hash": "5572d5dea05c061d63875695256964ab",
+    "ut": 1629842886,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Fairfirst Insurance",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over three decades",
+        "start_end": [
+          41,
+          44
         ]
       }
     ]
