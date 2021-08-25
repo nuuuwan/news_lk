@@ -2066,6 +2066,57 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Israeli attack on Gaza Strip 'apparently broke the law', HRW says",
+    "source": "www.hirunews.lk",
+    "snippet": "Israeli air raids that demolished four high-rise buildings in the besieged Gaza Strip during its assault on the enclave in May apparently violated international laws of war, a leading international human rights group said Monday,",
+    "url": "https://www.hirunews.lk/goldfmnews/280475/israeli-attack-on-gaza-strip-apparently-broke-the-law-hrw-says",
+    "url_hash": "5d156e79263cdb2643f8e441e2803518",
+    "ut": 1629781679,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Israeli",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gaza Strip",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "82,194 vehicles assigned to Govt. institutions: Report reveals",
     "source": "www.dailymirror.lk",
     "snippet": "It was revealed that a total of 82,194 vehicles have been assigned to the government institutions, including Ministries, State Enterprises, Provincial Councils and Local Government Institutions. ..",
@@ -6275,6 +6326,57 @@
   },
   {
     "date": "2021-08-24",
+    "title": "4,446 COVID-19 cases detected today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 4,446 more COVID-19 patients have been detected today increasing the total cases reported in Sri Lanka to 398,801, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/live/4-446-COVID-19-cases-detected-today/373-218933",
+    "url_hash": "41a0a774e7d630f17e889b54c21811fb",
+    "ut": 1629817661,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,446",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "398,801",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "The Latest: Biden celebrates full approval of Pfizer vaccine",
     "source": "www.myrtlebeachonline.com",
     "snippet": "President Joe Biden is celebrating the full FDA approval of Pfizer's COVID-19 vaccine and is urging the unvaccinated to go get their inoculations.",
@@ -6457,6 +6559,49 @@
     "url_hash": "8bf403a4b2e6508a9e4ec821244b40b0",
     "ut": 1629824881,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-24",
+    "title": "First female command sergeant takes over at fort",
+    "source": "www.myheraldreview.com",
+    "snippet": "The installation's first female command sergeant major took the reins from the departing command sergeant major who retired Tuesday morning after serving 30 years in the Army.",
+    "url": "https://www.myheraldreview.com/news/cochise_county/first-female-command-sergeant-takes-over-at-fort/article_69dceec8-0500-11ec-987f-4f5af86ccb14.html",
+    "url_hash": "8018a1fda410ab5a4a466c5990eb9630",
+    "ut": 1629824883,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "morning",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30 years",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-24",
@@ -7372,6 +7517,25 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Rumble in the Sri Lankan gas market",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following the 'manmade' gas shortage in the country there is public opinion to say that this was allegedly manipulated by the Ministry of Trade.... ..",
+    "url": "https://www.dailymirror.lk/expose/Rumble-in-the-Sri-Lankan-gas-market/333-218940",
+    "url_hash": "1f6477a7042993bf316b297c60078070",
+    "ut": 1629839279,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Trade",
+        "start_end": [
+          22,
+          26
         ]
       }
     ]
