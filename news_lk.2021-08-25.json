@@ -5421,6 +5421,89 @@
   },
   {
     "date": "2021-08-25",
+    "title": "Samsung announces first 5G smartphone in Galaxy A series",
+    "source": "www.ft.lk",
+    "snippet": "Samsung has announced the sale of Galaxy A22 5G, a future-ready device offering 11 bands' support for 5G experience with the promise of two-year OS upgrades. Galaxy A22 5G is the first smartphone with 5G connectivity in Samsung's Galaxy A Series portfolio and extends its philosophy of 'Awesome is for Everyone'.",
+    "url": "https://www.ft.lk/it-telecom-tech/Samsung-announces-first-5G-smartphone-in-Galaxy-A-series/50-722218",
+    "url_hash": "d3a7d89504cc81512a0545a19a7b88ed",
+    "ut": 1629914890,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-year",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Second-guessing the lockdown",
     "source": "www.ft.lk",
     "snippet": "Three days into a COVID-19 lockdown, the Government is engaging in a quirky double-speak that is bound to sow confusion in a country wracked by disease and fear. For some reason, after making the long-overdue decision to impose a lockdown to stop the spread of the deadly Delta variant across the island,",
@@ -5507,6 +5590,124 @@
   },
   {
     "date": "2021-08-25",
+    "title": "UK's 'Global Business Outlook' honours ComBank in Sri Lanka and Bangladesh",
+    "source": "www.ft.lk",
+    "snippet": "The Commercial Bank of Ceylon has been declared the 'Best SME Bank' in Sri Lanka and the 'Best Foreign Bank' in Bangladesh in 2021 by the UK-based Global Business Outlook (GBO) magazine which recognises and rewards excellence in businesses around the world,",
+    "url": "https://www.ft.lk/financial-services/UK-s-Global-Business-Outlook-honours-ComBank-in-Sri-Lanka-and-Bangladesh/42-722194",
+    "url_hash": "2c0ac609de557b610564946567dba0c0",
+    "ut": 1629914903,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Commercial Bank of Ceylon",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Best SME Bank'",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Best Foreign Bank'",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Global Business Outlook",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "GBO",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Tribute to a titan",
+    "source": "www.ft.lk",
+    "snippet": "The loss of Mangala Samaraweera is a devastating blow to statesmanship in Sri Lanka. In the words of theologian James Freeman Clarke, \"The difference between a politician and a statesman is that a politician thinks about the next election while the statesman thinks about the next generation.",
+    "url": "https://www.ft.lk/columns/Tribute-to-a-titan/4-722187",
+    "url_hash": "469035a745e70e5bc0d054ff0080ef7d",
+    "ut": 1629914903,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "James Freeman Clarke",
+        "start_end": [
+          20,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Industry leaders hail Govt. work on global tourism campaign",
     "source": "www.ft.lk",
     "snippet": "The Hotels Association of Sri Lanka (THASL) in a statement yesterday commended the Government for taking steps to commence the much-awaited destination marketing campaign targeting over 16 key countries.",
@@ -5579,6 +5780,81 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "LAUGFS Gas back in biz but will continue fight for 'fair price hike'",
+    "source": "www.ft.lk",
+    "snippet": "LAUGFS Gas PLC yesterday said it was back in the retail market after a month of absence and reiterated it would continue to lobby for a fair price hike. The return of LAUGFS Gas is following the Consumer Affairs Authority (CAA) on 12 August approving an upward revision of LPG prices of the 12.",
+    "url": "https://www.ft.lk/front-page/LAUGFS-Gas-back-in-biz-but-will-continue-fight-for-fair-price-hike/44-722240",
+    "url_hash": "488e699628337da35d2d5f7fddb21157",
+    "ut": 1629914917,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "LAUGFS Gas PLC",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a month",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LAUGFS Gas",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Consumer Affairs Authority",
+        "start_end": [
+          37,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12 August",
+        "start_end": [
+          45,
+          47
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LPG",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          56,
+          57
         ]
       }
     ]
@@ -5663,6 +5939,259 @@
   },
   {
     "date": "2021-08-25",
+    "title": "First Capital advises investors to cut equity exposure and increase cash as ASPI breached its fair value",
+    "source": "www.dailymirror.lk",
+    "snippet": "As the Colombo Stock Exchange continues to set new daily records, defying the effects of the broader economy from the lockdowns in effect since last Friday, First Capital Research (FCR) said it was time to cut exposure to equity and increase the cash holdings,",
+    "url": "https://www.dailymirror.lk/business-news/First-Capital-advises-investors-to-cut-equity-exposure-and-increase-cash-as-ASPI-breached-its-fair-value/273-219015",
+    "url_hash": "556c5f94833698a699b4c9815c0dfd14",
+    "ut": 1629922080,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last Friday",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "First Capital Research",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FCR",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "JAFF formulates 5-point plan to sustain long-term industry growth amid Covid challenges",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Joint Apparel Associations Forum (JAAF) has formulated a 5-point framework to coordinate the industry's response to challenges stemming from COVID-19 and to drive stakeholder collaboration towards ensuring sustained long-term growth of Sri Lanka's entire apparel sector.",
+    "url": "https://www.dailymirror.lk/business-news/JAFF-formulates-5-point-plan-to-sustain-long-term-industry-growth-amid-Covid-challenges/273-219014",
+    "url_hash": "b0882fb9fca45a3e91dc2fe31c3f92a8",
+    "ut": 1629922080,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Joint Apparel Associations Forum",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Vasantha Kumar appointed to DFCC Bank board",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former People's Bank General Manager/CEO Vasantha Kumar has been appointed to the board of DFCC Bank PLC as a Non-Executive Independent Director, with effect from September 1, 2021. ..",
+    "url": "https://www.dailymirror.lk/business-news/Vasantha-Kumar-appointed-to-DFCC-Bank-board/273-219018",
+    "url_hash": "632393638916cf05c619091d32481a60",
+    "ut": 1629922080,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "People's Bank",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vasantha Kumar",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "DFCC Bank PLC",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Non-Executive Independent",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 1, 2021",
+        "start_end": [
+          31,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Cabinet nod to procure organic fertiliser for Maha season",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cabinet nod has been given to procure organic fertiliser required for the 2021/2022 Maha season from selected local organic fertiliser manufacturers. ..",
+    "url": "https://www.dailymirror.lk/business-news/Cabinet-nod-to-procure-organic-fertiliser-for-Maha-season/273-219016",
+    "url_hash": "999b639337de718bc964cb71640592a5",
+    "ut": 1629922080,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "THASL hails govt.'s global tourism campaign",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Hotels Association of Sri Lanka (THASL) yesterday hailed the government for taking steps to commence the much-awaited destination marketing campaign targeting over 16 key countries. ..",
+    "url": "https://www.dailymirror.lk/business-news/THASL-hails-govt-s-global-tourism-campaign/273-219019",
+    "url_hash": "e0e588abc950cd3dd87bc8aaa96b4ad3",
+    "ut": 1629922080,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Hotels Association of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Currency in circulation nears a trillion rupees prompting steps to absorb part of it",
+    "source": "www.dailymirror.lk",
+    "snippet": "Currency in circulation has gradually reached almost a trillion rupees by mid-August, in response to the extraordinary support extended by the monetary policy by way of liquidity made available and the fast descent in the interest rates since the onset of the pandemic last year.",
+    "url": "https://www.dailymirror.lk/business-news/Currency-in-circulation-nears-a-trillion-rupees-prompting-steps-to-absorb-part-of-it/273-219021",
+    "url_hash": "e8c706545158c1641b0fe4378eb172d6",
+    "ut": 1629922080,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "mid-August",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          46,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "ADB ranks SL second in SA for highest increase in food price inflation",
+    "source": "www.dailymirror.lk",
+    "snippet": "The escalation in food prices witnessed in Sri Lanka as it grapples with the pandemic has placed the island nation amongst the four countries in South Asia that has the largest increase in food price inflation,",
+    "url": "https://www.dailymirror.lk/business-news/ADB-ranks-SL-second-in-SA-for-highest-increase-in-food-price-inflation/273-219020",
+    "url_hash": "07e5069d49c2f3f88cd245b5c0a595f0",
+    "ut": 1629922090,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "BOI says 80% of zonal employees double vaccinated",
     "source": "www.dailymirror.lk",
     "snippet": "The Board of Investment (BOI) of Sri Lanka announced that, together with the able support received from the Ministry of Health and the armed forces, it had successfully administered the second dose of vaccinations against the COVID-19 pandemic,",
@@ -5708,6 +6237,116 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Vietnam, Iraq, now Afghanistan; So many lives lost in vain",
+    "source": "www.dailymirror.lk",
+    "snippet": "In moves reminiscent of April 29, 1975, which marked the end of the Vietnam War and that of US troops hurriedly vacating the country becoming an enduring symbol of defeat with thousands of Americans and their Vietnamese allies airlifted out of the city,",
+    "url": "https://www.dailymirror.lk/opinion/Vietnam-Iraq-now-Afghanistan-So-many-lives-lost-in-vain/172-219031",
+    "url_hash": "5180fa61faa69402d30e7dc9fe40caa7",
+    "ut": 1629925680,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "April 29, 1975",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Vietnam War",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Vietnamese",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Australia's COVID response is evil and dumb",
+    "source": "www.msn.com",
+    "snippet": "Australia has lost fewer than 1,000 lives to the coronavirus. Consider that fact on its own, and it's amazing. Romania, with a slightly smaller population, has lost 34,000 lives. Sri Lanka, another island nation with a similar population,",
+    "url": "https://www.msn.com/en-us/news/world/australia-e2-80-99s-covid-response-is-evil-and-dumb/ar-AANKhCG",
+    "url_hash": "87597962b792dd7f77ef14adfa8aa89b",
+    "ut": 1629925690,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "fewer than 1,000",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Romania",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "34,000",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
