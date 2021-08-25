@@ -1429,6 +1429,65 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Chili's\u00ae American Grill & Bar all set to open their first restaurant in Colombo",
+    "source": "island.lk",
+    "snippet": "This is the first location in Sri Lanka operated by veteran franchisee Mukund Hospitality Pvt. Ltd., who has previously partnered with Chili's\u00ae\u00a0American Grill & Bar to open locations throughout North & East India.",
+    "url": "https://island.lk/chilis-american-grill-bar-all-set-to-open-their-first-restaurant-in-colombo/",
+    "url_hash": "f88df6b0d1425899489bdb85012a3847",
+    "ut": 1629774743,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mukund Hospitality Pvt.",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chili",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "American Grill & Bar",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "North & East India",
+        "start_end": [
+          35,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "US-Supported Sri Lanka@100 Hosts Webinar on Transformational Growth",
     "source": "colombogazette.com",
     "snippet": "Sri Lanka@100 (SL@100) hosted its third public webinar \"Unlocking Opportunities with Transformational Growth\" to support high-potential, small and medium enterprises to adapt to the increasingly challenging business landscape and drive sustainable revenue growth.",
@@ -5410,6 +5469,49 @@
   },
   {
     "date": "2021-08-24",
+    "title": "Emirates to resume Colombo - Male route from 1 September",
+    "source": "www.dailymirror.lk",
+    "snippet": "The flag carrier of the UAE, Emirates Airlines announced it will resume daily services between Colombo - Male starting 1 September. ..",
+    "url": "https://www.dailymirror.lk/business/Emirates-to-resume-Colombo-Male-route-from-1-September/215-218928",
+    "url_hash": "c8d3f3dc20c5ef4dafddd153f4aad2c1",
+    "ut": 1629810734,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Emirates Airlines",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1 September",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
     "title": "CSA mum on the future of embattled Proteas coach Mark Boucher",
     "source": "www.timeslive.co.za",
     "snippet": "With less than 24 hours to their scheduled departure to Sri Lanka, Cricket SA declined to comment when asked if Proteas coach Mark Boucher will travel with the team.",
@@ -6580,6 +6682,395 @@
         "start_end": [
           49,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Boxing Day tsunami 2004 - what happened and how many died?",
+    "source": "www.the-sun.com",
+    "snippet": "The tsunami struck Burma, Nicobar and Andaman Island, Thailand, the South East Coast of India ... \"The likes of Thailand and Sri Lanka didn't know what was going to be hitting them.\"",
+    "url": "https://www.the-sun.com/news/3534356/tsunami-2004-boxing-day-what-happened-how-many-died/",
+    "url_hash": "519185d0134ee001dd454df4b0cf39ac",
+    "ut": 1629835943,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Burma",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nicobar",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Andaman Island",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the South East Coast",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Fauci urges hospitals to use more antibody treatments; Georgia Governor orders National Guard to hospitals",
+    "source": "www.msn.com",
+    "snippet": "Coronavirus case counts are once again rising across the US, near and far. Health officials are scrambling to vaccinate as the Delta variant takes hold.Below, we're gathering the latest news and updates on coronavirus in New England and beyond.",
+    "url": "https://www.msn.com/en-us/news/us/more-deaths-are-reported-in-fully-vaccinated-people-in-mass-companies-are-enacting-vaccine-mandates/ar-AAMrNBT",
+    "url_hash": "1fc6be04b82a205367fec80f7b213226",
+    "ut": 1629835957,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New England",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Indian naval ship Shakti delivers 100 tons of liquid medical oxygen to Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Indian naval ship Shakti arrived in Colombo on Sunday with 100 tons (five containers) of Liquid Medical Oxygen (LMO) from Visakhapatnam. ..",
+    "url": "https://www.ft.lk/news/Indian-naval-ship-Shakti-delivers-100-tons-of-liquid-medical-oxygen-to-Sri-Lanka/56-722169",
+    "url_hash": "f9969a6768e2d5e6e5806a68e940eec8",
+    "ut": 1629835957,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shakti",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 tons",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LMO",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Visakhapatnam",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "4,446 persons test positive for COVID-19",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka\u0432\u0402\u2122s COVID-19 detections neared 400,000 with 4,446 persons testing positive for COVID-19 yesterday. ..",
+    "url": "https://www.ft.lk/news/4-446-persons-test-positive-for-COVID-19/56-722173",
+    "url_hash": "03b0ab618ee6f42b76885c56e574fd53",
+    "ut": 1629835957,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "400,000",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,446",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Emirates to resume Colombo-Male flights from 1 Sept.",
+    "source": "www.ft.lk",
+    "snippet": "Emirates flight EK652 will depart Dubai at 09:45 daily, arrive in Male at 15:00 and depart the Maldivian capital at 16:35 for Colombo, arriving in Sri Lanka's commercial capital at 18:30. The return flight EK653 will depart Colombo at 20:35, arrive in ...",
+    "url": "https://www.ft.lk/front-page/Emirates-to-resume-Colombo-Male-flights-from-1-Sept/44-722174",
+    "url_hash": "ccc8305c283708c81a228d06194181aa",
+    "ut": 1629835970,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "EK652",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "09:45 daily",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "15:00",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Maldivian",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "18:30",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "EK653",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "20:35",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "VitalHub Increases Q2 2021 Revenue to $5.8M While Continuing to Improve on Financial Metrics Across the Business",
+    "source": "au.finance.yahoo.com",
+    "snippet": "VitalHub is based in Toronto, Canada, with an offshore development hub in Sri Lanka. The Company is publicly traded on the TSX Venture Exchange under the symbol \"VHI\". This press release ... markets generally and risks associated with growth and ...",
+    "url": "https://au.finance.yahoo.com/news/vitalhub-increases-q2-2021-revenue-223400050.html",
+    "url_hash": "0162809be74d8af12b05b28df656909e",
+    "ut": 1629843152,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VitalHub",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Toronto",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Company",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the TSX Venture Exchange",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "VHI",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-24",
+    "title": "Which countries are most at risk of tsunamis?",
+    "source": "www.the-sun.com",
+    "snippet": "TSUNAMIS are among the most terrifying and dangerous of natural disasters. Here we look at the top ten most devastating tsunamis in modern history\u2026 Which countries are most at risk of",
+    "url": "https://www.the-sun.com/news/3530383/countries-most-at-risk-of-tsunamis/",
+    "url_hash": "6973bb2dfd7083e25ec8eabc80f73370",
+    "ut": 1629847043,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "TSUNAMIS",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
