@@ -1,0 +1,104 @@
+[
+  {
+    "date": "2021-08-25",
+    "title": "Boxing Day tsunami 2004 - what happened and how many died?",
+    "source": "www.the-sun.com",
+    "snippet": "THE Boxing Day tsunami in 2004 claimed hundreds of thousands of lives on what should have been a day of celebration. The tsunami was one of the worst known natural disasters in human history which",
+    "url": "https://www.the-sun.com/news/3534356/tsunami-2004-boxing-day-what-happened-how-many-died/",
+    "url_hash": "519185d0134ee001dd454df4b0cf39ac",
+    "ut": 1629851223,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2004",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds of thousands",
+        "start_end": [
+          7,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Amid sex slavery claims Pakistan envoy tells Sri Lanka: Taliban pledged to protect women's rights",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Foreign Ministry quoting Pakistan envoy Major General Muhammad Saad Khattak said Taliban has pledged to protect women's rights amid reports that girls above 15 and widows below 45 years had been demanded as 'wives' for Taliban fighters.",
+    "url": "https://economynext.com/amid-sex-slavery-claims-pakistan-envoy-tells-sri-lanka-taliban-pledged-to-protect-womens-rights-85409/",
+    "url_hash": "179b8a5501641b973d200eafa4f46f04",
+    "ut": 1629851243,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Foreign Ministry",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Muhammad Saad Khattak",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "45 years",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  }
+]
