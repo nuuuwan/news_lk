@@ -4348,6 +4348,87 @@
   },
   {
     "date": "2021-08-25",
+    "title": "Police clarifies social media post on Ajith Rohana in ICU",
+    "source": "www.dailymirror.lk",
+    "snippet": "The information circulating on social media that former Police Spokesman SDIG Ajith Rohana is being treated in the Intensive Care Unit is false and a photo circulating showing him being critical is not of Ajith Rohana but of another unknown person,",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-clarifies-social-media-post-on-Ajith-Rohana-in-ICU/108-219001",
+    "url_hash": "eee10a73fca7810c6f1d93ca0c6ccc5b",
+    "ut": 1629900644,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Intensive Care Unit",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Rohana",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Defying lockdown...?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Large number of vehicles are seen on the road today in Colombo despite the nation-wide lockdown. Pix by Nimalsiri Edirisinghe ..",
+    "url": "https://www.dailymirror.lk/caption_story/Defying-lockdown/110-219005",
+    "url_hash": "4e7f4f1ea7e19590cd00a78166974a05",
+    "ut": 1629900644,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nimalsiri Edirisinghe",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Quarantine curfew to be extended? Decision on Friday",
+    "source": "www.adaderana.lk",
+    "snippet": "The decision on whether or not to extend the existing quarantine curfew will be announced next Friday (August 27), Director-General of Health Services Dr",
+    "url": "http://www.adaderana.lk/news/76419/quarantine-curfew-to-be-extended-decision-on-friday",
+    "url_hash": "1058e61af35d4760e21164c5842f985b",
+    "ut": 1629900654,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "next Friday",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "(August 27",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Quarantine curfew to be extended? Decision on Friday",
     "source": "www.adaderana.lk",
     "snippet": "The decision on whether or not to extend the existing quarantine curfew will be announced next Friday (August 27), Director-General of Health Services Dr",
@@ -4530,6 +4611,108 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "198 Covid deaths reported: Death toll surges to 7,948",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 198 more COVID-19 related deaths that occurred yesterday (24) were confirmed by the Director-General of Health Services today pushing the death toll to 7,948. ..",
+    "url": "https://www.dailymirror.lk/latest_news/198-Covid-deaths-reported-Death-toll-surges-to-7-948/342-219008",
+    "url_hash": "0edf54f3fd17e4b675c63c25d467e65f",
+    "ut": 1629904244,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "198",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7,948",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Decision on extending quarantine curfew on Friday: Health DG",
+    "source": "www.dailymirror.lk",
+    "snippet": "The decision whether to extend the present quarantine curfew would be taken on Friday (25), Director General of Health Services Dr. Asela Gunawardane said today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Decision-on-extending-quarantine-curfew-on-Friday-Health-DG/108-219007",
+    "url_hash": "ced2d0a4fab17133bfada898739b61c1",
+    "ut": 1629904244,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asela Gunawardane",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
@@ -4745,6 +4928,68 @@
         "start_end": [
           29,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Riding an Elephant While Drunk Now Illegal in Sri Lanka, Authorities Say",
+    "source": "www.insideedition.com",
+    "snippet": "Those who do not follow the new rules will have their elephant taken away and can face up to three years behind bars, officials said.",
+    "url": "https://www.insideedition.com/riding-an-elephant-while-drunk-now-illegal-in-sri-lanka-authorities-say-69376",
+    "url_hash": "46ff2db8c4ee4efdf610c0290b376d80",
+    "ut": 1629907863,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "up to three years",
+        "start_end": [
+          17,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "COVID-19: India delivers 100 tonnes of Oxygen to Sri Lanka",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "India delivered another 100 tonnes of medical oxygen to Sri Lanka on Wednesday to help the island nation combat the COVID-19 pandemic",
+    "url": "https://www.bignewsnetwork.com/news/270875328/covid-19-india-delivers-100-tonnes-of-oxygen-to-sri-lanka",
+    "url_hash": "ea1e4bc14da09de5af5e918c78810d70",
+    "ut": 1629908334,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "another 100 tonnes",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          12,
+          13
         ]
       }
     ]
