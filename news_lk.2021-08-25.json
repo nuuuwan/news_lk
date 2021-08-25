@@ -1097,6 +1097,33 @@
   },
   {
     "date": "2021-08-25",
+    "title": "AIA Insurance's Quick Pay app collects Rs.1bn",
+    "source": "www.dailymirror.lk",
+    "snippet": "AIA Quick Pay, the disruptive digital premium payment app developed specially for AIA Insurance's wealth planners and financial planning executives to collect customer premiums, has hit a whopping Rs.",
+    "url": "https://www.dailymirror.lk/financial-news/AIA-Insurances-Quick-Pay-app-collects-Rs-1bn/265-218975",
+    "url_hash": "b6260d1de79316c785c4ca3b297e8db6",
+    "ut": 1629864475,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "AIA Quick Pay",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AIA Insurance's",
+        "start_end": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "Sri Lankans begin using cardboard coffins for cremation",
     "source": "colombogazette.com",
     "snippet": "A number of Sri Lankans have begun using cardboard coffins for cremation, the Reuters news agency reported. At a factory in the Dehiwala-Mount Lavinia city, workers are using staples and glue to assemble long cardboard boxes,",
@@ -5344,6 +5371,49 @@
         "text": "James Freeman Clarke",
         "start_end": [
           20,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Sri Lanka's COVID-19 Response: Saving Lives Today, Preparing for Tomorrow",
+    "source": "reliefweb.int",
+    "snippet": "Since May 2020, the COVID-19 Emergency Response and Health Systems Preparedness Project (ERHSP) has helped the Government of Sri Lanka respond to emergency needs by providing essential medical supplies.",
+    "url": "https://reliefweb.int/report/sri-lanka/sri-lanka-s-covid-19-response-saving-lives-today-preparing-tomorrow-0",
+    "url_hash": "3d5fb94f2c5bd58ee9ac62407f2eba50",
+    "ut": 1629920463,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "May 2020",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Systems Preparedness",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government of",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
           23
         ]
       }
