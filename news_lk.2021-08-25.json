@@ -7002,6 +7002,57 @@
   },
   {
     "date": "2021-08-25",
+    "title": "Sri Lanka's COVID-19 Response: Saving Lives Today, Preparing for Tomorrow",
+    "source": "www.publicnow.com",
+    "snippet": "Sri Lanka was extremely vulnerable to the spread of COVID-19 because of its thriving tourism industry and large expatriate population. Since the detection of the first case in January 2020, Sri Lanka has successfully managed two waves of the pandemic,",
+    "url": "http://www.publicnow.com/view/AD0ECDAD7FF035E71B00F1003E8ECA04AC0AABA7",
+    "url_hash": "5714f384feea267a2c45f080c1aa50f2",
+    "ut": 1629922085,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January 2020",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-25",
     "title": "ADB ranks SL second in SA for highest increase in food price inflation",
     "source": "www.dailymirror.lk",
     "snippet": "The escalation in food prices witnessed in Sri Lanka as it grapples with the pandemic has placed the island nation amongst the four countries in South Asia that has the largest increase in food price inflation,",
