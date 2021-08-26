@@ -1123,6 +1123,25 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Corona patient underwent emergency surgery",
+    "source": "www.dailymirror.lk",
+    "snippet": "A corona infected patient who had been admitted to the Colombo National Hospital in critical condition due to a heart attack, underwent an emergency surgery to insert a stent to remove a thrombose in a main blood vessel.",
+    "url": "https://www.dailymirror.lk/latest_news/Corona-patient-underwent-emergency-surgery/342-219079",
+    "url_hash": "035084f90d943869d7e9e8240711b269",
+    "ut": 1629947353,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Colombo National Hospital",
+        "start_end": [
+          9,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Promoting Maritime Security in Indian Ocean Rim: The Role of Indo-Sri Lankan Maritime Diplomacy",
     "source": "www.indiandefencereview.com",
     "snippet": "To this end, India has embarked on efforts to consolidate other littorals in the Indian peninsula with Sri Lanka emerging as a key partner. Its proximity to India, and its position as an island nation, provide Sri Lanka with strategic importance in ...",
@@ -1294,6 +1313,97 @@
         "start_end": [
           44,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "CIA director meets Taliban leader in Kabul",
+    "source": "www.srilankaguardian.org",
+    "snippet": "CIA Director William Burns visited Kabul on Monday to meet with the Taliban's top political leader, a US official said. The official told The Associated Press the meeting between Burns and Abdul Ghani Baradar came amid the ongoing evacuations at the Kabul airport.",
+    "url": "http://www.srilankaguardian.org/2021/08/cia-director-meets-taliban-leader-in.html",
+    "url_hash": "8fc7ef3a24811aa1eefd94def2cff57d",
+    "ut": 1629950971,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CIA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "William Burns",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Associated Press",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Burns",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Abdul Ghani Baradar",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          44,
+          45
         ]
       }
     ]
@@ -1899,6 +2009,57 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Four Covid vaccines effective in reducing deaths against Delta variant: Bahrain Study",
+    "source": "www.dailymirror.lk",
+    "snippet": "The four Covid-19 vaccines - Sinopharm, Pfizer, AstraZeneca-Covishield and Sputnic V were effective in reducing deaths in vaccinated people when compared to unvaccinated people prior to and during the period when the Delta variant became dominant in Bahrain,",
+    "url": "https://www.dailymirror.lk/latest_news/Four-Covid-vaccines-effective-in-reducing-deaths-against-Delta-variant-Bahrain-Study/342-219071",
+    "url_hash": "eeb66ead4d20123f6d7fa93ca448414e",
+    "ut": 1629968953,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sputnic",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bahrain",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "'The virus can be beaten decisively if we get our act together'",
     "source": "island.lk",
     "snippet": "CONSULTANT HOMOEOPATH The headline for this article is adapted from The Island editorial of 09 August lays out where Sri Lanka went wrong and what collective action desired to deter the spread of the covid-19 virus.",
@@ -1928,6 +2089,33 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Ranil urges govt. to extend lockdown",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Prime Minister Ranil Wickremesinghe today urged the government to extend the lockdown in accordance with the heath expert advice. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-urges-govt-to-extend-lockdown/108-219076",
+    "url_hash": "180295776ebe47c9498518b3253a2400",
+    "ut": 1629972553,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
         ]
       }
     ]
