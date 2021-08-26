@@ -237,6 +237,57 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Chinese Army donates 300,000 vaccines to Sri Lanka Army",
+    "source": "menafn.com",
+    "snippet": "The Chinese Army has donated 300,000 vaccines to the Sri Lanka Army.   Army Commander, General Shavendra Silva said that",
+    "url": "https://menafn.com/1102676636/Chinese-Army-donates-300000-vaccines-to-Sri-Lanka-Army",
+    "url_hash": "623b1c410bd3db27809b9df0eb29e4e3",
+    "ut": 1629940114,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Chinese Army",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "300,000",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "SL's Covid positivity rate at 15.8: WHO",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka's Covid Test Positivity Rate (TPR) remains at 15.8 percent, according to the weekly situation report put out by the World Health Organization (WHO) on August 20. ..",
@@ -357,6 +408,33 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Journalist detained for giving information to Indian Embassy",
+    "source": "menafn.com",
+    "snippet": "A web journalist has been detained for allegedly giving information to the Indian Embassy in Colombo.   A media organisat",
+    "url": "https://menafn.com/1102677739/Journalist-detained-for-giving-information-to-Indian-Embassy",
+    "url_hash": "9d7772d2ba62c6c84c1c80d146feb8d2",
+    "ut": 1629943714,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Indian Embassy",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          15,
+          16
         ]
       }
     ]
@@ -965,6 +1043,16 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Breast milk of vaccinated mothers contains antibodies",
+    "source": "www.dailymirror.lk",
+    "snippet": "The breast milk of lactating mothers who have received the COVID-19 vaccine contains a significant supply of antibodies that may help protect nursing infants from the illness, according to a study. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Breast-milk-of-vaccinated-mothers-contains-antibodies/342-219046",
+    "url_hash": "06050d77d26440074b3bff432b8bcabe",
+    "ut": 1629947283,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-26",
     "title": "Promoting Maritime Security in Indian Ocean Rim: The Role of Indo-Sri Lankan Maritime Diplomacy",
     "source": "www.indiandefencereview.com",
     "snippet": "To this end, India has embarked on efforts to consolidate other littorals in the Indian peninsula with Sri Lanka emerging as a key partner. Its proximity to India, and its position as an island nation, provide Sri Lanka with strategic importance in ...",
@@ -1045,6 +1133,57 @@
         "start_end": [
           37,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Sri Lanka name 26-member U-19 training squad for Asia Cup and World Cup",
+    "source": "uk.sports.yahoo.com",
+    "snippet": "\"The Junior National Selectors chose the squad of 26 members out of the 75 players, chosen via an Island wide Talent Profiling Program conducted by Sri Lanka Cricket. The Talent Profiling Program ...",
+    "url": "https://uk.sports.yahoo.com/news/sri-lanka-name-26-member-051956145.html",
+    "url_hash": "c1042e9c4e17af9a9a0211ad9e8837fd",
+    "ut": 1629954492,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "The Junior National Selectors",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Talent Profiling Program",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Talent Profiling Program",
+        "start_end": [
+          31,
+          35
         ]
       }
     ]
