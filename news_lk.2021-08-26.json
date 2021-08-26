@@ -1169,6 +1169,16 @@
   },
   {
     "date": "2021-08-26",
+    "title": "A meaningless lockdown...",
+    "source": "www.dailymirror.lk",
+    "snippet": "One might wonder whether the country was actually placed under a Covid-19 lockdown by the authorities, going by the scores of ve ..",
+    "url": "https://www.dailymirror.lk/main_image/A-meaningless-lockdown/346-219056",
+    "url_hash": "b76098932ccd9af0d1b26b391cb0b908",
+    "ut": 1629947291,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-26",
     "title": "State Minister Nishantha wildly off the mark on past GDP growth rankings of Sri Lanka and China",
     "source": "www.dailymirror.lk",
     "snippet": "To check this claim, FactCheck.lk consulted World Bank national accounts data on GDP growth. FactCheck.lk evaluat ..",
@@ -1558,6 +1568,41 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Ministry of Health receives second batch of cold chain equipment",
+    "source": "menafn.com",
+    "snippet": "The Ministry of Health today received the second batch of cold chain equipment procured by UNICEF with funding from the Government of Jap",
+    "url": "https://menafn.com/1102683115/Ministry-of-Health-receives-second-batch-of-cold-chain-equipment",
+    "url_hash": "d05009d016e32f91737e591f8ecd456b",
+    "ut": 1629950923,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "CIA director meets Taliban leader in Kabul",
     "source": "www.srilankaguardian.org",
     "snippet": "CIA Director William Burns visited Kabul on Monday to meet with the Taliban's top political leader, a US official said. The official told The Associated Press the meeting between Burns and Abdul Ghani Baradar came amid the ongoing evacuations at the Kabul airport.",
@@ -1640,6 +1685,108 @@
       {
         "label": "GPE",
         "text": "Kabul",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Indian External Affairs Minister sends felicitation to GL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Indian External Affairs Minister Dr. S. Jaishankar has sent a letter of felicitation to new Sri Lankan Foreign Minister Prof. G. L. Peiris, the Indian High Commission tweeted. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Indian-External-Affairs-Minister-sends-felicitation-to-GL/342-219060",
+    "url_hash": "9555347a93fc765f2476417f2b8ee1c4",
+    "ut": 1629954491,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Indian External Affairs",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Jaishankar",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G. L. Peiris",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "SL will lose Rs. 260 mil a day by remaining on UK's red list: WTTC",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's continuing to remain on the red list of the United Kingdom (UK) will result in a revenue bleed since for every single day it stays on the disruptive and damaging travel list, the island nation would lose over Rs.",
+    "url": "https://www.dailymirror.lk/business/SL-will-lose-Rs-260-mil-a-day-by-remaining-on-UKs-red-list-WTTC/215-219061",
+    "url_hash": "b7dbf02a0ac3550d9c8c8c39abaea9fa",
+    "ut": 1629954491,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United Kingdom",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "every single day",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rs",
         "start_end": [
           44,
           45
@@ -1955,6 +2102,57 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Decision on extending quarantine curfew on Friday: Health DG",
+    "source": "www.dailymirror.lk",
+    "snippet": "The decision whether to extend the present quarantine curfew would be taken on Friday (27), Director General of Health Services Dr. Asela Gunawardane said today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Decision-on-extending-quarantine-curfew-on-Friday-Health-DG/108-219007",
+    "url_hash": "ced2d0a4fab17133bfada898739b61c1",
+    "ut": 1629958091,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "27",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asela Gunawardane",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Heavy rains exceeding 100mm expected in several areas: Met Dept.",
     "source": "www.dailymirror.lk",
     "snippet": "Heavy rains exceeding 100 mm is expected in some parts of the country because of an unusual activation of South West Monsoon conditions over the country, Department of Meteorology said today. ..",
@@ -2035,6 +2233,33 @@
         "start_end": [
           15,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Sri Lanka reached its worst, highest level in COVID-19 epidemic: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The country has reached its worst and highest level in the COVID pandemic, the Government Medical Officers' Association (GMOA) General Secretary Dr. Nalinda Herath said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-reached-its-worst-highest-level-in-COVID-19-epidemic-GMOA/342-219068",
+    "url_hash": "990aefcf506b1bdc5630a6302f540c45",
+    "ut": 1629961691,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "COVID",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nalinda Herath",
+        "start_end": [
+          26,
+          28
         ]
       }
     ]
@@ -2422,6 +2647,65 @@
         "start_end": [
           2,
           5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "July tea production down YoY, but up from June",
+    "source": "www.dailymirror.lk",
+    "snippet": "Tea production in July witnessed a marginal dip of 0.31 MnKgs when compared with the corresponding period the previous year. However, the July production of 26.16 MnKg is higher than the 25.93 MnKg recorded in June 2021.",
+    "url": "https://www.dailymirror.lk/business/July-tea-production-down-YoY-but-up-from-June/215-219074",
+    "url_hash": "7c3b8a32d52e592b8278b13b3c110dff",
+    "ut": 1629968891,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "0.31",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the previous year",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "26.16 MnKg",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June 2021",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
@@ -3299,6 +3583,73 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Invoking blessings to late Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "A religious event was held at the Hunupitiya Gangaramaya Temple today to invoke blessings to late former Finance Minister Mangala Samaraweera. The event was held with the participation of former President Mithripala Sirisena and several SLFP MPs including Dayasiri Jayasekara,",
+    "url": "https://www.dailymirror.lk/latest_news/Invoking-blessings-to-late-Minister/342-219083",
+    "url_hash": "0d8c0a3c9de33499ff2642009092a402",
+    "ut": 1629986891,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "the Hunupitiya Gangaramaya Temple",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mithripala Sirisena",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLFP",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dayasiri Jayasekara",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "'They're political footballs, not human beings': Lisa Wilkinson SLAMS Australian officials refusing asylum to Tamil family - as their heartbroken little girls beg to ...",
     "source": "www.msn.com",
     "snippet": "The family have been living in detention for three years since they were rounded up by Border Force and banished to Christmas Island while legal wars are waged to bring them home to Bilo",
@@ -3471,6 +3822,73 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Blast outside Kabul airport kills at least 13, including children, Taliban official says",
+    "source": "www.dailymirror.lk",
+    "snippet": "A suspected suicide bomb exploded outside Kabul airport on Thursday, killing at least 13 people including children, a Taliban official said, after the United States and allies urged Afghans to leave the area because of a threat by Islamic State.",
+    "url": "https://www.dailymirror.lk/breaking_news/Blast-outside-Kabul-airport-kills-at-least-13-including-children-Taliban-official-says/108-219084",
+    "url_hash": "deae320f8967a23cf4d513cc3cd2590c",
+    "ut": 1629990491,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 13",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghans",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Vijendran Watson appointed Chairman of Sri Lanka based BoardPAC",
     "source": "economynext.com",
     "snippet": "BoardPAC, a Sri Lankan board meeting solution provider has appointed the former founding director of Mobitel, Vijendran Watson as chairman with effect from August 2021, a statement said. Watson is also the former managing director of Lanka Bell.",
@@ -3543,6 +3961,81 @@
     "snippet": "Channa Jayasumana stated that a consignment of the medicine known as Tocilizumab, which is currently in short supply in the country, will be brought to the island from Singapore next Saturday (28). Health Minister Keheliya Rambukwella also requested the Indian High Commissioner to provide the medicine Tocilizumabto Sri Lanka.",
     "url": "https://www.hirunews.lk/english/280672/tocilizumab-to-be-brought-to-island-on-28-august",
     "url_hash": "4ac2b9aec9c67804d556352bdfafc512",
+    "ut": 1629990500,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jayasumana",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tocilizumab",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next Saturday",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "28",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tocilizumabto Sri Lanka",
+        "start_end": [
+          51,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "'Tocilizumab' to be brought to island on 28 August (Video)",
+    "source": "www.hirunews.lk",
+    "snippet": "Channa Jayasumana stated that a consignment of the medicine known as Tocilizumab, which is currently in short supply in the country, will be brought to the island from Singapore next Saturday (28). Health Minister Keheliya Rambukwella also requested the Indian High Commissioner to provide the medicine Tocilizumabto Sri Lanka.",
+    "url": "https://www.hirunews.lk/english/280672/tocilizumab-to-be-brought-to-island-on-28-august-video",
+    "url_hash": "4e142922701f0511bc9b76c0b474b232",
     "ut": 1629990500,
     "ent_info_list": [
       {
@@ -3691,6 +4184,33 @@
   },
   {
     "date": "2021-08-26",
+    "title": "SriLankan denies claims of deploying COVID-infected Flight Attendants",
+    "source": "www.dailymirror.lk",
+    "snippet": "SriLankan Airlines categorically denied social media reports that the SriLankan Airline was deploying COVID-infected Flight Attendants and said it was untrue and misleading the public at a time the entire country is suffering due to the recent spike in the spread of the pandemic.",
+    "url": "https://www.dailymirror.lk/breaking_news/SriLankan-denies-claims-of-deploying-COVID-infected-Flight-Attendants/108-219088",
+    "url_hash": "480936e2efb6607e54b84e1e84df6464",
+    "ut": 1629994091,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airline",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Lisa Wilkinson SLAMS Australia refusing asylum to Tamil family as girls beg to come home to Biloela",
     "source": "nation.lk",
     "snippet": "The family have been living in detention for three years since they were rounded up by Border Force and banished to Christmas Island while legal wars are waged to bring them home to Bilo",
@@ -3728,6 +4248,33 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Thailand on the red list: latest Covid rules and travel advice",
+    "source": "www.telegraph.co.uk",
+    "snippet": "The situation is complicated for those wanting to travel to south-east Asia, with many strict travel restrictions in place",
+    "url": "https://www.telegraph.co.uk/travel/advice/travel-thailand-red-list-advice-2021/",
+    "url_hash": "7994f46b7cf33f7f05efab9ba98f02d5",
+    "ut": 1629997700,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "south-east",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          13,
+          14
         ]
       }
     ]
@@ -3782,5 +4329,50 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Can Lankan brands help revive brand Sri Lanka Cricket?",
+    "source": "www.ft.lk",
+    "snippet": "The image of the victorious 1996 World Cup team receiving the trophy is arguably the most cherished picture in Sri Lanka. I can't think of any other image that evokes pride and memories and a gushing of conversation as this image does.",
+    "url": "https://www.ft.lk/columns/Can-Lankan-brands-help-revive-brand-Sri-Lanka-Cricket/4-722254",
+    "url_hash": "e79b25903bb3a5059571c0d55cc94606",
+    "ut": 1630001314,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "1996",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Mangala Samaraweera, a true patriot",
+    "source": "www.ft.lk",
+    "snippet": "Mangala was loved by many, but disliked by some. There were many who disagreed with his liberal views, but he welcomed a conversation instead of striking fear. He was not one to let populist demands dictate his worldview.",
+    "url": "https://www.ft.lk/opinion/Mangala-Samaraweera--a-true-patriot/14-722263",
+    "url_hash": "c5a35baaa2b7486cd650d7f194bfe259",
+    "ut": 1630001314,
+    "ent_info_list": []
   }
 ]
