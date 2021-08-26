@@ -237,6 +237,132 @@
   },
   {
     "date": "2021-08-26",
+    "title": "SL's Covid positivity rate at 15.8: WHO",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's Covid Test Positivity Rate (TPR) remains at 15.8 percent, according to the weekly situation report put out by the World Health Organization (WHO) on August 20. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SLs-Covid-positivity-rate-at-15-8-WHO/108-219035",
+    "url_hash": "5103b360b3a9908de42d759b4afb3d38",
+    "ut": 1629943668,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Covid Test Positivity Rate",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TPR",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "15.8 percent",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Health Organization",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 20",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Govt will keep rice prices stable - Trade Minister",
+    "source": "www.msn.com",
+    "snippet": "Dr. Gunawardena was speaking at a press conference held in Colombo yesterday.He said that the lockdown ... Accordingly, the relevant gazette notification has been issued with the approval of the Cabinet to increase the fine from Rs.2, 500 to Rs.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/govt-will-keep-rice-prices-stable-trade-minister/ar-AANKrgX",
+    "url_hash": "edbcca36ac7df9459fabd5640ee5321c",
+    "ut": 1629943701,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gunawardena",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Rs.2",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "500",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Sri Lanka state workers ask to lift lockdown over salary cut fears",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sections of Sri Lanka's state workers are calling for a Coronavirus lockdown to be lifted as ministers warn about difficulties in paying salaries, with the tax generating private workers and self-employed no longer able to engage in ...",
@@ -798,6 +924,41 @@
         "start_end": [
           0,
           5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "YouTube says it's removed 1mn videos for COVID-19 misinformation",
+    "source": "www.dailymirror.lk",
+    "snippet": "YouTube said today that it has removed more than one million videos with ''dangerous coronavirus misinformation'' since the start of the Covid-19 pandemic. ..",
+    "url": "https://www.dailymirror.lk/latest_news/YouTube-says-its-removed-1mn-videos-for-COVID-19-misinformation/342-219040",
+    "url_hash": "629543fd6218ef13afe6a37e95114e25",
+    "ut": 1629947268,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "YouTube",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than one million",
+        "start_end": [
+          7,
+          11
         ]
       }
     ]
