@@ -1711,6 +1711,49 @@
     "title": "Heavy rains exceeding 100mm expected in several areas: Met Dept.",
     "source": "www.dailymirror.lk",
     "snippet": "Heavy rains exceeding 100 mm is expected in some parts of the country because of an unusual activation of South West Monsoon conditions over the country, Department of Meteorology said today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Heavy-rains-exceeding-100mm-expected-in-several-areas-Met-Dept/108-219063",
+    "url_hash": "6db7eb97972b2844258a9b84dccea520",
+    "ut": 1629958068,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "100 mm",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South West Monsoon",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Department of Meteorology",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Heavy rains exceeding 100mm expected in several areas: Met Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "Heavy rains exceeding 100 mm is expected in some parts of the country because of an unusual activation of South West Monsoon conditions over the country, Department of Meteorology said today. ..",
     "url": "https://www.dailymirror.lk/latest_news/Heavy-rains-exceeding-100mm-expected-in-several-areas-Met-Dept/342-219063",
     "url_hash": "8cb83df2081392814b9dbc5b34ac4418",
     "ut": 1629958102,
@@ -2278,6 +2321,41 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Sri Lanka receives second batch of COVID vaccine cold chain equipment from Japan",
+    "source": "www.adaderana.lk",
+    "snippet": "The Japanese Embassy in Colombo has provided COVID-19 vaccine cold chain equipment to Sri Lanka, reaffirming Japan's solidarity with the island nation in fighting COVID-19 and commitment to continuing",
+    "url": "http://www.adaderana.lk/news/76440/sri-lanka-receives-second-batch-of-covid-vaccine-cold-chain-equipment-from-japan",
+    "url_hash": "973772b8ab9c91bdd6d084f768c3c8f9",
+    "ut": 1629979678,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Japanese Embassy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Sri Lanka approves online trading of gems",
     "source": "www.china.org.cn",
     "snippet": "The Sri Lankan government has revised its export charges imposed on gems by the National Gem and Jewellery Authority (NGJA) and has allowed the online trading of gems, local media reported here Thursday.",
@@ -2323,6 +2401,41 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Sri Lanka approves online trading of gems",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "The Sri Lankan government has revised its export charges imposed on gems by the National Gem and Jewellery Authority NGJA and has",
+    "url": "https://www.bignewsnetwork.com/news/270885404/sri-lanka-approves-online-trading-of-gems",
+    "url_hash": "b16c8f2a0550ad8cfa2003de51a0cab6",
+    "ut": 1629985521,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the National Gem",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Jewellery Authority NGJA",
+        "start_end": [
+          17,
+          20
         ]
       }
     ]
