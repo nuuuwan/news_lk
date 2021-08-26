@@ -476,6 +476,41 @@
   },
   {
     "date": "2021-08-26",
+    "title": "How an Afghan refugee crisis at sea transformed Australia policy",
+    "source": "www.aljazeera.com",
+    "snippet": "A cargo ship rescued Afghan asylum seekers stranded at sea near Australia 20 years go, transforming its refugee policy.",
+    "url": "https://www.aljazeera.com/news/2021/8/25/how-an-afghan-refugee-crisis-at-sea-transformed-australia-policy",
+    "url_hash": "758010d3a843ac496667a1e4b770f441",
+    "ut": 1629943853,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "20 years",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Sri Lanka state workers ask to lift lockdown over salary cut fears",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sections of Sri Lanka's state workers are calling for a Coronavirus lockdown to be lifted as ministers warn about difficulties in paying salaries, with the tax generating private workers and self-employed no longer able to engage in ...",
@@ -1869,6 +1904,49 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Australia wants to assist Sri Lanka's socio-economic development process.",
+    "source": "colombogazette.com",
+    "snippet": "Australia wants to assist Sri Lanka's socio-economic development process. Foreign Minister Professor G. L. Peiris at a courtesy call paid by the High Commissioner of Australia David Holly, discussed a",
+    "url": "https://colombogazette.com/2021/08/26/australia-wants-to-assist-sri-lankas-socio-economic-development-process/",
+    "url_hash": "3da94fbbccbe2d4f4aaf5dd060847d43",
+    "ut": 1629961877,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G. L. Peiris",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "David Holly",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Sri Lanka announce a 26-member Under-19 training squad for Asia Cup and World Cup",
     "source": "www.crictracker.com",
     "snippet": "Sri Lanka Cricket (SLC) on Thursday announced a squad comprising 26 players for Under-19 training for the team's upcoming tours.",
@@ -2143,6 +2221,108 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "War widows, ex-servicemen to be inoculated with vaccines donate by China's PLA",
+    "source": "www.dailymirror.lk",
+    "snippet": "Disabled war heroes, war widows, dependents and ex-servicemen are expected to be vaccinated with the Sinopharm vaccines which will arrive in Sri Lanka on Saturday as a donation by the People's Liberation Army (PLA) of China,",
+    "url": "https://www.dailymirror.lk/breaking_news/War-widows-ex-servicemen-to-be-inoculated-with-vaccines-donate-by-Chinas-PLA/108-219078",
+    "url_hash": "0d3da87455ac4150aef9f0ee74a9d3e8",
+    "ut": 1629976253,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the People's Liberation Army",
+        "start_end": [
+          33,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Sri Lanka approves online trading of gems",
+    "source": "www.china.org.cn",
+    "snippet": "The Sri Lankan government has revised its export charges imposed on gems by the National Gem and Jewellery Authority (NGJA) and has allowed the online trading of gems, local media reported here Thursday.",
+    "url": "http://www.china.org.cn/world/Off_the_Wire/2021-08/26/content_77716508.htm",
+    "url_hash": "6b2b92d7f651c2fc7a585b7ffaef82f2",
+    "ut": 1629982097,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the National Gem and",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Jewellery Authority",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NGJA",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
