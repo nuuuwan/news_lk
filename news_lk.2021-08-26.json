@@ -2270,6 +2270,57 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Heavy rain threatens parts of Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Heavy rain is threatening to create havoc in parts of Sri Lanka over a 24-hour period from 6am today.   The Department of",
+    "url": "https://menafn.com/1102684568/Heavy-rain-threatens-parts-of-Sri-Lanka&source=19",
+    "url_hash": "d53018f0348c4cba5a3c2da9a9624557",
+    "ut": 1629976111,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "24-hour",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "6am",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Department of",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "War widows, ex-servicemen to be inoculated with vaccines donate by China's PLA",
     "source": "www.dailymirror.lk",
     "snippet": "Disabled war heroes, war widows, dependents and ex-servicemen are expected to be vaccinated with the Sinopharm vaccines which will arrive in Sri Lanka on Saturday as a donation by the People's Liberation Army (PLA) of China,",
@@ -2401,6 +2452,41 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Sri Lanka receives second batch of COVID vaccine cold chain equipment from Japan",
+    "source": "www.adaderana.lk",
+    "snippet": "The Japanese Embassy in Colombo has provided COVID-19 vaccine cold chain equipment to Sri Lanka, reaffirming Japan's solidarity with the island nation in fighting COVID-19 and commitment to continuing",
+    "url": "http://www.adaderana.lk/news.php?nid=76440",
+    "url_hash": "5ffc41e67c6bd4cd5dec782e9879c3fa",
+    "ut": 1629983291,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Japanese Embassy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
