@@ -323,6 +323,33 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Blue whale songs recorded in the Indian waters for the first time",
+    "source": "sg.news.yahoo.com",
+    "snippet": "For the first time, scientists recorded blue whale songs in Indian waters, off Lakshadweep coasts. Experts believe the waters are rich, productive and could be breeding grounds for blue whales. Read to know all about it.",
+    "url": "https://sg.news.yahoo.com/blue-whale-songs-recorded-indian-083839282.html",
+    "url_hash": "fb4dde30eaab073969710600637855e6",
+    "ut": 1629940265,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "SL's Covid positivity rate at 15.8: WHO",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka's Covid Test Positivity Rate (TPR) remains at 15.8 percent, according to the weekly situation report put out by the World Health Organization (WHO) on August 20. ..",
@@ -2412,6 +2439,148 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Army Chief supervises Covid 19 treatment complex",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chief of Defense Staff and Commander of the Army General Shavendra Silva inspected the Army improvised new Covid 19 Treatment Ward Complex for the treatment of 250 patients established on the 4th, 5th and 6th floors of the new 08 storied building of the Colombo South Teaching Hospital.",
+    "url": "https://www.dailymirror.lk/caption_story/Army-Chief-supervises-Covid-19-treatment-complex/110-219080",
+    "url_hash": "16b448495931e297c5b3bce58753ed1b",
+    "ut": 1629972654,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ward Complex",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "250",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "4th",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "5th",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "6th",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "08",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Colombo South Teaching Hospital",
+        "start_end": [
+          44,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Nearly 600 COVID patients at NHC, 266 on oxygen",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 593 COVID-19 patients are receiving treatment at the National Hospital in Colombo (NHC) as of today and 266 of them are on oxygen, hospital sources said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Nearly-600-COVID-patients-at-NHC-266-on-oxygen/108-219077",
+    "url_hash": "3c60a32825cecdca73159069128f47d5",
+    "ut": 1629972654,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "593",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Hospital in Colombo",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NHC",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "266",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Biloela family makes emotional plea to Australian government to stay and 'live safely'",
     "source": "www.news.com.au",
     "snippet": "A Tamil family at the centre of a long running immigration dispute is begging the government to stay in Australia, saying the prospect of going back into detention keeps them awake at night.",
@@ -2576,6 +2745,57 @@
   },
   {
     "date": "2021-08-26",
+    "title": "Yoshitha denies rumors that he assaulted musician Iraj",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chief of Staff to Prime Minister Mahinda Rajapaksa, Yoshitha Rajapaksa has denied rumors that he slapped musician and song writer Iraj Weeraratne, which is why Iraj submitted his resignation as director of the National Youth Services Council (NYSC).",
+    "url": "https://www.dailymirror.lk/top_story/Yoshitha-denies-rumors-that-he-assaulted-musician-Iraj/155-219069",
+    "url_hash": "9282ba83cbddd5a77121f75b8f19a2e3",
+    "ut": 1629979854,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yoshitha Rajapaksa",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Iraj Weeraratne",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Youth Services Council",
+        "start_end": [
+          34,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NYSC",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "Sri Lanka approves online trading of gems",
     "source": "www.china.org.cn",
     "snippet": "The Sri Lankan government has revised its export charges imposed on gems by the National Gem and Jewellery Authority (NGJA) and has allowed the online trading of gems, local media reported here Thursday.",
@@ -2726,6 +2946,92 @@
         "start_end": [
           17,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "'They're political footballs, not human beings': Lisa Wilkinson SLAMS Australian officials refusing asylum to Tamil family - as their heartbroken little girls beg to ...",
+    "source": "www.msn.com",
+    "snippet": "The family have been living in detention for three years since they were rounded up by Border Force and banished to Christmas Island while legal wars are waged to bring them home to Bilo",
+    "url": "https://www.msn.com/en-au/news/australia/lisa-wilkinson-fumes-theyre-political-footballs-not-human-beings/ar-AANMdWj",
+    "url_hash": "c88f45112180310eadc5d1f555d7b6ee",
+    "ut": 1629987065,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "three years",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Border Force",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Christmas",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bilo",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Indian tourists can visit Sri Lanka following protocols",
+    "source": "www.canindia.com",
+    "snippet": "The Sri Lankan government has lifted the ban on Indian nationals entering Sri Lanka. Tourism Minister Prasanna Ranatunga said that giving priority to the",
+    "url": "https://www.canindia.com/indian-tourists-can-visit-sri-lanka-following-protocols/",
+    "url_hash": "7d9da22b2586a58e5aa2872feff95f1e",
+    "ut": 1629987065,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
