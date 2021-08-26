@@ -1048,5 +1048,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "South African cricket team arrives in SL",
+    "source": "www.newsfirst.lk",
+    "snippet": "The South African cricket team led by Temba Bavuma arrived in the island this morning for a cricket tour of Sri Lanka. The team - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/26/south-african-cricket-team-arrives-in-sl/",
+    "url_hash": "8679934efc3cf5a2e8856d6aca2414b8",
+    "ut": 1629954530,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "South African",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Temba Bavuma",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
   }
 ]
