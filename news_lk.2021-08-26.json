@@ -1,6 +1,41 @@
 [
   {
     "date": "2021-08-26",
+    "title": "'Consider our children's future': Tamil asylum seeker family begs to stay",
+    "source": "www.watoday.com.au",
+    "snippet": "The family spoke on The Project from Perth community detention and had a message for Immigration Minister Alex Hawke.",
+    "url": "https://www.watoday.com.au/national/consider-our-children-s-future-tamil-asylum-seeker-family-begs-to-stay-20210826-p58mbd.html",
+    "url_hash": "e72639b5a472793431f3a3f089daca56",
+    "ut": 1629936470,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Project",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Perth",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alex Hawke",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "26-member squad picked for U-19 Asia Cup/World Cup",
     "source": "www.islandcricket.lk",
     "snippet": "A 26-member Under-19 national training squad of cricketers have been selected to prepare for the upcoming inbound tours, U-19 Asia Cup and the U-19 World Cup. The National Selectors chose the squad of 26 members out of the 75 players,",
@@ -1858,6 +1893,68 @@
         "start_end": [
           16,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "'The virus can be beaten decisively if we get our act together'",
+    "source": "island.lk",
+    "snippet": "CONSULTANT HOMOEOPATH The headline for this article is adapted from The Island editorial of 09 August lays out where Sri Lanka went wrong and what collective action desired to deter the spread of the covid-19 virus.",
+    "url": "https://island.lk/the-virus-can-be-beaten-decisively-if-we-get-our-act-together/",
+    "url_hash": "a6aefff2c3882943959f7f075378509e",
+    "ut": 1629972470,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "09 August",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "covid-19",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
+    "title": "Biloela family makes emotional plea to Australian government to stay and 'live safely'",
+    "source": "www.news.com.au",
+    "snippet": "A Tamil family at the centre of a long running immigration dispute is begging the government to stay in Australia, saying the prospect of going back into detention keeps them awake at night.",
+    "url": "https://www.news.com.au/national/queensland/politics/biloela-family-makes-emotional-plea-to-australian-government-to-stay-and-live-safely/news-story/3aa91934d6e5105c11f5613a1dbdde11",
+    "url_hash": "72b055f45fd979c04c3d7af648d31946",
+    "ut": 1629973430,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
