@@ -4383,6 +4383,89 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Arizona has had more than 1M coronavirus cases",
+    "source": "www.startribune.com",
+    "snippet": "Arizona is the 13th U.S. state to hit that level of cases after reporting its first case in January of last year. Arizona is 13th in the country in cases per 100,000 people. Arizona on Friday also reported 63 more COVID-19 deaths.",
+    "url": "https://www.startribune.com/the-latest-arizona-has-had-more-than-1m-coronavirus-cases/600091421/",
+    "url_hash": "66545e6137d3b476419f11994cdb4fd2",
+    "ut": 1630077023,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January of last year",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "63",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
     "source": "abcnews.go.com",
     "snippet": "Newly released numbers from Arkansas show that more than 3,100 active coronavirus cases have been reported in public schools among students and employees",
@@ -4490,6 +4573,272 @@
         "start_end": [
           2,
           4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
+    "source": "www.seattlepi.com",
+    "snippet": "The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country. \"The epidemic is under control.",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
+    "url_hash": "bd31ed38f8cb5b83e4e71d0d64271d01",
+    "ut": 1630080611,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Danish",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Italian premier decries unequal vaccine access",
+    "source": "www.timesunion.com",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines, especially in Africa, are making it harder to end the pandemic. Draghi on Friday remotely addressed a meeting of the G-20 Compact with Africa.",
+    "url": "https://www.timesunion.com/business/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
+    "url_hash": "0a559ef79133f78816912aa21b5454ac",
+    "ut": 1630080623,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the G-20 Compact",
+        "start_end": [
+          42,
+          45
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Italian premiere decries unequal vaccine access",
+    "source": "tulsaworld.com",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines, especially in Africa, are making it harder to end the",
+    "url": "https://tulsaworld.com/news/world/the-latest-italian-premiere-decries-unequal-vaccine-access/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
+    "url_hash": "af38489a5e67cd8375588a6f0b885a98",
+    "ut": 1630080623,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "As COVID Cases And Death Toll Surge, Sri Lanka Extends Lockdown Till September 6",
+    "source": "www.republicworld.com",
+    "snippet": "Amid the rise in COVID-19 cases, the Sri Lankan government has decided to extend the lockdownt till September 6.The lockdown was due to end on August 30.",
+    "url": "https://www.republicworld.com/world-news/rest-of-the-world-news/as-covid-cases-and-death-toll-surge-sri-lanka-extends-lockdown-till-september-6.html",
+    "url_hash": "a6bcffec472b6d402f35c943f2c67ee2",
+    "ut": 1630081931,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "4,591 COVID-19 positive cases reported in Sri Lanka today",
+    "source": "www.dailynews.lk",
+    "snippet": "A total of 4,591 COVID-19 positive cases were reported in Sri Lanka, stated the Epidemiology Unit. The total count of positive coronavirus cases found in Sri Lanka currently sits at 416,961.",
+    "url": "https://www.dailynews.lk/2021/08/27/local/257811/4591-covid-19-positive-cases-reported-sri-lanka-today",
+    "url_hash": "908344fa83f623d2f5b3349206fb36aa",
+    "ut": 1630082767,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,591",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "416,961",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Arizona has had more than 1M coronavirus cases",
+    "source": "chinapost.nownews.com",
+    "snippet": "Arizona has now had more than 1 million confirmed coronavirus infection cases. State health officials on Friday reported 3,707 additional COVID-19 cases, putting the state beyond the grim milestone. Arizona is the 13th U.",
+    "url": "https://chinapost.nownews.com/20210828-2737665",
+    "url_hash": "d4979f1970c619be5625a7d2c2036457",
+    "ut": 1630083251,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 1 million",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,707",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "13th",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
