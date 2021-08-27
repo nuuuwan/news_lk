@@ -5217,6 +5217,57 @@
   },
   {
     "date": "2021-08-26",
+    "title": "4,602 fresh Covid-19 cases reported today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 4,602 more COVID-19 patients have been detected today increasing the total cases reported in Sri Lanka to 412,370, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/4-602-fresh-Covid-19-cases-reported-today/342-219090",
+    "url_hash": "57172e30c5ce654e5b657f0b35ee59eb",
+    "ut": 1629994081,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,602",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "412,370",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-26",
     "title": "SriLankan denies claims of deploying COVID-infected Flight Attendants",
     "source": "www.dailymirror.lk",
     "snippet": "The SriLankan Airlines categorically denied social media reports that the SriLankan Airline was deploying COVID-infected Flight Attendants and said it was untrue and misleading the public at a time the entire country is suffering due to the recent spike in the spread of the pandemic.",
