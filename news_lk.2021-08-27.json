@@ -2704,6 +2704,65 @@
   },
   {
     "date": "2021-08-27",
+    "title": "76 individuals including Christian and Catholic priests call for the release of Hejaaz",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a public petition signed by 75 individuals including Christian and Catholic priests, they have called upon members of the Human Rights Council and all members of the international community to urge the Sri Lankan government to release Attorney-at-law Hejaaz Hizbullah forthwith.",
+    "url": "https://www.dailymirror.lk/breaking_news/76-individuals-including-Christian-and-Catholic-priests-call-for-the-release-of-Hejaaz/108-219156",
+    "url_hash": "c83b0c7f90818726ed18d582bd0cd6ab",
+    "ut": 1630055418,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "75",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Christian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Catholic",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Human Rights Council",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hejaaz Hizbullah",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Sri Lanka locks down till Sep 6",
     "source": "www.sify.com",
     "snippet": "Amid an unabated increase of new Covid-19 cases and deaths, Sri Lanka has decided to extend the lockdown for another week till September 6.",
@@ -2846,6 +2905,49 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Rumors on PM being infected with COVID-19 are false - Yoshitha",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prime Minister Mahinda Rajapaksa is not infected with the COVID-19 virus and neither has he been admitted to the ICU, and rumors of his critical health are false, Chief of Staff of the Prime Minister Yoshitha Rajapaksa told Daily Mirror.",
+    "url": "https://www.dailymirror.lk/breaking_news/Rumors-on-PM-being-infected-with-COVID-19-are-false-Yoshitha/108-219157",
+    "url_hash": "a50a1fc306da3caff90b25009d3f6203",
+    "ut": 1630059018,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICU",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yoshitha Rajapaksa",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          40,
+          42
         ]
       }
     ]
@@ -3016,6 +3118,68 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Sri Lankan shares end at record high, post best weekly gain in 7 months",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares closed at a record high on Friday and posted their best week in seven months, as consumer stocks gained.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-end-at-record-high-post-best-weekly-gain-in-7-months-idUSL4N2PY2UO",
+    "url_hash": "febb8a96cc58219ed02b66ef673aaa45",
+    "ut": 1630062628,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "seven months",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
+    "source": "ktar.com",
+    "snippet": "The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of",
+    "url": "https://ktar.com/story/4656010/the-latest-denmark-lowers-covid-threat-citing-vaccinations/",
+    "url_hash": "0fe728652a7921198fc68da77b72cb24",
+    "ut": 1630062628,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Danish",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Sri Lanka extends COVID-19 lockdown till September 6 as deaths rise",
     "source": "www.thehindu.com",
     "snippet": "Sri Lanka on Friday extended its nationwide lockdown till September 6, amidst a surge in the number of COVID-19 deaths and mounting pressure from medics and the Opposition to step up efforts to fight the raging third wave of coronavirus.",
@@ -3112,6 +3276,186 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "India Gifts Medical Oxygen Plant To Nepal To Tackle Covid-19",
+    "source": "vidanewspaper.com",
+    "snippet": "To support Nepal, on Aug. 26, India gifted a medical oxygen plant to the Himalayan nation to tackle the Covid-19 pandemic. As per the",
+    "url": "https://vidanewspaper.com/2021/08/27/india-gifts-medical-oxygen-plant-to-nepal-to-tackle-covid-19/",
+    "url_hash": "f4c8c9ed0b35a881f014bda848e9722f",
+    "ut": 1630066228,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Nepal",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Aug. 26",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Himalayan",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "South African photojournalist John Parkin dies at age 63",
+    "source": "english.newstracklive.com",
+    "snippet": "South African photographer John Parkin, who covered the country's anti-apartheid struggle, its first democratic elections, and the presidency of..|News Track",
+    "url": "https://english.newstracklive.com/news/south-african-photojournalist-john-parkin-dies-at-age-63-sc57-nu318-ta318-1179079-1.html",
+    "url_hash": "9cbe6972171952f58ac1785becca00a3",
+    "ut": 1630066237,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "South African",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Parkin",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Germany drops Spain from virus high-risk list",
+    "source": "chinapost.nownews.com",
+    "snippet": "BERLIN\u2014 Germany is dropping all of Spain from its list of \"high-risk areas\" for COVID-19, meaning that unvaccinated people arriving from popular Spanish tourist destinations will no longer need to go into quarantine.",
+    "url": "https://chinapost.nownews.com/20210827-2737327",
+    "url_hash": "54e66d473e4b61ba6b52efc3ee67926f",
+    "ut": 1630068868,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BERLIN",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Germany",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Spain",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Spanish",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Tamil Nadu govt announces Rs 317 crore package for Sri Lankan refugees",
+    "source": "dailynews.lk",
+    "snippet": "Tamil Nadu Chief Minister MK Stalin on Friday announced a package of welfare measures at a cost of Rs.317.40 Crore for the welfare of Sri Lankan Tamil refugees living in special camps in the State. Making a suo motu statement under Rule 110,",
+    "url": "https://dailynews.lk/2021/08/27/local/257772/tamil-nadu-govt-announces-rs-317-crore-package-sri-lankan-refugees",
+    "url_hash": "ef91eac1dd6a6b62fbcf11597538a59c",
+    "ut": 1630069103,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "MK Stalin",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "Rule 110",
+        "start_end": [
+          42,
+          44
         ]
       }
     ]
