@@ -2187,6 +2187,33 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Delta variant may cause symptomless heart failure:Cardiologist",
+    "source": "www.dailymirror.lk",
+    "snippet": "It has been revealed that the Delta variant could cause heart failure in individuals with no previous history of any chronic ailment including cholesterol hypertension or diabetes and without developing any symptoms of COVID-19. Senior Cardiologist of the ...",
+    "url": "https://www.dailymirror.lk/latest_news/Delta-variant-may-cause-symptomless-heart-failureCardiologist/342-219112",
+    "url_hash": "0d4b5f0aabd42a4ea6e8824587fec87d",
+    "ut": 1630044470,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Cardiologist",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Down Under With Imran Salibo | Episode 02 |Exploring Hidden Melbourne Featuring - Aaron Atton",
     "source": "www.dailymirror.lk",
     "snippet": "Join Imran Saibo, as he takes you through Melborune and its elite. #DailyMirror #SriLanka #Colombo #DailyMirrorOnline #Personalities #Melbourne #Austrailia #ImranSaibo #DownUnder",
@@ -3594,6 +3621,57 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Sri Lanka Extends Covid-19 Lockdown Till September 6 as Deaths Rise",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka on Friday extended its nation-wide lockdown till September 6, amidst a surge in the number of Covid-19 deaths and mounting pressure from medics and the Opposition to step up efforts to fight the raging third wave of coronavirus.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-extends-covid-19-lockdown-till-september-6-as-deaths-rise/ar-AANOeqX",
+    "url_hash": "e9376ea206833d1c5b2c136fc062c2c0",
+    "ut": 1630062479,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 6",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Opposition",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Sri Lanka extends Covid-19 lockdown till September 6 amid spike in death rate",
     "source": "www.hindustantimes.com",
     "snippet": "Sri Lanka, which has witnessed a series of lockdowns and curfews to contain the spread of Covid-19 in the country, has extended travel curbs till September 6 as deaths rise. The tourism sector, which generates a huge quantum of revenue for the island nation,",
@@ -4575,6 +4653,84 @@
     "title": "214 Covid deaths reported: Death toll surges to 8,371.",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 214 more COVID-19 related deaths that occurred yesterday (26) were confirmed by the Director-General of Health Services today pushing the death toll to 8,371. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/214-Covid-deaths-reported-Death-toll-surges-to-8-371/108-219165",
+    "url_hash": "53d0ad3db4d1a884243d657614333844",
+    "ut": 1630076870,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "214",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8,371",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Arkansas schools have 3,100 active COVID cases",
+    "source": "www.therepublic.com",
+    "snippet": "Newly released numbers from Arkansas show that more than 3,100 active coronavirus cases have been reported in public schools among students and employees",
+    "url": "http://www.therepublic.com/2021/08/27/virus-outbreak-the-latest-2/",
+    "url_hash": "b9ddf0ca461ce641d3e48a5971e61517",
+    "ut": 1630076891,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arkansas",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 3,100",
+        "start_end": [
+          7,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "214 Covid deaths reported: Death toll surges to 8,371.",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 214 more COVID-19 related deaths that occurred yesterday (26) were confirmed by the Director-General of Health Services today pushing the death toll to 8,371. ..",
     "url": "https://www.dailymirror.lk/latest_news/214-Covid-deaths-reported-Death-toll-surges-to-8-371/342-219165",
     "url_hash": "44cf16087353481fb580d041dfda905f",
     "ut": 1630076894,
@@ -5240,6 +5396,68 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Italian premiere decries unequal vaccine access",
+    "source": "www.stltoday.com",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines, especially in Africa, are making it harder to end the",
+    "url": "https://www.stltoday.com/news/world/the-latest-arkansas-schools-have-3-100-active-covid-cases/article_328a548c-192e-58f6-8d35-ba7802353616.html",
+    "url_hash": "72a5d3b1b9aeddd56f9a007473687d19",
+    "ut": 1630080487,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Italian premier decries unequal vaccine access",
+    "source": "www.therepublic.com",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines are making it harder to end the pandemic",
+    "url": "http://www.therepublic.com/2021/08/27/virus-outbreak-the-latest-5/",
+    "url_hash": "2e01feaf4d77a4f304dd339de44f2f0e",
+    "ut": 1630080491,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Sudan receives 200,000 vaccine doses from France",
     "source": "www.startribune.com",
     "snippet": "Sudan received on Friday a shipment of 218,400 doses of the AstraZeneca COVID-19 vaccine as a donation from France, according to UNICEF.",
@@ -5774,6 +5992,57 @@
         "start_end": [
           8,
           9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
+    "source": "www.therepublic.com",
+    "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine",
+    "url": "http://www.therepublic.com/2021/08/27/virus-outbreak-the-latest-7/",
+    "url_hash": "0b78bfee271dc926ae715773c76d6445",
+    "ut": 1630084079,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 17",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
@@ -6789,6 +7058,65 @@
   },
   {
     "date": "2021-08-27",
+    "title": "'Lord Ted' Dexter's association with Sri Lanka cricket",
+    "source": "www.ft.lk",
+    "snippet": "Former England captain and MCC President Ted Dexter who died at the age of 86 has been described without doubt as the most glamorous English cricketer of his generation. Dexter played 62 ..",
+    "url": "https://www.ft.lk/sports/Lord-Ted-Dexter-s-association-with-Sri-Lanka-cricket/23-722333",
+    "url_hash": "71efde3f4455edcac37017e63d9b83a9",
+    "ut": 1630091291,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MCC",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ted Dexter",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the age of 86",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "LANGUAGE",
+        "text": "English",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "62",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
     "source": "www.nhregister.com",
     "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
@@ -6923,6 +7251,151 @@
   },
   {
     "date": "2021-08-27",
+    "title": "A war without the knowledge of the terrain",
+    "source": "www.dailymirror.lk",
+    "snippet": "The opposition that has been rightly blaming the government's failure to restrict the people's movement during the last Sinhala and Hindu New Year Period which resulted in the third wave of the COVID 19 in the country,",
+    "url": "https://www.dailymirror.lk/opinion/A-war-without-the-knowledge-of-the-terrain/172-219192",
+    "url_hash": "f037f145e594390e6d64c38f7f81627f",
+    "ut": 1630094870,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Hindu New Year Period",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the COVID 19",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Bishops make call to unite in fight against Covid",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Right Reverend Keerthisiri Fernando (Bishop of Kurunagala and The Presiding Bishop of Church of Ceylon) together with Right Reverend Dushantha Rodrigo (Bishop of Colombo) issuing a joint statement on August 24 state that the Christian community should be aware of the alarming covid situation in the country and take all measures to adhere to strict health guidelines.",
+    "url": "https://www.dailymirror.lk/news-features/Bishops-make-call-to-unite-in-fight-against-Covid/131-219190",
+    "url_hash": "0a58b625b303eda9e8b31eb84520566e",
+    "ut": 1630094870,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Keerthisiri Fernando",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kurunagala",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Presiding Bishop of Church of Ceylon",
+        "start_end": [
+          10,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dushantha Rodrigo",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 24",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Christian",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Dreamron ties up with Stephanie as Brand Ambassador",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Miss Sri Lanka, Stephanie Siriwardhana was appointed as the new Brand Ambassador recently by Dreamron, the cosmetics, hair care anf skin care brand in Sri Lanka. ..",
+    "url": "https://www.dailymirror.lk/other/Dreamron-ties-up-with-Stephanie-as-Brand-Ambassador/117-219203",
+    "url_hash": "c8bcb035f1f2997a897262b7dc65beb3",
+    "ut": 1630094870,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Stephanie Siriwardhana",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Brand",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dreamron",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Colombo stock market's memorable run persists",
     "source": "www.ft.lk",
     "snippet": "Turnover soars to 6-month high of Rs. 16.5 b as investors remain bullish Indices close on the up despite mid-day profit taking Expolanka stretches its market leadership further ..",
@@ -7046,6 +7519,169 @@
         "start_end": [
           28,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "South Korea becomes first major Asian economy to raise interest rates",
+    "source": "www.dailymirror.lk",
+    "snippet": "South Korea has become the first major Asian economy to raise interest rates since the coronavirus pandemic began. ..",
+    "url": "https://www.dailymirror.lk/business-news/South-Korea-becomes-first-major-Asian-economy-to-raise-interest-rates/273-219205",
+    "url_hash": "5394f49c60df7edbb40d5b1425e5c467",
+    "ut": 1630098470,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Korea",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Samsung introduces Smart Keyboard Trio 500",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a mobile-first world, learning and working while on the go has become commonplace. When you need the efficiency and comfort of typing on a physical keyboard but don't want to carry around your laptop,",
+    "url": "https://www.dailymirror.lk/other/Samsung-introduces-Smart-Keyboard-Trio-500/117-219204",
+    "url_hash": "23391994e226ebf527af8eea2d7afd5d",
+    "ut": 1630098470,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Apple Chief Executive Tim Cook gets US $ 750mn payout",
+    "source": "www.dailymirror.lk",
+    "snippet": "Apple Chief Executive Tim Cook has received more than five million shares in the technology giant, as he marks 10 years in the job. ..",
+    "url": "https://www.dailymirror.lk/business-news/Apple-Chief-Executive-Tim-Cook-gets-US-750mn-payout/273-219207",
+    "url_hash": "62ad6089631283068d6e5b78e3dabb80",
+    "ut": 1630098470,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Apple",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tim Cook",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than five million",
+        "start_end": [
+          7,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Congo's ex-health minister arrested",
+    "source": "www.kob.com",
+    "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
+    "url": "https://www.kob.com/business-news/the-latest-denmark-lowers-covid-threat-citing-vaccinations/6219566/",
+    "url_hash": "d82acfd5e7f84d8ada6b79469737d2e9",
+    "ut": 1630098487,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.K.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "592,880",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the British High Commission",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abuja",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          44,
+          45
         ]
       }
     ]
