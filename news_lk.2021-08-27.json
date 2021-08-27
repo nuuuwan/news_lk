@@ -111,6 +111,41 @@
   },
   {
     "date": "2021-08-27",
+    "title": "A TRADITION THAT MATTERS",
+    "source": "www.msn.com",
+    "snippet": "Sri Lankan Forest Monk Tradition claims a long history. As the oldest Theravada Buddhist country in the world, several forest traditions have existed, disappeared and re-emerged circularly in Sri Lanka.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/a-tradition-that-matters/ar-AANN2FJ",
+    "url_hash": "cfa7e0852cbd203579c55a4019c7bd0a",
+    "ut": 1630022910,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Forest Monk Tradition",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Theravada Buddhist",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Dreamron in LMD's Most Respected Entities in Sri Lanka for 2021",
     "source": "island.lk",
     "snippet": "Dreamron, the largest exporter of cosmetics in Sri Lanka with a significant local presence, made its entry into \"Sri Lanka's Most Respected Entities\" by LMD (Lanka Monthly Digest) in its special edition which was released in August, 2021. This ...",
@@ -1316,6 +1351,33 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Pettah lightened up again...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Vendors and people in Pettah, the trade hub of the city, are seen equally busy handling, loading and unloading essential goods despite the quarantine curfew and inclement weather conditions. Pix by Pradeep Dilrukshana .",
+    "url": "https://www.dailymirror.lk/caption_story/Pettah-lightened-up-again/110-219147",
+    "url_hash": "fa2c308ac85b437044a04a2ba44b31e4",
+    "ut": 1630040901,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pettah",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Sri Lanka expecting 2 million more Sinopharm jabs tomorrow",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka will receive two million more doses of the Sinopharm COVID-19 vaccine tomorrow (August 28), the Embassy of China in Colombo said in a tweet",
@@ -1566,6 +1628,124 @@
   },
   {
     "date": "2021-08-27",
+    "title": "CSE creates market history with ASPI crossing 9000 points",
+    "source": "www.dailymirror.lk",
+    "snippet": "For the first time in market history, the All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) crossed the 9000 point mark in early trade today. ..",
+    "url": "https://www.dailymirror.lk/business_247/CSE-creates-market-history-with-ASPI-crossing-9000-points/395-219150",
+    "url_hash": "8dd313245aca43cfd7758491f72b86ba",
+    "ut": 1630044501,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "9000",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "SL to receive another 2 mn Sinopharm vaccines tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "Another two million doses of Sinopharm vaccines will arrive in Sri Lanka tomorrow (28), the Chinese Embassy in Sri Lanka said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-to-receive-another-2-mn-Sinopharm-vaccines-tomorrow/108-219148",
+    "url_hash": "62f04299afc30379fcdce996a965a069",
+    "ut": 1630044501,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two million",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "28",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Chinese Embassy",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Sri Lankans can now obtain free medical advice on COVID-19 Via SLT-MOBITEL's 'Doc Call 247'",
     "source": "menafn.com",
     "snippet": "MOBITEL, the National ICT, Telecommunications and Mobile Services Provider in support of the nation's battle against the C",
@@ -1587,6 +1767,65 @@
         "start_end": [
           2,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "China to continue extending its full support to Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "China says it will continue extending its full support to Sri Lanka. The assurance was given when the Chinese Ambassador to Sri Lanka Qi Zhenhong called on Speaker Mahinda Yapa Abeywardena. During the meeting held at the Speaker's official residence,",
+    "url": "https://colombogazette.com/2021/08/27/china-to-continue-extending-its-full-support-to-sri-lanka/",
+    "url_hash": "7c1717696bafdda6d5ac69132db09f9f",
+    "ut": 1630049873,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qi Zhenhong",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Yapa Abeywardena",
+        "start_end": [
+          29,
+          32
         ]
       }
     ]
