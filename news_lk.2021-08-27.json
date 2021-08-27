@@ -103,6 +103,49 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Indian tourists can visit Sri Lanka following protocols",
+    "source": "news.webindia123.com",
+    "snippet": "Tourism Minister Prasanna Ranatunga said that giving priority to the health guidelines, fully vaccinated tourists from India and several other countries would be allowed to enter the island nation. \"Tourists from India are welcome to visit Sri Lanka and we are making arrangements to allow them to enter the country following strict health guidelines,",
+    "url": "https://news.webindia123.com/news/Articles/Health/20210827/3809595.html",
+    "url_hash": "009cf8629456fd04e70e0320a70023cf",
+    "ut": 1630022899,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Same Court issues judgements that are chalk and cheese",
     "source": "www.msn.com",
     "snippet": "A petitioner selling jewellery, Crest Gems Ltd., refused to pay municipal tax contending that the relevant legislation, Section 247 of the Municipal Council Ordinance, in the Sinhala version of it states that a karmanthaya or industry has to pay tax,",
@@ -3661,6 +3704,65 @@
   },
   {
     "date": "2021-08-27",
+    "title": "14,152 Covid patients under home quarantine: Tertiary Care Services Director",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 14,152 Covid patients are being kept under home quarantine, while 36,220 patients had fully recovered after home quarantine by now, Director of the Tertiary Care Services Dr. Avanthi Karunarathne said today.",
+    "url": "https://www.dailymirror.lk/latest_news/14-152-Covid-patients-under-home-quarantine-Tertiary-Care-Services-Director/342-219158",
+    "url_hash": "0855275b4bae79052afe2d7aff987e73",
+    "ut": 1630066090,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "14,152",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "36,220",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tertiary Care Services",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Avanthi Karunarathne",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Germany drops Spain from virus high-risk list",
     "source": "tulsaworld.com",
     "snippet": "BERLIN\u2014 Germany is dropping all of Spain from its list of \"high-risk areas\" for COVID-19, meaning that unvaccinated people arriving from popular Spanish tourist destinations will no longer need to",
@@ -4301,6 +4403,89 @@
   {
     "date": "2021-08-27",
     "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
+    "source": "www.middletownpress.com",
+    "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
+    "url": "https://www.middletownpress.com/business/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
+    "url_hash": "c606b64c6cb26e77203f7bf4e0069d6c",
+    "ut": 1630076907,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.K.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "592,880",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the British High Commission",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abuja",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
     "source": "www.sfgate.com",
     "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
     "url": "https://www.sfgate.com/business/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
@@ -4579,6 +4764,148 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Sudan receives 200,000 vaccine doses from France",
+    "source": "www.startribune.com",
+    "snippet": "Sudan received on Friday a shipment of 218,400 doses of the AstraZeneca COVID-19 vaccine as a donation from France, according to UNICEF.",
+    "url": "https://www.startribune.com/the-latest-sudan-receives-200000-vaccine-doses-from-france/600091421/",
+    "url_hash": "db063c5e1f2101a64cbc4cdc2fd032f9",
+    "ut": 1630080511,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sudan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "218,400",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNICEF",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Arizona has had more than 1M coronavirus cases",
+    "source": "madison.com",
+    "snippet": "Arizona is the 13th U.S. state to hit that level of cases after reporting its first case in January of last year. Arizona is 13th in the country in cases per 100,000 people. Arizona on Friday also reported 63 more COVID-19 deaths.",
+    "url": "https://madison.com/business/the-latest-arizona-has-had-more-than-1m-coronavirus-cases/article_b99843e9-0db7-58f5-8a09-2a2ef5c1ced7.html",
+    "url_hash": "e9c592d930e9d55f659265434a23153b",
+    "ut": 1630080511,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January of last year",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "63",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
     "source": "www.seattlepi.com",
     "snippet": "The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country. \"The epidemic is under control.",
@@ -4839,6 +5166,481 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Dhammika Ratanweera",
+    "source": "dailynews.lk",
+    "snippet": "Oarsman Mahesh Jayakody will be Sri Lanka's first Para Athlete to be seen in action at the 16th Tokyo Games in Japan tomorrow.Jayakody has already created history as the first yachtsman to represent...",
+    "url": "https://dailynews.lk/line/dhammika-ratanweera",
+    "url_hash": "8fef10f5aa04da52000e39bea253b940",
+    "ut": 1630084334,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "16th",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Tokyo Games",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first yachtsman",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
+    "source": "tulsaworld.com",
+    "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine.",
+    "url": "https://tulsaworld.com/business/the-latest-half-of-us-kids-ages-12---17-got-at-least-1/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
+    "url_hash": "e46315e737b0e7218b152b4dee71b26c",
+    "ut": 1630084399,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 17",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
+    "source": "www.stltoday.com",
+    "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine.",
+    "url": "https://www.stltoday.com/business/the-latest-half-of-us-kids-ages-12---17-got-at-least-1/article_328a548c-192e-58f6-8d35-ba7802353616.html",
+    "url_hash": "396d08312530ab06530ad9e0534ff7fd",
+    "ut": 1630084411,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 17",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: 2 new studies look at COVID safety in schools",
+    "source": "tulsaworld.com",
+    "snippet": "U.S. health officials say two new studies from California provide more evidence that schools can open safely if they do the right things.",
+    "url": "https://tulsaworld.com/news/world/the-latest-2-new-studies-look-at-covid-safety-in-schools/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
+    "url_hash": "d9faaef481d40f74505e3a242151b27c",
+    "ut": 1630085119,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "California",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: 2 new studies look at COVID safety in schools",
+    "source": "tulsaworld.com",
+    "snippet": "U.S. health officials say two new studies from California provide more evidence that schools can open safely if they do the right things.",
+    "url": "https://tulsaworld.com/business/the-latest-2-new-studies-look-at-covid-safety-in-schools/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
+    "url_hash": "e8ea508d4940740de7b536573bc38dff",
+    "ut": 1630085127,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "California",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
+    "source": "www.sfgate.com",
+    "snippet": "COPENHAGEN, Denmark \u2014 The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country. \"The epidemic is under control.",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
+    "url_hash": "7fedc483f84cbd16ed41525c8e063b02",
+    "ut": 1630085599,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Danish",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
+    "source": "accesswdun.com",
+    "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine",
+    "url": "https://accesswdun.com/article/2021/8/1033747",
+    "url_hash": "81e358730f1b0655c0e01696f27fcfb7",
+    "ut": 1630086087,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 17",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: 2 new studies look at COVID safety in schools",
+    "source": "www.stltoday.com",
+    "snippet": "The Bentonville, Springdale, Rogers, Cabot and Fort Smith districts all reported more than 100 ... Getting the shot in Denmark is voluntary and is available to people 12 and older. COLOMBO, Sri Lanka \u2014 Sri Lanka has extended its current lockdown until ...",
+    "url": "https://www.stltoday.com/news/world/the-latest-2-new-studies-look-at-covid-safety-in-schools/article_328a548c-192e-58f6-8d35-ba7802353616.html",
+    "url_hash": "5f6c44b8142e3bf8af0e35ce5ae194e4",
+    "ut": 1630087051,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabot",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Fort Smith",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 100",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
+    "source": "www.ctpost.com",
+    "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
+    "url": "https://www.ctpost.com/business/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
+    "url_hash": "9b424d176d04bbb76d573e30f8a704cf",
+    "ut": 1630087339,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.K.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "592,880",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the British High Commission",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abuja",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          44,
+          45
         ]
       }
     ]
