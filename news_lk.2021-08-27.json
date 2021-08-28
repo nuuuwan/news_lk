@@ -9895,6 +9895,33 @@
   },
   {
     "date": "2021-08-27",
+    "title": "S&P revises Sri Lanka's outlook to negative but affirms CCC+/C ratings",
+    "source": "www.ft.lk",
+    "snippet": "Says Sri Lanka's external position has weakened due to falling reserves and weak demand for Sri Lanka Development Bonds; These developments continue to affect investor confidenc",
+    "url": "https://www.ft.lk/front-page/S-P-revises-Sri-Lanka-s-outlook-to-negative-but-affirms-CCC-C-ratings/44-722350",
+    "url_hash": "93b4c8ac1e7e46f5ef7b126581abcf24",
+    "ut": 1630094873,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Development Bonds",
+        "start_end": [
+          16,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "He believed in taking care of orphans",
     "source": "www.dailymirror.lk",
     "snippet": "Singha Weerasekera a renowned business personality and a philanthropist passed away at the age of 91 years on May 26, 2021. ..",
@@ -10852,6 +10879,57 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Sri Lanka extends island-wide quarantine curfew",
+    "source": "www.lankaweb.com",
+    "snippet": "Sri Lanka has extended the current island-wide quarantine curfew orders by a week, in a bid to curb the soaring COVID-19 figures in the country prompted by the rapid spread of the Delta variant. Minister of Health Keheliya Rambukwella tweeted that the extended quarantine curfew orders are effective until 4.",
+    "url": "https://www.lankaweb.com/news/items/2021/08/27/sri-lanka-extends-island-wide-quarantine-curfew/",
+    "url_hash": "c2000d07c7e516ceb4dffaf20869ff53",
+    "ut": 1630105659,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a week",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Keheliya Rambukwella",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4",
+        "start_end": [
+          53,
+          54
         ]
       }
     ]
