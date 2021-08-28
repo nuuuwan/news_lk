@@ -5073,6 +5073,89 @@
   {
     "date": "2021-08-27",
     "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
+    "source": "www.dailyjournal.net",
+    "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
+    "url": "http://www.dailyjournal.net/2021/08/27/virus-outbreak-the-latest/",
+    "url_hash": "bb5d21bef5118d84eee7bd7695a23e9e",
+    "ut": 1630076894,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.K.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "592,880",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the British High Commission",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abuja",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
     "source": "www.theintelligencer.com",
     "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
     "url": "https://www.theintelligencer.com/business/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
@@ -6615,6 +6698,57 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
+    "source": "www.stltoday.com",
+    "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine.",
+    "url": "https://www.stltoday.com/news/world/the-latest-arizona-has-had-more-than-1m-coronavirus-cases/article_328a548c-192e-58f6-8d35-ba7802353616.html",
+    "url_hash": "a5be0894ef0fbbe97d8a239821569f9b",
+    "ut": 1630084108,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 17",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
@@ -8788,6 +8922,111 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "BPPL delivers strong 1Q as diversification strategy yields results",
+    "source": "www.dailymirror.lk",
+    "snippet": "BPPL Holdings PLC, Sri Lanka's largest brush-ware maker and an exporter, continued to see robust sales and profits during the three months ended in June 2021, as the group is seeing its portfolio diversification strategy, initiated few years ago by its ...",
+    "url": "https://www.dailymirror.lk/business-news/BPPL-delivers-strong-1Q-as-diversification-strategy-yields-results/273-219209",
+    "url_hash": "4a6f862ed62efd56fb48775501f037c5",
+    "ut": 1630102084,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "BPPL Holdings PLC",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the three months ended in June 2021",
+        "start_end": [
+          24,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "few years ago",
+        "start_end": [
+          43,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Abans brings wide range of Italy's ELBA kitchen appliances to Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "ELBA kitchen appliances are available exclusively at Abans showrooms island wide and BuyAbans.com with a trusted warranty and excellent",
+    "url": "https://www.dailymirror.lk/other/Abans-brings-wide-range-of-Italy%E2%80%99s-ELBA-kitchen-appliances-to-Sri-Lanka/117-219201",
+    "url_hash": "057e5f79be6dfac415144f44dc0ae782",
+    "ut": 1630102094,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Abans",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BuyAbans.com",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Study links delta with more hospitalizations",
+    "source": "www.sfchronicle.com",
+    "snippet": "The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country. \"The epidemic is under control.",
+    "url": "https://www.sfchronicle.com/news/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
+    "url_hash": "fcc2f057704a3970dd63d4315ea0ae09",
+    "ut": 1630102103,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Danish",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
