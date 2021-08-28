@@ -3489,6 +3489,49 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Study links delta with more hospitalizations",
+    "source": "www.wnct.com",
+    "snippet": "BERLIN\u2014 Germany is dropping all of Spain from its list of \"high-risk areas\" for COVID-19, meaning that unvaccinated people arriving from popular Spanish tourist destinations will no longer need to",
+    "url": "https://www.wnct.com/on-your-side/health-watch/the-latest-denmark-lowers-covid-threat-citing-vaccinations/",
+    "url_hash": "73a9034b4961dafc7efd699c6f40a38f",
+    "ut": 1630058903,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BERLIN",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Germany",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Spain",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Spanish",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Germany drops Spain from virus high-risk list",
     "source": "www.texomashomepage.com",
     "snippet": "BERLIN\u2014 Germany is dropping all of Spain from its list of \"high-risk areas\" for COVID-19, meaning that unvaccinated people arriving from popular Spanish tourist destinations will no longer need to",
@@ -6857,6 +6900,92 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Sri Lanka extends island-wide quarantine curfew",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has extended the current island-wide quarantine curfew orders by a week, in a bid to curb the soaring COVID-19 figures in the country prompted by the rapid spread of the Delta variant",
+    "url": "http://www.adaderana.lk/news/76460/sri-lanka-extends-island-wide-quarantine-curfew",
+    "url_hash": "81802063caf30a74e3dcbf306fc3b74a",
+    "ut": 1630084093,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a week",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Cases spike, Liberty University to quarantine",
+    "source": "www.wsoctv.com",
+    "snippet": "Liberty University announced a temporary campus-wide quarantine Thursday amid a spike in COVID-19 cases. News outlets report that the quarantine is set to begin Monday and last until Sept. 10. The university's online COVID-19 dashboard showed 159 known active cases among students,",
+    "url": "https://www.wsoctv.com/news/world/latest-cases-spike/Q6VKRFVBTLWPCZUPHMFOQ74OFU/",
+    "url_hash": "f0a78aa79f4f30ed9a008e34a76da35d",
+    "ut": 1630084107,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Liberty University",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 10",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "159",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
     "source": "www.stltoday.com",
     "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine.",
@@ -7585,6 +7714,41 @@
     "url": "https://tulsaworld.com/news/world/the-latest-judge-says-florida-schools-can-mandate-masks/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
     "url_hash": "eeb6cc7ccfc093371c3576ad2ec45cf3",
     "ut": 1630087679,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Judge says Florida schools can mandate masks",
+    "source": "madison.com",
+    "snippet": "School districts in Florida may impose mask mandates, a judge said Friday, ruling that Gov. Ron DeSantis overstepped his authority by issuing an executive order banning",
+    "url": "https://madison.com/business/the-latest-judge-says-florida-schools-can-mandate-masks/article_b99843e9-0db7-58f5-8a09-2a2ef5c1ced7.html",
+    "url_hash": "c17b49b225e7e5d499587a0556dc8ed9",
+    "ut": 1630087693,
     "ent_info_list": [
       {
         "label": "GPE",
@@ -8558,6 +8722,41 @@
         "start_end": [
           28,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "He believed in taking care of orphans",
+    "source": "www.dailymirror.lk",
+    "snippet": "Singha Weerasekera a renowned business personality and a philanthropist passed away at the age of 91 years on May 26, 2021. ..",
+    "url": "https://www.dailymirror.lk/news-features/He-believed-in-taking-care-of-orphans/131-219184",
+    "url_hash": "d487ab7115675fbedc6ff6470556d787",
+    "ut": 1630094884,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Singha Weerasekera",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the age of 91 years",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 26, 2021",
+        "start_end": [
+          18,
+          22
         ]
       }
     ]
