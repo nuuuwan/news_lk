@@ -3403,6 +3403,57 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Sri Lanka locks down till Sep 6",
+    "source": "www.daijiworld.com",
+    "snippet": "Sri Lanka is currently experiencing a Covid-19 surge due to the Delta variant. As per the latest records, the country registered 209 new deaths, the highest in a day so far, with 4,597 fresh cases. The island nation's overall Covid caseload and death toll ...",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=867427",
+    "url_hash": "41f34ae05d77d0543f924eec192b0f32",
+    "ut": 1630058893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "209",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,597",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Covid",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Vaccination rollout at Viharamahadevi park on full swing",
     "source": "www.dailymirror.lk",
     "snippet": "People living in Colombo area are seen receiving their Chinese Sinopharm COVID-19 vaccine at the Viharamahadevi Park open air vaccination centre today. Retired soldiers of the SL Army Medical Corps participated in the voluntary programme.",
@@ -3526,6 +3577,33 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
+    "source": "www.dailyjournal.net",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines are making it harder to end the pandemic",
+    "url": "http://www.dailyjournal.net/2021/08/27/virus-outbreak-the-latest-3/",
+    "url_hash": "f0c8bda96a8f911d35add34146b5180d",
+    "ut": 1630058907,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
         ]
       }
     ]
@@ -3663,6 +3741,41 @@
         "start_end": [
           46,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
+    "source": "www.conchovalleyhomepage.com",
+    "snippet": "The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country. \"The",
+    "url": "https://www.conchovalleyhomepage.com/news/national-news/the-latest-denmark-lowers-covid-threat-citing-vaccinations/",
+    "url_hash": "7a9edb1c826338687593b13eca52249d",
+    "ut": 1630058921,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Danish",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
@@ -4460,6 +4573,49 @@
     "url": "https://tulsaworld.com/news/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
     "url_hash": "ad0dee0baef43fa3a83cfe92179a0cb4",
     "ut": 1630066091,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BERLIN",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Germany",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Spain",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Spanish",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Germany drops Spain from virus high-risk list",
+    "source": "madison.com",
+    "snippet": "BERLIN\u2014 Germany is dropping all of Spain from its list of \"high-risk areas\" for COVID-19, meaning that unvaccinated people arriving from popular Spanish tourist destinations will no longer need to",
+    "url": "https://madison.com/news/world/the-latest-germany-drops-spain-from-virus-high-risk-list/article_b99843e9-0db7-58f5-8a09-2a2ef5c1ced7.html",
+    "url_hash": "0ea68bc5712451316d947c31465b4474",
+    "ut": 1630066093,
     "ent_info_list": [
       {
         "label": "GPE",
@@ -5525,6 +5681,41 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Arkansas schools have 3,100 active COVID cases",
+    "source": "tulsaworld.com",
+    "snippet": "LITTLE ROCK, Ark. \u2014 More than 3,100 active coronavirus cases have been reported in Arkansas public schools among students and employees, according to newly released numbers from the state.",
+    "url": "https://tulsaworld.com/news/world/the-latest-arkansas-schools-have-3-100-active-covid-cases/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
+    "url_hash": "61b436e25262a989a72072a5b152fd92",
+    "ut": 1630076907,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Ark.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "More than 3,100",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arkansas",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
     "source": "www.sfgate.com",
     "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
@@ -6193,6 +6384,41 @@
         "start_end": [
           2,
           4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Italian premier decries unequal vaccine access",
+    "source": "madison.com",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines, especially in Africa, are making it harder to end the",
+    "url": "https://madison.com/news/world/the-latest-italian-premier-decries-unequal-vaccine-access/article_b99843e9-0db7-58f5-8a09-2a2ef5c1ced7.html",
+    "url_hash": "8c0388340a4f7d5f75cda035340fcb06",
+    "ut": 1630080507,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          23,
+          24
         ]
       }
     ]
@@ -7812,6 +8038,49 @@
       {
         "label": "PERSON",
         "text": "Ron DeSantis",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Investing in a blue economy: Sri Lanka's natural wealth, resilience, and sustainable growth",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka has territorial waters of 21,500 km2 and an exclusive economic zone of 517,000 km2, almost eight times the country's land area. This coastal and marine environment harbours a variety of natural resources and ecosystems,",
+    "url": "https://www.ft.lk/columns/Investing-in-a-blue-economy-Sri-Lanka-s-natural-wealth-resilience-and-sustainable-growth/4-722311",
+    "url_hash": "763ae4717530db573f2e9d7d2463b8d2",
+    "ut": 1630087693,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21,500",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "517,000",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "almost eight",
         "start_end": [
           17,
           19
