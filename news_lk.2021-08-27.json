@@ -7823,6 +7823,65 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Arkansas schools have 3,100 active COVID cases",
+    "source": "www.dailyjournal.net",
+    "snippet": "The Bentonville, Springdale, Rogers, Cabot and Fort Smith districts all reported more than 100 ... Getting the shot in Denmark is voluntary and is available to people 12 and older. COLOMBO, Sri Lanka \u2014 Sri Lanka has extended its current lockdown until ...",
+    "url": "http://www.dailyjournal.net/2021/08/27/virus-outbreak-the-latest-2/",
+    "url_hash": "1110c2f778f05c771c2d615d791960cd",
+    "ut": 1630084114,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabot",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Fort Smith",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 100",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: 2 new studies look at COVID safety in schools",
     "source": "madison.com",
     "snippet": "U.S. health officials say two new studies from California provide more evidence that schools can open safely if they do the right things.",
