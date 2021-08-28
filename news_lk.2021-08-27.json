@@ -7485,6 +7485,41 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Judge says Florida schools can mandate masks",
+    "source": "tulsaworld.com",
+    "snippet": "School districts in Florida may impose mask mandates, a judge said Friday, ruling that Gov. Ron DeSantis overstepped his authority by issuing an executive order banning",
+    "url": "https://tulsaworld.com/news/world/the-latest-judge-says-florida-schools-can-mandate-masks/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
+    "url_hash": "eeb6cc7ccfc093371c3576ad2ec45cf3",
+    "ut": 1630087679,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Denmark Lowers COVID Threat, Citing Vaccinations",
     "source": "www.usnews.com",
     "snippet": "School districts in Florida may impose mask mandates, a judge said Friday, ruling that Gov. Ron DeSantis overstepped his authority by issuing an executive order banning the mandates. Leon County Circuit Judge John C.",
@@ -8182,6 +8217,65 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Prof.Malavige to talk on COVID-19 and the way forward",
+    "source": "www.dailymirror.lk",
+    "snippet": "The 16th Sujata Jayawardena Memorial Oration will be delivered on August 30 (Monday) by Professor Neelika Malavige on the topic \"The Covid-19 Pandemic: The way forward through impactful research,\" according to a press release issued by The Alumni Association of University of Colombo.",
+    "url": "https://www.dailymirror.lk/plus/Prof-Malavige-to-talk-on-COVID-19-and-the-way-forward/352-219188",
+    "url_hash": "9fc1efb1a7ad54afa7d9398086ad016a",
+    "ut": 1630094869,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "16th",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Sujata Jayawardena Memorial Oration",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Neelika Malavige",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Alumni Association of University of Colombo",
+        "start_end": [
+          42,
+          49
         ]
       }
     ]
