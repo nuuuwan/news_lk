@@ -3000,6 +3000,73 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Indian tourists can visit Sri Lanka following protocols",
+    "source": "netindia123.com",
+    "snippet": "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International",
+    "url": "https://netindia123.com/articles/showdetails.asp?id=3809595&n_date=20210827&cat=Health",
+    "url_hash": "52da171b39597b0abcc304655f04ce5c",
+    "ut": 1630052722,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Yuzvendra Chahal's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "75",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Twenty20 International",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "76 individuals including Christian and Catholic priests call for the release of Hijaz",
     "source": "www.dailymirror.lk",
     "snippet": "In a public petition signed by 75 individuals including Christian and Catholic priests, they have called upon members of the Human Rights Council and all members of the international community to urge the Sri Lankan government to release Attorney-at-law Hijaz Hizbullah forthwith.",
@@ -3588,6 +3655,41 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Study links delta with more hospitalizations",
+    "source": "wtop.com",
+    "snippet": "The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country.",
+    "url": "https://wtop.com/asia/2021/08/the-latest-denmark-lowers-covid-threat-citing-vaccinations/",
+    "url_hash": "51716e312efc066f7097557edc46c06c",
+    "ut": 1630059932,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Danish",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
@@ -4306,6 +4408,108 @@
         "start_end": [
           4,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Germany drops Spain from virus high-risk list",
+    "source": "www.dailyjournal.net",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines are making it harder to end the pandemic",
+    "url": "http://www.dailyjournal.net/2021/08/27/virus-outbreak-the-latest-4/",
+    "url_hash": "296c3682fdfb6057ffe76c984678de71",
+    "ut": 1630067136,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Sri Lanka extends curfew as virus toll hits new record",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka on Friday extended a stringent coronavirus curfew for another week after reporting its highest daily death toll of more than 200. A nationwide lockdown had been due to end Tuesday but Health Minister Keheliya Rambukwella said it would be extended until September 6.",
+    "url": "https://www.msn.com/en-za/travel/news/sri-lanka-extends-curfew-as-virus-toll-hits-new-record/ar-AANOkoh",
+    "url_hash": "4831d2f13a6899f7b519fc0251f475cb",
+    "ut": 1630067151,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 200",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 6",
+        "start_end": [
+          44,
+          46
         ]
       }
     ]
@@ -5414,6 +5618,65 @@
         "start_end": [
           7,
           10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
+    "source": "tulsaworld.com",
+    "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of",
+    "url": "https://tulsaworld.com/news/world/the-latest-uk-donates-592k-covid-vaccine-doses-to-nigeria/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
+    "url_hash": "1ee9ba1ca501e5b84d2c196db994d5e1",
+    "ut": 1630077922,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.K.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "592,880",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the British High Commission",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abuja",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
@@ -6570,6 +6833,81 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
+    "source": "www.wboc.com",
+    "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine. \"We have now hit a major milestone,\" White House coronavirus coordinator Jeff Zients told reporters at a Friday briefing.",
+    "url": "https://www.wboc.com/story/44614947/the-latest-half-of-us-kids-ages-12-17-got-at-least-1-shot",
+    "url_hash": "89f0793a49d1103b36cf84ea9bfd4ee7",
+    "ut": 1630085122,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 17",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "White House",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jeff Zients",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: 2 new studies look at COVID safety in schools",
     "source": "tulsaworld.com",
     "snippet": "U.S. health officials say two new studies from California provide more evidence that schools can open safely if they do the right things.",
@@ -7015,6 +7353,108 @@
         "start_end": [
           17,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Cases spike, Liberty University to quarantine",
+    "source": "www.dailyjournal.net",
+    "snippet": "Liberty University announced a temporary campus-wide quarantine Thursday amid a spike in COVID-19 cases. News outlets report that the quarantine is set to begin Monday and last until Sept. 10. The university's online COVID-19 dashboard showed 159 known active cases among students,",
+    "url": "http://www.dailyjournal.net/2021/08/27/virus-outbreak-the-latest-9/",
+    "url_hash": "77ebe7562a009d2cdefcbed25df24ea8",
+    "ut": 1630088722,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Liberty University",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 10",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "159",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
+    "source": "www.myrtlebeachonline.com",
+    "snippet": "Liberty University announced a temporary campus-wide quarantine Thursday amid a spike in COVID-19 cases. News outlets report that the quarantine is set to begin Monday and last until Sept. 10. The university's online COVID-19 dashboard showed 159 known active cases among students,",
+    "url": "https://www.myrtlebeachonline.com/news/article253783698.html",
+    "url_hash": "24b7de97d94842974d74ae29d6797da6",
+    "ut": 1630088736,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Liberty University",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 10",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "159",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
@@ -7852,6 +8292,73 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "ASPI crosses 9,000-point mark in intra-day trading; market turnover tops Rs.16bn",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Colombo Stock Exchange's (CSE) benchmark All Share Price Index (ASPI) yesterday crossed the 9,000-point mark during the intra-day trading for the first time in history, though the index closed below the 9,",
+    "url": "https://www.dailymirror.lk/business-news/ASPI-crosses-9-000-point-mark-in-intra-day-trading-market-turnover-tops-Rs-16bn/273-219211",
+    "url_hash": "8a693e66ac2e0fba42a2dc1802c5bb01",
+    "ut": 1630095912,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Colombo Stock Exchange's",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9,000",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "intra-day",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
