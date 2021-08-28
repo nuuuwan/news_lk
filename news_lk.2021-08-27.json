@@ -11011,6 +11011,57 @@
   },
   {
     "date": "2021-08-27",
+    "title": "Sri Lanka extends island-wide quarantine curfew",
+    "source": "www.lankaweb.com",
+    "snippet": "Sri Lanka has extended the current island-wide quarantine curfew orders by a week, in a bid to curb the soaring COVID-19 figures in the country prompted by the rapid spread of the Delta variant. Minister of Health Keheliya Rambukwella tweeted that the extended quarantine curfew orders are effective until 4.",
+    "url": "http://www.lankaweb.com/news/items/2021/08/27/sri-lanka-extends-island-wide-quarantine-curfew/",
+    "url_hash": "c6cb6022079f9ff0433adfd3c47a5ad8",
+    "ut": 1630105673,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a week",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Keheliya Rambukwella",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4",
+        "start_end": [
+          53,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Lending a helping hand...",
     "source": "www.dailymirror.lk",
     "snippet": "Police officers from the Dam Street police station distributed lunch packets to paupers who are living on the sidewalks in Pettah. It was a great solace for them at the time the whole country is under quarantine curfew. Dam Street police OIC, CI Ajith ...",
