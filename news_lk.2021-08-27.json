@@ -3567,6 +3567,65 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Italian premier decries unequal vaccine access",
+    "source": "www.msn.com",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines, especially in Africa, are making it harder to end the pandemic. Draghi on Friday remotely addressed a meeting of the G-20 Compact with Africa.",
+    "url": "https://www.msn.com/en-us/news/world/the-latest-italian-premier-decries-unequal-vaccine-access/ar-AANNZjP",
+    "url_hash": "8e6f1fdd87c5081c21941bf289bff57e",
+    "ut": 1630058919,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the G-20 Compact",
+        "start_end": [
+          42,
+          45
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
     "source": "pix11.com",
     "snippet": "COPENHAGEN, Denmark \u2014 The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country. \"The",
@@ -6196,6 +6255,41 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Italian premier decries unequal vaccine access",
+    "source": "www.stltoday.com",
+    "snippet": "Italian Premier Mario Draghi says the uneven global economic recovery and the \"grossly unequal\" access to COVID-19 vaccines, especially in Africa, are making it harder to end the",
+    "url": "https://www.stltoday.com/news/world/the-latest-italian-premier-decries-unequal-vaccine-access/article_328a548c-192e-58f6-8d35-ba7802353616.html",
+    "url_hash": "00fb444c6057388b973d3b70cf5949dd",
+    "ut": 1630080515,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
     "source": "www.seattlepi.com",
     "snippet": "The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country. \"The epidemic is under control.",
@@ -7576,6 +7670,49 @@
     "snippet": "Sri Lanka has territorial waters of 21,500 km2 and an exclusive economic zone of 517,000 km2, almost eight times the country's land area. This coastal and marine environment harbours a variety of natural resources and ecosystems,",
     "url": "https://www.ft.lk/ft-lite/Investing-in-a-blue-economy-Sri-Lanka-s-natural-wealth-resilience-and-sustainable-growth/6-722311",
     "url_hash": "df1f3f7bf847529b048fefb3a53b3003",
+    "ut": 1630087719,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21,500",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "517,000",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "almost eight",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Investing in a blue economy: Sri Lanka's natural wealth, resilience, and sustainable growth",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka has territorial waters of 21,500 km2 and an exclusive economic zone of 517,000 km2, almost eight times the country's land area. This coastal and marine environment harbours a variety of natural resources and ecosystems,",
+    "url": "https://www.ft.lk/ft-lite/Investing-in-a-blue-economy--Sri-Lanka-s-natural-wealth--resilience--and-sustainable-growth/6-722311",
+    "url_hash": "e5866ca0b399988a8ac16d02c7336411",
     "ut": 1630087719,
     "ent_info_list": [
       {
