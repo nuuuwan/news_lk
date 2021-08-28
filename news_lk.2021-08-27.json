@@ -7882,6 +7882,81 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Sudan receives 200,000 vaccine doses from France",
+    "source": "www.nsnews.com",
+    "snippet": "Sudan received on Friday a shipment of 218,400 doses of the AstraZeneca COVID-19 vaccine as a donation from France, according to UNICEF. The vaccines were delivered to the east African nation with UNICEF's support and through COVAX,",
+    "url": "https://www.nsnews.com/coronavirus-covid-19-national-news/the-latest-sudan-receives-200000-vaccine-doses-from-france-4258488",
+    "url_hash": "a5a8e33681d612d224de1d056f8338f9",
+    "ut": 1630084183,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sudan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "218,400",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNICEF",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "African",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNICEF",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: 2 new studies look at COVID safety in schools",
     "source": "madison.com",
     "snippet": "U.S. health officials say two new studies from California provide more evidence that schools can open safely if they do the right things.",
@@ -8797,6 +8872,116 @@
         "start_end": [
           17,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Sri Lanka locks down till Sep 6",
+    "source": "www.smetimes.in",
+    "snippet": "Amid an unabated increase of new Covid-19 cases and deaths, Sri Lanka has decided to extend the lockdown for another week till September 6. The Covid-19 Task Force met with President Gotabaya Rajapaksa on Friday after which it was decided to extend the quarantine lockdown that was to end on August 30.",
+    "url": "http://www.smetimes.in/smetimes/news/global-business/2021/Aug/27/sl-lockdown68476.html",
+    "url_hash": "19880f1bce3ac0dbe6bf4a1abed26696",
+    "ut": 1630087768,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 6",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Task Force",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30",
+        "start_end": [
+          52,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Cases spike, Liberty University to quarantine",
+    "source": "www.vancouverisawesome.com",
+    "snippet": "Liberty University announced a temporary campus-wide quarantine Thursday amid a spike in COVID-19 cases. News outlets report that the quarantine is set to begin Monday and last until Sept. 10.",
+    "url": "https://www.vancouverisawesome.com/coronavirus-covid-19-national-news/the-latest-cases-spike-liberty-university-to-quarantine-4258488",
+    "url_hash": "e4aa1ccdbf33977bc3b5364bc2b93406",
+    "ut": 1630087783,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Liberty University",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 10",
+        "start_end": [
+          31,
+          33
         ]
       }
     ]

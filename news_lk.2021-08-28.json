@@ -4159,6 +4159,49 @@
   },
   {
     "date": "2021-08-28",
+    "title": "Key data on effectiveness of vaccines soon",
+    "source": "www.dailymirror.lk",
+    "snippet": "Key data on the effectiveness of Covid vaccines currently used in Sri Lanka, against new variants, is to be submitted to the relevant authorities soon, Daily Mirror learns. The University of Sri Jayewardenepura is conducting research on the effectiveness ...",
+    "url": "https://www.dailymirror.lk/main_image/Key-data-on-effectiveness-of-vaccines-soon/346-219189",
+    "url_hash": "f613582c8791af9de4817be4bbb6a46a",
+    "ut": 1630156157,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The University of Sri Jayewardenepura",
+        "start_end": [
+          32,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
     "title": "People infected with Delta in Sri Lanka rises to 292",
     "source": "colombogazette.com",
     "snippet": "The number of people infected with the Delta variant of the coronavirus in Sri Lanka has risen to 292. Latest sequencing data from the University of Sri Jayewardenepura has found that the Delta variant is spreading rapidly in Colombo.",
@@ -4204,6 +4247,73 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "Sri Lanka Reopens Borders With India, Starts Regular Flights From 9 Indian Cities. Full Details",
+    "source": "www.india.com",
+    "snippet": "Sri Lankan Airlines will operate four weekly flights to Chennai, three to Mumbai, and one to Bengaluru under its new schedule, and is expected to introduce significant frequency enhancements.",
+    "url": "https://www.india.com/news/world/international-flights-latest-news-today-28-august-2021-sri-lanka-reopens-borders-with-india-starts-regular-flights-from-9-indian-cities-full-details-4919999/",
+    "url_hash": "eda0acefcedfc59c0538a3a6e778d7ec",
+    "ut": 1630159768,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Airlines",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chennai",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Bengaluru",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
@@ -4306,6 +4416,49 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "Potta Naufer dies of COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "Mohamed Naufer alias Potta Naufer, who had been sentenced to death and was being held at the Boossa High Security Prison, has died from COVID-19 today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Potta-Naufer-dies-of-COVID-19/108-219231",
+    "url_hash": "7817d30d4e5b17840685a9164253b3b7",
+    "ut": 1630163357,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mohamed Naufer",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Potta Naufer",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Boossa High Security Prison",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
@@ -4459,6 +4612,108 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "212 Covid deaths reported: Death toll surges to 8,585",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 212 more COVID-19 related deaths that occurred yesterday (27) were confirmed by the Director-General of Health Services today pushing the death toll to 8,585. ..",
+    "url": "https://www.dailymirror.lk/latest_news/212-Covid-deaths-reported-Death-toll-surges-to-8-585/342-219233",
+    "url_hash": "d71a1139ae6ff4adfa378b44c969611f",
+    "ut": 1630166957,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "212",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "27",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8,585",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "Sri Lanka Opens For Indian Travellers Once Again",
+    "source": "pragativadi.com",
+    "snippet": "After a long-anticipated hiatus, Sri Lanka has opened its borders to India. Fully vaccinated Indian travellers will be required to produce a negative PCR report issued not before 72 hours",
+    "url": "https://pragativadi.com/sri-lanka-opens-for-indian-travellers-once-again/",
+    "url_hash": "d3775f746ca9cbfc12024efd16135110",
+    "ut": 1630169728,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "72 hours",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]
