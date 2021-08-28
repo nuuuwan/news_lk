@@ -256,6 +256,33 @@
   },
   {
     "date": "2021-08-28",
+    "title": "COVID origin: US spy agencies publish 'inconclusive' report",
+    "source": "www.hirunews.lk",
+    "snippet": "The US intelligence community has been unable to determine the origins of Covid-19, and is split on whether it leaked from a lab or developed in nature, according to a new report. The report issued by the office that oversees the nation's 18 spy agencies did conclusively determine that it was not developed as a biological weapon.",
+    "url": "https://www.hirunews.lk/english/280755/covid-origin-us-spy-agencies-publish-inconclusive-report",
+    "url_hash": "09a84efa7e950f04617eee2f2ecd2daa",
+    "ut": 1630112893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
     "title": "The Latest: Family stunned as COVID kills high schooler",
     "source": "www.dailyjournal.net",
     "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
@@ -1704,6 +1731,100 @@
   },
   {
     "date": "2021-08-28",
+    "title": "Whatmore quits Nepal cricket team coach job citing personal reasons",
+    "source": "www.sify.com",
+    "snippet": "Nepal cricket teams Australian coach Dav Whatmore has caught the Cricket Association of Nepal (CAN) by surprise by his sudden resignation, citing personal reasons.",
+    "url": "https://www.sify.com/sports/whatmore-quits-nepal-cricket-team-coach-job-citing-personal-reasons-news-cricket-vi2ePfbiiaaib.html",
+    "url_hash": "f9a7ba9211fa2fa34aeb9ca643822f9a",
+    "ut": 1630127280,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dav Whatmore",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Cricket Association of Nepal",
+        "start_end": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "Cricket Nepal 'Astounded' After Dav Whatmore Resigns As Coach With Immediate Effect",
+    "source": "www.cricketnmore.com",
+    "snippet": "Nepal cricket team's Australian coach Dav Whatmore has caught the Cricket Association of Nepal (CAN) by surprise by his sudden resignation, citing personal reasons. A former right-handed batsman, who played seven Tests for Australia in 1979,",
+    "url": "https://www.cricketnmore.com/cricket-news/cricket-nepal-astounded-after-dav-whatmore-resigns-as-coach-with-immediate-effect-82313",
+    "url_hash": "9ccec1d23d8bdc3fc97de9ca3456b136",
+    "ut": 1630127280,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dav Whatmore",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Cricket Association of Nepal",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1979",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
     "title": "FLSP activists test Covid positive inside remand prison: Party Secretary",
     "source": "www.dailymirror.lk",
     "snippet": "Frontline Socialist Party (FLSP) activists have been infected with COVID 19 from others in the remand prison, FLSP Secretary Educational Affairs, Pubudu Jayagoda said. ..",
@@ -2034,6 +2155,73 @@
         "start_end": [
           27,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "How 2004 Tsunami Victim Pulina Tharanga reached national ranks : SL probable final squad for SA and more",
+    "source": "www.islandcricket.lk",
+    "snippet": "By Revatha S. Silva One of the greatest success stories of Sri Lanka's sports and society in recent times, Pulina Tharanga, the 28-year-old leg-spin bowler, has been named in the possible final 22-member Sri Lanka squad for the forthcoming South Africa white-ball series.",
+    "url": "https://www.islandcricket.lk/news/how-2004-tsunami-victim-pulina-tharanga-reached-national-ranks-sl-probable-final-squad-for-sa-and-more/",
+    "url_hash": "4b1b61a53c830fe116e817df7366d56e",
+    "ut": 1630130880,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Revatha S. Silva One",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pulina Tharanga",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "28-year-old",
+        "start_end": [
+          25,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          45,
+          47
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          51,
+          53
         ]
       }
     ]
@@ -2889,6 +3077,57 @@
         "start_end": [
           12,
           13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "Remembering the P\u0101nadur\u0101 W\u0101daya",
+    "source": "island.lk",
+    "snippet": "Udanwita Debate (1866), Gampola Debate (1871), etc., the well-known Great Debate of Panadura took place 148 years ago, from 26th to 28th of August 1873, which was a very important milestone in the annals of Buddhist education in the island.",
+    "url": "https://island.lk/remembering-the-panadura-wadaya/",
+    "url_hash": "fc9070627bced86d9fd1d19f692ac03b",
+    "ut": 1630141680,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "1866",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1871",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "148 years ago",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "26th to 28th of August 1873",
+        "start_end": [
+          30,
+          36
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          47,
+          48
         ]
       }
     ]
@@ -4618,6 +4857,65 @@
   },
   {
     "date": "2021-08-28",
+    "title": "Sri Lanka records 212 more COVID deaths",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka has revised the visa fees and fines as per the new Immigration... The United States donated over 100,000 doses of the Pfizer-BioNTech COVID-... \"Sri Lanka can't afford a lockdown\" Sri Lanka can't afford a lockdown,",
+    "url": "https://dailynews.lk/2021/08/28/local/257858/sri-lanka-records-212-more-covid-deaths",
+    "url_hash": "efd243993ed180866d0fbb909354fbdc",
+    "ut": 1630166876,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "The United States",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
     "title": "212 Covid deaths reported: Death toll surges to 8,585",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 212 more COVID-19 related deaths that occurred yesterday (27) were confirmed by the Director-General of Health Services today pushing the death toll to 8,585. ..",
@@ -4714,6 +5012,49 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "4,596 COVID-19 positive cases reported in Sri Lanka today",
+    "source": "www.dailynews.lk",
+    "snippet": "In Sri Lanka 60% of the population above the age of 30 years have been... Sri Lanka has revised the visa fees and fines as per the new Immigration...",
+    "url": "http://www.dailynews.lk/2021/08/28/local/257859/4596-covid-19-positive-cases-reported-sri-lanka-today",
+    "url_hash": "f8935d907fb89a914024a790c28ac336",
+    "ut": 1630170476,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "60%",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the age of 30 years",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
