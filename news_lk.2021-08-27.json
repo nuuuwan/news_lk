@@ -3500,6 +3500,41 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Report COVID-19 patients die in Russia fire",
+    "source": "www.local10.com",
+    "snippet": "The Danish government will no longer consider COVID-19 as \"a socially critical disease in Denmark,\" citing the large number of vaccinations in the Scandinavian country.",
+    "url": "https://www.local10.com/health/2021/08/27/the-latest-denmark-lowers-covid-threat-citing-vaccinations/",
+    "url_hash": "9aba1942adbfd6042f9b54f2199f24eb",
+    "ut": 1630059098,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Danish",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Extend lockdown to Oct 2 to save 10,000 lives at 2.2 pct GDP: experts convened by WHO Sri Lanka",
     "source": "economynext.com",
     "snippet": "With nearly 90 percent of samples sequenced confirmed to be the deadly delta variant, extending Sri Lanka's COVID-19 lockdown to September 18 and October 2 will save 7,500 and 10,000 lives respectively at an economic cost of 1.",
@@ -4244,6 +4279,33 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Remaining focused on the job at hand might prove rather difficult for the Proteas",
+    "source": "www.msn.com",
+    "snippet": "Although coach Proteas coach Mark Boucher addressed the squad prior to departure, there is simply no hiding from the chaos that has erupted.",
+    "url": "https://www.msn.com/en-za/sport/other/remaining-focused-on-the-job-at-hand-might-prove-rather-difficult-for-the-proteas/ar-AANO8vm",
+    "url_hash": "77296814ffd8a0f95f6cae79e1a1dd04",
+    "ut": 1630066317,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Proteas",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          4,
+          6
         ]
       }
     ]
@@ -5229,6 +5291,108 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
+    "source": "www.stltoday.com",
+    "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of",
+    "url": "https://www.stltoday.com/news/world/the-latest-uk-donates-592k-covid-vaccine-doses-to-nigeria/article_328a548c-192e-58f6-8d35-ba7802353616.html",
+    "url_hash": "f719a2a9406663bc76c97348d97ee185",
+    "ut": 1630077098,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.K.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "592,880",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the British High Commission",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abuja",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Arkansas schools have 3,100 active COVID cases",
+    "source": "www.msn.com",
+    "snippet": "LITTLE ROCK, Ark. \u2014 More than 3,100 active coronavirus cases have been reported in Arkansas public schools among students and employees, according to newly released numbers from the state. Most students returned to the classroom last week \u2014 and the majority of public school students attend districts that are requiring masks.",
+    "url": "https://www.msn.com/en-ca/news/science/the-latest-arkansas-schools-have-3-100-active-covid-cases/ar-AANOJIz",
+    "url_hash": "d56a48decffd619e97558e3fae09d0bc",
+    "ut": 1630077117,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Ark.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "More than 3,100",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arkansas",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "The Latest: Denmark lowers COVID threat, citing vaccinations",
     "source": "abcnews.go.com",
     "snippet": "Newly released numbers from Arkansas show that more than 3,100 active coronavirus cases have been reported in public schools among students and employees",
@@ -5729,6 +5893,49 @@
   },
   {
     "date": "2021-08-27",
+    "title": "The Latest: Arizona has had more than 1M coronavirus cases",
+    "source": "tulsaworld.com",
+    "snippet": "Getting the shot in Denmark is voluntary and is available to people 12 and older. COLOMBO, Sri Lanka \u2014 Sri Lanka has extended its current lockdown until Sept. 6, as COVID-19 cases continue to ...",
+    "url": "https://tulsaworld.com/news/world/the-latest-italian-premier-decries-unequal-vaccine-access/article_7c84a315-01e0-5e58-979f-a538fb709cdd.html",
+    "url_hash": "7e7f845ae325dbd784dc406d70204e8d",
+    "ut": 1630080698,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 6",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "As COVID Cases And Death Toll Surge, Sri Lanka Extends Lockdown Till September 6",
     "source": "www.republicworld.com",
     "snippet": "Amid the rise in COVID-19 cases, the Sri Lankan government has decided to extend the lockdownt till September 6.The lockdown was due to end on August 30.",
@@ -6118,6 +6325,41 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: 2 new studies look at COVID safety in schools",
+    "source": "madison.com",
+    "snippet": "U.S. health officials say two new studies from California provide more evidence that schools can open safely if they do the right things.",
+    "url": "https://madison.com/news/world/the-latest-2-new-studies-look-at-covid-safety-in-schools/article_b99843e9-0db7-58f5-8a09-2a2ef5c1ced7.html",
+    "url_hash": "703f9746d3cef744c7017a2e394f4db8",
+    "ut": 1630084289,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "California",
+        "start_end": [
+          8,
+          9
         ]
       }
     ]
@@ -7396,6 +7638,183 @@
   },
   {
     "date": "2021-08-27",
+    "title": "A selfless man and philanthropist departs",
+    "source": "www.dailymirror.lk",
+    "snippet": "It was with great sadness that we heard the news of the passing away of Hanif Abdeen on August 25. Born on April 17, 1968 Hanif had the opportunity to pursue his primary and secondary education at S.Thomas' College,",
+    "url": "https://www.dailymirror.lk/news-features/A-selfless-man-and-philanthropist-departs/131-219186",
+    "url_hash": "8877968822a4a4a3f102ddf0ce8ee87a",
+    "ut": 1630095078,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Hanif Abdeen",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 25",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April 17, 1968",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hanif",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "S.Thomas",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "StanChart Sri Lanka donates essential medical equipment to combat pandemic",
+    "source": "www.dailymirror.lk",
+    "snippet": "Standard Chartered Sri Lanka recently donated essential medical equipment worth over US$ 116,500 to the Sri Lanka Red Cross Society (SLRCS) as a continuation of its commitment to support Sri Lanka's fight against the COVID-19 pandemic.",
+    "url": "https://www.dailymirror.lk/other/StanChart-Sri-Lanka-donates-essential-medical-equipment-to-combat-pandemic/117-219200",
+    "url_hash": "85d2dde0b3002020c1e9beeea31a179d",
+    "ut": 1630095078,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Standard Chartered Sri Lanka",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "116,500",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Red Cross Society",
+        "start_end": [
+          14,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: UK donates 592K COVID vaccine doses to Nigeria",
+    "source": "www.mysanantonio.com",
+    "snippet": "The U.K. has donated additional 592,880 doses of the AstraZeneca COVID-19 vaccine to Nigeria, the British High Commission in Abuja has said, raising the total number of the vaccine doses it has shared with Africa's most populous country in August to 1,",
+    "url": "https://www.mysanantonio.com/business/article/The-Latest-Denmark-lowers-COVID-threat-citing-16415732.php",
+    "url_hash": "f806d1ff5862ab59b266d0cb95f19f58",
+    "ut": 1630095089,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.K.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "592,880",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "AstraZeneca COVID-19",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nigeria",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the British High Commission",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abuja",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
     "title": "Colombo stock market's memorable run persists",
     "source": "www.ft.lk",
     "snippet": "Turnover soars to 6-month high of Rs. 16.5 b as investors remain bullish Indices close on the up despite mid-day profit taking Expolanka stretches its market leadership further ..",
@@ -7733,6 +8152,41 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "Lending a helping hand...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Police officers from the Dam Street police station distributed lunch packets to paupers who are living on the sidewalks in Pettah. It was a great solace for them at the time the whole country is under quarantine curfew. Dam Street police OIC, CI Ajith ...",
+    "url": "https://www.dailymirror.lk/caption_story/Lending-a-helping-hand/110-219164",
+    "url_hash": "870a847828e7f5bc11f2964ca594ec40",
+    "ut": 1630105878,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Dam Street",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pettah",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "CI Ajith",
+        "start_end": [
+          45,
+          47
         ]
       }
     ]
