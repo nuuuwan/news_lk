@@ -7427,6 +7427,57 @@
   {
     "date": "2021-08-27",
     "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
+    "source": "madison.com",
+    "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine.",
+    "url": "https://madison.com/business/the-latest-half-of-us-kids-ages-12---17-got-at-least-1/article_b99843e9-0db7-58f5-8a09-2a2ef5c1ced7.html",
+    "url_hash": "7f4753770835ad045b79dec2658146de",
+    "ut": 1630084078,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 17",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-27",
+    "title": "The Latest: Half of US kids ages 12 - 17 got at least 1 shot",
     "source": "www.therepublic.com",
     "snippet": "Biden administration officials say that half of U.S. adolescents ages 12 to 17 have gotten at least their first COVID-19 vaccine",
     "url": "http://www.therepublic.com/2021/08/27/virus-outbreak-the-latest-7/",
