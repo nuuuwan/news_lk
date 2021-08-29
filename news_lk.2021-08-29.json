@@ -425,5 +425,222 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "First Class to be 'defined' by 2023",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka's Major Club tournament will be reduced to 15 teams by the end of the 2023 domestic cricket season as a new cricket structure sees the demotion of 11 teams to the Governors Trophy during the next three seasons.",
+    "url": "https://www.islandcricket.lk/news/first-class-to-be-defined-by-2023/",
+    "url_hash": "cc3804832ff77abc1aec1d23ed5b40b1",
+    "ut": 1630202893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Club",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of the",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2023",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Governors Trophy",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next three seasons",
+        "start_end": [
+          37,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "Fawzul claims F1 e-gaming top slot after Round 1",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Fawzul Aleem claimed the top position followed by Andrew Sean and Rashitha Aluthge, as the launch of Sri Lanka's first ever Formula 1 e-Gaming Championship organised by SRL in conjunction with Mandarin Reid eSports took place last week.",
+    "url": "https://www.sundaytimes.lk/210829/sports/fawzul-claims-f1-e-gaming-top-slot-after-round-1-453698.html",
+    "url_hash": "72bf58a80757e820a09273a8f9ca8dc1",
+    "ut": 1630203433,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Aleem",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Andrew Sean",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rashitha Aluthge",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Formula",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SRL",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mandarin Reid eSports",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "Visa fees",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka has revised the visa fees and fines as per the new Immigration and Emigration Regulations issued on August 18 via the Extraordinary Gazette No. 2241/37. Issuing a statement the... Sri Lanka has revised the visa fees and fines as per the new",
+    "url": "https://dailynews.lk/tags/visa-fees",
+    "url_hash": "5621eb862cc751ded41deca54cb44343",
+    "ut": 1630205769,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Immigration and Emigration Regulations",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 18",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Extraordinary Gazette No",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
   }
 ]
