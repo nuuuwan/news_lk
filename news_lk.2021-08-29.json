@@ -1790,6 +1790,57 @@
   },
   {
     "date": "2021-08-29",
+    "title": "Defence Secretary reviews Sandahiru Seya project",
+    "source": "www.defence.lk",
+    "snippet": "Once completed, this Stupa would also be considered as one of the largest pagodas in the island within the 16 places of veneration. Chief of Defence Staff and Army Commander Gen. Shavendra Silva, Military Liaison Officer Brig. Dinesh Nanayakkara ...",
+    "url": "https://www.defence.lk/Article/view_article/3900",
+    "url_hash": "9d2178fb40dda075561cd98e7a4f692b",
+    "ut": 1630231719,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Defence Staff",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nanayakkara",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
     "title": "Showers in several parts of the island this evening (Video)",
     "source": "www.hirunews.lk",
     "snippet": "On the apparent southward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka from 28 August to 07 September in this year. The nearest towns of Sri Lanka over which the sun is overhead tomorrow (30) are Palampiddi ...",
@@ -1918,6 +1969,135 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "'Sri Lanka will not be able to withstand the lockdown any more' (Video)",
+    "source": "www.hirunews.lk",
+    "snippet": "State Minister of Finance Ajith Nivard Cabraal stated in a Twitter message that Sri Lanka will not be able to withstand the ... Accordingly, all economic centres on the island were opened today for wholesale trade only.",
+    "url": "https://www.hirunews.lk/english/280856/sri-lanka-will-not-be-able-to-withstand-the-lockdown-any-more-video",
+    "url_hash": "923b020100547364cb65b66410509256",
+    "ut": 1630236399,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Twitter",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "SLT says it has nothing to do with NMRA cyber mystery",
+    "source": "www.dailymirror.lk",
+    "snippet": "National telecommunications services provider, SLT-Mobitel has set the record straight on recent media reports claiming that the company managed the Lanka Government Cloud and provided services to the National Medicines Regulatory Authority (NMRA).",
+    "url": "https://www.dailymirror.lk/business_247/SLT-says-it-has-nothing-to-do-with-NMRA-cyber-mystery/395-219244",
+    "url_hash": "ae8611cc137b5f74c3919e9f5c423c8f",
+    "ut": 1630236990,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLT-Mobitel",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Lanka Government Cloud",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Medicines Regulatory Authority",
+        "start_end": [
+          30,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "34 children reported with post-covid Multi-system inflammatory syndrome: Pediatrician",
+    "source": "www.dailymirror.lk",
+    "snippet": "About 34 children have been infected with the post-covid syndrome called \"Multi-system inflammatory syndrome in children' so far in Sri Lanka and five such children were receiving treatment at the Intensive Care Unit of the Lady Ridgeway Hospital at ...",
+    "url": "https://www.dailymirror.lk/breaking_news/34-children-reported-with-post-covid-Multi-system-inflammatory-syndrome-Pediatrician/108-219243",
+    "url_hash": "debab7282a105e9c6600bc9d0a3f60f1",
+    "ut": 1630236990,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "About 34",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Intensive Care Unit",
+        "start_end": [
+          35,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Lady Ridgeway Hospital",
+        "start_end": [
+          40,
+          44
         ]
       }
     ]
