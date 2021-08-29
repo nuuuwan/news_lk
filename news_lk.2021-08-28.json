@@ -5704,6 +5704,57 @@
   },
   {
     "date": "2021-08-28",
+    "title": "4,596 fresh Covid-19 cases reported today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 4,596 more COVID-19 patients have been detected today increasing the total cases reported in Sri Lanka to 421,557, the Government Information Department said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/4-596-fresh-Covid-19-cases-reported-today/108-219234",
+    "url_hash": "d5c81cb3713a7bea31a5f2ca25c96df3",
+    "ut": 1630166914,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,596",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "421,557",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government Information Department",
+        "start_end": [
+          22,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
     "title": "212 Covid deaths reported: Death toll surges to 8,585",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 212 more COVID-19 related deaths that occurred yesterday (27) were confirmed by the Director-General of Health Services today pushing the death toll to 8,585. ..",
