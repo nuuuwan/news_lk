@@ -540,6 +540,41 @@
   },
   {
     "date": "2021-08-28",
+    "title": "Sri Lanka extends island-wide quarantine curfew",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has extended the current island-wide quarantine curfew orders by a week, in a bid to curb the soaring COVID-19 figures in the country prompted by the rapid spread of the Delta variant",
+    "url": "http://www.adaderana.lk/news/76460/sri-lanka-extends-island-wide-quarantine-curfew",
+    "url_hash": "81802063caf30a74e3dcbf306fc3b74a",
+    "ut": 1630114115,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a week",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
     "title": "Covid spread contained in Colombo city limits: Medical Officer",
     "source": "www.dailymirror.lk",
     "snippet": "The COVID-19 virus had been contained to a great extent in Colombo City, Chief Medical Officer of the Colombo Municipal Council (CMC) Dr. Ruwan Wijayamuni said yesterday. ..",
@@ -2572,6 +2607,57 @@
   },
   {
     "date": "2021-08-28",
+    "title": "Appreciation Professor Anton Joseph Weeramunda",
+    "source": "island.lk",
+    "snippet": "I write this appreciation as one who has been Joe's classmate at St. Joseph's, roommate at Marcus Fernando Hall at the University of Peradeniya, and a life-long friend. Joe was an exceptional human being who was quiet,",
+    "url": "https://island.lk/appreciation-professor-anton-joseph-weeramunda/",
+    "url_hash": "851eb46f4dfcfd40e6a0fa02d8c01c4f",
+    "ut": 1630132115,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "St. Joseph's",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Marcus Fernando Hall",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University of Peradeniya",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
     "title": "Minister Bandula Gunawardena tests COVID positive",
     "source": "www.dailynews.lk",
     "snippet": "Trade Minister Bandula Gunawardena has tested positive for COVID-19 in a rapid antigen test carried out yesterday. He published in his official Facebook page on last night, the minister announced that he was tested for ths virus after it was confirmed that several of his staff members were positive for COVID-19.",
@@ -4128,6 +4214,33 @@
         "start_end": [
           27,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "Visa fees and fines for foreigners revised",
+    "source": "menafn.com",
+    "snippet": "The visa fees and fines for foreigners has been revised, the Department of Immigration and Emigration said today.   The D",
+    "url": "https://menafn.com/1102696180/Visa-fees-and-fines-for-foreigners-revised",
+    "url_hash": "09350ec01ea65ec3fe67b6f7a78cc8b3",
+    "ut": 1630150138,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Department of Immigration and Emigration",
+        "start_end": [
+          11,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
