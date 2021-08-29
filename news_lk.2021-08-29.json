@@ -3753,5 +3753,99 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "Goodbye, Khema's Boy! You left us but not your ideology",
+    "source": "www.ft.lk",
+    "snippet": "It is with deep sadness that I learned of the passing away of the liberal politician and former Finance Minister Mangala Samaraweera. He made a heroic battle against COVID-19 that had infected him earlier.",
+    "url": "https://www.ft.lk/w-a-wijewardena-columns/Goodbye--Khema-s-Boy--You-left-us-but-not-your-ideology/885-722359",
+    "url_hash": "2171723d458771cc735995325c30281a",
+    "ut": 1630264103,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "Texas cop charged with murdering black man faces new charges for murdering a SECOND man",
+    "source": "www.dailymail.co.uk",
+    "snippet": "A few months after being indicted for the death of Michael Ramos, 42, Austin Police Officer Christopher Taylor is facing new murder charges in the death of Mauris DeSilva, 46.",
+    "url": "https://www.dailymail.co.uk/news/article-9937727/Texas-cop-charged-murdering-black-man-faces-new-charges-murdering-SECOND-man.html",
+    "url_hash": "fbeecae3196ea5c3343b5d5852afaec7",
+    "ut": 1630264279,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "A few months",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Michael Ramos",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "42",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Austin Police",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Christopher Taylor",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mauris DeSilva",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "46",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
   }
 ]
