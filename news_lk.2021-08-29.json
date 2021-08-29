@@ -1261,5 +1261,64 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "Covid vaccination program continues",
+    "source": "www.hirunews.lk",
+    "snippet": "The Covid vaccination program is still being implemented in many parts of the island. Meanwhile, 212 covid related deaths ... of Allergy Immunology and Cell Biology at the University of Sri Jayewardenepura has revealed that the Covid Delta variety is ...",
+    "url": "https://www.hirunews.lk/goldfmnews/280832/covid-vaccination-program-continues",
+    "url_hash": "17687ea476e2624a5c6f7031ea599ae5",
+    "ut": 1630221503,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "212",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Allergy Immunology",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Cell Biology",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University of Sri Jayewardenepura",
+        "start_end": [
+          29,
+          34
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Covid Delta",
+        "start_end": [
+          37,
+          40
+        ]
+      }
+    ]
   }
 ]
