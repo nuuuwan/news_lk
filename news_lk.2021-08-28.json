@@ -3634,6 +3634,97 @@
   },
   {
     "date": "2021-08-28",
+    "title": "2.3 mn doses of Sinopharm vaccines brought in today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka has today received 2.3 million doses of Sinopharm vaccines from China freighted by two SriLankan Airlines aircraft, the airport duty manager said. He said the 2 million doses of vaccine were paid for by Sri Lanka and, in addition, the Chinese ...",
+    "url": "https://www.dailymirror.lk/latest_news/2-3-mn-doses-of-Sinopharm-vaccines-brought-in-today/342-219219",
+    "url_hash": "a8b3acd1ce7ea1b090b65fb53d438643",
+    "ut": 1630141685,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2.3 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2 million",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
     "title": "United States News",
     "source": "www.pr.com",
     "snippet": "Fort Knox and Liberty safes are popular amongst hunting ... in New York City Two unsung heroes of hope share stories of their grassroots work in war-torn Indonesia and Sri Lanka and how they are combating -- and even preventing -- armed violence ...",
@@ -4147,6 +4238,65 @@
         "start_end": [
           26,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-28",
+    "title": "Whatmore quits Nepal cricket team coach job citing personal reasons",
+    "source": "news.webindia123.com",
+    "snippet": "Nepal cricket team's Australian coach Dav Whatmore has caught the Cricket Association of Nepal (CAN) by surprise by his sudden resignation, citing personal reasons. A former right-handed batsman, who played seven Tests for Australia in 1979,",
+    "url": "https://news.webindia123.com/news/Articles/Sports/20210828/3810328.html",
+    "url_hash": "3936ae1433a3b94aa42869ef28195bd7",
+    "ut": 1630148895,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dav Whatmore",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Cricket Association of Nepal",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1979",
+        "start_end": [
+          43,
+          44
         ]
       }
     ]

@@ -1202,5 +1202,64 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "Stalin stems LTTE revival by sops to SL Tamil refugees",
+    "source": "www.thestatesman.com",
+    "snippet": "The DMK has always been under scanner over its covert and overt support to the LTTE and its alliance partners in the front, VCK and MDMK has always been vocal for the LTTE and Tamil nationalism.",
+    "url": "https://www.thestatesman.com/india/stalin-stems-ltte-revival-sops-sl-tamil-refugees-1503000277.html",
+    "url_hash": "586097cac0baba0f07a0be0600ef8851",
+    "ut": 1630220115,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "DMK",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VCK",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MDMK",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
   }
 ]
