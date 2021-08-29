@@ -1264,6 +1264,65 @@
   },
   {
     "date": "2021-08-29",
+    "title": "Two arrested with Kerala cannabis worth over Rs. 55Mn",
+    "source": "www.dailymirror.lk",
+    "snippet": "Two suspects have been arrested with 183kg of Kerala cannabis at the Murungan Panniwettuwan roadblock in Mannar during a special operation carried out by Sri Lanka Navy and Sri Lanka Police. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-arrested-with-Kerala-cannabis-worth-over-Rs-55Mn/108-219238",
+    "url_hash": "0debb7a2ef6d26ce1100ed4d413a935d",
+    "ut": 1630220869,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "183kg",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mannar",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Police",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
     "title": "Covid vaccination program continues",
     "source": "www.hirunews.lk",
     "snippet": "The Covid vaccination program is still being implemented in many parts of the island. Meanwhile, 212 covid related deaths ... of Allergy Immunology and Cell Biology at the University of Sri Jayewardenepura has revealed that the Covid Delta variety is ...",
@@ -1317,6 +1376,92 @@
         "start_end": [
           37,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "SL PM's son welcomes Stalin's welfare package for Lankan refugees",
+    "source": "www.msn.com",
+    "snippet": "Colombo, Aug 29 (IANS) Reacting to Tamil Nadu Chief Minister M.K. Stalins announcement of a welfare package for Sri Lankan Tamil refugees, Namal Rajapaksa, the son of the island nation's Prime ... have returned to Sri Lanka with the help of UNHRC facilitation.",
+    "url": "https://www.msn.com/en-in/news/world/sl-pms-son-welcomes-stalins-welfare-package-for-lankan-refugees/ar-AANRDRF",
+    "url_hash": "c1d1ead11dc25ac508f0d28cd0dee105",
+    "ut": 1630225077,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "M.K. Stalins",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "Special test report on new Super Delta variant, in a week",
+    "source": "www.hirunews.lk",
+    "snippet": "The test report also revealed that the Delta variant is spreading in other parts of the island, weakening the Alpha variant ... this is a super Delta variant that has been mutated within Sri Lanka. Accordingly, this investigation was initiated by the ...",
+    "url": "https://www.hirunews.lk/goldfmnews/280844/special-test-report-on-new-super-delta-variant-in-a-week",
+    "url_hash": "04817e583f82afbdb3a76fcd45ac2100",
+    "ut": 1630226337,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
         ]
       }
     ]
