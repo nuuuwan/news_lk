@@ -3756,6 +3756,73 @@
   },
   {
     "date": "2021-08-29",
+    "title": "Texas cop charged with murdering black man faces new charges for murdering a SECOND man",
+    "source": "www.msn.com",
+    "snippet": "A few months after being indicted for the death of Michael Ramos, 42, Austin Police Officer Christopher Taylor is facing new murder charges in the death of Mauris DeSilva, 46.",
+    "url": "https://www.msn.com/en-gb/news/world/cop-charged-with-murdering-black-man-charged-for-murdering-another-man/ar-AANSkb3",
+    "url_hash": "0d634ba3a2867b538303e5699f0805b5",
+    "ut": 1630264069,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "A few months",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Michael Ramos",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "42",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Austin Police",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Christopher Taylor",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mauris DeSilva",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "46",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
     "title": "Goodbye, Khema's Boy! You left us but not your ideology",
     "source": "www.ft.lk",
     "snippet": "It is with deep sadness that I learned of the passing away of the liberal politician and former Finance Minister Mangala Samaraweera. He made a heroic battle against COVID-19 that had infected him earlier.",
@@ -3844,6 +3911,73 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "Sops to Lankan refugees: SL PM's son hails Stalin",
+    "source": "www.freepressjournal.in",
+    "snippet": "Colombo: Reacting to Tamil Nadu Chief Minister MK Stalin's announcement of a welfare package for Sri Lankan Tamil refugees, Namal Rajapaksa, the son of the island nation's Prime ... 3,567 families have returned to Sri Lanka with the help of UNHRC ...",
+    "url": "https://www.freepressjournal.in/india/sops-to-lankan-refugeesslpms-son-hails-stalin",
+    "url_hash": "19693ba64d676238857ac6eabf8a8143",
+    "ut": 1630269520,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "MK Stalin",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,567",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UNHRC",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
