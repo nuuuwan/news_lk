@@ -1,6 +1,81 @@
 [
   {
     "date": "2021-08-30",
+    "title": "CAA cracks down on three warehouses storing 5,400 tonnes sugar",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Consumer Affairs Authority (CAA) cracked down on three warehouses unlawfully stored with 5,400 tonnes of sugar in Gampaha and Seeduwa during the last couple of days, State Minister Lasantha Alagiyawanna said.",
+    "url": "https://www.dailymirror.lk/breaking_news/CAA-cracks-down-on-three-warehouses-storing-5-400-tonnes-sugar/108-219280",
+    "url_hash": "fd7f070bfdec0de2a066de60825eb9a5",
+    "ut": 1630282075,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Consumer Affairs Authority",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "5,400 tonnes",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Seeduwa",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last couple of days",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lasantha Alagiyawanna",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "Booster shots likely from October",
     "source": "www.dailymirror.lk",
     "snippet": "The Government is to consider administering booster shots from October, especially for the vulnerable groups. ..",
@@ -513,6 +588,111 @@
         "start_end": [
           2,
           3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "150,000 vials of Pfizer vaccines arrive",
+    "source": "www.dailymirror.lk",
+    "snippet": "A consignment of 150,000 doses of Pfizer vaccine vials have been flown in to the country from the United States of America and freighted by Qatar Airways, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/150-000-vials-of-Pfizer-vaccines-arrive/342-219281",
+    "url_hash": "a8b694fda16e6b7be4ebdfc88f77c37f",
+    "ut": 1630289275,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "150,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States of America",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Qatar Airways",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Pandemic has brought high demand for cardboard coffins",
+    "source": "www.dailymirror.lk",
+    "snippet": "The COVID 19 pandemic has brought about a high demand for cardboard coffins, Member of Dehiwala Mount Lavinia Municipal Council Priyantha Sahabandu said yesterday. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Pandemic-has-brought-high-demand-for-cardboard-coffins/342-219279",
+    "url_hash": "301e047ad4aee1f128cb4a610dbac0f0",
+    "ut": 1630289275,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Dehiwala Mount Lavinia Municipal Council Priyantha Sahabandu",
+        "start_end": [
+          16,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Domestic cricket overhauled",
+    "source": "island.lk",
+    "snippet": "Rex Clementine Sri Lanka Cricket on Saturday conducted an Extraordinary General Meeting (EGM) and the stakeholders of the game unanimously ratified a new domestic tournament structure. The new competition that has been drafted with the blessings of Cricket Advisory Committee is expected to remain in the system for ten years but there are fears",
+    "url": "https://island.lk/domestic-cricket-overhauled/",
+    "url_hash": "90545e12e4dd2c3d24fd8d83820faf63",
+    "ut": 1630289285,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cricket Advisory Committee",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten years",
+        "start_end": [
+          51,
+          53
         ]
       }
     ]
@@ -1138,6 +1318,127 @@
         "start_end": [
           37,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Dinesh Priyantha Herath wins gold at Paralympics with new World Record",
+    "source": "www.dailymirror.lk",
+    "snippet": "Herath recorded a throw of 67.79 metres in the third round, with Indians Devendra Jhajharia and Sundar Singh Gurjar taking silver and bronze respectively. ..",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Dinesh-Priyantha-Herath-wins-gold-at-Paralympics-with-new-World-Record/324-219300",
+    "url_hash": "275632bfcd23c99cb3d8cf15f22c5b1c",
+    "ut": 1630296475,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "67.79 metres",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Devendra Jhajharia",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singh Gurjar",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Nations Trust Bank enables growth of Small and Medium Enterprises",
+    "source": "colombogazette.com",
+    "snippet": "Employing over 70% of the working population in Sri Lanka, SMEs are responsible for nearly a third of the country's industrial output with a sizeable contribution to the country's Gross Domestic Production (GDP).",
+    "url": "https://colombogazette.com/2021/08/30/nations-trust-bank-enables-growth-of-small-and-medium-enterprises/",
+    "url_hash": "6459de92dc18ac73aff5ea433da70163",
+    "ut": 1630296748,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "over 70%",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly a third",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lankan sets new world record in Men's Javelin Throw F46",
+    "source": "www.dailynews.lk",
+    "snippet": "Sri Lanka's Dinesh Priyantha Herath sets a new world record in the Men's Javelin Throw F46 event with 67.79 metres at the Tokyo 2020 Paralympics.",
+    "url": "http://www.dailynews.lk/2021/08/30/sports/257961/sri-lankan-sets-new-world-record-men%E2%80%99s-javelin-throw-f46",
+    "url_hash": "2f974e08f10201762474275d17d3799d",
+    "ut": 1630299840,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "67.79 metres",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tokyo 2020 Paralympics",
+        "start_end": [
+          23,
+          27
         ]
       }
     ]
