@@ -1,6 +1,81 @@
 [
   {
     "date": "2021-08-30",
+    "title": "53 community cases of Covid-19, total cases 562",
+    "source": "www.times.co.nz",
+    "snippet": "MINISTRY OF HEALTH COVID-19 UPDATE August 30, 2021 There are 53 new cases of Covid-19 in the New Zealand community today. All 53 cases are in Auckland. This brings the total number of active cases in the community outbreak to 562.",
+    "url": "https://www.times.co.nz/covid19-latest/53-community-cases-of-covid-19-total-cases-562/",
+    "url_hash": "1c8dff02c933366c307e9699652a47a2",
+    "ut": 1630282455,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "MINISTRY OF HEALTH COVID-19 UPDATE",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30, 2021",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "53",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "53",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "562",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "SDB bank, Hayleys Fentons sign MoU to promote sustainable solutions",
     "source": "www.msn.com",
     "snippet": "SDB bank and Hayleys Fentons have entered into a partnership on August 24, to promote sustainable solutions relating to energy and built environment through innovative customer value propositions, in what represents a fresh direction involving new markets for both entities.",
@@ -146,6 +221,65 @@
   },
   {
     "date": "2021-08-30",
+    "title": "DG National Security Studies warns: Hasty recognition of Taliban likely to send wrong signal to Tamil and Muslim communities here",
+    "source": "island.lk",
+    "snippet": "Director General of Institute of National Security Studies Sri Lanka (INSSSL) Prof. Rohan Gunaratne says hasty recognition of the illegitimate Taliban administration would be inimical to Sri Lanka. Prof. Gunaratne asserts that consequences of such a move ...",
+    "url": "https://island.lk/dg-national-security-studies-warns-hasty-recognition-of-taliban-likely-to-send-wrong-signal-to-tamil-and-muslim-communities-here/",
+    "url_hash": "68aded3ff7f04b7667e80b6070931bab",
+    "ut": 1630286041,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Institute of National Security Studies Sri Lanka",
+        "start_end": [
+          3,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "INSSSL",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohan Gunaratne",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gunaratne",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "Sri Lanka bank loans up in July, CB credit soars in reserve appropriations",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sri Lanka's private credit grew 76.6 billion rupees in July 2020, down from 83.4 billion rupees a month earlier, while central bank credit soared as foreign reserves were appropriated to repay a billion US dollar sovereign bonds and some ...",
@@ -199,6 +333,33 @@
         "start_end": [
           36,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "SriLankan Airlines adhering to all measures as per IATA's findings on safety of air travel",
+    "source": "island.lk",
+    "snippet": "SriLankan Airlines yesterday elaborated on the efficacy of the health and safety measures that are put in place throughout its passenger journey with the intention of ensuring maximum safety and wellbeing for its valued passengers and crew alike.",
+    "url": "https://island.lk/srilankan-airlines-adhering-to-all-measures-as-per-iatas-findings-on-safety-of-air-travel/",
+    "url_hash": "1f125da5a98363f9829b54ad98783d6e",
+    "ut": 1630289101,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          2,
+          3
         ]
       }
     ]
