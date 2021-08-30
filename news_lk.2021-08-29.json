@@ -3167,6 +3167,57 @@
   },
   {
     "date": "2021-08-29",
+    "title": "SL PM's son welcomes Stalin's welfare package for Lankan refugees",
+    "source": "news.webindia123.com",
+    "snippet": "Reacting to Tamil Nadu Chief Minister M.K. Stalin's announcement of a welfare package for Sri Lankan Tamil refugees, Namal Rajapaksa, the son of the island ... returned to Sri Lanka with the ...",
+    "url": "https://news.webindia123.com/news/Articles/Asia/20210829/3810788.html",
+    "url_hash": "ece406c04e5fee05ffcdfb1ff60f8790",
+    "ut": 1630246110,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "M.K. Stalin",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
     "title": "SLT says it has nothing to do with NMRA cyber mystery",
     "source": "www.dailymirror.lk",
     "snippet": "National telecommunications services provider, SLT-Mobitel has set the record straight on recent media reports claiming that the company managed the Lanka Government Cloud and provided services to the National Medicines Regulatory Authority (NMRA).",
@@ -5168,6 +5219,41 @@
     "url": "https://www.dailymirror.lk/recomended-news/SL-ranks-94-in-Corruption-Perception-Index--so-there-is-room-to-improve---US-Envoy-Alaina-B-Teplitz/277-219272",
     "url_hash": "63f7fdd7636de65b47f0a868d60a1c2e",
     "ut": 1630271289,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alaina B.Teplitz",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          9,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "SL ranks 94 in Corruption Perception Index, so there is room to improve - US Envoy Alaina B.Teplitz",
+    "source": "www.dailymirror.lk",
+    "snippet": "US Ambassador Alaina B.Teplitz, in an interview with the Daily Mirror, talks about the development of business environment.... ..",
+    "url": "https://www.dailymirror.lk/recomended-news/SL-ranks-94-in-Corruption-Perception-Index-so-there-is-room-to-improve-US-Envoy-Alaina-B-Teplitz/277-219272",
+    "url_hash": "623c0fe0f64c40c4f9f9a3a7ec6cda0d",
+    "ut": 1630271299,
     "ent_info_list": [
       {
         "label": "GPE",
