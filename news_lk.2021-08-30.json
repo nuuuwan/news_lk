@@ -5770,5 +5770,161 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "216 COVID-19 deaths reported: Death toll surges to 8,991",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 216 more COVID-19 related deaths that occurred yesterday (29) were confirmed by the Director-General of Health Services today pushing the death toll to 8,991. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/216-COVID-19-deaths-reported-Death-toll-surges-to-8-991/108-219332",
+    "url_hash": "942ac29bf9e7af966413a3eb8c3d5325",
+    "ut": 1630343294,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "216",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "29",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8,991",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Perera returns to Sri Lanka squad for South Africa series",
+    "source": "thefrontierpost.com",
+    "snippet": "Kusal Perera makes his return to the Sri Lanka limited-overs squad for South Africa's tour of the island, following a bout with Covid-19. According to medical staff, it seems unlikely that he will be available for the ODI leg of the tour,",
+    "url": "https://thefrontierpost.com/perera-returns-to-sri-lanka-squad-for-south-africa-series/",
+    "url_hash": "92890bcb81354b31b23d7bc4b5955c7f",
+    "ut": 1630343422,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kusal Perera",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa's",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Over 4,500 COVID-19 positive cases reported in Sri Lanka today",
+    "source": "www.dailynews.lk",
+    "snippet": "A total of 4,562 COVID-19 positive cases were reported in Sri Lanka, stated the Epidemiology Unit. The total count of positive coronavirus cases found in Sri Lanka currently sits at 436,081.",
+    "url": "http://www.dailynews.lk/2021/08/30/local/258040/over-4500-covid-19-positive-cases-reported-sri-lanka-today",
+    "url_hash": "64ffd0f2897d984dbfac4620f0cf73af",
+    "ut": 1630343897,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "4,562",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "436,081",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Allrounder Pretorius pumped for Proteas' tour of Sri Lanka",
+    "source": "www.timeslive.co.za",
+    "snippet": "Proteas must put off-field drama aside to focus on what will be their last chance to tune up before the T20 World Cup",
+    "url": "https://www.timeslive.co.za/sunday-times-daily/sport/2021-08-30-allrounder-pretorius-pumped-for-proteas-tour-of-sri-lanka/",
+    "url_hash": "a9ed408034ee7217999501dc9afca395",
+    "ut": 1630345402,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
   }
 ]
