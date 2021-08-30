@@ -1354,6 +1354,57 @@
   },
   {
     "date": "2021-08-30",
+    "title": "SL ranks 94 in Corruption Perception Index, so there is room to improve - US Envoy Alaina B.Teplitz",
+    "source": "www.dailymirror.lk",
+    "snippet": "Asks Govt. to be careful of room for money laundering, corrupt practices under port city regulations Sri Lanka is a place with enormous commercial and economic potential USA wants an aligned approach to evolving situation in Afghanistan US Ambassador ...",
+    "url": "https://www.dailymirror.lk/opinion/SL-ranks-94-in-Corruption-Perception-Index-so-there-is-room-to-improve-US-Envoy-Alaina-B-Teplitz/172-219272",
+    "url_hash": "08c8975eefb4e74c02893ab3d4b327f1",
+    "ut": 1630292887,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Asks Govt",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "USA",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "U.S. ambassador urges Govt. to leverage IMF resources",
     "source": "www.dailymirror.lk",
     "snippet": "Says would like to see Sri Lanka attract high-quality investors Discusses about some of the challenges facing investors ..",
@@ -5076,6 +5127,41 @@
     "title": "More vaccines for Army-driven vaccination, less for hospitals, MOH: GMOA",
     "source": "www.dailymirror.lk",
     "snippet": "The Government Medical Officers' Association (GMOA) today charged that large stocks of COVID-19 vaccines were provided for vaccination rollout by the Sri Lanka Army, but inadequate vaccines supplied for the hospitals and for the Medical Officer of Health (MOH) offices.",
+    "url": "https://www.dailymirror.lk/breaking_news/More-vaccines-for-Army-driven-vaccination-less-for-hospitals-MOH-GMOA/108-219330",
+    "url_hash": "e09339248b9bbf9f37c0c6f42e9f9e57",
+    "ut": 1630332487,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Medical Officer of Health",
+        "start_end": [
+          37,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "More vaccines for Army-driven vaccination, less for hospitals, MOH: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government Medical Officers' Association (GMOA) today charged that large stocks of COVID-19 vaccines were provided for vaccination rollout by the Sri Lanka Army, but inadequate vaccines supplied for the hospitals and for the Medical Officer of Health (MOH) offices.",
     "url": "https://www.dailymirror.lk/latest_news/More-vaccines-for-Army-driven-vaccination-less-for-hospitals-MOH-GMOA/342-219330",
     "url_hash": "768e8866b4a1617a058b9059528f592e",
     "ut": 1630332514,
@@ -5484,6 +5570,81 @@
     "title": "First COVID-19 intermediate Treatment Centre for Buddhist clergy",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka's first COVID-19 intermediate Treatment Centre for Buddhist monks was opened today by Army Commander Shavendra Silva. The International Vipassana Meditation Centre in Colombo, which was converted into a treatment centre has the capacity of accommodating 84 monks.",
+    "url": "https://www.dailymirror.lk/caption_story/First-COVID-19-intermediate-Treatment-Centre-for-Buddhist-clergy/110-219323",
+    "url_hash": "08accf88bdf57e1904191a5c57b2db37",
+    "ut": 1630336087,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The International Vipassana Meditation Centre",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "84",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "First COVID-19 intermediate Treatment Centre for Buddhist clergy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's first COVID-19 intermediate Treatment Centre for Buddhist monks was opened today by Army Commander Shavendra Silva. The International Vipassana Meditation Centre in Colombo, which was converted into a treatment centre has the capacity of accommodating 84 monks.",
     "url": "https://www.dailymirror.lk/latest_news/First-COVID-19-intermediate-Treatment-Centre-for-Buddhist-clergy/342-219323",
     "url_hash": "a58c365a8728d8ba4ea76daf1836276e",
     "ut": 1630336114,
@@ -5811,6 +5972,41 @@
     "title": "President declares emergency regulations on provision of essential food",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa has declared Emergency regulations on the provision of essential foods with effect from midnight today, Presidential Media Division (PMD) said. ..",
+    "url": "https://www.dailymirror.lk/top_story/President-declares-emergency-regulations-on-provision-of-essential-food/155-219334",
+    "url_hash": "3fbbd309c8a80b29a5a493e0b787abac",
+    "ut": 1630343287,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight today",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Presidential Media Division",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "President declares emergency regulations on provision of essential food",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has declared Emergency regulations on the provision of essential foods with effect from midnight today, Presidential Media Division (PMD) said. ..",
     "url": "https://www.dailymirror.lk/latest_news/President-declares-emergency-regulations-on-provision-of-essential-food/342-219334",
     "url_hash": "d794c610eb7e6d7492795dd63b4a752c",
     "ut": 1630343292,
@@ -6050,6 +6246,33 @@
   },
   {
     "date": "2021-08-30",
+    "title": "Easter Sunday attacks could have been averted - ASANGA ABEYAGOONASEKERAINSSSL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Questions continue to be raised with regards to the 2019 Easter Sunday attacks. Allegations of criminal negligence have been made against officials and members of the former Government. Former ..",
+    "url": "https://www.dailymirror.lk/hard-talk/Easter-Sunday-attacks-could-have-been-averted-ASANGA-ABEYAGOONASEKERAINSSSL/334-219354",
+    "url_hash": "611e52a6a9ff9e6d6aee93bbdc695665",
+    "ut": 1630346887,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "Tamil Nadu tinkers with Lankan Tamil refugees' issue",
     "source": "www.dailymirror.lk",
     "snippet": "The Chief Minister of Tamil Nadu, M.K. Stalin, recently won plaudits both at home and abroad for announcing a very comprehensive welfare package totaling INR 317 crore (US$ 43.1 million) for Sri Lankan Tamil refugees in the State.",
@@ -6219,6 +6442,68 @@
   },
   {
     "date": "2021-08-30",
+    "title": "Spiraling CoL adds insult to injury",
+    "source": "www.dailymirror.lk",
+    "snippet": "If not for the severity of the COVID 19 pandemic which has been threatening Sri Lankans as well as people in other countries with death, there could have sometimes been country wide demonstrations in Sri Lanka against the spiraling cost of livi .",
+    "url": "https://www.dailymirror.lk/opinion/Spiraling-CoL-adds-insult-to-injury/172-219352",
+    "url_hash": "c37180c7d67bffab78c7209cbcdbe051",
+    "ut": 1630350487,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka gets another $100m from BB",
+    "source": "www.thedailystar.net",
+    "snippet": "Bangladesh Bank has lent $100 million more to Sri Lanka to help the island nation stay afloat tackling a foreign exchange crisis.",
+    "url": "https://www.thedailystar.net/business/economy/banks/news/sri-lanka-gets-another-100m-bb-2164856",
+    "url_hash": "5640c6002f5f89810c71caadd7d73f4c",
+    "ut": 1630350497,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Bangladesh Bank",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$100 million",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "We're preparing as best as we can in tough conditions, says Proteas allrounder Pretorius",
     "source": "www.dispatchlive.co.za",
     "snippet": "The Proteas have been in quarantine and training in small groups since arriving in Colombo last week and allrounder Dwaine Pretorius has said the team is preparing as best as they can in a tough bubble environment and unfamiliar conditions ahead of the start of their six-match limited-overs series against Sri Lanka.",
@@ -6264,6 +6549,33 @@
         "start_end": [
           54,
           56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka's macroeconomic policy setting: Cohesion or confusion?",
+    "source": "www.ft.lk",
+    "snippet": "The hike in policy interest rates by the Central Bank of Sri Lanka (CBSL) in August 2021 marks a shift from stimulus to exit strategies in the pandemic era. Such recalibrations globally are focused on how to tackle the historically large debt-to-GDP ratios that the COVID-19 pandemic leaves in its wake.",
+    "url": "https://www.ft.lk/opinion/Sri-Lanka-s-macroeconomic-policy-setting-Cohesion-or-confusion/14-722416",
+    "url_hash": "f261378811a8b3ae33feadb47e64b54e",
+    "ut": 1630350511,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          7,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 2021 marks",
+        "start_end": [
+          17,
+          20
         ]
       }
     ]
@@ -6451,6 +6763,92 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka opens for Indian travellers once again",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka Tourism said yesterday it is all geared to welcome Indian travellers once again from this week, backed by support from the national carrier SriLankan Airlines. ..",
+    "url": "https://www.ft.lk/front-page/Sri-Lanka-opens-for-Indian-travellers-once-again/44-722436",
+    "url_hash": "00fc4fb1cae3405f7cf7eff115212a4d",
+    "ut": 1630355265,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "President issues emergency regulations on essential food supplies",
+    "source": "www.ft.lk",
+    "snippet": "President Gotabaya Rajapaksa last night issued emergency regulations to ensure uninterrupted supply of essential food items at a fair price, while appointing Maj. Gen. M.D.S.P. Niwunhella as the Essential Services Commissioner.",
+    "url": "https://www.ft.lk/front-page/President-issues-emergency-regulations-on-essential-food-supplies/44-722448",
+    "url_hash": "924c7f76ba48608a2a4812b0cdfcfba9",
+    "ut": 1630355745,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last night",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "M.D.S.P. Niwunhella",
+        "start_end": [
+          26,
+          28
         ]
       }
     ]
