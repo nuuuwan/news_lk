@@ -1,6 +1,100 @@
 [
   {
     "date": "2021-08-30",
+    "title": "Booster shots likely from October",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government is to consider administering booster shots from October, especially for the vulnerable groups. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Booster-shots-likely-from-October/342-219277",
+    "url_hash": "7929738eadbcce2207a116fa9a528fb5",
+    "ut": 1630282086,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "CAA cracks down on three warehouses storing 5,400 tonnes sugar",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Consumer Affairs Authority (CAA) cracked down on three warehouses unlawfully stored with 5,400 tonnes of sugar in Gampaha and Seeduwa during the last couple of days, State Minister Lasantha Alagiyawanna said.",
+    "url": "https://www.dailymirror.lk/latest_news/CAA-cracks-down-on-three-warehouses-storing-5-400-tonnes-sugar/342-219280",
+    "url_hash": "fc115071b22c992984fa14e25c650c07",
+    "ut": 1630282086,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Consumer Affairs Authority",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "5,400 tonnes",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Seeduwa",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last couple of days",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lasantha Alagiyawanna",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "53 community cases of Covid-19, total cases 562",
     "source": "www.times.co.nz",
     "snippet": "MINISTRY OF HEALTH COVID-19 UPDATE August 30, 2021 There are 53 new cases of Covid-19 in the New Zealand community today. All 53 cases are in Auckland. This brings the total number of active cases in the community outbreak to 562.",
@@ -101,6 +195,65 @@
     "url": "https://economynext.com/sri-lanka-private-credit-grows-in-july-cb-credit-soars-in-reserve-appropriations-85580/",
     "url_hash": "bd9ad3da7a3170eeaaf7be508c7d2962",
     "ut": 1630284166,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "76.6 billion",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 2020",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "83.4 billion",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a month earlier",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "a billion US dollar",
+        "start_end": [
+          34,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka bank loans grow in July, CB credit soars in reserve appropriations",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's private credit grew 76.6 billion rupees in July 2020, down from 83.4 billion rupees a month earlier, while central bank credit soared as foreign reserves were appropriated to repay a billion US dollar sovereign bonds and some other accounts,",
+    "url": "https://economynext.com/sri-lanka-bank-loans-grow-in-july-cb-credit-soars-in-reserve-appropriations-85580/",
+    "url_hash": "bc12eb8a818615346b5aedb14aa2cddf",
+    "ut": 1630285710,
     "ent_info_list": [
       {
         "label": "GPE",
@@ -360,6 +513,100 @@
         "start_end": [
           2,
           3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "U.S. Ambassador urges Govt. to leverage IMF resources",
+    "source": "www.dailymirror.lk",
+    "snippet": "U.S. Ambassador Alaina B. Teplitz said she continues to urge the government to leverage the resources of the IMF (International Monetary Fund) as a member state and take advantage of the tools that can come to assess Sri Lanka's economic performance.",
+    "url": "https://www.dailymirror.lk/latest_news/U-S-Ambassador-urges-Govt-to-leverage-IMF-resources/342-219278",
+    "url_hash": "2cfa6fb0f1e121e09f64c9787587e89d",
+    "ut": 1630289286,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alaina B. Teplitz",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Nawaloka Hospitals reinstated as PCR testing partner of the Embassy of China",
+    "source": "island.lk",
+    "snippet": "Pioneering private healthcare provider Nawaloka Hospitals recently announced that it has been reinstated as the PCR testing partner of the Embassy of the People's Republic of China in Sri Lanka, from the 2nd August,",
+    "url": "https://island.lk/nawaloka-hospitals-reinstated-as-pcr-testing-partner-of-the-embassy-of-china/",
+    "url_hash": "9d49632bec3fdd134ce7d8b9ee1a6248",
+    "ut": 1630289294,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nawaloka Hospitals",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Embassy of the People's Republic of China",
+        "start_end": [
+          19,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 2nd August",
+        "start_end": [
+          33,
+          36
         ]
       }
     ]
@@ -738,6 +985,159 @@
         "start_end": [
           46,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Over 6,000 health workers confirmed COVID positive; 250 in Kandy alone: Ratnapriya",
+    "source": "www.dailymirror.lk",
+    "snippet": "More than 6,000 health workers in the health sector have contracted corona virus, Government Nurses Association President Saman Ratnapriya. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Over-6-000-health-workers-confirmed-COVID-positive-250-in-Kandy-alone-Ratnapriya/342-219282",
+    "url_hash": "13e85c4a8559b707fdfe96f3aa2a6144",
+    "ut": 1630292886,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "More than 6,000",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government Nurses Association",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Saman Ratnapriya",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Covid-19 update on 30 August: 53 new community cases",
+    "source": "www.rnz.co.nz",
+    "snippet": "There are 53 new Covid-19 cases in the community today as Cabinet meets to decide the next steps for Auckland and Northland.",
+    "url": "https://www.rnz.co.nz/news/covid-19/450347/covid-19-update-on-30-august-53-new-community-cases",
+    "url_hash": "18c3ed2d684dca1e7ef74caabde933a8",
+    "ut": 1630293146,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "53",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Northland",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Navy assists seizure of Kerala cannabis worth more than Rs. 55 million with 02 suspects in Mannar",
+    "source": "www.news.lk",
+    "snippet": "A special operation carried out by Sri Lanka Navy and Sri Lanka Police made way to the seizure of about 183kg and 715g stock of Kerala cannabis at the Murungan Panniwettuwan roadblock in Mannar on 28th August 2021.",
+    "url": "https://www.news.lk/news/political-current-affairs/item/32835-navy-assists-seizure-of-kerala-cannabis-worth-more-than-rs-55-million-with-02-suspects-in-mannar",
+    "url_hash": "0eca63f656024aaeefddebf3dc9ecb89",
+    "ut": 1630296014,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Police",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 183kg",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "715",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mannar",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "28th August 2021",
+        "start_end": [
+          37,
+          40
         ]
       }
     ]
