@@ -2401,6 +2401,65 @@
   },
   {
     "date": "2021-08-29",
+    "title": "Stalin keeps revival of LTTE at bay by doling out sops to Sri Lankan Tamil refugees",
+    "source": "news.webindia123.com",
+    "snippet": "In April 2021, the Indian Coast Guard apprehended a Sri Lankan boat from Pakistan and headed towards the Island nation with ... \"The Tamil people of Sri Lanka and Tamil Nadu are the same.",
+    "url": "https://news.webindia123.com/news/Articles/India/20210829/3810692.html",
+    "url_hash": "e867af2fe6a46597b7b34b7743a1c4a6",
+    "ut": 1630235299,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "April 2021",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian Coast Guard",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
     "title": "34 children reported with post-covid multisystem inflammatory syndrome: Pediatrician",
     "source": "www.dailymirror.lk",
     "snippet": "About 34 children have been infected with the post-covid syndrome called \"Multisystem inflammatory syndrome in children' so far in Sri Lanka and five such children were receiving treatment at the Intensive Care Unit of the Lady Ridgeway Hospital at present,",
@@ -5038,6 +5097,41 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-29",
+    "title": "SL ranks 94 in Corruption Perception Index, so there is room to improve - US Envoy Alaina B.Teplitz",
+    "source": "www.dailymirror.lk",
+    "snippet": "US Ambassador Alaina B.Teplitz, in an interview with the Daily Mirror, talks about the development of business environment.... ..",
+    "url": "https://www.dailymirror.lk/recomended-news/SL-ranks-94-in-Corruption-Perception-Index--so-there-is-room-to-improve---US-Envoy-Alaina-B-Teplitz/277-219272",
+    "url_hash": "63f7fdd7636de65b47f0a868d60a1c2e",
+    "ut": 1630271289,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alaina B.Teplitz",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          9,
+          12
         ]
       }
     ]

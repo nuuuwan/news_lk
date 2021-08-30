@@ -742,6 +742,76 @@
   },
   {
     "date": "2021-08-30",
+    "title": "150,000 vials of Pfizer vaccines arrive",
+    "source": "www.dailymirror.lk",
+    "snippet": "A consignment of 150,000 doses of Pfizer vaccine vials have been flown in to the country from the United States of America and freighted by Qatar Airways, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/150-000-vials-of-Pfizer-vaccines-arrive/108-219281",
+    "url_hash": "802f22b5c6f53573b65f8fd7109d1e8c",
+    "ut": 1630289289,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "150,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States of America",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Qatar Airways",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Pandemic has brought high demand for cardboard coffins",
+    "source": "www.dailymirror.lk",
+    "snippet": "The COVID 19 pandemic has brought about a high demand for cardboard coffins, Member of Dehiwala Mount Lavinia Municipal Council Priyantha Sahabandu said yesterday. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Pandemic-has-brought-high-demand-for-cardboard-coffins/108-219279",
+    "url_hash": "0c15bc204043c81a078937f6e1d260ab",
+    "ut": 1630289289,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Dehiwala Mount Lavinia Municipal Council Priyantha Sahabandu",
+        "start_end": [
+          16,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "Nawaloka Hospitals reinstated as PCR testing partner of the Embassy of China",
     "source": "island.lk",
     "snippet": "Pioneering private healthcare provider Nawaloka Hospitals recently announced that it has been reinstated as the PCR testing partner of the Embassy of the People's Republic of China in Sri Lanka, from the 2nd August,",
@@ -1249,6 +1319,25 @@
   },
   {
     "date": "2021-08-30",
+    "title": "U.S. ambassador urges Govt. to leverage IMF resources",
+    "source": "www.dailymirror.lk",
+    "snippet": "Says would like to see Sri Lanka attract high-quality investors Discusses about some of the challenges facing investors ..",
+    "url": "https://www.dailymirror.lk/front_page/U-S-ambassador-urges-Govt-to-leverage-IMF-resources/238-219296",
+    "url_hash": "c78f51b56ffa275860ab68339572ae53",
+    "ut": 1630292889,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "Stalin to push for Citizenship for Sri Lankan refugees",
     "source": "www.dailymirror.lk",
     "snippet": "Stalin is to push for citizenship for Sri Lankan refugees in Tamil Nadu. Stalin, who last week announced a financial package to assist the refugees and renamed the refugee camps as rehabilitation camps spoke to the Vice Chairman of the Ceylon Workers' Congress (CWC) Senthil Thondaman over the telephone yesterday.",
@@ -1528,6 +1617,73 @@
   },
   {
     "date": "2021-08-30",
+    "title": "Dinesh wins gold for Sri Lanka in Paralympics",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's Dinesh Priyantha won the first Gold Medal for Sri Lanka at the Tokyo Paralympics after he set a new World Record in the Men's F46 Javelin Throw with a distance of 67.79m ..",
+    "url": "https://www.dailymirror.lk/top_story/Dinesh-wins-gold-for-Sri-Lanka-in-Paralympics/155-219302",
+    "url_hash": "004ac07d22710e812c82f3aa63279c7e",
+    "ut": 1630296489,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Priyantha",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tokyo Paralympics",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "World Record",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "67.79",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "BBS donates over Rs.7mn to buy COVID virus detection unit for Pera. Uni.",
     "source": "www.dailymirror.lk",
     "snippet": "General Secretary, Ven. Galagoda Aththe Gnanasara Thera donated over Rs.7 million to purchase a COVID-19 virus detection unit which will facilitate sequencing purposes at the Department of Microbiology,",
@@ -1751,6 +1907,92 @@
   },
   {
     "date": "2021-08-30",
+    "title": "India all-rounder Sundar ruled out of IPL with finger injury",
+    "source": "www.reuters.com",
+    "snippet": "All-rounder Washington Sundar was ruled out of the remainder of this year's Indian Premier League on Monday due to a finger injury, raising doubts over his availability for the Twenty20 World Cup later this year.",
+    "url": "https://www.reuters.com/lifestyle/sports/india-all-rounder-sundar-ruled-out-ipl-with-finger-injury-2021-08-30/",
+    "url_hash": "96073bc464d45f2ccaf204a6b125ff3d",
+    "ut": 1630300099,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Washington Sundar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "year",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Twenty20 World Cup",
+        "start_end": [
+          32,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "later this year",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka bond auction bids mired in uncertainty after 2 and 4 year de facto policy rate hikes, SRR",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka bond markets are mired in uncertainty after hikes controlled yields in bonds which have become signaling mechanism and de facto policy rates through which large volumes of money is printed,",
+    "url": "https://economynext.com/sri-lanka-bond-auction-bids-mired-in-uncertainty-after-2-and-4-year-de-facto-policy-rate-hikes-srr-85583/",
+    "url_hash": "433e8c5ee610eac47923348451d6ba49",
+    "ut": 1630300117,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "Sri Lanka to bond market still uncertain after 2 and 4 year de facto policy rate hikes",
     "source": "economynext.com",
     "snippet": "Sri Lanka bond markets are mired in uncertainty after hikes controlled yields in bonds which have become signaling mechanism and de facto policy rates through which large volumes of money is printed,",
@@ -1920,6 +2162,293 @@
         "start_end": [
           15,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Cricket-India all-rounder Sundar ruled out of IPL with finger injury",
+    "source": "www.nasdaq.com",
+    "snippet": "All-rounder Washington Sundar was ruled out of the remainder of this year's Indian Premier League on Monday due to a finger injury, raising doubts over his availability for the Twenty20 World Cup later this year.",
+    "url": "https://www.nasdaq.com/articles/cricket-india-all-rounder-sundar-ruled-out-of-ipl-with-finger-injury-2021-08-30",
+    "url_hash": "d54b2802147d5cd1eb0f6b0f844f7f21",
+    "ut": 1630303699,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Washington Sundar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "year",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Twenty20 World Cup",
+        "start_end": [
+          32,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "later this year",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka javelin thrower strikes gold, sets world record at 2020 Paralympics",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's javelin thrower Dinesh Priyantha Herath has won the island's first gold medal at the 2020 Tokyo Paralympics, setting a new world record, international reports said. This is Sri Lanka's first ever gold medal at a Paralympics event.",
+    "url": "https://economynext.com/sri-lanka-javelin-thrower-strikes-gold-sets-world-record-at-2020-paralympics-85587/",
+    "url_hash": "a5e1d335a198cd9cb436f60a3ff374cd",
+    "ut": 1630303717,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Priyantha Herath",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tokyo Paralympics",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Paralympics",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "UN stands in solidarity with enforced disappearances victims in SL:Hanaa Singer",
+    "source": "www.dailymirror.lk",
+    "snippet": "The United Nations said today they would stand in solidarity with the victims of enforced disappearances, their families and communities, here in Sri Lanka and across the world. ..",
+    "url": "https://www.dailymirror.lk/latest_news/UN-stands-in-solidarity-with-enforced-disappearances-victims-in-SLHanaa-Singer/342-219311",
+    "url_hash": "691a54776e4688d306007194fc4c0f5c",
+    "ut": 1630304409,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The United Nations",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Cricket: India all-rounder Washington Sundar ruled out of IPL with finger injury",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "The 21-year-old Sundar, who bowls off-spin and is a handy batsman lower down the order, suffered the injury in England before being forced out of India's ongoing five-match test series against Joe Root's men.",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket-india-all-rounder-washington-sundar-ruled-out-of-ipl-with-finger-injury/articleshow/85759417.cms",
+    "url_hash": "4360f673905fe6fd1ee3dc7132c59501",
+    "ut": 1630305439,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "21-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sundar",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Root's",
+        "start_end": [
+          42,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka receives more Pfizer COVID vaccines",
+    "source": "www.dailynews.lk",
+    "snippet": "Sri Lanka has received another consignment of 124,000 doses of the Pfizer vaccine this morning. The consignments were purchased by the State Pharmaceuticals Corporation (SPC).",
+    "url": "http://www.dailynews.lk/2021/08/30/local/257963/sri-lanka-receives-more-pfizer-covid-vaccines",
+    "url_hash": "30472637cbad36f1b47446246aa345e2",
+    "ut": 1630306695,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "124,000",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the State Pharmaceuticals Corporation",
+        "start_end": [
+          21,
+          25
         ]
       }
     ]
