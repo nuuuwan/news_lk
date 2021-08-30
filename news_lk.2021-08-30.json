@@ -6852,5 +6852,88 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "MD Pathik Hasan",
+    "source": "www.dailynews.lk",
+    "snippet": "Pakistan's Prime Minister Imran Khan visited Sri Lanka on February 23 and 24 at the invitation of Sri Lankan Prime Minister Mahinda Rajapaksa. This is his first visit to Sri Lanka after coming to...",
+    "url": "https://www.dailynews.lk/line/md-pathik-hasan-0",
+    "url_hash": "92f1f8b880d51d3a549939fc9fee6751",
+    "ut": 1630359176,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Imran Khan",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February 23",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
   }
 ]
