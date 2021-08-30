@@ -3014,6 +3014,33 @@
     "title": "Sri Lanka seeks safety of travellers from Afghanistan",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka hoped that all those who possess travel authorization from other countries would be allowed to proceed in a safe and orderly manner to the points of departure and travel out of Afghanistan,",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-seeks-safety-of-travellers-from-Afghanistan/108-219318",
+    "url_hash": "e9bb80e576fb297d1e94c1b14c54bb30",
+    "ut": 1630310856,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka seeks safety of travellers from Afghanistan",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka hoped that all those who possess travel authorization from other countries would be allowed to proceed in a safe and orderly manner to the points of departure and travel out of Afghanistan,",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-seeks-safety-of-travellers-from-Afghanistan/342-219318",
     "url_hash": "03aa4aacb231c2cbf3d1ab4bbb25c7bc",
     "ut": 1630310897,
@@ -3196,6 +3223,110 @@
         "start_end": [
           49,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Opinion: Stay Home, Save Lives | Lockdowns, medical measures, & vaccination needed to save lives",
+    "source": "www.lankabusinessonline.com",
+    "snippet": "The complex challenge posed by COVID-19 both in protecting public health and the socioeconomic functioning of the country confront policymakers with difficult choices. Large scale movement and physical distance restrictions,",
+    "url": "https://www.lankabusinessonline.com/opinion-stay-home-save-lives-lockdowns-medical-measures-vaccination-needed-to-save-lives/",
+    "url_hash": "945d8035c69d1753f69f09baaaa4dbe4",
+    "ut": 1630319266,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-08-30",
+    "title": "India is failing its Afghan friends",
+    "source": "www.msn.com",
+    "snippet": "So when India withdrew in defeat, it evacuated him as well as well as thousands of other threatened Sri Lankan Tamils. This was not merely about moral principle, but also out of interest to protect its assets and keep leverage over Sri Lanka.",
+    "url": "https://www.msn.com/en-in/news/opinion/india-is-failing-its-afghan-friends/ar-AANTF8L",
+    "url_hash": "42b33d5944b9e3459aefd0dfad269eab",
+    "ut": 1630319386,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Tamils",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Israel expands COVID booster shot drive to ages 30 and up",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Israel Health Ministry on Tuesday announced that Israelis age 30 and over are now eligible to receive a COVID-19 vaccine booster, expanding the program days after lowering the minimum age to 40. .",
+    "url": "https://www.dailymirror.lk/latest_news/Israel-expands-COVID-booster-shot-drive-to-ages-30-and-up/342-219321",
+    "url_hash": "b8c8374ca80bee9251ebc4138033c2b9",
+    "ut": 1630319736,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Israel Health Ministry",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Israelis",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "age 30",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "days",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
