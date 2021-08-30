@@ -4136,6 +4136,57 @@
   },
   {
     "date": "2021-08-30",
+    "title": "85% Covid deaths among those with chronic diseases: HPB Director",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Health Ministry said today that 85% of the 6,985 Covid-19 deaths that have been reported upto August 13, were among people who were suffering from chronic diseases and under medical treatment previously.",
+    "url": "https://www.dailymirror.lk/latest_news/85-Covid-deaths-among-those-with-chronic-diseases-HPB-Director/342-219325",
+    "url_hash": "9fe69a025ed491255b60ca404af9c14f",
+    "ut": 1630325314,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "85%",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6,985",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 13",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "SriLankan Airlines to commence direct flights to Kathmandu",
     "source": "menafn.com",
     "snippet": "Direct flights between Nepal and Sri Lanka will resume from Tuesday after a hiatus of several decades.   Sri Lanka'",
@@ -4901,6 +4952,41 @@
   },
   {
     "date": "2021-08-30",
+    "title": "More vaccines for Army-driven vaccination, less for hospitals, MOH: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government Medical Officers' Association (GMOA) today charged that large stocks of COVID-19 vaccines were provided for vaccination rollout by the Sri Lanka Army, but inadequate vaccines supplied for the hospitals and for the Medical Officer of Health (MOH) offices.",
+    "url": "https://www.dailymirror.lk/latest_news/More-vaccines-for-Army-driven-vaccination-less-for-hospitals-MOH-GMOA/342-219330",
+    "url_hash": "768e8866b4a1617a058b9059528f592e",
+    "ut": 1630332514,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Medical Officer of Health",
+        "start_end": [
+          37,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "Sri Lanka receives 124,000 more doses of Pfizer-BioNTech; over 300K jabbed",
     "source": "economynext.com",
     "snippet": "Sri Lanka received another 124,020 doses of the Pfizer-BioNTech COVID-19 vaccine Monday (30) morning. Health authorities have administrated the first dose of the Pfizer to 306,374 while the second has been given to 183,",
@@ -4986,6 +5072,49 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sri Lanka's stock index retreats after hitting record on technical glitch amid high turnover",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's main stock index slipped 0.41 percent on Monday (30) after touching a fresh record high due to technical issues amid analysts expect a correction in an overheated market, brokers said. Colombo Stock Exchange,",
+    "url": "https://economynext.com/sri-lankas-stock-index-retreats-after-hitting-record-on-technical-glitch-amid-high-turnover-85606/",
+    "url_hash": "701459900cc40d2e995fee7e36fe60d3",
+    "ut": 1630332544,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.41 percent",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo Stock Exchange",
+        "start_end": [
+          37,
+          40
         ]
       }
     ]
@@ -5225,6 +5354,247 @@
         "start_end": [
           54,
           56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "First COVID-19 intermediate Treatment Centre for Buddhist clergy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's first COVID-19 intermediate Treatment Centre for Buddhist monks was opened today by Army Commander Shavendra Silva. The International Vipassana Meditation Centre in Colombo, which was converted into a treatment centre has the capacity of accommodating 84 monks.",
+    "url": "https://www.dailymirror.lk/latest_news/First-COVID-19-intermediate-Treatment-Centre-for-Buddhist-clergy/342-219323",
+    "url_hash": "a58c365a8728d8ba4ea76daf1836276e",
+    "ut": 1630336114,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The International Vipassana Meditation Centre",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "84",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Gold Medal",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka's Dinesh Priyantha set a new world record in the javelin throw at the Paralympic Games in Tokyo today. Priyantha threw the javelin at a distance of 67.79 metres while two Indians had...",
+    "url": "https://dailynews.lk/tags/gold-medal",
+    "url_hash": "eab19ec8989e38f26ddb8ec2a17b30fd",
+    "ut": 1630336659,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Priyantha",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Paralympic Games",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Priyantha",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "67.79 metres",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Sergeant Dinesh Priyantha Herath",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka's Dinesh Priyantha set a new world record in the javelin throw at the Paralympic Games in Tokyo today. Priyantha threw the javelin at a distance of 67.79 metres while two Indians",
+    "url": "https://dailynews.lk/tags/sergeant-dinesh-priyantha-herath",
+    "url_hash": "842666adbb3f99da77fd34c0d4fd35bf",
+    "ut": 1630336659,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Priyantha",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Paralympic Games",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Priyantha",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "67.79 metres",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
