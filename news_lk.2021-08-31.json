@@ -1800,6 +1800,33 @@
   },
   {
     "date": "2021-08-31",
+    "title": "It's a long wait...",
+    "source": "www.dailymirror.lk",
+    "snippet": "People are seen queueing up to get their goods at the Maligawatta Sathosa outlet. Due to the rapid spreading of COVID pandemic situation, the people are not allowed to enter the Sathosa outlets. People are asked to hand over their list of goods to the counter for their purchases.",
+    "url": "https://www.dailymirror.lk/caption_story/Its-a-long-wait/110-219406",
+    "url_hash": "1a7863d38ec53324cafdbea64ccc6fed",
+    "ut": 1630386616,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Maligawatta Sathosa",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sathosa",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "COVID vaccination centres functioning today",
     "source": "www.dailymirror.lk",
     "snippet": "A total number of 522 COVID-19 vaccination centres will be in operation in 23 districts across the country today, the Health Ministry said. Accordingly, the vaccination centres will function in Colombo, Gampaha, Kalutara, Kurunegala, Puttalam, Kandy ...",
@@ -4102,6 +4129,49 @@
         "start_end": [
           7,
           10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Sri Lanka Reports Rare Birth Of Elephant Twins",
+    "source": "www.barrons.com",
+    "snippet": "Sri Lanka's main elephant orphanage recorded a rare twin birth Tuesday as a 25-year-old named Surangi delivered healthy male calves.",
+    "url": "https://www.barrons.com/news/sri-lanka-reports-rare-birth-of-elephant-twins-01630415408",
+    "url_hash": "01ee3ee4d7b9b0ca01ee504b5c849cdf",
+    "ut": 1630429645,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "25-year-old",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Surangi",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
