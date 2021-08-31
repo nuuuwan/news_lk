@@ -224,6 +224,81 @@
   },
   {
     "date": "2021-08-31",
+    "title": "Currency Swap: Bangladesh remits another US$ 100 m",
+    "source": "www.msn.com",
+    "snippet": "Bangladesh sent US$100 million more to Sri Lanka yesterday to help the island nation in minimising foreign-exchange crunch on their economy, officials said. The funds from Bangladesh had been provided under the currency-swap agreement signed by the Bangladesh Bank (BB) and the Central Bank of Sri Lanka (CBSL) on August 03.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/currency-swap-bangladesh-remits-another-usdollar-100-m/ar-AANUPL7",
+    "url_hash": "54acf31b2ad91c0532419057bf438543",
+    "ut": 1630368513,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "US$100 million",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bangladesh",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bangladesh Bank",
+        "start_end": [
+          43,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "BB",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          50,
+          56
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 03",
+        "start_end": [
+          60,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Laksala opens first franchise outlet in USA",
     "source": "www.msn.com",
     "snippet": "Sri Lanka's first-ever overseas `Laksala' franchise outlet, organized by Sri Lanka Handicrafts Board (SLHB) to promote the country's traditional handicraft products to the international market will be opened in Miami,",
@@ -745,6 +820,65 @@
     "title": "Acumatica Cloud ERP Business Accelerates in South Asia",
     "source": "apnews.com",
     "snippet": "Acumatica, the world's fastest-growing cloud ERP company, announced its accelerated expansion across Asia-Pacific (APAC) to enhance support channels and better serve customers in the South Asia region with a focus on Sri Lanka.",
+    "url": "https://apnews.com/press-release/PRNewswire/europe-asia-south-asia-3a90381f7ae2d73ee1408d3e6b3d8d2d",
+    "url_hash": "9d72fed06666c3833458b8c93c4f344f",
+    "ut": 1630375723,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Acumatica",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ERP",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia-Pacific",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "APAC",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Acumatica Cloud ERP Business Accelerates in South Asia",
+    "source": "apnews.com",
+    "snippet": "Acumatica, the world's fastest-growing cloud ERP company, announced its accelerated expansion across Asia-Pacific (APAC) to enhance support channels and better serve customers in the South Asia region with a focus on Sri Lanka.",
     "url": "https://apnews.com/press-release/pr-newswire/europe-asia-south-asia-3a90381f7ae2d73ee1408d3e6b3d8d2d",
     "url_hash": "5f5288c38e34ccbc5f0c6a4301be0db9",
     "ut": 1630376975,
@@ -986,6 +1120,49 @@
         "start_end": [
           22,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "COVID vaccination centres functioning today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total number of 522 COVID-19 vaccination centres will be in operation in 23 districts across the country today, the Health Ministry said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/COVID-vaccination-centres-functioning-today/342-219383",
+    "url_hash": "c9e0592f461bc472147b04cde6d71138",
+    "ut": 1630379303,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "522",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          20,
+          23
         ]
       }
     ]
@@ -1625,6 +1802,320 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "5,858 Covid patients treated in 13 Ayurvedic Hospitals; 4,720 fully recovered: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Some 5,858 Covid patients were treated in 13 Ayurvedic Hospitals while 4,720 of them have fully recovered by now, State Minister of Indigenous Medicine Promotion, Rural and Ayurvedic Hospitals Development and Community Health Sisira Jayakody said.",
+    "url": "https://www.dailymirror.lk/latest_news/5-858-Covid-patients-treated-in-13-Ayurvedic-Hospitals-4-720-fully-recovered-Minister/342-219390",
+    "url_hash": "058031297be886e1028d3fbfc9c2690e",
+    "ut": 1630390103,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Some 5,858",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ayurvedic Hospitals",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,720",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indigenous Medicine Promotion",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rural",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ayurvedic Hospitals Development",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Rs. 500 counterfeit currency notes circulating in several areas; arrested suspects reveal",
+    "source": "www.dailymirror.lk",
+    "snippet": "Three persons have been arrested with 602 counterfeit currency notes of Rs. 500 by the Special Task Force of Police (STF) during a raid in Seeduwa. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Rs-500-counterfeit-currency-notes-circulating-in-several-areas-arrested-suspects-reveal/108-219389",
+    "url_hash": "38554f22ac9e10082b9d33ee7a18f4a5",
+    "ut": 1630390103,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "602",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "500",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Special Task Force of Police",
+        "start_end": [
+          15,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Seeduwa",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Covid-19: Govt. to provide indigenous medicines to all families",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government has planned to implement a program to provide indigenous immune strengthening medicines and immune strengthening porridge to all families in the country with the aim of controlling the current Covid 19 pandemic.",
+    "url": "https://www.dailymirror.lk/latest_news/Covid-19-Govt-to-provide-indigenous-medicines-to-all-families/342-219388",
+    "url_hash": "5a773b12976a304386f7acfe453ede2b",
+    "ut": 1630390113,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "Covid 19",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Sri Lanka will decide on IMF based on local and global conditions: Minister",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will take a required decision on whether to go the International Monetary Fund based on future conditions, co-cabinet spokesman Ramesh Pathirana said.",
+    "url": "https://economynext.com/sri-lanka-will-decide-on-imf-based-on-local-and-global-conditions-minister-85629/",
+    "url_hash": "92344d9775d1fdf772cac2c196aa389d",
+    "ut": 1630394992,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ramesh Pathirana",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "SriLankan Airlines announces \"buy one get one free\" offer to Indian travellers to Sri Lanka",
+    "source": "www.travelbizmonitor.com",
+    "snippet": "SriLankan Airlines today announced a special \"buy one and get one free\" offer for Indian travellers to visit Sri Lanka in the months to come. The offer is valid for all the seating categories and is applicable to the bookings made for flights between India & Colombo for leisure travel.",
+    "url": "https://www.travelbizmonitor.com/srilankan-airlines-announces-buy-one-get-one-free-offer-to-indian-travellers-to-sri-lanka/",
+    "url_hash": "425a5fb3a262cb829c61ce8678906b06",
+    "ut": 1630395693,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the months",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "India & Colombo",
+        "start_end": [
+          47,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "SriLankan Airlines woos Indian tourists with 'buy one get one free' offer",
+    "source": "www.msn.com",
+    "snippet": "Reopening for fully vaccinated Indian tourists \u2014 including those who got Covaxin, Sri Lanka is wooing them with a vengeance.SriLankan Airlines has come with a \"buy one and get one free\" offer for desi leisure travellers on Colmobo return tickets.",
+    "url": "https://www.msn.com/en-in/money/topstories/srilankan-airlines-woos-indian-tourists-with-buy-one-get-one-free-offer/ar-AANVCKO",
+    "url_hash": "5fc50b2f70ae2c8edc3ddd4fed65258c",
+    "ut": 1630396653,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "desi",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colmobo",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
