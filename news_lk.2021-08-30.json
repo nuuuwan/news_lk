@@ -6713,6 +6713,49 @@
   },
   {
     "date": "2021-08-30",
+    "title": "Sri Lanka may give third COVID-19 shot if necessary by end-2021: official",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka may administer a third dose of a COVID-19 vaccine sometime in November or December this year if the need arises, after completing the vaccination of people over 30 followed by the 18-29 age group.",
+    "url": "https://economynext.com/sri-lanka-may-give-third-covid-19-shot-if-necessary-by-end-2021-official-85610/",
+    "url_hash": "a23d2c936d21ebc6dfb727a2650c7a92",
+    "ut": 1630346966,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November or December this year",
+        "start_end": [
+          13,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 18-29",
+        "start_end": [
+          33,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "Spiraling CoL adds insult to injury",
     "source": "www.dailymirror.lk",
     "snippet": "If not for the severity of the COVID 19 pandemic which has been threatening Sri Lankans as well as people in other countries with death, there could have sometimes been country wide demonstrations in Sri Lanka against the spiraling cost of livi .",
@@ -7423,6 +7466,41 @@
         "start_end": [
           33,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Govt. to cut down on state expenses",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government has decided to strictly restrict state expenses owing to the grave financial crisis the Government was facing. Finance Minister Basil Rajapaksa has informed the Cabinet that state revenue has decreased drastically as the economy is facing a grave crisis due to the Covid pandemic and that it was not sufficient even for recurrent expenditure.",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-to-cut-down-on-state-expenses/108-219378",
+    "url_hash": "415df9a3ca8d63d310beed7d2b959481",
+    "ut": 1630357757,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
