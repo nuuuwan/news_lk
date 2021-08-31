@@ -648,6 +648,49 @@
   },
   {
     "date": "2021-08-31",
+    "title": "CID summons Dr. Jayaruwan Bandara",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Health Ministry Spokesperson Dr. Jayaruwan Bandara has been summoned to appear before the Criminal Investigations Department (CID) today to record a statement regarding an information that he had revealed during an interview.",
+    "url": "https://www.dailymirror.lk/latest_news/CID-summons-Dr-Jayaruwan-Bandara/342-219380",
+    "url_hash": "29828b4027b2025fe97fab0fcd4e3040",
+    "ut": 1630375684,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health Ministry Spokesperson",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jayaruwan Bandara",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Criminal Investigations Department",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Drug for mental disorders misused",
     "source": "www.dailymirror.lk",
     "snippet": "A stock of 17,000 tablets of a drug used in the treatment of mental disorders which was being sold to drug addicts at exorbitant prices and a stock of 1,000 tablets used in illegal abortions were seized and a suspect arrested by Kandy Police during a raid on a pharmacy in Ampitiya area in the early hours of last morning.",
@@ -771,6 +814,84 @@
         "start_end": [
           0,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Rs. 5,000 allowance until teachers, principals salary proposal included in budget",
+    "source": "www.dailymirror.lk",
+    "snippet": "It was reported that the Finance Minister had agreed to pay an allowance of Rs. 5,000 for two months for teachers and principals as relief until their salary anomalies are sorted out. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Rs-5-000-allowance-until-teachers-principals-salary-proposal-included-in-budget/108-219382",
+    "url_hash": "a75c4feee5e87040f12cb39e8436233a",
+    "ut": 1630379284,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,000",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two months",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Five arrested with 290kg of heroin at sea",
+    "source": "www.dailymirror.lk",
+    "snippet": "Five suspects have been arrested while they were sailing with a consignment of 290 kg of heroin in the seas off Beruwala this morning, the navy said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Five-arrested-with-290kg-of-heroin-at-sea/108-219381",
+    "url_hash": "235b1b6ed4b1163aee84585c97a2da37",
+    "ut": 1630379284,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Five",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "290 kg",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beruwala",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          22,
+          24
         ]
       }
     ]
@@ -1204,6 +1325,49 @@
     "title": "Red Data Book completed after 10 years: Environment Ministry",
     "source": "www.dailymirror.lk",
     "snippet": "The Environment Ministry has completed the preparation of a new edition of the Red Data Book on Endangered fauna and flora in Sri Lanka, which is compiled every five years. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Red-Data-Book-completed-after-10-years-Environment-Ministry/342-219387",
+    "url_hash": "db6c50e4c14f254c7b2881ad50c7959d",
+    "ut": 1630386484,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Environment Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Red Data Book on Endangered",
+        "start_end": [
+          12,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "every five years",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Red Data Book completed after 10 years: Environment Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Environment Ministry has completed the preparation of a new edition of the Red Data Book on Endangered fauna and flora in Sri Lanka, which is compiled every five years. ..",
     "url": "https://www.dailymirror.lk/breaking_news/Red-Data-Book-completed-after-10-years-Environment-Ministry/108-219387",
     "url_hash": "df7e49ad1c5cb524abd2bf6116a1d6f1",
     "ut": 1630386512,
@@ -1391,6 +1555,76 @@
         "start_end": [
           23,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Covid-19: Govt. to provide indigenous medicines to all families",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government has planned to implement a program to provide indigenous immune strengthening medicines and immune strengthening porridge to all families in the country with the aim of controlling the current Covid 19 pandemic.",
+    "url": "https://www.dailymirror.lk/breaking_news/Covid-19-Govt-to-provide-indigenous-medicines-to-all-families/108-219388",
+    "url_hash": "dadcc420cc8f714d002b1930ae6603d3",
+    "ut": 1630390094,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "Covid 19",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "India all-rounder Sundar ruled out of IPL with finger injury",
+    "source": "www.stabroeknews.com",
+    "snippet": "All-rounder Washington Sundar was ruled out of the remainder of this year's Indian Premier League yesterday due to a finger injury,",
+    "url": "https://www.stabroeknews.com/2021/08/31/sports/india-all-rounder-sundar-ruled-out-of-ipl-with-finger-injury/",
+    "url_hash": "8bcd82a115ac77decfe02211da28194b",
+    "ut": 1630390094,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Washington Sundar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "year",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
