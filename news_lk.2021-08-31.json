@@ -5561,5 +5561,150 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Masatsugu Asakawa re-elected for second term as ADB President",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Masatsugu Asakawa received unanimous support for a second term as ADB President from the members of ADB's Board of Governors voting in the recently concluded election. ..",
+    "url": "https://www.dailymirror.lk/business-news/Masatsugu-Asakawa-re-elected-for-second-term-as-ADB-President/273-219416",
+    "url_hash": "36e5fe893f5f4c669b8b197669a87d6b",
+    "ut": 1630444071,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Masatsugu Asakawa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ADB",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ADB",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board of Governors",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Colombo bourse stages strong recovery; ASPI shy of 9,000 points close",
+    "source": "www.ft.lk",
+    "snippet": "The Colombo stock market yesterday produced a strong recovery with indices up by over 1% and turnover once again topping the Rs. 10 billion mark. ..",
+    "url": "https://www.ft.lk/front-page/Colombo-bourse-stages-strong-recovery-ASPI-shy-of-9-000-points-close/44-722502",
+    "url_hash": "38e1a808e680fee1bf1daade67906b7b",
+    "ut": 1630448788,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "over 1%",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "10 billion mark",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Expolanka dislodges LOLC once more to regain top spot",
+    "source": "www.ft.lk",
+    "snippet": "Staying at the top of the Colombo bourse appears challenging as Expolanka Holdings yesterday dislodged LOLC Holdings yet again to reclaim the most valued status. The recoup follows a strong performance by Expolanka yesterday. Its share price shot up by 17 ...",
+    "url": "https://www.ft.lk/front-page/Expolanka-dislodges-LOLC-once-more-to-regain-top-spot/44-722503",
+    "url_hash": "cb9fab8482a621f1a97a5f482e494265",
+    "ut": 1630449028,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Expolanka Holdings",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LOLC Holdings",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Expolanka",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
   }
 ]
