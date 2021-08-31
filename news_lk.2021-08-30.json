@@ -6914,6 +6914,65 @@
   },
   {
     "date": "2021-08-30",
+    "title": "76 individuals including Christian and Catholic priests call for the release of Hejaaz Hizbullah",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a public petition signed by 76 individuals including Christian and Catholic priests, they have called upon members of the Human Rights Counciland all members of the international community to urge the Sri Lankan government to release Attorney-at-law Hejaaz Hizbullah forthwith.",
+    "url": "https://www.dailymirror.lk/front_page/76-individuals-including-Christian-and-Catholic-priests-call-for-the-release-of-Hejaaz-Hizbullah/238-219356",
+    "url_hash": "23d0e0c124d609b73185379c35743695",
+    "ut": 1630355286,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "76",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Christian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Catholic",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Human Rights Counciland",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hejaaz Hizbullah",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
     "title": "President issues emergency regulations on essential food supplies",
     "source": "www.ft.lk",
     "snippet": "President Gotabaya Rajapaksa last night issued emergency regulations to ensure uninterrupted supply of essential food items at a fair price, while appointing Maj. Gen. M.D.S.P. Niwunhella as the Essential Services Commissioner.",
@@ -7413,6 +7472,108 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Avoiding IMF - Is Central Bank Governor All That Black?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Deshamanya Professor W.D. Lakshman would have stepped into the Central Bank (CBSL) building for the first time in the early 1970s to get a foreign exchange permit to import a car after returning from Oxford.",
+    "url": "https://www.dailymirror.lk/features/Avoiding-IMF-Is-Central-Bank-Governor-All-That-Black/185-219360",
+    "url_hash": "3507ee2ea0085c1b2ad59d4686f07a9d",
+    "ut": 1630358850,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Deshamanya",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "W.D. Lakshman",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the early 1970s",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Oxford",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-30",
+    "title": "Study Group sets new UK Quarantine Fund to strengthen employability of SL students",
+    "source": "www.dailymirror.lk",
+    "snippet": "As part of its comprehensive and holistic employability offering, international education provider Study Group has introduced a new Quarantine Support Fund to help students study and work in the UK from September.",
+    "url": "https://www.dailymirror.lk/business-news/Study-Group-sets-new-UK-Quarantine-Fund-to-strengthen-employability-of-SL-students/273-219362",
+    "url_hash": "d4cc81883cabfef30cd459edd50dd955",
+    "ut": 1630358850,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Study Group",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Quarantine Support Fund",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
