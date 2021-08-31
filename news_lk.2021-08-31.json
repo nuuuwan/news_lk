@@ -111,6 +111,65 @@
   },
   {
     "date": "2021-08-31",
+    "title": "China's PLA to send Sinopharm jabs to Sri Lankan Armed Forces",
+    "source": "www.adaderana.lk",
+    "snippet": "The People's Liberation Army (PLA) of China has donated 300,000 doses of Sinopharm vaccines to Sri Lankan Armed Forces, says General Shavendra Silva",
+    "url": "http://www.adaderana.lk/news/76406/chinas-pla-donates-sinopharm-vaccines-to-sri-lankan-armed-forces",
+    "url_hash": "c3eeebc0ac86626e5214c764842dc2b8",
+    "ut": 1630368507,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The People's Liberation Army",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "300,000",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Armed Forces",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Laksala opens first franchise outlet in USA",
     "source": "www.msn.com",
     "snippet": "Sri Lanka's first-ever overseas `Laksala' franchise outlet, organized by Sri Lanka Handicrafts Board (SLHB) to promote the country's traditional handicraft products to the international market will be opened in Miami,",
@@ -486,6 +545,84 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Acumatica Cloud ERP Business Accelerates in South Asia",
+    "source": "apnews.com",
+    "snippet": "Acumatica, the world's fastest-growing cloud ERP company, announced its accelerated expansion across Asia-Pacific (APAC) to enhance support channels and better serve customers in the South Asia region with a focus on Sri Lanka.",
+    "url": "https://apnews.com/press-release/pr-newswire/europe-asia-south-asia-3a90381f7ae2d73ee1408d3e6b3d8d2d",
+    "url_hash": "5f5288c38e34ccbc5f0c6a4301be0db9",
+    "ut": 1630376975,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Acumatica",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ERP",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia-Pacific",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "APAC",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Red White & Bloom Brands Reports Q2 2021",
+    "source": "www.lelezard.com",
+    "snippet": "Red White & Bloom Brands Inc. (\"RWB\" or the \"Company\"), a multi-state cannabis operator and house of premium brands, is pleased to report select",
+    "url": "https://www.lelezard.com/en/news-19974118.html",
+    "url_hash": "d33f7e6f6fbb83462e3a8720b32080e1",
+    "ut": 1630378835,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Red White & Bloom Brands Inc.",
+        "start_end": [
+          0,
+          6
         ]
       }
     ]
