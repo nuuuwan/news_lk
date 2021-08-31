@@ -197,6 +197,33 @@
   },
   {
     "date": "2021-08-31",
+    "title": "Free Ayurvedic medicines for Covid families",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Ayurvedic authorities have run short of items such as ginger and coriander needed for the manufacture of Ayurvedic medicines to be delivered to the doorsteps of people fallen sick with COVID-19, a minister said.",
+    "url": "https://www.dailymirror.lk/latest_news/Free-Ayurvedic-medicines-for-Covid-families/342-219377",
+    "url_hash": "f339c0a44d52546a71c058af6eb4e8c8",
+    "ut": 1630368512,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Ayurvedic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ayurvedic",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Laksala opens first franchise outlet in USA",
     "source": "www.msn.com",
     "snippet": "Sri Lanka's first-ever overseas `Laksala' franchise outlet, organized by Sri Lanka Handicrafts Board (SLHB) to promote the country's traditional handicraft products to the international market will be opened in Miami,",
@@ -997,6 +1024,49 @@
   },
   {
     "date": "2021-08-31",
+    "title": "China cuts children's online gaming to one hour",
+    "source": "www.dailymirror.lk",
+    "snippet": "Online gamers under the age of 18 will only be allowed to play for an hour on Fridays, weekends and holidays, China's video game regulator has said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/China-cuts-childrens-online-gaming-to-one-hour/108-219384",
+    "url_hash": "c8465392e78eb36ef48ffd3a56158a9c",
+    "ut": 1630382912,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the age of 18",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "an hour",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Fridays",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Sri Lanka set to get another $100m from Bangladesh under swap arrangement",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Bangladesh is set to send US$100 million more to Sri Lanka Monday (30) to help the island nation in minimising foreign-exchange crunch on their economy, officials said. The fund from Bangladesh has been provided under the currency-swap agreement signed by the Bangladesh Bank (BB) and the Central Bank of Sri Lanka (CBSL) on August",
@@ -1125,6 +1195,202 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Red Data Book completed after 10 years: Environment Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Environment Ministry has completed the preparation of a new edition of the Red Data Book on Endangered fauna and flora in Sri Lanka, which is compiled every five years. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Red-Data-Book-completed-after-10-years-Environment-Ministry/108-219387",
+    "url_hash": "df7e49ad1c5cb524abd2bf6116a1d6f1",
+    "ut": 1630386512,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Environment Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Red Data Book on Endangered",
+        "start_end": [
+          12,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "every five years",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Sri Lanka awards coal barge contract to Shreeji Shipping of India",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's has awarded a contract to carry coal unloaded from ships to the jetty adjacent to a coal plant to a Shreeji Shipping Limited, a firm based in Gujarat, India.",
+    "url": "https://economynext.com/sri-lanka-awards-coal-barge-contract-to-shreeji-shipping-of-india-85628/",
+    "url_hash": "95edcf6a47cc705e1fca198350075513",
+    "ut": 1630386540,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "a Shreeji Shipping Limited",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gujarat",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "COVID vaccination centres functioning today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total number of 522 COVID-19 vaccination centres will be in operation in 23 districts across the country today, the Health Ministry said. Accordingly, the vaccination centres will function in Colombo, Gampaha, Kalutara, Kurunegala, Puttalam, Kandy ...",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-vaccination-centres-functioning-today/108-219383",
+    "url_hash": "8c1e2ef933866c79f9513edc94ad807d",
+    "ut": 1630387652,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "522",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kalutara",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kurunegala",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Puttalam",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Allrounder Pretorius pumped for Proteas' tour of Sri Lanka",
+    "source": "www.heraldlive.co.za",
+    "snippet": "Proteas must put off-field drama aside to focus on what will be their last chance to tune up before the T20 World Cup",
+    "url": "https://www.heraldlive.co.za/sport/cricket/2021-08-31-allrounder-pretorius-pumped-for-proteas-tour-of-sri-lanka/",
+    "url_hash": "564920ca24321ab2292252b3c177ad1a",
+    "ut": 1630389222,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          23,
+          25
         ]
       }
     ]
