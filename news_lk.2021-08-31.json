@@ -111,6 +111,65 @@
   },
   {
     "date": "2021-08-31",
+    "title": "Laksala opens first franchise outlet in USA",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka's first-ever overseas `Laksala' franchise outlet, organized by Sri Lanka Handicrafts Board (SLHB) to promote the country's traditional handicraft products to the international market will be opened in Miami,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/laksala-opens-first-franchise-outlet-in-usa/ar-AANUUuI",
+    "url_hash": "31781cdb8d6e8d4b88a9f48038fee777",
+    "ut": 1630368853,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Laksala",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Handicrafts Board",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLHB",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Miami",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Currency Swap: Bangladesh remits another US$ 100 m",
     "source": "www.msn.com",
     "snippet": "Bangladesh sent US$100 million more to Sri Lanka yesterday to help the island nation in minimising foreign-exchange crunch on their economy, officials said. The funds from Bangladesh had been provided under the currency-swap agreement signed by the Bangladesh Bank (BB) and the Central Bank of Sri Lanka (CBSL) on August 03.",
@@ -384,6 +443,49 @@
         "start_end": [
           30,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Sri Lanka's Lakdhanavi 'AA+(lka)' rating confirmed with stable outlook",
+    "source": "economynext.com",
+    "snippet": "Fitch Ratings said it had confirmed a 'AA+(lka)' rating of Lakdhanavi Limited, a Sri Lanka-based power firm which also part-owns a unit in Bangladesh.",
+    "url": "https://economynext.com/sri-lankas-lakdhanavi-aalka-rating-confirmed-with-stable-outlook-85619/",
+    "url_hash": "dc9b5c452b1b33711320b06036fdc911",
+    "ut": 1630373012,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Fitch Ratings",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lakdhanavi Limited",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
