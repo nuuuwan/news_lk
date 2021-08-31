@@ -1961,6 +1961,65 @@
   },
   {
     "date": "2021-08-31",
+    "title": "Sri Lanka receives 15,000 doses of Sputnik V vaccines",
+    "source": "www.adaderana.lk",
+    "snippet": "Another shipment containing 15,000 doses of Russia-manufactured Sputnik V COVID-19 vaccines arrived in Sri Lanka today (August 31)",
+    "url": "http://www.adaderana.lk/news.php?nid=76553",
+    "url_hash": "c400fa1e50100069980746b210fd73fc",
+    "ut": 1630393700,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "15,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sputnik V COVID-19",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 31",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Sri Lanka will decide on IMF based on local and global conditions: Minister",
     "source": "economynext.com",
     "snippet": "Sri Lanka will take a required decision on whether to go the International Monetary Fund based on future conditions, co-cabinet spokesman Ramesh Pathirana said.",
@@ -2116,6 +2175,49 @@
         "start_end": [
           42,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Teachers & Principals reject cabinet decision on their issues",
+    "source": "www.newsfirst.lk",
+    "snippet": "The\u00a0Teachers & Principals Trade Union Alliance have rejected the Cabinet decisions on solving their issues.\u00a0 On Tuesday (31), it - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/08/31/teachers-principals-reject-cabinet-decision-on-their-issues/",
+    "url_hash": "8c11f438c35a85436f48d8b8e8fa1b36",
+    "ut": 1630398402,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The\u00a0Teachers & Principals Trade Union Alliance",
+        "start_end": [
+          0,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
