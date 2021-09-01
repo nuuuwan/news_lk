@@ -2332,6 +2332,81 @@
   },
   {
     "date": "2021-09-01",
+    "title": "SL kabaddi player Anwar sold at Indian Pro Kabaddi League",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka kabaddi player Anwar Saheed Baba of Sri Lanka Navy has been bought for Indian Rupees 1 million by one of the franchises of the Indian Pro Kabaddi League (PKL) for the first time. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-kabaddi-player-Anwar-sold-at-Indian-Pro-Kabaddi-League/108-219461",
+    "url_hash": "8aa3bb3d8c6c97646451b6a1ac7cb6f8",
+    "ut": 1630480146,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anwar Saheed Baba",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian Rupees 1 million",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Indian Pro Kabaddi League",
+        "start_end": [
+          25,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PKL",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Sri Lanka declares economic emergency as food crisis worsens",
     "source": "english.newstracklive.com",
     "snippet": "Sri Lanka has announced an economic emergency, after a vertical fall in the value of the South Asian country's currency caused a spike in food pri..|News Track",
@@ -2533,6 +2608,57 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "No mechanism to stop South African variant entering Sri Lanka: Deputy Health DG",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that the new Covid variant detected in South Africa could enter Sri Lanka at any time, Deputy Director General of Health Services Dr. Hemantha Herath said today that there was no mechanism even elsewhere in the world to prevent any of the variants entering a specific country.",
+    "url": "https://www.dailymirror.lk/latest_news/No-mechanism-to-stop-South-African-variant-entering-Sri-Lanka-Deputy-Health-DG/342-219462",
+    "url_hash": "86b9289cd4b14e893b3d045ceaad0469",
+    "ut": 1630483746,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services Dr.",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hemantha Herath",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
@@ -4045,6 +4171,65 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Country faces repercussions of arbitrary, illogical decision to change National Vaccine programme: JVP",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that the country is facing repercussions of the arbitrary and illogical decision to change the National Vaccine programme to vaccinate people over 60-years of age, the Janatha Vimukthi Peramuna (JVP) today posed ten questions to the President and Covid Task Force on Covid pandemic.",
+    "url": "https://www.dailymirror.lk/breaking_news/Country-faces-repercussions-of-arbitrary-illogical-decision-to-change-National-Vaccine-programme-JVP/108-219468",
+    "url_hash": "62baabd6a036456de68bd2835fc0e592",
+    "ut": 1630505346,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Vaccine",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60-years of age",
+        "start_end": [
+          23,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "JVP",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Covid Task Force",
+        "start_end": [
+          44,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Country faces repercussions of arbitrary, illogical decision to change National Vaccine policy: JVP",
     "source": "www.dailymirror.lk",
     "snippet": "Claiming that the country is facing repercussions of the arbitrary and illogical decision to change the National Vaccine policy to vaccinate people over 60-years of age, the Janatha Vimukthi Peramuna (JVP) today posed ten questions to the President and Covid Task Force on Covid pandemic.",
@@ -4985,6 +5170,49 @@
   },
   {
     "date": "2021-09-01",
+    "title": "SL's cardboard coffins attract Vietnam buyers; place first order",
+    "source": "www.dailymirror.lk",
+    "snippet": "The first order for the first ever project to produce coffins made out of cardboard by Dehiwala-Mt. Lavinia Municipal Council, member Priyantha Sahabandu said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SLs-cardboard-coffins-attract-Vietnam-buyers-place-first-order/108-219477",
+    "url_hash": "f85d1b93c55ce7c4c4ab1d6491b7d649",
+    "ut": 1630516146,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dehiwala-Mt. Lavinia Municipal Council",
+        "start_end": [
+          16,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Priyantha Sahabandu",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Explained: Sri Lanka's food shortage and dwindling economy",
     "source": "www.cnbctv18.com",
     "snippet": "Sri Lankan President Rajapaksa has appointed a commissioner of essential services who will have the power to regulate prices of essential commodities and also seize them from traders and retailers amid a shortage in the country.",
@@ -5176,6 +5404,110 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Development of ICT sector is key to digital economic transformation for Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Embracing a vision to build a digital nation with enhanced economic vitality, robust social safety nets, and efficient and fair governance is a dream that Sri Lanka could accomplish one day. The success of digital nation initiatives depends heavily on having an open environment,",
+    "url": "https://www.ft.lk/opinion/Development-of-ICT-sector-is-key-to-digital-economic-transformation-for-Sri-Lanka/14-722526",
+    "url_hash": "6f9b59f9d705a42943ef20cce5381311",
+    "ut": 1630519768,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one day",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "ICCSL-FT webinar highlights importance of education for improving people's lives",
+    "source": "www.ft.lk",
+    "snippet": "Talent is at the heart of economic transformation. Considering this, how can organisations facilitate this transformation and support and equip their talent for the current competitive environment? With the exigencies of the pandemic contrasted with the global opportunities and increased cross-border trade offered by the breakdown of location-based limitations,",
+    "url": "https://www.ft.lk/education/ICCSL-FT-webinar-highlights-importance-of-education-for-improving-people-s-lives/10515-722520",
+    "url_hash": "d69b8f78ff91b4dba309522e2cb8bbb9",
+    "ut": 1630519768,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-01",
+    "title": "LB Finance tops in K Seeds Investments 1Q rankings",
+    "source": "www.ft.lk",
+    "snippet": "K Seeds Investments has identified LB Finance PLC as the best performing finance company under the first category among the 29 listed finance companies in Sri Lanka through a ranking carried out based on their financial performance for the first quarter of 2021/22.",
+    "url": "https://www.ft.lk/front-page/LB-Finance-tops-in-K-Seeds-Investments-1Q-rankings/44-722540",
+    "url_hash": "027ffaabb678fee786e3d3e0756b91b3",
+    "ut": 1630519780,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "K Seeds Investments",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LB Finance PLC",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "29",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first quarter",
+        "start_end": [
+          38,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2021/22",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Tissamaharama special correspondent",
     "source": "dailynews.lk",
     "snippet": "Chinese, Sri Lankan and US dollars worth about thirty lakhs rupees and valuable jewellery was robbed from a Chinese couple by a Chinese chef.The money was robbed from a restaurant owned by the... Those who destroy fauna and flora should be considered traitors to a nation, Housing and Construction Minister Sajith Premadasa said.He said the Wildlife Department... Hambantota port employees on seventh day satyagraha Hambantota port employees have embarked on their seventh day of satyagraha at the main entrance to the port.They say they will not discontinue the satyagraha even if... The body of a man, identified as Madasami Moses, 30, was recovered from the Dickwella lagoon. Police suspect the man committed suicide. Inquirer into Sudden Deaths at the...",
@@ -5301,6 +5633,153 @@
         "start_end": [
           131,
           133
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "NMRA SHOVED UNDER 'CLOUD' OF GLOOM",
+    "source": "www.dailymirror.lk",
+    "snippet": "Intentionally or unintentionally losing vital data relating to the registration of drugs during a pandemic cannot be passed as a minor mistake. ..",
+    "url": "https://www.dailymirror.lk/plus/NMRA-SHOVED-UNDER-CLOUD-OF-GLOOM/352-219479",
+    "url_hash": "e3d207722c52fa1128b847562836866e",
+    "ut": 1630530546,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-01",
+    "title": "PCR Tests: Who is making the money?",
+    "source": "www.dailymirror.lk",
+    "snippet": "I am treated for diabetes and high blood pressure by a Jaffna Teaching Hospital physician. The care I get from him is as good as what I had in the US. The physician administrators have over the past few years brought the Jaffna Teaching Hospital to high standard,",
+    "url": "https://www.dailymirror.lk/plus/PCR-Tests-Who-is-making-the-money/352-219478",
+    "url_hash": "752d5e15a81d242cfe7876d8b41b6f5c",
+    "ut": 1630530546,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past few years",
+        "start_end": [
+          38,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Jaffna Teaching Hospital",
+        "start_end": [
+          43,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Church refuses talks with SL govt, seeks credible probe into Easter Sunday attacks first (Lead)",
+    "source": "www.netindia123.com",
+    "snippet": "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International",
+    "url": "https://www.netindia123.com/articles/showdetails.asp?id=3812665&cat=Asia",
+    "url_hash": "cac3047ccf077fd195af75ede86130bd",
+    "ut": 1630530580,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Yuzvendra Chahal's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "75",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Twenty20 International",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Cardboard coffins to cremate COVID victims",
+    "source": "www.dailymirror.lk",
+    "snippet": "Picture shows a dead body of a COVID-19 victim being taken in a cardboard coffin made by the Dehiwela-Mt. Lavinia Municipal Council to the Nedimala Cemetery in Dehiwala for cremation. Pix by Nimalsiri Edirisinghe",
+    "url": "https://www.dailymirror.lk/latest_news/Cardboard-coffins-to-cremate-COVID-victims/342-219476",
+    "url_hash": "4a7e204e29324c29f7598d1001a20ae5",
+    "ut": 1630532886,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Dehiwela",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dehiwala",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nimalsiri Edirisinghe",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
