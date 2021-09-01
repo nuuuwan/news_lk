@@ -389,6 +389,33 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Sri Lanka declares economic emergency after spike in food prices",
+    "source": "sambadenglish.com",
+    "snippet": "Sri Lanka has declared an economic emergency, after a steep fall in the value of the South Asian country's currency caused a spike in food prices. Authorities say they will take control of the supply of basic food items,",
+    "url": "https://sambadenglish.com/sri-lanka-declares-economic-emergency-after-spike-in-food-prices/",
+    "url_hash": "88569763651bab83ef5134a3626f54cf",
+    "ut": 1630458513,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Focus on growing threat within as Taliban expands its hold",
     "source": "island.lk",
     "snippet": "Lanka's former Amb. in Teheran discusses Afghan crisis The latest US State Department announcement, quoted by Washington Examiner indicates that 99 countries, including the US, EU and NATO have worked out a deal with the Taliban,",
@@ -1673,6 +1700,41 @@
   },
   {
     "date": "2021-09-01",
+    "title": "CID probes couple involved in pornographic video at Pahanthudawa waterfall",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Criminal Investigations Department (CID) has launched an investigation into the incident in which a teenage couple were involved in a pornographic video at the Pahanthudawa waterfall in Balangoda, which is now widely circulated on social media.",
+    "url": "https://www.dailymirror.lk/breaking_news/CID-probes-couple-involved-in-pornographic-video-at-Pahanthudawa-waterfall/108-219459",
+    "url_hash": "e91ccae4dd7fcee967bc00850c953a23",
+    "ut": 1630476503,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Criminal Investigations Department",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pahanthudawa",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Balangoda",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Sri Lankan Tycoons in Pandemic and Their Profits",
     "source": "www.srilankaguardian.org",
     "snippet": "Sri Lanka's nine top companies amassed 364 billion rupees ($US1.8 billion) in earnings between April and June, collectively pocketing 21 billion rupees profit in the first quarter of their financial year.",
@@ -1785,6 +1847,181 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Treasure hunters broke into Kuda Sithulpawwa, treasures stolen: Archaeology Dept. Head",
+    "source": "www.dailymirror.lk",
+    "snippet": "An ancient dagoba 'Kuda Sithulpawwa' in the historic sacred area of Hambanthota District was broken into by a group of treasure hunters last night (31), Archaeology Department Director General Prof. Anura Manatunga said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Treasure-hunters-broke-into-Kuda-Sithulpawwa-treasures-stolen-Archaeology-Dept-Head/108-219460",
+    "url_hash": "561b4998ad1bc0d38e65f01280e11d04",
+    "ut": 1630480103,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Hambanthota District",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last night",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Archaeology Department",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anura Manatunga",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka's fast spreading leaf disease could wipe out rubber in fertilizer ban, industry warns",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's large rubber farms warned of a 15 to 20 percent production drop as leaf disease spread rapidly without enough fungicide to combat it or fertilizer to help trees recover amid an agro-chemical import ban.",
+    "url": "https://economynext.com/sri-lankas-fast-spreading-leaf-disease-could-wipe-out-rubber-in-fertilizer-ban-industry-warns-85662/",
+    "url_hash": "cddaa7eb03d0dbd0c7dff55346dff436",
+    "ut": 1630480133,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "15 to 20 percent",
+        "start_end": [
+          9,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka declares economic emergency as food crisis worsens",
+    "source": "english.newstracklive.com",
+    "snippet": "Sri Lanka has announced an economic emergency, after a vertical fall in the value of the South Asian country's currency caused a spike in food pri..|News Track",
+    "url": "https://english.newstracklive.com/news/sri-lanka-declares-economic-emergency-as-food-crisis-worsens-sc57-nu318-ta318-1179986-1.html",
+    "url_hash": "8bdf868e79e1327596d6dda5795afc24",
+    "ut": 1630480533,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "pri",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka receives $787 million SDR from IMF and $150 million swap from Bangladesh",
+    "source": "www.thehindu.com",
+    "snippet": "The IMF distributed a total SDR allocation of equivalent to $650 billion among its member countries on August 23, in proportion to their existing quotas in the IMF.",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-receives-787-million-sdr-from-imf-and-150-million-swap-from-bangladesh/article36219370.ece",
+    "url_hash": "22313f49f49c3516ba45a12d1ac9b867",
+    "ut": 1630480653,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SDR",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$650 billion",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 23",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka declares economic emergency as food items go out of reach",
+    "source": "www.thehansindia.com",
+    "snippet": "Sri Lanka has declared an economic emergency, after a steep fall in the value of the South Asian country's currency caused a spike in food prices.",
+    "url": "https://www.thehansindia.com/news/international/sri-lanka-declares-economic-emergency-as-food-items-go-out-of-reach-704463",
+    "url_hash": "83963addcc1050f3ce867d715395f81f",
+    "ut": 1630481073,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
