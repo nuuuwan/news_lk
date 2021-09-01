@@ -5639,6 +5639,118 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Covid-19 and citizenship",
+    "source": "www.dailymirror.lk",
+    "snippet": "What should a citizen do in a situation that is certainly worrisome and is probably reason for alarm? What should you do what should I do? These are questions to which there are many possible answers.",
+    "url": "https://www.dailymirror.lk/opinion/Covid-19-and-citizenship/172-219481",
+    "url_hash": "b90aa7cb570bb21c8865921338219b90",
+    "ut": 1630530494,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-01",
+    "title": "PCR Tests: Who is making the money?",
+    "source": "www.dailymirror.lk",
+    "snippet": "I am treated for diabetes and high blood pressure by a Jaffna Teaching Hospital physician. The care I get from him is as good as what I had in the US. The physician administrators have over the past few years brought the Jaffna Teaching Hospital to high standard,",
+    "url": "https://www.dailymirror.lk/news-features/PCR-Tests-Who-is-making-the-money/131-219478",
+    "url_hash": "9d02b650021212a0166348cb3ab2b630",
+    "ut": 1630530494,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past few years",
+        "start_end": [
+          38,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Jaffna Teaching Hospital",
+        "start_end": [
+          43,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Church refuses talks with SL govt, seeks credible probe into Easter Sunday attacks first (Lead)",
+    "source": "www.netindia123.com",
+    "snippet": "Church refuses talks with SL govt, seeks credible probe into Easter Sunday attacks first (Lead) Colombo \\|Thursday, 2021 2:15:05 AM IST Sri Lanka's Catholic Church o",
+    "url": "https://www.netindia123.com/showdetails.asp?id=3812665&cat=Asia",
+    "url_hash": "76e8af2cf74aae8f165d4c5bf6e5e4c9",
+    "ut": 1630530528,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Easter",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "\\|Thursday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2:15:05",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Catholic Church",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "NMRA SHOVED UNDER 'CLOUD' OF GLOOM",
     "source": "www.dailymirror.lk",
     "snippet": "Intentionally or unintentionally losing vital data relating to the registration of drugs during a pandemic cannot be passed as a minor mistake. ..",
@@ -5783,5 +5895,15 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Pregnant in a pandemic!",
+    "source": "www.dailymirror.lk",
+    "snippet": "For most women, pregnancy is considered an important, delightful yet completely stressful period in life. The arrival of a new family member is not just a new experience for the woman bearing a child,",
+    "url": "https://www.dailymirror.lk/recomended-news/Pregnant-in-a-pandemic-/277-219483",
+    "url_hash": "feda2e9f25004722ff513727c3e003da",
+    "ut": 1630534094,
+    "ent_info_list": []
   }
 ]
