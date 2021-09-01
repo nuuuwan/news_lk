@@ -1004,6 +1004,49 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Jacqueline Fernandez questioned as a witness in money- laundering case in India",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankan Bollywood actress Jacqueline Fernandez has been questioned by India's Enforcement Directorate as a witness in a money-laundering racket, according to several media reports. However, she has not been named as an accused in the case.",
+    "url": "https://www.dailymirror.lk/front_page/Jacqueline-Fernandez-questioned-as-a-witness-in-money-laundering-case-in-India/238-219446",
+    "url_hash": "da50ae006ef9eda6cad65cd130181dc3",
+    "ut": 1630465691,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Bollywood",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jacqueline Fernandez",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Enforcement Directorate",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Sri Lanka sugar importers caught in CPC-style unhedged forex losses",
     "source": "economynext.com",
     "snippet": "Sri Lanka's sugar imports are caught in forex losses on stocks bought on credit, which have to be settled in several months time, amid a depreciating currency which is partly the reason for high retail prices,",
@@ -1037,6 +1080,41 @@
     "url": "https://www.dailymirror.lk/breaking_news/The-mystery-fever-killing-children-in-India/108-219450",
     "url_hash": "e69fdd1daaf6a0ef0b36273639bc5c16",
     "ut": 1630469268,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "more than a week",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Uttar Pradesh",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "The mystery fever killing children in India",
+    "source": "www.dailymirror.lk",
+    "snippet": "For more than a week now, children in some districts in the northern Indian state of Uttar Pradesh have been waking up with a high fever and drenched in sweat. ..",
+    "url": "https://www.dailymirror.lk/latest_news/The-mystery-fever-killing-children-in-India/342-219450",
+    "url_hash": "88f7d19f28d0b78964322d70a5c842d9",
+    "ut": 1630469291,
     "ent_info_list": [
       {
         "label": "DATE",
@@ -1337,6 +1415,33 @@
   },
   {
     "date": "2021-09-01",
+    "title": "A Local's Guide to Colombo, Sri Lanka",
+    "source": "www.yahoo.com",
+    "snippet": "Sri Lanka is a unique country. It really is paradise, and Colombo is a small, exciting city\u2014it has become more beautiful through the years and is incredibly green. We have great food, warm hospitality,",
+    "url": "https://www.yahoo.com/lifestyle/locals-guide-colombo-sri-lanka-050000864.html",
+    "url_hash": "6cfb1b4c878ff8f13aea3c0b94f51578",
+    "ut": 1630472928,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the years",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Covid: Sri Lanka in economic emergency as food prices soar",
     "source": "news.yahoo.com",
     "snippet": "Sri Lanka has declared an economic emergency, after a steep fall in the value of the South Asian country's currency caused a spike in food prices. Authorities say they will take control of the supply of basic food items,",
@@ -1562,6 +1667,124 @@
         "start_end": [
           55,
           56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lankan Tycoons in Pandemic and Their Profits",
+    "source": "www.srilankaguardian.org",
+    "snippet": "Sri Lanka's nine top companies amassed 364 billion rupees ($US1.8 billion) in earnings between April and June, collectively pocketing 21 billion rupees profit in the first quarter of their financial year.",
+    "url": "http://www.srilankaguardian.org/2021/09/sri-lankan-tycoons-in-pandemic-and.html",
+    "url_hash": "f78b644a658631040ac9e5184601d0ce",
+    "ut": 1630477244,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "364 billion",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$US1.8 billion",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between April and June",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21 billion",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first quarter",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "their financial year",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Recognizing the vital role of SMEs in Sri Lanka's Tourism Sector",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "The Foreign Ministry of Sri Lanka in collaboration with Sri Lanka Tourism recently hosted a virtual business to business (B2B) interactive session with the Member states of the Conference on Interaction and Confidence-Building Measures in Asia (CICA) with the aim of enhancing tourism cooperation in the region.",
+    "url": "http://bizenglish.adaderana.lk/recognizing-the-vital-role-of-smes-in-sri-lankas-tourism-sector/",
+    "url_hash": "49958773347bbcf6f600eb838a9910be",
+    "ut": 1630478601,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Foreign Ministry of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Conference on Interaction and Confidence-Building Measures",
+        "start_end": [
+          29,
+          38
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
