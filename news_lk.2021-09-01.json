@@ -1646,6 +1646,25 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Sri Lanka declares economic emergency to contain food prices amid forex crisis",
+    "source": "www.channelnewsasia.com",
+    "snippet": "COLOMBO: Sri Lanka has declared an economic emergency empowering the authorities to seize stocks of staple foods and set their prices, to contain soaring inflation after a steep devaluation of its currency due to a foreign exchange crisis.",
+    "url": "https://www.channelnewsasia.com/business/sri-lanka-declares-economic-emergency-contain-food-prices-amid-forex-crisis-2147876",
+    "url_hash": "32a29c90362f537a0205c81ff1d9eff7",
+    "ut": 1630473085,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Covid: Sri Lanka in economic emergency as food prices soar",
     "source": "news.yahoo.com",
     "snippet": "Sri Lanka has declared an economic emergency, after a steep fall in the value of the South Asian country's currency caused a spike in food prices. Authorities say they will take control of the supply of basic food items,",
@@ -1933,6 +1952,33 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Fighting the pandemic",
+    "source": "www.dailymirror.lk",
+    "snippet": "Regional Epidemiologist Dr. Dinu Guruge on Daily Mirror Twitter Spaces (Recorded) ..",
+    "url": "https://www.dailymirror.lk/audio/recommended_audio/Fighting-the-pandemic/377-219457",
+    "url_hash": "23897ef3c1164e3f2fbe90e1d79c92b5",
+    "ut": 1630476675,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Dinu Guruge",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror Twitter Spaces",
+        "start_end": [
+          6,
+          10
         ]
       }
     ]
@@ -3089,6 +3135,57 @@
   },
   {
     "date": "2021-09-01",
+    "title": "India's Maruti Suzuki to cut production by 60% due to chip shortage",
+    "source": "www.dailymirror.lk",
+    "snippet": "Maruti Suzuki, India's biggest car maker announced this week that its vehicle production will contract by 60 percent this month as the company faces challenges in sourcing chips due to a global shortage of semiconductors.",
+    "url": "https://www.dailymirror.lk/business/Indias-Maruti-Suzuki-to-cut-production-by-60-due-to-chip-shortage/215-219464",
+    "url_hash": "d213780ce663ac56e05e4993f5bec6b1",
+    "ut": 1630491075,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Maruti Suzuki",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "60 percent",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this month",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Sri Lanka declares economic emergency as forex crisis leads to surge in food prices - Here's all you need to know",
     "source": "www.freepressjournal.in",
     "snippet": "Sri Lanka has declared an economic emergency, after a steep fall in the value of the South Asian country's currency caused a spike in food prices. Authorities say they will take control of the supply of basic food items,",
@@ -3776,6 +3873,65 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Country faces repercussions of arbitrary, illogical decision to change National Vaccine policy: JVP",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that the country is facing repercussions of the arbitrary and illogical decision to change the National Vaccine policy to vaccinate people over 60-years of age, the Janatha Vimukthi Peramuna (JVP) today posed ten questions to the President and Covid Task Force on Covid pandemic.",
+    "url": "https://www.dailymirror.lk/breaking_news/Country-faces-repercussions-of-arbitrary-illogical-decision-to-change-National-Vaccine-policy-JVP/108-219468",
+    "url_hash": "170e2fa287e08f638b2d8cab1d59ce3a",
+    "ut": 1630505475,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Vaccine",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60-years of age",
+        "start_end": [
+          23,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "JVP",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Covid Task Force",
+        "start_end": [
+          44,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Church: Talks on Sri Lankan blasts require gov't credibility",
     "source": "www.yahoo.com",
     "snippet": "A Sri Lankan Roman Catholic leader has said the government must win back the confidence of the church before the two sides can hold talks on the church's criticisms of inquiries into 2019 Easter Sunday bomb blasts that killed 269 people.",
@@ -4039,6 +4195,57 @@
   },
   {
     "date": "2021-09-01",
+    "title": "215 more COVID-19 deaths reported",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 215 more COVID-19 related deaths that occurred yesterday (31) were confirmed by the Director-General of Health Services today pushing the death toll to 9,400. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/215-more-COVID-19-deaths-reported/108-219470",
+    "url_hash": "076482b84a062457efd80e2b9906eb61",
+    "ut": 1630509075,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "215",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "31",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9,400",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Church refuses talks with SL govt, seeks credible probe into Easter Sunday attacks first",
     "source": "www.sify.com",
     "snippet": "Sri Lankas Catholic Church on Wednesday turned down the governments invitation to discuss the Easter Sunday attacks and demanded a credible investigation into the massacre and implementation of the Presidential Commission recommendations first.",
@@ -4111,6 +4318,162 @@
         "start_end": [
           10,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "29,900 MT of hoarded sugar to be sold at controlled price: PMD",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 29,900 metric tons of hoarded sugar found in warehouses was confiscated by the government following the investigations and operations carried out today, Commissioner General of Essential Services,",
+    "url": "https://www.dailymirror.lk/breaking_news/29-900-MT-of-hoarded-sugar-to-be-sold-at-controlled-price-PMD/108-219475",
+    "url_hash": "08b427ae7ebf7af0aace5344c068b5e7",
+    "ut": 1630512675,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "29,900 metric tons",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Essential Services",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Proteas to face trial by spin if the rain doesn't fall in the first ODI against Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "Rain has been forecast for most of Thursday in Colombo during the first ODI between South Africa and Sri Lanka.",
+    "url": "https://www.msn.com/en-za/sport/cricket/proteas-to-face-trial-by-spin-if-the-rain-doesnt-fall-in-the-first-odi-against-sri-lanka/ar-AANZkfe",
+    "url_hash": "c9ea95eb0e78beb15d46218c0cecd2e3",
+    "ut": 1630512953,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "2019 Easter Attack: Sri Lanka's Supreme Court Appoints 3 Member Bench To Hear Trial",
+    "source": "www.republicworld.com",
+    "snippet": "Sri Lankan Supreme Court appointed a three-member bench to hear the trial in connection with the 2019 Easter suicide attack which killed over 270 people.",
+    "url": "https://www.republicworld.com/world-news/rest-of-the-world-news/2019-easter-attack-sri-lankas-supreme-court-appoints-3-member-bench-to-hear-trial.html",
+    "url_hash": "ee197ad0a1f085e6e4913080e3530524",
+    "ut": 1630513705,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Supreme Court",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 270",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka Declares Economic Emergency To Control Increase In Food Prices Amid Forex Crisis",
+    "source": "www.republicworld.com",
+    "snippet": "Sri Lanka's President on Tuesday declared an economic emergency to stem the increasing inflation after a steep fall in the value of the country's currency.",
+    "url": "https://www.republicworld.com/world-news/rest-of-the-world-news/sri-lanka-declares-economic-emergency-to-control-increase-in-food-prices-amid-forex-crisis.html",
+    "url_hash": "42d96312db71ebd49a2d1af5d23f16db",
+    "ut": 1630515385,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          5,
+          6
         ]
       }
     ]
