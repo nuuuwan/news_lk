@@ -5038,6 +5038,25 @@
   {
     "date": "2021-08-31",
     "title": "Sri Lanka declares economic emergency to contain food prices amid forex crisis",
+    "source": "www.yahoo.com",
+    "snippet": "Sri Lanka has declared an economic emergency empowering the authorities to seize stocks of staple foods and set their prices, to contain soaring inflation after a steep devaluation of its currency due to a foreign exchange crisis.",
+    "url": "https://www.yahoo.com/entertainment/sri-lanka-declares-economic-emergency-171105073.html",
+    "url_hash": "abe6ddabe771ebea18f2f34b76c6b5a2",
+    "ut": 1630429733,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "Sri Lanka declares economic emergency to contain food prices amid forex crisis",
     "source": "finance.yahoo.com",
     "snippet": "Sri Lanka has declared an economic emergency empowering the authorities to seize stocks of staple foods and set their prices, to contain soaring inflation after a steep devaluation of its currency due to a foreign exchange crisis.",
     "url": "https://finance.yahoo.com/news/sri-lanka-declares-economic-emergency-170251666.html",
@@ -5744,6 +5763,33 @@
   },
   {
     "date": "2021-08-31",
+    "title": "Government approves US$ 783mn export-oriented aloe vera-based herbal medicine project",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government has approved a US$ 783 million aloe vera -based herbal medicine manufacturing project titled 'Dry Zone Rural Economic Development Aloe Vera Project' in the Anuradhapura District targeting exports.",
+    "url": "https://www.dailymirror.lk/business-news/Government-approves-US-783mn-export-oriented-aloe-vera-based-herbal-medicine-project/273-219423",
+    "url_hash": "4cd34df7665cc2106b043b26823da351",
+    "ut": 1630444100,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "US$ 783 million",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Anuradhapura District",
+        "start_end": [
+          27,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Spotlight on Meegahapallama Commercial farmers demand bridge",
     "source": "www.dailymirror.lk",
     "snippet": "Around 350 - 400 families live in Paranigama W.27/A Grama Niladhari Division in Ampara district. More than 350 acres of cultivation lands.... ..",
@@ -5926,6 +5972,33 @@
     "url_hash": "9cb441e051fb28981902439604ab524b",
     "ut": 1630447689,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-08-31",
+    "title": "\"Your travel plans should not come first\" - Dr. Dinu Guruge",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a recent live discussion on fighting the Covid-19 pandemic hosted by Daily Mirror Twitter Spaces, Colombo Municipal Council's... ..",
+    "url": "https://www.dailymirror.lk/hard-talk/%E2%80%9CYour-travel-plans-should-not-come-first%E2%80%9D--%E2%80%93-Dr--Dinu-Guruge/334-219431",
+    "url_hash": "f739ab9c0bfd3968d7671ddb1fd8010f",
+    "ut": 1630447700,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Daily Mirror Twitter Spaces",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo Municipal Council's",
+        "start_end": [
+          17,
+          21
+        ]
+      }
+    ]
   },
   {
     "date": "2021-08-31",
