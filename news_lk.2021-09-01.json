@@ -44,6 +44,59 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Azath Salley further remanded till September 14",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Western Province Governor Azath Salley was yesterday ordered to be further remanded till September 14 by Colombo Chief Magistrate's Court over controversial remarks he made detrimental to ethnic-religious harmony in the country.",
+    "url": "https://www.dailymirror.lk/latest_news/Azath-Salley-further-remanded-till-September-14/342-219434",
+    "url_hash": "329cc57ee4f732a1d7ec26dfb68682ef",
+    "ut": 1630454893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Western Province",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Azath Salley",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 14",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "The best wildlife photos of 2021 capture a rare Iberian lynx, a snake strangling a gecko, and a lion dripping with blood",
+    "source": "news.yahoo.com",
+    "snippet": "Wild animals can beat immense odds - crossing torrential rivers or bouncing back from the brink of extinction. Photos reveal the mundane and the extraordinary.",
+    "url": "https://news.yahoo.com/best-wildlife-photos-2021-capture-000338875.html",
+    "url_hash": "727e4caf94759dc81768c26bc3534303",
+    "ut": 1630454902,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-01",
     "title": "Sri Lanka gets US$150mn swap from Bangladesh, SDR541mn from IMF",
     "source": "economynext.com",
     "snippet": "Sri Lanka has got 150 million US dollars in a currency swap arrangement from the central bank of Bangladesh, and an special drawing rights allocation from the International Monetary amounting to around 787 million US dollars to boost gross reserves,",
@@ -586,6 +639,108 @@
     "url": "https://www.dailymirror.lk/latest_news/Govt-hopeful-Covid-cases-will-drop-shortly-Co-cabinet-Spokesman/342-219432",
     "url_hash": "7a32d433bde59aeb79d0c0a78c827fbd",
     "ut": 1630462080,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the days",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Spokesman",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "SL receives US $ 787mn from IMF; US $ 150mn from B'desh",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka has received Special Drawing Rights (SDRs) to the equivalent of US $ 787 million from the International Monetary Fund (IMF) under the multilateral lender's latest US $ 650 billion SDR allocation,",
+    "url": "https://www.dailymirror.lk/business_247/SL-receives-US-787mn-from-IMF-US-150mn-from-Bdesh/395-219435",
+    "url_hash": "35f08c073d0e0722f21b2126fddebbc3",
+    "ut": 1630462093,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Special Drawing Rights",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 787 million",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 650 billion",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Govt hopeful Covid cases will drop shortly: Co-cabinet Spokesman",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government remains hopeful that the current number of Covid cases and fatalities will drop in the days to come due to the steps under implementation, a Spokesman said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-hopeful-Covid-cases-will-drop-shortly-Co-cabinet-Spokesman/108-219432",
+    "url_hash": "587ba92b5c8436036588b8c861394dee",
+    "ut": 1630462093,
     "ent_info_list": [
       {
         "label": "NORP",
