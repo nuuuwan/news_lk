@@ -6129,6 +6129,49 @@
   },
   {
     "date": "2021-08-31",
+    "title": "Beyond cryptocurrency - A blockchain-led intervention for Sri Lankan economy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Bloomberg reported Sri Lanka as the national economy most at risk for defaulting sovereign debts in the Asia-Pacific region, with a 28 percent likelihood based on its debt default probability scale. Since then,",
+    "url": "https://www.dailymirror.lk/businessopinion/Beyond-cryptocurrency-A-blockchain-led-intervention-for-Sri-Lankan-economy/306-219413",
+    "url_hash": "c300cb4d853a29ad1080798812299183",
+    "ut": 1630444238,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Bloomberg",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Asia-Pacific region",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "28 percent",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
     "title": "Spotlight on Meegahapallama Commercial farmers demand bridge",
     "source": "www.dailymirror.lk",
     "snippet": "Around 350 - 400 families live in Paranigama W.27/A Grama Niladhari Division in Ampara district. More than 350 acres of cultivation lands.... ..",
@@ -6455,6 +6498,33 @@
     "url": "https://www.dailymirror.lk/opinion/%E2%80%9CYour-travel-plans-should-not-come-first%E2%80%9D--%E2%80%93-Dr--Dinu-Guruge/172-219431",
     "url_hash": "fa7ca8fdaad0804f2cacfcd07ed3f45c",
     "ut": 1630447708,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Daily Mirror Twitter Spaces",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo Municipal Council's",
+        "start_end": [
+          17,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-08-31",
+    "title": "\"Your travel plans should not come first\" - Dr. Dinu Guruge",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a recent live discussion on fighting the Covid-19 pandemic hosted by Daily Mirror Twitter Spaces, Colombo Municipal Council's... ..",
+    "url": "https://www.dailymirror.lk/opinion/Your-travel-plans-should-not-come-first-Dr-Dinu-Guruge/172-219431",
+    "url_hash": "2beaee1e095baf3d09a75c53d4a70944",
+    "ut": 1630447838,
     "ent_info_list": [
       {
         "label": "ORG",

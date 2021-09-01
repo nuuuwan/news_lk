@@ -937,6 +937,65 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Baby elephant twins born in Sri Lanka",
+    "source": "uk.news.yahoo.com",
+    "snippet": "Sri Lanka's main elephant orphanage recorded a rare twin birth Tuesday as a 25-year-old named Surangi delivered healthy male calves, the first elephant twins born in captivity in the country for 80 years.",
+    "url": "https://uk.news.yahoo.com/baby-elephant-twins-born-sri-091203828.html",
+    "url_hash": "7e2f758bb21702349202a17d61a74f2d",
+    "ut": 1630462247,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "25-year-old",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Surangi",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "80 years",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Sri Lanka declares emergency to contain food prices amid forex crisis",
     "source": "www.malaysiakini.com",
     "snippet": "Sri Lanka has declared an economic emergency empowering the authorities to seize stocks of staple foods and set their prices, to contain soaring inflation after a steep devaluation of its currency due to a foreign exchange crisis.",
@@ -2318,6 +2377,41 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Migratory species in Asia-Pacific threatened by plastic pollution",
+    "source": "www.dailysabah.com",
+    "snippet": "A new U.N. report on the Asia-Pacific region said Tuesday that migratory species, including endangered freshwater dolphins that drown in fishing nets",
+    "url": "https://www.dailysabah.com/life/environment/migratory-species-in-asia-pacific-threatened-by-plastic-pollution",
+    "url_hash": "3c1c311b6a287afc24529f87ceb629a6",
+    "ut": 1630483856,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "U.N.",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Asia-Pacific",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Sri Lanka seeks forex loans amid attempts to boost reserves",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Finance Ministry is seeking foreign currency term loans in US dollars, Euro, Renminbi or Japanese Yen, a request for proposals said as attempts are being made to rebuild reserves lost amid liquidity injections.",
@@ -3061,6 +3155,221 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka fails to sell 63-pct of price controlled bill auction",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has failed to sell 63 percent of a 68.5 billion rupee Treasuries auction with a pre-declared controlled yield, data from the state debt office showed.",
+    "url": "https://economynext.com/sri-lanka-fails-to-sell-63-pct-of-price-controlled-bill-auction-85677/",
+    "url_hash": "8702f73b67e787aa01005eeae4dba235",
+    "ut": 1630499165,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "63 percent",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "68.5 billion",
+        "start_end": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Russia and Sri Lanka discuss military cooperation",
+    "source": "menafn.com",
+    "snippet": "Top Defence officials from Russia and Sri Lanka have had talks on military cooperation and exchanging experience.   Durin",
+    "url": "https://menafn.com/1102721571/Russia-and-Sri-Lanka-discuss-military-cooperation",
+    "url_hash": "8f8776d9790d38f9a06ffea7c305a97b",
+    "ut": 1630499350,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Durin",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka to update MOU with UK to facilitate employment for marine professionals",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka is looking to update a Memorandum of Understanding (MOU) with the United Kingdom signed in 2007 to enable more employment opportunities for Sri Lankan marine professionals, a cabinet statement said.",
+    "url": "https://economynext.com/sri-lanka-to-update-mou-with-uk-to-facilitate-employment-for-marine-professionals-85678/",
+    "url_hash": "b3ffac06430fa065961221ffdef9df4e",
+    "ut": 1630499765,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "a Memorandum of Understanding",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MOU",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United Kingdom",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2007",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Bangladesh opener Tamim rules out playing in T20 World Cup",
+    "source": "apnews.com",
+    "snippet": "Bangladesh opener Tamim Iqbal ruled himself out of contention for the upcoming Twenty20 World Cup, saying Wednesday other players were more deserving of a place in the squad.",
+    "url": "https://apnews.com/f4e8d2502daffae7573f46c0edb64f2b",
+    "url_hash": "7fba3a92502c226a4d887528554e120f",
+    "ut": 1630500296,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamim Iqbal",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Twenty20 World Cup",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Cycle Pure Agarbathi partners for Sri Lanka Vs South Africa Series 2021 as the title sponsor",
+    "source": "www.pitchonnet.com",
+    "snippet": "Cycle Pure Agarbathi, India's largest and the only certified carbon neutral incense brand, has strengthened its long-standing support for cricket by partnering for Sri Lanka Vs. South Africa series 2021 as the title sponsor partner for the series.",
+    "url": "http://www.pitchonnet.com/blog/2021/09/01/cycle-pure-agarbathi-partners-for-sri-lanka-vs-south-africa-series-2021-as-the-title-sponsor/",
+    "url_hash": "bc7fdbc2c9f3b93c62e8da86559ffb51",
+    "ut": 1630500836,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
