@@ -3161,6 +3161,140 @@
   },
   {
     "date": "2021-09-01",
+    "title": "Sri Lankan shares close at record high as industrial stocks gain",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares closed at an all-time high on Wednesday, helped by industrial companies and a surge in conglomerate Expolanka.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-close-at-record-high-as-industrial-stocks-gain-idUSL4N2Q32T1",
+    "url_hash": "3549b7d215e221df2261f3e94bc722c7",
+    "ut": 1630498091,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Expolanka",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka stock index touches fresh record high despite SRR hike",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's main stock index hit a fresh all time high on Wednesday (01) with a 1.84 percent gain and the day's close passed the psychological mark of 9,000 in strong turnover, brokers said. The index soared despite the central bank's decision to raise Statutory Reserve Ratio (SRR) by 2 percent with effect from Wednesday that mopped up 150 billion rupees from the market.",
+    "url": "https://economynext.com/sri-lanka-stock-index-touches-fresh-record-high-despite-srr-hike-85676/",
+    "url_hash": "506cd346aff948906390897827f6ecc1",
+    "ut": 1630498106,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "01",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "1.84 percent",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "day",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9,000",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Statutory Reserve Ratio",
+        "start_end": [
+          51,
+          54
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SRR",
+        "start_end": [
+          55,
+          56
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "2 percent",
+        "start_end": [
+          58,
+          60
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          63,
+          64
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "150 billion",
+        "start_end": [
+          67,
+          69
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "Sri Lanka fails to sell 63-pct of price controlled bill auction",
     "source": "economynext.com",
     "snippet": "Sri Lanka has failed to sell 63 percent of a 68.5 billion rupee Treasuries auction with a pre-declared controlled yield, data from the state debt office showed.",
@@ -3370,6 +3504,100 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Bangladesh opener Tamim rules out playing in T20 World Cup",
+    "source": "apnews.com",
+    "snippet": "Bangladesh opener Tamim Iqbal ruled himself out of contention for the upcoming Twenty20 World Cup, saying Wednesday other players were more deserving of a place in the squad.",
+    "url": "https://apnews.com/article/sports-bangladesh-f4e8d2502daffae7573f46c0edb64f2b",
+    "url_hash": "e764611fb20ac9a82c8d7042dbae5b72",
+    "ut": 1630501699,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamim Iqbal",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Twenty20 World Cup",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Rare twin baby elephants born in Sri Lanka",
+    "source": "theindependent.com",
+    "snippet": "An elephant gave birth to twins on Tuesday (August 31) for the first time in nearly 80 years in Sri Lanka, wildlife authorities said.",
+    "url": "https://theindependent.com/news/world/rare-twin-baby-elephants-born-in-sri-lanka/video_37912ef0-0b2c-5aae-a02a-372ffb3aea8c.html",
+    "url_hash": "71261a5b6377c7b66168f25425f7302f",
+    "ut": 1630502111,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 31",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly 80 years",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
         ]
       }
     ]
