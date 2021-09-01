@@ -1,6 +1,100 @@
 [
   {
     "date": "2021-09-01",
+    "title": "Azath Salley further remanded till September 14",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Western Province Governor Azath Salley was yesterday ordered to be further remanded till September 14 by Colombo Chief Magistrate's Court over controversial remarks he made detrimental to ethnic-religious harmony in the country.",
+    "url": "https://www.dailymirror.lk/breaking_news/Azath-Salley-further-remanded-till-September-14/108-219434",
+    "url_hash": "143c0fb2c5d7354a26f8aad191325486",
+    "ut": 1630454880,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Western Province",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Azath Salley",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 14",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka gets US$150mn swap from Bangladesh, SDR541mn from IMF",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has got 150 million US dollars in a currency swap arrangement from the central bank of Bangladesh, and an special drawing rights allocation from the International Monetary amounting to around 787 million US dollars to boost gross reserves,",
+    "url": "https://economynext.com/sri-lanka-gets-us150mn-swap-from-bangladesh-sdr541mn-from-imf-85646/",
+    "url_hash": "683e5fb5b04294b6ee3e0b66cc653a02",
+    "ut": 1630454905,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "150 million US dollars",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "around 787 million US dollars",
+        "start_end": [
+          32,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
     "title": "The cradle of Sri Lanka Air Force aviators",
     "source": "www.msn.com",
     "snippet": "The Sri Lanka Air Force (SLAF) has an impressive fleet of fixed wing and rotary wing aircraft. For seven decades the SLAF has produced many pilots. When these pilots were aspiring officer cadets they were all trained at the No-01 Flying Training Wing,",
@@ -445,6 +539,272 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Cutting down expenditure to distribute essential goods will not be a success: SJB MP",
+    "source": "www.dailymirror.lk",
+    "snippet": "The funds received from IMF, China and Bangladesh will only result in a temporary stimulation of the economy ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Cutting-down-expenditure-to-distribute-essential-goods-will-not-be-a-success-SJB-MP/108-219433",
+    "url_hash": "56a1823712707ca8e6c8c800c38c63ce",
+    "ut": 1630462080,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Govt hopeful Covid cases will drop shortly: Co-cabinet Spokesman",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government remains hopeful that the current number of Covid cases and fatalities will drop in the days to come due to the steps under implementation, a Spokesman said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-hopeful-Covid-cases-will-drop-shortly-Co-cabinet-Spokesman/342-219432",
+    "url_hash": "7a32d433bde59aeb79d0c0a78c827fbd",
+    "ut": 1630462080,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the days",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Spokesman",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "India probe into Sri Lankan boat intercepted with drugs, weapons suggests LTTE revival",
+    "source": "www.adaderana.lk",
+    "snippet": "An ongoing probe by India's National Investigation Agency (NIA) into the recent seizure of narcotics, weapons and ammunition has led to speculation that an international drug running and weapon trading racket is aimed at reviving the Sri Lankan Tamil separatist group LTTE,",
+    "url": "http://www.adaderana.lk/news.php?nid=76582",
+    "url_hash": "9755d6711ac3bb1945facc08b4b2782c",
+    "ut": 1630462208,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Investigation Agency",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Sri Lanka declares emergency to contain food prices amid forex crisis",
+    "source": "www.malaysiakini.com",
+    "snippet": "Sri Lanka has declared an economic emergency empowering the authorities to seize stocks of staple foods and set their prices, to contain soaring inflation after a steep devaluation of its currency due to a foreign exchange crisis.",
+    "url": "https://www.malaysiakini.com/world/589454",
+    "url_hash": "2fb87c6c909dcbe5d8299d4685f8760a",
+    "ut": 1630462508,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Entrepreneur-aesthete Vina Mody leaves behind a legacy for Indian craftsmen",
+    "source": "www.msn.com",
+    "snippet": "The name Vina is actually pronounced as `Vaina` (to rhyme with Diana), this reporter learnt on a condolence call to Vina Mody's niece, Feroza Mody. Vina passed away peacefully on Monday night at Feroza's Carmichael Road residence.",
+    "url": "https://www.msn.com/en-in/news/other/entrepreneur-aesthete-vina-mody-leaves-behind-a-legacy-for-indian-craftsmen/ar-AANXAVf",
+    "url_hash": "dc48674c99b0381e50011c70c3c87565",
+    "ut": 1630462521,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Vina",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Vaina",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Diana",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vina Mody's",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Feroza Mody",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vina",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Monday night",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Feroza",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Carmichael Road",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-01",
+    "title": "To Leave or to Stay? Years of bad economic policy are killing the aspirations of Sri Lanka's youth",
+    "source": "island.lk",
+    "snippet": "By Sathya Karunarathne Overseas migration for work or study, seems a popular option for Sri Lanka's youth. Central Bank data shows that in 2019 alone the age group 25-29 recorded the highest number of departures abroad for skilled,",
+    "url": "https://island.lk/to-leave-or-to-stay-years-of-bad-economic-policy-are-killing-the-aspirations-of-sri-lankas-youth/",
+    "url_hash": "7f6a60f1be2b0c65ae2bf54d8267e14e",
+    "ut": 1630462885,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sathya Karunarathne Overseas",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
