@@ -695,6 +695,73 @@
   },
   {
     "date": "2021-09-02",
+    "title": "Spells of showers expected in many parts of the island",
+    "source": "www.adaderana.lk",
+    "snippet": "Several spells of showers or thundershowers are expected in Western, Sabaragamuwa and North-western provinces as well as in Kandy, Nuwara-Eliya, Galle and Matara districts, says the Department of Mete",
+    "url": "http://www.adaderana.lk/news.php?nid=76605",
+    "url_hash": "b88b214d7a76bab3cb6d38fa1c7df6c0",
+    "ut": 1630548650,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Western",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kandy",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nuwara-Eliya",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Mete",
+        "start_end": [
+          33,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
     "title": "China accuses US of politicising global response to COVID-19",
     "source": "island.lk",
     "snippet": "The recent U.S. Intelligence Report on COVID-19 Origins has the ugly agenda of politicising the global response to COVID-19 when unity and cooperation is key, Chinese Ambassador to Sri Lanka, Qi Zhenhong said yesterday,",
@@ -2582,6 +2649,33 @@
   },
   {
     "date": "2021-09-02",
+    "title": "Organize public transportation before re-opening country: Dr. Herath",
+    "source": "www.dailymirror.lk",
+    "snippet": "Before re-opening the country, plans should be submitted to organize how public transportation would operate, Health Services Deputy Director General Dr. Hemantha Herath said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Organize-public-transportation-before-re-opening-country-Dr-Herath/342-219529",
+    "url_hash": "2d5e2e5a50bfa9f5100adfe58671a35b",
+    "ut": 1630570240,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health Services",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hemantha Herath",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
     "title": "Covid: Sri Lanka in economic emergency as food prices soar",
     "source": "www.businessghana.com",
     "snippet": "Sri Lanka has declared an economic emergency, after a steep fall in the value of the South Asian country's currency caused a spike in",
@@ -3200,6 +3294,108 @@
   },
   {
     "date": "2021-09-02",
+    "title": "SMS 1904 to manage home quarantined COVID patients in SP from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "SMS facility, which was started in the Western Province (WP) to manage and provide information on COVID infected patients treated under home quarantined procedure, has been introduced to the Southern Province as well (SP) from today (2).",
+    "url": "https://www.dailymirror.lk/breaking_news/SMS-1904-to-manage-home-quarantined-COVID-patients-in-SP-from-today/108-219535",
+    "url_hash": "e0f4d6825b1a13f8a6dc5f4e5fab6f5e",
+    "ut": 1630581040,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "WP",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Southern Province",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SP",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Emergency proclamation on essential goods to be debated on Sept. 6",
+    "source": "www.dailymirror.lk",
+    "snippet": "Party Leaders today decided to take up the debate on emergency proclamation issued on essential goods on September 6, Serjeant-at-Arms Narendra Fernando said today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Emergency-proclamation-on-essential-goods-to-be-debated-on-Sept-6/342-219536",
+    "url_hash": "f2f61398d8e4d8e9e87fa49cdcf6e5fc",
+    "ut": 1630581040,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Party Leaders",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 6",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
     "title": "JinkoSolar's Subsidiary and CATL Sign Strategic Cooperation Framework Agreement",
     "source": "apnews.com",
     "snippet": "Contemporary Amperex Technology Co., Ltd. (\"CATL\"). The signing ceremony was attended by Mr. Jia Zhou, president of CATL and Mr. Kangping Chen, CEO of Jinko Solar Co., Ltd., on behalf of both parties.",
@@ -3296,6 +3492,290 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "CID arrests couple involved in pornographic video at Pahanthudawa waterfall",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Criminal Investigations Department (CID) has arrested the couple who were involved in a pornographic video at the Pahanthudawa waterfall in Balangoda, which is now widely circulated on social media. The Computer Crimes Unit of the CID traced the couple ...",
+    "url": "https://www.dailymirror.lk/breaking_news/CID-arrests-couple-involved-in-pornographic-video-at-Pahanthudawa-waterfall/108-219537",
+    "url_hash": "a9ec214c7ce351b301fcd3d48074e285",
+    "ut": 1630584640,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Criminal Investigations Department",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pahanthudawa",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Balangoda",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Computer Crimes Unit",
+        "start_end": [
+          34,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CID",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Government insists no shortage of essential food items",
+    "source": "menafn.com",
+    "snippet": "The Government has insisted that there is no shortage of essential food items in the marke  t. Director General of the Go",
+    "url": "https://menafn.com/1102727841/Government-insists-no-shortage-of-essential-food-items",
+    "url_hash": "755f3316aef5ebc26b4d3023bc4d46f1",
+    "ut": 1630584734,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Sri Lankan shares end at record high as financials, industrial stocks gain",
+    "source": "www.reuters.com",
+    "snippet": "Domestic COVID-19 cases rose by 3,828 in the last 24 hours, taking the total to 444,130, even as the island-nation remains under a lockdown. * Sri Lanka reported 215 fatalities here due to COVID-19 in the last 24 hours, bringing the death toll to 9,400.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-end-at-record-high-as-financials-industrial-stocks-gain-idUSL4N2Q42G5",
+    "url_hash": "5a8f843b64d569274bed088979be9024",
+    "ut": 1630584950,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "3,828",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the last 24 hours",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "444,130",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "215",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the last 24 hours",
+        "start_end": [
+          40,
+          44
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9,400",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Sri Lanka seizes staple stocks, says not facing food shortage",
+    "source": "www.dhakatribune.com",
+    "snippet": "The government announced emergency regulations on Monday empowering authorities to seize stocks of staples and sell them at guaranteed prices",
+    "url": "https://www.dhakatribune.com/world/south-asia/2021/09/02/sri-lanka-seizes-staple-stocks-says-not-facing-food-shortage",
+    "url_hash": "d68c02d30594786a2ac80da2268411ec",
+    "ut": 1630585190,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "New national policy on environmentally sensitive areas in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "A new national policy on environmentally sensitive areas in Sri Lanka was launched today. The National Policy on Environmentally Sensitive Areas (ESA) in Sri Lanka was spearheaded by the Ministry of Environment,",
+    "url": "https://colombogazette.com/2021/09/02/new-national-policy-on-environmentally-sensitive-areas-in-sri-lanka/",
+    "url_hash": "69ed75dd69f47ef86b0d2b5e9f1a8eef",
+    "ut": 1630585454,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The National Policy on Environmentally Sensitive Areas",
+        "start_end": [
+          15,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Environment",
+        "start_end": [
+          31,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "2021 A/L, Grade 5 exam application deadline extended to Sept 15: Education Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "Taking into consideration the prevailing situation in the country, the Education Ministry has decided to extend the call for applications for the 2021 G.C.E. Advanced Level (A/L) and the Grade Five Scholarship examinations to 15.",
+    "url": "https://www.dailymirror.lk/breaking_news/2021-AL-Grade-5-exam-application-deadline-extended-to-Sept-15-Education-Ministry/108-219539",
+    "url_hash": "3af2fcd73852de14f0a1dd5bee97e8d4",
+    "ut": 1630586800,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Education Ministry",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Grade Five Scholarship",
+        "start_end": [
+          33,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Nations Trust Bank's American Express offers extended settlement plans on MyFees.lk",
+    "source": "colombogazette.com",
+    "snippet": "Nations Trust Bank American Express recently announced its tie up with MyFees.lk making it convenient for American Express Cardmembers to settle any educational fee online at a range of leading educational institutions in Sri Lanka with the added advantage of an extended settlement plan.",
+    "url": "https://colombogazette.com/2021/09/02/nations-trust-banks-american-express-offers-extended-settlement-plans-on-myfees-lk/",
+    "url_hash": "70d6a664305bb878b187eb9105bdd78a",
+    "ut": 1630586954,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nations Trust Bank American Express",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "MyFees.lk",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "American Express Cardmembers",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
