@@ -5700,5 +5700,375 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "A SMART lockdown can save lives and save the economy",
+    "source": "www.ft.lk",
+    "snippet": "According to an article in the Daily FT, a day of lockdown in Sri Lanka causes a negative impact of Rs. 22.4 billion, or $ 112 million, based on the economic projection model developed by the Imperial College.",
+    "url": "https://www.ft.lk/columns/A-SMART-lockdown-can-save-lives-and-save-the-economy/4-722551",
+    "url_hash": "69c0ead9d3143212438d527937510a53",
+    "ut": 1630606113,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22.4 billion",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 112 million",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Imperial College",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Power generation costs: Insight into CEB losses in recent years",
+    "source": "www.ft.lk",
+    "snippet": "The Ceylon Electricity Board (CEB) is identified as one of the most strategically important and largest State-owned enterprises (SOE) in Sri Lanka. However, it is currently also amongst the highest loss-making SOEs in the country,",
+    "url": "https://www.ft.lk/opinion/Power-generation-costs-Insight-into-CEB-losses-in-recent-years/14-722550",
+    "url_hash": "4849047f276d08a09c2c70c09a0dd86c",
+    "ut": 1630606113,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ceylon Electricity Board",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SOE",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Sri Lanka beat Proteas in tight first ODI in Colombo",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka won the first ODI against South Africa by 14 runs to take a 1-0 lead in the three-match series at the Premadasa Stadium in Colombo.",
+    "url": "https://www.msn.com/en-za/sport/cricket/sri-lanka-beat-proteas-in-tight-first-odi-in-colombo/ar-AAO23uF",
+    "url_hash": "4e78fe4533cc519bc5f9da3281c8025a",
+    "ut": 1630606128,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Premadasa Stadium",
+        "start_end": [
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Proteas choke in Colombo as they lose a nail-biter by 14 runs",
+    "source": "www.timeslive.co.za",
+    "snippet": "The Proteas' problems got worse as they begun their limited-overs tour of Sri Lanka in a dispirited manner, going down by 14 runs against the hosts in Colombo on Wednesday in the opening three-match ODI series.",
+    "url": "https://www.timeslive.co.za/sport/cricket/2021-09-02-proteas-choke-in-colombo-as-they-lose-a-nail-biter-by-14-runs/",
+    "url_hash": "fac2c6d7f29a54430813a7a259355ae1",
+    "ut": 1630609938,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "Proteas",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Proteas let it slip at the death",
+    "source": "www.businesslive.co.za",
+    "snippet": "The Proteas arrived in the island nation in turmoil with a cloud hanging over head coach Mark Boucher, who has admitted to racist acts that he \"deeply regrets\", and without assistant coach Enoch Nkwe,",
+    "url": "https://www.businesslive.co.za/bd/sport/cricket/2021-09-02-proteas-let-it-slip-at-the-death/",
+    "url_hash": "3700d0d26010eeff90130b7b58694c76",
+    "ut": 1630609998,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Proteas",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Boucher",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Enoch Nkwe",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Minor Cricket League Week 5: Ricardo Powell turns back the clock",
+    "source": "www.cricbuzz.com",
+    "snippet": "Aaron Jones (72 off 43) and Ricardo Powell (63 off 31) put on a rampaging stand of 121 runs off 62 deliveries smashing the Lions bowlers to all parts of the ground. Powell, now aged 42, turned the clock back in some style and tonked six sixes to go with his two boundaries.",
+    "url": "https://www.cricbuzz.com/cricket-news/118860/minor-cricket-league-week-5-ricardo-powell-turns-back-the-clock",
+    "url_hash": "7858c6c6fc9e7adba99a8887553b8c11",
+    "ut": 1630612293,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Aaron Jones",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "72",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "43",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ricardo Powell",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "63",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "31",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "121",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "62",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lions",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Powell",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "42",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          58,
+          59
+        ]
+      }
+    ]
   }
 ]
