@@ -6607,5 +6607,110 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "New Govt. policy for conserving Environmentally Sensitive Areas in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka, home to remarkable biological diversity is considered to be the richest country in the Asian region in terms of species concentration. Management of the environment, its natural resources and biodiversity is vital in achieving sustainable ...",
+    "url": "https://www.ft.lk/news/New-Govt-policy-for-conserving-Environmentally-Sensitive-Areas-in-Sri-Lanka/56-722574",
+    "url_hash": "f9f4dec106b8c7923774c996aa7af35b",
+    "ut": 1630616926,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Why hide the truth about CKDu? An open letter to the new Minister of Health",
+    "source": "www.lankaweb.com",
+    "snippet": "However, the new Finance Minister has, in a recent gazette notification, dated 31st July 2021, claimed to be published in order to regulate the importation of chelated minerals and micronutrients\" which were previously banned,",
+    "url": "https://www.lankaweb.com/news/items/2021/09/02/why-hide-the-truth-about-ckdu-an-open-letter-to-the-new-minister-of-health/",
+    "url_hash": "4aff28609cc6ce7300195d7c6ff31f74",
+    "ut": 1630622395,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "31st July 2021",
+        "start_end": [
+          15,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Why hide the truth about CKDu? An open letter to the new Minister of Health",
+    "source": "www.lankaweb.com",
+    "snippet": "Further, the Table 1 below compiled from the data of 2018 Annual Health Bulletin (page 70), also confirm a sharp decline ... Dr Padeniya have been repeatedly claiming that Sri Lanka is the country consuming the highest quantities of agrochemicals in ...",
+    "url": "http://www.lankaweb.com/news/items/2021/09/02/why-hide-the-truth-about-ckdu-an-open-letter-to-the-new-minister-of-health/",
+    "url_hash": "c55929e9a0a9686841f5797e7d5a25b3",
+    "ut": 1630622400,
+    "ent_info_list": [
+      {
+        "label": "LAW",
+        "text": "Table 1",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2018",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "70",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dr Padeniya",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
   }
 ]
