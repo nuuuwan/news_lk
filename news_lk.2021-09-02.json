@@ -3200,6 +3200,65 @@
   },
   {
     "date": "2021-09-02",
+    "title": "Asia Capital says no internal investigations on two former Jt. COOs",
+    "source": "www.ft.lk",
+    "snippet": "Asia Capital Plc in a statement said yesterday that there are no internal investigations on the two former Joint Chief Operating Officers (COOs) Reyhan Morris and Sandun Hettige over their conduct or actions during their tenure in the Company .",
+    "url": "https://www.ft.lk/business/Asia-Capital-says-no-internal-investigations-on-two-former-Jt-COOs/34-722547",
+    "url_hash": "b5e41fba2c91e4c2b7d093d59f5fd2e8",
+    "ut": 1630577293,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Asia Capital Plc",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Reyhan Morris",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sandun Hettige",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Company",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
     "title": "Maximum retail price set for oximeter",
     "source": "www.dailymirror.lk",
     "snippet": "A maximum retail price of Rs 3000 has been declared for a Pulse Oximeter, State Minister Prof. Channa Jayasumana said. ..",
@@ -3342,6 +3401,65 @@
         "start_end": [
           17,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "SMS 1904 to manage home quarantined COVID patients in SP from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "SMS facility, which was started in the Western Province (WP) to manage and provide information on COVID infected patients treated under home quarantined procedure, has been introduced to the Southern Province as well (SP) from today (2).",
+    "url": "https://www.dailymirror.lk/latest_news/SMS-1904-to-manage-home-quarantined-COVID-patients-in-SP-from-today/342-219535",
+    "url_hash": "1cacbe6e4f5f151d40263a931f3392dd",
+    "ut": 1630580869,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "WP",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Southern Province",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SP",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          43,
+          44
         ]
       }
     ]
@@ -5043,6 +5161,132 @@
         "start_end": [
           42,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Maximum retail price for sugar and rice gazetted",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Consumer Affairs Authority (CAA) has issued the gazette notification declaring the maximum retail price for sugar and rice with effect from today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Maximum-retail-price-for-sugar-and-rice-gazetted/342-219549",
+    "url_hash": "2010e59e803ade3e3662e306288a4696",
+    "ut": 1630602469,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Consumer Affairs Authority",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "China will help Sri Lanka overcome economic, COVID challenges: Chinese Speaker",
+    "source": "economynext.com",
+    "snippet": "The Chinese government will do its \"utmost\" to assist Sri Lanka to overcome economic and pandemic challenges, the China's Speaker of Parliament has assured his Colombo counterpart this week. Chinese Speaker Li Zhanshu said this at a meeting with Sri Lanka Speaker Mahinda Yapa Abeywardena in a virtual meeting on Tuesday (31),",
+    "url": "https://economynext.com/china-will-help-sri-lanka-overcome-economic-covid-challenges-chinese-speaker-85717/",
+    "url_hash": "2f6f210fc7ac8a455daa2ffc48e5d749",
+    "ut": 1630602479,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Li Zhanshu",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Yapa Abeywardena",
+        "start_end": [
+          47,
+          50
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          55,
+          56
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "31",
+        "start_end": [
+          57,
+          58
         ]
       }
     ]
