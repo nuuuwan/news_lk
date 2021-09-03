@@ -4051,5 +4051,48 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "The Latest: Virus rules in Seoul extended another month",
+    "source": "www.chron.com",
+    "snippet": "South Korea will extend coronavirus restrictions in the greater capital area for at least another month as the nation grapples with its worst surge a few weeks before its biggest holiday of the year.",
+    "url": "https://www.chron.com/news/article/The-Latest-Virus-rules-in-Seoul-extended-another-16432811.php",
+    "url_hash": "fdb767aac0c2c87709685088017931ba",
+    "ut": 1630663909,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Korea",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "at least another month",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a few weeks",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "its biggest holiday of the year",
+        "start_end": [
+          28,
+          34
+        ]
+      }
+    ]
   }
 ]
