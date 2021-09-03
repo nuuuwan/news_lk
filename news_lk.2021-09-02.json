@@ -5358,6 +5358,49 @@
   },
   {
     "date": "2021-09-02",
+    "title": "Wear two facemasks if possible: Fernandopulle",
+    "source": "www.dailymirror.lk",
+    "snippet": "State Minister Dr. Sudarshani Fernandopulle today advised people to wear two facemasks if possible as the Coronavirus is spreading fast. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Wear-two-facemasks-if-possible-Fernandopulle/342-219547",
+    "url_hash": "b501d08113246e1d9f209ba4da7eb475",
+    "ut": 1630595297,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sudarshani Fernandopulle",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coronavirus",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
     "title": "204 more die of Covid-19: Death toll surges to 9,604",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 204 more COVID-19 related deaths that occurred yesterday (01) were confirmed by the Director-General of Health Services today pushing the death toll to 9,604. ..",
@@ -5564,6 +5607,57 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "UK to maintain ban on LTTE: Foreign Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankan Government has been informed that the UK Home Secretary has decided to maintain the proscription of the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organization under the UK Terrorism Act No.",
+    "url": "https://www.dailymirror.lk/latest_news/UK-to-maintain-ban-on-LTTE-Foreign-Ministry/342-219548",
+    "url_hash": "f65720dd6ac5329422d9f3f068e8fbb0",
+    "ut": 1630598897,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Government",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK Home",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Liberation Tigers of Tamil Eelam",
+        "start_end": [
+          18,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
