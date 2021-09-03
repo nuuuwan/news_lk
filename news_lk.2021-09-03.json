@@ -2293,6 +2293,73 @@
     "title": "New Zealand mall terror attacker was a Sri Lanka national with ISIS ideology",
     "source": "www.dailymirror.lk",
     "snippet": "New Zealand Prime Minister Jacinda Ardern has said an 'Isis-inspried lone wolf' who had caused the supermarket terror attack in Auckland was a Sri Lankan national who had arrived in New Zealand in 2011.",
+    "url": "https://www.dailymirror.lk/breaking_news/New-Zealand-mall-terror-attacker-was-a-Sri-Lanka-national-with-ISIS-ideology/108-219609",
+    "url_hash": "5ef3360526f46bd21fafc576c02910d5",
+    "ut": 1630645702,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jacinda Ardern",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "wolf",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2011",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "New Zealand mall terror attacker was a Sri Lanka national with ISIS ideology",
+    "source": "www.dailymirror.lk",
+    "snippet": "New Zealand Prime Minister Jacinda Ardern has said an 'Isis-inspried lone wolf' who had caused the supermarket terror attack in Auckland was a Sri Lankan national who had arrived in New Zealand in 2011.",
     "url": "https://www.dailymirror.lk/latest_news/New-Zealand-mall-terror-attacker-was-a-Sri-Lanka-national-with-ISIS-ideology/342-219609",
     "url_hash": "0805225a025891a52409eea661186203",
     "ut": 1630645705,
@@ -3844,6 +3911,49 @@
         "start_end": [
           27,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "SL commends UK's decision to proscribe LTTE",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka has commended the UK's move to maintain the proscription of the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organisation.",
+    "url": "https://www.msn.com/en-in/news/world/sl-commends-uk-s-decision-to-proscribe-ltte/ar-AAO36J5",
+    "url_hash": "9c9551f129f0616c7354c866b88d9722",
+    "ut": 1630656512,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Liberation Tigers of Tamil Eelam",
+        "start_end": [
+          13,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
