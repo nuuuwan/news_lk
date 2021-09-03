@@ -7602,6 +7602,57 @@
   },
   {
     "date": "2021-09-03",
+    "title": "202 more die of Covid-19: Death toll surges to 9,806",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 202 more COVID-19 related deaths that occurred yesterday (02) were confirmed by the Director-General of Health Services today pushing the death toll to 9,806. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/202-more-die-of-Covid-19-Death-toll-surges-to-9-806/108-219633",
+    "url_hash": "991cd930938ee0bf500e9ecffbc308b9",
+    "ut": 1630685298,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "202",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "02",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9,806",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Queuing for sugar...",
     "source": "www.dailymirror.lk",
     "snippet": "People were queuing to purchase sugar at the control price in Sathosa outlets in Borella and Maradana today. Pix by Pradeep Dilrukshana ..",
@@ -7884,6 +7935,41 @@
   },
   {
     "date": "2021-09-03",
+    "title": "SriLankan celebrates 42 years of operations",
+    "source": "www.dailymirror.lk",
+    "snippet": "SriLankan Airlines, the national carrier of Sri Lanka and a member of the oneworld alliance, celebrated 42 years of flying across the globe. ..",
+    "url": "https://www.dailymirror.lk/business-news/SriLankan-celebrates-42-years-of-operations/273-219671",
+    "url_hash": "418a027a9e1802f37f530cba50b7284b",
+    "ut": 1630692498,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "42 years",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "The Latest: US booster plan faces possible delay by Sept. 20",
     "source": "apnews.com",
     "snippet": "NICOSIA, Cyprus - A new survey suggests that nearly one-quarter of the adults in Cyprus aren't planning on getting vaccinated against COVID-19 soon, and 6% of that group states categorically that they won't get a shot.",
@@ -8090,6 +8176,108 @@
         "start_end": [
           37,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "India - Sri Lanka's 2nd largest trading partner - worried as economic crisis hits island nation",
+    "source": "www.sify.com",
+    "snippet": "Concerns have risen for Indian exporters, who have engagements with Sri Lanka, as the island country declared an economic emergency after a sharp fall in its currency and surge in food prices, triggered by a near erosion of foreign exchange reserves.",
+    "url": "https://www.sify.com/news/india---sri-lankas-2nd-largest-trading-partner---worried-as-economic-crisis-hits-island-nation-news-national-vjdsOtgbcgjhg.html",
+    "url_hash": "b4ccf88bb7a1d7a695f07fc58b726d46",
+    "ut": 1630696109,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Sri Lanka commends UK's decision to proscribe LTTE",
+    "source": "www.freepressjournal.in",
+    "snippet": "Colombo: Sri Lanka has commended the UK's move to maintain the proscription of the Liberation Tigers of Tamil Eelam (LTTE) as a terrorist organisation. In a statement on Thursday, the Foreign Ministry in Colombo said that that the government has been made aware that the UK Home Secretary has decided to maintain the proscription of the LTTE under the UK Terrorism Act No.",
+    "url": "https://www.freepressjournal.in/world/sri-lanka-commends-uks-decision-to-proscribe-ltte",
+    "url_hash": "f59fd7c077bd3bde304d39d39a246dda",
+    "ut": 1630697129,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Liberation Tigers of Tamil Eelam",
+        "start_end": [
+          15,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Foreign Ministry in Colombo",
+        "start_end": [
+          35,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK Home",
+        "start_end": [
+          51,
+          53
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          62,
+          63
         ]
       }
     ]
