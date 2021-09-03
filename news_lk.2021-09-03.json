@@ -92,6 +92,33 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Sri Lanka slaps price controls on sugar, rice amid money printing",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Consumer Affairs Authority, an agency which has created shortages in the past by controlling the price of tinned fish, lentils and liquefied petroleum gas has slapped price controls on rice and sugar.",
+    "url": "https://economynext.com/sri-lanka-slaps-price-controls-on-sugar-rice-amid-money-printing-85726/",
+    "url_hash": "01468df1ce8846bd90db312c4bd31c97",
+    "ut": 1630631705,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Consumer Affairs Authority",
+        "start_end": [
+          3,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "SLT-MOBITEL supports smart building technologies",
     "source": "island.lk",
     "snippet": "SLT-MOBITEL, the national ICT and telecommunication service provider, recently signed an agreement with Shangri-La Hotels Lanka (Private) Limited to provide a range of digital solutions for its One Galle Face Mall and One Galle Face Tower.",
@@ -220,6 +247,100 @@
         "start_end": [
           59,
           62
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Saumiyamoorthy Thondaman was the Masterful Strategist and Shrewdest Tactician Among Tamil Political Leaders",
+    "source": "dbsjeyaraj.com",
+    "snippet": "Thondaman was the legendary co-founder and long-time leader of the Ceylon Workers Congress (CWC). Thonda, as he was widely known, played a prominent role in the country's post-independence politics for many decades.",
+    "url": "http://dbsjeyaraj.com/dbsj/archives/74133",
+    "url_hash": "7e85fe85133b40dc8801a254d1aceaac",
+    "ut": 1630632841,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Thondaman",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ceylon Workers Congress",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Thonda",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "many decades",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Sri Lanka Police marks 155 years on Friday (03)",
+    "source": "www.newsfirst.lk",
+    "snippet": "Sri Lanka Police celebrates its 155th anniversary on Friday (03). According to the Office of the Police Spokesperson no celebrations - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/03/sri-lanka-police-marks-155-years-on-friday-03/",
+    "url_hash": "d36ff789656ce67cfa6e8b7ad06956d6",
+    "ut": 1630633801,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Police",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "155th",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Office of the Police Spokesperson no",
+        "start_end": [
+          15,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
