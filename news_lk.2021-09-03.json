@@ -344,5 +344,94 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Fairly heavy rains above 75mm expected in parts of the island",
+    "source": "www.adaderana.lk",
+    "snippet": "Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, Southern and North-western provinces",
+    "url": "http://www.adaderana.lk/news.php?nid=76632",
+    "url_hash": "6d8498ba829dc16d2fe7338f42a82e55",
+    "ut": 1630634891,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Southern",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Sri Lanka orders banking, transport, petroleum, food, state offices essential services",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lanka has declared a series of state services, utilities and banking as shortages of some foods emerge amid price controls and leading to queues shortly after a military major general was made the commissioner general of essential ...",
+    "url": "https://economynext.com/sri-lanka-orders-banking-transport-petroleum-food-state-offices-essential-services-85728/",
+    "url_hash": "e7796ed07223d746cd01c4ad70183692",
+    "ut": 1630636530,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ECONOMYNEXT - Sri Lanka",
+        "start_end": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Sri Lanka to receive 04 million Sinopharm vaccine doses tomorrow",
+    "source": "www.adaderana.lk",
+    "snippet": "Largest reception on a single day. \"Total supply from China to Sri Lanka will come to 22 million doses, one+ jab each for the island.\"",
+    "url": "http://www.adaderana.lk/news/76633/sri-lanka-to-receive-04-million-sinopharm-vaccine-doses-tomorrow",
+    "url_hash": "96f9af8475804e20419ebefa4cb77d70",
+    "ut": 1630637831,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22 million",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
   }
 ]
