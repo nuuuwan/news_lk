@@ -4172,6 +4172,41 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Prima increases Wheat Flour (01 kg) price by Rs. 12/-",
+    "source": "www.newsfirst.lk",
+    "snippet": "Prima has decided to increase the price of a kilogram of Wheat Flour by Rs. 12/-. The latest hike in wheat flour comes against a - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/03/prima-increases-wheat-flour-01-kg-price-by-rs-12/",
+    "url_hash": "4f8fd2568d7e11969fc0de8d7d7aab11",
+    "ut": 1630652929,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "a kilogram",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12/-",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Unilever Sri Lanka embraces diversity and inclusion with differently abled staff",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Unilever Sri Lanka, one of the largest fast-moving consumer goods companies in the island, has relaunched its Consumer Engagement Centre in partnership with Scicom Lanka, a leading technology and Business Process Outsourcing (BPO) company in the country ...",
@@ -5196,6 +5231,49 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Sri Lanka's GMOA, opposition MP question Hambantota Pfizer-BioNTech rollout",
+    "source": "economynext.com",
+    "snippet": "A Pfizer-BioNTech COVID-19 vaccine rollout under way in Sri Lanka's sparsely populated Hambantota district for the 20-to-30-years age group has been questioned by a doctors' union that says school children aged 12 to 18 ought to be prioritised.",
+    "url": "https://economynext.com/sri-lankas-gmoa-opposition-mp-question-hambantota-pfizer-biontech-rollout-85753/",
+    "url_hash": "26b77d053a93318ce004c38c8d0740e7",
+    "ut": 1630667306,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Hambantota",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "20-to-30-years",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12 to 18",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Schoolchildren likely to receive Pfizer vaccine soon after health authority approval",
     "source": "www.dailymirror.lk",
     "snippet": "The Government Medical Officers' Association (GMOA) requested the Presidential Task force to administer COVID-19 vaccine to children aged 12 to 18 years before the re-opening of schools to prevent a catastrophic situation with the spread of COVID in schools,",
@@ -6207,6 +6285,116 @@
         "start_end": [
           12,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Sri Lanka stocks edge down from record low; foreigners exit",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's main stock index fell 0.21 percent on Friday (03) due to profit-taking after recording a fresh all-time high throughout the week, brokers said. But foreign investors sold a net 1.5 billion worth of shares and analysts cited currency fall for the move.",
+    "url": "https://economynext.com/sri-lanka-stocks-edge-down-from-record-low-foreigners-exit-85761/",
+    "url_hash": "a20c71fa38dfa5b8dcd4e25662ca7c02",
+    "ut": 1630678844,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.21 percent",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the week",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.5 billion",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "New Zealand police kill 'terrorist' after he stabs 6 people",
+    "source": "www.winknews.com",
+    "snippet": "New Zealand authorities were so worried about an extremist inspired by the Islamic State group they were following him around-the-clock and were able to shoot and kill him within 60 seconds of him unleashing a frenzied knife attack that wounded six people Friday at an Auckland supermarket.",
+    "url": "https://www.winknews.com/2021/09/03/new-zealand-police-kill-terrorist-after-he-stabs-6-people/",
+    "url_hash": "2f8767fd1ce2d3a3edac6653775b495c",
+    "ut": 1630679200,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "60 seconds",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          49,
+          50
         ]
       }
     ]
