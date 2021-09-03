@@ -4,6 +4,49 @@
     "title": "Lockdown needs to be extended by two more weeks to witness positive results: DG Health",
     "source": "www.dailymirror.lk",
     "snippet": "Director General of Health Services Dr. Asela Gunawardane said yesterday the current lockdown would have to be extended by at least two more weeks to witness the outcome of the current travel restrictions.",
+    "url": "https://www.dailymirror.lk/breaking_news/Lockdown-needs-to-be-extended-by-two-more-weeks-to-witness-positive-results-DG-Health/108-219555",
+    "url_hash": "4eb7de17c3b284bc40828cf3bd90e8ff",
+    "ut": 1630627672,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health Services",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asela Gunawardane",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least two",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Lockdown needs to be extended by two more weeks to witness positive results: DG Health",
+    "source": "www.dailymirror.lk",
+    "snippet": "Director General of Health Services Dr. Asela Gunawardane said yesterday the current lockdown would have to be extended by at least two more weeks to witness the outcome of the current travel restrictions.",
     "url": "https://www.dailymirror.lk/latest_news/Lockdown-needs-to-be-extended-by-two-more-weeks-to-witness-positive-results-DG-Health/342-219555",
     "url_hash": "0b97e15d07e0219d8bd7ea91113c44ca",
     "ut": 1630627697,
@@ -234,6 +277,49 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Sri Lanka records 3,627 daily COVID cases 204 deaths",
+    "source": "menafn.com",
+    "snippet": "The number of\u00a0coronavirus positive patients detected in\u00a0Sri Lanka crossed the 447,000 mark as another 3,627 new Cov",
+    "url": "https://menafn.com/1102735307/Sri-Lanka-records-3627-daily-COVID-cases-204-deaths",
+    "url_hash": "159df265e4aba905b94d09356aaab47b",
+    "ut": 1630631283,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "447,000",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "another 3,627",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cov",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
@@ -3855,6 +3941,57 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Explodes just minutes after lift off",
+    "source": "www.dailymirror.lk",
+    "snippet": "The first rocket launched by private aerospace company Firefly has exploded just minutes after blasting off from Vandenberg Space Force Base in California. ..",
+    "url": "https://www.dailymirror.lk/caption_story/Explodes-just-minutes-after-lift-off/110-219615",
+    "url_hash": "249cc056160c98d4d2f99802dcec7c0c",
+    "ut": 1630652872,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Firefly",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "just minutes",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Vandenberg Space Force Base",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "California",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Adverse weather claims one, scores affected: DMC",
     "source": "www.dailymirror.lk",
     "snippet": "A death was reported and 908 people were affected due to gutsy winds and heavy rain prevalent in the country, the Disaster Management Centre (DMC) said. ..",
@@ -4687,6 +4824,33 @@
         "start_end": [
           50,
           52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "The Latest: UN agency says air pollutants dropped in 2020",
+    "source": "www.westport-news.com",
+    "snippet": "GENEVA \u2014 The U.N. weather agency says the world experienced a brief, sharp drop in emissions of air pollutants last year amid lockdown measures and travel restrictions put in place because of the coronavirus pandemic.",
+    "url": "https://www.westport-news.com/news/article/The-Latest-Virus-rules-in-Seoul-extended-another-16432811.php",
+    "url_hash": "1aa2b802c35bb79224e12ff69c2d04f8",
+    "ut": 1630663693,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "U.N.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
@@ -5678,6 +5842,371 @@
         "start_end": [
           49,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "ACJU says hoarding essential commodities is Haraam",
+    "source": "colombogazette.com",
+    "snippet": "The All Ceylon Jamiyyathul Ulama (ACJU) says hoarding essential commodities is Haraam (prohibited). Issuing a statement, the ACJU said that the entire world, including Sri Lanka, has been effected by",
+    "url": "https://colombogazette.com/2021/09/03/acju-says-hoarding-essential-commodities-is-haraam/",
+    "url_hash": "f9693c8a6f41dce04c5840b8b98e006b",
+    "ut": 1630674509,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Haraam",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ACJU",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Visas for foreigners residing in SL extended by 30 days: Immigration Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "The validity period of all types of visas that being allowed currently for foreigners residing in Sri Lanka has been extended by 30 days, the Immigration and Emigration Department said. The Controller General of the Department said the days extended are ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Visas-for-foreigners-residing-in-SL-extended-by-30-days-Immigration-Dept/108-219625",
+    "url_hash": "779f730fdb54acd320708eaad8aaddb4",
+    "ut": 1630674892,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30 days",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Immigration and Emigration Department",
+        "start_end": [
+          25,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Controller General",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the days",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "New Zealand Police Kill Alleged ISIS Supporter After He Stabs 6 at Supermarket: 'Senseless'",
+    "source": "www.msn.com",
+    "snippet": "\"This was a violent attack, it was senseless, and I am so sorry it happened,\" Prime Minister Jacinda Ardern said",
+    "url": "https://www.msn.com/en-us/news/world/new-zealand-police-kill-alleged-isis-supporter-after-he-stabs-6-at-supermarket-senseless/ar-AAO44kr",
+    "url_hash": "f71c76e7ee7201b3255301e51ce6fa4d",
+    "ut": 1630674973,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jacinda Ardern",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "SL plans lockdown extension, vaccine rollout to curb Covid spike",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka has decided to extend the ongoing Covid-19 lockdown for another week with plans to continue vaccine rollout to check the current spike in daily Covid cases.",
+    "url": "https://www.msn.com/en-in/news/world/sl-plans-lockdown-extension-vaccine-rollout-to-curb-covid-spike/ar-AAO4ihI",
+    "url_hash": "4ac33dba380eb8c191b341a28a4b2f80",
+    "ut": 1630675623,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Avishka Fernando century sets the platform as Sri Lanka take 1-0 lead",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka 300 for 9 (Avishka 118, Asalanka 72, Maharaj 2-30) beat South Africa 286 for 6 (Markram 96, van der Dussen 59, Dananjaya 2-65) by 14 runs   Sri Lanka scored 90 runs off the last 10 overs of their innings and defended 90 in the last 10 overs of South Africa's to take the series lead and 10 points into the World Cup Super League table.",
+    "url": "https://www.msn.com/en-in/sports/cricket/avishka-fernando-century-sets-the-platform-as-sri-lanka-take-1-0-lead/ar-AAO0Qj7",
+    "url_hash": "ed072c3c4c870a2a28929b7f2ddcc930",
+    "ut": 1630676283,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "300",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "118",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "Asalanka 72",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "90",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          49,
+          50
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "90",
+        "start_end": [
+          56,
+          57
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          60,
+          61
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa's",
+        "start_end": [
+          63,
+          66
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          72,
+          73
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the World Cup Super League",
+        "start_end": [
+          75,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "The Latest: Denmark to give booster shots in nursing homes",
+    "source": "www.seattlepi.com",
+    "snippet": "Danish Health Minister Magnus Heunicke says residents in nursing homes will get a third shot of the COVID-19 vaccine, starting next week. He says Denmark has seen an increase in cases in nursing homes,",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Virus-rules-in-Seoul-extended-another-16432811.php",
+    "url_hash": "52a2dc725102e292810b2329151044bc",
+    "ut": 1630676413,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Danish",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Magnus Heunicke",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Denmark",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "The Latest: Virus rules in Seoul extended another month",
+    "source": "www.berkshireeagle.com",
+    "snippet": "South Korea will extend coronavirus restrictions in the greater capital area for at least another month as the nation grapples with its worst surge a few",
+    "url": "https://www.berkshireeagle.com/ap/national/the-latest-virus-rules-in-seoul-extended-another-month/article_5fbb61ba-0118-5c7f-92bb-1592259597c7.html",
+    "url_hash": "3fab941ddbf6423670c3fe512a7ec05a",
+    "ut": 1630677663,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Korea",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "at least another month",
+        "start_end": [
+          12,
+          16
         ]
       }
     ]
