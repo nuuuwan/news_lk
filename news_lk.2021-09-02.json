@@ -6504,6 +6504,16 @@
   },
   {
     "date": "2021-09-02",
+    "title": "World Cup qualification in focus as Sri Lanka take on South Africa",
+    "source": "www.islandcricket.lk",
+    "snippet": "Both sides are dealing with off-field drama but it is now crunch time as far as their qualification prospects are concerned",
+    "url": "https://www.islandcricket.lk/news/world-cup-qualification-in-focus-as-sri-lanka-take-on-south-africa/",
+    "url_hash": "f6626d903194356362e1bf6f8e385225",
+    "ut": 1630606114,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-02",
     "title": "Sri Lanka beat Proteas in tight first ODI in Colombo",
     "source": "www.msn.com",
     "snippet": "Sri Lanka won the first ODI against South Africa by 14 runs to take a 1-0 lead in the three-match series at the Premadasa Stadium in Colombo.",
@@ -6648,6 +6658,49 @@
         "start_end": [
           26,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "A SMART lockdown can save lives and save the economy",
+    "source": "www.ft.lk",
+    "snippet": "According to an article in the Daily FT, a day of lockdown in Sri Lanka causes a negative impact of Rs. 22.4 billion, or $ 112 million, based on the economic projection model developed by the Imperial College.",
+    "url": "https://www.ft.lk/opinion/A-SMART-lockdown-can-save-lives-and-save-the-economy/14-722551",
+    "url_hash": "f31f23a9aa92cd9c70db27d7cbf5cc74",
+    "ut": 1630606128,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22.4 billion",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 112 million",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Imperial College",
+        "start_end": [
+          39,
+          42
         ]
       }
     ]
@@ -7612,6 +7665,33 @@
         "start_end": [
           33,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-02",
+    "title": "Endangering democracy through imposition of emergency: Sajith",
+    "source": "www.dailymirror.lk",
+    "snippet": "The real objective of the government imposing an emergency is to form a dictatorial administration leading to the burial of democracy, Leader of Opposition Sajith Premadasa said yesterday. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Endangering-democracy-through-imposition-of-emergency-Sajith/108-219554",
+    "url_hash": "3c2360dd511612aa139168ad823e15ba",
+    "ut": 1630624105,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Leader of Opposition Sajith Premadasa",
+        "start_end": [
+          22,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
