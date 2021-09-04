@@ -941,6 +941,33 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Sri Lanka Hit By Food Emergency, Currency Crisis Amid Coronavirus Surge",
+    "source": "sg.news.yahoo.com",
+    "snippet": "Almost every bank in Sri Lanka is facing an acute shortage of foreign currencies, while the Gotabaya Rajapaksa-led government has put a ceiling on money that can be sent abroad.",
+    "url": "https://sg.news.yahoo.com/sri-lanka-hit-food-emergency-113500098.html",
+    "url_hash": "290f1a12f7f22e900a3fd3ff382c6e4e",
+    "ut": 1630728579,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Rs.5,000 allowance to cover up online charges: Edu. Minister",
     "source": "www.dailymirror.lk",
     "snippet": "The decision was taken to pay an allowance of Rs. 5,000 for two months for teachers and principals as relief from their salary anomalies and to cover the expenses incurred on online teaching, Education Minister Dinesh Gunawardena said.",
@@ -2136,6 +2163,49 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Ayurveda medicines given to Covid-19 patients in Sri Lanka despite little evidence they work",
+    "source": "www.msn.com",
+    "snippet": "Doctors from Sri Lanka's official Department of Ayurveda are distributing traditional Ayurveda medicines to COVID-19 patients in Colombo, Sri Lanka. The doctors were going door-to-door with the herbal remedies,",
+    "url": "https://www.msn.com/en-gb/travel/news/ayurveda-medicines-given-to-covid-19-patients-in-sri-lanka-despite-little-evidence-they-work/vp-AAO5xHf",
+    "url_hash": "7d43e541668ff0745654ad7f6380372e",
+    "ut": 1630750205,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Department of Ayurveda",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Italy and Sri Lanka agreed to continue close dialogue",
     "source": "colombogazette.com",
     "snippet": "Italy and Sri Lanka have agreed to continue close dialogue and cooperation on matters of mutual interest.\u00a0 The Ambassador of Italy to Sri Lanka Rita Giuliana Manella paid a courtesy call on Foreign Minister Prof.",
@@ -2913,6 +2983,108 @@
         "text": "Quinton de Kock",
         "start_end": [
           46,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Foreign fishing vessel carrying heroin worth over Rs. 3 Billion intercepted by Navy",
+    "source": "www.newsfirst.lk",
+    "snippet": "A successful operation led by Sri Lanka Navy in coordination with Sri Lanka Police and other intelligence services in international - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/04/foreign-fishing-vessel-carrying-heroin-worth-over-rs-3-billion-intercepted-by-navy/",
+    "url_hash": "8c29c92f37e3bbbd6d506acc6fd270c2",
+    "ut": 1630773039,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Police",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "The Story of WUS Ceylon/Sri Lanka: 1950s to 1980s",
+    "source": "www.srilankaguardian.org",
+    "snippet": "The story of the World University Service Sri Lanka (WUS-SL) is interwoven with the history and the fate of the universities in Sri Lanka (Ceylon before 1972). While a University College attached to the University of London was in existence since 1920,",
+    "url": "http://www.srilankaguardian.org/2021/09/the-story-of-wus-ceylonsri-lanka-1950s.html",
+    "url_hash": "bfe653b5dc04c435b949a602578f0d4d",
+    "ut": 1630773365,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the World University Service Sri Lanka",
+        "start_end": [
+          3,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WUS-SL",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1972",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "University College",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University of London",
+        "start_end": [
+          40,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1920",
+        "start_end": [
+          48,
           49
         ]
       }

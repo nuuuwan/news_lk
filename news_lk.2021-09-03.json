@@ -9680,6 +9680,33 @@
   },
   {
     "date": "2021-09-03",
+    "title": "New Zealand police kill 'terrorist' after he stabs 6 people",
+    "source": "www.abc4.com",
+    "snippet": "New Zealand authorities were so worried about an extremist inspired by the Islamic State group they were following him around-the-clock and were able to shoot and",
+    "url": "https://www.abc4.com/news/national/new-zealand-police-kill-terrorist-after-he-stabs-6-people/",
+    "url_hash": "a4ad7fd75d8ab7b33baf5cc791159f4c",
+    "ut": 1630692588,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Food shortage will worsen with excessive price controls, cautions Advocata",
     "source": "www.dailymirror.lk",
     "snippet": "The government moving to implement harsh price controls will have detrimental effects on the economy and the people are likely to experience further difficulties as the food shortages could further worsen.",
@@ -10853,6 +10880,60 @@
         "start_end": [
           47,
           48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "The Latest: Florida school mask debate in new legal phase",
+    "source": "www.mrt.com",
+    "snippet": "The battle over mask requirements in Florida schools is headed for a new legal phase following an appeal by Republican Gov. Ron DeSantis of a judge's ruling that a blanket ban on mask mandates exceeds the state's authority.",
+    "url": "https://www.mrt.com/news/article/The-Latest-Virus-rules-in-Seoul-extended-another-16432811.php",
+    "url_hash": "4341d8f61f82aa75ec8a3dff0052660e",
+    "ut": 1630706988,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Muslim youth in America \u2014 A generation shadowed by the aftermath of 9/11",
+    "source": "www.bozemandailychronicle.com",
+    "snippet": "On a rainy day during her sophomore year of high school, as Aissata Ba studied in the library, a photo popped into her phone.",
+    "url": "https://www.bozemandailychronicle.com/ap_news/muslim-youth-in-america-a-generation-shadowed-by-the-aftermath-of-9-11/article_638ee762-d080-5d95-949f-66db4da3aee7.html",
+    "url_hash": "92bf1c5b90d79da78bbe590a7221d5c4",
+    "ut": 1630706988,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Aissata Ba",
+        "start_end": [
+          13,
+          15
         ]
       }
     ]
