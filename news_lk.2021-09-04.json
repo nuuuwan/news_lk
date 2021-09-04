@@ -87,6 +87,57 @@
   },
   {
     "date": "2021-09-04",
+    "title": "A way of life - Sri Lanka Cricket, powered by Daraz",
+    "source": "www.msn.com",
+    "snippet": "In an unwavering supporter of Sri Lanka Cricket, Daraz have cemented their role as the official overseas team sponsor of Sri Lanka Cricket (SLC) for 2021.As the back of jersey sponsors for the T20 series commencing on September 10,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/a-way-of-life-sri-lanka-cricket-powered-by-daraz/ar-AAO5bry",
+    "url_hash": "a6d8811912f3bf6d8f076aee5685335b",
+    "ut": 1630714090,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Daraz",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2021.As",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 10",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Sri Lanka extends Coronavirus debt moratorium till December 31",
     "source": "economynext.com",
     "snippet": "Sri Lanka has extended Coronavirus debt moratorium which was to expire in September till December 31, the central bank said.",
@@ -187,6 +238,49 @@
     "url": "https://www.dailymirror.lk/breaking_news/Emergency-regulations-only-benefit-businessmen-not-the-consumers-JVP/108-219686",
     "url_hash": "82c9e8fcc8abd4b64408a9657c29d1ce",
     "ut": 1630717672,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "JVP",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "37",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Emergency regulations only benefit businessmen not the consumers: JVP",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that people had not benefited by the emergency regulations, the Janatha Vimukthi Peramuna (JVP) yesterday alleged that the Government had only increased the price of a kilo of sugar by Rs. 37 through the new gazette.",
+    "url": "https://www.dailymirror.lk/latest_news/Emergency-regulations-only-benefit-businessmen-not-the-consumers-JVP/342-219686",
+    "url_hash": "31c3c0b7a64f410743d0d23e0ed8649c",
+    "ut": 1630717682,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -962,6 +1056,57 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Taliban says it will 'raise voice for Kashmir Muslims'",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Taliban intends to ''raise its voice for Muslims'' in Indian-administered Kashmir, a spokesman told the BBC. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Taliban-says-it-will-raise-voice-for-Kashmir-Muslims/108-219690",
+    "url_hash": "6f11c4518506ea7c91aebdfd8eb6f9de",
+    "ut": 1630735682,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslims",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Kashmir",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BBC",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Over 300kg of heroin recovered from foreign vessel intercepted by Navy",
     "source": "www.adaderana.lk",
     "snippet": "A total of 301kg of heroin has been recovered from the foreign vessel intercepted by the Sri Lanka Navy this morning (Sep",
@@ -1399,6 +1544,116 @@
         "start_end": [
           34,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "India sends 150 tonnes of oxygen to Sri Lanka to help it tackle coronavirus surge",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "Sri Lanka on Friday extended its nationwide lockdown till September 13 amidst a surge in the number of COVID-19 deaths and mounting pressure on the healthcare system.",
+    "url": "https://economictimes.indiatimes.com/news/india/india-sends-150-tonnes-of-oxygen-to-sri-lanka-to-help-it-tackle-coronavirus-surge/articleshow/85921616.cms",
+    "url_hash": "f0c938b24ced35575e6edde5031ed846",
+    "ut": 1630742890,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 13",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Philippines lifts travel ban for several countries including Sri Lanka",
+    "source": "dailynews.lk",
+    "snippet": "Philippine President Rodrigo Duterte is lifting a coronavirus ban on travelers from ten countries including Sri Lanka, the presidential spokesperson said on Saturday. The ban, introduced in April then expanded to more countries in July to prevent the spread of the more contagious Delta variant,",
+    "url": "https://dailynews.lk/2021/09/04/local/258465/philippines-lifts-travel-ban-several-countries-including-sri-lanka",
+    "url_hash": "ea232c956ad6e8dbd9297c75c712f601",
+    "ut": 1630745586,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Philippine",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rodrigo Duterte",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          46,
+          47
         ]
       }
     ]
