@@ -1,6 +1,76 @@
 [
   {
     "date": "2021-09-04",
+    "title": "Jaffna Fort: Reflections of Dutch History",
+    "source": "www.msn.com",
+    "snippet": "The Northern Province is embellished with history and culture. It is a land laced with mystic aura. Perhaps the most iconic landmark in the Jaffna town area is the massive Dutch Fort, which stands as a historic sentinel.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/jaffna-fort-reflections-of-dutch-history/ar-AAO53Kw",
+    "url_hash": "4cdbefa5809d419c8ce1d36a3b236457",
+    "ut": 1630714088,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jaffna",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Dutch Fort",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Sri Lanka extends Coronavirus debt moratorium till December 31",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has extended Coronavirus debt moratorium which was to expire in September till December 31, the central bank said.",
+    "url": "https://economynext.com/sri-lanka-extends-coronavirus-debt-moratorium-till-december-31-85762/",
+    "url_hash": "538a2fb27e9f151b9a5c001218eb1d04",
+    "ut": 1630714093,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coronavirus",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December 31",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Spike in lightning strike deaths in India",
     "source": "www.msn.com",
     "snippet": "INDIA: Faizuddin is still traumatised from the lightning strike that killed his three friends as they took selfies atop a 400-year-old fort in India, where climate change is making lethal strikes more common.",
@@ -124,6 +194,73 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "In Case You Missed It: Steyn says goodbye, England, Sri Lanka, Bangladesh fare well",
+    "source": "www.msn.com",
+    "snippet": "A busy week of cricket paused for a moment to doff its hat in farewell to a legend - Dale Steyn called time on one of the most storied fast-bowling careers with a quiet tweet on August 31. Elsewhere cricket continued unabated - India were handed a drubbing by England in the second Test,",
+    "url": "https://www.msn.com/en-in/sport/cricket/in-case-you-missed-it-steyn-says-goodbye-england-sri-lanka-bangladesh-fare-well/ar-AAO5cFA",
+    "url_hash": "da6b1bba49ded8a27df8c26f097fd546",
+    "ut": 1630721284,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "A busy week",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dale Steyn",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 31",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          55,
+          56
         ]
       }
     ]
@@ -277,6 +414,41 @@
         "start_end": [
           43,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "The Latest: New Zealand has 1st virus death in over 6 months",
+    "source": "www.bcdemocrat.com",
+    "snippet": "New Zealand has reported its first coronavirus death in more than six months, while the number of new cases continued to trend downward",
+    "url": "http://www.bcdemocrat.com/2021/09/03/virus-outbreak-the-latest/",
+    "url_hash": "e52a0c96319d61f4cbd69324fa5f6793",
+    "ut": 1630724898,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than six months",
+        "start_end": [
+          9,
+          13
         ]
       }
     ]

@@ -8462,6 +8462,49 @@
   },
   {
     "date": "2021-09-03",
+    "title": "The Latest: US booster plan faces possible delay by Sept. 20",
+    "source": "www.startribune.com",
+    "snippet": "President Joe Biden's plan to start delivery of booster shots by Sept. 20 for most Americans who received COVID-19 vaccines is facing complications that could delay the availability for those who received the Moderna vaccine.",
+    "url": "https://www.startribune.com/the-latest-us-booster-plan-faces-possible-delay-by-sept-20/600093537/",
+    "url_hash": "24220283087610632a1048b3111f93da",
+    "ut": 1630688884,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 20",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Moderna",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "New Zealand police kill 'terrorist' after he stabs 6 people",
     "source": "www.timesunion.com",
     "snippet": "New Zealand authorities said Friday they shot and killed a violent extremist after he entered a supermarket and stabbed and injured six shoppers. Prime Minister Jacinda Ardern described the incident as a terror attack.",
@@ -9482,6 +9525,49 @@
         "start_end": [
           37,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Jacqueline Fernandez; Lankan Star Shining in Indian Film Sky",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's Jacqueline Fernandez who has made a name for herself in India as a successful film actress was very much in the news last week for reasons unconnected to her cinematic career. ..",
+    "url": "https://www.dailymirror.lk/opinion/Jacqueline-Fernandez-Lankan-Star-Shining-in-Indian-Film-Sky/172-219684",
+    "url_hash": "4796ae3f02edbc1fcbd6c901e12aeb2c",
+    "ut": 1630696064,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jacqueline Fernandez",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
