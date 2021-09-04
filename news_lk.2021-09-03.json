@@ -6849,6 +6849,65 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Sri Lanka says 75 pct of above-30 age group fully vaccinated against COVID-19",
+    "source": "www.china.org.cn",
+    "snippet": "Sri Lankan authorities said on Friday that 75 percent of those aged above 30 in the country have been administered both doses of the COVID-19 vaccine amid a mass inoculation drive across the nation. Army chief and head of the National Operations Center for Prevention of COVID-19 Outbreak Gen.",
+    "url": "http://www.china.org.cn/world/Off_the_Wire/2021-09/03/content_77732357.htm",
+    "url_hash": "83dd5d87d11b95208e58264a1aa5240d",
+    "ut": 1630674531,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "75 percent",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Operations Center for Prevention of COVID-19",
+        "start_end": [
+          40,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "New Zealand police kill 'terrorist' after he stabs 6 people",
     "source": "apnews.com",
     "snippet": "New Zealand authorities were so worried about an extremist inspired by the Islamic State group they were following him around-the-clock and were able to shoot and kill him within 60 seconds of him unleashing a frenzied knife attack that wounded six people Friday at an Auckland supermarket.",
@@ -9416,6 +9475,41 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "The Latest: US booster plan faces possible delay by Sept. 20",
+    "source": "www.tribtown.com",
+    "snippet": "President Joe Biden's plan to start delivery of booster shots by Sept. 20 for most Americans who received COVID-19 vaccines is facing complications that could delay the availability for those who rece",
+    "url": "http://www.tribtown.com/2021/09/03/virus-outbreak-the-latest-4/",
+    "url_hash": "2ff5d02e38763830a5d2a0fc94260abb",
+    "ut": 1630692531,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 20",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]

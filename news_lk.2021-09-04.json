@@ -984,6 +984,41 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Sei Lanka",
+    "source": "www.dailynews.lk",
+    "snippet": "739 persons were arrested yesterday for not wearing face masks and failing to maintain social distancing, stated the Police Media Division. So far 64,647 suspects have been arrested for not...",
+    "url": "https://www.dailynews.lk/tags/sei-lanka",
+    "url_hash": "96aec9ab5bfe67a4d6f20e788f9e8aee",
+    "ut": 1630732126,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Police Media Division",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "64,647",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Sri Lankan teacher unions prepare to accept paltry wage rise",
     "source": "www.wsws.org",
     "snippet": "In defiance of teachers' determination to fight, the unions are engaged various manoeuvres with the government in a bid to end the strike.",
@@ -1690,6 +1725,41 @@
   },
   {
     "date": "2021-09-04",
+    "title": "India sends 150 tonnes of oxygen to Sri Lanka to help it tackle coronavirus surge",
+    "source": "www.deccanchronicle.com",
+    "snippet": "Sri Lanka on Friday extended its nationwide lockdown till September 13 amidst a surge in the number of COVID-19 deaths",
+    "url": "http://www.deccanchronicle.com/nation/current-affairs/040921/india-sends-150-tonnes-of-oxygen-to-sri-lanka-to-help-it-tackle-corona.html",
+    "url_hash": "0527a92e73888e6e0a6e06d9b0ada3f7",
+    "ut": 1630742931,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 13",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Philippines lifts travel ban for several countries including Sri Lanka",
     "source": "dailynews.lk",
     "snippet": "Philippine President Rodrigo Duterte is lifting a coronavirus ban on travelers from ten countries including Sri Lanka, the presidential spokesperson said on Saturday. The ban, introduced in April then expanded to more countries in July to prevent the spread of the more contagious Delta variant,",
@@ -1765,6 +1835,108 @@
   },
   {
     "date": "2021-09-04",
+    "title": "180 child admissions until yesterday, 25 died, 2 in critical condition: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 180 children who contracted COVID-19 virus have been admitted to specialized children's hospitals until yesterday. It was also reported that overall 25 deaths have occurred and two children are in critical care,",
+    "url": "https://www.dailymirror.lk/latest_news/180-child-admissions-until-yesterday-25-died-2-in-critical-condition-GMOA/342-219694",
+    "url_hash": "424f5fe9147544497a880a95a17ca1a6",
+    "ut": 1630746521,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "180",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "BBS challenges 22 organizations to make public statement rejecting Wahhabism, Salafism",
+    "source": "www.dailymirror.lk",
+    "snippet": "While condemning the recent terrorist attack on innocent civilians in New Zealand, Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thera today threw a challenge to the 22 organizations to make a joint public statement that they reject Wahhabism and Salafism'.",
+    "url": "https://www.dailymirror.lk/latest_news/BBS-challenges-22-organizations-to-make-public-statement-rejecting-Wahhabism-Salafism/342-219695",
+    "url_hash": "3eb7e79412dab566572417f16a885fd6",
+    "ut": 1630750121,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bodu Bala Sena",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ven",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Wahhabism and Salafism'",
+        "start_end": [
+          43,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Italy and Sri Lanka agreed to continue close dialogue",
     "source": "colombogazette.com",
     "snippet": "Italy and Sri Lanka have agreed to continue close dialogue and cooperation on matters of mutual interest.\u00a0 The Ambassador of Italy to Sri Lanka Rita Giuliana Manella paid a courtesy call on Foreign Minister Prof.",
@@ -1802,6 +1974,116 @@
         "start_end": [
           24,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "India sends 150 tonnes of oxygen to Sri Lanka to fight COVID surge",
+    "source": "inshorts.com",
+    "snippet": "India has sent about 150 tonnes of oxygen to Sri Lanka to help the country combat the third wave of the COVID-19 pandemic. Last month, India had sent 100 tonnes of liquid medical oxygen to the island nation.",
+    "url": "https://inshorts.com/en/news/india-sends-150-tonnes-of-oxygen-to-sri-lanka-to-fight-covid-surge-1630755198339",
+    "url_hash": "fd317c88052e7452bdcf056021d8c39d",
+    "ut": 1630755171,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 150 tonnes",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Last month",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 tonnes",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "New Zealand to toughen anti-terror laws after knife attack",
+    "source": "dailynews.lk",
+    "snippet": "New Zealand PM Jacinda Ardern has vowed to toughen anti-terror laws following Friday's knife attack in Auckland by a man who was under police surveillance. \"We must be willing to make the changes that we know may not necessarily have changed history,",
+    "url": "https://dailynews.lk/2021/09/04/world/258468/new-zealand-toughen-anti-terror-laws-after-knife-attack",
+    "url_hash": "a8876336e81e952a564967247f42b7ec",
+    "ut": 1630756426,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jacinda Ardern",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]

@@ -1,7 +1,7 @@
 # Summary
 *Latest scrapes*
 * [2021-04-09](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-04-09.json) (1 articles)
-* [2021-09-03](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-09-03.json) (233 articles)
-* [2021-09-04](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-09-04.json) (40 articles)
+* [2021-09-03](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-09-03.json) (235 articles)
+* [2021-09-04](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-09-04.json) (46 articles)
 
-*Generated at 11:08AM, September 04, 2021*
+*Generated at 12:09PM, September 04, 2021*
