@@ -7842,6 +7842,57 @@
   },
   {
     "date": "2021-09-03",
+    "title": "The Latest: EU, AstraZeneca end legal tiff on vaccine supply",
+    "source": "www.wboc.com",
+    "snippet": "BRUSSELS \u2014 The European Union and drugmaker AstraZeneca say they reached a deal to end a legal battle over the slow deliveries of the company's COVID-19 vaccines. The European Commission says AstraZeneca made a \"firm commitment\" to deliver a total of 300 million vaccine doses by March.",
+    "url": "https://www.wboc.com/story/44662160/the-latest-eu-astrazeneca-end-legal-tiff-on-vaccine-supply",
+    "url_hash": "bc291d99ae516a2a0915a6b6fbe5e139",
+    "ut": 1630681685,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The European Union",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The European Commission",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AstraZeneca",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "300 million",
+        "start_end": [
+          45,
+          47
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Injured Bavuma to miss remaining ODIs, T20Is series",
     "source": "www.dailymirror.lk",
     "snippet": "Cricket South Africa said Keshav Maharaj will be captain for the remaining two ODIs, while the captain for the T20I series will be announced later. ..",
@@ -7871,6 +7922,25 @@
         "start_end": [
           12,
           13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "The Latest: EU, AstraZeneca end legal tiff on vaccine supply",
+    "source": "accesswdun.com",
+    "snippet": "The European Union and drugmaker AstraZeneca say they reached a deal to end a legal battle over the slow deliveries of the company's COVID-19 vaccines",
+    "url": "https://accesswdun.com/article/2021/9/1035747",
+    "url_hash": "f367338e6d596387f00d78538b36ef66",
+    "ut": 1630681694,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The European Union",
+        "start_end": [
+          0,
+          3
         ]
       }
     ]
@@ -8290,6 +8360,57 @@
         "start_end": [
           12,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Queuing for sugar...",
+    "source": "www.dailymirror.lk",
+    "snippet": "People were queuing to purchase sugar at the control price in Sathosa outlets in Borella and Maradana today. Pix by Pradeep Dilrukshana ..",
+    "url": "https://www.dailymirror.lk/caption_story/Queuing-for-sugar/110-219635",
+    "url_hash": "535bfff7861b9839e3acc2ac31ab5184",
+    "ut": 1630685276,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sathosa",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Borella",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Maradana",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]

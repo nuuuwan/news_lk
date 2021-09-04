@@ -517,6 +517,41 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Sri Lanka briefs UN on domestic mechanisms on human rights",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka briefed the United Nations (UN) on progress made through domestic mechanisms on human rights.   Foreign Ministe",
+    "url": "https://menafn.com/1102739362/Sri-Lanka-briefs-UN-on-domestic-mechanisms-on-human-rights",
+    "url_hash": "5f037f6bbeda2f0f168025afa57a76c7",
+    "ut": 1630721308,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "The Latest: Spain wants vaccination proof from US tourists",
     "source": "www.registercitizen.com",
     "snippet": "MADRID \u2014 Spain is tweaking its travel entry rules from next week to require vaccination certificates from U.S. tourists, adjusting to recent European Union advice on stricter rules due to growing anxiety over coronavirus contagion in the U.",
@@ -1753,6 +1788,73 @@
   {
     "date": "2021-09-04",
     "title": "India sends 150 tonnes of oxygen to Sri Lanka to help it tackle coronavirus surge",
+    "source": "www.thehindu.com",
+    "snippet": "India has sent about 150 tonnes more oxygen to Sri Lanka to help the island nation combat the third wave of the COVID-19 pandemic. Sri Lanka on September 3 extended its nationwide lockdown till September 13 amidst a surge in the number of COVID-19 deaths and mounting pressure on the healthcare system.",
+    "url": "https://www.thehindu.com/news/international/india-sends-150-tonnes-of-oxygen-to-sri-lanka-to-help-it-tackle-coronavirus-surge/article36286318.ece",
+    "url_hash": "3d1dcf608a1b916791cb9587df66613d",
+    "ut": 1630742885,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 150 tonnes",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 3",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 13",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "India sends 150 tonnes of oxygen to Sri Lanka to help it tackle coronavirus surge",
     "source": "economictimes.indiatimes.com",
     "snippet": "Sri Lanka on Friday extended its nationwide lockdown till September 13 amidst a surge in the number of COVID-19 deaths and mounting pressure on the healthcare system.",
     "url": "https://economictimes.indiatimes.com/news/india/india-sends-150-tonnes-of-oxygen-to-sri-lanka-to-help-it-tackle-coronavirus-surge/articleshow/85921616.cms",
@@ -2080,6 +2182,33 @@
     "title": "Sri Lanka ranks top with most COVID vaccinations in past week",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka has ranked top in the world as the country that rolled out the highest number of vaccinations in the past week",
+    "url": "http://www.adaderana.lk/news/76668/sri-lanka-ranks-top-as-country-with-most-covid-vaccinations-in-last-week",
+    "url_hash": "59518adfb6bb4587b26aad94d5194b2f",
+    "ut": 1630753685,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past week",
+        "start_end": [
+          20,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Sri Lanka ranks top with most COVID vaccinations in past week",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has ranked top in the world as the country that rolled out the highest number of vaccinations in the past week",
     "url": "http://www.adaderana.lk/news/76668/sri-lanka-ranks-top-in-world-with-most-covid-vaccinations-in-past-week",
     "url_hash": "251915948d2a7632ecd0ea7b28e8f239",
     "ut": 1630753789,
@@ -2311,6 +2440,49 @@
   },
   {
     "date": "2021-09-04",
+    "title": "The Latest: US booster plan faces possible delay by Sept. 20",
+    "source": "www.newsobserver.com",
+    "snippet": "South Korea will extend coronavirus restrictions in the greater capital area for at least another month as the nation grapples with its worst surge a few weeks before its biggest holiday of the year.",
+    "url": "https://www.newsobserver.com/news/article253969398.html",
+    "url_hash": "14e4a3f24a18c942543e483b97d74339",
+    "ut": 1630760894,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Korea",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "at least another month",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a few weeks",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "its biggest holiday of the year",
+        "start_end": [
+          28,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Sri Lanka offers help with New Zealand knife attack probe",
     "source": "news.yahoo.com",
     "snippet": "Sri Lanka will cooperate with New Zealand's investigation into a knife rampage by an Islamic State-inspired assailant from the South Asian nation, authorities said Saturday.",
@@ -2439,6 +2611,113 @@
         "start_end": [
           50,
           51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Malan 121 sets Sri Lanka 284 target in 47 overs",
+    "source": "www.msn.com",
+    "snippet": "47 overs South Africa 283 for 6 (Malan 121, Hendricks 51, Karunaratne 2-24) vs Sri Lanka    Janneman Malan scored his third ODI century and anchored a strong South African batting effort, made more impressive in the absence of Quinton de Kock and Temba Bavuma.",
+    "url": "https://www.msn.com/en-in/sport/cricket/malan-121-sets-sri-lanka-284-target-in-47-overs/ar-AAO5TzD",
+    "url_hash": "ed89f4aabb30b265c89e910156bdcf7d",
+    "ut": 1630766405,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "47",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "283",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Malan 121",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "Hendricks 51",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Karunaratne 2-24",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janneman Malan",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "third ODI century",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South African",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Quinton de Kock",
+        "start_end": [
+          46,
+          49
         ]
       }
     ]
