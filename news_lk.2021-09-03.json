@@ -7117,6 +7117,57 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Sri Lanka extends nationwide lockdown till 13 September",
+    "source": "www.southasiamonitor.org",
+    "snippet": "Sri Lanka has extended the ongoing lockdown nationwide till 13 September, Health Minister Keheliya Rambukwella said, as daily infections still remain too high to ease lockdown",
+    "url": "https://www.southasiamonitor.org/index.php/sri-lanka/sri-lanka-extends-nationwide-lockdown-till-13-september",
+    "url_hash": "f9ae6eaf930fbfe5673f19f1420e11f7",
+    "ut": 1630678102,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "13 September",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "SL adjudged as the nation with fastest vaccination drive last week",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka ranked first in the world as the country with the fastest vaccination drive for the past week. According to Our World in Data website , Sri Lanka had inoculated 13% of the population during the week. Ecuador trails behind Sri Lanka with 12.5% ...",
@@ -8123,6 +8174,33 @@
         "start_end": [
           27,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "7,587 non-recipients of at least one vaccine died so far from COVID: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The 7,587 people who had died due to COVID epidemic up to today hadn't received at least one dose of vaccine, which is 80.7% of all deaths, the Government Medical Officers' Association (GMOA) Secretary Dr.",
+    "url": "https://www.dailymirror.lk/breaking_news/7-587-non-recipients-of-at-least-one-vaccine-died-so-far-from-COVID-GMOA/108-219632",
+    "url_hash": "b039b7aa7810762955aa63c8bc8a6e67",
+    "ut": 1630685292,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "7,587",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "80.7%",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
