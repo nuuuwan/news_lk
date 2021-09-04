@@ -2990,6 +2990,49 @@
   },
   {
     "date": "2021-09-04",
+    "title": "3,333 COVID-19 positive cases reported in Sri Lanka",
+    "source": "www.dailynews.lk",
+    "snippet": "A total of 3,333 COVID-19 positive cases were reported in Sri Lanka, stated the Epidemiology Unit. The total count of positive coronavirus cases found in Sri Lanka currently sits at 459,459.",
+    "url": "http://www.dailynews.lk/2021/09/04/local/258472/3333-covid-19-positive-cases-reported-sri-lanka",
+    "url_hash": "94870e62612faf707b50f86596dcc137",
+    "ut": 1630771700,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "3,333",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "459,459",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Foreign fishing vessel carrying heroin worth over Rs. 3 Billion intercepted by Navy",
     "source": "www.newsfirst.lk",
     "snippet": "A successful operation led by Sri Lanka Navy in coordination with Sri Lanka Police and other intelligence services in international - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
@@ -3086,6 +3129,65 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Britain's Covid-19 cases up by 2.4 percent over past week - latest updates",
+    "source": "www.entornointeligente.com",
+    "snippet": "Entornointeligente.com / Coronavirus pandemic has killed more than 4.5 million people and infected over 220 million globally. Here are the coronavirus-related developments for September 4: People walk along the South Bank on August 7,",
+    "url": "https://www.entornointeligente.com/04/09/2021/britains-covid-19-cases-up-by-2-4-percent-over-past-week-latest-updates-2/",
+    "url_hash": "969ba06b69aa553a5fbd77a794455c75",
+    "ut": 1630777524,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Entornointeligente.com / Coronavirus",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 4.5 million",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "220 million",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 4",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the South Bank",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 7",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
