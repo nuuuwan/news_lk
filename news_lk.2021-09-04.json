@@ -1,0 +1,53 @@
+[
+  {
+    "date": "2021-09-04",
+    "title": "The Latest: Spain wants vaccination proof from US tourists",
+    "source": "www.registercitizen.com",
+    "snippet": "MADRID \u2014 Spain is tweaking its travel entry rules from next week to require vaccination certificates from U.S. tourists, adjusting to recent European Union advice on stricter rules due to growing anxiety over coronavirus contagion in the U.",
+    "url": "https://www.registercitizen.com/news/article/The-Latest-Virus-rules-in-Seoul-extended-another-16432811.php",
+    "url_hash": "7ff9d245637e18e0d62f2ec57fb65549",
+    "ut": 1630721455,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "MADRID",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Spain",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "European Union",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  }
+]
