@@ -205,5 +205,80 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "SL on alert of misuse of visit visas by asylum seekers from Afghanistan to seek asylum in Europe",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lanka Defence Ministry has alerted the Immigration and Emigration Department that there would be possibilities that certain foreigners especially from Afghanistan may attempt to enter Sri Lanka using Visit Visas and seek political asylum in Europe through the UNHCR Office in Sri Lanka.",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-on-alert-of-misuse-of-visit-visas-by-asylum-seekers-from-Afghanistan-to-seek-asylum-in-Europe/108-219687",
+    "url_hash": "4814e4e57a03665769fb1be88ce97369",
+    "ut": 1630724889,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Defence Ministry",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Immigration and Emigration Department",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Visas",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Europe",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the UNHCR Office",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
   }
 ]
