@@ -4218,6 +4218,81 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Sri Lanka to receive 04 million Sinopharm vaccine doses tomorrow",
+    "source": "www.adaderana.lk",
+    "snippet": "(Sinopharm) has confirmed the delivery of 04 million more doses of its COVID-19 vaccines to Sri Lanka tomorrow (September 04), the Chinese Embassy in Colombo said in a tweet. This is reportedly the largest shipment of COVID-19 vaccines Sri Lanka will be receiving in a single day.",
+    "url": "http://www.adaderana.lk/news.php?nid=76634",
+    "url_hash": "a9ed33480675a50421b92c8ee303218d",
+    "ut": 1630652880,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "04 million",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 04",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Chinese Embassy",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single day",
+        "start_end": [
+          50,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Adverse weather claims one, scores affected: DMC",
     "source": "www.dailymirror.lk",
     "snippet": "A death was reported and 908 people were affected due to gutsy winds and heavy rain prevalent in the country, the Disaster Management Centre (DMC) said. ..",
@@ -4392,6 +4467,25 @@
         "start_end": [
           27,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "ACJU says hoarding essential commodities is Haraam",
+    "source": "menafn.com",
+    "snippet": "The All Ceylon Jamiyyathul Ulama (ACJU) says hoarding essential commodities is Haraam (prohibited).   Issuing a statement",
+    "url": "https://menafn.com/1102736431/ACJU-says-hoarding-essential-commodities-is-Haraam",
+    "url_hash": "b02f51e4cfa403e0c3e7e5c6e19179fd",
+    "ut": 1630652902,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Haraam",
+        "start_end": [
+          13,
+          14
         ]
       }
     ]
@@ -8508,6 +8602,41 @@
     "title": "Pfizer vaccine for schoolchildren soon after medial approval: President",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa said today that the Pfizer vaccine could be given to the schoolchildren of the relevant age groups as soon as the medical approval is received. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Pfizer-vaccine-for-schoolchildren-soon-after-medial-approval-President/108-219650",
+    "url_hash": "67237674587da279fbe7592df3045b1e",
+    "ut": 1630688872,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Pfizer vaccine for schoolchildren soon after medial approval: President",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa said today that the Pfizer vaccine could be given to the schoolchildren of the relevant age groups as soon as the medical approval is received. ..",
     "url": "https://www.dailymirror.lk/latest_news/Pfizer-vaccine-for-schoolchildren-soon-after-medial-approval-President/342-219650",
     "url_hash": "81e04c9b9a152dbeaf11794679d2c8d3",
     "ut": 1630688876,
@@ -8903,6 +9032,49 @@
   },
   {
     "date": "2021-09-03",
+    "title": "The Latest: US booster plan faces possible delay by Sept. 20",
+    "source": "tulsaworld.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden's plan to start delivery of booster shots by Sept. 20 for most Americans who received COVID-19 vaccines is facing complications that could delay the availability",
+    "url": "https://tulsaworld.com/news/national/the-latest-us-booster-plan-faces-possible-delay-by-sept-20/article_ebfd37bd-c971-5516-9164-37ff8e70e435.html",
+    "url_hash": "15c9b2876f974e1f8884fdd63c5996ac",
+    "ut": 1630692489,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 20",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "SriLankan celebrates 42 years of operations",
     "source": "www.dailymirror.lk",
     "snippet": "SriLankan Airlines, the national carrier of Sri Lanka and a member of the oneworld alliance, celebrated 42 years of flying across the globe. ..",
@@ -8932,6 +9104,41 @@
         "start_end": [
           18,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Govt. & businessmen profiting off sugar mafia: Vijitha Herath",
+    "source": "www.newsfirst.lk",
+    "snippet": "Parliamentarian Vijitha Herath says that the Government and business owners are profiting off sugar at the expense of the public. - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/03/govt-businessmen-profiting-off-sugar-mafia-vijitha-herath/",
+    "url_hash": "30efda5f2b04a1644a208c8366717d92",
+    "ut": 1630692502,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian Vijitha Herath",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
         ]
       }
     ]
