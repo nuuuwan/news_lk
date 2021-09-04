@@ -7353,6 +7353,57 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Sri Lanka extends nationwide lockdown till 13 September",
+    "source": "www.southasiamonitor.org",
+    "snippet": "Sri Lanka has extended the ongoing lockdown nationwide till 13 September, Health Minister Keheliya Rambukwella said, as daily infections still remain too high to ease lockdown",
+    "url": "https://www.southasiamonitor.org/sri-lanka/sri-lanka-extends-nationwide-lockdown-till-13-september",
+    "url_hash": "f5e6a18ecf54598d92e62b36319ebe56",
+    "ut": 1630678118,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "13 September",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Sri Lanka stocks edge down from record high; foreigners exit",
     "source": "economynext.com",
     "snippet": "Sri Lanka's main stock index fell 0.21 percent on Friday (03) due to profit-taking after recording a fresh all-time high throughout the week, brokers said. But foreign investors sold a net 1.5 billion worth of shares and analysts cited currency fall for the move.",
@@ -8749,6 +8800,41 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Sri Lankan terrorist stabs six people in New Zealand supermarket before being fatally shot by officers",
+    "source": "leoaffairs.com",
+    "snippet": "A terrorist attack on shoppers at a\u00a0New Zealand\u00a0supermarket on Friday has left six people injured and the man responsible for the attack dead.",
+    "url": "https://leoaffairs.com/sri-lankan-terrorist-stabs-six-people-in-new-zealand-supermarket-before-being-fatally-shot-by-officers/",
+    "url_hash": "1166ddfa1df375f8f81a1ca670ff1608",
+    "ut": 1630688918,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
