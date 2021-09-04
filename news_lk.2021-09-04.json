@@ -2370,6 +2370,41 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Foreign fishing vessel carrying heroin worth over Rs. 03 Billion intercepted by Navy",
+    "source": "www.newsfirst.lk",
+    "snippet": "A successful operation led by Sri Lanka Navy in coordination with Sri Lanka Police and other intelligence services in international - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/04/foreign-fishing-vessel-carrying-heroin-worth-over-rs-03-billion-intercepted-by-navy/",
+    "url_hash": "f724c7ab27672424446a2a072bf83727",
+    "ut": 1630757332,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka Police",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Ahamed Samsudeen: Man who stabbed seven people at New Zealand supermarket is named",
     "source": "news.sky.com",
     "snippet": "The attacker caught police attention in 2016 and a year later was stopped at an airport, apparently heading for Syria.",
@@ -2611,6 +2646,167 @@
         "start_end": [
           50,
           51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Ahamed Samsudeen: Man who stabbed seven people at New Zealand supermarket is named",
+    "source": "news.sky.com",
+    "snippet": "The attacker caught police attention in 2016 and a year later was stopped at an airport, apparently heading for Syria.",
+    "url": "https://news.sky.com/story/new-zealand-supermarket-attacker-was-being-monitored-by-up-to-30-police-officers-12398730",
+    "url_hash": "c32b9e48fd3c0e74e70261d4842dda67",
+    "ut": 1630764532,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2016",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a year later",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Coronavirus news LIVE updates: Delhi records zero COVID-related death; Philippines lifts travel ban on India",
+    "source": "www.msn.com",
+    "snippet": "India's COVID-19 infection tally rose by 42,618 in a day to reach 3,29,45,907 while the number of active cases touched 4,05,681 following an increase for the fourth consecutive day, according to the Union Health Ministry data updated on Saturday.",
+    "url": "https://www.msn.com/en-in/news/other/coronavirus-news-live-updates-delhi-records-zero-covid-related-death-philippines-lifts-travel-ban-on-india/ar-AAO5zNy",
+    "url_hash": "33412deb68bfb5ca9a26602b36d282e9",
+    "ut": 1630764532,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "42,618",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the fourth consecutive day",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Union Health Ministry",
+        "start_end": [
+          33,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Sri Lankan Tamil Muslim behind New Zealand shopping mall attack; here's all you need to know",
+    "source": "www.freepressjournal.in",
+    "snippet": "Colombo: Sri Lankan police on Saturday named Ahamed Aathil Mohamed Samsudeen, a Tamil Muslim resident of Kathankudy town regarded as the hub of local Islamic radicalism in the Eastern province, as the man who injured seven people by carrying out a stabbing attack at a shopping mall in New Zealand.",
+    "url": "https://www.freepressjournal.in/world/sri-lankan-tamil-muslim-behind-new-zealand-shopping-mall-attack-heres-all-you-need-to-know",
+    "url_hash": "ca10850b41eaf95b4f0daafba0e06f31",
+    "ut": 1630764542,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ahamed Aathil Mohamed Samsudeen",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Tamil Muslim",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Kathankudy",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          51,
+          53
         ]
       }
     ]
