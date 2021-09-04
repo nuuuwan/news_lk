@@ -906,6 +906,49 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Rs.5,000 allowance to cover up online charges: Edu. Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The decision was taken to pay an allowance of Rs. 5,000 for two months for teachers and principals as relief from their salary anomalies and to cover the expenses incurred on online teaching, Education Minister Dinesh Gunawardena said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Rs-5-000-allowance-to-cover-up-online-charges-Edu-Minister/108-219689",
+    "url_hash": "1b538df0771d25f0c0cc967850d6befe",
+    "ut": 1630728580,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "5,000",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two months",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardena",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "New Zealand supermarket attacker was being monitored by 'up to 30' police officers",
     "source": "www.originalfm.com",
     "snippet": "The man who stabbed seven people at a New Zealand supermarket had been assessed by authorities as such a high risk that he was being monitored by up to 30 police officers in the weeks leading up to the attack.",
@@ -1580,6 +1623,25 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Prima decides to revise wheat flour prices: Bakery Owners'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Limited has decided to revise their increased wheat flour prices, the All Ceylon Bakery Owners' Association (ACBOA) today said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Prima-decides-to-revise-wheat-flour-prices-Bakery-Owners/342-219692",
+    "url_hash": "9fbbc3bd8966809ee53ccf86ef722a95",
+    "ut": 1630739380,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the All Ceylon Bakery Owners' Association (ACBOA)",
+        "start_end": [
+          11,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Sri Lanka extends COVID-19 lockdown till September 13",
     "source": "health.economictimes.indiatimes.com",
     "snippet": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Name Provider Expiry Type Purpose optout Times Internet 1 Year HTTPS Stores the user's cookie consent state for the current domain PHPSESSID Times Internet 1 day HTTPS Stores user's preferences accessCode Times Internet 2.",
@@ -1754,6 +1816,41 @@
         "start_end": [
           9,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Local authorities identify NZ knife attacker",
+    "source": "www.dailymirror.lk",
+    "snippet": "Authorities have identified the Sri Lankan national who carried out the knife attack at a supermarket in Auckland, New Zealand, as a resident of Kaththankudy. ..",
+    "url": "https://www.dailymirror.lk/top_story/Local-authorities-identify-NZ-knife-attaker/155-219693",
+    "url_hash": "6becd92e0d5fd1b7c8687d4a28c40bb1",
+    "ut": 1630742980,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland, New Zealand",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kaththankudy",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
@@ -1980,6 +2077,60 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Sri Lanka ranks top with most COVID vaccinations in past week",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has ranked top in the world as the country that rolled out the highest number of vaccinations in the past week",
+    "url": "http://www.adaderana.lk/news/76668/sri-lanka-ranks-top-in-world-with-most-covid-vaccinations-in-past-week",
+    "url_hash": "251915948d2a7632ecd0ea7b28e8f239",
+    "ut": 1630753789,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past week",
+        "start_end": [
+          20,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Sri Lanka Hit By Food Emergency, Currency Crisis Amid Coronavirus Surge",
+    "source": "www.msn.com",
+    "snippet": "Almost every bank in Sri Lanka is facing an acute shortage of foreign currencies, while the Gotabaya Rajapaksa-led government has put a ceiling on money that can be sent abroad.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-hit-by-food-emergency-currency-crisis-amid-coronavirus-surge/ar-AAO5Mvj",
+    "url_hash": "df24f22396ecaf556babc0de81c6a88d",
+    "ut": 1630753789,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "India sends 150 tonnes of oxygen to Sri Lanka to fight COVID surge",
     "source": "inshorts.com",
     "snippet": "India has sent about 150 tonnes of oxygen to Sri Lanka to help the country combat the third wave of the COVID-19 pandemic. Last month, India had sent 100 tonnes of liquid medical oxygen to the island nation.",
@@ -2084,6 +2235,41 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Ahamed Samsudeen: Man who stabbed seven people at New Zealand supermarket is named",
+    "source": "news.sky.com",
+    "snippet": "The attacker caught police attention in 2016 and a year later was stopped at an airport, apparently heading for Syria.",
+    "url": "https://news.sky.com/story/ahamed-samsudeen-man-who-stabbed-seven-people-at-new-zealand-supermarket-is-named-12398730",
+    "url_hash": "7dd39929a4bd80a02dee9dab3e63be7c",
+    "ut": 1630760449,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2016",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a year later",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
