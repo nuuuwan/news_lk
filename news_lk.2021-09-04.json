@@ -1054,6 +1054,25 @@
   },
   {
     "date": "2021-09-04",
+    "title": "New Zealand police were following extremist who stabbed 6",
+    "source": "www.thetelegraph.com",
+    "snippet": "New Zealand authorities were so worried about",
+    "url": "https://www.thetelegraph.com/news/article/New-Zealand-police-kill-terrorist-after-he-16432792.php",
+    "url_hash": "9e41c5d4cfc92611960f749b30d3103d",
+    "ut": 1630732100,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Extremist was released from New Zealand jail despite fears",
     "source": "www.thehour.com",
     "snippet": "New Zealand authorities imprisoned a man inspired by the Islamic State group for three years after catching him with a hunting knife and extremist videos \u2014 but at a certain point, despite grave fears he would attack others,",
@@ -3373,6 +3392,33 @@
         "start_end": [
           48,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Foreign Reserves Depleting, Inflow Down to a Trickle: How Covid-19 Forced Sri Lanka into a Food Emergency",
+    "source": "www.msn.com",
+    "snippet": "Almost every bank in Sri Lanka is facing an acute shortage of foreign currencies, while the Gotabaya Rajapaksa-led government has put a ceiling on money that can be sent abroad.",
+    "url": "https://www.msn.com/en-in/news/world/foreign-reserves-depleting-inflow-down-to-a-trickle-how-covid-19-forced-sri-lanka-into-a-food-emergency/ar-AAO5Mvj",
+    "url_hash": "e39658534b33d2f7390f9e96b735a9a6",
+    "ut": 1630775291,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
