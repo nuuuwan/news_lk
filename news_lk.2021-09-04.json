@@ -1762,5 +1762,48 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Italy and Sri Lanka agreed to continue close dialogue",
+    "source": "colombogazette.com",
+    "snippet": "Italy and Sri Lanka have agreed to continue close dialogue and cooperation on matters of mutual interest.\u00a0 The Ambassador of Italy to Sri Lanka Rita Giuliana Manella paid a courtesy call on Foreign Minister Prof.",
+    "url": "https://colombogazette.com/2021/09/04/italy-and-sri-lanka-agreed-to-continue-close-dialogue/",
+    "url_hash": "17e9d5507073885e8f6d1140dbd8b82e",
+    "ut": 1630751488,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
   }
 ]

@@ -5901,6 +5901,33 @@
   },
   {
     "date": "2021-09-03",
+    "title": "Parliament to convene only on the 6th and 7th",
+    "source": "menafn.com",
+    "snippet": "Parliament has decided to convene only on the 6th and 7th next week, taking into account the current COVID-19 pandemic.   <p",
+    "url": "https://menafn.com/1102735298/Parliament-to-convene-only-on-the-6th-and-7th",
+    "url_hash": "575cad10f662d7d05d2eb5cb10961ef2",
+    "ut": 1630667308,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 6th and 7th next week",
+        "start_end": [
+          7,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
     "title": "Schoolchildren likely to receive Pfizer vaccine soon after health authority approval",
     "source": "www.dailymirror.lk",
     "snippet": "The Government Medical Officers' Association (GMOA) requested the Presidential Task force to administer COVID-19 vaccine to children aged 12 to 18 years before the re-opening of schools to prevent a catastrophic situation with the spread of COVID in schools,",
@@ -7696,6 +7723,60 @@
         "start_end": [
           12,
           13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "Injured Bavuma to miss remaining ODIs, T20Is series",
+    "source": "www.dailymirror.lk",
+    "snippet": "Cricket South Africa said Keshav Maharaj will be captain for the remaining two ODIs, while the captain for the T20I series will be announced later. ..",
+    "url": "https://www.dailymirror.lk/headline/Injured-Bavuma-to-miss-remaining-ODIs-T20Is-series/419-219629",
+    "url_hash": "ba74a91af30f2979ed0e5b5e99c68a32",
+    "ut": 1630681674,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keshav Maharaj",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-03",
+    "title": "The Latest: EU, AstraZeneca end legal tiff on vaccine supply",
+    "source": "tulsaworld.com",
+    "snippet": "BRUSSELS \u2014 The European Union and drugmaker AstraZeneca say they reached a deal to end a legal battle over the slow deliveries of the company's COVID-19 vaccines.",
+    "url": "https://tulsaworld.com/news/national/the-latest-eu-astrazeneca-end-legal-tiff-on-vaccine-supply/article_ebfd37bd-c971-5516-9164-37ff8e70e435.html",
+    "url_hash": "0c4643c5d54014bf43a7089539644bc8",
+    "ut": 1630681684,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The European Union",
+        "start_end": [
+          2,
+          5
         ]
       }
     ]
