@@ -2273,5 +2273,174 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Extremist was released from New Zealand jail despite fears",
+    "source": "www.sfgate.com",
+    "snippet": "New Zealand authorities imprisoned a man inspired by the Islamic State group for three years after catching him with a hunting knife and extremist videos \u2014 but at a certain point, despite grave fears he would attack others,",
+    "url": "https://www.sfgate.com/news/article/Judge-released-New-Zealand-extremist-despite-16434928.php",
+    "url_hash": "bdd607ffd1f945eea20f22375c0c407e",
+    "ut": 1630760880,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three years",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Sri Lanka offers help with New Zealand knife attack probe",
+    "source": "news.yahoo.com",
+    "snippet": "Sri Lanka will cooperate with New Zealand's investigation into a knife rampage by an Islamic State-inspired assailant from the South Asian nation, authorities said Saturday.",
+    "url": "https://news.yahoo.com/sri-lanka-offers-help-zealand-133407251.html",
+    "url_hash": "8275f7102755d04f43f30dc391424889",
+    "ut": 1630762440,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "India sends 150 tonnes of oxygen to Sri Lanka to help it tackle coronavirus surge",
+    "source": "www.tribuneindia.com",
+    "snippet": "Sri Lanka on Friday extended its nationwide lockdown till September 13 amidst a surge in the number of Covid deaths and mounting pressure on the health care system India has sent about 150 tonnes more oxygen to Sri Lanka to help the island nation combat the third wave of the Covid pandemic.",
+    "url": "https://www.tribuneindia.com/news/nation/india-sends-150-tonnes-of-oxygen-to-sri-lanka-to-help-it-tackle-coronavirus-surge-306650",
+    "url_hash": "d3946b97ed7b4f325ee1af5cef86a1ae",
+    "ut": 1630763210,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 13",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 150 tonnes",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
   }
 ]
