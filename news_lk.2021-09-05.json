@@ -545,6 +545,65 @@
   },
   {
     "date": "2021-09-05",
+    "title": "SL receives first batch of 4mn Sinopharm Vaccine",
+    "source": "www.dailymirror.lk",
+    "snippet": "A cargo containing the first phase of the four million doses of Chinese Sinopharm COVID-19 Vaccine vials arrived at the Colombo airport this morning, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/SL-receives-first-batch-of-4mn-Sinopharm-Vaccine/342-219701",
+    "url_hash": "d9bcd9912372602ef5dae414dc2bb8b0",
+    "ut": 1630811270,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four million",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vaccine",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "All you need to know about the domestic league structure of India's SAFF rivals",
     "source": "www.msn.com",
     "snippet": "SAFF Championship is slated to start from October 1 in Maldives. This will be the 13th edition of the biennial international men's football championship. India will be participating in the SAFF Championship along with Bangladesh,",
@@ -652,5 +711,15 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Cap on retail price for Pulse Oximeters gazetted",
+    "source": "www.dailymirror.lk",
+    "snippet": "An extraordinary gazette announces that the importer or manufacturer should print or mark in indelible ink the maximum retail price for Oximeters. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Cap-on-retail-price-for-Pulse-Oximeters-gazetted/342-219702",
+    "url_hash": "78f0423be65f55acaf0ae2c355134d0c",
+    "ut": 1630814870,
+    "ent_info_list": []
   }
 ]

@@ -1543,6 +1543,65 @@
   },
   {
     "date": "2021-09-04",
+    "title": "New Zealand police were following extremist who stabbed 6",
+    "source": "www.sfgate.com",
+    "snippet": "New Zealand authorities were so worried about an extremist inspired by the Islamic State group that they were following him around the clock and were able to shoot and kill him within 60 seconds of him unleashing a knife attack that wounded six people Friday at an Auckland supermarket.",
+    "url": "https://www.sfgate.com/news/article/New-Zealand-police-kill-terrorist-after-he-16432792.php",
+    "url_hash": "8eefece7ae9a3d37e7118995042c38b1",
+    "ut": 1630739289,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "60 seconds",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "New Zealand supermarket attacker was being monitored by 'up to 30' police officers",
     "source": "www.originalfm.com",
     "snippet": "The man who stabbed seven people at a New Zealand supermarket had been assessed by authorities as such a high risk that he was being monitored by up to 30 police officers in the weeks leading up to the attack.",
