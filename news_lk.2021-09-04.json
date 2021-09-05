@@ -2666,6 +2666,57 @@
   },
   {
     "date": "2021-09-04",
+    "title": "CID records statements from relatives of New Zealand attacker",
+    "source": "dailynews.lk",
+    "snippet": "The Sri Lanka Police in a statement has announced that the Criminal Investigation Department (CID) has commenced recording statements from close relatives of the Sri Lankan national who was involved in the New Zealand terror attack According to the preliminary information the attacker had left the country in 2011 as a student,",
+    "url": "https://dailynews.lk/2021/09/04/local/258470/cid-records-statements-relatives-new-zealand-attacker",
+    "url_hash": "83dd4338d45d1b4f6dd146cf611e9369",
+    "ut": 1630758541,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Police",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Criminal Investigation Department",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2011",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Ahamed Samsudeen: Man who stabbed seven people at New Zealand supermarket is named",
     "source": "news.sky.com",
     "snippet": "The attacker caught police attention in 2016 and a year later was stopped at an airport, apparently heading for Syria.",
@@ -3333,6 +3384,121 @@
         "start_end": [
           64,
           65
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Malan ton helps South Africa level ODI series",
+    "source": "www.msn.com",
+    "snippet": "Opening batsman Janneman Malan hit 121 to set up a comfortable 67-run series-levelling win for South Africa in the rain-hit one-day international against Sri Lanka on Saturday. South Africa scored 283-6 in 47 overs with opening batsman Malan scoring his third ODI ton after the tourists elected to bat first in Colombo.",
+    "url": "https://www.msn.com/en-nz/sport/more-sports/malan-ton-helps-south-africa-to-283-6-in-rain-hit-sri-lanka-odi/ar-AAO67v9",
+    "url_hash": "0674f56c1520052d732b19b545f6b727",
+    "ut": 1630769372,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Janneman Malan",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "121",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "67",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "283-6",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "47",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Malan",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          51,
+          52
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          60,
+          61
         ]
       }
     ]
