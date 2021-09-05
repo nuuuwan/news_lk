@@ -1429,6 +1429,25 @@
   },
   {
     "date": "2021-09-05",
+    "title": "The super-rich, 'sissy boys', celebs - all targets in Xi's bid to end cultural difference",
+    "source": "www.theguardian.com",
+    "snippet": "Fearful of the growing influence of entrepreneurs and entertainers, the Chinese leader now demands conformity across all of society",
+    "url": "https://www.theguardian.com/commentisfree/2021/sep/05/super-rich-sissy-boys-celebs-all-targets-in-xis-bid-to-end-cultural-difference",
+    "url_hash": "eb9e69b0c2ab9ecc432f987304be099e",
+    "ut": 1630822090,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "SL to launch program to attract Russian and Ukraine tourists",
     "source": "www.dailymirror.lk",
     "snippet": "Tourism Minister Prasanna Ranatunga said that Sri Lanka has launched tourism promotion initiatives with Russia and Ukraine under the Government's program to uplift the tourism industry. ..",
@@ -2788,6 +2807,92 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "New Zealand attacker radicalized by neighbors, mother says",
+    "source": "apnews.com",
+    "snippet": "The mother of an Islamic State-inspired extremist who stabbed shoppers in a New Zealand supermarket said her son was radicalized by neighbors from Syria and Iraq who helped him recover from an injury.",
+    "url": "https://apnews.com/a2b171253caa32666dba217f6fa24679",
+    "url_hash": "b175269e26c01f17c24749e2482ea747",
+    "ut": 1630847299,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iraq",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Sri Lanka's organic revolution threatens tea disaster",
+    "source": "tv.guardian.ng",
+    "snippet": "Sri Lanka's aim to become the world's first 100 percent organic food producer is threatening its famous tea industry. President Gotabaya Rajapaksa's ban on chemical fertiliser earlier this year has sparked concerns of a severe reduction in tea,",
+    "url": "https://tv.guardian.ng/news/business/sri-lankas-organic-revolution-threatens-tea-disaster/",
+    "url_hash": "ed7406a55aa4d05cb4ac302f378373d0",
+    "ut": 1630847590,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "100 percent",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier this year",
+        "start_end": [
+          30,
+          33
         ]
       }
     ]
