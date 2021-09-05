@@ -4536,6 +4536,57 @@
   },
   {
     "date": "2021-09-04",
+    "title": "75% of above-30s in SL fully vaccinated against Covid-19",
+    "source": "www.netindia123.com",
+    "snippet": "Asia: 75% of above-30s in SL fully vaccinated against Covid-19 Colombo \\|Saturday, 2021 5:15:05 PM IST Sri Lankan authorities said that 75 per cent of those aged above 30",
+    "url": "https://www.netindia123.com/showdetails.asp?id=3814238&cat=Asia",
+    "url_hash": "7f535fa73e36a70582f1d1a887b0afad",
+    "ut": 1630779024,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "75%",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "5:15:05 PM IST Sri Lankan",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "75 per cent",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Bowlers come to the party as Proteas win second ODI against Sri Lanka",
     "source": "www.msn.com",
     "snippet": "Tabraiz Shamsi took a career-best 5/49 as the Proteas beat Sri Lanka in the second ODI to level the three-match series 1-1 in Colombo.",
@@ -4739,6 +4790,81 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Janneman Malan beats the cramps to make stunning 100 in second ODI against Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "Janneman Malan scored a brilliant 121 as the Proteas posted a competitive total of 283/6 in their second ODI against Sri Lanka in Colombo on Saturday.",
+    "url": "https://www.msn.com/en-za/sport/cricket/janneman-malan-beats-the-cramps-to-make-stunning-100-in-second-odi-against-sri-lanka/ar-AAO6apw",
+    "url_hash": "a7f7d744af846c567bd39ba17c85671e",
+    "ut": 1630782650,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Janneman Malan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "121",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Proteas",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "283/6",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          25,
+          26
         ]
       }
     ]

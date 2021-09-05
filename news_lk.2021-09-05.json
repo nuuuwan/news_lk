@@ -1,6 +1,16 @@
 [
   {
     "date": "2021-09-05",
+    "title": "A political history of post-1977 Sri Lanka",
+    "source": "island.lk",
+    "snippet": "A crucial difference between Bonapartism and fascism is that the one responds to the public and the other regiments it. Bonapartism can deteriorate into fascism, as it not infrequently does, yet its populist-pluralist character deters it from doing so,",
+    "url": "https://island.lk/a-political-history-of-post-1977-sri-lanka/",
+    "url_hash": "89a1c053344bfb7fdd1c95d1af023073",
+    "ut": 1630804224,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-05",
     "title": "A foreign fishing vessel carrying another haul of heroin worth over Rs.3100 million intercepted by Navy",
     "source": "www.news.lk",
     "snippet": "A successful operation led by Sri Lanka Navy in coordination with Sri Lanka Police and ... attempted to be smuggled into the island by sea and apprehension of 05 suspects and the multi-day fishing vessel being used for the illegal act.",
@@ -1630,6 +1640,33 @@
   {
     "date": "2021-09-05",
     "title": "Extremist stayed in New Zealand despite immigration fraud",
+    "source": "www.msn.com",
+    "snippet": "The Islamic State-inspired extremist who attacked shoppers in a New Zealand supermarket had been fighting deportation for immigration fraud, leaving the nation's leader expressing frustration at the process.",
+    "url": "https://www.msn.com/en-gb/news/world/extremist-stayed-in-new-zealand-despite-immigration-fraud/ar-AAO7l7E",
+    "url_hash": "9ae383e1c01b2ec2a4f8bccc15dd2c92",
+    "ut": 1630825832,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Extremist stayed in New Zealand despite immigration fraud",
     "source": "www.seattletimes.com",
     "snippet": "The Islamic State-inspired extremist who attacked shoppers in a New Zealand supermarket had been fighting deportation for immigration fraud, leaving the nation's leader expressing frustration at the p",
     "url": "https://www.seattletimes.com/nation-world/extremist-stayed-in-new-zealand-despite-immigration-fraud/",
@@ -1787,6 +1824,57 @@
         "start_end": [
           23,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "CMC to begin inoculation of those above 20 from tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "Colombo Municipal Council ( CMC) will begin the inoculation of those over 20 years of age from tomorrow, CMC Chief Medical officer Dr Ruwan Wijayamuni said today. ..",
+    "url": "https://www.dailymirror.lk/top_story/CMC-to-begin-inoculation-of-those-above-20-from-tomorrow/155-219710",
+    "url_hash": "5a83d3972a91fba9fc1891393b196339",
+    "ut": 1630829416,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Colombo Municipal Council",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "those over 20 years of age from tomorrow",
+        "start_end": [
+          11,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CMC",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dr Ruwan Wijayamuni",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
@@ -2078,6 +2166,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "2,081 more Covid-19 recoveries reported",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 2,081 more Covid-19 patients recovered and were discharged from hospitals increasing the total number of recoveries in Sri Lanka to 384,557, the Health Ministry said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/2-081-more-Covid-19-recoveries-reported/108-219711",
+    "url_hash": "e1e5206074bdecad83c5fffcaf4eab2e",
+    "ut": 1630836616,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "2,081",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "384,557",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "South Africa level ODI series vs Sri Lanka 1-1",
     "source": "colombogazette.com",
     "snippet": "A 135-ball 121 from Janneman Malan and\u00a0Tabraiz Shamsi's five-wicket haul helped South Africa register a 67-run victory over Sri Lanka to level the three-match One-day International series 1-1 and log 10 World Cup Super League points.",
@@ -2330,6 +2461,100 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Extremist stayed in New Zealand despite immigration fraud",
+    "source": "www.islandpacket.com",
+    "snippet": "The Islamic State-inspired extremist who attacked shoppers in a New Zealand supermarket had been fighting deportation for immigration fraud, leaving the nation's leader expressing frustration at the process.",
+    "url": "https://www.islandpacket.com/news/nation-world/world/article254020453.html",
+    "url_hash": "e14434651c24b331195a0480ebfd9a73",
+    "ut": 1630840224,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Sri Lanka to start vaccinating 20-29 year olds from",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will start vaccinating 20 to 29 year olds in Colombo, Gampaha, Kaluthara and Galle district from Monday, a government statement said.",
+    "url": "https://economynext.com/sri-lanka-to-start-vaccinating-20-29-year-olds-from-85791/",
+    "url_hash": "0d2f97a52ac009e1255d476a39e64d35",
+    "ut": 1630840240,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "20 to 29 year olds",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kaluthara",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "India looks to strengthen military ties with Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "India is looking to strengthen its military ties with Sri Lanka as part of its 'Neighbourhood First' policy.\u00a0 The Indian High Commission in Colombo said that reflective of India's unwavering commitmen",
@@ -2418,6 +2643,151 @@
         "start_end": [
           43,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "India sends 150 tonnes of medical oxygen aid to Sri Lanka",
+    "source": "newsonair.com",
+    "snippet": "Continuing its role as the first responder at a time of exigency to the friendly nations, India has delivered about 150 tonnes of medical oxygen to Sri Lanka to help the island nation combat the ongoing COVID-19 pandemic.",
+    "url": "https://newsonair.com/2021/09/05/india-sends-150-tonnes-of-medical-oxygen-aid-to-sri-lanka/",
+    "url_hash": "79136cbb3123238e92518d4f2f0e58e5",
+    "ut": 1630845504,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 150 tonnes",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "From 24,320 tourists who visited Sri Lanka 250 were infected",
+    "source": "colombogazette.com",
+    "snippet": "By Ashanthi Warunasuriya From a total of 24,320 tourists who visited Sri Lanka in the recent past 250 tourists tested positive for the coronavirus. The Tourism Ministry said that approximately 150 of them have returned to their respective countries after completely recovering from the virus.",
+    "url": "https://colombogazette.com/2021/09/05/from-24320-tourists-who-visited-sri-lanka-250-were-infected/",
+    "url_hash": "1bcfefc3dfee11fb6280a9a273aa88ca",
+    "ut": 1630846304,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ashanthi Warunasuriya",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24,320",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the recent past 250",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Tourism Ministry",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "approximately 150",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "New Zealand attacker radicalized by neighbors, mother says",
+    "source": "apnews.com",
+    "snippet": "The mother of an Islamic State-inspired extremist who stabbed shoppers in a New Zealand supermarket said her son was radicalized by neighbors from Syria and Iraq who helped him recover from an injury.",
+    "url": "https://apnews.com/article/middle-east-new-zealand-immigration-islamic-state-group-a2b171253caa32666dba217f6fa24679",
+    "url_hash": "261b9f459a347f2a09647dbe1d8437ec",
+    "ut": 1630846712,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iraq",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
