@@ -2831,6 +2831,97 @@
   {
     "date": "2021-09-04",
     "title": "Sri Lanka offers help with New Zealand knife attack probe",
+    "source": "www.rfi.fr",
+    "snippet": "Sri Lanka will cooperate with New Zealand's investigation into a knife rampage by an Islamic State-inspired assailant from the South Asian nation, authorities said Saturday. Police shot dead the 32-year-old Sri Lankan after he attacked seven people in an Auckland supermarket on Friday.",
+    "url": "https://www.rfi.fr/en/sri-lanka-offers-help-with-new-zealand-knife-attack-probe",
+    "url_hash": "e7841be3db7bcc77fcefa040052c2a19",
+    "ut": 1630760926,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "32-year-old",
+        "start_end": [
+          34,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Sri Lanka offers help with New Zealand knife attack probe",
     "source": "news.yahoo.com",
     "snippet": "Sri Lanka will cooperate with New Zealand's investigation into a knife rampage by an Islamic State-inspired assailant from the South Asian nation, authorities said Saturday.",
     "url": "https://news.yahoo.com/sri-lanka-offers-help-zealand-133407251.html",
@@ -3226,6 +3317,65 @@
         "start_end": [
           46,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Ahamed Samsudeen: Man who stabbed seven people at New Zealand supermarket is named",
+    "source": "www.originalfm.com",
+    "snippet": "The man who stabbed seven people at a New Zealand supermarket has been named as Ahamed Samsudeen. The 32-year-old had been assessed by authorities as such a high risk that he was being monitored by up to 30 police officers in the weeks leading up to the attack.",
+    "url": "https://www.originalfm.com/news/world-news/ahamed-samsudeen-man-who-stabbed-seven-people-at-new-zealand-supermarket-is-named/",
+    "url_hash": "830e89d596572f6f9e63a83a7eefd8c7",
+    "ut": 1630768099,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ahamed Samsudeen",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "32-year-old",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "up to 30",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weeks",
+        "start_end": [
+          46,
+          48
         ]
       }
     ]
