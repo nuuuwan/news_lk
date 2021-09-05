@@ -2644,6 +2644,41 @@
   },
   {
     "date": "2021-09-04",
+    "title": "COVID vaccine clinics run by Health Ministry and Army today",
+    "source": "www.adaderana.lk",
+    "snippet": "COVID vaccination programmes conducted by the Ministry of Health and the Sri Lanka Army are continuing in many parts of the island today ( 04)",
+    "url": "http://www.adaderana.lk/news/76660/covid-vaccine-clinics-run-by-health-ministry-and-army-today",
+    "url_hash": "c75da66578c940c10a3ad49c89355155",
+    "ut": 1630753679,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Sri Lanka ranks top with most COVID vaccinations in past week",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka has ranked top in the world as the country that rolled out the highest number of vaccinations in the past week",
