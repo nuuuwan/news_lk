@@ -716,6 +716,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Sputnik V second dose expected in Sri Lanka this month",
+    "source": "menafn.com",
+    "snippet": "A stock of the second dose of the Sputnik V vaccine is expected in Sri Lanka this month.   State Minister of Production,",
+    "url": "https://menafn.com/1102743827/Sputnik-V-second-dose-expected-in-Sri-Lanka-this-month",
+    "url_hash": "59940de4f97eeef979e14453a9cd0db3",
+    "ut": 1630811325,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sputnik",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this month",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "All you need to know about the domestic league structure of India's SAFF rivals",
     "source": "www.msn.com",
     "snippet": "SAFF Championship is slated to start from October 1 in Maldives. This will be the 13th edition of the biennial international men's football championship. India will be participating in the SAFF Championship along with Bangladesh,",
@@ -3068,6 +3111,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "New Zealand attacker radicalized by neighbors, mother says",
+    "source": "www.yahoo.com",
+    "snippet": "The mother of an Islamic State-inspired extremist who stabbed shoppers in a New Zealand supermarket said her son was radicalized by neighbors from Syria and Iraq who helped him recover from an injury.",
+    "url": "https://www.yahoo.com/news/zealand-attacker-radicalized-neighbors-mother-125938753.html",
+    "url_hash": "99ddb062ce3eb29c135e5ac10a5a9768",
+    "ut": 1630847329,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iraq",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "Sri Lanka's organic revolution threatens tea disaster",
     "source": "tv.guardian.ng",
     "snippet": "Sri Lanka's aim to become the world's first 100 percent organic food producer is threatening its famous tea industry. President Gotabaya Rajapaksa's ban on chemical fertiliser earlier this year has sparked concerns of a severe reduction in tea,",
@@ -3105,6 +3191,100 @@
         "start_end": [
           30,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Covid death toll exceeds 10,000 mark",
+    "source": "www.dailymirror.lk",
+    "snippet": "The total number of Covid-19 deaths in Sri Lanka exceeded 10,000 with 189 more deaths being reported yesterday. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Covid-death-toll-exceeds-10-000-mark/108-219716",
+    "url_hash": "91e15027667b9f42caec30b16b22fca5",
+    "ut": 1630850893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10,000",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "189",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "New Zealand tried to deport attacker for years after he arrived as refugee",
+    "source": "www.dailymirror.lk",
+    "snippet": "New Zealand had tried for years to deport the knife-wielding militant who wounded seven people at a mall in Auckland last week, the government said after it released more details on the attacker following the lifting of a court suppression order.",
+    "url": "https://www.dailymirror.lk/breaking_news/New-Zealand-tried-to-deport-attacker-for-years-after-he-arrived-as-refugee/108-219715",
+    "url_hash": "3e8212dcfdd8576ce9af7c283ff0af43",
+    "ut": 1630850893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          22,
+          24
         ]
       }
     ]
