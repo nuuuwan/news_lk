@@ -2862,6 +2862,65 @@
   },
   {
     "date": "2021-09-04",
+    "title": "75% of above-30s in SL fully vaccinated against Covid-19",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lankan authorities said that 75 per cent of those aged above 30 in the country have been fully vaccinated against Covid-19 amid a mass inoculation drive. Army chief and head of the National Operations Centre for Prevention of Covid-19 Outbreak Gen.",
+    "url": "https://news.webindia123.com/news/Articles/Asia/20210904/3814238.html",
+    "url_hash": "1c5913f74690c376b571d701c1e358a2",
+    "ut": 1630757285,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "75 per cent",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Operations Centre for Prevention",
+        "start_end": [
+          33,
+          39
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Outbreak",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Foreign fishing vessel carrying heroin worth over Rs. 03 Billion intercepted by Navy",
     "source": "www.newsfirst.lk",
     "snippet": "A successful operation led by Sri Lanka Navy in coordination with Sri Lanka Police and other intelligence services in international - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
@@ -4264,6 +4323,81 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Bowlers come to the party as Proteas win second ODI against Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "Tabraiz Shamsi took a career-best 5/49 as the Proteas beat Sri Lanka in the second ODI to level the three-match series 1-1 in Colombo.",
+    "url": "https://www.msn.com/en-za/sport/cricket/bowlers-come-to-the-party-as-proteas-win-second-odi-against-sri-lanka/ar-AAO6fYS",
+    "url_hash": "4df41f251a363319f420799873620740",
+    "ut": 1630782509,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tabraiz Shamsi",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5/49",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Proteas",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1-1",
+        "start_end": [
+          25,
+          28
         ]
       }
     ]

@@ -607,6 +607,57 @@
     "title": "SL receives 4mn Sinopharm Vaccine",
     "source": "www.dailymirror.lk",
     "snippet": "A cargo containing the total volume of four million doses of Chinese Sinopharm COVID-19 Vaccine vials arrived at the Colombo airport this morning, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-receives-4mn-Sinopharm-Vaccine/108-219701",
+    "url_hash": "482b0d61ff227681c9d6d3436db312df",
+    "ut": 1630811276,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "four million",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vaccine",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "SL receives 4mn Sinopharm Vaccine",
+    "source": "www.dailymirror.lk",
+    "snippet": "A cargo containing the total volume of four million doses of Chinese Sinopharm COVID-19 Vaccine vials arrived at the Colombo airport this morning, the airport duty manager said. ..",
     "url": "https://www.dailymirror.lk/latest_news/SL-receives-4mn-Sinopharm-Vaccine/342-219701",
     "url_hash": "d3ea858d0d1192029211be55c6653852",
     "ut": 1630811293,
@@ -771,6 +822,16 @@
     "url": "https://www.dailymirror.lk/latest_news/Cap-on-retail-price-for-Pulse-Oximeters-gazetted/342-219702",
     "url_hash": "78f0423be65f55acaf0ae2c355134d0c",
     "ut": 1630814870,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Cap on retail price for Pulse Oximeters gazetted",
+    "source": "www.dailymirror.lk",
+    "snippet": "An extraordinary gazette announces that the importer or manufacturer should print or mark in indelible ink the maximum retail price for Oximeters. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Cap-on-retail-price-for-Pulse-Oximeters-gazetted/108-219702",
+    "url_hash": "ad81a04e0c89b8c6133655221c3b90fc",
+    "ut": 1630814876,
     "ent_info_list": []
   },
   {
@@ -1102,6 +1163,173 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Baby elephant twins born in Sri Lanka",
+    "source": "tv.guardian.ng",
+    "snippet": "Sri Lanka's main elephant orphanage recorded a rare twin birth ... Official records show there are about 200 domesticated elephants in the island country and an estimated 7,500 in the wild.",
+    "url": "https://tv.guardian.ng/news/world-news/baby-elephant-twins-born-in-sri-lanka/",
+    "url_hash": "c088b1e953bae116891556f5fb11edcf",
+    "ut": 1630822085,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "about 200",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "an estimated 7,500",
+        "start_end": [
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "From Gasping for Breath to Now Helping Neighbours in Peril: Taking a Look at India's Oxygen Diplomacy",
+    "source": "www.msn.com",
+    "snippet": "From medical oxygen to oxygen concentrators, medical supplies and vaccines- India has been at the forefront in providing these medical supplies to countries struggling with Coronavirus.",
+    "url": "https://www.msn.com/en-in/news/other/from-gasping-for-breath-to-now-helping-neighbours-in-peril-taking-a-look-at-indias-oxygen-diplomacy/ar-AAO6VHN",
+    "url_hash": "7c6e481b72608cdaccce520297d1851b",
+    "ut": 1630822445,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coronavirus",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Navy detains foreign vessel with large stock of heroin",
+    "source": "menafn.com",
+    "snippet": "The Sri Lanka Navy has detained a foreign vessel with a large stock of heroin, the Navy media unit said today.   The Navy",
+    "url": "https://menafn.com/1102739251/Navy-detains-foreign-vessel-with-large-stock-of-heroin",
+    "url_hash": "fe349bb8da4b45b66e771b90f70c16f7",
+    "ut": 1630822465,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Navy",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "EXPLAINED: Why Sri Lanka's Food Crisis Is Actually A Forex Problem",
+    "source": "www.news18.com",
+    "snippet": "Long queues have been reported at food markets and prices of staples are trending upwards as Sri Lanka grapples with an economic crisis that has hit imports and now forced the government to declare an emergency.",
+    "url": "https://www.news18.com/news/explainers/explained-why-sri-lankas-food-crisis-is-actually-a-forex-problem-4167188.html",
+    "url_hash": "4dff6936278bcceac198becb1215b672",
+    "ut": 1630823173,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Libya requests Sri Lanka to monitor upcoming elections",
+    "source": "menafn.com",
+    "snippet": "Libya has requested Sri Lanka to monitor the upcoming elections, the Foreign Ministry said.   Foreign Minister Prof. G.L.",
+    "url": "https://menafn.com/1102739363/Libya-requests-Sri-Lanka-to-monitor-upcoming-elections",
+    "url_hash": "efd7fe8274371f707a98278753114dcd",
+    "ut": 1630823245,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Libya",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Foreign Ministry",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G.L.",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
