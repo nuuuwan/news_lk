@@ -839,6 +839,49 @@
     "title": "SJB remembers the departed COVID-19 souls",
     "source": "www.dailymirror.lk",
     "snippet": "The Samagi Jana Balawegaya (SJB) recently initiated an event to communicate with the kith and kin of those who died of COVID-19 in all districts. The ceremony was held in the Colombo district at the SJB Headquarters in Sri Jayewardanapura,",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-remembers-the-departed-COVID-19-souls/342-219703",
+    "url_hash": "2e8c97a6fa87af81c0f4d3f41662cba0",
+    "ut": 1630814882,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "The Samagi Jana Balawegaya",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the SJB Headquarters",
+        "start_end": [
+          37,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Jayewardanapura",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "SJB remembers the departed COVID-19 souls",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Samagi Jana Balawegaya (SJB) recently initiated an event to communicate with the kith and kin of those who died of COVID-19 in all districts. The ceremony was held in the Colombo district at the SJB Headquarters in Sri Jayewardanapura,",
     "url": "https://www.dailymirror.lk/caption_story/SJB-remembers-the-departed-COVID-19-souls/110-219703",
     "url_hash": "f5a3a34d20b40e7c15603dcf0a9a4c13",
     "ut": 1630814893,
@@ -1653,6 +1696,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Administering COVID vaccine for 20-30 commences in Colombo",
+    "source": "www.dailynews.lk",
+    "snippet": "Administering the COVID-19 vaccine to those between the ages of 20 to 30 will begin tomorrow in Colombo 1 to 15, stated the Colombo Regional Epidemiologist. Vaccination drive will be carried out in fo",
+    "url": "http://www.dailynews.lk/2021/09/05/local/258480/administering-covid-vaccine-20-30-commences-colombo",
+    "url_hash": "06a92e2764142fa8414d2eafe5dfd5ac",
+    "ut": 1630829286,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "between the ages of 20 to 30",
+        "start_end": [
+          6,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Colombo 1 to 15",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Colombo Regional Epidemiologist",
+        "start_end": [
+          23,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "CMC to begin inoculation of those above 20 from tomorrow",
     "source": "www.dailymirror.lk",
     "snippet": "Colombo Municipal Council ( CMC) will begin the inoculation of those over 20 years of age from tomorrow, CMC Chief Medical officer Dr Ruwan Wijayamuni said today. ..",
@@ -1792,6 +1878,49 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Gazette declaring MRP for oximeters issued",
+    "source": "www.newsfirst.lk",
+    "snippet": "A gazette notification has been issued today (5), setting a maximum retail price of Rs. 3,000 per oximeter. The recent demand for - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/05/gazette-declaring-mrp-for-oximeters-issued/",
+    "url_hash": "0a8abfe3cfc7ace8da42d802111dd7b5",
+    "ut": 1630833515,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,000",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]

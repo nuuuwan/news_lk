@@ -3120,6 +3120,41 @@
   },
   {
     "date": "2021-09-04",
+    "title": "Extremist was released from New Zealand jail despite fears",
+    "source": "apnews.com",
+    "snippet": "New Zealand authorities imprisoned a man inspired by the Islamic State group for three years after catching him with a hunting knife and extremist videos \u2014 but at a certain point, despite grave fears he would attack others,",
+    "url": "https://apnews.com/article/new-zealand-islamic-state-group-3bd1cbbeec8eeda30caa0797f52ae227",
+    "url_hash": "8c4dfc7bd793f4a5f992d60277faec0f",
+    "ut": 1630760900,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three years",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Sri Lanka offers help with New Zealand knife attack probe",
     "source": "www.rfi.fr",
     "snippet": "Sri Lanka will cooperate with New Zealand's investigation into a knife rampage by an Islamic State-inspired assailant from the South Asian nation, authorities said Saturday. Police shot dead the 32-year-old Sri Lankan after he attacked seven people in an Auckland supermarket on Friday.",
@@ -4248,6 +4283,65 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "South Africa wins by 67 runs",
+    "source": "www.dailynews.lk",
+    "snippet": "South Africa won the second ODI by 67 runs (D/L method) against Sri Lanka. And levels the series 1-1.",
+    "url": "https://www.dailynews.lk/2021/09/04/sports/258473/south-africa-wins-67-runs",
+    "url_hash": "97774277d6cb7934131f54605e2b226a",
+    "ut": 1630778886,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "67",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          23,
+          24
         ]
       }
     ]
