@@ -4790,5 +4790,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Tourist escapes Sri Lankan attack",
+    "source": "www.gazetteandherald.co.uk",
+    "snippet": "COMPUTER consultant James Hanson from Etchilhampton, near Devizes, got caught up in a Tamil rebel attack while he was on holiday in Sri Lanka Mr Hanson ... neighbouring air force base at Katunayake near Colombo. \"We checked in as normal and we were ...",
+    "url": "https://www.gazetteandherald.co.uk/news/7374542.tourist-escapes-sri-lankan-attack/",
+    "url_hash": "03a7e4ff12eac4c6eb982297779fe67d",
+    "ut": 1630796926,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "James Hanson",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Etchilhampton",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Devizes",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
   }
 ]
