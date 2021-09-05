@@ -604,6 +604,57 @@
   },
   {
     "date": "2021-09-05",
+    "title": "SL receives 4mn Sinopharm Vaccine",
+    "source": "www.dailymirror.lk",
+    "snippet": "A cargo containing the total volume of four million doses of Chinese Sinopharm COVID-19 Vaccine vials arrived at the Colombo airport this morning, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/SL-receives-4mn-Sinopharm-Vaccine/342-219701",
+    "url_hash": "d3ea858d0d1192029211be55c6653852",
+    "ut": 1630811293,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "four million",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vaccine",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "All you need to know about the domestic league structure of India's SAFF rivals",
     "source": "www.msn.com",
     "snippet": "SAFF Championship is slated to start from October 1 in Maldives. This will be the 13th edition of the biennial international men's football championship. India will be participating in the SAFF Championship along with Bangladesh,",
@@ -721,5 +772,338 @@
     "url_hash": "78f0423be65f55acaf0ae2c355134d0c",
     "ut": 1630814870,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-05",
+    "title": "SJB remembers the departed COVID-19 souls",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Samagi Jana Balawegaya (SJB) recently initiated an event to communicate with the kith and kin of those who died of COVID-19 in all districts. The ceremony was held in the Colombo district at the SJB Headquarters in Sri Jayewardanapura,",
+    "url": "https://www.dailymirror.lk/caption_story/SJB-remembers-the-departed-COVID-19-souls/110-219703",
+    "url_hash": "f5a3a34d20b40e7c15603dcf0a9a4c13",
+    "ut": 1630814893,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "The Samagi Jana Balawegaya",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the SJB Headquarters",
+        "start_end": [
+          37,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Jayewardanapura",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Fifteen Years of Excellence - Forging Ahead with Cooperation",
+    "source": "www.dailymirror.lk",
+    "snippet": "In 1993, our founder Dr. Mohan Lal Grero opened the first Lyceum International School in Nugegoda. The name 'Lyceum' comes from the ancient Athenian School founded by Aristotle in 335 B.C. ..",
+    "url": "https://www.dailymirror.lk/other/Fifteen-Years-of-Excellence-Forging-Ahead-with-Cooperation/117-219704",
+    "url_hash": "45d0a7f2c9fad0abb709fbf0e0a43186",
+    "ut": 1630814893,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "1993",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mohan Lal Grero",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lyceum International School",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nugegoda",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Athenian School",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Aristotle",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "335",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "B.C.",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Wife of Uruwarige Wannila Aththo passes away from COVID",
+    "source": "www.dailynews.lk",
+    "snippet": "Uruwarige Heenmanike, the wife of Vedda Chief Uruwarige Wannila Aththo has passed away from COVID-19.",
+    "url": "http://www.dailynews.lk/2021/09/05/local/258474/wife-uruwarige-wannila-aththo-passes-away-covid",
+    "url_hash": "9bf60fe17b73ab36f86c02f40c4fdcc1",
+    "ut": 1630814898,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Uruwarige Heenmanike",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "DFCC Bank's Journey to the Pinnacle of Retail Banking'' with CEO Mr. Lakshman Silva",
+    "source": "www.dailymirror.lk",
+    "snippet": "DFCC Bank's unwavering journey to the pinnacle of retail banking excellence has been aptly awarded the title, \"Most Trusted Retail Banking Brand\" from Global Brands, UK. Today we meet with DFCC Bank CEO Mr. Lakshman Silva to discuss what this award means ...",
+    "url": "https://www.dailymirror.lk/dailymirror_online/DFCC-Banks-Journey-to-the-Pinnacle-of-Retail-Banking-with-CEO-Mr-Lakshman-Silva/379-219705",
+    "url_hash": "4676b979277fad509c42e1199ec62d69",
+    "ut": 1630818493,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "DFCC Bank's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Most Trusted Retail Banking Brand",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Global Brands",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "DFCC Bank",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lakshman Silva",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Today's Weather Forecast",
+    "source": "www.dailynews.lk",
+    "snippet": "Showers or thundershowers will occur at times in Western, Sabaragamuwa,...",
+    "url": "http://www.dailynews.lk/2021/09/05/local/258475/todays-weather-forecast",
+    "url_hash": "89ca4dc2580a7998ae9fe0e11e604d79",
+    "ut": 1630818498,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "India sends another 150 tonnes of oxygen to Sri Lanka",
+    "source": "www.thehindubusinessline.com",
+    "snippet": "India has sent about 150 tonnes more oxygen to Sri Lanka to help the island nation combat the third wave of the Covid-19 pandemic. Sri Lanka on Friday extended the nationwide lockdown till September 13 amidst a surge in the number of deaths and mounting pressure on the healthcare system.",
+    "url": "https://www.thehindubusinessline.com/news/india-sends-another-150-tonnes-of-oxygen-to-sri-lanka/article36300568.ece",
+    "url_hash": "ef75c4878a8531299cdd0e4077112380",
+    "ut": 1630819943,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 150 tonnes",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 13",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Auckland supermarket attacker had been in the process of being deported",
+    "source": "www.sbs.com.au",
+    "snippet": "The 32-year-old Sri Lankan national responsible for Friday's shocking knife attack was named after the lapsing of court-mandated suppression orders.",
+    "url": "https://www.sbs.com.au/news/auckland-supermarket-attacker-had-been-in-the-process-of-being-deported",
+    "url_hash": "5de0ef99c24c7649ed4583b59f1d076f",
+    "ut": 1630820492,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "32-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
   }
 ]

@@ -1387,6 +1387,41 @@
   },
   {
     "date": "2021-09-04",
+    "title": "75% of above-30s in SL fully vaccinated against Covid-19",
+    "source": "www.sify.com",
+    "snippet": "Sri Lankan authorities said that 75 per cent of those aged above 30 in the country have been fully vaccinated against Covid-19 amid a mass inoculation drive.",
+    "url": "https://www.sify.com/news/75-of-above-30s-in-sl-fully-vaccinated-against-covid-19-news-international-vjegkfhbeccef.html",
+    "url_hash": "d4565f328a3f784ccea7da471e0771f4",
+    "ut": 1630735703,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "75 per cent",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Over 300kg of heroin recovered from foreign vessel intercepted by Navy",
     "source": "www.adaderana.lk",
     "snippet": "A total of 301kg of heroin has been recovered from the foreign vessel intercepted by the Sri Lanka Navy this morning (Sep",
@@ -2615,6 +2650,33 @@
     "url": "http://www.adaderana.lk/news/76668/sri-lanka-ranks-top-as-country-with-most-covid-vaccinations-in-last-week",
     "url_hash": "59518adfb6bb4587b26aad94d5194b2f",
     "ut": 1630753685,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past week",
+        "start_end": [
+          20,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "Sri Lanka ranks top in world with most COVID vaccinations in past week",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has ranked top in the world as the country that rolled out the highest number of vaccinations in the past week",
+    "url": "http://www.adaderana.lk/news.php?nid=76668",
+    "url_hash": "e4e41097bc341f44361e8dcc14dd3ed5",
+    "ut": 1630753703,
     "ent_info_list": [
       {
         "label": "GPE",
