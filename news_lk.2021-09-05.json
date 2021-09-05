@@ -3235,6 +3235,49 @@
     "title": "Covid death toll exceeds 10,000 mark",
     "source": "www.dailymirror.lk",
     "snippet": "The total number of Covid-19 deaths in Sri Lanka exceeded 10,000 with 189 more deaths being reported yesterday. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Covid-death-toll-exceeds-10-000-mark/342-219716",
+    "url_hash": "21eb262021ee8f9e2a054af8b3fbf7dc",
+    "ut": 1630850889,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10,000",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "189",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Covid death toll exceeds 10,000 mark",
+    "source": "www.dailymirror.lk",
+    "snippet": "The total number of Covid-19 deaths in Sri Lanka exceeded 10,000 with 189 more deaths being reported yesterday. ..",
     "url": "https://www.dailymirror.lk/breaking_news/Covid-death-toll-exceeds-10-000-mark/108-219716",
     "url_hash": "91e15027667b9f42caec30b16b22fca5",
     "ut": 1630850893,
@@ -3379,6 +3422,116 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Prabhakaran's translator George Master dies in Killinochchi",
+    "source": "www.dailymirror.lk",
+    "snippet": "Velupillai Kumaru Pancharatnam also know as George Master, who was the Translator of LTTE leader Velupillai Prabhakaran and S. P. Thamilsenvan died in Kilinochchi today after suffering a heart attack.",
+    "url": "https://www.dailymirror.lk/breaking_news/Prabhakarans-translator-George-Master-dies-in-Killinochchi/108-219718",
+    "url_hash": "4e419687b95c959af36ad32c12bcb570",
+    "ut": 1630854489,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Velupillai Kumaru Pancharatnam",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "George Master",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Velupillai Prabhakaran",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. P. Thamilsenvan",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kilinochchi",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Singer Sunil Perera admitted to hospital again",
+    "source": "www.dailymirror.lk",
+    "snippet": "Popular Singer and leader of the Gypsies band, Sunil Perera has been admitted to the ICU of a private hospital again. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Singer-Sunil-Perera-admitted-to-hospital-again/108-219717",
+    "url_hash": "eb1984d28d51b1cd23fda717e85e5cf2",
+    "ut": 1630854489,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Popular Singer",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gypsies",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sunil Perera",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICU",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
@@ -3771,6 +3924,84 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "'Fixing The Country Movement' to petition Special Prosecutor over Airbus bribery scandal",
+    "source": "www.graphic.com.gh",
+    "snippet": "Members of the pro-New Patriotic Party (NPP) group, 'Fixing The Country Movement', say they will petition the office of the Special Prosecutor (SP) to revisit the Airbus bribery scandal in order to deal with all individuals cited in the scandal,",
+    "url": "https://www.graphic.com.gh/news/politics/fixing-the-country-movement-to-petition-special-prosecutor-over-airbus-bribery-scandal.html",
+    "url_hash": "98807bfde199d2985d350939a89c8012",
+    "ut": 1630862909,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "NPP",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fixing The Country Movement'",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Special Prosecutor",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Airbus",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Emergency Regulations misleading; will vote against it - says AKD",
+    "source": "www.newsfirst.lk",
+    "snippet": "Opposition Politician Anura Kumara Dissanayake said President's Declaration on Essential Services is misleading, as the necessary - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/05/emergency-regulations-misleading-will-vote-against-it-says-akd/",
+    "url_hash": "91666c7e24a17b3579028ed38acf4ecb",
+    "ut": 1630863643,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Anura Kumara Dissanayake",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Declaration on Essential Services",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
         ]
       }
     ]
