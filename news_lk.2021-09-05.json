@@ -1335,6 +1335,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Sri Lankan individual stabs 7 persons",
+    "source": "www.msn.com",
+    "snippet": "In a shocking incident, a Sri Lankan individual has stabbed seven persons. The attacker belongs to Kattankudy. The Sri Lankan authorities have condemned the knife rampage.",
+    "url": "https://www.msn.com/en-in/video/videohomechannel/sri-lankan-individual-stabs-7-persons/vi-AAO6Vln",
+    "url_hash": "601d42d533f88c13dd2d5695b90f2bfd",
+    "ut": 1630818502,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kattankudy",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "Police clash with opponents of Serbian church in Montenegro",
     "source": "www.fox44news.com",
     "snippet": "Arriving in a military helicopter, the head of the Serbian Orthodox Church in Montenegro was inaugurated in the state's old capital on Sunday amid clashes between",
@@ -2915,6 +2958,41 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Better balanced Proteas give stand-in skipper Keshav Maharaj more options",
+    "source": "www.msn.com",
+    "snippet": "The Proteas may have accidentally stumbled onto the right balance of seven bowling options and batting down to number eight.",
+    "url": "https://www.msn.com/en-za/sport/cricket/better-balanced-proteas-give-stand-in-skipper-keshav-maharaj-more-options/ar-AAO7l5G",
+    "url_hash": "8ecde37ea1e699d1a573e6c0839d1b48",
+    "ut": 1630843702,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Proteas",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "India sends 150 tonnes of medical oxygen aid to Sri Lanka",
     "source": "newsonair.com",
     "snippet": "Continuing its role as the first responder at a time of exigency to the friendly nations, India has delivered about 150 tonnes of medical oxygen to Sri Lanka to help the island nation combat the ongoing COVID-19 pandemic.",
@@ -3924,6 +4002,33 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "As a Sri Lankan New Zealander, I know my adopted country can find compassion amid terror",
+    "source": "www.theguardian.com",
+    "snippet": "Despite revulsion at the Auckland attacker, New Zealanders have the capacity to recognise that we all have a complex identity",
+    "url": "https://www.theguardian.com/commentisfree/2021/sep/06/as-a-sri-lankan-new-zealander-i-know-my-adopted-country-can-find-compassion-amid-terror",
+    "url_hash": "4e86b057d9d3954fc6de33437bca46e2",
+    "ut": 1630861676,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "New Zealanders",
+        "start_end": [
+          7,
+          9
         ]
       }
     ]
