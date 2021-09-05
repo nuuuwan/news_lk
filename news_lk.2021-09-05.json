@@ -4110,5 +4110,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Tax amnesty: The new tax scandal",
+    "source": "www.ft.lk",
+    "snippet": "The gazetted Finance Bill is an unfair piece of legislation that rewards the rich, the corrupt, and the dishonest. It allows those with undeclared mansions in Sri Lanka, stacks of gold, and overflowing US dollar bank accounts to regularise these assets by paying a tiny penalty.",
+    "url": "https://www.ft.lk/columns/Tax-amnesty-The-new-tax-scandal/4-722661",
+    "url_hash": "239258cdddcef38bf4bfbb676d661af1",
+    "ut": 1630865320,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Bill",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "A child's guide to SDRs and SDR allocation",
+    "source": "www.ft.lk",
+    "snippet": "Aseni: Grandpa, what is this SDR allocation? The whole market is confused because the press notice issued by the Central Bank does not clarify it. Some say that it is a loan from IMF, and some say it is not.",
+    "url": "https://www.ft.lk/opinion/A-child-s-guide-to-SDRs-and-SDR-allocation/14-722660",
+    "url_hash": "14ca018e959e6859683c974605e73cde",
+    "ut": 1630865320,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SDR",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
   }
 ]
