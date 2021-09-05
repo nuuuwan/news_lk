@@ -555,6 +555,57 @@
   },
   {
     "date": "2021-09-05",
+    "title": "UPDATE 2-New Zealand tried to deport attacker for years after he arrived as refugee",
+    "source": "www.msn.com",
+    "snippet": "New Zealand had tried for years to deport the knife-wielding militant who wounded seven people at a mall in Auckland last week, the government said after it released more details on the attacker following the lifting of a court suppression order.",
+    "url": "https://www.msn.com/en-za/news/world/update-1-new-zealand-tried-to-deport-attacker-for-years-after-he-arrived-as-refugee/ar-AAO6N80",
+    "url_hash": "38e5dae42f1361c23edc4a5e39045d63",
+    "ut": 1630807726,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "SL receives first batch of 4mn Sinopharm Vaccine",
     "source": "www.dailymirror.lk",
     "snippet": "A cargo containing the first phase of the four million doses of Chinese Sinopharm COVID-19 Vaccine vials arrived at the Colombo airport this morning, the airport duty manager said. ..",
@@ -4641,6 +4692,73 @@
         "start_end": [
           49,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "'Palm Court' to 'Sirikotha': Heading for a 'Diamond Death'?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Palm Court', Albert Crescent, Colombo 7. Col. John Kotalawala, welcomed those present and read the letter conveying the meeting. S. Nadesan, Member State Council for Kankesanthurai proposed, \"This meeting resolves to form a political Party to be called the United National Party,",
+    "url": "https://www.dailymirror.lk/opinion/Palm-Court-to-Sirikotha-Heading-for-a-Diamond-Death/231-219720",
+    "url_hash": "c946eacd7f73bf1bfb6cee991a49bdd3",
+    "ut": 1630872492,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Palm Court'",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Albert Crescent",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Kotalawala",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Nadesan",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Member State Council for Kankesanthurai",
+        "start_end": [
+          29,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Party",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United National Party",
+        "start_end": [
+          48,
+          52
         ]
       }
     ]
