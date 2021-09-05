@@ -3345,6 +3345,84 @@
   },
   {
     "date": "2021-09-04",
+    "title": "145 COVID-19 deaths reported",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 145 more COVID-19 related deaths that occurred yesterday (03) were confirmed by the Director-General of Health Services today pushing the death toll to 9,951. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/145-COVID-19-deaths-reported/108-219697",
+    "url_hash": "2b81f9cd418ee62da2e933a7d7811eb2",
+    "ut": 1630764491,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "145",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "03",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9,951",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
+    "title": "CID begins questioning close contacts of SL born NZ attacker",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Criminal Investigations Department (CID) has commenced questioning close contacts of the Sri Lankan who carried out the attack at a supermarket in Auckland, New Zealand, police said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/CID-begins-questioning-close-contacts-of-SL-born-NZ-attacker/108-219699",
+    "url_hash": "2cdd59573d6fa5bf8af69e39d1fb63a5",
+    "ut": 1630764491,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Criminal Investigations Department",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland, New Zealand",
+        "start_end": [
+          25,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Ahamed Samsudeen: Man who stabbed seven people at New Zealand supermarket is named",
     "source": "news.sky.com",
     "snippet": "The attacker caught police attention in 2016 and a year later was stopped at an airport, apparently heading for Syria.",
