@@ -542,5 +542,115 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "All you need to know about the domestic league structure of India's SAFF rivals",
+    "source": "www.msn.com",
+    "snippet": "SAFF Championship is slated to start from October 1 in Maldives. This will be the 13th edition of the biennial international men's football championship. India will be participating in the SAFF Championship along with Bangladesh,",
+    "url": "https://www.msn.com/en-us/sports/cricket/all-you-need-to-know-about-the-domestic-league-structure-of-indias-saff-rivals/ar-AAO6WcC",
+    "url_hash": "59e2b8733eb4011ef9cae0efd155629b",
+    "ut": 1630813167,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "13th",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Four million doses of Sinopharm reach Sri Lanka",
+    "source": "www.newsfirst.lk",
+    "snippet": "Four million doses of the Chinese Sinopharm vaccine procured by Sri Lanka reached the island early on Sunday (5). State Minister - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/05/four-million-doses-of-sinopharm-reach-sri-lanka/",
+    "url_hash": "0466695926bf82401552370ed35adf76",
+    "ut": 1630813647,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Four million",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
   }
 ]
