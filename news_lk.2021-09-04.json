@@ -5110,6 +5110,57 @@
   },
   {
     "date": "2021-09-04",
+    "title": "New Zealand tried to deport attacker for years after he arrived as refugee",
+    "source": "finance.yahoo.com",
+    "snippet": "New Zealand had tried for years to deport the knife-wielding militant who wounded seven people at a mall in Auckland last week, the government said after it released more details on the attacker following the lifting of a court suppression order.",
+    "url": "https://finance.yahoo.com/news/zealand-tried-deport-extremist-samsudeen-223138252.html",
+    "url_hash": "6d28290f4555629c85eb22027afba5b3",
+    "ut": 1630793405,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-04",
     "title": "Heritage walk: What it takes to feature on the UNESCO World Heritage List",
     "source": "www.msn.com",
     "snippet": "Dholavira in Gujarat and Ramappa Temple in Telangana are the latest Indian sites to be added to the UNESCO World Heritage List, taking the country's count to 40. But what does it really mean to get the prestigious tag?",
