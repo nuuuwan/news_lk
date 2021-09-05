@@ -1658,6 +1658,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "LTTE to remain banned in the UK",
+    "source": "menafn.com",
+    "snippet": "(MENAFN - Colombo Gazette) The Government of Sri Lanka has been made aware that the UK Home Secretary has decided to maintain the proscription of the Liberation Tigers of Tamil Eelam (LTTE ...",
+    "url": "https://menafn.com/1102739365/LTTE-to-remain-banned-in-the-UK",
+    "url_hash": "9ba373d4ed547901dd0524f97c3f80d7",
+    "ut": 1630825706,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK Home",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Liberation Tigers of Tamil Eelam",
+        "start_end": [
+          27,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "Extremist stayed in New Zealand despite immigration fraud",
     "source": "www.msn.com",
     "snippet": "The Islamic State-inspired extremist who attacked shoppers in a New Zealand supermarket had been fighting deportation for immigration fraud, leaving the nation's leader expressing frustration at the process.",
@@ -2048,6 +2091,41 @@
     "title": "Parakrama Samudra jogging track project halted: Irrigation DG",
     "source": "www.dailymirror.lk",
     "snippet": "The Irrigation Department today decided to suspend the project to construct a jogging track on the breakwater of the ancient Parakrama Samudra. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Parakrama-Samudra-jogging-track-project-halted-Irrigation-DG/342-219712",
+    "url_hash": "9eb7896ee609e204a72116c5ecc06ade",
+    "ut": 1630832877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Irrigation Department",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Parakrama Samudra",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Parakrama Samudra jogging track project halted: Irrigation DG",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Irrigation Department today decided to suspend the project to construct a jogging track on the breakwater of the ancient Parakrama Samudra. ..",
     "url": "https://www.dailymirror.lk/breaking_news/Parakrama-Samudra-jogging-track-project-halted-Irrigation-DG/108-219712",
     "url_hash": "70d9004191941612085b477adf0be27a",
     "ut": 1630832914,
@@ -2117,6 +2195,97 @@
         "start_end": [
           37,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Vaccinating 20 to 29 group kicks off in four districts tomorrow: Army Chief",
+    "source": "www.dailymirror.lk",
+    "snippet": "Vaccination rollout for people aged between 20 and 29 is to commence in Colombo, Gampaha, Kalutara and Galle Districts from tomorrow, Head of the National Operation Centre for Prevention of COVID-19 Outbreak (NOCPCO) Army Chief General Shavendra Silva said today.",
+    "url": "https://www.dailymirror.lk/latest_news/Vaccinating-20-to-29-group-kicks-off-in-four-districts-tomorrow-Army-Chief/342-219713",
+    "url_hash": "0e67cb6502499b05973603a9c728c422",
+    "ut": 1630836477,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "between 20 and 29",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kalutara",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Galle Districts",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Operation Centre for Prevention of COVID-19 Outbreak",
+        "start_end": [
+          26,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          44,
+          45
         ]
       }
     ]
@@ -2813,6 +2982,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Delegation of Sri Lankan Armed Forces to visit New Delhi",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Indian government on Sunday said it has initiated a visit by the Sri Lankan Armed Forces to New Delhi aimed at strengthening defence cooperation with specific focus on industrial expertise. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Delegation-of-Sri-Lankan-Armed-Forces-to-visit-New-Delhi/108-219714",
+    "url_hash": "3bc5917dc39cc92250982b39ede43031",
+    "ut": 1630847277,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Armed Forces",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "New Zealand attacker radicalized by neighbors, mother says",
     "source": "apnews.com",
     "snippet": "The mother of an Islamic State-inspired extremist who stabbed shoppers in a New Zealand supermarket said her son was radicalized by neighbors from Syria and Iraq who helped him recover from an injury.",
@@ -2893,6 +3105,65 @@
         "start_end": [
           30,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "New Japanese volunteers arrive in Sri Lanka",
+    "source": "island.lk",
+    "snippet": "Two new Japan Overseas Cooperation Volunteers (JOCV) arrived in Sri Lanka on August 12, marking the 40th anniversary of the JICA Volunteer Program in the country, JICA stated in a press release. This also marks the recommencement of the volunteer program ...",
+    "url": "https://island.lk/new-japanese-volunteers-arrive-in-sri-lanka/",
+    "url_hash": "2c31ac2cea92ce70873f359ff494ae88",
+    "ut": 1630853465,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Japan Overseas Cooperation Volunteers (JOCV",
+        "start_end": [
+          2,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 12",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "40th",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "JICA",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
