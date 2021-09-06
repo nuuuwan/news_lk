@@ -5109,5 +5109,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lanka begins vaccinating 20-29 age category in four districts",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka started administering COVID-19 vaccines to the 20 to 29 years age group in four districts on Monday (06), according to army commander Gen Shavendra Silva. Vaccination commenced in the Colombo,",
+    "url": "https://economynext.com/sri-lanka-begins-vaccinating-20-29-age-category-in-four-districts-85842/",
+    "url_hash": "2fa6d4257ec5e303830a59e48199e3a8",
+    "ut": 1630940939,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 20 to 29 years age",
+        "start_end": [
+          7,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gen Shavendra Silva",
+        "start_end": [
+          27,
+          30
+        ]
+      }
+    ]
   }
 ]
