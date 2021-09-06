@@ -3044,6 +3044,57 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Four million doses of Sinopharm vaccine arrive in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "A consignment of four million doses of the Sinopharm vaccine arrived in Sri Lanka today.   The Chinese Embassy in Colombo",
+    "url": "https://menafn.com/1102743416/Four-million-doses-of-Sinopharm-vaccine-arrive-in-Sri-Lanka&source=138",
+    "url_hash": "b1639ecc25b872321077eb2d55b01d6e",
+    "ut": 1630844105,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "four million",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Chinese Embassy",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "India sends 150 tonnes of medical oxygen aid to Sri Lanka",
     "source": "newsonair.com",
     "snippet": "Continuing its role as the first responder at a time of exigency to the friendly nations, India has delivered about 150 tonnes of medical oxygen to Sri Lanka to help the island nation combat the ongoing COVID-19 pandemic.",
@@ -4164,6 +4215,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Giving Pfizer vaccines to healthy 20-30 year-olds irrational and unscientific: AMS",
+    "source": "www.dailymirror.lk",
+    "snippet": "Administering Pfizer vaccine to healthy 20-30 year-old youth, who can effectively mount an adequate immune response with the Sinopharm vaccine was irrational and unscientific, the Association of Medical Specialists said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Giving-Pfizer-vaccines-to-healthy-20-30-year-olds-irrational-and-unscientific-AMS/108-219719",
+    "url_hash": "3b1256b5c5508632437deb6edcafcf34",
+    "ut": 1630862072,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Administering Pfizer",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "20-30 year-old",
+        "start_end": [
+          5,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Association of Medical Specialists",
+        "start_end": [
+          30,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "'Fixing The Country Movement' to petition Special Prosecutor over Airbus bribery scandal",
     "source": "www.graphic.com.gh",
     "snippet": "Members of the pro-New Patriotic Party (NPP) group, 'Fixing The Country Movement', say they will petition the office of the Special Prosecutor (SP) to revisit the Airbus bribery scandal in order to deal with all individuals cited in the scandal,",
@@ -4692,6 +4786,41 @@
         "start_end": [
           49,
           50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "A child's guide to SDRs and SDR allocation",
+    "source": "www.ft.lk",
+    "snippet": "Aseni: Grandpa, what is this SDR allocation? The whole market is confused because the press notice issued by the Central Bank does not clarify it. Some say that it is a loan from IMF, and some say it is not.",
+    "url": "https://www.ft.lk/w-a-wijewardena-columns/A-child-s-guide-to-SDRs-and-SDR-allocation/885-722660",
+    "url_hash": "b346cfe64f4ea38e37b2cfe853275beb",
+    "ut": 1630865695,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SDR",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]
