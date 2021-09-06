@@ -737,6 +737,57 @@
   },
   {
     "date": "2021-09-06",
+    "title": "Another stock of Pfizer vaccines arrive in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Another stock of Pfizer vaccines arrived in Sri Lanka today, the Health Ministry said.   The Health Ministry said that ap",
+    "url": "https://menafn.com/1102745586/Another-stock-of-Pfizer-vaccines-arrive-in-Sri-Lanka",
+    "url_hash": "e9702fcd0ee51897440c406eb1bdb60e",
+    "ut": 1630894126,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "Sri Lanka's food emergency heightens fears of militarization",
     "source": "asia.nikkei.com",
     "snippet": "Sri Lanka's political opposition, importers and traders are up in arms after President Gotabaya Rajapaksa last week declared a state of emergency, allowing his government to dictate retail prices for essential food items and seize stocks from traders,",
@@ -1610,6 +1661,146 @@
   },
   {
     "date": "2021-09-06",
+    "title": "Airtel's 'Data Rollover' allows customers carry forward unused data to next billing cycle",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following the launch of Airtel Lanka's revolutionary 4G services and Freedom Packs, the telco revealed its Postpaid Promise, an innovative 'Data Rollover' feature for its Freedom postpaid customers. .",
+    "url": "https://www.dailymirror.lk/other/Airtels-Data-Rollover-allows-customers-carry-forward-unused-data-to-next-billing-cycle/117-219757",
+    "url_hash": "02338ad980ba1413a8e81763294d5f84",
+    "ut": 1630901292,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Airtel Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Freedom Packs",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Postpaid Promise",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Data Rollover'",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Mangala and the North",
+    "source": "www.dailymirror.lk",
+    "snippet": "The outpouring of tributes to Mangala Samaraweera, after his untimely passing speak to the respect he commanded both.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Mangala-and-the-North/231-219768",
+    "url_hash": "e519621a7e430c091f57107430fdd43f",
+    "ut": 1630901292,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Quantifying COVID clean-up of air quality in Colombo",
+    "source": "www.dailymirror.lk",
+    "snippet": "Among the many tragic consequences of the COVID-19 pandemic, there have been some positive offshoots as well. One of them is the improvement of Colombo's air quality as a result of restricted movement to prevent the spread of the disease.",
+    "url": "https://www.dailymirror.lk/editorialbusiness/Quantifying-COVID-clean-up-of-air-quality-in-Colombo/340-219759",
+    "url_hash": "b82eb44ad1b841cb5ad5b5ae2ae99099",
+    "ut": 1630901292,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Lenovo launches ThinkPad X1 Fold, first foldable PC in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Lenovo, the global technology leader, announced the launch of the ThinkPad X1 Fold in Sri Lanka. The ThinkPad X1 Fold is the first of its kind in a new personal computing category that will push boundaries and redefine how we engage with technology and eliminate security threats while working and learning from home.",
+    "url": "https://www.dailymirror.lk/other/Lenovo-launches-ThinkPad-X1-Fold-first-foldable-PC-in-Sri-Lanka/117-219755",
+    "url_hash": "4ed71aa9bbc846bc9ec6d6d44b95e68b",
+    "ut": 1630901292,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Lenovo",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the ThinkPad X1 Fold",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "The ThinkPad X1 Fold",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "Vegetable pile at New Peliyagoda Manning market",
     "source": "www.dailymirror.lk",
     "snippet": "Large stocks of vegetables were seen piled up at the New Manning Market in Peliyagoda after it was opened for vendors yesterday. Pix by Pradeep Dilrukshana ..",
@@ -2201,6 +2392,116 @@
         "start_end": [
           13,
           15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Philippines to lift travel ban on Sri Lanka, 8 other countries from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Philippines will lift the travel ban for all inbound travellers from 10 countries, including India and the United Arab Emirates (UAE), from Today (6), the presidential spokesperson said on Saturday.",
+    "url": "https://www.dailymirror.lk/latest_news/Philippines-to-lift-travel-ban-on-Sri-Lanka-8-other-countries-from-today/342-219774",
+    "url_hash": "7fd399c1f548911b1483247cc2e6c0ec",
+    "ut": 1630908492,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Philippines",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United Arab Emirates",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Supplementary estimate of Rs. 73 Bn presented in Parliament",
+    "source": "www.dailymirror.lk",
+    "snippet": "Government today presented to Parliament a supplementary estimate worth Rs 73.2 billion (Rs. 732,124,887,226 ) to be spent for the current COVID 19 pandemic and other expenses. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Supplementary-estimate-of-Rs-73-Bn-presented-in-Parliament/342-219775",
+    "url_hash": "f8a54f083b3fd1d94da2e18085e1bfa3",
+    "ut": 1630908492,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "73.2 billion",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "COVID 19",
+        "start_end": [
+          23,
+          25
         ]
       }
     ]
@@ -3171,6 +3472,57 @@
     "title": "Bathiudeen remanded till Sept.17 over the death of 16-year-old girl",
     "source": "www.dailymirror.lk",
     "snippet": "Former Minister Rishad Bathiudeen who had been named as the fifth suspect over the death of a 16-year-old domestic aide at his residence was today ordered to be remanded till September 17, after being produced before Colombo Chief Magistrate's Court.",
+    "url": "https://www.dailymirror.lk/latest_news/Bathiudeen-remanded-till-Sept-17-over-the-death-of-16-year-old-girl/342-219782",
+    "url_hash": "b70b71f028e4bdf4f013790375b97a85",
+    "ut": 1630915692,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "16-year-old",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 17",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Bathiudeen remanded till Sept.17 over the death of 16-year-old girl",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Minister Rishad Bathiudeen who had been named as the fifth suspect over the death of a 16-year-old domestic aide at his residence was today ordered to be remanded till September 17, after being produced before Colombo Chief Magistrate's Court.",
     "url": "https://www.dailymirror.lk/breaking_news/Bathiudeen-remanded-till-Sept-17-over-the-death-of-16-year-old-girl/108-219782",
     "url_hash": "19eabdda1e955f1085d37849afd1b9fd",
     "ut": 1630915704,
@@ -3259,6 +3611,57 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Adult population cannot be vaccinated 100%, says Health Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "The above 60 years population cannot be vaccinated one hundred percent in the country due to numerous reasons, the Health Ministry said today. Deputy Director-General of Health Services Dr Hemantha Herath told a news briefing that there could be people who ...",
+    "url": "https://www.dailymirror.lk/latest_news/Adult-population-cannot-be-vaccinated-100-says-Health-Ministry/342-219785",
+    "url_hash": "fc4115c20125f7a1b559694ff3ad51e6",
+    "ut": 1630922892,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "60 years",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "one hundred percent",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services Dr Hemantha",
+        "start_end": [
+          31,
+          35
         ]
       }
     ]
@@ -4290,6 +4693,33 @@
   },
   {
     "date": "2021-09-06",
+    "title": "Sri Lankan Parliament approves state of emergency",
+    "source": "kvoa.com",
+    "snippet": "Sri Lanka's Parliament has approved a state of emergency declared by the president, who says it is needed to control food prices and prevent hoarding amid shortages of some staples. Opposition lawmakers say the emergency declaration isn't needed because other laws can be used to maintain essential supplies,",
+    "url": "https://kvoa.com/ap-national-news/2021/09/06/sri-lankan-parliament-approves-state-of-emergency/",
+    "url_hash": "7152f65f46e7dec1c3286716c792c54b",
+    "ut": 1630933716,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "Lending rates respond to policy rate hike as Average Weighted Prime Lending Rate crosses 6%",
     "source": "www.dailymirror.lk",
     "snippet": "AWPLR has risen by 30 bps since the policy rate increase New lending rates also seen rising even prior to the August rate hike However CB confident that current pace of private sector credit growth would remain Market lending rates have began responding to ...",
@@ -4483,6 +4913,199 @@
         "start_end": [
           3,
           4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "President amassed more powers by declaring emergency in the pretext of protecting consumers: NPP",
+    "source": "www.dailymirror.lk",
+    "snippet": "The President has taken over extraordinary powers by declaring emergency regulations in the pretext of protecting consumers, the National People's Power (NPP) said today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/President-amassed-more-powers-by-declaring-emergency-in-the-pretext-of-protecting-consumers-NPP/342-219792",
+    "url_hash": "3c0bcc4925ed6a7741f8aa646f833fc2",
+    "ut": 1630937292,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National People's Power",
+        "start_end": [
+          18,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NPP",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lankan Parliament approves state of emergency",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka's Parliament on Monday approved a state of emergency declared by the president, who said it is needed to control food prices and prevent hoarding amid shortages of some staples.",
+    "url": "https://apnews.com/14227a5f8c6fd9bcd5314429180abf04",
+    "url_hash": "bf8a8dad65513f5d2830c4329eeb4700",
+    "ut": 1630937311,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lankan Parliament approves state of emergency",
+    "source": "globegazette.com",
+    "snippet": "Sri Lanka's Parliament on Monday approved a state of emergency declared by the president, who said it is needed to control food prices and prevent",
+    "url": "https://globegazette.com/news/world/sri-lankan-parliament-approves-state-of-emergency/article_bb259f28-7af9-5390-a5bf-d740425ebd66.html",
+    "url_hash": "b5e35330c62673de5ca4d22960fe1c87",
+    "ut": 1630937326,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lankan Parliament approves state of emergency",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "Opposition lawmakers said the emergency declaration isn't needed because other laws can be used to maintain essential supplies, and the tough emergency rules can be misused to stifle critics. The emergency law enables authorities to detain people without warrants,",
+    "url": "https://www.stamfordadvocate.com/news/article/Sri-Lankan-Parliament-approves-state-of-emergency-16438338.php",
+    "url_hash": "7d989e5747e4085f5d9559ab0321706e",
+    "ut": 1630937331,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-06",
+    "title": "180 more COVID-19 deaths reported: Death toll surges to 10,320",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 180 more COVID-19 related deaths that occurred yesterday (05) were confirmed by the Director-General of Health Services today pushing the death toll to 10,320. ..",
+    "url": "https://www.dailymirror.lk/latest_news/180-more-COVID-19-deaths-reported-Death-toll-surges-to-10-320/342-219793",
+    "url_hash": "92a81f386cce44f0b8fc6865aee74b01",
+    "ut": 1630937592,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "180",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "05",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10,320",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lanka records 180 more COVID deaths",
+    "source": "www.dailynews.lk",
+    "snippet": "COVID-19 within 24-hours, stated the Department of Government Information.",
+    "url": "http://www.dailynews.lk/2021/09/06/local/258598/sri-lanka-records-180-more-covid-deaths",
+    "url_hash": "34d496c061f5f423294f558e2a668f58",
+    "ut": 1630940476,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "24-hours",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Government Information",
+        "start_end": [
+          7,
+          12
         ]
       }
     ]
