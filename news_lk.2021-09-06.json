@@ -76,6 +76,49 @@
   },
   {
     "date": "2021-09-06",
+    "title": "New Zealand to strengthen counter-terrorism laws",
+    "source": "www.msn.com",
+    "snippet": "Ahamed Aathil Mohamed Samsudeen was under police surveillance when he attacked a group of people at an Auckland grocery on Friday.Authorities knew he was a threat, but New Zealand's laws could not keep him in jail.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/new-zealand-to-strengthen-counter-terrorism-laws/ar-AAO86Nx",
+    "url_hash": "e3dc116e090cadbdd0cf821aa4b71c3d",
+    "ut": 1630886934,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Aathil Mohamed Samsudeen",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand's",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "Sri Lankan rupee depreciates against USD, British pound and Indian rupee by more than 10%",
     "source": "island.lk",
     "snippet": "the Weekly Economic Indicators report released by the Statistics Department of the Central Bank of Sri Lanka showed. Referring to the Real Sector, the report said.\" CCPI based headline inflation (Y-o-Y) increased to 6.0 per cent in August 2021 from 5.7 ...",
@@ -524,6 +567,253 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lanka rupee 230 to US dollar, de facto 12-month rate hiked above overnight",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has raised a ceiling yield on 12-month Treasury bills, which serves as a de facto policy rate when real auction bids above the rate are replaced with printed money, by 08 basis to 6.05 percent,",
+    "url": "https://economynext.com/sri-lanka-rupee-230-to-us-dollar-de-facto-12-month-rate-hiked-above-overnight-85813/",
+    "url_hash": "149e3507d5a5dc6c1607c090384e40d0",
+    "ut": 1630898103,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-month",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "08",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "6.05 percent",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Another stock of Pfizer vaccines arrive in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Another stock of Pfizer vaccines arrived in Sri Lanka today, the Health Ministry said. The Health Ministry said that approximately 100,000 doses of the Pfizer vaccine arrived in the country today. At",
+    "url": "https://colombogazette.com/2021/09/06/another-stock-of-pfizer-vaccines-arrive-in-sri-lanka/",
+    "url_hash": "5beace0b72006ab31c587ac1c64ad9b5",
+    "ut": 1630898228,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "approximately 100,000",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Indian Head Coach",
+    "source": "www.dailynews.lk",
+    "snippet": "Indian cricket team head coach Ravi Shastri has returned a positive COVID-19 lateral flow test, and will be kept under isolation along with three other members of the coaching staff. The",
+    "url": "https://www.dailynews.lk/tags/indian-head-coach",
+    "url_hash": "9d6c2a18ad9448b60daff5838d4faab5",
+    "ut": 1630898320,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ravi Shastri",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Ravi Shastri",
+    "source": "www.dailynews.lk",
+    "snippet": "Indian cricket team head coach Ravi Shastri has returned a positive COVID-19 lateral flow test, and will be kept under isolation along with three other members of the coaching staff. The",
+    "url": "https://www.dailynews.lk/tags/ravi-shastri",
+    "url_hash": "ed615f9817c313717970cb25e80b228e",
+    "ut": 1630899940,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ravi Shastri",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Lenovo launches ThinkPad X1 Fold, first foldable PC in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Lenovo, the global technology leader, announced the launch of the ThinkPad X1 Fold in Sri Lanka. The ThinkPad X1 Fold is the first of its kind in a new personal computing category that will push boundaries and redefine how we engage with technology and eliminate security threats while working and learning from home.",
+    "url": "https://www.dailymirror.lk/other/Lenovo-launches-ThinkPad-X1-Fold--first-foldable-PC-in-Sri-Lanka/117-219755",
+    "url_hash": "5beefe1e417204a0692fc4f0271668b1",
+    "ut": 1630900175,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Lenovo",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the ThinkPad X1 Fold",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "The ThinkPad X1 Fold",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          25,
+          26
         ]
       }
     ]

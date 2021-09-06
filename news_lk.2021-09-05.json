@@ -4597,6 +4597,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "New Zealand attacker radicalized by neighbors, mother says",
+    "source": "www.newstimes.com",
+    "snippet": "The mother of an Islamic State-inspired extremist who stabbed shoppers in a New Zealand supermarket said her son was radicalized by neighbors from Syria and Iraq who helped him recover from an injury.",
+    "url": "https://www.newstimes.com/news/article/New-Zealand-attacker-radicalized-by-neighbors-16436973.php",
+    "url_hash": "89faab96a065727cbf93e7284fc2f36d",
+    "ut": 1630865324,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iraq",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "Navy intercepts foreign fishing vessel carrying heroin worth over Rs. 3.1 b",
     "source": "www.ft.lk",
     "snippet": "Sri Lanka Navy has seized a foreign fishing vessel carrying over 336 kg of heroin along with seven crew members in the international waters south of Sri Lanka. On intelligence information received by the Sri Lanka Police, Sri Lanka Navy Intelligence and ...",
@@ -4749,6 +4792,57 @@
         "start_end": [
           63,
           64
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Sri Lanka's Wire Communication Consultancy Group expands globally",
+    "source": "www.ft.lk",
+    "snippet": "Ventures into Maldives, Australia and New Zealand Wire Communication Consultancy (WCC) Group announced its accelerated growth momentum with the expansion of its strategic public relations, communications and corporate reputation management services to Maldives,",
+    "url": "https://www.ft.lk/front-page/Sri-Lanka-s-Wire-Communication-Consultancy-Group-expands-globally/44-722671",
+    "url_hash": "441905430a8cfc942a5ffe3dd8c5dcc6",
+    "ut": 1630865338,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Zealand Wire Communication Consultancy",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WCC) Group",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
