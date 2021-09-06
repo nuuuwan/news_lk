@@ -1671,6 +1671,49 @@
   },
   {
     "date": "2021-09-05",
+    "title": "India sends another 150 tonnes of oxygen to Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "India has sent about 150 tonnes more oxygen to Sri Lanka to help the island nation combat the third wave of the Covid-19 pandemic",
+    "url": "http://www.adaderana.lk/news.php?nid=76683",
+    "url_hash": "cc4cbceafcfc981c3aa679b09ed5a73a",
+    "ut": 1630822122,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 150 tonnes",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "From Gasping for Breath to Now Helping Neighbours in Peril: Taking a Look at India's Oxygen Diplomacy",
     "source": "www.msn.com",
     "snippet": "From medical oxygen to oxygen concentrators, medical supplies and vaccines- India has been at the forefront in providing these medical supplies to countries struggling with Coronavirus.",
@@ -2788,6 +2831,33 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "How Sri Lanka's overnight flip to total organic farming has led to an economic disaster",
+    "source": "www.msn.com",
+    "snippet": "President Gotabaya Rajapaksa was forced to impose an economic emergency on 31 August to contain soaring food inflation, and currency devaluation and forex reserves crisis.",
+    "url": "http://www.msn.com/en-in/news/world/how-sri-lanka-s-overnight-flip-to-total-organic-farming-has-led-to-an-economic-disaster/ar-AAO7uki",
+    "url_hash": "289a08d10c0003e2c6191cb48ea65d3f",
+    "ut": 1630840122,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "31 August",
+        "start_end": [
+          11,
+          13
         ]
       }
     ]
