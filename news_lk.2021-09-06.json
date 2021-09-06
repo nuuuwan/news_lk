@@ -2494,6 +2494,65 @@
   },
   {
     "date": "2021-09-06",
+    "title": "Inoculation of those above 20 begins",
+    "source": "www.dailymirror.lk",
+    "snippet": "The inoculation of those over 20 years of age commenced today in the Western Province. People are seen getting vaccine at the Bodhiraja Viharaya, Panagoda. Pix by Nisal Baduge ..",
+    "url": "https://www.dailymirror.lk/caption_story/Inoculation-of-those-above-20-begins/110-219778",
+    "url_hash": "b172bbc94d737bdcdfec71ca3cf5712b",
+    "ut": 1630912074,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "those over 20 years of age",
+        "start_end": [
+          3,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Bodhiraja Viharaya",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Panagoda",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nisal Baduge",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "President, PM condole Sunil Perera's demise",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa and Prime Minister Mahinda Rajapaksa have offered condolences on the demise of Sri Lankan music legend Sunil Perera. ..",
@@ -3033,6 +3092,210 @@
         "start_end": [
           34,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Permissions granted for decorating trishaws: State Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Permission has been granted today by the government to allow certain appliances could be fitted to trishaws such as decorations etc., Transport State Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Permissions-granted-for-decorating-trishaws-State-Minister/342-219784",
+    "url_hash": "55471386cf23b463f6a7b6f5142eaee8",
+    "ut": 1630922874,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lanka could run out of ink due to money printing: legislator",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka is in danger of running out of ink at the rate money is being printed opposition legislator Mujiber Rahuman said as emergency laws were invoked to seize food stocks as foreign exchange shortages and price controls created shortages.",
+    "url": "https://economynext.com/sri-lanka-could-run-out-of-ink-due-to-money-printing-legislator-85838/",
+    "url_hash": "dec58cae93960bc3cd256c4f967d1744",
+    "ut": 1630922904,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mujiber Rahuman",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lanka economic emergency: What caused the crisis - explained",
+    "source": "www.indiatvnews.com",
+    "snippet": "According to Central Bank of Sri Lanka, country's foreign reserves fell to USD 2.8 billion at the end of July, from USD 7.5 billion in November 2019 when the government took office and the rupee has lost more than 20 per cent of its value against the US dollar in that time.",
+    "url": "https://www.indiatvnews.com/business/news-sri-lanka-economic-emergency-what-caused-the-crisis-explained-president-gotabaya-rajapaksa-732053",
+    "url_hash": "337a9930db112f402d33b101ee892490",
+    "ut": 1630923005,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Central Bank of Sri Lanka",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 2.8 billion",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of July",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 7.5 billion",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November 2019",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 20",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "SriLankan Airlines launches flights to Paris",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "SriLankan Airlines, the National Carrier of Sri Lanka, and a member of the oneworld alliance unveils flights to the French capital, Paris. SriLankan\u201b s new service will operate scheduled flights between Colombo\u201bs Bandaranaike International Airport (BIA) and France\u201bs Paris Charles de Gaulle Airport (CDG) from 1st November 2021.",
+    "url": "http://bizenglish.adaderana.lk/srilankan-airlines-launches-flights-to-paris/",
+    "url_hash": "31ef128b1caf4fa3d8de2bfef68adc92",
+    "ut": 1630926069,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Carrier of Sri Lanka",
+        "start_end": [
+          3,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "French",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Paris",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Bandaranaike International Airport",
+        "start_end": [
+          36,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Charles de Gaulle Airport",
+        "start_end": [
+          45,
+          49
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CDG",
+        "start_end": [
+          50,
+          51
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1st",
+        "start_end": [
+          53,
+          54
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November 2021",
+        "start_end": [
+          54,
+          56
         ]
       }
     ]
