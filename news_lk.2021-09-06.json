@@ -2575,6 +2575,49 @@
   },
   {
     "date": "2021-09-06",
+    "title": "4 million doses of Sinopharm vaccines arrive in SL",
+    "source": "www.sify.com",
+    "snippet": "Four million doses of the Sinopharm Covid-19 vaccines from China have arrived in Sri Lanka, as the island nation is in the midst of a large scale inoculation program against the virus.",
+    "url": "https://www.sify.com/movies/4-million-doses-of-sinopharm-vaccines-arrive-in-sl-news-bollywood-vjgfPtgbiibfi.html",
+    "url_hash": "3ca938d78d0c210a212941dec3e89239",
+    "ut": 1630908507,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Four million",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "Supplementary estimate of Rs. 73 Bn presented in Parliament",
     "source": "www.dailymirror.lk",
     "snippet": "Government today presented to Parliament a supplementary estimate worth Rs 73.2 billion (Rs. 732,124,887,226 ) to be spent for the current COVID 19 pandemic and other expenses. ..",
@@ -3571,6 +3614,65 @@
   },
   {
     "date": "2021-09-06",
+    "title": "Team SRL with mandarin Ried creates history at Daytona 24 hr",
+    "source": "www.dailymirror.lk",
+    "snippet": "In an enthralling final to the world championship of the 2020/21 I-Racing season that ended at Daytona on the 5th of, Mandarin Reid eSport sponsored Sri Lankan team SRL made history with a top ten placement beating much fancied opponents.",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Team-SRL-with-mandarin-Ried-creates-history-at-Daytona-24-hr/324-219780",
+    "url_hash": "0b340d457590a6367aa7cb191dd78387",
+    "ut": 1630915707,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Daytona",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "5th",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mandarin Reid eSport",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SRL",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "9th White Page Leadership Conclave 2021",
     "source": "www.malaysiasun.com",
     "snippet": "The list of 100 Admired Brandsamp;Inspirational Leaders which features the epic journey of prominent brands and leaders across industries is out in the market an",
@@ -3984,6 +4086,41 @@
         "start_end": [
           52,
           54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "State of emergency declared not to militarize country: Aluthgamage",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that the state of emergency was declared not militarize the country as claimed by some factions, Agricultural Minister Mahindananda Aluthgamage said today it was solely done for the provision of essential goods at a concessionary price.",
+    "url": "https://www.dailymirror.lk/breaking_news/State-of-emergency-declared-not-to-militarize-country-Aluthgamage/108-219789",
+    "url_hash": "c6261c9137ab4de50af9d3a13acfa538",
+    "ut": 1630926497,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Agricultural",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahindananda Aluthgamage",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          23,
+          24
         ]
       }
     ]
@@ -5019,6 +5156,41 @@
     "url": "https://apnews.com/14227a5f8c6fd9bcd5314429180abf04",
     "url_hash": "bf8a8dad65513f5d2830c4329eeb4700",
     "ut": 1630937311,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lankan Parliament approves state of emergency",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka's Parliament on Monday approved a state of emergency declared by the president, who said it is needed to control food prices and prevent hoarding amid shortages of some staples.",
+    "url": "https://apnews.com/article/sri-lanka-14227a5f8c6fd9bcd5314429180abf04",
+    "url_hash": "b2972b4ac2a78ea13cbbb312f97b2186",
+    "ut": 1630937317,
     "ent_info_list": [
       {
         "label": "GPE",
