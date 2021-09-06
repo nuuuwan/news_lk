@@ -4379,6 +4379,81 @@
   },
   {
     "date": "2021-09-05",
+    "title": "Sri Lanka and IFAD partner to reduce poverty and food insecurity",
+    "source": "www.ft.lk",
+    "snippet": "COLUMBIA, Missouri: Sri Lanka and the International Fund for Agricultural Development (IFAD) are working together to promote the island's agriculture-based economy. IFAD, developed in the 1970s, has worked with Sri Lanka on more than 16 projects to ...",
+    "url": "https://www.ft.lk/business/Sri-Lanka-and-IFAD-partner-to-reduce-poverty-and-food-insecurity/34-722686",
+    "url_hash": "a2080eb34ed7fc149f60212b16c5ef38",
+    "ut": 1630865286,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "COLUMBIA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Missouri",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Fund for Agricultural Development",
+        "start_end": [
+          7,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "IFAD",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 1970s",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 16",
+        "start_end": [
+          42,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "Sri Lanka's Wire Communication Consultancy Group expands globally",
     "source": "www.ft.lk",
     "snippet": "We have identified the importance of the role the communications industry plays as a sizeable export revenue earner for Sri Lanka and we will continue to envision and most importantly action on all available opportunities whilst trust our core purpose ...",
@@ -5090,6 +5165,49 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "As China tightens grip, Sri Lanka looks to boost India defence ties",
+    "source": "www.msn.com",
+    "snippet": "Amid concerns over growing Chinese footprints in Sri Lanka, the island nation is looking to boost defence and security ties with India with an integrated country strategy paper drafted under new high commissioner Milinda Moragoda,",
+    "url": "https://www.msn.com/en-in/news/world/as-china-tightens-grip-sri-lanka-looks-to-boost-india-defence-ties/ar-AAO828H",
+    "url_hash": "1c49b8961b3e9a676f729adc1fa13026",
+    "ut": 1630868886,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Milinda Moragoda",
+        "start_end": [
+          34,
+          36
         ]
       }
     ]
