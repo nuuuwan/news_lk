@@ -76,6 +76,124 @@
   },
   {
     "date": "2021-09-06",
+    "title": "Domestic flights begin in Afghanistan",
+    "source": "www.msn.com",
+    "snippet": "Kabul's airport reopened with domestic flights taking off Saturday after a team of engineers from Qatar repaired parts of the airport's air traffic control system last week, according to Muhammad Salim Saad,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/domestic-flights-begin-in-afghanistan/ar-AAO8bZx",
+    "url_hash": "442f312a7a98cd8d33b4175c3c7105b6",
+    "ut": 1630886927,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Kabul",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Qatar",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Muhammad Salim Saad",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Marriott warns of 'fight for talent' as hotels struggle to find staff",
+    "source": "www.msn.com",
+    "snippet": "Marriott's CEO warns that the company is in a \"fight for talent\" as it seeks to hire 10,000 staff at hotels in the United States to accommodate the rapid recovery of bookings.Tony Capuano took over after his predecessor's death in February Arne Sorenson.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/marriott-warns-of-fight-for-talent-as-hotels-struggle-to-find-staff/ar-AAO8bZF",
+    "url_hash": "f9698f0307563751809d6f1ce3e84429",
+    "ut": 1630886931,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Marriott",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10,000",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "hotels",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tony Capuano",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Arne Sorenson",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "Australia shifting to 'Living with Covid'",
     "source": "www.msn.com",
     "snippet": "Last year, Australia was among the first countries to successfully battle the Covid-19 pandemic with lockdowns and efficient contact tracing, but, with the rapid transmission of the Delta variant, especially in Sydney and Melbourne,",
@@ -1822,6 +1940,49 @@
   },
   {
     "date": "2021-09-06",
+    "title": "Supplementary estimate of Rs. 73 Bn presented in Parliament",
+    "source": "www.dailymirror.lk",
+    "snippet": "Government today presented to Parliament a supplementary estimate worth Rs 73.2 billion (Rs. 732,124,887,226 ) to be spent for the current COVID 19 pandemic and other expenses. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Supplementary-estimate-of-Rs-73-Bn-presented-in-Parliament/108-219775",
+    "url_hash": "05a066e4ca298914281c219efaca2961",
+    "ut": 1630908509,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "73.2 billion",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "COVID 19",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "VMware appoints new country manager for Sri Lanka and Maldives",
     "source": "island.lk",
     "snippet": "VMware, Inc. (NYSE: VMW), a leading innovator in enterprise software, yesterday announced the appointment of Yusuf Shiraz as the new country manager for Sri Lanka and Maldives. Armed with almost two decades of experience in the IT industry,",
@@ -2114,6 +2275,328 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lanka main rice millers profiting Rs50bn in a season says minister, amid import substitution",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's main rice millers are making 50 billion rupees in profits in a single season Agriculture Minister Mahindananda Aluthgamage said as import controls prevented imports coming into the country allowing billion to be made in many 'import substitution' sectors.",
+    "url": "https://economynext.com/sri-lanka-main-rice-millers-profiting-rs50bn-in-a-season-says-minister-amid-import-substitution-85832/",
+    "url_hash": "93125904828cc453146f2cf32e794880",
+    "ut": 1630912136,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "50 billion",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a single season",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Agriculture",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahindananda Aluthgamage",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "My probable playing 11 for the 3rd ODI And why along with statistics of players",
+    "source": "www.islandcricket.lk",
+    "snippet": "It is definite that Avishka will open, He has been in good form in the recently completed India series, and has smased a century in the 1st ODI, So if",
+    "url": "https://www.islandcricket.lk/blogs/my-probable-playing-11-for-the-3rd-odi-and-why-along-with-statistics-of-players/",
+    "url_hash": "d31a2e7862ab7762acc16b72219908d2",
+    "ut": 1630912418,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Avishka",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a century",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lanka's Wire Communication Consultancy Group expands globally",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Ventures in to Maldives, Australia and New Zealand Wire Communication Consultancy (WCC) Group announced its accelerated growth momentum with the expansion of its Strategic Public Relations, Communications and Corporate Reputation Management services to Maldives,",
+    "url": "http://bizenglish.adaderana.lk/sri-lankas-wire-communication-consultancy-group-expands-globally/",
+    "url_hash": "4c6de46d2767659ebf1fdc69e3e73a6b",
+    "ut": 1630912902,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Zealand Wire Communication Consultancy",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WCC) Group",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Strategic Public Relations, Communications",
+        "start_end": [
+          26,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Corporate Reputation Management",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "100,000 doses of Pfizer vaccines arrive from Netherlands",
+    "source": "www.newsfirst.lk",
+    "snippet": "Another 100,000 doses of the Pfizer vaccine were brought to the island via a Qatar Airways flight this morning (06). The consignment - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/06/100000-doses-of-pfizer-vaccines-arrive-from-netherlands/",
+    "url_hash": "3c5a521f0cd26b745730fddeb9550af1",
+    "ut": 1630914218,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Qatar Airways",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "As China tightens grip, Sri Lanka looks to boost India defence ties",
+    "source": "www.msn.com",
+    "snippet": "Amid concerns over growing Chinese footprints in Sri Lanka, the island nation is looking to boost defence and security ties with India with an integrated country strategy paper drafted under new high commissioner Milinda Moragoda,",
+    "url": "https://www.msn.com/en-in/news/other/as-china-tightens-grip-sri-lanka-looks-to-boost-india-defence-ties/ar-AAO7LVh",
+    "url_hash": "5ccf1827e58c61e9e658e185a755671b",
+    "ut": 1630914338,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Milinda Moragoda",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Lankan Refugees in India Want Citizenship",
+    "source": "www.thecitizen.in",
+    "snippet": "Indian citizenship is given very sparingly. And after the end of the war in Sri Lanka, the island's Tamils are not thought to be discriminated against or persecuted unlike the Hindus of Pakistan, Bangladesh, Afghanistan. India has always had a policy of ...",
+    "url": "https://www.thecitizen.in/index.php/en/NewsDetail/index/6/20862/Lankan-Refugees-in-India-Want-Citizenship",
+    "url_hash": "f4c07dced531c182656acb67eb94c12e",
+    "ut": 1630914998,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindus",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
