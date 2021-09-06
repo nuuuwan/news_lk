@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lankan rupee depreciates against USD, British pound and Indian rupee by more than 10%",
+    "source": "island.lk",
+    "snippet": "the Weekly Economic Indicators report released by the Statistics Department of the Central Bank of Sri Lanka showed. Referring to the Real Sector, the report said.\" CCPI based headline inflation (Y-o-Y) increased to 6.0 per cent in August 2021 from 5.7 ...",
+    "url": "https://island.lk/sri-lankan-rupee-depreciates-against-usd-british-pound-and-indian-rupee-by-more-than-10/",
+    "url_hash": "04ae42f4b0ee0e03bbda9bb501a65bee",
+    "ut": 1630888221,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Weekly Economic Indicators",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Statistics Department",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          11,
+          17
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "6.0 per cent",
+        "start_end": [
+          43,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 2021",
+        "start_end": [
+          47,
+          49
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5.7",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lanka prints Rs40bn after failed Treasury bill auction",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has printed 39.97 billion rupees after a failed Treasury bill 'auction' operated under price controls, taking the central bank's Treasury bill stock to 1,261 billion rupees on September 03 from 1,",
+    "url": "https://economynext.com/sri-lanka-prints-rs40bn-after-failed-treasury-bill-auction-85801/",
+    "url_hash": "837aac0f487a212da971584cb975ef4f",
+    "ut": 1630888241,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "39.97 billion",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,261 billion",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 03",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  }
+]
