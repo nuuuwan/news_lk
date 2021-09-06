@@ -2338,6 +2338,65 @@
   },
   {
     "date": "2021-09-05",
+    "title": "New Zealand supermarket attacker was fighting deportation for immigration fraud",
+    "source": "www.oxfordmail.co.uk",
+    "snippet": "The Islamic State-inspired extremist who was shot dead by police after stabbing seven people in a New Zealand supermarket had been fighting deportation for immigration fraud, officials have said. New details about the attack by Ahamed Samsudeen in Auckland on Friday emerged as the condition of some of those injured in the incident improved.",
+    "url": "https://www.oxfordmail.co.uk/news/national/19559745.new-zealand-supermarket-attacker-fighting-deportation-immigration-fraud/",
+    "url_hash": "204fc5ec3b84a341d7a93f945c9d697d",
+    "ut": 1630832905,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ahamed Samsudeen",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
     "title": "Parakrama Samudra jogging track project halted: Irrigation DG",
     "source": "www.dailymirror.lk",
     "snippet": "The Irrigation Department today decided to suspend the project to construct a jogging track on the breakwater of the ancient Parakrama Samudra. ..",
@@ -5474,6 +5533,41 @@
         "start_end": [
           49,
           51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-05",
+    "title": "Can UN live up to its founding principles? - EDITORIAL",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a week's time, the United Nations General Assembly will be holding its 76th sessions. The organization was set upon.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Can-UN-live-up-to-its-founding-principles-EDITORIAL/172-219721",
+    "url_hash": "d027ea67700a39e3c2241b2e95868a23",
+    "ut": 1630876087,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "week",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "76th",
+        "start_end": [
+          15,
+          16
         ]
       }
     ]
