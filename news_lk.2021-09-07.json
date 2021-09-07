@@ -850,6 +850,41 @@
     "title": "Cabraal to step down as MP to take over Central Bank",
     "source": "www.dailymirror.lk",
     "snippet": "State Minister of Money and Capital Markets, and State Enterprise Reforms, Ajith Nivard Cabraal is to step down from his portfolio and resign as a member of parliament to be sworn in as the Governor of the Central Bank.",
+    "url": "https://www.dailymirror.lk/top_story/Cabraal-to-step-down-as-MP-to-take-over-Central-Bank/155-219866",
+    "url_hash": "3fec28451bd8741134e6466401938d0f",
+    "ut": 1630987689,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Money and Capital Markets",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Cabraal to step down as MP to take over Central Bank",
+    "source": "www.dailymirror.lk",
+    "snippet": "State Minister of Money and Capital Markets, and State Enterprise Reforms, Ajith Nivard Cabraal is to step down from his portfolio and resign as a member of parliament to be sworn in as the Governor of the Central Bank.",
     "url": "https://www.dailymirror.lk/breaking_news/Cabraal-to-step-down-as-MP-to-take-over-Central-Bank/108-219866",
     "url_hash": "a3d0fdd66d3750180e51217d700f209b",
     "ut": 1630987693,
@@ -1092,6 +1127,33 @@
   },
   {
     "date": "2021-09-07",
+    "title": "Live Updates: Biden to Visit N.Y. and N.J. After Ida",
+    "source": "www.nytimes.com",
+    "snippet": "The president's trip is expected to include a stop in Queens, where several people were killed in basement apartments that were flooded by the remnants of Hurricane Ida.",
+    "url": "https://www.nytimes.com/live/2021/09/07/us/climate-change",
+    "url_hash": "efe1a6c9df383dc863fae221395d9847",
+    "ut": 1630991300,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Queens",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Hurricane Ida",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
     "title": "Sri-Lanka initiates tourism promotion with Russia, Ukraine",
     "source": "english.newstracklive.com",
     "snippet": "Sri LankanTourism Minister Prasanna Ranatunga told reporters on Monday that Russia and Ukraine were among the top ten nations with the largest number ..|News Track",
@@ -1256,6 +1318,49 @@
   },
   {
     "date": "2021-09-07",
+    "title": "Five foreign women among 8 arrested at brothel in Dehiwala",
+    "source": "www.dailymirror.lk",
+    "snippet": "Seven females including five foreign women have been arrested when the police raided a brothel at Hill Street in Dehiwala last night. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Five-foreign-women-among-8-arrested-at-brothel-in-Dehiwala/108-219867",
+    "url_hash": "f61acaab37bc7ff18ef077ed32db2fa8",
+    "ut": 1630994889,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Seven",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Hill Street",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dehiwala",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
     "title": "Sri Lanka to award 106mn rupees in prize money to Paralympics winners",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sri Lanka's cabinet of ministers have approved prize money totalling 106 million rupees to be awarded to the athletes who excelled at the Tokyo 2020 Paralympics and to their coaches. According to the Ministry of Youth Affairs and Sports,",
@@ -1320,6 +1425,65 @@
         "start_end": [
           18,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Minor earth tremor felt at Lunugamwehera: SDTAC",
+    "source": "www.dailymirror.lk",
+    "snippet": "A minor earth tremor was reported this morning in the Lunugamwehera area in the Southern Province, a senior official of the Seismic Data and Tsunami Alert Centre (SDTAC) said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Minor-earth-tremor-felt-at-Lunugamwehera-SDTAC/108-219871",
+    "url_hash": "646092842264e284129ffd7fb5fe603a",
+    "ut": 1630998489,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lunugamwehera",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Southern Province",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Seismic Data",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tsunami Alert Centre",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SDTAC",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
@@ -1425,6 +1589,111 @@
         "start_end": [
           12,
           14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Introduce special plan of action to provide Colombo dist. youth with Pfizer vaccine: Govt. MP",
+    "source": "www.dailymirror.lk",
+    "snippet": "A special programme should be introduced to provide Pfizer vaccine to the youth between the age group of 20 to 30 in the Colombo District as there was a large number of youth who were aspiring to migrate for higher studies and employment in Colombo ...",
+    "url": "https://www.dailymirror.lk/latest_news/Introduce-special-plan-of-action-to-provide-Colombo-dist-youth-with-Pfizer-vaccine-Govt-MP/342-219874",
+    "url_hash": "644a0e506a8d8d353d502ee65b52e79a",
+    "ut": 1631002089,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20 to 30",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Colombo District",
+        "start_end": [
+          22,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Big Onion",
+    "source": "dailynews.lk",
+    "snippet": "The government has decided to impose an import tax on big onions from today, in order to protect local farmers, said the Minister of Agriculture Mahindananda Aluthgamage. According to the",
+    "url": "https://dailynews.lk/tags/big-onion",
+    "url_hash": "419193b94948698cf17db8e5224cdc07",
+    "ut": 1631002634,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Lunugamvehera Area",
+    "source": "www.dailynews.lk",
+    "snippet": "A minor tremor was reported in Lunugamvehera Area this morning at around 10:38am. The Geological Survey and Mines Bureau (GS&MB) said the tremor measured 2.4 on the Richter scale and",
+    "url": "https://www.dailynews.lk/tags/lunugamvehera-area",
+    "url_hash": "c043722e90c78de1e71b65de3f2d4609",
+    "ut": 1631005094,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Lunugamvehera Area",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Geological",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2.4",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]

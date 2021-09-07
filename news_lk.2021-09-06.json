@@ -4087,6 +4087,105 @@
   },
   {
     "date": "2021-09-06",
+    "title": "New Zealand to ease COVID-19 restrictions",
+    "source": "www.hirunews.lk",
+    "snippet": "All of New Zealand outside of Auckland will move to level 2 at midnight on Tuesday while Auckland will stay at level 4 until at least next Tuesday, Prime Minister Jacinda Ardern has said. She also introduced face coverings and two metre physical distancing to level 2 restrictions for people inside facilities like hospitality and event venues.",
+    "url": "https://www.hirunews.lk/goldfmnews/281514/new-zealand-to-ease-covid-19-restrictions",
+    "url_hash": "0dc68bdddf4bf99092b4435cd233942c",
+    "ut": 1630919300,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Auckland",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "at least next Tuesday",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jacinda Ardern",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "two metre",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "Permissions granted for decorating trishaws: State Minister",
     "source": "www.dailymirror.lk",
     "snippet": "Permission has been granted today by the government to allow certain appliances could be fitted to trishaws such as decorations etc., Transport State Minister Dilum Amunugama said. ..",
@@ -7134,6 +7233,33 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "HNB strengthens commitment to microfinance sector, eyes growth of agri portfolio",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's leading private sector bank, HNB PLC, further strengthened its commitment to the microfinance sector, with a series of enhancements to its offerings, with a key focus on the agricultural sector recognizing its vast-untapped potential as a driver of growth in the country.",
+    "url": "https://www.dailymirror.lk/financial-news/HNB-strengthens-commitment-to-microfinance-sector-eyes-growth-of-agri-portfolio/265-219848",
+    "url_hash": "c2a4e098181e5bacaf3f801a74b13f2c",
+    "ut": 1630955289,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HNB PLC",
+        "start_end": [
+          8,
+          10
         ]
       }
     ]
