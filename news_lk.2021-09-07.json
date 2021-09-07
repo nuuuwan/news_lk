@@ -1,6 +1,65 @@
 [
   {
     "date": "2021-09-07",
+    "title": "Sri Lanka to launch massive tourism campaign in Russia and Ukraine",
+    "source": "www.msn.com",
+    "snippet": "The Sri Lankan Government will launch a massive tourism campaign in Russia and Ukraine in order to attract more tourists to visit the island nation. Several programmes as part of the tourism promotional campaign will be conducted in Russia and Ukraine under the patronage of Tourism Minister Prasanna Ranatunga,",
+    "url": "http://www.msn.com/en-xl/asia/srilanka/sri-lanka-to-launch-massive-tourism-campaign-in-russia-and-ukraine/ar-AAOagDc",
+    "url_hash": "4d7357f47d1192053c0d5fdc66aaf0e1",
+    "ut": 1630973285,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lankan Government",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
     "title": "Sri Lanka should stop printing money, get IMF help; price controls a useless drama: legislator",
     "source": "economynext.com",
     "snippet": "Sri Lanka should stop money printing and go to the International Monetary Fund to fix monetary policy instead of invoking emergency laws to control food prices, which will create black markets, opposition legislator Rauff Hakeem said.",
@@ -133,6 +192,33 @@
     "title": "SL's anti vaxxers cause alarm for medical workers",
     "source": "www.dailymirror.lk",
     "snippet": "People urged not to have any preference to one specific vaccine and to take what is available People, especially those above 60 years who face genuine reasons for not being vaccinated yet, urged to contact medical experts .",
+    "url": "https://www.dailymirror.lk/latest_news/SLs-anti-vaxxers-cause-alarm-for-medical-workers/342-219863",
+    "url_hash": "d04fb5bf8885f24ce363936cebb07c5c",
+    "ut": 1630976875,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "SL's anti vaxxers cause alarm for medical workers",
+    "source": "www.dailymirror.lk",
+    "snippet": "People urged not to have any preference to one specific vaccine and to take what is available People, especially those above 60 years who face genuine reasons for not being vaccinated yet, urged to contact medical experts .",
     "url": "https://www.dailymirror.lk/breaking_news/SLs-anti-vaxxers-cause-alarm-for-medical-workers/108-219863",
     "url_hash": "faa3daef388ea94789efe87001e36296",
     "ut": 1630976890,
@@ -210,6 +296,25 @@
         "start_end": [
           40,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Experts urge those who recover from COVID to avoid strenuous work for a few weeks",
+    "source": "www.dailymirror.lk",
+    "snippet": "Patients who have recovered from COVID-19 have been advised not to over-exert and do strenuous exercises They just need to be careful for a few weeks before they can return back to their normal lives,",
+    "url": "https://www.dailymirror.lk/latest_news/Experts-urge-those-who-recover-from-COVID-to-avoid-strenuous-work-for-a-few-weeks/342-219862",
+    "url_hash": "f5342d1b7984f9c1a4367128ba356160",
+    "ut": 1630980475,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "a few weeks",
+        "start_end": [
+          25,
+          28
         ]
       }
     ]
@@ -428,6 +533,57 @@
   },
   {
     "date": "2021-09-07",
+    "title": "Customs approve Rs. 46.43Bn exports, netted Rs.9.34bn revenue during quarantine curfew: Spokesman",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Customs has approved exports valued at Rs.46.43 billion and collected import taxes amounting to Rs. 9.34 billion during the quarantine curfew period, Customs Media Spokesman and Deputy Director Sudattha Silva said.",
+    "url": "https://www.dailymirror.lk/latest_news/Customs-approve-Rs-46-43Bn-exports-netted-Rs-9-34bn-revenue-during-quarantine-curfew-Spokesman/342-219864",
+    "url_hash": "94fde2608ed48c7944ef554219d14749",
+    "ut": 1630984075,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Customs",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "Rs.46.43 billion",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9.34 billion",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Customs Media Spokesman",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sudattha Silva",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
     "title": "COVID vaccine clinics operated by Army, Health Ministry today",
     "source": "www.adaderana.lk",
     "snippet": "COVID vaccination programmes conducted by the Ministry of Health and the Sri Lanka Army are continuing in many parts of the island today ( 07)",
@@ -524,6 +680,119 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Sri Lanka on slippery slope of Enabling Law with expanding gazette rule, emergency: opposition",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka should not resort to excessive control of the people through gazette rule which is an overt sign of authoritarianism and was the principle tool used by Hitler to set up a dictatorship in Germany,",
+    "url": "https://economynext.com/sri-lanka-on-slippery-slope-of-enabling-law-with-expanding-gazette-rule-emergency-opposition-85864/",
+    "url_hash": "3c054cabc3b9171221733238637809c7",
+    "ut": 1630987711,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hitler",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Germany",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Sri Lanka hikes import duty on onions by Rs40 per kilogram",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has hiked import duty on foreign onions by 40 rupees a kilogram to protect domestic farmers, Agriculture Minister Mahindananda Aluthgamage said.",
+    "url": "https://economynext.com/sri-lanka-hikes-import-duty-on-onions-by-rs40-per-kilogram-85865/",
+    "url_hash": "01e411989f3f3aebb3e7a75257eb833f",
+    "ut": 1630988306,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "40",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Agriculture",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahindananda Aluthgamage",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Sri Lanka launches tourism promotion initiatives with Ukraine, Russia",
+    "source": "english.newstracklive.com",
+    "snippet": "COLOMBO: In a major development in Sri Lanka Tourism, it has launched tourism promotion initiatives with Ukraine and Russia aimed at reviving the sect..|News Track",
+    "url": "https://english.newstracklive.com/news/sri-lanka-launches-tourism-promotion-initiatives-with-ukraine-russia-sc57-nu318-ta318-1181053-1.html",
+    "url_hash": "23122e619eeb2816c49dfdf14d9cc6b2",
+    "ut": 1630990625,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
