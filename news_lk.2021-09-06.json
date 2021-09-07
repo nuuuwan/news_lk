@@ -6008,6 +6008,41 @@
   {
     "date": "2021-09-06",
     "title": "Sri Lankan Parliament approves state of emergency",
+    "source": "ca.news.yahoo.com",
+    "snippet": "Sri Lanka's Parliament on Monday approved a state of emergency declared by the president, who said it is needed to control food prices and prevent hoarding amid shortages of some staples. Opposition lawmakers said the emergency declaration isn't needed because other laws can be used to maintain essential supplies,",
+    "url": "https://ca.news.yahoo.com/sri-lankan-parliament-approves-state-140017801.html",
+    "url_hash": "574a0369c6d1b84248fd62224cdd9410",
+    "ut": 1630937292,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lankan Parliament approves state of emergency",
     "source": "kvia.com",
     "snippet": "Sri Lanka's Parliament has approved a state of emergency declared by the president, who says it is needed to control food prices and prevent hoarding amid shortages of some staples. Opposition lawmake",
     "url": "https://kvia.com/news/ap-national-news/2021/09/06/sri-lankan-parliament-approves-state-of-emergency/",
