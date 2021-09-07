@@ -5116,6 +5116,81 @@
   },
   {
     "date": "2021-09-06",
+    "title": "State Minister says he supports Gotabaya's dictatorship",
+    "source": "colombogazette.com",
+    "snippet": "State Minister Indika Anuruddha says Sri Lanka needs a dictator like President Gotabaya Rajapaksa. Speaking in Parliament today, Anuruddha said that as Parliamentarian he supports dictatorship. He said that personally he likes the dictatorship of President Gotabaya Rajapaksa.",
+    "url": "https://colombogazette.com/2021/09/06/state-minister-says-he-supports-gotabayas-dictatorship/",
+    "url_hash": "0cd8a5b1e8c12ce2b03141818b22611a",
+    "ut": 1630930148,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Indika Anuruddha",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuruddha",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
     "title": "Exporters worried about stuck payments as Sri Lanka declares economic emergency",
     "source": "www.thehindubusinessline.com",
     "snippet": "Bilateral trade and investment outlook may depend on the extent to which international community can give assistance, say experts",
@@ -5531,6 +5606,81 @@
         "start_end": [
           3,
           4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Sri Lankan shares see worst day in two weeks as industrials drag",
+    "source": "www.zawya.com",
+    "snippet": "Sri Lankan shares closed nearly 1% lower on Monday, registering their biggest one-day fall in more than two weeks, weighed down by industrial companies. * The CSE All-Share index ended 0.95% lower at 9,",
+    "url": "https://www.zawya.com/mena/en/markets/story/Sri_Lankan_shares_see_worst_day_in_two_weeks_as_industrials_drag-TR20210906nL4N2Q828SX1/",
+    "url_hash": "a2804e345773f898baf5bedd88f4ba29",
+    "ut": 1630933725,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "nearly 1%",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than two weeks",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.95%",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
@@ -7783,6 +7933,25 @@
         "start_end": [
           52,
           53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-06",
+    "title": "Avoiding IMF prolongs SL's macroeconomic instability",
+    "source": "www.ft.lk",
+    "snippet": "Macroeconomic stability is crucial to sustain economic growth. The International Monetary Fund (IMF), which is known as the 'global financial firefighter,' provides support to its member countries that have problems with internal stability (inflation) and external stability (balance of payments,",
+    "url": "https://www.ft.lk/columns/Avoiding-IMF-prolongs-SL-s-macroeconomic-instability/4-722718",
+    "url_hash": "ec16bec06e9fd4ee1912d0859f72aa34",
+    "ut": 1630958939,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Monetary Fund",
+        "start_end": [
+          9,
+          13
         ]
       }
     ]
