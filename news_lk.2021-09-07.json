@@ -130,6 +130,33 @@
   },
   {
     "date": "2021-09-07",
+    "title": "SL's anti vaxxers cause alarm for medical workers",
+    "source": "www.dailymirror.lk",
+    "snippet": "People urged not to have any preference to one specific vaccine and to take what is available People, especially those above 60 years who face genuine reasons for not being vaccinated yet, urged to contact medical experts .",
+    "url": "https://www.dailymirror.lk/breaking_news/SLs-anti-vaxxers-cause-alarm-for-medical-workers/108-219863",
+    "url_hash": "faa3daef388ea94789efe87001e36296",
+    "ut": 1630976890,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "60 years",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
     "title": "Red Carpet welcome awaits Sri Lankan Paralympics Team",
     "source": "www.msn.com",
     "snippet": "Sri Lanka's Paralympic Gold Medallist Dinesh Priyantha Herath and Bronze Medallist Samitha Dulan along with the rest of the team members will receive a red carpet welcome when they arrive in the island today after competing in the 16th Tokyo Para Games ...",
@@ -395,6 +422,108 @@
         "start_end": [
           57,
           58
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "COVID vaccine clinics operated by Army, Health Ministry today",
+    "source": "www.adaderana.lk",
+    "snippet": "COVID vaccination programmes conducted by the Ministry of Health and the Sri Lanka Army are continuing in many parts of the island today ( 07)",
+    "url": "http://www.adaderana.lk/news.php?nid=76721",
+    "url_hash": "590e189de06f02e162f1c6ac102c8de0",
+    "ut": 1630984099,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "07",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Sri Lanka's fastest growing rural lender on the next phase of village regeneration",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's banks, even the state-owned ones ... SDF operates 51 branches and service centres in the island, many of them outside the Western Province. Through partnerships with Sarvodaya Shramadana Societies (SSS) at the village level, SDF is capable ...",
+    "url": "https://economynext.com/brand_voice/sri-lankas-fastest-growing-rural-lender-on-the-next-phase-of-village-regeneration/",
+    "url_hash": "e2f191682df216aa30d9a6ce4c678c13",
+    "ut": 1630986859,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SDF",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "51",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SSS",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SDF",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
