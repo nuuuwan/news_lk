@@ -1,8 +1,8 @@
 # Summary
 *Latest scrapes*
-* [2020-12-31](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2020-12-31.json) (1 articles)
-* [2021-01-04](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-01-04.json) (1 articles)
-* [2021-06-08](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-06-08.json) (1 articles)
-* [2021-09-06](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-09-06.json) (175 articles)
+* [2021-01-01](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-01-01.json) (1 articles)
+* [2021-01-05](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-01-05.json) (1 articles)
+* [2021-06-09](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-06-09.json) (1 articles)
+* [2021-09-06](https://github.com/nuuuwan/news_lk/blob/data/news_lk.2021-09-06.json) (178 articles)
 
-*Generated at 11:08PM, September 06, 2021*
+*Generated at 12:12AM, September 07, 2021*
