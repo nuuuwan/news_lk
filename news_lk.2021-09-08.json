@@ -92,6 +92,25 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Massive spike in food prices in Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka is currently facing a financial emergency. The island country is running out of food and basic supplies, the currency is plunging and forex reserves are depleting. WION brings you a report. Like us on Facebook to see similar stories Please give ...",
+    "url": "https://www.msn.com/en-in/video/news/massive-spike-in-food-prices-in-sri-lanka/vp-AAOc24x",
+    "url_hash": "a4911083ff2614868995e63383bcad0a",
+    "ut": 1631059683,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Sri Lanka clinch ODI series after Proteas crumble",
     "source": "www.msn.com",
     "snippet": "The Proteas lose their One Day International series against Sri Lanka after a below-par batting performance and some outstanding bowling from the hosts.",
@@ -1019,6 +1038,57 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "The Latest: N. Carolina has 170 clusters in schools, centers",
+    "source": "www.myplainview.com",
+    "snippet": "North Carolina health officials on Tuesday released a report showing 170 ongoing COVID-19 clusters in K-12 schools or child care settings. While the state Department of Health and Human Services said it does not have data on the number of pupils quarantined statewide or the share of those forced to miss school without a remote learning option,",
+    "url": "https://www.myplainview.com/news/article/The-Latest-Merkel-says-vaccinated-aren-t-guinea-16439519.php",
+    "url_hash": "bb6ca96bc2db5d8a0528d79915c898bb",
+    "ut": 1631066908,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "North Carolina",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "170",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "K-12",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the state Department of Health and Human Services",
+        "start_end": [
+          23,
+          31
         ]
       }
     ]
@@ -3588,6 +3658,57 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Sri Lanka admits forex crisis 'dangerous'",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka's finance minister said Tuesday the island faces a \"dangerous foreign exchange crisis\" but the government denied it would seek an international bailout. Basil Rajapaksa, 70, the youngest brother of President Gotabaya Rajapaksa,",
+    "url": "https://menafn.com/1102763279/Sri-Lanka-admits-forex-crisis-dangerous",
+    "url_hash": "06bcac7bdad7bfce53bb5632e9cad1be",
+    "ut": 1631095683,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "70",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Cardinal alleges moves by PM, FM to mislead Pope over Easter Sunday probe",
     "source": "www.dailymirror.lk",
     "snippet": "Archbishop of Colombo, Cardinal Malcolm Ranjith, today alleged there were moves by the Prime Minister and Foreign Minister to mislead the Pope and international community over the Easter Sunday investigations during the Prime Minister's visit to Italy which will begin tomorrow.",
@@ -4019,6 +4140,57 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "PM not sought a meeting with Pope",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prime Minister Mahinda Rajapaksa has not sought a meeting with Pope Francis and neither will he or his delegation be visiting the Vatican during the Prime Minister's visit to Italy which begins tomorrow,",
+    "url": "https://www.dailymirror.lk/top_story/PM-not-sought-a-meeting-with-Pope/155-219957",
+    "url_hash": "953f1850a98f471a1bcff4dc337e9c13",
+    "ut": 1631106475,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pope Francis",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Vatican",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
@@ -5697,6 +5869,102 @@
     "title": "Recreating King Rajasinha's cosmic city",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka's last king, Sri Vikrama Rajasinha of Kandy, was vilified as a cruel despot and was overthrown by the British in 1815, acting in cahoots with disgruntled local chieftains. But King Rajasinha was a creative builder,",
+    "url": "https://www.dailymirror.lk/news-features/Recreating-King-Rajasinhas-cosmic-city/131-219963",
+    "url_hash": "aab376428ca7ad004f93634f17504d2b",
+    "ut": 1631135275,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Vikrama Rajasinha",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1815",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "King Rajasinha",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "State of Emergency; is it the panacea for our ills?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Hemmed in by the Covid-19 pandemic, the skyrocketing cost of living, the shortage of essential food items, dwindling foreign reserves and a depreciating rupee, ..",
+    "url": "https://www.dailymirror.lk/opinion/State-of-Emergency-is-it-the-panacea-for-our-ills/172-219966",
+    "url_hash": "61d1eaddad3f63b5ba330fa88d29ea5d",
+    "ut": 1631135275,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Memories of Lalith and a fateful day",
+    "source": "www.dailymirror.lk",
+    "snippet": "The article \"Recalling that narrow escape\" of the parliament terrorist grenade attack in 1987, published in the Sunday Times on August 15, 2021, prompted me to write my own personal recollection of details of that fateful day.",
+    "url": "https://www.dailymirror.lk/news-features/Memories-of-Lalith-and-a-fateful-day/131-219964",
+    "url_hash": "cf374050da34cc232972c6afa84107f9",
+    "ut": 1631135275,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "1987",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sunday Times",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 15, 2021",
+        "start_end": [
+          23,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Recreating King Rajasinha's cosmic city",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's last king, Sri Vikrama Rajasinha of Kandy, was vilified as a cruel despot and was overthrown by the British in 1815, acting in cahoots with disgruntled local chieftains. But King Rajasinha was a creative builder,",
     "url": "https://www.dailymirror.lk/business-news/Recreating-King-Rajasinhas-cosmic-city/273-219963",
     "url_hash": "5b2f580b255e7aef2f42d523ecb2bf3c",
     "ut": 1631135284,
@@ -5739,6 +6007,76 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "A state-sponsored elephant racket in the works",
+    "source": "www.dailymirror.lk",
+    "snippet": "A controversial new gazette has been issued seeking to employ elephants for work and tourism, which critics argue is a racket disguised as measures to protect Sri Lanka's elephants. ..",
+    "url": "https://www.dailymirror.lk/insight/A-state-sponsored-elephant-racket-in-the-works/374-219965",
+    "url_hash": "5634c537d056c8f12a2e646cbefabfe0",
+    "ut": 1631135296,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "HatchX: Sri Lanka's most disruptive fintech accelerator is back bigger and better for 2021",
+    "source": "www.ft.lk",
+    "snippet": "Despite being in its infancy, Sri Lanka's fintech industry has made great strides over the years, and one of the biggest came last year with the launch of the country's first-ever fintech accelerator program.",
+    "url": "https://www.ft.lk/it-telecom-tech/HatchX-Sri-Lanka-s-most-disruptive-fintech-accelerator-is-back-bigger-and-better-for-2021/50-722838",
+    "url_hash": "1d88433e862c5b0ec013636d70e37be7",
+    "ut": 1631135296,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the years",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
@@ -5900,6 +6238,205 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "HNB shares insights from the 'new normal' in banking with leading Asian peers",
+    "source": "www.dailymirror.lk",
+    "snippet": "Top management of Sri Lanka's premier private sector retail bank, HNB PLC, shared insights on banking in the 'new-normal' with Asian industry leaders representing some of the region's most dynamic banking giants, at the recently concluded 37th ...",
+    "url": "https://www.dailymirror.lk/financial-news/HNB-shares-insights-from-the-%E2%80%98new-normal%E2%80%99-in-banking-with-leading-Asian-peers/265-219970",
+    "url_hash": "6008c05738211797e6eb4dd72f47358e",
+    "ut": 1631138875,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HNB PLC",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "37th",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Allianz Lanka wins 'Claims Initiative of the Year' award at Insurance Asia Awards 2021",
+    "source": "www.dailymirror.lk",
+    "snippet": "Allianz Insurance Lanka Ltd received the 'Claims Initiative of the Year - Sri Lanka' award at the Insurance Asia Awards 2021 held recently. ..",
+    "url": "https://www.dailymirror.lk/financial-news/Allianz-Lanka-wins-Claims-Initiative-of-the-Year-award-at-Insurance-Asia-Awards-2021/265-219971",
+    "url_hash": "6f681306d80fd0bc9c660200721a4b36",
+    "ut": 1631138875,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Allianz Insurance Lanka Ltd",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Year - Sri Lanka'",
+        "start_end": [
+          10,
+          16
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Insurance Asia Awards 2021",
+        "start_end": [
+          18,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "US' CDC adds Sri Lanka to 'very high' COVID-19 travel risk list",
+    "source": "www.ft.lk",
+    "snippet": "Two tropical islands half a world apart and popular with tourists - Jamaica in the Caribbean and Sri Lanka in South Asia - are now among the highest-risk destinations for travelers. ..",
+    "url": "https://www.ft.lk/front-page/US-CDC-adds-Sri-Lanka-to-very-high-COVID-19-travel-risk-list/44-722854",
+    "url_hash": "bd07fff0275b8b0f28ae6a91bf67323b",
+    "ut": 1631139303,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jamaica",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Markets await Cabraal, others question appointment as per spirit of Monetary Law Act",
+    "source": "www.ft.lk",
+    "snippet": "Markets are awaiting the appointment of Nivard Cabraal as the new Governor of the Central Bank, but ex-staffers and experts are questioning whether such a move is in the best spirit of the laws enunciated under the Monetary Law Act.",
+    "url": "https://www.ft.lk/front-page/Markets-await-Cabraal-others-question-appointment-as-per-spirit-of-Monetary-Law-Act/44-722857",
+    "url_hash": "67d598837b062b6d6cca43c018b208d3",
+    "ut": 1631139928,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nivard",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Monetary Law Act",
+        "start_end": [
+          39,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Treasury woos FDIs for multi-billion-dollar opportunities",
+    "source": "www.ft.lk",
+    "snippet": "In a proactive move, the Ministry of Finance has taken the initiative to woo foreign direct investments (FDIs), launching an important compilation of new opportunities in Sri Lanka for global firms. .",
+    "url": "https://www.ft.lk/top-story/Treasury-woos-FDIs-for-multi-billion-dollar-opportunities/26-722858",
+    "url_hash": "080d79f2507742bbac2d4a59ae3df3bc",
+    "ut": 1631140888,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Finance",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
         ]
       }
     ]
