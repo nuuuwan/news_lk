@@ -3192,6 +3192,49 @@
   },
   {
     "date": "2021-09-08",
+    "title": "1,691 more Covid-19 recoveries reported",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 1,691 more Covid-19 patients recovered and were discharged from hospitals increasing the total number of recoveries in Sri Lanka to 389,969, the Health Ministry said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/1-691-more-Covid-19-recoveries-reported/342-219953",
+    "url_hash": "86555ee10e74013e9d484e564f83b8be",
+    "ut": 1631099280,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "1,691",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "389,969",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Charting a New Trajectory in India-Sri Lanka Relations",
     "source": "www.orfonline.org",
     "snippet": "Sri Lanka has drifted towards China for economic support and views her as a more reliable partner in enabling domestic economic development. Killing of Indian fishermen by the Sri Lankan Navy, as well as the cancellation of the East Container Terminal port contract to India are lingering issues that have added to these concerns.",
@@ -3459,6 +3502,258 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Cricket SA confirm Proteas' bumper tour to England",
+    "source": "www.dispatchlive.co.za",
+    "snippet": "The Proteas will travel to the UK for a full tour against England that will include three ODIs, three T20s and a three-match Test series from July 19 to September 12 next year.",
+    "url": "https://www.dispatchlive.co.za/sport/2021-09-08-cricket-sa-confirm-proteas-bumper-tour-to-england/",
+    "url_hash": "ed51de0dd8c1cbdb9e5a70973185f058",
+    "ut": 1631106571,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Proteas",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "T20s",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 19 to September 12",
+        "start_end": [
+          29,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next year",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Jamaica, Sri Lanka and Brunei are added to the CDC's list of Covid high risk destinations",
+    "source": "www.dailymail.co.uk",
+    "snippet": "The US Centers for Disease Control and Prevention announced on Tuesday that three new destinations have been added to their list of 'level 4' very high-risk Covid destinations.",
+    "url": "https://www.dailymail.co.uk/news/article-9969777/Jamaica-Sri-Lanka-Brunei-added-CDCs-list-Covid-high-risk-destinations.html",
+    "url_hash": "a9d5e348441100eb667aaa8bef75df66",
+    "ut": 1631108588,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The US Centers for Disease Control and Prevention",
+        "start_end": [
+          0,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Dinesh Priyantha Herath",
+    "source": "www.dailynews.lk",
+    "snippet": "Sri Lankan athlete Dinesh Priyantha Herath won the bronze medal for javelin throw at the Rio Paralympics 2016. Herath was the first Sri Lankan athlete to win a medal",
+    "url": "https://www.dailynews.lk/tags/dinesh-priyantha-herath",
+    "url_hash": "9851a5a11d67d969d04e261173485ae7",
+    "ut": 1631109124,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Priyantha Herath",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Rio Paralympics 2016",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sri Lanka's stock index nosedives after finmin's speech; posts highest fall since February",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lanka's stock index closed 3.6 percent weaker on Wednesday (08), a day after Finance Minister Basil Rajapaksa revealed a grim reality about the economy, as investors booked profits amid margin calls, brokers said. Wednesday's loss ...",
+    "url": "https://economynext.com/sri-lankas-stock-index-nosedives-after-finmins-speech-posts-highest-fall-since-february-85913/",
+    "url_hash": "ed30dc6469386e52b3250447a4b3dfcc",
+    "ut": 1631109443,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ECONOMYNEXT - Sri Lanka's",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "3.6 percent",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "08",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a day",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          43,
+          44
         ]
       }
     ]
