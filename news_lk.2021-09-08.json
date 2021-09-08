@@ -2057,5 +2057,193 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Prisoners to get Sinopharm second jab: Prisons Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Prisons Department is to provide the second dose of Chinese Sinopharm COVID-19 Vaccine for the inmates who had already received the first dose, Prisons Commissioner, Administration and Media Spokesperson Chandana Ekanayake said.",
+    "url": "https://www.dailymirror.lk/latest_news/Prisoners-to-get-Sinopharm-second-jab-Prisons-Dept/342-219945",
+    "url_hash": "06e237906d856c1d2851d1b37b881fde",
+    "ut": 1631084901,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Prisons Department",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vaccine",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Administration",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "U.S. donates life-saving medical equipment to Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka to help fight the COVID-19 pandemic. The donation included portable oxygen concentrators and oxygen cylinders. The new medical equipment shipment is in addition to the large volume of Moderna and Pfizer-BioNTech vaccines,",
+    "url": "http://www.adaderana.lk/news/76747/us-donates-life-saving-medical-equipment-to-sri-lanka",
+    "url_hash": "ee4321d7f796c9b24979825f2698175a",
+    "ut": 1631084912,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moderna",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pfizer-BioNTech",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Approximately 30 officers had been following Samsudeen",
+    "source": "colombogazette.com",
+    "snippet": "Approximately 30 officers had been following Ahamed Samsudeen, was shot and killed by Police on September 3 after he grabbed a knife at an Auckland supermarket and began stabbing shoppers, injuring seven.",
+    "url": "https://colombogazette.com/2021/09/08/approximately-30-officers-had-been-following-samsudeen/",
+    "url_hash": "a942fc48fbc5b217304fcd56673d68d4",
+    "ut": 1631086241,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Approximately 30",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ahamed Samsudeen",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 3",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sampath WePay Presents Sri Lanka's First Digital Man of the Match Award at the Sri Lanka Vs South Africa Series",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Sampath Bank became the first bank in Sri Lanka to present a Man of the Match award digitally at a cricket match, giving away a prize purse of Rs.300,000 through its widely popular digital wallet, Sampath WePay,",
+    "url": "http://bizenglish.adaderana.lk/sampath-wepay-presents-sri-lankas-first-digital-man-of-the-match-award-at-the-sri-lanka-vs-south-africa-series/",
+    "url_hash": "f7be035e7d9beaf4651e9e565fc3f6a0",
+    "ut": 1631086832,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Match",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sampath WePay",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
   }
 ]
