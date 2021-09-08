@@ -3087,5 +3087,117 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Charting a New Trajectory in India-Sri Lanka Relations",
+    "source": "www.orfonline.org",
+    "snippet": "Sri Lanka has drifted towards China for economic support and views her as a more reliable partner in enabling domestic economic development. Killing of Indian fishermen by the Sri Lankan Navy, as well as the cancellation of the East Container Terminal port contract to India are lingering issues that have added to these concerns.",
+    "url": "https://www.orfonline.org/expert-speak/charting-a-new-trajectory-in-india-sri-lanka-relations/",
+    "url_hash": "d990a92ac5bddf1b172514a3b2df58f0",
+    "ut": 1631099328,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Navy",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the East Container Terminal",
+        "start_end": [
+          39,
+          43
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sri Lanka is facing a critical foreign exchange crisis, says finance minister Basil Rajapaksa",
+    "source": "www.thehindu.com",
+    "snippet": "The corona virus pandemic has battered the economy of the island nation which is dependent on tourism and tea exports",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-is-facing-a-critical-foreign-exchange-crisis-says-finance-minister-basil-rajapaksa/article36358732.ece",
+    "url_hash": "2093f4b0bfda6503684cd95f239a8d6e",
+    "ut": 1631101188,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Detained Elephants returned to previous owners",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Colombo Additional Magistrate has issued an order to release 13 tamed elephants taken into the custody by the CID, to their - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/08/detained-elephants-returned-to-previous-owners/",
+    "url_hash": "f86a2d7a406aba5b4420f4a175a15275",
+    "ut": 1631102110,
+    "ent_info_list": [
+      {
+        "label": "LAW",
+        "text": "The Colombo Additional Magistrate",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CID",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
   }
 ]
