@@ -171,6 +171,89 @@
   {
     "date": "2021-09-08",
     "title": "The Latest: Arizona says employee vaccine order is illegal",
+    "source": "www.registercitizen.com",
+    "snippet": "PHOENIX, Arizona \u2014 Arizona Attorney General Mark Brnovich says Tucson's vaccine mandate for city employees is illegal. Brnovich's decision Tuesday gives Tucson 30 days to repeal the mandate or lose millions of dollars in state funding.",
+    "url": "https://www.registercitizen.com/news/article/The-Latest-Merkel-says-vaccinated-aren-t-guinea-16439519.php",
+    "url_hash": "97472ebe5bd8535b4acdb24a253086da",
+    "ut": 1631059744,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "PHOENIX",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Brnovich",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tucson",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tucson",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30 days",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "millions of dollars",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "The Latest: Arizona says employee vaccine order is illegal",
     "source": "www.chron.com",
     "snippet": "PHOENIX, Arizona \u2014 Arizona Attorney General Mark Brnovich says Tucson's vaccine mandate for city employees is illegal. Brnovich's decision Tuesday gives Tucson 30 days to repeal the mandate or lose millions of dollars in state funding.",
     "url": "https://www.chron.com/news/article/The-Latest-Merkel-says-vaccinated-aren-t-guinea-16439519.php",
@@ -1711,6 +1794,41 @@
   },
   {
     "date": "2021-09-08",
+    "title": "SLTDA requests MoH to relax health guidelines to accommodate Russian Tourists",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lanka Tourism Development Authority (SLTDA) this week put forward a series of requests to the Ministry of Health (MoH) to relax the health guidelines imposed to prevent the spread of the Covid-19 virus,",
+    "url": "https://www.dailymirror.lk/business/SLTDA-requests-MoH-to-relax-health-guidelines-to-accommodate-Russian-Tourists/215-219941",
+    "url_hash": "e40f82abc42368ec44d2132a195055ab",
+    "ut": 1631077725,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Tourism Development Authority",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          18,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Sri Lanka still troubled by Western agenda",
     "source": "www.srilankaguardian.org",
     "snippet": "Chairs, having pathetically failed in their high profile project, are now pursuing an agenda targeting Sri Lanka at the Geneva-based United Nations Human Rights Council (UNHRC). What did Sri Lanka do wrong to end up at the UNHRC agenda?",
@@ -2562,6 +2680,33 @@
         "start_end": [
           34,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sri Lanka admits forex crisis 'dangerous'",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka's finance minister said Tuesday the island faces a\"dangerous foreign exchange crisis\" but the government denied it would seek an internati",
+    "url": "https://menafn.com/1102758386/Sri-Lanka-admits-forex-crisis-dangerous",
+    "url_hash": "b469e06713eb0628f10e8752e1823c0d",
+    "ut": 1631084935,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
         ]
       }
     ]
@@ -4428,6 +4573,116 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Private company CEO managing NMRA date base arrested",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Criminal Investigation Department (CID) has arrested a CEO of a company that managed the data base of the National Medicines Regulatory Authority (NMRA) in connection with the dissapearances of data files,",
+    "url": "https://www.dailymirror.lk/breaking_news/Private-company-CEO-managing-NMRA-date-base-arrested/108-219959",
+    "url_hash": "8ab631495d96641b2ea8fa8edecf07d7",
+    "ut": 1631113725,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Criminal Investigation Department",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Medicines Regulatory Authority",
+        "start_end": [
+          20,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "The Latest: Arizona says employee vaccine order is illegal",
+    "source": "www.sunherald.com",
+    "snippet": "PHOENIX, Arizona \u2014 Arizona Attorney General Mark Brnovich says Tucson's vaccine mandate for city employees is illegal. Brnovich's decision Tuesday gives Tucson 30 days to repeal the mandate or lose millions of dollars in state funding.",
+    "url": "https://www.sunherald.com/news/business/article254045453.html",
+    "url_hash": "a562082af916c3ee3637f0532d701b41",
+    "ut": 1631113763,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "PHOENIX",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mark Brnovich",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tucson",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tucson",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30 days",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "millions of dollars",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "CDC warns Americans against traveling to Jamaica, Sri Lanka in latest COVID-19 guidance",
     "source": "www.msn.com",
     "snippet": "Two more popular island getaways have been added to the COVID-19 travel advisory list. Jamaica and Sri Lanka are the newest destinations to make the list of riskiest places to travel during the pandemic,",
@@ -4457,6 +4712,97 @@
         "start_end": [
           17,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "India's T20 World Cup squad: R Ashwin picked, MS Dhoni named mentor",
+    "source": "www.msn.com",
+    "snippet": "Four years after he fell out of favour from India's T20I setup, R Ashwin has been handed a second chance. On Wednesday, he was named in India's 15-member squad for the T20I World Cup in the UAE this October-November.",
+    "url": "https://www.msn.com/en-in/sports/cricket/r-ashwin-picked-in-india-s-t20-world-cup-squad/ar-AAOemzf",
+    "url_hash": "51a9baf58988c7971bb844b803a85201",
+    "ut": 1631117344,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Four years",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ashwin",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the T20I World Cup",
+        "start_end": [
+          37,
+          41
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UAE",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October-November",
+        "start_end": [
+          45,
+          48
         ]
       }
     ]
@@ -4800,6 +5146,33 @@
         "start_end": [
           45,
           48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sri Lanka says tracing origin of Covid should not be politicized",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka says tracing the origin of the coronavirus should not be politicized. The Foreign Ministry said that the COVID-19 pandemic has caused severe disruptions to the health, safety, and livelihoods of people around the world.",
+    "url": "https://colombogazette.com/2021/09/08/sri-lanka-says-tracing-origin-of-covid-should-not-be-politicized/",
+    "url_hash": "857fcb877389157c05fd4c7b65987645",
+    "ut": 1631122278,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Foreign Ministry",
+        "start_end": [
+          14,
+          17
         ]
       }
     ]
