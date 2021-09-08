@@ -1338,6 +1338,57 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Fire at overcrowded Indonesian prison kills at least 40: official",
+    "source": "www.dailymirror.lk",
+    "snippet": "A fire tore through an overcrowded block in a jail in Indonesia's Banten province in the early hours of Wednesday, killingat least 40 people and injuring dozens, a government spokeswoman and media reports said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Fire-at-overcrowded-Indonesian-prison-kills-at-least-40-official/108-219942",
+    "url_hash": "22991c93bad2f5172e447c19cde77cb0",
+    "ut": 1631074248,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Banten",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the early hours of Wednesday",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "killingat least 40",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "dozens",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Sri Lanka gets 5,040 tourists in August 2021, Pakistan, India, Maldives in top six",
     "source": "economynext.com",
     "snippet": "Sri Lanka has welcomed 5,040 tourists in August 2021, up from zero a year earlier as the country manages Coronavirus pandemic and tries to keep hard hit tourist businesses alive.",
@@ -1829,6 +1880,57 @@
         "start_end": [
           1,
           3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "U.S. donates life-saving medical equipment to Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka to help fight the COVID-19 pandemic. The donation included portable oxygen concentrators and oxygen cylinders, according to the U.S. Embassy in Colombo. The new medical equipment shipment is in addition to the large volume of Moderna and Pfizer-BioNTech vaccines,",
+    "url": "http://www.adaderana.lk/news.php?nid=76747",
+    "url_hash": "fd40d69daac3941c25779bf5edcdc492",
+    "ut": 1631081458,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the U.S. Embassy",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moderna",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pfizer-BioNTech",
+        "start_end": [
+          42,
+          45
         ]
       }
     ]
@@ -3149,6 +3251,41 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Sri Lankan shares extend losing streak, financials and industrials weigh",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares slumped for a third straight session on Wednesday, dragged by heavy losses in the financial and industrial companies.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-extend-losing-streak-financials-and-industrials-weigh-idUSL4N2QA2NP",
+    "url_hash": "13a0a22347f99df0235444f485fb984c",
+    "ut": 1631099458,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Sri Lanka is facing a critical foreign exchange crisis, says finance minister Basil Rajapaksa",
     "source": "www.thehindu.com",
     "snippet": "The corona virus pandemic has battered the economy of the island nation which is dependent on tourism and tea exports",
@@ -3196,6 +3333,132 @@
         "start_end": [
           33,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Cricket SA confirm Proteas' bumper tour to England",
+    "source": "www.timeslive.co.za",
+    "snippet": "The Proteas will travel to the UK for a full tour against England that will include three ODIs, three T20s and a three-match Test series from July 19 to September 12 next year.",
+    "url": "https://www.timeslive.co.za/sport/cricket/2021-09-08-cricket-sa-confirm-proteas-bumper-tour-to-england/",
+    "url_hash": "5276ef0f925f19e2859374384640d5dc",
+    "ut": 1631104048,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Proteas",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "T20s",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 19 to September 12",
+        "start_end": [
+          29,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next year",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sri Lanka's sugar prices at record high, opposition alleges it's a govt 'scam'",
+    "source": "www.msn.com",
+    "snippet": "Sugar in Sri Lanka is currently being sold at over Sri Lankan Rs 200 per kg, up from Rs 130 per kg last October. Rajapaksa govt is importing more to stabilise prices, besides slashing import tax.",
+    "url": "https://www.msn.com/en-in/news/other/sri-lanka-e2-80-99s-sugar-prices-at-record-high-opposition-alleges-it-e2-80-99s-a-govt-e2-80-98scam-e2-80-99/ar-AAOdSi5",
+    "url_hash": "e1a06f61813e2b68319f73929de41fa7",
+    "ut": 1631104213,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last October",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rajapaksa",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
