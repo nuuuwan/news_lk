@@ -585,6 +585,57 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Premier to brief Vatican on progress of action taken:cabinet Spokesman",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prime Minister Mahinda Rajapaksa and Foreign Affairs Minister Prof. G.l.pieris will brief the Vatican on the progress made in connection with the legal action taken against the suspects involved in the Easter Sunday carnage,",
+    "url": "https://www.dailymirror.lk/latest_news/Premier-to-brief-Vatican-on-progress-of-action-takencabinet-Spokesman/342-219918",
+    "url_hash": "981c6869c2807623745afad6baf42641",
+    "ut": 1631063284,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Foreign Affairs",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G.l.pieris",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Vatican",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "CDC adds two popular island getaways to 'very high' Covid-19 travel risk list",
     "source": "localnews8.com",
     "snippet": "By Forrest Brown, CNN Two tropical islands half a world apart and popular with tourists \u2014 Jamaica in the Caribbean and Sri Lanka in South Asia \u2014 are now among the highest-risk destinations for travelers.",
@@ -4675,6 +4726,49 @@
     "title": "Health Minister agrees to use Pfizer for 12-18 age category: GMOA",
     "source": "www.dailymirror.lk",
     "snippet": "The Health Minster today agreed with the proposal made by the Government Medical Officers' Association (GMOA) to stop the use of the Pfizer-BioNtech COVID vaccine for the age group 18 to 30 and to use it for the 12 to 18 age group,",
+    "url": "https://www.dailymirror.lk/breaking_news/Health-Minister-agrees-to-use-Pfizer-for-12-18-age-category-GMOA/108-219960",
+    "url_hash": "dd28446bda1c7cc3b311cbb925667fb4",
+    "ut": 1631113684,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 12 to 18 age",
+        "start_end": [
+          42,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Health Minister agrees to use Pfizer for 12-18 age category: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Health Minster today agreed with the proposal made by the Government Medical Officers' Association (GMOA) to stop the use of the Pfizer-BioNtech COVID vaccine for the age group 18 to 30 and to use it for the 12 to 18 age group,",
     "url": "https://www.dailymirror.lk/latest_news/Health-Minister-agrees-to-use-Pfizer-for-12-18-age-category-GMOA/342-219960",
     "url_hash": "9da42ed14ee3d7a80c02641f4191cfa6",
     "ut": 1631113692,
@@ -5481,6 +5575,16 @@
     "title": "Grappling with Geneva",
     "source": "www.ft.lk",
     "snippet": "Militarisation' can be tracked and traced by the number of military or ex-military brass in positions hitherto occupied by civilian administrators, and the roles, subjects and functions aberrantly assigned to the military or ex-military.",
+    "url": "https://www.ft.lk/dayan_jayatilleka/Grappling-with-Geneva/10527-722821",
+    "url_hash": "56151c0a198bd7722862f2d8ad1bf514",
+    "ut": 1631128108,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Grappling with Geneva",
+    "source": "www.ft.lk",
+    "snippet": "Militarisation' can be tracked and traced by the number of military or ex-military brass in positions hitherto occupied by civilian administrators, and the roles, subjects and functions aberrantly assigned to the military or ex-military.",
     "url": "https://www.ft.lk/columns/Grappling-with-Geneva/4-722821",
     "url_hash": "70d4fbcb4208259f1735d48c5fd803d1",
     "ut": 1631128113,
@@ -5533,6 +5637,269 @@
         "start_end": [
           31,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sampath WePay presents Sri Lanka's first Digital Man of the Match award",
+    "source": "www.ft.lk",
+    "snippet": "Sampath Bank became the first bank in Sri Lanka to present a Man of the Match award digitally at a cricket match, giving away a prize purse of Rs. 300,000 through its widely popular digital wallet, Sampath WePay,",
+    "url": "https://www.ft.lk/sports/Sampath-WePay-presents-Sri-Lanka-s-first-Digital-Man-of-the-Match-award/23-722834",
+    "url_hash": "8c33dd635047512b5a49e6b79ea2fdea",
+    "ut": 1631131708,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Match",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "300,000",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sampath WePay",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Recreating King Rajasinha's cosmic city",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's last king, Sri Vikrama Rajasinha of Kandy, was vilified as a cruel despot and was overthrown by the British in 1815, acting in cahoots with disgruntled local chieftains. But King Rajasinha was a creative builder,",
+    "url": "https://www.dailymirror.lk/business-news/Recreating-King-Rajasinhas-cosmic-city/273-219963",
+    "url_hash": "5b2f580b255e7aef2f42d523ecb2bf3c",
+    "ut": 1631135284,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Vikrama Rajasinha",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1815",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "King Rajasinha",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Beacon EmbeddedWorks Acquired by discoverIE Group",
+    "source": "apnews.com",
+    "snippet": "The Group employs c.4,600 people and its principal operating units are located in Continental Europe, the UK, China, Sri Lanka, India and North America. The Group is listed on the Main Market of the London Stock Exchange and is a member of the FTSE250 ...",
+    "url": "https://apnews.com/press-release/pr-newswire/business-8b1e94e213d3c0c1a0175261fe9b1307",
+    "url_hash": "edae4666dbbb39af4dcbbceff725a1d3",
+    "ut": 1631135303,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Group",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Continental Europe",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "North America",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Group",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Main Market",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the London Stock Exchange",
+        "start_end": [
+          38,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Health Ministry wants COVID prevention strategy to look at further relaxing protocols for Russian travellers",
+    "source": "www.ft.lk",
+    "snippet": "The Health Ministry yesterday called on Sri Lanka Tourism to submit COVID-19 prevention procedures, to consider the request made to further relax protocols for the travel industry. ..",
+    "url": "https://www.ft.lk/front-page/Health-Ministry-wants-COVID-prevention-strategy-to-look-at-further-relaxing-protocols-for-Russian-travellers/44-722852",
+    "url_hash": "3cce7aa117f6c5993356605931a69e73",
+    "ut": 1631138022,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "The Latest: Georgia district changes plans after 3 deaths",
+    "source": "www.theolympian.com",
+    "snippet": "Another Georgia school district is switching to virtual learning, after three school bus employees have died from COVID-19 in recent weeks.",
+    "url": "https://www.theolympian.com/news/business/article254045453.html",
+    "url_hash": "b52966d2739b310f13072e2b796b3e6a",
+    "ut": 1631138322,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Georgia",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent weeks",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
