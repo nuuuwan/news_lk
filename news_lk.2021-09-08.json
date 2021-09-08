@@ -763,6 +763,49 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Ranil urges Speaker to act against Nagananda",
+    "source": "www.dailymirror.lk",
+    "snippet": "UNP MP Ranil Wickremesinghe yesterday urged the Speaker to take action against Lawyer Nagananda whom he claimed had insulted Parliament. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-urges-Speaker-to-act-against-Nagananda/108-219921",
+    "url_hash": "f7ba707f556f70a3ecc5ba4f76b5dd58",
+    "ut": 1631066907,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Sri Lanka parliament passes tax amnesty bill, opposition abstains from SEC bill",
     "source": "economynext.com",
     "snippet": "Sri Lanka's parliament passed a bill to give an amnesty for people who have not paid taxes but will declare such assets with a 1 percent fee.",
@@ -1244,6 +1287,57 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Fire at overcrowded Indonesian prison kills at least 40: official",
+    "source": "www.dailymirror.lk",
+    "snippet": "A fire tore through an overcrowded block in a jail in Indonesia's Banten province in the early hours of Wednesday, killingat least 40 people and injuring dozens, a government spokeswoman and media reports said.",
+    "url": "https://www.dailymirror.lk/latest_news/Fire-at-overcrowded-Indonesian-prison-kills-at-least-40-official/342-219942",
+    "url_hash": "9b3aa03aaabd02834393b0d963ed4ccc",
+    "ut": 1631074107,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Banten",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the early hours of Wednesday",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "killingat least 40",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "dozens",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Sri Lanka gets 5,040 tourists in August 2021, Pakistan, India, Maldives in top six",
     "source": "economynext.com",
     "snippet": "Sri Lanka has welcomed 5,040 tourists in August 2021, up from zero a year earlier as the country manages Coronavirus pandemic and tries to keep hard hit tourist businesses alive.",
@@ -1450,6 +1544,41 @@
         "start_end": [
           23,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "SLTDA requests MoH to relax health guidelines to accommodate Russian Tourists",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lanka Tourism Development Authority (SLTDA) this week put forward a series of requests to the Ministry of Health (MoH) to relax the health guidelines imposed to prevent the spread of the Covid-19 virus,",
+    "url": "https://www.dailymirror.lk/business_247/SLTDA-requests-MoH-to-relax-health-guidelines-to-accommodate-Russian-Tourists/395-219941",
+    "url_hash": "dc2d88efa61b42974474e5d1256f35e3",
+    "ut": 1631077707,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Tourism Development Authority",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          18,
+          22
         ]
       }
     ]
@@ -1681,6 +1810,250 @@
         "start_end": [
           23,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "In The End, Bin Laden Won",
+    "source": "www.srilankaguardian.org",
+    "snippet": "Afghanistan would soon turn on us by giving safe haven to the multimillionaire son of one of the richest families in Saudi Arabia, a man by the name of Osama bin Mohammed bin Awad bin Laden. From Afghanistan he would build his al-Qaeda movement and plan (with his Saudi cohorts) his attacks on the United States.",
+    "url": "http://www.srilankaguardian.org/2021/09/in-end-bin-laden-won.html",
+    "url_hash": "8d41a7ef3612fbc39bb2ac2a7f8c726b",
+    "ut": 1631082830,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Saudi Arabia",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Osama bin Mohammed bin Awad bin Laden",
+        "start_end": [
+          30,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "al-Qaeda",
+        "start_end": [
+          44,
+          47
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Saudi",
+        "start_end": [
+          53,
+          54
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          59,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "At least 41 dead after fire breaks out in Indonesian jail",
+    "source": "dailynews.lk",
+    "snippet": "At least 41 people have died in Indonesia after a fire broke out at an overcrowded prison on the outskirts of the capital Jakarta. The blaze broke out in the early hours of Wednesday morning at Tangerang jail,",
+    "url": "https://dailynews.lk/2021/09/08/world/258756/least-41-dead-after-fire-breaks-out-indonesian-jail",
+    "url_hash": "de8400817e736595608e7612157e1844",
+    "ut": 1631083771,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 41",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jakarta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the early hours of Wednesday morning",
+        "start_end": [
+          30,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tangerang",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Indonesia fire",
+    "source": "dailynews.lk",
+    "snippet": "At least 41 people have died in Indonesia after a fire broke out at an overcrowded prison on the outskirts of the capital Jakarta. The blaze broke out in the early hours of Wednesday morning at... At least 41 people have died in Indonesia after a fire broke out at",
+    "url": "https://dailynews.lk/tags/indonesia-fire",
+    "url_hash": "c5a7f0469b5a9c2760f3b0a0795c8a0a",
+    "ut": 1631083831,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 41",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jakarta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the early hours of Wednesday morning",
+        "start_end": [
+          30,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "At least 41",
+        "start_end": [
+          38,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Indonesia Prison",
+    "source": "dailynews.lk",
+    "snippet": "At least 41 people have died in Indonesia after a fire broke out at an overcrowded prison on the outskirts of the capital Jakarta. The blaze broke out in the early hours of Wednesday morning at... At least 41 people have died in Indonesia after a fire broke out at",
+    "url": "https://dailynews.lk/tags/indonesia-prison",
+    "url_hash": "84c7edbe7927abc5be635ef769897fe3",
+    "ut": 1631083831,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 41",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jakarta",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the early hours of Wednesday morning",
+        "start_end": [
+          30,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "At least 41",
+        "start_end": [
+          38,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
