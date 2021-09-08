@@ -81,5 +81,115 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "The Latest: N. Carolina has 170 clusters in schools, centers",
+    "source": "www.greenwichtime.com",
+    "snippet": "North Carolina health officials on Tuesday released a report showing 170 ongoing COVID-19 clusters in K-12 schools or child care settings. While the state Department of Health and Human Services said it does not have data on the number of pupils quarantined statewide or the share of those forced to miss school without a remote learning option,",
+    "url": "https://www.greenwichtime.com/business/article/The-Latest-Merkel-says-vaccinated-aren-t-guinea-16439519.php",
+    "url_hash": "b25b316fcac35415b133076a5597493d",
+    "ut": 1631063036,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "North Carolina",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "170",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "K-12",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the state Department of Health and Human Services",
+        "start_end": [
+          23,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "COVID: CDC adds two popular island getaways to 'very high' travel risk list",
+    "source": "www.mercurynews.com",
+    "snippet": "Two tropical islands half a world apart and popular with tourists \u2014 Jamaica in the Caribbean and Sri Lanka in South Asia \u2014 are now among the highest-risk destinations for travelers.",
+    "url": "https://www.mercurynews.com/2021/09/07/covid-cdc-adds-two-popular-island-getaways-to-very-high-travel-risk-list",
+    "url_hash": "b688a6a2c7c718ff6c61801e0b6632d7",
+    "ut": 1631064347,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jamaica",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
   }
 ]
