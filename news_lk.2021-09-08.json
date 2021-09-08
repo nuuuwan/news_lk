@@ -1,6 +1,49 @@
 [
   {
     "date": "2021-09-08",
+    "title": "Sri Lanka to announce squad for ICC T20 World Cup 2021",
+    "source": "www.islandcricket.lk",
+    "snippet": "CricWire. Sri Lanka Cricket is set to announce the squad for ICC T20 World Cup 2021 scheduled to take place in UAE and O",
+    "url": "https://www.islandcricket.lk/videos/sri-lanka-to-announce-squad-for-icc-t20-world-cup-2021/",
+    "url_hash": "59eebb84134d5e1f69f0c3c09bd6f8a8",
+    "ut": 1631059693,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CricWire",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup 2021",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "The Latest: Arizona says employee vaccine order is illegal",
     "source": "www.chron.com",
     "snippet": "PHOENIX, Arizona \u2014 Arizona Attorney General Mark Brnovich says Tucson's vaccine mandate for city employees is illegal. Brnovich's decision Tuesday gives Tucson 30 days to repeal the mandate or lose millions of dollars in state funding.",
@@ -272,6 +315,57 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Premier to brief Vatican on progress of action taken:cabinet Spokesman",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prime Minister Mahinda Rajapaksa and Foreign Affairs Minister Prof. G.l.pieris will brief the Vatican on the progress made in connection with the legal action taken against the suspects involved in the Easter Sunday carnage,",
+    "url": "https://www.dailymirror.lk/breaking_news/Premier-to-brief-Vatican-on-progress-of-action-takencabinet-Spokesman/108-219918",
+    "url_hash": "f58e27630ec19b917f5287f95ccbe552",
+    "ut": 1631063284,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Foreign Affairs",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G.l.pieris",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Vatican",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "COVID: CDC adds two popular island getaways to 'very high' travel risk list",
     "source": "www.mercurynews.com",
     "snippet": "Two tropical islands half a world apart and popular with tourists \u2014 Jamaica in the Caribbean and Sri Lanka in South Asia \u2014 are now among the highest-risk destinations for travelers.",
@@ -419,6 +513,229 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sri Lanka parliament passes tax amnesty bill, opposition abstains from SEC bill",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's parliament passed a bill to give an amnesty for people who have not paid taxes but will declare such assets with a 1 percent fee.",
+    "url": "https://economynext.com/sri-lanka-parliament-passes-tax-amnesty-bill-opposition-abstains-from-sec-bill-85901/",
+    "url_hash": "4fe6d7efbc914467d6ba04b0b8dd6c77",
+    "ut": 1631066910,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "1 percent",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "COVID-19 vaccination centres operating island-wide today",
+    "source": "www.adaderana.lk",
+    "snippet": "COVID vaccination programmes conducted by the Ministry of Health and the Sri Lanka Army are continuing in many parts of the island today ( 08)",
+    "url": "http://www.adaderana.lk/news/76743/covid-19-vaccination-centres-operating-island-wide-today",
+    "url_hash": "2b1fb6d91d8306474212e646b61f06e0",
+    "ut": 1631067973,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Army",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "08",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "The Latest: Seattle fans must show proof of vaccine or test",
+    "source": "www.seattlepi.com",
+    "snippet": "Fans attending most pro sporting events in Seattle will soon be required to show proof they've been vaccinated against COVID-19 or that they've tested negative for the virus. The NFL's Seahawks, MLS's Sounders,",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Merkel-says-vaccinated-aren-t-guinea-16439519.php",
+    "url_hash": "7004ab3267b767d387001ff1b04c3ff0",
+    "ut": 1631068658,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Seattle",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NFL",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Seahawks",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MLS",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Rookies star in Sri Lanka's series win over Proteas",
+    "source": "island.lk",
+    "snippet": "Rex Clementine \u00a0 Sri Lanka have never been short of cricketing talent. The problem has been with how players manage stardom. This bilateral series against South Africa has presented a whole bunch of new stars and this should be the base with which the selectors will be looking to build the side for the",
+    "url": "https://island.lk/rookies-star-in-sri-lankas-series-win-over-proteas/",
+    "url_hash": "40e8353befaa297507abe33a7c617c65",
+    "ut": 1631068873,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Sri Lanka team leave for Davis Cup",
+    "source": "island.lk",
+    "snippet": "Davis Cup team were scheduled to leave for Amman, Jordan today. Sri Lanka will compete in the Asia/Oceania Group III and the tournament will be played from September 15 to 20. While former Davis Cup player Renouk Wijemanne is the coach and nonplaying captain,",
+    "url": "https://island.lk/sri-lanka-team-leave-for-davis-cup/",
+    "url_hash": "7ad20be772a111efac6bc4e595aa3982",
+    "ut": 1631069833,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Davis Cup",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Amman",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jordan",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Asia/Oceania Group III",
+        "start_end": [
+          18,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 15 to 20",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Davis Cup",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Renouk Wijemanne",
+        "start_end": [
+          41,
+          43
         ]
       }
     ]
