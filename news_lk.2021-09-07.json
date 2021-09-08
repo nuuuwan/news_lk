@@ -5377,6 +5377,57 @@
   },
   {
     "date": "2021-09-07",
+    "title": "Sri Lanka admits foreign exchange crisis 'dangerous'",
+    "source": "www.newagebd.net",
+    "snippet": "Sri Lanka's finance minister said on Tuesday that the island faced a 'dangerous foreign exchange crisis' but the government denied it would seek an international bailout. Basil Rajapaksa, 70, the youngest brother of president Gotabaya Rajapaksa,",
+    "url": "http://www.newagebd.net/article/148483/sri-lanka-admits-foreign-exchange-crisis-dangerous",
+    "url_hash": "07c1680f89bd1891a8b33108d5d4ad6d",
+    "ut": 1631034503,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "70",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
     "title": "Sri Lanka win ODI series after beating SAfrica by 78 runs",
     "source": "apnews.com",
     "snippet": "Sri Lanka won a one-day international series for the first time in 19 months when it sunk South Africa for 125 runs on Tuesday. A third and final match that was expected to be ripe for the batsmen was instead dominated by the bowlers,",
@@ -5908,6 +5959,73 @@
     "url": "https://www.dailymirror.lk/top_story/Cabraal-seeks-CB-governor-post-with-Cabinet-rank/155-219893",
     "url_hash": "b315fcbe610bc2f7034353ca6694d87f",
     "ut": 1631038093,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Cabraal seeks CB governor post with Cabinet rank",
+    "source": "www.dailymirror.lk",
+    "snippet": "State Minister Ajith Nivard Cabraal is reported to have sought the governor post of the Central Bank with Cabinet rank like in countries such as China, Singapore and Vietnam, the Daily Mirror learns.",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabraal-seeks-CB-governor-post-with-Cabinet-rank/108-219893",
+    "url_hash": "713fa57ccba7feec813b8f43949955fb",
+    "ut": 1631038094,
     "ent_info_list": [
       {
         "label": "PERSON",
@@ -8225,6 +8343,25 @@
     "url": "https://www.dailymirror.lk/expose/Waiver-of-registration-questioned-Import-of-covid-related-drugs-products-shrouded-in-controversy/333-219917",
     "url_hash": "38f3afa3e7e9c7e5a1c4cdb5261d0c74",
     "ut": 1631048916,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The National Medicines Regulatory",
+        "start_end": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Waiver of registration questioned: Import of covid related drugs, products shrouded in controversy",
+    "source": "www.dailymirror.lk",
+    "snippet": "The National Medicines Regulatory Authority- the independent authority that regulates medicine and medical devices in the country..... ..",
+    "url": "https://www.dailymirror.lk/expose/Waiver-of-registration-questioned%3A-Import-of-covid-related-drugs--products-shrouded-in-controversy/333-219917",
+    "url_hash": "278192b9cb1044b4e56b8e4f89970c92",
+    "ut": 1631048917,
     "ent_info_list": [
       {
         "label": "ORG",
