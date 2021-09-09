@@ -5445,6 +5445,25 @@
   },
   {
     "date": "2021-09-08",
+    "title": "U.S. CDC warns against travel to Sri Lanka, Jamaica, and Brunei",
+    "source": "uk.news.yahoo.com",
+    "snippet": "A popular Caribbean destination was among the countries raised to a level 4, which signifies \"very high'' COVID levels and means travelers should avoid travel to the country.",
+    "url": "https://uk.news.yahoo.com/u-cdc-warns-against-travel-172452743-101240167.html",
+    "url_hash": "dfead2851bff56c93a4e6bbf1ea51fc0",
+    "ut": 1631113689,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Health Minister agrees to use Pfizer for 12-18 age category: GMOA",
     "source": "www.dailymirror.lk",
     "snippet": "The Health Minster today agreed with the proposal made by the Government Medical Officers' Association (GMOA) to stop the use of the Pfizer-BioNtech COVID vaccine for the age group 18 to 30 and to use it for the 12 to 18 age group,",
@@ -6689,6 +6708,57 @@
         "start_end": [
           27,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "HatchX: Sri Lanka's most disruptive fintech accelerator is back bigger and better for 2021",
+    "source": "www.ft.lk",
+    "snippet": "Despite being in its infancy, Sri Lanka's fintech industry has made great strides over the years, and one of the biggest came last year with the launch of the country's first-ever fintech accelerator program.",
+    "url": "https://www.ft.lk/front-page/HatchX-Sri-Lanka-s-most-disruptive-fintech-accelerator-is-back-bigger-and-better-for-2021/44-722838",
+    "url_hash": "cd476c2803dc19c4381970ad49a55a05",
+    "ut": 1631135301,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the years",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
