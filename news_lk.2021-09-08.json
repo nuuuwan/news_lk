@@ -1122,6 +1122,33 @@
   },
   {
     "date": "2021-09-08",
+    "title": "The Latest: Georgia district changes plans after 3 deaths",
+    "source": "www.thetelegraph.com",
+    "snippet": "ATLANTA \u2014 Another Georgia school district is switching to virtual learning, after",
+    "url": "https://www.thetelegraph.com/news/article/The-Latest-Merkel-says-vaccinated-aren-t-guinea-16439519.php",
+    "url_hash": "58a18bafdb4c56dbb8a690173db8f56c",
+    "ut": 1631067396,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ATLANTA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Georgia",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "COVID-19 vaccination centres operating island-wide today",
     "source": "www.adaderana.lk",
     "snippet": "COVID vaccination programmes conducted by the Ministry of Health and the Sri Lanka Army are continuing in many parts of the island today ( 08)",
@@ -3478,6 +3505,49 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Tourism Chairperson defends request to relax guidelines for travellers",
+    "source": "colombogazette.com",
+    "snippet": "By Easwaran Rutnam\u00a0 Sri Lanka Tourism Chairperson Kimarli Fernando has defended a decision to seek the further relaxation of Covid guidelines for travellers.\u00a0 In a letter sent to the Director General of Health Asela Gunawardena,",
+    "url": "https://colombogazette.com/2021/09/08/tourism-chairperson-defends-request-to-relax-guidelines-for-travellers/",
+    "url_hash": "7681a018cb72cfd6a909a1c3c57316f6",
+    "ut": 1631092608,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chairperson Kimarli Fernando",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Asela Gunawardena",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "CDC adds two popular island getaways to 'very high' Covid-19 travel risk list",
     "source": "www.kten.com",
     "snippet": "Two tropical islands half a world apart and popular with tourists -- Jamaica in the Caribbean and Sri Lanka in South Asia -- are now among the highest-risk destinations for travelers. That's according to the US Centers for Disease Control and Prevention's travel advisories list,",
@@ -3891,6 +3961,57 @@
         "start_end": [
           2,
           3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Cardinal alleges moves by PM, FM to mislead Pope over Easter Sunday probe",
+    "source": "www.dailymirror.lk",
+    "snippet": "Archbishop of Colombo, Cardinal Malcolm Ranjith, today alleged there were moves by the Prime Minister and Foreign Minister to mislead the Pope and international community over the Easter Sunday investigations during the Prime Minister's visit to Italy ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Cardinal-alleges-moves-by-PM-FM-to-mislead-Pope-over-Easter-Sunday-probe/108-219951",
+    "url_hash": "69003ce86b22d96f9b3a327cb213021f",
+    "ut": 1631096179,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Malcolm Ranjith",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pope",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
