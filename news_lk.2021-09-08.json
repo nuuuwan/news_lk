@@ -4516,6 +4516,57 @@
   },
   {
     "date": "2021-09-08",
+    "title": "PM not sought a meeting with Pope",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prime Minister Mahinda Rajapaksa has not sought a meeting with Pope Francis and neither will he or his delegation be visiting the Vatican during the Prime Minister's visit to Italy which begins tomorrow,",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-not-sought-a-meeting-with-Pope/108-219957",
+    "url_hash": "9ab326b54729dfd4c7c1e85ed7868aa1",
+    "ut": 1631106486,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pope Francis",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Vatican",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Water supply will continue without increasing charges: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "Water Supply Minister Vasudeva Nanayakkara today said the Ministry expects to continue water supply without any increased charges and determined to meet water consumption needs of the people. ..",

@@ -1585,6 +1585,49 @@
   },
   {
     "date": "2021-09-09",
+    "title": "The Latest: Biden to lay out plans to boost vaccine uptake",
+    "source": "www.mypanhandle.com",
+    "snippet": "President Joe Biden is set to outline a six-pronged federal effort to boost COVID-19 vaccinations and curb the surging delta variant of the coronavirus that is killing thousands each week and",
+    "url": "https://www.mypanhandle.com/health/the-latest-virus-infects-99-kids-at-philippine-orphanage/",
+    "url_hash": "b2e51481dd82ffa34a2aa6bc83132929",
+    "ut": 1631171304,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "each week",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
     "title": "The Latest: Virus infects 99 kids at Philippine orphanage",
     "source": "wgno.com",
     "snippet": "As COVID-19 patients fill Philippine hospitals to the brim, officials say the virus has hit an orphanage and infected almost 100 children. Quezon City Mayor Joy Belmonte said",
@@ -1856,6 +1899,291 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "'Like a lunar outpost': Former U.S intelligence officer and a flight attendant posted to secretive Indian Ocean military base Diego Garcia share photos of their time on the ...",
+    "source": "www.msn.com",
+    "snippet": "Here we present images taken by former U.S intelligence officer and patrol plane pilot Bill Preston and Tarina Peterson, a flight attendant on military flights to Diego Garcia for four years.",
+    "url": "https://www.msn.com/en-gb/travel/news/former-us-intelligence-officer-details-life-on-the-diego-garcia-base/ar-AAOfOT1",
+    "url_hash": "598202548fd88e6dcdbbe6294e753ad9",
+    "ut": 1631182095,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill Preston",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tarina Peterson",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Diego Garcia",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four years",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Are all vaccines suited for expectant mothers?",
+    "source": "www.adaderana.lk",
+    "snippet": "However, when it comes to this Delta variant, we know it can create issues for expectant mothers. If COVID-19 is contracted during pregnancy, we consider it a high-risk situation. It can harm the baby and the mother.",
+    "url": "http://www.adaderana.lk/news.php?nid=76778",
+    "url_hash": "e1b253f6c66f465b6753ece1744570ee",
+    "ut": 1631182099,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Detained Sri Lanka human rights lawyer's work conflated with terrorism: UN special rapporteur",
+    "source": "economynext.com",
+    "snippet": "Detained Sri Lankan lawyer Hejaaz Hizbullah's human rights work and legal practice may have been conflated with terrorism and his detention may be used to prevent him from further engaging in ongoing human rights cases,",
+    "url": "https://economynext.com/detained-sri-lanka-human-rights-lawyers-work-conflated-with-terrorism-un-special-rapporteur-85939/",
+    "url_hash": "45e8d66fd60dbad7782f1ecd642de4df",
+    "ut": 1631182113,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hejaaz Hizbullah's",
+        "start_end": [
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "CSA announces Proteas squad for T20 Cricket World Cup!",
+    "source": "www.msn.com",
+    "snippet": "CSA has announced the Proteas T20 World Cup squad that will represent the country in the United Arab Emirates (UAE) and Oman in October and November.",
+    "url": "https://www.msn.com/en-za/sport/cricket/csa-announces-proteas-squad-for-t20-cricket-world-cup/ar-AAOfUYp",
+    "url_hash": "3cff0e30a0c24dfae4a013fba1cd1f71",
+    "ut": 1631182422,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "CSA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Proteas T20 World Cup",
+        "start_end": [
+          3,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United Arab Emirates",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Drop in COVID-19 deaths expected, breakthrough deaths may occur: Sri Lanka official",
+    "source": "economynext.com",
+    "snippet": "With some 40% of the population now fully vaccinated , Sri Lanka can expect a drop in COVID-19 deaths over time, a health official said, but as more people are jabbed, the percentage of breakthrough cases or deaths is expected to rise merely as a function of statistics and not because vaccines don't work.",
+    "url": "https://economynext.com/drop-in-covid-19-deaths-expected-breakthrough-deaths-may-occur-sri-lanka-official-85940/",
+    "url_hash": "3d9b911af37f46b2d3ef7fedc1ea73f7",
+    "ut": 1631182653,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "some 40%",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Sri Lanka asks women to delay pregnancy over Covid risks",
+    "source": "www.msn.com",
+    "snippet": "Sri Lankan women were urged to delay getting pregnant after more than 40 expectant mothers died of Covid-19 in four months, the health ministry said Thursday. Experts have urged pregnant women to get the jab,",
+    "url": "https://www.msn.com/en-us/news/world/sri-lanka-asks-women-to-delay-pregnancy-over-covid-risks/ar-AAOg06f",
+    "url_hash": "fda35c23002abad0e70319808f1502d8",
+    "ut": 1631184615,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 40",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four months",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Sri Lankan drug trafficker Bob Marley arrested",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lankan drug trafficker Chaminda Thabrew alias 'Bob Marley' has been arrested in the Elpitiya area. The Police Narcotics Bureau (PNB) arrested the suspect following extensive investigations. Public",
+    "url": "https://colombogazette.com/2021/09/09/sri-lankan-drug-trafficker-bob-marley-arrested/",
+    "url_hash": "735576bdd3b107fc3086b22705940955",
+    "ut": 1631184998,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chaminda Thabrew",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bob Marley'",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Elpitiya",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Police Narcotics Bureau",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PNB",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
