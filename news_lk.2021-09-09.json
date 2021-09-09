@@ -1,6 +1,65 @@
 [
   {
     "date": "2021-09-09",
+    "title": "Sand loading racket in Maldives",
+    "source": "www.msn.com",
+    "snippet": "... offered to resign if it is proven that a Minister of the Sri Lanka Freedom Party (SLFP) is involved in a racket of loading Sri Lankan sand into the Maldives to fill an island in the Maldives. Tamil National Alliance (TNA) Member of Parliament ...",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/sand-loading-racket-in-maldives/ar-AAOeTmf",
+    "url_hash": "71c758ba50a69e4e81bee73af1ff6def",
+    "ut": 1631146092,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Freedom Party",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamil National Alliance",
+        "start_end": [
+          41,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
     "title": "Some police stations defaulted in paying water bills",
     "source": "www.dailymirror.lk",
     "snippet": "Some police stations had defaulted in paying water bills, the government said yesterday. Minister of Water Supply Vasudeva Nanayakkara said that raids had to be carried out on these police stations to recover the payments.",
@@ -347,6 +406,57 @@
         "start_end": [
           15,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Sinopharm Group expresses interest in setting up vaccine refilling plant in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chairman of Sinopharm Group Liu Jingzhen has expressed his enthusiasm in setting up a vaccine refilling plant in Sri Lanka,the Sri Lankan embassy in Beijing said. ..",
+    "url": "https://www.dailymirror.lk/top_story/Sinopharm-Group-expresses-interest-in-setting-up-vaccine-refilling-plant-in-Sri-Lanka/155-219989",
+    "url_hash": "f2e058cb2a99ed5af3c9a0ea6b17f5fc",
+    "ut": 1631153283,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm Group",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Liu Jingzhen",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
@@ -1144,6 +1254,76 @@
   },
   {
     "date": "2021-09-09",
+    "title": "The Latest: Virus infects 99 kids at Philippine orphanage",
+    "source": "www.fox44news.com",
+    "snippet": "As COVID-19 patients fill Philippine hospitals to the brim, officials say the virus has hit an orphanage and infected almost 100 children. Quezon City Mayor Joy Belmonte said",
+    "url": "https://www.fox44news.com/news/the-latest-virus-infects-99-kids-at-philippine-orphanage/",
+    "url_hash": "ba1236e7cd4611402335b21d2d4efb3b",
+    "ut": 1631167692,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Philippine",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "almost 100",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Quezon City",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joy Belmonte",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Raids carried out island wide to seek traders hiding food stocks",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Consumer Affairs Authority says that raids are being carried out to find traders who are hiding stocks of rice. Its Chairman - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/09/raids-carried-out-island-wide-to-seek-traders-hiding-food-stocks/",
+    "url_hash": "45bf6e5dccd973b89c2c5ae8fb4520c4",
+    "ut": 1631167692,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Consumer Affairs Authority",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
     "title": "Director General of Zoology Dept. resigns",
     "source": "www.dailymirror.lk",
     "snippet": "Director General of the National Zoological Gardens, Ishini Wickremesinghe has resigned from her post. State Minister of Wildlife Wimalaweera Dissanayake said that she had informed the President about her decision in a letter.",
@@ -1563,6 +1743,119 @@
         "start_end": [
           41,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "14 tamed elephants kept under Department of Zoological Gardens released back to original owners",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Colombo Chief Magistrate's Court has issued an order to release 14 tamed elephants held under the custody of the Department of National Zoological Gardens, back to their original owners. ..",
+    "url": "https://www.dailymirror.lk/latest_news/14-tamed-elephants-kept-under-Department-of-Zoological-Gardens-released-back-to-original-owners/342-220015",
+    "url_hash": "48e314e15e17c4e4f026ad768e75f41f",
+    "ut": 1631174913,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of National Zoological Gardens",
+        "start_end": [
+          20,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Health Ministry clarifies health expert's take on delaying pregnancy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Referring to the request made by Gynaecologist of the De Soysa Maternity Hospital for women Dr. Harsha Atapattu to delay pregnancy by one year, given the Delta variant spread, the Health Ministry said it was not its official stand.",
+    "url": "https://www.dailymirror.lk/breaking_news/Health-Ministry-clarifies-health-experts-take-on-delaying-pregnancy/108-220016",
+    "url_hash": "968cba2e6359adfba1b4f57885fa38a3",
+    "ut": 1631178483,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the De Soysa Maternity Hospital",
+        "start_end": [
+          8,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harsha Atapattu",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one year",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Ishini Wickremesinghe",
+    "source": "www.dailynews.lk",
+    "snippet": "The Director-General of the National Zoological Gardens, Ishini Wickremesinghe has resigned from her post. She has resigned citing personal reasons, said the State Minister of Wildlife",
+    "url": "https://www.dailynews.lk/tags/ishini-wickremesinghe",
+    "url_hash": "102b1c60249a31d474750affe079bec6",
+    "ut": 1631180227,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National Zoological Gardens",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ishini Wickremesinghe",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
