@@ -1,6 +1,167 @@
 [
   {
     "date": "2021-09-09",
+    "title": "K-POP stars Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "The K-POP festival in Sri Lanka was organised by the Korean Embassy together with ... Under the category of best K-POP Dance Performance, Island Stompers, Lachimolala, Riya Pathirana and Mandira Hippola were selected as best performers of the preliminary ...",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/k-pop-stars-sri-lanka/ar-AAOf7IB",
+    "url_hash": "e0e8c672b76f986792d31169342347a8",
+    "ut": 1631146105,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Korean Embassy",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Island Stompers",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Lachimolala",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Riya Pathirana",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mandira Hippola",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Indian agencies track huge heroin seizure off Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "The Indian anti-drug law enforcement agencies are gathering details about the seizure of more than 600 kg of heroin and the arrest of seven Pakistani nationals by their Sri Lankan counterparts in the high seas during the past few days.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/indian-agencies-track-huge-heroin-seizure-off-sri-lanka/ar-AAOf7J8",
+    "url_hash": "a6ed2ca019a4b9c565917cdcdbba75f5",
+    "ut": 1631146105,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 600 kg",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Pakistani",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past few days",
+        "start_end": [
+          38,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Sri Lanka ups oil resource claims to US$267bn",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's energy minister Udaya Gammapila had claimed the existence of 267 billion US dollars of oil and gas resources under the country's seas at a parliamentary hearing, up 27 billion dollars from earlier reported claims.",
+    "url": "https://economynext.com/sri-lanka-ups-oil-resource-claims-to-us267bn-85920/",
+    "url_hash": "d76b84979177d1a224d3e74cbeee617f",
+    "ut": 1631146125,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Udaya Gammapila",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "267 billion US dollars",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "27 billion dollars",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
     "title": "Some police stations defaulted in paying water bills",
     "source": "www.dailymirror.lk",
     "snippet": "Some police stations had defaulted in paying water bills, the government said yesterday. Minister of Water Supply Vasudeva Nanayakkara said that raids had to be carried out on these police stations to recover the payments.",
@@ -73,6 +234,175 @@
         "start_end": [
           25,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "UN Special Rapporteurs recommend to review PTA",
+    "source": "www.dailymirror.lk",
+    "snippet": "Special Rapporteurs have recommended to review the Prevention of Terrorism Act (PTA) in Sri Lanka to bring it in line with international human rights standards. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/UN-Special-Rapporteurs-recommend-to-review-PTA/108-219988",
+    "url_hash": "8dab10d1941298a7e976f98286cf8acc",
+    "ut": 1631149695,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Special Rapporteurs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Prevention of Terrorism Act",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "PTA",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Sinopharm Group expresses interest in setting up vaccine refilling plant in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chairman of Sinopharm Group Liu Jingzhen has expressed his enthusiasm in setting up a vaccine refilling plant in Sri Lanka,the Sri Lankan embassy in Beijing said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Sinopharm-Group-expresses-interest-in-setting-up-vaccine-refilling-plant-in-Sri-Lanka/108-219989",
+    "url_hash": "e0668081ec4b8ec3cddd174945e594a0",
+    "ut": 1631153295,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm Group",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Liu Jingzhen",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "US to remain fully engaged with Sri Lanka on reconciliation issue",
+    "source": "colombogazette.com",
+    "snippet": "The United States says it will remain fully engaged with Sri Lanka on the reconciliation issue. Outgoing US Ambassador to Sri Lanka Alaina B. Teplitz said that the US believe addressing human rights is really important not just for Americans,",
+    "url": "https://colombogazette.com/2021/09/09/us-to-remain-fully-engaged-with-sri-lanka-on-reconciliation-issue/",
+    "url_hash": "6df74707b0cf4019cec918f1402c892f",
+    "ut": 1631155550,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United States",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Alaina",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "B. Teplitz",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]

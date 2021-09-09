@@ -3436,6 +3436,16 @@
     "title": "Police seek public support to locate local 'Bob Marley'",
     "source": "www.dailymirror.lk",
     "snippet": "The police has sought public assistance to locate the main suspect, who was involved in smuggling drugs into the country on a multi-day trawler. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-seek-public-support-to-locate-local-Bob-Marley/108-219950",
+    "url_hash": "62212b2e9b6ea84499cd3f1a78549d09",
+    "ut": 1631092095,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Police seek public support to locate local 'Bob Marley'",
+    "source": "www.dailymirror.lk",
+    "snippet": "The police has sought public assistance to locate the main suspect, who was involved in smuggling drugs into the country on a multi-day trawler. ..",
     "url": "https://www.dailymirror.lk/latest_news/Police-seek-public-support-to-locate-local-Bob-Marley/342-219950",
     "url_hash": "d906e0256503b40623147b94a7196b20",
     "ut": 1631092099,
@@ -4422,6 +4432,41 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Water supply will continue without increasing charges: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Water Supply Minister Vasudeva Nanayakkara today said the Ministry expects to continue water supply without any increased charges and determined to meet water consumption needs of the people. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Water-supply-will-continue-without-increasing-charges-Minister/108-219956",
+    "url_hash": "75312f3e44f7a2aa07bae2014664d107",
+    "ut": 1631106495,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Water Supply",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vasudeva Nanayakkara",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ministry",
+        "start_end": [
+          8,
+          9
         ]
       }
     ]
