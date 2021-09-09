@@ -5249,6 +5249,108 @@
   },
   {
     "date": "2021-09-08",
+    "title": "CDC Has A Warning About Traveling To These 2 Popular Destinations",
+    "source": "www.ibtimes.com",
+    "snippet": "The Centers for Disease Control and Prevention is warning travelers about going to two more popular destinations - Jamaica in the Caribbean and Sri Lanka in South Asia - adding them both as \"Level 4: COVID-19 Very High\" risk travel locations as coronavirus cases surge.",
+    "url": "https://www.ibtimes.com/cdc-has-warning-about-traveling-these-2-popular-destinations-3291016",
+    "url_hash": "ebc47b753df20d76f28c55ef02e95877",
+    "ut": 1631110298,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Centers for Disease Control and Prevention",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jamaica",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "U.S. Officials Tell Americans to Avoid Jamaica in Latest Travel Warning",
+    "source": "www.yahoo.com",
+    "snippet": "The Centers for Disease Control and Prevention added three more countries to its highest advisory level, including the popular beach destination of Jamaica, warning Americans not to travel there. The agency,",
+    "url": "https://www.yahoo.com/lifestyle/u-officials-tell-americans-avoid-142347067.html",
+    "url_hash": "c0dce8b1eb8e662369a5c2c46e9024f8",
+    "ut": 1631110298,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Centers for Disease Control and Prevention",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jamaica",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Sri Lanka fails to sell 51-pct of Treasuries auction amid price controls",
     "source": "economynext.com",
     "snippet": "Sri Lanka has failed to sell 51 percent of a 64 billion rupee Treasuries auction, despite a ceiling rate being raised 08 basis points to 6.05 percent, data from the debt office showed.",
@@ -6048,6 +6150,65 @@
         "start_end": [
           14,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "2 tropical islands added to the highest-risk destinations list",
+    "source": "www.abc4.com",
+    "snippet": "Two tropical islands half a world apart and popular with tourists \u2014 Jamaica in the Caribbean and Sri Lanka in South Asia \u2014 are now among the",
+    "url": "https://www.abc4.com/gtu/2-tropical-islands-added-to-the-highest-risk-destinations-list/",
+    "url_hash": "b50649e1deb4d4db6f4433a28ac93c71",
+    "ut": 1631124698,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jamaica",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
@@ -6907,6 +7068,162 @@
         "start_end": [
           18,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Aug. records highest monthly tourist arrivals so far this year",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka received the highest monthly tourist arrivals of 5,040 in August so far this year, amid relatively eased COVID-19-related restrictions globally and locally, aggressive vaccination drive and growing consumer confidence.",
+    "url": "https://www.dailymirror.lk/business-news/Aug--records-highest-monthly-tourist--arrivals-so-far-this-year/273-219986",
+    "url_hash": "5485c12c9334354f87128363d092a03b",
+    "ut": 1631139088,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "monthly",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5,040",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "CSE approves in principle to list ComBank's Rs.10bn debenture",
+    "source": "www.dailymirror.lk",
+    "snippet": "PLC is gearing to raise up to Rs.10 billion via a listed debenture issue and the Colombo Stock Exchange (CSE) in principle has approved an application to list the said debentures. ..",
+    "url": "https://www.dailymirror.lk/business-news/CSE-approves-in-principle-to-list-ComBank%E2%80%99s-Rs-10bn-debenture/273-219980",
+    "url_hash": "2d142872402d7617aaa488881feb8b7d",
+    "ut": 1631139088,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Rs.10 billion",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Shares extend losing streak, financials and industrials weigh",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankan shares slumped for a third straight session yesterday, dragged by heavy losses in the financial and industrial companies. ..",
+    "url": "https://www.dailymirror.lk/business-news/Shares-extend-losing-streak--financials-and-industrials-weigh/273-219982",
+    "url_hash": "0a1cbd34baae8863711cd676f8780f0c",
+    "ut": 1631139088,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "The Beautiful Heart and the Revolutionary Vision of Arjun",
+    "source": "browngirlmagazine.com",
+    "snippet": "Julien TrivediFrom soulful experiences full of aching love to party-rock anthems, Arjun is a versatile artist and an icon. He is an R&B singer-songwriter, record producer and multi",
+    "url": "https://browngirlmagazine.com/2021/09/the-beautiful-heart-and-the-revolutionary-vision-of-arjun/",
+    "url_hash": "744b1dfc63e6cc9d9005dfb17feae120",
+    "ut": 1631139098,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Julien",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Arjun",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "R&B",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
