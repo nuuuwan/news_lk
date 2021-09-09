@@ -6148,6 +6148,73 @@
   },
   {
     "date": "2021-09-08",
+    "title": "Paralympic athletes meet Prime Minister",
+    "source": "www.hirunews.lk",
+    "snippet": "Dinesh Priyantha Herath, who set a new world record in javelin throwing, and bronze medalist Samitha Dulan at the Paralympic 2020 in Tokyo, Japan met Prime Minister Mahinda Rajapaksa at Temple Trees today (08).",
+    "url": "https://www.hirunews.lk/goldfmnews/281703/paralympic-athletes-meet-prime-minister",
+    "url_hash": "c8c3fe6e18c43a0e11b37e3f29602307",
+    "ut": 1631120910,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Priyantha Herath",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Samitha Dulan",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Temple Trees",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
     "title": "Sri Lanka says tracing origin of Covid should not be politicized",
     "source": "colombogazette.com",
     "snippet": "Sri Lanka says tracing the origin of the coronavirus should not be politicized. The Foreign Ministry said that the COVID-19 pandemic has caused severe disruptions to the health, safety, and livelihoods of people around the world.",
@@ -6169,6 +6236,89 @@
         "start_end": [
           14,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "India recalls Ashwin for Twenty20 World Cup",
+    "source": "apnews.com",
+    "snippet": "India named five spinners, including Ravichandran Ashwin, in its 15-member squad for the next month's Twenty20 World Cup in the United Arab Emirates. With the wickets in Dubai, Sharjah and Abu Dhabi expected to suit spinners,",
+    "url": "https://apnews.com/article/sports-india-dubai-united-arab-emirates-abu-dhabi-b60a6d372e91b839cf2739fda81b7476",
+    "url_hash": "5a452e802341c5e35a506504239278a1",
+    "ut": 1631124517,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ravichandran Ashwin",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next month's",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Twenty20 World Cup",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United Arab Emirates",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Abu Dhabi",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
@@ -6869,6 +7019,33 @@
         "start_end": [
           27,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Beacon EmbeddedWorks Acquired by discoverIE Group",
+    "source": "apnews.com",
+    "snippet": "System on Module (SOM) and Embedded Solutions company Beacon EmbeddedWorks announced that the company has recently been wholly acquired by discoverIE Group plc, an international group of businesses that designs,",
+    "url": "https://apnews.com/press-release/PRNewswire/business-8b1e94e213d3c0c1a0175261fe9b1307",
+    "url_hash": "1de6784b50a48b4558cc78cc69694c5a",
+    "ut": 1631135317,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Beacon EmbeddedWorks",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "discoverIE Group plc",
+        "start_end": [
+          22,
+          25
         ]
       }
     ]
