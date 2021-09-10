@@ -4330,6 +4330,49 @@
   },
   {
     "date": "2021-09-10",
+    "title": "The Latest: Denmark lifts all domestic COVID-19 restrictions",
+    "source": "www.goskagit.com",
+    "snippet": "Denmark's high vaccination rate has enabled the Scandinavian country to become one of the first European Union nations to lift all domestic restrictions.",
+    "url": "https://www.goskagit.com/community/health/the-latest-denmark-lifts-all-domestic-covid-19-restrictions/article_f59b2236-a328-5d7e-8fbc-f99d1b8f6d9f.html",
+    "url_hash": "079753fcabdfef0e5c8a59148d844f2d",
+    "ut": 1631272122,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "European Union",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "96 pct of Sri Lanka's daily COVID-19 cases are delta: USJ study",
     "source": "economynext.com",
     "snippet": "A study by Sri Lanka's University of Sri Jayawardenapura (USJ) has found that 96 percent of Sri Lanka's daily COVID-19 cases are caused by the delta variant of SARS-CoV-2. Dr Chandima Jeewandara, director of the USJ's Allergy Immunology and Cell Biology Unit,",
@@ -5060,6 +5103,57 @@
   },
   {
     "date": "2021-09-10",
+    "title": "The Latest: Egypt sees spike before schools open next week",
+    "source": "www.timesunion.com",
+    "snippet": "The latest increase is alarming for Egyptian authorities as schools are scheduled to open their doors for face-to-face classes next week. Egypt, the Arab world's most populous country with 100 million people,",
+    "url": "https://www.timesunion.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "445b0413cc69edfaf4377a3bb02b354e",
+    "ut": 1631275706,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Egyptian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Arab",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100 million",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Sunil Perera, outspoken Sri Lankan singer, dies at age 68",
     "source": "www.islandpacket.com",
     "snippet": "Sunil Perera, a versatile Sri Lankan singer, musician, composer and entertainer, has died of apparent complications from COVID-19.",
@@ -5608,6 +5702,384 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "GSMB to submit report on illegal filling of lagoons in EP",
+    "source": "dailynews.lk",
+    "snippet": "The Minister of Environment has instructed the Geological Survey and Mines Bureau (GSMB) to submit a report on the illegal filling of lagoons in the Eastern Province using soil from tanks. Environment Minister Mahinda Amaraweera has instructed the Geological Survey and Mines Bureau to submit an immediate report on the illegal filling of lagoons by certain groups in the Eastern Province using soil from tanks.",
+    "url": "http://dailynews.lk/2021/09/10/local/258984/gsmb-submit-report-illegal-filling-lagoons-ep",
+    "url_hash": "e56474a145f266d8825abb0c80914ea7",
+    "ut": 1631282894,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Geological",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau (GSMB",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Eastern Province",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Geological",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Eastern Province",
+        "start_end": [
+          61,
+          64
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lanka returns stolen elephants to captors",
+    "source": "www.msn.com",
+    "snippet": "Two Sri Lankan elephant homes have returned 13 of the young animals stolen from wildlife parks back to their alleged captors following a court order, officials said Friday. But in a controversial twist this week,",
+    "url": "https://www.msn.com/en-us/news/world/sri-lanka-returns-stolen-elephants-to-captors/ar-AAOiKmR",
+    "url_hash": "c739fba66ae48ba40edd3c9b8377f5f8",
+    "ut": 1631282898,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lanka returns stolen elephants to captors",
+    "source": "www.msn.com",
+    "snippet": "Two Sri Lankan elephant homes have returned 13 of the young animals stolen from wildlife parks back to their alleged captors following a court order, officials said Friday. But in a controversial twist this week,",
+    "url": "https://www.msn.com/en-za/news/world/sri-lanka-returns-stolen-elephants-to-captors/ar-AAOiKmR",
+    "url_hash": "4b5dd6d40f367e250f0515974f4c023d",
+    "ut": 1631282922,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Fortuin starts as SA bat first in first T20 international vs Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "Bjorn Fortuin was included in the Proteas' starting team for Friday's first T20 International against Sri Lanka in Colombo.",
+    "url": "https://www.msn.com/en-za/sport/cricket/fortuin-starts-as-sa-bat-first-in-first-t20-international-vs-sri-lanka/ar-AAOiD07",
+    "url_hash": "85af234c55fff819f23131a8ecf5ad54",
+    "ut": 1631282922,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Bjorn Fortuin",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Proteas",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Denmark lifts all domestic COVID-19 restrictions",
+    "source": "www.news-gazette.com",
+    "snippet": "COPENHAGEN, Denmark \u2014 Denmark's high vaccination rate has enabled the Scandinavian country to become one of the first European Union nations to lift all domestic restrictions.",
+    "url": "https://www.news-gazette.com/news/nation-world/the-latest-denmark-lifts-all-domestic-covid-19-restrictions/article_55912714-018e-5fbd-97f6-97c3fc13c7be.html",
+    "url_hash": "bb1f10cac5c54720610975b6d3adb59d",
+    "ut": 1631284958,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "European Union",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Nations enroll youths in trial of China vaccine",
+    "source": "www.sfgate.com",
+    "snippet": "The global study will enroll 2,000 participants in South Africa and 12,000 others in Kenya, the Philippines, Chile and Malaysia. The first children in South Africa were inoculated at the Sefako Makgatho Health Sciences University in the capital Pretoria to kick off the trials.",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "848e22086a331c341216e7abe38c3239",
+    "ut": 1631285606,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "2,000",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12,000",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kenya",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Philippines",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Chile",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sefako Makgatho Health Sciences University",
+        "start_end": [
+          32,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pretoria",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
