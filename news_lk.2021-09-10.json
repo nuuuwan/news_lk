@@ -7759,6 +7759,65 @@
   },
   {
     "date": "2021-09-10",
+    "title": "The Latest: Court reinstates Fla ban on school mask mandates",
+    "source": "www.news-gazette.com",
+    "snippet": "ST. PETERSBURG, Fla. \u2014 The on-again, off-again ban imposed by Republican Gov. Ron DeSantis to prevent mandated masks for Florida school students is back in force.",
+    "url": "https://www.news-gazette.com/news/nation-world/the-latest-court-reinstates-fla-ban-on-school-mask-mandates/article_55912714-018e-5fbd-97f6-97c3fc13c7be.html",
+    "url_hash": "9b5681547819fcdeebe26f40da97bcc3",
+    "ut": 1631300903,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ST",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PETERSBURG",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Fla.",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Markram hits 48, South Africa beats Sri Lanka in T20 opener",
     "source": "apnews.com",
     "snippet": "Aiden Markram hit 48 off 33 balls to propel South Africa to a 28-run win over Sri Lanka in their Twenty20 opener on Friday. South Africa won the toss and elected to bat first in the three-match series.",
@@ -8206,6 +8265,57 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Ford to spend US $ 2bn to restructure operations and close plants in India",
+    "source": "www.dailymirror.lk",
+    "snippet": "Ford Motor is ending vehicle production in India, shutting down its two large plants there and terminating thousands of employees, as CEO Jim Farley restructures the automaker's operations as part of a turnaround plan.",
+    "url": "https://www.dailymirror.lk/business-news/Ford-to-spend-US-2bn-to-restructure-operations-and-close-plants-in-India/273-220142",
+    "url_hash": "7cc8938213f0116906308c544bd1a537",
+    "ut": 1631304470,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ford Motor",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jim Farley",
+        "start_end": [
+          24,
+          26
         ]
       }
     ]
@@ -8795,6 +8905,401 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Taliban response to Afghan protests increasingly violent: UN",
+    "source": "www.dailymirror.lk",
+    "snippet": "The U.N. rights office on Friday said that the Taliban response to peaceful marches in Afghanistan has been increasingly violent, with authorities using live ammunition, batons and whips and causing the deaths of at least four protesters.",
+    "url": "https://www.dailymirror.lk/international/Taliban-response-to-Afghan-protests-increasingly-violent-UN/107-220157",
+    "url_hash": "b872dd8ccc20343354b8aac34f90d733",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "U.N.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least four",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Three Days in March",
+    "source": "www.dailymirror.lk",
+    "snippet": "My earliest and most fond memory of my father was his command for me to \"wave the flag!\" whenever our Boys in 'Blue and Gold' scored a boundary or took a wicket during those warm and sunny three days in March at the SSC. Attendance at the game ...",
+    "url": "https://www.dailymirror.lk/news-features/Three-Days-in-March/131-220149",
+    "url_hash": "69599671aff362702cee5c55dfb695a2",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "Boys in 'Blue and Gold'",
+        "start_end": [
+          23,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three days",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SSC",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Colombo Stock Exchange commences Executive Programme with University Canada West",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Executive Programme, launched by the Colombo Stock Exchange (CSE) and University Canada West (UCW), is set to commence on September 27, 2021. The launch of this exclusive programme is a first step in the collaborative efforts for mutual development of ...",
+    "url": "https://www.dailymirror.lk/business-news/Colombo-Stock-Exchange-commences-Executive-Programme-with-University-Canada-West/273-220140",
+    "url_hash": "5c69ebbd240a5f10149dd23622a4e146",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Executive Programme",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "University Canada West",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 27, 2021",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Malaysia's Top Glove says U.S. lifts import ban over forced labour",
+    "source": "www.dailymirror.lk",
+    "snippet": "REUTERS: Malaysia's Top Glove Corp said yesterday it has been allowed to resume sales to the United States, after customs authorities lifted a year-long ban imposed for alleged forced labour found at the world's largest medical glove maker. The U.S ...",
+    "url": "https://www.dailymirror.lk/business-news/Malaysias-Top-Glove-says-U-S-lifts-import-ban-over-forced-labour/273-220143",
+    "url_hash": "420086dcdecfc096469402b76cd511fd",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "REUTERS",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Top Glove Corp",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "year-long",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Writing Letters to Michele Bachelet Causes Turmoil Within the TNA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Tamil National Alliance(TNA) is currently in a state of great turmoil. The current TNA crisis is linked up with the United Nations Human Rights Council(UNHRC) in Geneva. The issue is that of writing letters to the UN Human Rights Commissioner Ms ...",
+    "url": "https://www.dailymirror.lk/recomended-news/Writing-Letters-to-Michele-Bachelet-Causes-Turmoil-Within-the-TNA/277-220156",
+    "url_hash": "638d568b808c4173f3085c93d83980bd",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations Human Rights Council(UNHRC",
+        "start_end": [
+          22,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Submissions call for Virtual Art, Installation and Photography Exhibition",
+    "source": "www.dailymirror.lk",
+    "snippet": "As part of the upcoming Children in Lockdown Arts Festival, Stages Theatre Group has initiated an island-wide virtual children's art, installation and photography exhibition. The exhibition will focus on children's perspectives and experiences during ...",
+    "url": "https://www.dailymirror.lk/news-features/Submissions-call-for-Virtual-Art-Installation-and-Photography-Exhibition/131-220150",
+    "url_hash": "961b8d8bc8e3822e83a6d0ac1ce18daa",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Stages Theatre Group",
+        "start_end": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "A leader who walked the talk",
+    "source": "www.dailymirror.lk",
+    "snippet": "The 10th death anniversary of Deshamanya Cyril Herath fell on September 8. It is my view that he was a peerless leader who deserves to be remembered, emulated, and revered. I was the General Manager, Director and Executive Director of National Savings Bank ...",
+    "url": "https://www.dailymirror.lk/news-features/A-leader-who-walked-the-talk/131-220152",
+    "url_hash": "79d4182f1e90b43337980e1344fd3fc6",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "10th",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 8",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Savings Bank",
+        "start_end": [
+          45,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Reading made accessible!",
+    "source": "www.dailymirror.lk",
+    "snippet": "'Today a reader, tomorrow a leader' said Margaret Fuller, an American journalist. To make better leaders in the future, it is important to inculcate a lifelong reading habit from a young age. At 'Room to Read', they help to develop and nurture a ...",
+    "url": "https://www.dailymirror.lk/news-features/Reading-made-accessible/131-220147",
+    "url_hash": "c76808c361fe8da02842915ab48802e8",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Margaret Fuller",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "American",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Reminiscing the dotted career of a Trinitian",
+    "source": "www.dailymirror.lk",
+    "snippet": "H.J Smith came to Trinity to teach in middle school. He was in charge of a new subject called Social Studies which attempted to create awareness of the environment for our boys. During the class on the people of Sri Lanka, he said \"Dissanayake come up ...",
+    "url": "https://www.dailymirror.lk/news-features/Reminiscing-the-dotted-career-of-a-Trinitian/131-220153",
+    "url_hash": "570435d13f4f41aaa61b3a2843e7c45e",
+    "ut": 1631308070,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Smith",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Trinity",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Social Studies",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "The Latest: MI health provider: 92% of workers vaccinated",
     "source": "tucson.com",
     "snippet": "DETROIT \u2014 A major health care provider in southeastern Michigan says 92% of its employees have been fully vaccinated against COVID-19 by a Friday deadline and another 3% have gotten",
@@ -9001,6 +9506,253 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Montana AG: will fight vaccine mandate in court",
+    "source": "siouxcityjournal.com",
+    "snippet": "Montana Attorney General Austin Knudsen has promised to fight the new federal vaccine mandate in court. The Republican said on Friday that once the full guidelines for the mandate are released, he will file a lawsuit to strike it down.",
+    "url": "https://siouxcityjournal.com/news/national/the-latest-montana-ag-will-fight-vaccine-mandate-in-court/article_a0e40991-d60e-5903-9824-53ed85bea449.html",
+    "url_hash": "1478483fb1d2dbec86801310a1d2155a",
+    "ut": 1631311689,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Montana",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Austin Knudsen",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Montana AG: will fight vaccine mandate in court",
+    "source": "jg-tc.com",
+    "snippet": "Montana Attorney General Austin Knudsen has promised to fight the new federal vaccine mandate in court. The Republican said on Friday that once the full guidelines for the mandate are released, he will file a lawsuit to strike it down.",
+    "url": "https://jg-tc.com/news/national/the-latest-montana-ag-will-fight-vaccine-mandate-in-court/article_7f6ce680-f0d6-556a-96c3-a3df32737678.html",
+    "url_hash": "c23cddae9eb4407660462558a94a7d14",
+    "ut": 1631311703,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Montana",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Austin Knudsen",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lanka Is Running Out of Money for Imports as Delta Rages",
+    "source": "www.bloombergquint.com",
+    "snippet": "(Bloomberg) --Sri Lanka's dwindling foreign exchange reserves risk spiraling ... With a third wave of Covid-19 running across the island, the administration has taken increasingly draconian measures to deal with the crisis, from declaring a state of ...",
+    "url": "https://www.bloombergquint.com/onweb/sri-lanka-is-running-out-of-money-for-imports-as-delta-rages",
+    "url_hash": "77317262efe3565d9539207218a170f3",
+    "ut": 1631312159,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Bloomberg",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Court reinstates Fla ban on school mask mandates",
+    "source": "www.ctpost.com",
+    "snippet": "The on-again, off-again ban imposed by Republican Gov. Ron DeSantis to prevent mandated masks for Florida school students is back in force. The 1st District Court of Appeal ruled Friday a Tallahassee judge shouldn't have lifted an automatic stay two days ago that halted enforcement of the mask mandate ban.",
+    "url": "https://www.ctpost.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "864ac76e3ef16b610a4b02496465ad7c",
+    "ut": 1631312349,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "1st",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "District Court",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tallahassee",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two days ago",
+        "start_end": [
+          46,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Shaahima Fahim",
+    "source": "www.dailynews.lk",
+    "snippet": "This is the first time in the mosque's 112-year history that its doors have been closed for worshippers:The narrow streets of the Pettah market in Sri Lanka's commercial capital of Colombo are almost... Quade Cooper will play his first Test for ...",
+    "url": "https://www.dailynews.lk/line/shaahima-fahim",
+    "url_hash": "770ea41d4eb90b3d3f741affade01876",
+    "ut": 1631312874,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "112-year",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pettah",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Quade Cooper",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
