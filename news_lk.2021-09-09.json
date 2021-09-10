@@ -2294,6 +2294,57 @@
   },
   {
     "date": "2021-09-09",
+    "title": "New Zealand feared an extremist but found no way to stop him",
+    "source": "www.middletownpress.com",
+    "snippet": "Yet, in the end, nobody in New Zealand was able to stop an extremist inspired by the Islamic State group from walking free from prison in July. Seven weeks later, he grabbed a knife at an Auckland supermarket and began stabbing shoppers,",
+    "url": "https://www.middletownpress.com/news/article/New-Zealand-feared-an-extremist-but-found-no-way-16445098.php",
+    "url_hash": "e35835f8b9897dcf64d8b8bccbb293fc",
+    "ut": 1631178510,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Seven weeks later",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Auckland",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
     "title": "Wanted drug trafficker Bob Marley arrested",
     "source": "www.dailymirror.lk",
     "snippet": "Drug trafficker Kaludura Chaminda Thabrew alias Bob Marley who was wanted over smuggling drugs into the country on a multi-day trawler, had been arrested in Elpitiya by the Police Narcotics Bureau. The police had sought public assistance to locate the 41 ...",

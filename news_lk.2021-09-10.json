@@ -2190,6 +2190,57 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Island-wide lockdown extended till 4.00 am Sept. 21",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government has decided to extend the current curfew until 4.00 am on Tuesday,1. The decision was taken at the Covid Task Force meeting chaired by the President this morning (10). Health Minister Keheliya Rambukwella said that with the number of COVID infected patients steadily declining,",
+    "url": "https://www.dailymirror.lk/top_story/Island-wide-lockdown-extended-till-4-00-am-Sept-21/155-220090",
+    "url_hash": "323f2ae68630c85bda8099f0f780a6b9",
+    "ut": 1631254101,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "4.00 am",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Covid Task Force",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Empowering Sri Lanka's health sector through Dialog Axiata's Critical Care Infrastructure Enhancement Initiative",
     "source": "colombogazette.com",
     "snippet": "During these unprecedented times, Sri Lankans and people all over the world have been affected by much uncertainty and unease, resulting in the Government, communities and corporates rallying together to overcome the disastrous effects of the COVID-19 pandemic.",
@@ -2215,6 +2266,33 @@
     "url": "https://www.msn.com/en-za/sports/cricket/sa-selectors-in-spin-over-t20-world-cup/ar-AAOhRjk",
     "url_hash": "2393ca988ed4f9e11266439f2a3ad5d9",
     "ut": 1631254119,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "only one",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Stuart Hess",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "SA selectors in spin over T20 World Cup",
+    "source": "www.msn.com",
+    "snippet": "The composition of the spin element in the squad is only one part of some bizarre decisions, writes Stuart Hess.",
+    "url": "https://www.msn.com/en-za/sport/cricket/sa-selectors-in-spin-over-t20-world-cup/ar-AAOhRjk",
+    "url_hash": "4fcc33b7a87bdc054802fafd5372b5e2",
+    "ut": 1631254128,
     "ent_info_list": [
       {
         "label": "CARDINAL",
@@ -2279,6 +2357,175 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Woman who went missing in Nuwara Eliya Estate traced after four days",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 25-year-old woman who had gone missing since last Sunday (5) afternoon while collecting firewood at Nuwara Eliya Estate, has been traced in a combined operation by the Army troops,Police, Special Task Force and Estate workers.",
+    "url": "https://www.dailymirror.lk/breaking_news/Woman-who-went-missing-in-Nuwara-Eliya-Estate-traced-after-four-days/108-220097",
+    "url_hash": "80a0ea2b9d6249dd7786f9a138ee9ba0",
+    "ut": 1631257691,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "25-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last Sunday",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "afternoon",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nuwara Eliya Estate",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Illegal filling of lagoons in EP using soil from tanks; Amaraweera calls GSMB to submit report",
+    "source": "www.dailymirror.lk",
+    "snippet": "Environment Minister Mahinda Amaraweera has instructed the Geological Survey and Mines Bureau (GSMB) to submit an immediate report on the illegal filling of lagoons by certain groups in the Eastern Province (EP) using soil from tanks.",
+    "url": "https://www.dailymirror.lk/breaking_news/Illegal-filling-of-lagoons-in-EP-using-soil-from-tanks-Amaraweera-calls-GSMB-to-submit-report/108-220093",
+    "url_hash": "1f56a387e0bf0aa804801e765c2d7a98",
+    "ut": 1631257691,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Geological",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau (GSMB",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Eastern Province",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "President to attend 76th Session of the UN General Assembly this month",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa is to attend the 76th session of the United Nations General Assembly to be commenced on September 21 in New York, the Presidential Media Division (PMD) said. This is the President's first address to the United Nations General ...",
+    "url": "https://www.dailymirror.lk/breaking_news/President-to-attend-76th-Session-of-the-UN-General-Assembly-this-month/108-220094",
+    "url_hash": "4b913edbc374063492af6dd7d2634a55",
+    "ut": 1631257691,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "76th",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 21",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Presidential Media Division",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          42,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Continued UNHRC scrutiny of Sri Lanka's human rights record crucial: HRW",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT -The United Nations Human Rights Council (UNHRC) should maintain its rigorous scrutiny of Sri Lanka's worsening human rights situation and press for genuine improvements, Human Rights Watch (HRW) said Friday (10) morning.",
@@ -2324,6 +2571,57 @@
         "start_end": [
           38,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Egypt sees spike before schools open next week",
+    "source": "globegazette.com",
+    "snippet": "The latest increase is alarming for Egyptian authorities as schools are scheduled to open their doors for face-to-face classes next week. Egypt, the Arab world's most populous country with 100 million people,",
+    "url": "https://globegazette.com/news/national/the-latest-egypt-sees-spike-before-schools-open-next-week/article_94731310-b76e-5566-8ef3-9aff46beb6f9.html",
+    "url_hash": "fc5d5564705c34e6e76eb5fffd2d76fe",
+    "ut": 1631257723,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Egyptian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Arab",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100 million",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
@@ -2646,6 +2944,76 @@
         "start_end": [
           45,
           48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "IndiGo flights to Sri Lanka from India starting on Sept 10",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - India's IndiGo airlines will start flying to Colombo from September 10, Sri Lanka's state airport agency said, as South Asia expands vaccination and attempts to re-start tourism and travel. IndiGo will fly from Chennai to Colombo on ...",
+    "url": "https://economynext.com/indigo-flights-to-sri-lanka-from-india-starting-on-sept-10-86009/",
+    "url_hash": "33f3e0de52048eb19b01607c403e6f20",
+    "ut": 1631261319,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ECONOMYNEXT - India's",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 10",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "SL hoteliers welcome request to ease tourist entry requirements",
+    "source": "www.sify.com",
+    "snippet": "The Hotel Association of Sri Lanka (THASL) has welcomed a request by the Sri Lanka Tourism Development Authority (SLTDA) to ease entry requirements for foreigners in a bid to revive the countrys Covid-19 battered tourism industry,",
+    "url": "https://www.sify.com/news/sl-hoteliers-welcome-request-to-ease-tourist-entry-requirements-news-international-vjki4jfdjhffi.html",
+    "url_hash": "d86fff0431ac5e5cf64bd020ebfc0d5b",
+    "ut": 1631262574,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Hotel Association of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Tourism Development Authority",
+        "start_end": [
+          14,
+          20
         ]
       }
     ]
