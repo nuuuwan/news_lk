@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
+    "source": "kvoa.com",
+    "snippet": "PHOENIX \u2014 Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19. The Republican governor said the Biden rule \"requires pushback and response\" but declined to say how the state would respond.",
+    "url": "https://kvoa.com/ap-national-news/2021/09/09/the-latest-virus-infects-99-kids-at-philippine-orphanage/",
+    "url_hash": "95eccd028d1e9cf31ad702950c2448f7",
+    "ut": 1631233771,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Doug Ducey",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Biden to announce sweeping new vaccine rules",
+    "source": "www.chron.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is announcing sweeping new federal vaccine requirements affecting as many as 100 million Americans in an all-out effort to increase COVID-19 vaccinations and curb the surging delta variant that is killing thousands each week and jeopardizing the nation's economic recovery.",
+    "url": "https://www.chron.com/business/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "fe52283d31ab148164319ac99312108e",
+    "ut": 1631236600,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "as many as 100 million",
+        "start_end": [
+          13,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "each week",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  }
+]
