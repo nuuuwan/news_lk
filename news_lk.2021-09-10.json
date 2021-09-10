@@ -7210,5 +7210,185 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Moving towards transformative, inclusive and resilient food systems",
+    "source": "www.ft.lk",
+    "snippet": "In less than two weeks, the United Nations Food Systems Summit (UNFSS) will take place during the United Nations General Assembly in New York, USA. Leading up to this major event, countries are convening national dialogues to gather issues,",
+    "url": "https://www.ft.lk/ft-lite/Moving-towards-transformative-inclusive-and-resilient-food-systems/6-722916",
+    "url_hash": "3fadfa800c568c6e150659f39ba7beb3",
+    "ut": 1631298904,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "less than two weeks",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations Food Systems Summit",
+        "start_end": [
+          6,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "USA",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Senators want nursing home vaccine rates posted",
+    "source": "www.reformer.com",
+    "snippet": "Senior Democratic senators are pressing Medicare to make nursing home COVID-19 vaccination rates easily accessible for consumers.",
+    "url": "https://www.reformer.com/ap/national/the-latest-senators-want-nursing-home-vaccine-rates-posted/article_61fa7f38-7268-5063-93cf-68ab948f7429.html",
+    "url_hash": "563019cb1a96373a986ee5db881a7be8",
+    "ut": 1631299319,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Democratic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicare",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Nations enroll youths in trial of China vaccine",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "The latest increase is alarming for Egyptian authorities as schools are scheduled to open their doors for face-to-face classes next week. Egypt, the Arab world's most populous country with 100 million people,",
+    "url": "https://www.stamfordadvocate.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "6268fef58f8caaeef2156a1451be5d99",
+    "ut": 1631299979,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Egyptian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Arab",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100 million",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Theekshana and Rajapaksa surprise picks in Sri Lanka's T20 World Cup squad",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka's new mystery spinner Maheesh Theekshana is expected to make the men's T20 World Cup squad, as are top order batters Bhanuka Rajapaksa, and Kamindu Mendis. Left-arm spinner Praveen Jayawickrama also makes the squad, as does fellow spinner ...",
+    "url": "https://www.islandcricket.lk/news/featured/theekshana-and-rajapaksa-surprise-picks-in-sri-lankas-t20-world-cup-squad/",
+    "url_hash": "70d7e047f57cb51dee84839e02648667",
+    "ut": 1631300030,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bhanuka Rajapaksa",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamindu Mendis",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Praveen Jayawickrama",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
   }
 ]
