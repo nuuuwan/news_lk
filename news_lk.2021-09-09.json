@@ -5981,6 +5981,92 @@
   },
   {
     "date": "2021-09-09",
+    "title": "'Like a lunar outpost': Former intelligence officer and a flight attendant posted to secretive Indian Ocean U.S military base Diego Garcia share photos of their time on the ...",
+    "source": "www.dailymail.co.uk",
+    "snippet": "Here we present images taken by former U.S intelligence officer and patrol plane pilot Bill Preston and Tarina Peterson, a flight attendant on military flights to Diego Garcia for four years.",
+    "url": "https://www.dailymail.co.uk/travel/travel_news/article-9966363/Former-U-S-intelligence-officer-reveals-like-living-secretive-Diego-Garcia-base.html",
+    "url_hash": "a716ffc1327b850d4f2dd866727f2b31",
+    "ut": 1631214506,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill Preston",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tarina Peterson",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Diego Garcia",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four years",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Budget 2022 cannot afford perceptual illusions",
+    "source": "www.ft.lk",
+    "snippet": "To term the Government's Appropriation Bill for 2022 the most anticipated and decisive presentation since the end of Sri Lanka's civil war is far from fallacy. The Sri Lankan economy and its people are deep in crisis,",
+    "url": "https://www.ft.lk/columns/Budget-2022-cannot-afford-perceptual-illusions/4-722866",
+    "url_hash": "c094d9137564d18ec4b1f94d64e13bd1",
+    "ut": 1631214518,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
     "title": "Sunil Perera, Outspoken King of Sri Lankan Baila Music, Is Dead at 68",
     "source": "www.nytimes.com",
     "snippet": "The frontman of his family's popular band combined the country's unique, Latin-influenced sound with politically biting lyrics.",
@@ -7147,6 +7233,49 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-09",
+    "title": "Appointing Monitoring MPS a waste of time: Sajith",
+    "source": "www.dailymirror.lk",
+    "snippet": "Monitoring of MPS is a waste of public funds, Leader of Opposition Sajith Premadasa said yesterday.'' Government should have diverted the funds used for monitoring of the MPS towards the welfare of the people,",
+    "url": "https://www.dailymirror.lk/latest_news/Appointing-Monitoring-MPS-a-waste-of-time-Sajith/342-220060",
+    "url_hash": "c49e1c226b51e56d976e999a3aa97533",
+    "ut": 1631225298,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "MPS",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Leader of Opposition Sajith Premadasa",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MPS",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
