@@ -1,6 +1,65 @@
 [
   {
     "date": "2021-09-10",
+    "title": "Continuing Resumed Session, Non-Governmental Organizations Approves 8 Entities for Special Status, Defers Action on 17 Others",
+    "source": "www.publicnow.com",
+    "snippet": "The Committee on Non-Governmental Organizations recommended 8 entities for special consultative status with the Economic and Social Council and deferred action on the status of 17 others, as it continued its resumed 2021 session today.",
+    "url": "http://www.publicnow.com/view/BAF34007712E557326B4416DDC283C994BCAA9F2",
+    "url_hash": "0c33bb14d9cefa40ba62e93a4f74eed6",
+    "ut": 1631233010,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Committee on Non-Governmental Organizations",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Economic and Social Council",
+        "start_end": [
+          15,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
     "source": "kvoa.com",
     "snippet": "PHOENIX \u2014 Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19. The Republican governor said the Biden rule \"requires pushback and response\" but declined to say how the state would respond.",
@@ -46,6 +105,49 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Emergency should be lifted forthwith: Ruwan",
+    "source": "www.dailymirror.lk",
+    "snippet": "Emergency regulations should be lifted as it has failed to reduce the prices of essential items, even after a week has passed since the imposition of the law, UNP Deputy Leader Ruwan Wijewardene said yesterday.",
+    "url": "https://www.dailymirror.lk/breaking_news/Emergency-should-be-lifted-forthwith-Ruwan/108-220059",
+    "url_hash": "b2c74013c05b0d836f9945ffd25f80b0",
+    "ut": 1631236592,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "a week",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ruwan Wijewardene",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
@@ -105,6 +207,127 @@
         "start_end": [
           39,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
+    "source": "omaha.com",
+    "snippet": "Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19.",
+    "url": "https://omaha.com/news/national/the-latest-arizona-gov-biden-overreaching-with-new-rule/article_372f3384-3e8b-5b11-8fa6-70a7ea31f46f.html",
+    "url_hash": "5a8504e162d1251ad4b37ea0337b7eb7",
+    "ut": 1631236781,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Doug Ducey",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
+    "source": "www.sfgate.com",
+    "snippet": "Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19. The Republican governor said the Biden rule \"requires pushback and response\" but declined to say how the state would respond.",
+    "url": "https://www.sfgate.com/news/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "46c87854a9462910b94af5bcb91e3728",
+    "ut": 1631237030,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Doug Ducey",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arkansas Gov: Biden vaccine order not the answer",
+    "source": "www.ctpost.com",
+    "snippet": "Arkansas Gov. Asa Hutchinson said President Joe Biden's order that private businesses require employees to be vaccinated against COVID-19 is not the right answer for boosting vaccination rates. \"I have been consistent in the freedom of businesses to require their employees to be vaccinated,",
+    "url": "https://www.ctpost.com/business/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "c20763f93c75d187b5cebe4a5dbde6b2",
+    "ut": 1631238521,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arkansas",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asa Hutchinson",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          6,
+          8
         ]
       }
     ]
