@@ -820,6 +820,57 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Opposition Leader Premadasa estimates bitter decline in sugar tax revenue",
+    "source": "www.dailymirror.lk",
+    "snippet": "In Sri Lanka, the phrase \"sugar scam\" refers to the scandal surrounding the sudden large reduction in the Special Commodity Levy (SCL) on sugar imports, which took place on 13 October 2020. The SCL on sugar was reduced by 99.",
+    "url": "https://www.dailymirror.lk/slide-1/Opposition-Leader-Premadasa-estimates-bitter-decline-in-sugar-tax-revenue/329-220074",
+    "url_hash": "28e91d493e2554c5cba1120ef76e81bd",
+    "ut": 1631243290,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SCL",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "13 October 2020",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SCL",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "99",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "The Latest: LA board requires students 12+ to be vaccinated",
     "source": "www.stamfordadvocate.com",
     "snippet": "The Los Angeles board of education has voted to require students 12 and older to be vaccinated against the coronavirus if they attend in-person classes in the nation's second-largest school district.",
@@ -1185,6 +1236,57 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Delta variant responsible for 95.8% of Covid-19 infections in SL - USJ",
+    "source": "www.dailymirror.lk",
+    "snippet": "After investigating the prevalence of different SARS-CoV-2 variants in different provinces in Sri Lanka, University of Sri Jayewardenepura (USJ) researchers found out the Delta variant was responsible for 95.",
+    "url": "https://www.dailymirror.lk/breaking_news/Delta-variant-responsible-for-95-8-of-Covid-19-infections-in-SL-USJ/108-220086",
+    "url_hash": "806893d6eecc7a8cb4f212ca1935afc7",
+    "ut": 1631246890,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "University of Sri Jayewardenepura",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "USJ",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "95",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Mahinda has no plans to meet Pope in Italy",
     "source": "menafn.com",
     "snippet": "Prime Minister Mahinda Rajapaksa has no plans to meet His Holiness, the Pope, during a visit to Italy.   The Prime Minist",
@@ -1346,6 +1448,465 @@
         "start_end": [
           14,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sinopharm Group interested in setting up vaccine refilling plant in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "The Chairman of Sinopharm Group, Mr. Liu Jingzhen has expressed keen interest in setting up a vaccine refilling plant in Sri Lanka to take advantage of the island nation's favourable trade access in the region and beyond.",
+    "url": "http://www.adaderana.lk/news/76803/sinopharm-group-interested-in-setting-up-vaccine-refilling-plant-in-sri-lanka",
+    "url_hash": "538c47343cbe62a4249dfe079faffeaf",
+    "ut": 1631250858,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm Group",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Liu Jingzhen",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: LA board requires students 12+ to be vaccinated",
+    "source": "www.seattlepi.com",
+    "snippet": "The Los Angeles board of education has voted to require students 12 and older to be vaccinated against the coronavirus if they attend in-person classes in the nation's second-largest school district.",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "ad8e2f3bc57f264d664d4b2c46a1ad37",
+    "ut": 1631251406,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Los Angeles",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lanka extends COVID-19 lockdown to September 21",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's ongoing COVID-19 lockdown has been extended till 4am September 21, health minister Keheliya Rambukwella said. The minister tweeted Friday (10) morning following a COVID-19 eradication committee meeting chaired by President Gotabaya Rajapaksa that cases are on the decline and that Sri Lanka will be able to reopen without risk.",
+    "url": "https://economynext.com/sri-lanka-extends-covid-19-lockdown-to-september-21-85989/",
+    "url_hash": "0a4bf35065583c41f0998a5f0aaa4615",
+    "ut": 1631251714,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "4am",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 21",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10) morning",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Delta responsible for 95.8% of COVID-19 infections in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The Delta variant of the coronavirus has been found to be responsible for 95.8% of COVID-19 infections in Sri Lanka, researchers said today. After investigating the prevalence of different SARS-CoV-2 variants in different provinces in Sri Lanka,",
+    "url": "https://colombogazette.com/2021/09/10/delta-responsible-for-95-8-of-covid-19-infections-in-sri-lanka/",
+    "url_hash": "191ab7230fdef1440338b4b7cc3840bd",
+    "ut": 1631251719,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "95.8%",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arkansas Gov: Biden vaccine order not the answer",
+    "source": "www.sfgate.com",
+    "snippet": "Arkansas Gov. Asa Hutchinson said President Joe Biden's order that private businesses require employees to be vaccinated against COVID-19 is not the right answer for boosting vaccination rates. \"I have been consistent in the freedom of businesses to require their employees to be vaccinated,",
+    "url": "https://www.sfgate.com/business/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "237122d6bb19b125c9d5720aaebbf58c",
+    "ut": 1631252418,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arkansas",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asa Hutchinson",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Equity indices generally rebound from the losses seen on the prior session",
+    "source": "www.fxstreet.com",
+    "snippet": "Equity indices generally rebound from the losses seen on the prior session; Xi and Biden hold first phone call since February. General trend - Nikkei has exten",
+    "url": "https://www.fxstreet.com/analysis/equity-indices-generally-rebound-from-the-losses-seen-on-the-prior-session-202109100550",
+    "url_hash": "680688df02ad8178bd3ebd190db1b8be",
+    "ut": 1631253030,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Xi",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "COVID vaccination centres functioning today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total number of 357 COVID-19 vaccination centres will be in operation in 23 districts across the country today, the Health Ministry said. Accordingly, the vaccination centres will function in Colombo, Gampaha, Kalutara, Kurunegala, Puttalam, Kandy ...",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-vaccination-centres-functioning-today/108-220087",
+    "url_hash": "bf35db7358a266a409c0c014aecf62c1",
+    "ut": 1631253130,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "357",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kalutara",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kurunegala",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Puttalam",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
+    "source": "www.timesunion.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is announcing sweeping new federal vaccine requirements affecting as many as 100 million Americans in an all-out effort to increase COVID-19 vaccinations and curb the surging delta variant that is killing thousands each week and jeopardizing the nation's economic recovery.",
+    "url": "https://www.timesunion.com/news/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "3588b20534d8b41ed09743262b6a449c",
+    "ut": 1631253146,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "as many as 100 million",
+        "start_end": [
+          13,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "each week",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Island-wide lockdown extended till 4.00 am Sept. 21",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government has decided to extend the current curfew until 4.00 am on Tuesday,1. The decision was taken at the Covid Task Force meeting chaired by the President this morning (10)",
+    "url": "https://www.dailymirror.lk/latest_news/Island-wide-lockdown-extended-till-4-00-am-Sept-21/342-220090",
+    "url_hash": "4c8daf9c1a21671c3406cf4c131a4f9b",
+    "ut": 1631253318,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "4.00 am",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Covid Task Force",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
