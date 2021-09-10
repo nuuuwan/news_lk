@@ -111,6 +111,76 @@
   },
   {
     "date": "2021-09-10",
+    "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
+    "source": "www.djournal.com",
+    "snippet": "Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19.",
+    "url": "https://www.djournal.com/news/nation-world/the-latest-arizona-gov-biden-overreaching-with-new-rule/article_4827430a-5e45-536e-a881-86c66eea01fe.html",
+    "url_hash": "7b4cd832aad8d6043e9f8ec90c295a87",
+    "ut": 1631236086,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Doug Ducey",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
+    "source": "jg-tc.com",
+    "snippet": "Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19.",
+    "url": "https://jg-tc.com/news/national/the-latest-arizona-gov-biden-overreaching-with-new-rule/article_4a916bba-ac76-5920-b735-d8cd26db9071.html",
+    "url_hash": "9a9b9dc7510f1b99a721eec983ef5474",
+    "ut": 1631236106,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Doug Ducey",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Emergency should be lifted forthwith: Ruwan",
     "source": "www.dailymirror.lk",
     "snippet": "Emergency regulations should be lifted as it has failed to reduce the prices of essential items, even after a week has passed since the imposition of the law, UNP Deputy Leader Ruwan Wijewardene said yesterday.",
@@ -328,6 +398,111 @@
         "start_end": [
           6,
           8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Biden to announce sweeping new vaccine rules",
+    "source": "accesswdun.com",
+    "snippet": "President Joe Biden is announcing sweeping new federal vaccine requirements affecting as many as 100 million Americans in an all-out effort to increase COVID-19 vaccinations and curb the surging delta",
+    "url": "https://accesswdun.com/article/2021/9/1037527",
+    "url_hash": "6cfd8dc001717d13d86962bffe93016b",
+    "ut": 1631241126,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "as many as 100 million",
+        "start_end": [
+          11,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arkansas Gov: Biden vaccine order not the answer",
+    "source": "www.timesunion.com",
+    "snippet": "Arkansas Gov. Asa Hutchinson said President Joe Biden's order that private businesses require employees to be vaccinated against COVID-19 is not the right answer for boosting vaccination rates. \"I have been consistent in the freedom of businesses to require their employees to be vaccinated,",
+    "url": "https://www.timesunion.com/business/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "386abdd291434be34bc0cf8929c99b29",
+    "ut": 1631242146,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arkansas",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asa Hutchinson",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Prime Minister heads to Italy to attend international event",
+    "source": "colombogazette.com",
+    "snippet": "The Prime Minister of Sri Lanka is scheduled to deliver the keynote address ... at the conclusion of the events in Bologna. (Colombo Gazette)",
+    "url": "https://colombogazette.com/2021/09/10/prime-minister-heads-to-italy-to-attend-international-event/",
+    "url_hash": "f0d3933b5cf9e87f36c88b8e62b75fac",
+    "ut": 1631243186,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bologna",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo Gazette",
+        "start_end": [
+          24,
+          26
         ]
       }
     ]
