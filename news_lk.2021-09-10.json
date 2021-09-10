@@ -871,6 +871,97 @@
   },
   {
     "date": "2021-09-10",
+    "title": "BBC Wildlife Photographer of the Year list",
+    "source": "dailynews.lk",
+    "snippet": "Two Sri Lankans have been selected for BBC Wildlife Photographer of the Year 2021 list. Buddhilini de Soyza and 10-year-old Gagana Mendis Wickramasinghe are the two Sri Lankans who have been... A total of 2,",
+    "url": "https://dailynews.lk/tags/bbc-wildlife-photographer-year-list",
+    "url_hash": "b7dd6bfb06b5c5d3afa6e98d5cb772a0",
+    "ut": 1631243305,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BBC Wildlife Photographer of",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the Year 2021",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Buddhilini de Soyza",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10-year-old",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gagana Mendis Wickramasinghe",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "The Latest: LA board requires students 12+ to be vaccinated",
     "source": "www.stamfordadvocate.com",
     "snippet": "The Los Angeles board of education has voted to require students 12 and older to be vaccinated against the coronavirus if they attend in-person classes in the nation's second-largest school district.",
@@ -2577,6 +2668,65 @@
   },
   {
     "date": "2021-09-10",
+    "title": "President to attend 76th Session of the UN General Assembly this month",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa is to attend the 76th session of the United Nations General Assembly to be commenced on September 21 in New York, the Presidential Media Division (PMD) said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/President-to-attend-76th-Session-of-the-UN-General-Assembly-this-month/342-220094",
+    "url_hash": "d3dc4774de5a1a9d7a061a1e1d417446",
+    "ut": 1631257701,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "76th",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 21",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Presidential Media Division",
+        "start_end": [
+          25,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Continued UNHRC scrutiny of Sri Lanka's human rights record crucial: HRW",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT -The United Nations Human Rights Council (UNHRC) should maintain its rigorous scrutiny of Sri Lanka's worsening human rights situation and press for genuine improvements, Human Rights Watch (HRW) said Friday (10) morning.",
@@ -3382,6 +3532,33 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Oxygen demand notably decreased in hospitals: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The oxygen demand to treat COVID-19 patients has substantially gone down in hospitals, Health Minister Keheliya Rambukwella said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Oxygen-demand-notably-decreased-in-hospitals-Minister/108-220099",
+    "url_hash": "abacbfa6a21e9f0f0012d6e960dea557",
+    "ut": 1631264901,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Delta variant responsible for 95.8% of COVID infections in Sri Lanka - USJ",
     "source": "dailynews.lk",
     "snippet": "The Allergy Immunology and Cell Biology Unit (AICBU) of the University of Sri Jayewardenepura said in a statement that, the Delta variant of concern was responsible for 95.8% of COVID-19 infections in Sri Lanka.",
@@ -3819,6 +3996,468 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "CB Governor Lakshman announces resignation",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prof. W.A. Lakshman this afternoon announced his resignation from the post of Central Bank Governor with effect from 14. ..",
+    "url": "https://www.dailymirror.lk/business_247/CB-Governor-Lakshman-announces-resignation/395-220101",
+    "url_hash": "44790cccf6a926520efe87f4166d771d",
+    "ut": 1631272101,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "W.A. Lakshman",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this afternoon",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sinopharm Group keen on setting up vaccine refilling plant in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "The Chairman of Sinopharm Group, Mr. Liu Jingzhen has expressed keen interest in setting up a vaccine refilling plant in Sri Lanka to take advantage of the island nation's favourable trade access in the region and beyond.",
+    "url": "http://www.adaderana.lk/news/76806/sinopharm-group-keen-on-setting-up-vaccine-refilling-plant-in-sri-lanka",
+    "url_hash": "f78f230b8df5f7a8228733dc5782ebd7",
+    "ut": 1631272109,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm Group",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Liu Jingzhen",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "96 pct of Sri Lanka's daily COVID-19 cases are delta: USJ study",
+    "source": "economynext.com",
+    "snippet": "A study by Sri Lanka's University of Sri Jayawardenapura (USJ) has found that 96 percent of Sri Lanka's daily COVID-19 cases are caused by the delta variant of SARS-CoV-2. Dr Chandima Jeewandara, director of the USJ's Allergy Immunology and Cell Biology Unit,",
+    "url": "https://economynext.com/96-pct-of-sri-lankas-daily-covid-19-cases-are-delta-usj-study-86024/",
+    "url_hash": "abf8e7a05381b4dea4233466d31a302c",
+    "ut": 1631272125,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "University of Sri Jayawardenapura",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "USJ",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "96 percent",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandima Jeewandara",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "USJ",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Allergy Immunology",
+        "start_end": [
+          45,
+          47
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cell Biology Unit",
+        "start_end": [
+          48,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Coronavirus live news: Biden's vaccine mandate for 100 million workers; Los Angeles requires students to be vaccinated",
+    "source": "www.theguardian.com",
+    "snippet": "All US companies with more than 100 employees to ensure workers are vaccinated or tested weekly; LA mandates vaccines for 630,000 students 12 and older",
+    "url": "https://www.theguardian.com/world/live/2021/sep/10/coronavirus-live-news-bidens-vaccine-mandate-for-100-million-workers-los-angeles-to-require-students-to-be-vaccinated?page=with:block-613b12728f08ef08a327c3cd",
+    "url_hash": "46534332a1c89f13f5ff37a4a8b62296",
+    "ut": 1631272133,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 100",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LA",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "630,000",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lankan Detainees Tortured While in Custody, Rights Group Alleges",
+    "source": "www.news18.com",
+    "snippet": "Political detainees in Sri Lanka are being tortured while in police and military custody, a human rights lawyer who wrote a report on alleged abuses said on Friday, days ahead of a U.",
+    "url": "https://www.news18.com/news/world/sri-lankan-detainees-tortured-while-in-custody-rights-group-alleges-4188464.html",
+    "url_hash": "2f93baacccb6a08bcfdc20870ba713b4",
+    "ut": 1631272649,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday, days ahead",
+        "start_end": [
+          28,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Central Bank imposes import limitations on non-essential goods",
+    "source": "menafn.com",
+    "snippet": "The Central Bank of Sri Lanka has imposed import limitations on non-essential goods.   The Monetary Board of the Central",
+    "url": "https://menafn.com/1102771486/Central-Bank-imposes-import-limitations-on-non-essential-goods",
+    "url_hash": "f5cc73a29577445f5c2e4f5571601f07",
+    "ut": 1631272729,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Monetary Board of the Central",
+        "start_end": [
+          17,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Denmark lifts all domestic COVID-19 restrictions",
+    "source": "www.chron.com",
+    "snippet": "Denmark's high vaccination rate has enabled the Scandinavian country to become one of the first European Union nations to lift all domestic restrictions. The return to normality has been gradual, but as of Friday,",
+    "url": "https://www.chron.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "ea2bdc816cee7b1e8caaa93233c3b9b4",
+    "ut": 1631272897,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "European Union",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Denmark lifts all domestic COVID-19 restrictions",
+    "source": "www.star-telegram.com",
+    "snippet": "Denmark's high vaccination rate has enabled the Scandinavian country to become one of the first European Union nations to lift all domestic COVID-19 restrictions.",
+    "url": "https://www.star-telegram.com/news/nation-world/national/article254131188.html",
+    "url_hash": "b7d7c11b1588275da10a46b002dda2b4",
+    "ut": 1631273681,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "European Union",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lanka's political detainees tortured in custody: Rights group",
+    "source": "www.msn.com",
+    "snippet": "International Truth and Justice Project report says 15 Tamils were beaten, burned, suffocated and sexually assaulted.",
+    "url": "https://www.msn.com/en-us/news/world/sri-lanka-e2-80-99s-political-detainees-tortured-in-custody-rights-group/ar-AAOiu5W",
+    "url_hash": "e0230c0fff6bf0cadd09493fb38a8a1a",
+    "ut": 1631273909,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "International Truth",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "UNHRC urged to maintain scrutiny of Sri Lanka's human rights situation",
+    "source": "colombogazette.com",
+    "snippet": "The United Nations Human Rights Council should maintain its rigorous scrutiny of Sri Lanka's worsening human rights situation and press for genuine improvements, Human Rights Watch (HRW) said today. HRW said that at the Council's upcoming session,",
+    "url": "https://colombogazette.com/2021/09/10/unhrc-urged-to-maintain-scrutiny-of-sri-lankas-human-rights-situation/",
+    "url_hash": "7970db6fbb012bbf71b30b31ff1322be",
+    "ut": 1631274409,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The United Nations Human Rights Council",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HRW",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HRW",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Council",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
