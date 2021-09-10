@@ -4330,6 +4330,57 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Sri Lanka central bank governor Lakshman says he will step down next week",
+    "source": "www.reuters.com",
+    "snippet": "Central Bank of Sri Lanka Governor Weligamage Don Lakshman said he would step down next week at a time when the South Asian island nation's weak foreign exchange reserves have limited its ability to import goods and raised the risk of default.",
+    "url": "https://www.reuters.com/article/sri-lanka-governor/sri-lanka-central-bank-governor-lakshman-says-he-will-step-down-next-week-idUSL1N2QC0VG",
+    "url_hash": "7849e34890b0d9748b7597fd83b8f8d9",
+    "ut": 1631272119,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Central Bank of",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Don Lakshman",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "The Latest: Denmark lifts all domestic COVID-19 restrictions",
     "source": "www.goskagit.com",
     "snippet": "Denmark's high vaccination rate has enabled the Scandinavian country to become one of the first European Union nations to lift all domestic restrictions.",
@@ -5563,6 +5614,65 @@
   },
   {
     "date": "2021-09-10",
+    "title": "FAU takes a hit at Kimarli over PPE issue",
+    "source": "www.dailymirror.lk",
+    "snippet": "Criticizing the move taken by the Sri Lanka Tourism Development Authority (SLTDA) Head Kimarli Fernando to remove the PPE requirement for fully vaccinated flight crew, the Flight Attendant Union (FAU) today said the SLTDA was attempting to paint a false and misleading picture to the tourists.",
+    "url": "https://www.dailymirror.lk/breaking_news/FAU-takes-a-hit-at-Kimarli-over-PPE-issue/108-220104",
+    "url_hash": "78e481f44aea9a73b4589b7bc238da29",
+    "ut": 1631279309,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Tourism Development Authority",
+        "start_end": [
+          5,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kimarli Fernando",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PPE",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Flight Attendant Union",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLTDA",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Covid live news: Greece to be 'ruthless' on fake vaccination certificates; Denmark lifts all restrictions",
     "source": "www.theguardian.com",
     "snippet": "False certificates are a problem that is upsetting us a lot,' says Greek deputy health minister; more than 80% of Danes over 12 have been fully vaccinated",
@@ -5826,6 +5936,76 @@
   },
   {
     "date": "2021-09-10",
+    "title": "131 more die of COVID-19: Death toll surges to 10,864",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 131 more COVID-19 related deaths that occurred yesterday (09) were confirmed by the Director-General of Health Services today pushing the death toll to 10,995. ..",
+    "url": "https://www.dailymirror.lk/latest_news/131-more-die-of-COVID-19-Death-toll-surges-to-10-864/342-220107",
+    "url_hash": "2c61b7c767e992f56ef10a6b47e943d3",
+    "ut": 1631282909,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "131",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "09",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10,995",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Galle Face Development work is on...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Development work on Galle Face continues despite quarantine curfew. Picture shows the Naval personnel are busy at work. Pix by Pradeep Pathirana. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Galle-Face-Development-work-is-on/342-220105",
+    "url_hash": "46c00acec3d4e1ebe2b24c10243016a1",
+    "ut": 1631282909,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Galle Face",
+        "start_end": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Sri Lanka returns stolen elephants to captors",
     "source": "www.msn.com",
     "snippet": "Two Sri Lankan elephant homes have returned 13 of the young animals stolen from wildlife parks back to their alleged captors following a court order, officials said Friday. But in a controversial twist this week,",
@@ -6080,6 +6260,191 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lanka to play two T20s against Oman in October",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka will depart for Oman on October 3 for a two-match T20 series in order to prepare for this year's ICC Men's T20 World Cup.",
+    "url": "https://www.islandcricket.lk/news/featured/sri-lanka-oman-t20-series-october-world-cup-2021/",
+    "url_hash": "70ff838532924c768b07a8c8f8edd0a8",
+    "ut": 1631286519,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 3",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "year",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Nations enroll youths in trial of China vaccine",
+    "source": "globegazette.com",
+    "snippet": "COLOMBO, Sri Lanka \u2014 Sri Lanka is extending a lockdown for another week as it struggles against a coronavirus surge. The COVID-19 committee chaired by President Gotabhaya Rajapaksa decided ...",
+    "url": "https://globegazette.com/news/world/the-latest-nations-enroll-youths-in-trial-of-china-vaccine/article_94731310-b76e-5566-8ef3-9aff46beb6f9.html",
+    "url_hash": "14bb5c7c7b9b0afdb83e2e7303fd69f6",
+    "ut": 1631287622,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The COVID-19 committee",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabhaya Rajapaksa",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Senators wants nursing home vaccine rates posted",
+    "source": "www.gazettextra.com",
+    "snippet": "COLOMBO, Sri Lanka \u2014 Sri Lanka is extending a lockdown for another week as it struggles against a coronavirus surge. The COVID-19 committee chaired by President Gotabhaya Rajapaksa decided Friday to extend the lockdown that was to end Monday until Sept.",
+    "url": "https://www.gazettextra.com/news/nation_world/the-latest-senators-wants-nursing-home-vaccine-rates-posted/article_417cac00-d145-5a8b-bdd6-06dfda97db9a.html",
+    "url_hash": "672c12a841d3e86693cdc1f5fe3e082a",
+    "ut": 1631288162,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The COVID-19 committee",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabhaya Rajapaksa",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept.",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
