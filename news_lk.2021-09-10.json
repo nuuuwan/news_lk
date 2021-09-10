@@ -4230,6 +4230,277 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Sri Lanka Central Bank Chief Steps Down Amid Reserves Crisis",
+    "source": "www.bloombergquint.com",
+    "snippet": "Central Bank of Sri Lanka Governor Weligamage Don Lakshman will step down Sept. 14 as the nation faces a deepening forex crisis that threatens its ability to import goods and service debt. His announcement at a briefing Friday comes as the South Asian island nation faces dwindling reserves and revenues,",
+    "url": "https://www.bloombergquint.com/onweb/sri-lanka-central-bank-governor-lakshman-to-step-down-sept-14",
+    "url_hash": "68a3cdcd66d6a5b472e626be47b5308d",
+    "ut": 1631272248,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Central Bank of",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Don Lakshman",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept. 14",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Coronavirus live news: Biden's vaccine mandate for 100 million workers; Los Angeles requires students to be vaccinated",
+    "source": "www.theguardian.com",
+    "snippet": "All US companies with more than 100 employees to ensure workers are vaccinated or tested weekly; LA mandates vaccines for 630,000 students 12 and older",
+    "url": "https://www.theguardian.com/world/live/2021/sep/10/coronavirus-live-news-bidens-vaccine-mandate-for-100-million-workers-los-angeles-to-require-students-to-be-vaccinated?page=with:block-613b22598f08c56a6ecff84f",
+    "url_hash": "7e627d9d8bea279e40af0c81d8bb435b",
+    "ut": 1631272256,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 100",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LA",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "630,000",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Denmark lifts all domestic COVID-19 restrictions",
+    "source": "globegazette.com",
+    "snippet": "Denmark's high vaccination rate has enabled the Scandinavian country to become one of the first European Union nations to lift all domestic restrictions.",
+    "url": "https://globegazette.com/news/national/the-latest-denmark-lifts-all-domestic-covid-19-restrictions/article_94731310-b76e-5566-8ef3-9aff46beb6f9.html",
+    "url_hash": "477e0b3179751f2e6b8bef343be8df75",
+    "ut": 1631272269,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "European Union",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Coronavirus live news: Biden's vaccine mandate for 100 million workers; Los Angeles requires students to be vaccinated",
+    "source": "www.theguardian.com",
+    "snippet": "All US companies with more than 100 employees to ensure workers are vaccinated or tested weekly; LA mandates vaccines for 630,000 students 12 and older",
+    "url": "https://www.theguardian.com/world/live/2021/sep/10/coronavirus-live-news-bidens-vaccine-mandate-for-100-million-workers-los-angeles-to-require-students-to-be-vaccinated?page=with:block-613b4c5e8f08c56a6ecffb5c",
+    "url_hash": "2005c3fa142d3de521c8b0851e8d4165",
+    "ut": 1631272273,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 100",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LA",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "630,000",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Denmark lifts all domestic COVID-19 restrictions",
+    "source": "www.goskagit.com",
+    "snippet": "COPENHAGEN, Denmark \u2014 Denmark's high vaccination rate has enabled the Scandinavian country to become one of the first European Union nations to lift all domestic restrictions.",
+    "url": "https://www.goskagit.com/news/ap_business/the-latest-denmark-lifts-all-domestic-covid-19-restrictions/article_f59b2236-a328-5d7e-8fbc-f99d1b8f6d9f.html",
+    "url_hash": "3e8df166e2799fd8f90e547b382f271e",
+    "ut": 1631272273,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "European Union",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Sri Lankan Detainees Tortured While in Custody, Rights Group Alleges",
     "source": "www.news18.com",
     "snippet": "Political detainees in Sri Lanka are being tortured while in police and military custody, a human rights lawyer who wrote a report on alleged abuses said on Friday, days ahead of a U.",
@@ -4458,6 +4729,337 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sunil Perera, outspoken Sri Lankan singer, dies at age 68",
+    "source": "www.islandpacket.com",
+    "snippet": "Sunil Perera, a versatile Sri Lankan singer, musician, composer and entertainer, has died of apparent complications from COVID-19.",
+    "url": "https://www.islandpacket.com/entertainment/celebrities/article254133113.html",
+    "url_hash": "da667327c912402644d05584df8d090f",
+    "ut": 1631275848,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sunil Perera",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "South Africa, Sri Lanka aim to fine-tune T20 World Cup plans",
+    "source": "www.islandcricket.lk",
+    "snippet": "A T20 World Cup is around the corner. For Sri Lanka, it begins with the qualifiers, which kick off approximately six weeks from now. For South Africa, who go straight through to the main draw, the World Cup starts about a week later.",
+    "url": "https://www.islandcricket.lk/news/south-africa-sri-lanka-aim-to-fine-tune-t20-world-cup-plans/",
+    "url_hash": "6f6f4e6da49c727b4e026df0650f8439",
+    "ut": 1631275848,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "approximately six weeks",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the World Cup",
+        "start_end": [
+          41,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "about a week later",
+        "start_end": [
+          45,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lanka central bank governor Lakshman says he will step down next week",
+    "source": "finance.yahoo.com",
+    "snippet": "Central Bank of Sri Lanka Governor Weligamage Don Lakshman said he would step down next week at a time when the South Asian island nation's weak foreign exchange reserves have limited its ability to import goods and raised the risk of default.",
+    "url": "https://finance.yahoo.com/news/sri-lanka-central-bank-governor-121525899.html",
+    "url_hash": "3caf5fe40a441c6236e58eb49432b079",
+    "ut": 1631276113,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Central Bank of",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Don Lakshman",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Minister Chamal Rajapaksa contracts COVID-19",
+    "source": "www.adaderana.lk",
+    "snippet": "Minister of Irrigation Chamal Rajapaksa has tested positive for COVID-19, Ada Derana learns. According to reports, the minister is currently under medical care at a private hospital in Colombo. Disclaimer: All the comments will be moderated by the AD editorial.",
+    "url": "http://www.adaderana.lk/news/76814/minister-chamal-rajapaksa-contracts-covid-19",
+    "url_hash": "629eaf6d4fee6779bac2df4319dd93d3",
+    "ut": 1631276212,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Irrigation Chamal Rajapaksa",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ada Derana",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sri Lanka extends lockdown amid persisting fourth wave",
+    "source": "www.thehindu.com",
+    "snippet": "Sri Lanka on Friday extended the current lockdown until September 21, amid a persistent fourth wave of COVID-19 and severe economic strain. The decision to extend the \"quarantine curfew\" was taken at",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-extends-lockdown-amid-persisting-fourth-wave/article36396346.ece",
+    "url_hash": "2c6740b71bfa179e1fc9fb7874ba03a9",
+    "ut": 1631276508,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 21",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Academic turned Sri Lanka central bank chief Lakshman resigns",
+    "source": "economynext.com",
+    "snippet": "The central bank governor W D Lakshman announced his retirement with effect from September 14 which he said was a decision he advanced",
+    "url": "https://economynext.com/academic-turned-sri-lanka-central-bank-chief-lakshman-resigns-86027/",
+    "url_hash": "dd2869e1038c08cb75149dfac6ca38d0",
+    "ut": 1631276705,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "W D Lakshman",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 14",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Central Bank of Sri Lanka Governor likely to step down next week",
+    "source": "english.newstracklive.com",
+    "snippet": "Central Bank of Sri Lanka Governor Weligamage Don Lakshman said he would step down on September 14 as the nation encounters a deepening forex crisis t..|News Track",
+    "url": "https://english.newstracklive.com/news/central-bank-of-sri-lanka-governor-likely-to-step-down-next-week-sc18-nu318-ta318-1181782-1.html",
+    "url_hash": "fa53b99e39773282210beda2d84bd36b",
+    "ut": 1631276928,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Central Bank of",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Don Lakshman",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 14",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sunil Perera, outspoken Sri Lankan singer, dies at age 68",
+    "source": "www.msn.com",
+    "snippet": "Singer and musician Sunil Perera entertained generations of Sri Lankans with captivating songs, but won their minds and hearts with his outspoken comments against social injustice, corruption, racism and suppression of democracy.",
+    "url": "https://www.msn.com/en-us/news/world/sunil-perera-outspoken-sri-lankan-singer-dies-at-age-68/ar-AAOivcD",
+    "url_hash": "ec6833b684e791451f5a5e0895c9b078",
+    "ut": 1631277896,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sunil Perera",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sunil Perera, outspoken Sri Lankan singer, dies at age 68",
+    "source": "www.mypanhandle.com",
+    "snippet": "Singer and musician Sunil Perera entertained generations of Sri Lankans with captivating songs, but won their minds and hearts with his outspoken comments against social",
+    "url": "https://www.mypanhandle.com/entertainment-news/sunil-perera-outspoken-sri-lankan-singer-dies-at-age-68/",
+    "url_hash": "2e0543ba1dbb2497ac6c5167de7b8dc3",
+    "ut": 1631278213,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sunil Perera",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          8,
+          10
         ]
       }
     ]
