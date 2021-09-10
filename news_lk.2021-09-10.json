@@ -1236,6 +1236,41 @@
   },
   {
     "date": "2021-09-10",
+    "title": "PM leaves for Italy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prime Minister Mahinda Rajapaksa has left the island this morning for an official visit to Italy. ..",
+    "url": "https://www.dailymirror.lk/latest_news/PM-leaves-for-Italy/342-220085",
+    "url_hash": "11761a35cf66aef6c4460be71e5ff049",
+    "ut": 1631246888,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Delta variant responsible for 95.8% of Covid-19 infections in SL - USJ",
     "source": "www.dailymirror.lk",
     "snippet": "After investigating the prevalence of different SARS-CoV-2 variants in different provinces in Sri Lanka, University of Sri Jayewardenepura (USJ) researchers found out the Delta variant was responsible for 95.",
@@ -1448,6 +1483,41 @@
         "start_end": [
           14,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: LA board requires students 12+ to be vaccinated",
+    "source": "www.lmtonline.com",
+    "snippet": "The Los Angeles board of education has voted to require students 12 and older to be vaccinated against the coronavirus if they attend in-person classes in the nation's second-largest school district.",
+    "url": "https://www.lmtonline.com/news/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "dbcd5e0f95d8edde39c70c16f78ef680",
+    "ut": 1631250496,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Los Angeles",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
@@ -2015,6 +2085,130 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Island-wide quarantine curfew in Sri Lanka further extended",
+    "source": "www.adaderana.lk",
+    "snippet": "The ongoing island-wide quarantine curfew orders will stay in effect for another week, Minister of Health Keheliya Rambukwella announced",
+    "url": "http://www.adaderana.lk/news/76805/island-wide-quarantine-curfew-in-sri-lanka-further-extended",
+    "url_hash": "4d57397b5e995113cb6c114adf2fdb33",
+    "ut": 1631254096,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Keheliya Rambukwella",
+        "start_end": [
+          18,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sinopharm Group interested in setting up vaccine refilling plant in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "The Chairman of Sinopharm Group, Mr. Liu Jingzhen has expressed keen interest in setting up a vaccine refilling plant in Sri Lanka to take advantage of the island nation's favourable trade access in the region and beyond.",
+    "url": "http://www.adaderana.lk/news.php?nid=76806",
+    "url_hash": "c3056c8ad60879456527dc93c07fcf67",
+    "ut": 1631254096,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm Group",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Liu Jingzhen",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Island-wide lock down extended till 4.00 am Sept 21",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government has decided to extend the current curfew until 4.00 am on Tuesday,1. The decision was taken at a Covid Task Force meeting chaired by the President this morning (10) ..",
+    "url": "https://www.dailymirror.lk/top_story/Island-wide-lock-down-extended-till-4-00-am-Sept-21/155-220090",
+    "url_hash": "86a003470cc8c1007b2230c9a5d74e9b",
+    "ut": 1631254096,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "4.00 am",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "a Covid Task Force",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Empowering Sri Lanka's health sector through Dialog Axiata's Critical Care Infrastructure Enhancement Initiative",
+    "source": "colombogazette.com",
+    "snippet": "During these unprecedented times, Sri Lankans and people all over the world have been affected by much uncertainty and unease, resulting in the Government, communities and corporates rallying together to overcome the disastrous effects of the COVID-19 pandemic.",
+    "url": "https://colombogazette.com/2021/09/10/empowering-sri-lankas-health-sector-through-dialog-axiatas-critical-care-infrastructure-enhancement-initiative/",
+    "url_hash": "fe7c46b814edfb362d1a737d16d5de40",
+    "ut": 1631254116,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "SA selectors in spin over T20 World Cup",
     "source": "www.msn.com",
     "snippet": "The composition of the spin element in the squad is only one part of some bizarre decisions, writes Stuart Hess.",
@@ -2079,6 +2273,379 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Continued UNHRC scrutiny of Sri Lanka's human rights record crucial: HRW",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT -The United Nations Human Rights Council (UNHRC) should maintain its rigorous scrutiny of Sri Lanka's worsening human rights situation and press for genuine improvements, Human Rights Watch (HRW) said Friday (10) morning.",
+    "url": "https://economynext.com/continued-unhrc-scrutiny-of-sri-lankas-human-rights-record-crucial-hrw-86004/",
+    "url_hash": "db1817e967b11f3f103d340517ebb7b1",
+    "ut": 1631257712,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ECONOMYNEXT -The United Nations Human Rights Council (UNHRC",
+        "start_end": [
+          0,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HRW",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10) morning",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Egypt sees spike before schools open next week",
+    "source": "www.bigcountryhomepage.com",
+    "snippet": "Egypt's daily reported cases of coronavirus have surpassed 400 for the first time in months. The Health Ministry on Friday reported 413 cases and 12 fatalities for the past 24 hours. Daily",
+    "url": "https://www.bigcountryhomepage.com/news/health-news/the-latest-egypt-sees-spike-before-schools-open-next-week/",
+    "url_hash": "4b20f5aaa9408422652012a4d3b3ec43",
+    "ut": 1631257780,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "400",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "413",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the past 24 hours",
+        "start_end": [
+          29,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Daily",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Egypt sees spike before schools open next week",
+    "source": "www.middletownpress.com",
+    "snippet": "The latest increase is alarming for Egyptian authorities as schools are scheduled to open their doors for face-to-face classes next week. Egypt, the Arab world's most populous country with 100 million people,",
+    "url": "https://www.middletownpress.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "4586714d87cc9128ccc1b5045ad263da",
+    "ut": 1631258124,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Egyptian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Arab",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100 million",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "President to attend 76th session of UN General Assembly",
+    "source": "dailynews.lk",
+    "snippet": "Home President to attend 76th session of UN General Assembly",
+    "url": "https://dailynews.lk/2021/09/10/local/258972/president-attend-76th-session-un-general-assembly",
+    "url_hash": "800f9181c105ec986668daab44177376",
+    "ut": 1631260092,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "76th",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN General Assembly",
+        "start_end": [
+          7,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Delta responsible for 95.8% of COVID-19 infections in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "The Delta variant of the coronavirus has been found to be responsible for 95.8% of COVID-19 infections in Sri Lanka, researchers said tod",
+    "url": "https://menafn.com/1102771927/Delta-responsible-for-958-of-COVID-19-infections-in-Sri-Lanka&source=30",
+    "url_hash": "3be0fd864b98e8093969fca8f36a1d77",
+    "ut": 1631260176,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "95.8%",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
+    "source": "www.seattlepi.com",
+    "snippet": "Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19. The Republican governor said the Biden rule \"requires pushback and response\" but declined to say how the state would respond.",
+    "url": "https://www.seattlepi.com/business/article/The-Latest-Virus-infects-99-kids-at-Philippine-16445193.php",
+    "url_hash": "4b8ee939ea1e0471d8be054379591dbe",
+    "ut": 1631260344,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Arizona",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Doug Ducey",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Samsung to unveil Galaxy Buds2 and Galaxy Watch4 in Sri Lanka",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Sri Lanka's No. 1 smartphone brand, Samsung, recently announced that they are preparing to unveil their flagship products Samsung Galaxy Watch4 and its new TWS earbuds dubbed as Galaxy Buds2, alongside the pre-order phase of the all new Galaxy Z Flip3 and Z Fold3 foldable phones.",
+    "url": "http://bizenglish.adaderana.lk/samsung-to-unveil-galaxy-buds2-and-galaxy-watch4-in-sri-lanka/",
+    "url_hash": "08d15d3854f9ebcbb3f2d0de8ccdcedc",
+    "ut": 1631260516,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung Galaxy",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TWS",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Galaxy Z Flip3",
+        "start_end": [
+          45,
+          48
         ]
       }
     ]
