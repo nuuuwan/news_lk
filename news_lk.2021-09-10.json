@@ -6778,6 +6778,57 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Sri Lanka returns stolen elephants to captors",
+    "source": "gulfnews.com",
+    "snippet": "Colombo: Two Sri Lankan elephant homes have returned 13 of the young animals stolen from wildlife parks back to their alleged captors following a court order, officials said Friday. Elephants are considered sacred in Sri Lanka and their capture in the wild is illegal,",
+    "url": "https://gulfnews.com/world/asia/sri-lanka-returns-stolen-elephants-to-captors-1.1631284854195",
+    "url_hash": "3c97bb215b43a571a653cc217cf57160",
+    "ut": 1631286482,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Sunil Perera, outspoken Sri Lankan singer, dies at age 68",
     "source": "apnews.com",
     "snippet": "Singer and musician Sunil Perera entertained generations of Sri Lankans with captivating songs, but won their minds and hearts with his outspoken comments against social injustice, corruption, racism and suppression of democracy.",
@@ -10808,6 +10859,57 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Mess in fertiliser sector",
+    "source": "www.lankaweb.com",
+    "snippet": "An attempt was made to establish one organic fertiliser manufacturing centre per each Divisional Secretariat covering 29 Divisional Secretariats in Anuradhapura and Polonnaruwa. All these attempts failed.",
+    "url": "https://www.lankaweb.com/news/items/2021/09/10/mess-in-fertiliser-sector/",
+    "url_hash": "096c3c00240b8c9e5c0c3f1f907ef091",
+    "ut": 1631315282,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "29",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Divisional Secretariats",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Anuradhapura",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Polonnaruwa",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]
