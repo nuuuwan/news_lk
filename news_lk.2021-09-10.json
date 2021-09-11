@@ -7522,6 +7522,41 @@
   {
     "date": "2021-09-10",
     "title": "The Latest: Biden calls out Republican governors on vaccines",
+    "source": "theeagle.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is calling some Republican governors \"cavalier\" for resisting new federal vaccine requirements he hopes will contain the surging delta variant.",
+    "url": "https://theeagle.com/news/world/the-latest-senators-want-nursing-home-vaccine-rates-posted/article_87110bb0-1803-5cd8-8a64-6d5ac9048cbb.html",
+    "url_hash": "b95fbbdcc9f8dd76d17feaf4108825f5",
+    "ut": 1631293703,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Biden calls out Republican governors on vaccines",
     "source": "www.wiscnews.com",
     "snippet": "WASHINGTON \u2014 President Joe Biden is calling some Republican governors \"cavalier\" for resisting new federal vaccine requirements he hopes will contain the surging delta variant.",
     "url": "https://www.wiscnews.com/news/national/the-latest-biden-calls-out-republican-governors-on-vaccines/article_07671878-6da3-597a-b7ee-fdd6f6515047.html",
@@ -9767,6 +9802,41 @@
     "url": "https://www.dailymirror.lk/opinion/Writing-Letters-to-Michele-Bachelet-Causes-Turmoil-Within-the-TNA/231-220156",
     "url_hash": "a27b49a19e747ec178aed8e9a9ec4966",
     "ut": 1631308080,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations Human Rights Council(UNHRC",
+        "start_end": [
+          22,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Writing Letters to Michele Bachelet Causes Turmoil Within the TNA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Tamil National Alliance(TNA) is currently in a state of great turmoil. The current TNA crisis is linked up with the United Nations Human Rights Council(UNHRC) in Geneva. The issue is that of writing letters to the UN Human Rights Commissioner Ms.",
+    "url": "https://www.dailymirror.lk/plus/Writing-Letters-to-Michele-Bachelet-Causes-Turmoil-Within-the-TNA/352-220156",
+    "url_hash": "bf69cc0d5fd7474154e951ae5422c12a",
+    "ut": 1631308083,
     "ent_info_list": [
       {
         "label": "ORG",

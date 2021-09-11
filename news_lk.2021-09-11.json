@@ -1869,6 +1869,41 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Sri Lankan detainees tortured while in custody, rights group alleges",
+    "source": "www.euronews.com",
+    "snippet": "Political detainees in Sri Lanka are being tortured while in police and military custody, a human rights lawyer who wrote a report on alleged abuses said on Friday, days ahead of a U.N. human rights summit.",
+    "url": "https://www.euronews.com/2021/09/11/us-sri-lanka-rights",
+    "url_hash": "fb7c6c385f1402b7ddde4eab3107a612",
+    "ut": 1631347694,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday, days ahead",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "U.N.",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Sri Lanka exchange IMF special drawing rights for US dollars",
     "source": "economynext.com",
     "snippet": "Sri Lanka has swapped most of a tranche 554.8 million special drawing rights (about 780 million US dollars) given to the country the International Monetary Fund for US dollars after getting them on August 2021,",
@@ -1914,6 +1949,81 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lankan expert says Sinopharm COVID vaccine ideal for children",
+    "source": "www.poandpo.com",
+    "snippet": "China's Sinopharm vaccine is ideal for children as it is an inactivated vaccine, Sri Lankan virology expert Prof. Tissa Vitharana said. Asia Tissa Vitharana Sri Lankan Prime Minister Mahinda Rajapaksa said in August that the government would soon begin vaccination of children over 12 years old.",
+    "url": "https://www.poandpo.com/in-sickness-and-health/sri-lankan-expert-says-sinopharm-covid-vaccine-ideal-for-children/",
+    "url_hash": "25c9bb92de42f9fdef9e818de996356d",
+    "ut": 1631353394,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tissa Vitharana",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Asia Tissa Vitharana Sri Lankan",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over 12 years old",
+        "start_end": [
+          45,
+          49
         ]
       }
     ]
