@@ -1203,6 +1203,57 @@
   },
   {
     "date": "2021-09-11",
+    "title": "STF seizes Kerala cannabis worth over Rs.40Mn smuggled from India",
+    "source": "www.dailymirror.lk",
+    "snippet": "Three suspects have been arrested with over 260kg of Kerala cannabis during a raid by the Special Task Force of Police (STF) in Kiribathgoda. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/STF-seizes-Kerala-cannabis-worth-over-Rs-40Mn-smuggled-from-India/108-220166",
+    "url_hash": "8094a584b40560c4ecdeeea12b3931df",
+    "ut": 1631336883,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "over 260kg",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerala",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Special Task Force of Police",
+        "start_end": [
+          16,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kiribathgoda",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Grant presidential amnesty to Ranjan: CBK requests President",
     "source": "www.dailymirror.lk",
     "snippet": "Former President Chandrika Kumaratunge has requested President Gotabaya Rajapaksa to consider giving presidential pardon to imprisoned former MP Ranjan Ramanayake. ..",
@@ -1342,6 +1393,189 @@
         "start_end": [
           23,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lanka Is Running Out of Money for Imports as Delta Rages",
+    "source": "www.bloombergquint.com",
+    "snippet": "The nation buys wheat, sugar and milk powder from abroad and, with the Sri Lankan rupee down 7.3% this year, the import bill is soaring, stoking inflation and raising concerns about panic buying and hoarding.",
+    "url": "https://www.bloombergquint.com/onweb/sri-lanka-is-running-out-of-money-for-imports-as-delta-rages",
+    "url_hash": "77317262efe3565d9539207218a170f3",
+    "ut": 1631340493,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "7.3%",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Another foreign vessel with heroin detained by Sri Lanka Navy",
+    "source": "colombogazette.com",
+    "snippet": "Another foreign vessel transporting heroin has been detained by the Sri Lanka Navy. The multi-day trawler with 9 crew members was detained south of Batticaloa. According to the Police, the trawler was detained in a joint operation conducted by the Police and Sri Lanka Navy.",
+    "url": "https://colombogazette.com/2021/09/11/another-foreign-vessel-with-heroin-detained-by-sri-lanka-navy/",
+    "url_hash": "a35c48729691dcf64f1a2741f134cc5d",
+    "ut": 1631340518,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Navy",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Batticaloa",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lankan detainees tortured while in custody, rights group alleges",
+    "source": "bdnews24.com",
+    "snippet": "Political detainees in Sri Lanka are being tortured while in police and military custody, a human rights lawyer who wrote a report on alleged abuses said on Friday, days ahead of a UN human rights summit.",
+    "url": "https://bdnews24.com/world/south-asia/2021/09/11/sri-lankan-detainees-tortured-while-in-custody-rights-group-alleges",
+    "url_hash": "a4d5709ee1d8be49885bd61a93d122d0",
+    "ut": 1631341513,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday, days ahead",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lanka is running out of money for imports as delta variant rages",
+    "source": "www.business-standard.com",
+    "snippet": "After meeting a $1 billion debt repayment in July from reserves, the government had only enough dollars to cover less than two months of imports",
+    "url": "https://www.business-standard.com/article/international/sri-lanka-is-running-out-of-money-for-imports-as-delta-variant-rages-121091100339_1.html",
+    "url_hash": "6dc99770a141bb08b6bfd3274e70b771",
+    "ut": 1631343253,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "less than two months",
+        "start_end": [
+          21,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lankan expert says Sinopharm ideal for children",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "China Sinopharm vaccine is ideal for children as it is an inactivated vaccine Sri Lankan virology expert Prof Tissa Vitarana sai",
+    "url": "https://www.bignewsnetwork.com/news/271100625/sri-lankan-expert-says-sinopharm-ideal-for-children",
+    "url_hash": "df3104418e1e9dc8f741391b37492369",
+    "ut": 1631343793,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prof Tissa Vitarana",
+        "start_end": [
+          17,
+          20
         ]
       }
     ]

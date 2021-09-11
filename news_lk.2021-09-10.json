@@ -5913,6 +5913,49 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Covid live news: Greece to be 'ruthless' on fake vaccination certificates; Denmark lifts all restrictions",
+    "source": "www.theguardian.com",
+    "snippet": "False certificates are a problem that is upsetting us a lot,' says Greek deputy health minister; more than 80% of Danes over 12 have been fully vaccinated",
+    "url": "https://www.theguardian.com/world/live/2021/sep/10/coronavirus-live-news-bidens-vaccine-mandate-for-100-million-workers-los-angeles-to-require-students-to-be-vaccinated?page=with:block-613b60348f088f2a91a7fcbc",
+    "url_hash": "c32396198df271d295180a1c81b263d2",
+    "ut": 1631279323,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Greek",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "more than 80%",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Danes",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Sunil Perera, outspoken Sri Lankan singer, dies at age 68",
     "source": "www.independent.co.uk",
     "snippet": "Sunil Perera, a versatile Sri Lankan singer, musician, composer and entertainer, has died of apparent complications from COVID-19",
@@ -6554,6 +6597,33 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sunil Perera, outspoken Sri Lankan singer, dies at age 68",
+    "source": "apnews.com",
+    "snippet": "Singer and musician Sunil Perera entertained generations of Sri Lankans with captivating songs, but won their minds and hearts with his outspoken comments against social injustice, corruption, racism and suppression of democracy.",
+    "url": "https://apnews.com/article/health-arts-and-entertainment-coronavirus-pandemic-race-and-ethnicity-racial-injustice-2e9dcea12987a2e793e21e4284a81df2",
+    "url_hash": "66ceb332000bc7188bdc31da7dea6554",
+    "ut": 1631286503,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sunil Perera",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          8,
+          10
         ]
       }
     ]
@@ -9969,6 +10039,25 @@
         "start_end": [
           21,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Island-wide quarantine curfew in Sri Lanka further extended",
+    "source": "www.lankaweb.com",
+    "snippet": "The ongoing island-wide quarantine curfew orders will stay in effect ... With COVID-19 figures steadily declining, the government is confident that Sri Lanka will once again be able to reopen without risk,\" the health minister said in a tweet.",
+    "url": "http://www.lankaweb.com/news/items/2021/09/10/island-wide-quarantine-curfew-in-sri-lanka-further-extended/",
+    "url_hash": "cf41c866adeea2ae169528ac6bd4725d",
+    "ut": 1631311693,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
         ]
       }
     ]
