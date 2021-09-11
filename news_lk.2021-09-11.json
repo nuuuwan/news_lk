@@ -261,5 +261,150 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lanka Cricket powered by Daraz",
+    "source": "island.lk",
+    "snippet": "This September, in a country where cricket is more a way of life than just a sport, the heart of Sri Lanka will beat for its Lankan Lions as they take on The Proteas of South Africa. An unwavering supporter of Sri Lanka Cricket,",
+    "url": "https://island.lk/sri-lanka-cricket-powered-by-daraz/",
+    "url_hash": "a3443d362173b7aa749bd8905a0fb5b9",
+    "ut": 1631324259,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "This September",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lankan Lions",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "The Proteas of South Africa",
+        "start_end": [
+          34,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          44,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Mysterious fate awaits students in Sri Lanka due to the pandemic and teachers' strike.",
+    "source": "www.ft.lk",
+    "snippet": "Experts in Sri Lanka stated that the suspension of the educational process in the country has negative and dangerous repercussions shortly, and added that the closures that schools witnessed over the past two years, in addition to the teachers' union ...",
+    "url": "https://www.ft.lk/ft_tv/Mysterious-fate-awaits-students-in-Sri-Lanka-due-to-the-pandemic-and-teachers-strike/10520-722949",
+    "url_hash": "e33d409309b78572ef7db223b56c972f",
+    "ut": 1631324871,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past two years",
+        "start_end": [
+          31,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "The Latest: MI health provider: 92% of workers vaccinated",
+    "source": "www.lmtonline.com",
+    "snippet": "DETROIT \u2014 A major health care provider in southeastern Michigan says 92% of its employees have been fully vaccinated against COVID-19 by a Friday deadline and another 3% have gotten a first shot. Under Henry Ford Health System's policy,",
+    "url": "https://www.lmtonline.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "efd0615897014c8e6303fa10f53109d8",
+    "ut": 1631325167,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "DETROIT",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Michigan",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "92%",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "another 3%",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Henry Ford Health System's",
+        "start_end": [
+          37,
+          42
+        ]
+      }
+    ]
   }
 ]
