@@ -7022,6 +7022,33 @@
   {
     "date": "2021-09-10",
     "title": "The Latest: Senators want nursing home vaccine rates posted",
+    "source": "www.nwitimes.com",
+    "snippet": "Senior Democratic senators are pressing Medicare to make nursing home COVID-19 vaccination rates easily accessible for consumers.",
+    "url": "https://www.nwitimes.com/news/world/the-latest-nations-enroll-youths-in-trial-of-china-vaccine/article_47a9b890-551c-5d40-a3c1-301895dfa605.html",
+    "url_hash": "b1a553643500c5ccc0683999a2da1107",
+    "ut": 1631290111,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Democratic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicare",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Senators want nursing home vaccine rates posted",
     "source": "www.news-gazette.com",
     "snippet": "Senior Democratic senators are pressing Medicare to make nursing home COVID-19 vaccination rates easily accessible for consumers.",
     "url": "https://www.news-gazette.com/news/nation-world/the-latest-senators-want-nursing-home-vaccine-rates-posted/article_55912714-018e-5fbd-97f6-97c3fc13c7be.html",
@@ -7542,12 +7569,117 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Begging while maintaining social distance",
+    "source": "www.dailymirror.lk",
+    "snippet": "He is poor and uneducated, but was sensible enough to maintain social distance when begging. This man was spotted in Colombo on September 09, 2021. ..",
+    "url": "https://www.dailymirror.lk/main_image/Begging-while-maintaining-social-distance/346-220124",
+    "url_hash": "4767a2fe135fe200c799faa2fd2239d2",
+    "ut": 1631297292,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "September 09, 2021",
+        "start_end": [
+          24,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "25 HHOT units distributed to General and SLAF hospitals",
+    "source": "www.dailymirror.lk",
+    "snippet": "Units manufactured SLAF engineers; Twenty-five Heated Humidified Oxygen Therapy Units (HHOT) manufactured by the Sri Lanka Air Force in the first batch have been handed over to th",
+    "url": "https://www.dailymirror.lk/front_page/25-HHOT-units-distributed-to-General-and-SLAF-hospitals/238-220123",
+    "url_hash": "c1977cd47a4ea622c633f7412e764b9b",
+    "ut": 1631297292,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Twenty-five",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Air Force",
+        "start_end": [
+          18,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "24th commemorative anniversary, 10 September Deshamanya Bakeer Marker, a man worth emulating",
     "source": "www.ft.lk",
     "snippet": "Deshamanya Marhoom Al Haj Mohammed Abdul Bakeer Markar's ancestry is traced to Sheik Jamaluddeen-Al-Maghdoomi, an Arab settler who settled down in Beruwala. His father Hakeem Alia Marikkar Mohomed Marikkar belonged to a fami .",
     "url": "https://www.ft.lk/opinion/24th-commemorative-anniversary-10-September-Deshamanya-Bakeer-Marker-a-man-worth-emulating/14-722915",
     "url_hash": "495349e7ca6a264bc717fe479249369d",
     "ut": 1631297303,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Deshamanya Marhoom Al Haj Mohammed Abdul Bakeer Markar's",
+        "start_end": [
+          0,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sheik Jamaluddeen-Al-Maghdoomi",
+        "start_end": [
+          13,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Arab",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beruwala",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alia Marikkar Mohomed Marikkar",
+        "start_end": [
+          32,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Deshamanya Bakeer Marker, a man worth emulating",
+    "source": "www.ft.lk",
+    "snippet": "Deshamanya Marhoom Al Haj Mohammed Abdul Bakeer Markar's ancestry is traced to Sheik Jamaluddeen-Al-Maghdoomi, an Arab settler who settled down in Beruwala. His father Hakeem Alia Marikkar Mohomed Marikkar belonged to a fami .",
+    "url": "https://www.ft.lk/opinion/Deshamanya-Bakeer-Marker-a-man-worth-emulating/14-722915",
+    "url_hash": "8e09dd61292d3143f5f3a467ece60d67",
+    "ut": 1631297315,
     "ent_info_list": [
       {
         "label": "PERSON",
@@ -7818,6 +7950,41 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Am\u00e3na Bank donates lifesaving ventilator",
+    "source": "www.dailymirror.lk",
+    "snippet": "Amana Bank has donated a non-invasive ventilator to the Base Hospital in Puttalam in supporting the efforts to fight the worst Covid-19 pandemic wave in the country by far. ..",
+    "url": "https://www.dailymirror.lk/other/Am%C3%A3na-Bank-donates-lifesaving-ventilator/117-220130",
+    "url_hash": "8c843dc338891bc231b4c01a1b9cc24c",
+    "ut": 1631300892,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Amana Bank",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Base Hospital",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Puttalam",
+        "start_end": [
+          14,
+          15
         ]
       }
     ]
