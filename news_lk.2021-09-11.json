@@ -3388,5 +3388,32 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "The battle to control football: Fifa versus Uefa",
+    "source": "www.ft.com",
+    "snippet": "The plan to hold the World Cup every two years is part of a struggle over whether the big clubs or national teams will be pre-eminent",
+    "url": "https://www.ft.com/content/268989a1-5299-473e-adc4-ed02d247cd3c",
+    "url_hash": "77dfe8cfd406788269659722581c02ba",
+    "ut": 1631375986,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "the World Cup",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "every two years",
+        "start_end": [
+          7,
+          10
+        ]
+      }
+    ]
   }
 ]
