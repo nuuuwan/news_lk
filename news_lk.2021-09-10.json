@@ -6676,6 +6676,65 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Over 10mn people in SL fully vaccinated against Covid",
+    "source": "news.webindia123.com",
+    "snippet": "Over 10 million people, above the age of 30 years, have been fully vaccinated in Sri Lanka against Covid-19 since a mass inoculation program was launched in January, the Health Ministry said on Friday.",
+    "url": "https://news.webindia123.com/news/Articles/Health/20210910/3817550.html",
+    "url_hash": "54b4a42461bd315dab603841d36fb0b7",
+    "ut": 1631286507,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "10 million",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the age of 30 years",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Sri Lanka to play two T20s against Oman in October",
     "source": "www.islandcricket.lk",
     "snippet": "Sri Lanka will depart for Oman on October 3 for a two-match T20 series in order to prepare for this year's ICC Men's T20 World Cup.",
@@ -8273,6 +8332,41 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Flight Attendants Union writes to Tourism Chairperson, concerned over request to health authorities",
+    "source": "www.ft.lk",
+    "snippet": "The Flight Attendants Union (FAU) has expressed serious concern over what it describes as an \"extremely irresponsible\" request made by Sri Lanka Tourism Chairperson Kimarli Fernando to the Director General of Health Services,",
+    "url": "https://www.ft.lk/front-page/Flight-Attendants-Union-writes-to-Tourism-Chairperson-concerned-over-request-to-health-authorities/44-722939",
+    "url_hash": "fb4b758e60d538aed872a6fc0f5bc02c",
+    "ut": 1631300907,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Flight Attendants Union",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
