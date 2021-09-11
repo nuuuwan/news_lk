@@ -8254,6 +8254,116 @@
   },
   {
     "date": "2021-09-10",
+    "title": "South Africa clinch first T20I against Sri Lanka",
+    "source": "www.islandcricket.lk",
+    "snippet": "South Africa defeated Sri Lanka by 28 runs in the first T20I, which was played today at the R. Premadasa Stadium in Colombo, to take a 1-0 lead in the three-match series.",
+    "url": "https://www.islandcricket.lk/news/featured/sri-lanka-south-africa-1st-t20-2021-colombo-report/",
+    "url_hash": "ab718aba21803751db311e182402d767",
+    "ut": 1631293762,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "28",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the R. Premadasa Stadium",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Biden calls out Republican governors on vaccines",
+    "source": "qconline.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is calling some Republican governors \"cavalier\" for resisting new federal vaccine requirements he hopes will contain the surging delta variant.",
+    "url": "https://qconline.com/news/national/the-latest-biden-calls-out-republican-governors-on-vaccines/article_5ac1e887-44fd-5c59-9b92-625d0e894b3d.html",
+    "url_hash": "1a1bd2dda37730c5cfc2005909e8d192",
+    "ut": 1631293762,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Fully vaxxed tourists to Sri Lanka can leave bio-bubble but must pre-book travel sites",
     "source": "economynext.com",
     "snippet": "Though fully vaccinated tourists to Sri Lanka are permitted to move out of a travel bubble, they still have to pre-book sites to visit and only travel using transport booked by the hotel or the agent that handles their travel,",
@@ -8611,6 +8721,89 @@
         "start_end": [
           28,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "September 11: two decades of terror",
+    "source": "www.theaustralian.com.au",
+    "snippet": "October 12, 2002 The bombings in the tourist district of Kuta on the Indonesian island of Bali killed 202 people ... injured some 500 at Catholic churches and top-end hotels across Sri Lanka. The majority of the fatalities were Sri Lankan nationals ...",
+    "url": "https://www.theaustralian.com.au/world/september-11-two-decades-of-terror/news-story/451313ef4fe122a44f2a4d0a72d4a05f",
+    "url_hash": "668b41310d69630251bcf6d8091a463f",
+    "ut": 1631297362,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "October 12, 2002",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kuta",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indonesian",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bali",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "202",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "some 500",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Catholic",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          43,
+          45
         ]
       }
     ]
@@ -9121,6 +9314,100 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Court reinstates Fla ban on school mask mandates",
+    "source": "theindependent.com",
+    "snippet": "ST. PETERSBURG, Fla. \u2014 The on-again, off-again ban imposed by Republican Gov. Ron DeSantis to prevent mandated masks for Florida school students is back in force.",
+    "url": "https://theindependent.com/news/national/the-latest-court-reinstates-fla-ban-on-school-mask-mandates/article_9cf358c8-378c-5b89-9948-e1e83b3b237c.html",
+    "url_hash": "7e9f67e1f135e2b6b34c995403e3a2d0",
+    "ut": 1631300962,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ST",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PETERSBURG",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Fla.",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: MI health provider: 92% of workers vaccinated",
+    "source": "globegazette.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is calling some Republican governors \"cavalier\" for resisting new federal vaccine requirements he hopes will contain the surging delta variant.",
+    "url": "https://globegazette.com/news/national/the-latest-biden-calls-out-republican-governors-on-vaccines/article_94731310-b76e-5566-8ef3-9aff46beb6f9.html",
+    "url_hash": "3959120a209803f71b0c402991c9fa52",
+    "ut": 1631300986,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          8,
+          9
         ]
       }
     ]
