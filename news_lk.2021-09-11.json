@@ -602,6 +602,33 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Over 10 million vaccinated with both doses in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Over 10 million people have been vaccinated with both doses of the coronavirus vaccine in Sri Lanka.   The Epidemiology U",
+    "url": "https://menafn.com/1102776133/Over-10-million-vaccinated-with-both-doses-in-Sri-Lanka",
+    "url_hash": "b461a26a5dce9b7981344fc70c84b4df",
+    "ut": 1631326091,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "10 million",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Afghan envoy in Colombo refuses to recognize Taliban",
     "source": "www.dailymirror.lk",
     "snippet": "The Afghan Ambassador to Sri Lanka has refused to recognize the interim cabinet of the Taliban. Ashraf Haidari has, in a latter, told the Sri Lankan Government and diplomatic community based in Colombo that the Taliban government is illegitimate,",
@@ -2943,6 +2970,41 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Appointing politician to CB Governorship unethical: SJB",
+    "source": "www.dailymirror.lk",
+    "snippet": "A politician cannot be appointed as the Governor of Central bank even if he/she resigns from parliamentary seat, SJB MP Eran Wickramaratne said today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Appointing-politician-to-CB-Governorship-unethical-SJB/108-220173",
+    "url_hash": "656c67419e1da27f130151efb1078db2",
+    "ut": 1631365662,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Eran Wickramaratne",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "NZ cricket team arrives in Pakistan after 18-year absence",
     "source": "apnews.com",
     "snippet": "The New Zealand cricket team arrived in Pakistan on Saturday for a limited-over series marking the Kiwis' first international series in the country since 2003. They played a five-match ODI series in Lahore 18 years ago but since then Pakistan has hosted New Zealand in the United Arab Emirates three times because of security concerns of foreign teams touring Pakistan.",
@@ -3127,6 +3189,202 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "157 more die of COVID-19: Death toll surges to 11,152.",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 157 more COVID-19 related deaths that occurred yesterday (09) were confirmed by the Director-General of Health Services today pushing the death toll to 11,152. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/157-more-die-of-COVID-19-Death-toll-surges-to-11-152/108-220174",
+    "url_hash": "cc253e3e239ecf1d093f4b55994c9527",
+    "ut": 1631369262,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "157",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "09",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11,152",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Manike Mage Hithe song hits 100 million views on YouTube",
+    "source": "www.dailymirror.lk",
+    "snippet": "Manike Mage Hithe' sung by young artiste Yohani De Silva has created history in Sri Lanka as her song been viewed by over 100 million users on YouTube. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Manike-Mage-Hithe-song-hits-100-million-views-on-YouTube/108-220175",
+    "url_hash": "c1efba28ed73d6eb2a1d04efbdec2f37",
+    "ut": 1631369262,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Manike Mage Hithe'",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yohani De Silva",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 100 million",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "YouTube",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "The Latest: Court reinstates Fla ban on school mask mandates",
+    "source": "www.sunherald.com",
+    "snippet": "The on-again, off-again ban imposed by Republican Gov. Ron DeSantis to prevent mandated masks for Florida school students is back in force.",
+    "url": "https://www.sunherald.com/news/business/article254131188.html",
+    "url_hash": "444de11bd8fd905dbf69e8ebe064c1a2",
+    "ut": 1631370659,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Cuba, Israel and Phu Quoc announce reopening plans",
+    "source": "edition.cnn.com",
+    "snippet": "The 222-square-mile island is known for its stunning beaches ... and popular with tourists -- Jamaica in the Caribbean and Sri Lanka in South Asia -- are the latest additions to the CDC's ever ...",
+    "url": "http://edition.cnn.com/travel/article/pandemic-travel-news-france-spain-cuba-israel/",
+    "url_hash": "f00863d1652c7ea196d0b735a9c58cf4",
+    "ut": 1631372450,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "222-square-mile",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jamaica",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CDC",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
