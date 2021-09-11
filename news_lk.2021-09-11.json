@@ -2556,6 +2556,25 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Current lockdown heading into blind alley: PHIs",
+    "source": "www.dailymirror.lk",
+    "snippet": "The present lockdown will be of no use if public movement are properly curtailed, Public Health Inspectors Union (PHIU) claimed. ..",
+    "url": "https://www.dailymirror.lk/top_story/Current-lockdown-heading-into-blind-alley-PHIs/155-220170",
+    "url_hash": "f774af8d0adb78ea1ebc4710078ef191",
+    "ut": 1631351293,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Public Health Inspectors Union",
+        "start_end": [
+          15,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Begging while maintaining social distance",
     "source": "www.dailymirror.lk",
     "snippet": "He is poor and uneducated, but was sensible enough to maintain social distance when begging. This man was spotted in Colombo on 09, 2021. Pix by Pradeep Pathirana ..",
@@ -2671,6 +2690,57 @@
         "start_end": [
           45,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Deepak Chahar Reveals MS Dhoni's Message After His 69* Heroics Vs Sri Lanka",
+    "source": "uk.finance.yahoo.com",
+    "snippet": "India's fast bowler Deepak Chahar showed his mettle with the bat during the India- Sri Lanka ODI series recently which was played in the island nation in the month of July. Furthermore, he revealed the message his Chennai Super Kings (CSK) captain gave him after his match-winning knock of 69*.",
+    "url": "https://uk.finance.yahoo.com/news/deepak-chahar-reveals-ms-dhoni-173859041.html",
+    "url_hash": "ca60378f426ede17bf5dbf73b029f965",
+    "ut": 1631354903,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Deepak Chahar",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the month of July",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "69",
+        "start_end": [
+          56,
+          57
         ]
       }
     ]
