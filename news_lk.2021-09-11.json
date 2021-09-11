@@ -49,5 +49,217 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lanka T20 World Cup squad awaits sports ministry approval",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka's ICC Men's T20 World Cup 2021 squad has been leaked to the media ahead of the official announcement, which is pending approval by the island's sports minister Namal Rajapaksa.",
+    "url": "https://www.islandcricket.lk/news/featured/sri-lanka-t20-world-cup-2021-squad-210910/",
+    "url_hash": "3fb767f447d9866ed8359671ee6627af",
+    "ut": 1631320038,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sunil Perera, outspoken king of Sri Lankan baila music, is dead at 68",
+    "source": "artdaily.com",
+    "snippet": "In the end, it was only appropriate that Sunil Perera, who had entertained generations of Sri Lankans on the radio and on the dance floor with his distinctive, Latin-fused tunes, would go out singing.",
+    "url": "https://artdaily.com/news/139246/Sunil-Perera--outspoken-king-of-Sri-Lankan-baila-music--is-dead-at-68",
+    "url_hash": "4a6abf665c0aa797a1196bf6ca300bc4",
+    "ut": 1631320158,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sunil Perera",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Latin",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "The Latest: Court reinstates Fla ban on school mask mandates",
+    "source": "www.middletownpress.com",
+    "snippet": "The on-again, off-again ban imposed by Republican Gov. Ron DeSantis to prevent mandated masks for Florida school students is back in force. The 1st District Court of Appeal ruled Friday a Tallahassee judge shouldn't have lifted an automatic stay two days ago that halted enforcement of the mask mandate ban.",
+    "url": "https://www.middletownpress.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "4586714d87cc9128ccc1b5045ad263da",
+    "ut": 1631320226,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "1st",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "District Court",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tallahassee",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two days ago",
+        "start_end": [
+          46,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "The Latest: MI health provider: 92% of workers vaccinated",
+    "source": "www.westport-news.com",
+    "snippet": "A major health care provider in southeastern Michigan says 92% of its employees have been fully vaccinated against COVID-19 by a Friday deadline and another 3% have gotten a first shot. Under Henry Ford Health System's policy,",
+    "url": "https://www.westport-news.com/news/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "29260c5953497659f0df7b60ff14e616",
+    "ut": 1631321606,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Michigan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "92%",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "another 3%",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Henry Ford Health System's",
+        "start_end": [
+          35,
+          40
+        ]
+      }
+    ]
   }
 ]
