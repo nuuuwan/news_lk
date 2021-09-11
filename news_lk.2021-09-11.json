@@ -406,5 +406,99 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "I was helpless in protecting elephants: Ishini",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sharing a post on Facebook, Ishini Wickremasinghe who resigned from the post of Director-general of the Department of National Zoological Gardens said yesterday she was helpless in protecting elephants being forcibly taken away from Pinnawala.",
+    "url": "https://www.dailymirror.lk/latest_news/I-was-helpless-in-protecting-elephants:-Ishini/342-220160",
+    "url_hash": "8b6cb4582a038b5d8c6c0121b7b74cc9",
+    "ut": 1631326078,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ishini Wickremasinghe",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of National Zoological Gardens",
+        "start_end": [
+          18,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pinnawala",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "The Latest: Mississippi Gov: vaccine orders unconstitutional",
+    "source": "www.chron.com",
+    "snippet": "COPENHAGEN, Denmark \u2014 Denmark's high vaccination rate has enabled the Scandinavian country to become one of the first European Union nations to lift all domestic restrictions. The return to normality has been gradual,",
+    "url": "https://www.chron.com/business/article/The-Latest-Egypt-sees-spike-before-schools-open-16448100.php",
+    "url_hash": "bceafe2dfeb2243972744b5431d25fbe",
+    "ut": 1631329274,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Denmark",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "European Union",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
   }
 ]
