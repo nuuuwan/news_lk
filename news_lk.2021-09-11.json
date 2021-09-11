@@ -1,0 +1,53 @@
+[
+  {
+    "date": "2021-09-11",
+    "title": "Air France to start flights to Sri Lanka from Nov 01",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Air France will start flying to Colombo from November 01, Sri Lanka's state airport agency said as the country gradually opens up for international travel. Air France is planning to bring tourists from Europe and also the Americas using ...",
+    "url": "https://economynext.com/air-france-to-start-flights-to-sri-lanka-from-nov-01-86031/",
+    "url_hash": "b1810c1da72ae05e1fff73454acbbb3a",
+    "ut": 1631318572,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "November 01",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Air France",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Europe",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Americas",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  }
+]

@@ -7046,6 +7046,33 @@
   {
     "date": "2021-09-10",
     "title": "The Latest: Senators want nursing home vaccine rates posted",
+    "source": "www.gazettetimes.com",
+    "snippet": "Senior Democratic senators are pressing Medicare to make nursing home COVID-19 vaccination rates easily accessible for consumers.",
+    "url": "https://www.gazettetimes.com/news/world/the-latest-senators-want-nursing-home-vaccine-rates-posted/article_c22f9f7d-9022-5c72-957b-1c6b5cd10339.html",
+    "url_hash": "1b0c3d26dd1ba32886f3521c8614c44c",
+    "ut": 1631290363,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Democratic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Medicare",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Senators want nursing home vaccine rates posted",
     "source": "www.wboc.com",
     "snippet": "Although the Biden administration is requiring vaccination for all nursing home staff, Sens. Ron Wyden of Oregon and Bob Casey of Pennsylvania say it could take months. They're asking Medicare to post vaccination rates among residents and staff of individual nursing homes on its 'Care Compare' website,",
     "url": "https://www.wboc.com/story/44704555/the-latest-senators-want-nursing-home-vaccine-rates-posted",
@@ -9418,6 +9445,81 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Australia's daily COVID-19 cases near 2,000 as Delta gains ground",
+    "source": "www.dailymirror.lk",
+    "snippet": "Australia's COVID-19 daily cases topped 1,900 for the first time in the pandemic on Friday as an outbreak fuelled by the highly infectious Delta variant continued to gain ground in locked-down Sydney and Melbourne,",
+    "url": "https://www.dailymirror.lk/international/Australias-daily-COVID-19-cases-near-2-000-as-Delta-gains-ground/107-220158",
+    "url_hash": "b6a066a016154e94e38ab9daf04f0946",
+    "ut": 1631308343,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,900",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Delta",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sydney",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Melbourne",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "STF in action",
     "source": "www.dailymirror.lk",
     "snippet": "The Special Task Force (STF) personnel launched a special operation yesterday in search of individuals who violate quarantine and curfew rules. Pix by Nimalsiri Edirisinghe ..",
@@ -9753,6 +9855,116 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "An outline of a Proposed Master Development Plan for Meemure",
+    "source": "www.lankaweb.com",
+    "snippet": "This proposal covers the whole of original Meemure Vasama that included the Meemure village and few other hamlets of Gandeka Korale of Uda Dumbara in the Kandy district. It comprises the entire area north of Koratuwemunduna (Corbets Gap) surrounded by the Dotalugala-Dumbanagala-Kehelpathdoruwegala-Telambugala ridge in the South and East,",
+    "url": "http://www.lankaweb.com/news/items/2021/09/10/an-outline-of-a-proposed-master-development-plan-for-meemure/",
+    "url_hash": "7ffe0f655e596f7ae0caa13897c066e6",
+    "ut": 1631316647,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Vasama",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Korale",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Uda Dumbara",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Kandy district",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Koratuwemunduna",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South",
+        "start_end": [
+          54,
+          55
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "East",
+        "start_end": [
+          56,
+          57
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "Sunil Perera, outspoken king of Sri Lankan baila music, is dead at 68",
+    "source": "artdaily.com",
+    "snippet": "who colonized much of the island in the 16th and 17th centuries. Over the decades he used his lyrics and his voice to amplify concerns about Sri Lanka's shrinking democratic space. The country, still recovering from years of civil war, has been beset by ...",
+    "url": "https://artdaily.com/news/139246/Sunil-Perera--outspoken-king-of-Sri-Lankan-baila-music--is-dead-at-68",
+    "url_hash": "4a6abf665c0aa797a1196bf6ca300bc4",
+    "ut": 1631317653,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the 16th and 17th centuries",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the decades",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
