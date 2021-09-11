@@ -1247,6 +1247,57 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Health Ministry-run COVID vaccination centres today",
+    "source": "www.adaderana.lk",
+    "snippet": "The Ministry of Health-operated COVID-19 vaccination centres will be conducted island-wide today (). Accordingly, the Sinopharm jabs will be administered to people in Colombo (RDHS and CMC), Gampaha,",
+    "url": "http://www.adaderana.lk/news/76828/health-ministry-run-covid-vaccination-centres-today",
+    "url_hash": "704e03e32c061f8d3d29d5de127ddfd3",
+    "ut": 1631333271,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health-",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CMC",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Covid stands in the way of government achieving self-sufficiency in food crops",
     "source": "www.dailymirror.lk",
     "snippet": "The pandemic has obstructed the government in achieving its target for self-sufficiency in food crops, a minister said. ..",
@@ -3517,6 +3568,25 @@
         "start_end": [
           7,
           10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "President wants to create people-centric economy: Spokesperson",
+    "source": "www.newsfirst.lk",
+    "snippet": "The President is of the view that a people-centric economy and a prosperous country will be built by making decisions in accordance - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/11/president-wants-to-create-people-centric-economy-spokesperson/",
+    "url_hash": "656debbd4d4bed1c434900eb6aa20bf4",
+    "ut": 1631384178,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
         ]
       }
     ]
