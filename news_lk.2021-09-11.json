@@ -52,6 +52,73 @@
   },
   {
     "date": "2021-09-11",
+    "title": "An outline of a Proposed Master Development Plan for Meemure",
+    "source": "www.lankaweb.com",
+    "snippet": "This proposal covers the whole of original Meemure Vasama that included the Meemure village and few other hamlets of Gandeka Korale of Uda Dumbara in the Kandy district. It comprises the entire area north of Koratuwemunduna (Corbets Gap) surrounded by the Dotalugala-Dumbanagala-Kehelpathdoruwegala-Telambugala ridge in the South and East,",
+    "url": "https://www.lankaweb.com/news/items/2021/09/10/an-outline-of-a-proposed-master-development-plan-for-meemure/",
+    "url_hash": "fa940210b1950d68c22bb3bc37297cce",
+    "ut": 1631318877,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Vasama",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Korale",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Uda Dumbara",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Kandy district",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Koratuwemunduna",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South",
+        "start_end": [
+          54,
+          55
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "East",
+        "start_end": [
+          56,
+          57
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
     "source": "www.thenewstribune.com",
     "snippet": "Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19.",
@@ -2531,6 +2598,81 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Cuba, Israel and Phu Quoc announce reopening plans",
+    "source": "edition.cnn.com",
+    "snippet": "Check out CNN's latest weekly news update on pandemic travel. France and Spain say no to unvaccinated US tourists, while Cuba, Israel and Phu Quoc announce reopening plans",
+    "url": "http://edition.cnn.com/travel/article/pandemic-travel-news-france-spain-cuba-israel/?gallery=6",
+    "url_hash": "a9171de96e8a0850d27b8d89250978ce",
+    "ut": 1631351265,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CNN",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Spain",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cuba",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Israel",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Phu Quoc",
+        "start_end": [
+          27,
+          29
         ]
       }
     ]

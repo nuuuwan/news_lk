@@ -11632,6 +11632,57 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Covid news as it happened: case rates rise in 92% of UK's local areas; Greece introduces fines for issuing fake vaccination certificates",
+    "source": "www.theguardian.com",
+    "snippet": "Nine in ten local areas in the UK have seen a week-on-week rise in Covid-19 cases; Greek authorities to crack down on fake vaccination certificates",
+    "url": "https://www.theguardian.com/world/live/2021/sep/10/coronavirus-live-news-bidens-vaccine-mandate-for-100-million-workers-los-angeles-to-require-students-to-be-vaccinated?page=with%3Ablock-613b281b8f088f2a91a7f87f&fbclid=IwAR3Do5Bot6oTa74weQPnuMnxVkaS6BCutcf63np2UzVqw4u5PJ1lVGaPeZA",
+    "url_hash": "c0171a7e0373b313f792585448c52097",
+    "ut": 1631311689,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Nine",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "week",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Greek",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Island-wide quarantine curfew in Sri Lanka further extended",
     "source": "www.lankaweb.com",
     "snippet": "The ongoing island-wide quarantine curfew orders will stay in effect ... With COVID-19 figures steadily declining, the government is confident that Sri Lanka will once again be able to reopen without risk,\" the health minister said in a tweet.",
@@ -11849,6 +11900,49 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: Senators want nursing home vaccine rates posted",
+    "source": "www.wtrf.com",
+    "snippet": "The senators cited an Associated Press report on outbreaks attributed to unvaccinated ... the increase during a speech outlining federal vaccine requirements. COLOMBO, Sri Lanka \u2014 Sri Lanka is extending a lockdown for another week as it struggles against ...",
+    "url": "https://www.wtrf.com/news/international/the-latest-nations-enroll-youths-in-trial-of-china-vaccine/",
+    "url_hash": "cee9e3453af4fbf77a5768fc6ca72e4a",
+    "ut": 1631315273,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Associated Press",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
