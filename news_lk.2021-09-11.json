@@ -1847,5 +1847,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "How Sri Lanka is facing an economic disaster after overnight switch to total organic farming",
+    "source": "www.msn.com",
+    "snippet": "Why news media is in crisis & How you can fix it. India needs free, fair, non-hyphenated and questioning journalism even more as it faces multiple crises. But the news media is in",
+    "url": "https://www.msn.com/en-in/news/world/how-sri-lanka-is-facing-an-economic-disaster-after-overnight-switch-to-total-organic-farming/ar-AAOk6gV",
+    "url_hash": "b2d05e0c3a2cb0d98028b59c00c286cd",
+    "ut": 1631347689,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lanka exchange IMF special drawing rights for US dollars",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has swapped most of a tranche 554.8 million special drawing rights (about 780 million US dollars) given to the country the International Monetary Fund for US dollars after getting them on August 2021,",
+    "url": "https://economynext.com/sri-lanka-exchange-imf-special-drawing-rights-for-us-dollars-86036/",
+    "url_hash": "02bee2e41aef38fea6742bf679c9ae68",
+    "ut": 1631347707,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "554.8 million",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "about 780 million US dollars",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 2021",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
   }
 ]
