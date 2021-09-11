@@ -1298,6 +1298,105 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Sri Lanka to leave for World Cup on 3 October and more",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka to leave for World Cup on 3 October Sri Lanka will leave for Oman on 3 October for a two-match T20I series, to be played on 7 and 9 October. Upon completion of the tour, Sri Lanka will leave to Abu Dhabi and Sharjah",
+    "url": "https://www.islandcricket.lk/news/sri-lanka-to-leave-for-world-cup-on-3-october-and-more/",
+    "url_hash": "5093a2b7aeec59fe61b95092baf320b2",
+    "ut": 1631333284,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "3 October",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "3 October",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "9 October",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Abu Dhabi",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Covid stands in the way of government achieving self-sufficiency in food crops",
     "source": "www.dailymirror.lk",
     "snippet": "The pandemic has obstructed the government in achieving its target for self-sufficiency in food crops, a minister said. ..",
@@ -3587,6 +3686,65 @@
         "start_end": [
           34,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Local invention to fight COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "Two machines have been developed by Buddhika Perera, a resident of Piliyandala, who is an Electrical technician by profession to fight COVID-19. One of the machines destroys airborne viruses and bacteria in a matter of seven seconds while the other machine destroys viruses and bacteria on money and other documents.",
+    "url": "https://www.dailymirror.lk/caption_story/Local-invention-to-fight-COVID-19/110-220177",
+    "url_hash": "96058a659659213811f37794f346af30",
+    "ut": 1631388955,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Buddhika Perera",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Piliyandala",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Electrical",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "seven seconds",
+        "start_end": [
+          38,
+          40
         ]
       }
     ]

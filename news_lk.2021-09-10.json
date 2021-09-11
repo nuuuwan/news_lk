@@ -11106,6 +11106,49 @@
   },
   {
     "date": "2021-09-10",
+    "title": "The Latest: Biden calls out Republican governors on vaccines",
+    "source": "www.ny1.com",
+    "snippet": "The senators cited an Associated Press report on outbreaks attributed to unvaccinated ... the increase during a speech outlining federal vaccine requirements. COLOMBO, Sri Lanka \u2014 Sri Lanka is extending a lockdown for another week as it struggles against ...",
+    "url": "https://www.ny1.com/nyc/all-boroughs/ap-online/2021/09/10/the-latest-egypt-sees-spike-before-schools-open-next-week",
+    "url_hash": "4f9bae78a07fcd05f8d6c3ea7715f734",
+    "ut": 1631308094,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Associated Press",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "The Latest: MI health provider: 92% of workers vaccinated",
     "source": "tucson.com",
     "snippet": "DETROIT \u2014 A major health care provider in southeastern Michigan says 92% of its employees have been fully vaccinated against COVID-19 by a Friday deadline and another 3% have gotten",
@@ -11900,6 +11943,105 @@
         "start_end": [
           45,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "1st T20 International at R. Premadasa Stadium Sri Lanka's batting woes continue as South Africa go one-up",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka's batting woes in T20I cricket continued as they could manage only 135-6 chasing South Africa's total of 163-5 to lose the first match of a 3-match series by 28 runs at the R. Premadasa Stadium yesterday. Only one batsman stood out in Sri ...",
+    "url": "https://www.ft.lk/sports/1st-T20-International-at-R--Premadasa-Stadium-Sri-Lanka-s-batting-woes-continue-as-South-Africa-go-one-up/23-722929",
+    "url_hash": "94e8770c023a5de101ea9ed2476ba81d",
+    "ut": 1631315299,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "only 135-6",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "163-5",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "28",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the R. Premadasa Stadium",
+        "start_end": [
+          41,
+          45
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Only one",
+        "start_end": [
+          47,
+          49
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri ...",
+        "start_end": [
+          53,
+          55
         ]
       }
     ]
