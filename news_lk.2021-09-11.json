@@ -119,6 +119,57 @@
   },
   {
     "date": "2021-09-11",
+    "title": "The Latest: Alaska Gov: Biden's vaccine order 'un-American'",
+    "source": "www.fox13memphis.com",
+    "snippet": "Alaska Gov_ Mike Dunleavy said President Joe Biden's effort to require millions of U_S_ workers to get vaccinated against COVID-19 is \"ill conceived, divisive, and un-American.\"",
+    "url": "https://www.fox13memphis.com/news/health/latest-alaska-gov/HRTOYNCNCJ6N2RPGFEQ33SLLK4/",
+    "url_hash": "39733c2830ed108eae1b12b2680735e8",
+    "ut": 1631318896,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Alaska Gov_",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mike Dunleavy",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "un-American",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "The Latest: Arizona gov: Biden 'overreaching' with new rule",
     "source": "www.thenewstribune.com",
     "snippet": "Arizona Gov. Doug Ducey says President Joe Biden is overreaching with his new requirement for employees of large businesses to be vaccinated or regularly tested for COVID-19.",
