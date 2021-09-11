@@ -5870,6 +5870,25 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Rajapaksa's experiment with organic farming in Sri Lanka a warning to developing countries",
+    "source": "www.msn.com",
+    "snippet": "The Sri Lankan government would do well to listen to the country's agricultural scientists and not to quacks masquerading as experts.",
+    "url": "https://www.msn.com/en-in/news/opinion/rajapaksa-s-experiment-with-organic-farming-in-sri-lanka-a-warning-to-developing-countries/ar-AAOizzB",
+    "url_hash": "e314a81a9eba9238a84d72cd4e335c05",
+    "ut": 1631279309,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "Covid live news: Greece to be 'ruthless' on fake vaccination certificates; Denmark lifts all restrictions",
     "source": "www.theguardian.com",
     "snippet": "False certificates are a problem that is upsetting us a lot,' says Greek deputy health minister; more than 80% of Danes over 12 have been fully vaccinated",
@@ -9715,6 +9734,41 @@
   },
   {
     "date": "2021-09-10",
+    "title": "Writing Letters to Michele Bachelet Causes Turmoil Within the TNA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Tamil National Alliance(TNA) is currently in a state of great turmoil. The current TNA crisis is linked up with the United Nations Human Rights Council(UNHRC) in Geneva. The issue is that of writing letters to the UN Human Rights Commissioner Ms.",
+    "url": "https://www.dailymirror.lk/opinion/Writing-Letters-to-Michele-Bachelet-Causes-Turmoil-Within-the-TNA/231-220156",
+    "url_hash": "a27b49a19e747ec178aed8e9a9ec4966",
+    "ut": 1631308080,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations Human Rights Council(UNHRC",
+        "start_end": [
+          22,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
     "title": "The Latest: MI health provider: 92% of workers vaccinated",
     "source": "tucson.com",
     "snippet": "DETROIT \u2014 A major health care provider in southeastern Michigan says 92% of its employees have been fully vaccinated against COVID-19 by a Friday deadline and another 3% have gotten",
@@ -9827,6 +9881,57 @@
         "start_end": [
           37,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-10",
+    "title": "The Latest: MI health provider: 92% of workers vaccinated",
+    "source": "billingsgazette.com",
+    "snippet": "COLOMBO, Sri Lanka \u2014 Sri Lanka is extending a lockdown for another week as it struggles with a surge in the coronavirus. The COVID-19 committee chaired by President Gotabhaya Rajapaksa decided ...",
+    "url": "https://billingsgazette.com/news/national/the-latest-mi-health-provider-92-of-workers-vaccinated/article_89bbefb1-0e0d-5122-85a2-3b5bddff32b9.html",
+    "url_hash": "d787c38117bfd5b01e8c9e17ad2b7e85",
+    "ut": 1631308109,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another week",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The COVID-19 committee",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabhaya Rajapaksa",
+        "start_end": [
+          30,
+          32
         ]
       }
     ]
