@@ -567,6 +567,25 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Seylan Bank partners with SUPERBOX",
+    "source": "island.lk",
+    "snippet": "Seylan Bank, the Bank with a Heart, announced an exclusive partnership with 'SUPERBOX' to provide a secure payment gateway service for its customers to carry out safe and secure transactions hassle-free.",
+    "url": "https://island.lk/seylan-bank-partners-with-superbox/",
+    "url_hash": "4652b3bd34dd9788f77419a1b20969a6",
+    "ut": 1631323791,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Seylan Bank",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Sri Lanka Cricket powered by Daraz",
     "source": "island.lk",
     "snippet": "This September, in a country where cricket is more a way of life than just a sport, the heart of Sri Lanka will beat for its Lankan Lions as they take on The Proteas of South Africa. An unwavering supporter of Sri Lanka Cricket,",
@@ -1383,6 +1402,41 @@
         "start_end": [
           37,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "The Latest: Court reinstates Fla ban on school mask mandates",
+    "source": "www.wfmz.com",
+    "snippet": "The on-again, off-again ban imposed by Republican Gov. Ron DeSantis to prevent mandated masks for Florida school students is back in force.",
+    "url": "https://www.wfmz.com/news/ap/ap-business/the-latest-denmark-lifts-all-domestic-covid-19-restrictions/article_d8dcf593-2283-5465-8d81-fa0d18107144.html",
+    "url_hash": "c2f680b55cb21e39071a408c70bc16bb",
+    "ut": 1631331001,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Republican",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ron DeSantis",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Florida",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
@@ -2595,6 +2649,57 @@
         "start_end": [
           59,
           60
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Sri Lanka exchanges IMF special drawing rights for US dollars",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has swapped most of a tranche 554.8 million special drawing rights (about 780 million US dollars) given to the country the International Monetary Fund for US dollars after getting them on August 2021,",
+    "url": "https://economynext.com/sri-lanka-exchanges-imf-special-drawing-rights-for-us-dollars-86036/",
+    "url_hash": "f52d0c992bf6a71fb775beebdc32d325",
+    "ut": 1631345410,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "554.8 million",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "about 780 million US dollars",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 2021",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
