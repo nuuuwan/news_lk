@@ -2619,6 +2619,49 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Over 72000 illegally transported sea cucumber stock seized",
+    "source": "dailynews.lk",
+    "snippet": "A stock of about 72542 sea cucumbers were seized by the Sri Lanka Navy during a special operation conducted this morning. The operation also made way to nab 02 suspects in connection to this unlawful act.",
+    "url": "https://dailynews.lk/2021/09/12/local/259131/over-72000-illegally-transported-sea-cucumber-stock-seized",
+    "url_hash": "2f2fdb3744e99aef9ca445048d0349d2",
+    "ut": 1631459342,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "about 72542",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Navy",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "02",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "2,642 COVID-19 positive cases reported in Sri Lanka",
     "source": "www.dailynews.lk",
     "snippet": "A total of 2,642 COVID-19 positive cases were reported in Sri Lanka today, stated the Epidemiology Unit. The total count of positive coronavirus cases found in Sri Lanka currently sits at 485,922 and 412,",
@@ -2672,6 +2715,73 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Give Sri Lankan Tamil refugees Indian citizenship, says SL lawmaker",
+    "source": "www.daijiworld.com",
+    "snippet": "Sri Lankan Tamil MP V.S. Radhakrishnan on Sunday called upon Tamil Nadu and the Indian governments to accord Indian citizenship to Sri Lankan Tamil refugees who are living in different parts of the state.",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=872782",
+    "url_hash": "be214217e1ac0292de6ebb7ca52d505f",
+    "ut": 1631463967,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "V.S. Radhakrishnan",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          21,
+          23
         ]
       }
     ]
