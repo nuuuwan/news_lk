@@ -2019,6 +2019,33 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Health Ministry-run COVID vaccination centres today",
+    "source": "nation.lk",
+    "snippet": "The Ministry of Health-operated COVID-19 vaccination centres will be conducted island-wide today (September 11). MORE..",
+    "url": "https://nation.lk/online/health-ministry-run-covid-vaccination-centres-today-119503.html",
+    "url_hash": "b371487ed0b6dd941bab98e3cb378f7b",
+    "ut": 1631336876,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health-",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Out of the box options for T20 batting mess.",
     "source": "www.islandcricket.lk",
     "snippet": "Let me start by saying that T20 batting is very hard. It is a balance between power hitting and strike rotation.As we know sri lankan batsmen struggle with power hitting and strike rotation therefore",
@@ -2289,6 +2316,57 @@
         "start_end": [
           23,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Typhoon Chanthu weakens towards Taiwan",
+    "source": "www.sheppnews.com.au",
+    "snippet": "Taiwan has downgraded Typhoon Chanthu to a medium typhoon, saying that while it will bring heavy rain and gusting winds to most of the island it is unlikely to make direct landfall. Taiwan's Central Weather Bureau on Saturday said the storm,",
+    "url": "https://www.sheppnews.com.au/world/2021/09/11/5139221/typhoon-chanthu-weakens-towards-taiwan",
+    "url_hash": "3959adea3ba24cdd1f9c435ccc82517e",
+    "ut": 1631340476,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Taiwan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Typhoon Chanthu",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Taiwan",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Weather Bureau",
+        "start_end": [
+          36,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
@@ -4115,6 +4193,81 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Covid death toll in Sri Lanka crosses the 11,000 mark",
+    "source": "colombogazette.com",
+    "snippet": "The coronavirus death toll in Sri Lanka crossed the 11,000 mark today. The Ministry of Health said that another 157 deaths linked to the virus were confirmed today. The Ministry of Health said that the death toll from the virus has now risen to 11,",
+    "url": "https://colombogazette.com/2021/09/11/covid-death-toll-in-sri-lanka-crosses-the-11000-mark/",
+    "url_hash": "3e6383044e3e8ac8f3622749e7f4e0e7",
+    "ut": 1631372900,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11,000",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "157",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          30,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          46,
+          47
         ]
       }
     ]
