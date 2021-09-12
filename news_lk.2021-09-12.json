@@ -764,6 +764,25 @@
   },
   {
     "date": "2021-09-12",
+    "title": "President wants to create people-centric economy: Spokesperson",
+    "source": "www.newsfirst.lk",
+    "snippet": "The President is of the view that a people-centric economy and a prosperous country will be built by making decisions in accordance - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/11/president-wants-to-create-people-centric-economy-spokesperson/",
+    "url_hash": "656debbd4d4bed1c434900eb6aa20bf4",
+    "ut": 1631416098,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "9/12 : The greatest regret of my life",
     "source": "www.srilankaguardian.org",
     "snippet": "The greatest regret of my life is my reflexive, unquestioning support for that decision. I was outraged, yes, but that was only the beginning of a process in which my heart completely defeated my rational judgment.",
@@ -771,6 +790,65 @@
     "url_hash": "2e7d129701c8b0dadc0a6ce9c0fdf5d9",
     "ut": 1631417182,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Today's Weather Forecast",
+    "source": "www.dailynews.lk",
+    "snippet": "Several spells of showers will occur in Sabaragamuwa and Western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts, stated the Meteorology Department. A few showers will occur in the North-Western province.",
+    "url": "http://www.dailynews.lk/2021/09/12/local/259058/todays-weather-forecast",
+    "url_hash": "f59bc50d03f17b07eb9158ece6a6b08c",
+    "ut": 1631419668,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kandy",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nuwara-Eliya",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Meteorology Department",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
   },
   {
     "date": "2021-09-12",
@@ -1010,6 +1088,41 @@
         "start_end": [
           20,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Chili imports will be stopped by 2024",
+    "source": "www.dailymirror.lk",
+    "snippet": "Steps will be taken to stop the import of chillies into the country by 2024, Agriculture Minister Mahindananda Aluthgamage said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Chili-imports-will-be-stopped-by-2024/342-220183",
+    "url_hash": "b9fe4a84675c63ebe9a559ba539826df",
+    "ut": 1631430464,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2024",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Agriculture",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahindananda Aluthgamage",
+        "start_end": [
+          18,
+          20
         ]
       }
     ]
@@ -1309,6 +1422,16 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Some MPs, ministers forget their roots: Mihintale Chief Prelate tells Cabraal",
+    "source": "www.dailymirror.lk",
+    "snippet": "Some MPs and ministers have forgotten that how they have got their ministerial portfolios. They must remember that it was because of the President and the Prime Minister. The ministers used to speak and act arbitrarily and hurt people. It is not what the ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Some-MPs-ministers-forget-their-roots-Mihintale-Chief-Prelate-tells-Cabraal/108-220187",
+    "url_hash": "07026fe7834f450fb61c7bb09eb2ba69",
+    "ut": 1631434064,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-12",
     "title": "ICC World Cup 2021",
     "source": "www.dailynews.lk",
     "snippet": "World Cup 2021 The following squad was selected by the Cricket Selection Committee to take part in the ICC Men's T20",
@@ -1424,6 +1547,159 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "There is community spread of COVID-19, says Prof. Tissa Vitarana",
+    "source": "www.dailymirror.lk",
+    "snippet": "Contradicting the Health Ministry statement that there is no community spread of the COVID-19, Professor Tissa Vitharana, a renowned virologist said that cases were not reported within clusters but within community at present and thus,",
+    "url": "https://www.dailymirror.lk/breaking_news/There-is-community-spread-of-COVID-19-says-Prof-Tissa-Vitarana/108-220186",
+    "url_hash": "aee7b0047a3f1d3654b6685437d9f750",
+    "ut": 1631437664,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tissa Vitharana",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Sri Lanka names Twenty20 World Cup squad",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka has named a squad made up of a combination of youth and experience for the Twenty20 World Cup to be played next month. The squad features 15 players and an additional four reserves as injury replacements and includes former captain Dinesh Chandimal,",
+    "url": "https://apnews.com/article/sports-sri-lanka-98b51b5fbe4389f038c7e9488eb391ac",
+    "url_hash": "d90c61b8eae79278d8e0ebb703dc62dd",
+    "ut": 1631437682,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Twenty20 World Cup",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Strong typhoon cuts power, causes flooding in northern Philippines",
+    "source": "www.thepeninsulaqatar.com",
+    "snippet": "Chanthu has been downgraded to category 3, according to Tropical Storm Risk, as it brushed Taiwan and drenched the island with heavy rain ... \"Bieber fever\" for the first time in six years. Sri Lanka on Sunday called up 21-year-old mystery spinner ...",
+    "url": "https://www.thepeninsulaqatar.com/article/12/09/2021/Strong-typhoon-cuts-power,-causes-flooding-in-northern-Philippines",
+    "url_hash": "6179523524bd1bd0580be3af0965b5e0",
+    "ut": 1631438513,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Chanthu",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tropical Storm Risk",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Taiwan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six years",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "21-year-old",
+        "start_end": [
+          44,
+          49
         ]
       }
     ]
