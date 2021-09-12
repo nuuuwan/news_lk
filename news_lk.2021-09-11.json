@@ -1638,6 +1638,73 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Afghan envoy in Colombo refuses to recognize Taliban",
+    "source": "colombogazette.com",
+    "snippet": "By Easwaran Rutnam\u00a0 The Afghan Ambassador to Sri Lanka has refused to recognize the interim cabinet of the Taliban.\u00a0 Ashraf Haidari has, in a latter, told the Sri Lankan Government and diplomatic community based in Colombo that the Taliban government is illegitimate,",
+    "url": "https://colombogazette.com/2021/09/11/afghan-envoy-in-colombo-refuses-to-recognize-taliban/",
+    "url_hash": "fdcce3e73658e6d08eb3e03f5dd8969a",
+    "ut": 1631333302,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rutnam\u00a0 ",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ashraf Haidari",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Government",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "Hiranya Samarasekera on laying the foundation for a digital government",
     "source": "economynext.com",
     "snippet": "No doubt it is conceivable, but how can Sri Lanka quicken the pace? What is the role of policy and private enterprise in this endeavour? ICTA has a regional cluster development programme covering the entire island to diffuse technological know-how and ...",
@@ -4204,6 +4271,68 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Why are there food queues in this Indian Ocean island?",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka has experienced long queues to buy essential items amid tight lockdown measures to control the spread of Covid-19.Shelves at government-run supermarkets have been running low - some even empty - with very little stock remaining of imported goods like milk powder,",
+    "url": "http://www.msn.com/en-us/news/world/why-are-there-food-queues-in-this-indian-ocean-island/ar-AAOlggQ",
+    "url_hash": "5fce69dad0ce23ddbcabfc275093ea57",
+    "ut": 1631401681,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Deadly Dilemmas: India and the Afghanistan question",
+    "source": "www.newindianexpress.com",
+    "snippet": "India and the world have mixed options to counter terrorism after the Taliban conquest of Afghanistan, which benefits the Pak-China Axis. What can New Delhi do?",
+    "url": "https://www.newindianexpress.com/magazine/2021/sep/12/deadly-dilemmas-india-andthe-afghanistan-question-2356588.html",
+    "url_hash": "6705f8ec1a3c959b85e6daa834315d6f",
+    "ut": 1631401681,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          27,
+          29
         ]
       }
     ]
