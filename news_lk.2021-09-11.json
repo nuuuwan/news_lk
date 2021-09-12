@@ -2910,6 +2910,81 @@
   },
   {
     "date": "2021-09-11",
+    "title": "Sri Lankan expert says Sinopharm ideal for children",
+    "source": "www.china.org.cn",
+    "snippet": "China's Sinopharm vaccine is ideal for children as it is an inactivated vaccine, Sri Lankan virology expert Prof. Tissa Vitarana said. Sri Lankan Prime Minister Mahinda Rajapaksa said in August that the government would soon begin vaccination of children over 12 years old.",
+    "url": "http://www.china.org.cn/world/Off_the_Wire/2021-09/11/content_77747405.htm",
+    "url_hash": "ec1dc7a4f845284f251a8f6c167a4fbc",
+    "ut": 1631347683,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tissa Vitarana",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over 12 years old",
+        "start_end": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
     "title": "How Sri Lanka is facing an economic disaster after overnight switch to total organic farming",
     "source": "www.msn.com",
     "snippet": "Why news media is in crisis & How you can fix it. India needs free, fair, non-hyphenated and questioning journalism even more as it faces multiple crises. But the news media is in",
@@ -3190,6 +3265,81 @@
     "url": "http://edition.cnn.com/travel/article/pandemic-travel-news-france-spain-cuba-israel/index.html?gallery=6",
     "url_hash": "4300e1c43e551c079548794cdda5926c",
     "ut": 1631351282,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CNN",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Spain",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cuba",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Israel",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Phu Quoc",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-11",
+    "title": "Cuba, Israel and Phu Quoc announce reopening plans",
+    "source": "edition.cnn.com",
+    "snippet": "Check out CNN's latest weekly news update on pandemic travel. France and Spain say no to unvaccinated US tourists, while Cuba, Israel and Phu Quoc announce reopening plans",
+    "url": "http://edition.cnn.com/travel/article/pandemic-travel-news-france-spain-cuba-israel/index.html",
+    "url_hash": "ca45dcfb6a731db4d6146f3623b1d511",
+    "ut": 1631351283,
     "ent_info_list": [
       {
         "label": "ORG",

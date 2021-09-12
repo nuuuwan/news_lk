@@ -103,6 +103,33 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Bhanuka, perhaps the truly struggling Rajapaksa in Sri Lanka",
+    "source": "www.islandcricket.lk",
+    "snippet": "Bhanuka Rajapaksa, 29, was thought by many cricket pundits, of being unfairly treated by the national selectors time to time, as he was either underestimated or undermined at his prime as a top order batsman.",
+    "url": "https://www.islandcricket.lk/news/bhanuka-perhaps-the-truly-struggling-rajapaksa-in-sri-lanka/",
+    "url_hash": "3b995f73500d246230452cedb8000a74",
+    "ut": 1631408883,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Bhanuka Rajapaksa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "29",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "Seven from Central Province in Sri Lanka Under-19 squad",
     "source": "www.islandcricket.lk",
     "snippet": "Seven players from Central Province made it into the 26-member Sri Lanka Under-19 squad for the Youth Asia Cup in UAE, the Youth World Cup in West Indies, which will take place during early 2022. Three players each from St.",
@@ -725,6 +752,57 @@
     "url_hash": "2e7d129701c8b0dadc0a6ce9c0fdf5d9",
     "ut": 1631417182,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-12",
+    "title": "UAE lifts restrictions on entry of fully vaccinated residents from SL, other countries from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The UAE will lift its restrictions on entry for fully vaccinated residents from Sunday. On Friday, the United Arab Emirates said that it will allow the return of those vaccinated fully with WHO-approved Covid-19 jabs and holding valid residence visas from 15 nations previously on the suspended list,",
+    "url": "https://www.dailymirror.lk/breaking_news/UAE-lifts-restrictions-on-entry-of-fully-vaccinated-residents-from-SL-other-countries-from-today/108-220178",
+    "url_hash": "884d63d30fd32bed02629356572e7266",
+    "ut": 1631423275,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UAE",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Arab Emirates",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
   },
   {
     "date": "2021-09-12",
