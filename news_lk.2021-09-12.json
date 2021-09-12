@@ -2012,5 +2012,147 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Dasun Shanaka to lead Sri Lanka at T20 World Cup",
+    "source": "colombogazette.com",
+    "snippet": "Dasun Shanaka is to lead Sri Lanka at the T20 World Cup in October. The Cricket Selection Committee has picked the squad to take part in the ICC Men's T20 Cricket World Cup 2021, which will be played in UAE and Oman from 17th October to 14th November 2021.",
+    "url": "https://colombogazette.com/2021/09/12/dasun-shanaka-to-lead-sri-lanka-at-t20-world-cup/",
+    "url_hash": "0a5503a112569fd047f75dfa48734e54",
+    "ut": 1631450109,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Dasun Shanaka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Cricket Selection Committee",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17th October to 14th November 2021",
+        "start_end": [
+          46,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Give Sri Lankan Tamil refugees Indian citizenship, says SL lawmaker",
+    "source": "www.canindia.com",
+    "snippet": "Moideen said that even though the civil war in Sri Lanka had ended ten years ago, they are continuing to work in India as the job opportunities in the island nation were bleak. Radhakrishnan praised the efforts of Tamil Nadu Chief Minister M.K. Stalin on ...",
+    "url": "https://www.canindia.com/give-sri-lankan-tamil-refugees-indian-citizenship-says-sl-lawmaker/",
+    "url_hash": "22c3b74ffc0ded445e5f823b4e3c80d4",
+    "ut": 1631451406,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten years ago",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Radhakrishnan",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "M.K. Stalin",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
   }
 ]
