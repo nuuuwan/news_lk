@@ -725,5 +725,40 @@
     "url_hash": "2e7d129701c8b0dadc0a6ce9c0fdf5d9",
     "ut": 1631417182,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Exploring Colombo's historic attractions",
+    "source": "timesofindia.indiatimes.com",
+    "snippet": "For those who love exploring historical and ancient sites, Colombo in Sri Lanka has a lot to offer. The sites here shouldn't be missed at any cost! The country has a very rich history full of Dutch and British drama.",
+    "url": "https://timesofindia.indiatimes.com/travel/destinations/exploring-colombos-historic-attractions/photostory/86134219.cms",
+    "url_hash": "97bcebe76952274eaafde6a9e21a6eff",
+    "ut": 1631424503,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Dutch",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
   }
 ]
