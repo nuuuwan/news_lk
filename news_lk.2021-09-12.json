@@ -783,6 +783,41 @@
   },
   {
     "date": "2021-09-12",
+    "title": "SJB says Government has made underwear non-essential",
+    "source": "menafn.com",
+    "snippet": "The Samagi Jana Balawegaya (SJB) says the Government has made underwear a non-essential item.   SJP Parliamentarian\u00a0Harsh",
+    "url": "https://menafn.com/1102778259/SJB-says-Government-has-made-underwear-non-essential&source=19",
+    "url_hash": "1b519f93d94974f837ad9590ded3eba4",
+    "ut": 1631416114,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "The Samagi Jana Balawegaya",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "9/12 : The greatest regret of my life",
     "source": "www.srilankaguardian.org",
     "snippet": "The greatest regret of my life is my reflexive, unquestioning support for that decision. I was outraged, yes, but that was only the beginning of a process in which my heart completely defeated my rational judgment.",
@@ -1277,6 +1312,33 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Act to wipe out Islamic extremism similar to LTTE: BBS",
+    "source": "www.dailymirror.lk",
+    "snippet": "There is a need to prevent the emergence of terrorists through Islamic extremism and the government must take meticulous and expeditious actions in the same way that LTTE terrorism was wiped out from the country,",
+    "url": "https://www.dailymirror.lk/breaking_news/Act-to-wipe-out-Islamic-extremism-similar-to-LTTE-BBS/108-220182",
+    "url_hash": "15dc43130b2bfabce3c5d150ea649289",
+    "ut": 1631430483,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "Minister Chamal Rajapaksa contracts COVID-19",
     "source": "www.adaderana.lk",
     "snippet": "Minister of Irrigation Chamal Rajapaksa has tested positive for COVID-19, Ada Derana learns. According to reports, the minister is currently under medical care at a private hospital in Colombo. Disclaimer: All the comments will be moderated by the AD editorial.",
@@ -1617,6 +1679,25 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "There is community spread of COVID-19, says Prof. Tissa Vitarana",
+    "source": "www.dailymirror.lk",
+    "snippet": "Contradicting the Health Ministry statement that there is no community spread of the COVID-19, Professor Tissa Vitharana, a renowned virologist said that cases were not reported within clusters but within community at present and thus,",
+    "url": "https://www.dailymirror.lk/latest_news/There-is-community-spread-of-COVID-19-says-Prof-Tissa-Vitarana/342-220186",
+    "url_hash": "e1f22baca57cd5c6acd2971d8c2e75a2",
+    "ut": 1631437683,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tissa Vitharana",
+        "start_end": [
+          16,
+          18
         ]
       }
     ]
