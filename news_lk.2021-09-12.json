@@ -1086,6 +1086,111 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Act to wipe out Islamic extremism similar to LTTE: BBS",
+    "source": "www.dailymirror.lk",
+    "snippet": "There is a need to prevent the emergence of terrorists through Islamic extremism and the government must take meticulous and expeditious actions in the same way that LTTE terrorism was wiped out from the country,",
+    "url": "https://www.dailymirror.lk/latest_news/Act-to-wipe-out-Islamic-extremism-similar-to-LTTE-BBS/342-220182",
+    "url_hash": "8a40d231dc1462be833f5083e3047ed1",
+    "ut": 1631430476,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "SL squad for ICC T20 World Cup announced",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cricket Selection Committee of Sri Lanka Cricket has selected the squad to take part in the ICC Men's T20 Cricket World Cup 2021, which will be played in UAE and Oman from 17th October to 14th Nov.",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-squad-for-ICC-T20-World-Cup-announced/108-220184",
+    "url_hash": "4bf8033843a4eb8c5f6e7a9e3dc4be31",
+    "ut": 1631430476,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Cricket Selection Committee of Sri Lanka Cricket",
+        "start_end": [
+          0,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "17th October to 14th Nov.",
+        "start_end": [
+          35,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Minister Chamal Rajapaksa contracts COVID-19",
+    "source": "www.adaderana.lk",
+    "snippet": "Minister of Irrigation Chamal Rajapaksa has tested positive for COVID-19, Ada Derana learns. According to reports, the minister is currently under medical care at a private hospital in Colombo. Disclaimer: All the comments will be moderated by the AD editorial.",
+    "url": "http://www.adaderana.lk/news/76814/minister-chamal-rajapaksa-contracts-covid-19",
+    "url_hash": "629eaf6d4fee6779bac2df4319dd93d3",
+    "ut": 1631430490,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Irrigation Chamal Rajapaksa",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ada Derana",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "Theekshana, Jayawickrema make the cut as Sri Lanka announce T20 World Cup squad",
     "source": "www.islandcricket.lk",
     "snippet": "Sri Lanka have confirmed their 15-member squad for the upcoming ICC Men's T20 World Cup 2021. The squad will be led by Dasun Shanaka as the team begin their campaign on 18 October against Namibia in Abu Dhabi in Group A of the First Round,",
@@ -1198,6 +1303,127 @@
         "start_end": [
           17,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "ICC World Cup 2021",
+    "source": "www.dailynews.lk",
+    "snippet": "World Cup 2021 The following squad was selected by the Cricket Selection Committee to take part in the ICC Men's T20",
+    "url": "https://www.dailynews.lk/tags/icc-world-cup-2021",
+    "url_hash": "2191482b87385019841a8c4b0a166229",
+    "ut": 1631434081,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Cup 2021",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Cricket Selection Committee",
+        "start_end": [
+          9,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Over 12,000 dengue cases reported during 2021",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Epidemiology Unit states that 12,102\u00a0 dengue cases were reported from all over the island from January 2021 until September 10. - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/12/over-12000-dengue-cases-reported-during-2021/",
+    "url_hash": "7f2728c1b6e561826ebc92b4e8b72c5c",
+    "ut": 1631435165,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "12,102",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January 2021",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 10",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Sri Lanka names Twenty20 World Cup squad",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka has named a squad made up of a combination of youth and experience for the Twenty20 World Cup to be played next month. The squad features 15 players and an additional four reserves as injury replacements and includes former captain Dinesh Chandimal,",
+    "url": "https://apnews.com/98b51b5fbe4389f038c7e9488eb391ac",
+    "url_hash": "82247c30f910aa1494e15f6e32ac4896",
+    "ut": 1631435834,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Twenty20 World Cup",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
