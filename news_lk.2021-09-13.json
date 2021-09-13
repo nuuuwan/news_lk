@@ -2790,5 +2790,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Sri Lankan detainees tortured while in custody, rights group alleges",
+    "source": "www.msn.com",
+    "snippet": "Political detainees in Sri Lanka are being tortured while in police and military custody, a human rights lawyer who wrote a report on alleged abuses said on Friday, days ahead of a United Nations human rights summit.",
+    "url": "http://www.msn.com/en-us/news/world/sri-lankan-detainees-tortured-while-in-custody-rights-group-alleges/ar-AAOnoBe",
+    "url_hash": "f70a61d04c2663904c2e8694224f9f60",
+    "ut": 1631516904,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday, days ahead",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United Nations",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "POWER PLAYERS: Meet 52 rising Democratic stars working in Vice President Kamala Harris' office",
+    "source": "www.businessinsider.com",
+    "snippet": "The vice president employs dozens of staffers in her White House and Senate offices, but their titles and salaries aren't accessible to the public.",
+    "url": "https://www.businessinsider.com/vice-president-kamala-harris-staff-list-white-house-2021-9",
+    "url_hash": "3d1d4b94942ae4051c3f0011db971e84",
+    "ut": 1631519973,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "dozens",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "White House",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Senate",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
   }
 ]
