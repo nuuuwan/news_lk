@@ -5312,6 +5312,25 @@
   },
   {
     "date": "2021-09-13",
+    "title": "COVID situation has not yet reached satisfactory level, says Health Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "Despite a slight decrease in the number of COVID-19 infections and fatalities, the Health Ministry said the situation is not yet favourable to embrace normalcy. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-situation-has-not-reached-satisfactory-level-says-Health-Ministry/108-220261",
+    "url_hash": "9ed4143c34fa936ac9744d123a53d416",
+    "ut": 1631538542,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
     "title": "China in Palk Strait",
     "source": "www.thestatesman.com",
     "snippet": "reportedly from the Intelligence community to head the island nation's Deputy High Commission in Chennai instead of posting a foreign service officer, is another matter of concern. During the 30-year civil war in Sri Lanka, particularly in the final ...",
@@ -5642,6 +5661,151 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "135 more COVID-19 deaths reported",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 135 more COVID-19 related deaths that occurred yesterday (12) were confirmed by the Director-General of Health Services today pushing the death toll to 11,431. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/135-more-COVID-19-deaths-reported/108-220264",
+    "url_hash": "7cdba46a48c03db94d4ea24b093d5582",
+    "ut": 1631545742,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "135",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11,431",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "The Sprout: Kansas City Southern sets its sights on CP bid",
+    "source": "ipolitics.ca",
+    "snippet": "Good day and welcome to the Sprout, where there's a week to go in the ongoing election campaign. Looking for some culinary inspiration? It's National Peanut Day and National Snack a Pickle Day. Here's today's agriculture news.",
+    "url": "https://ipolitics.ca/2021/09/13/the-sprout-kansas-city-southern-sets-its-sights-on-cp-bid/",
+    "url_hash": "9d2e2e431b88b7b68bd82ebb0a3ef1f5",
+    "ut": 1631545760,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "a week",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "National Peanut Day",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Snack a Pickle Day",
+        "start_end": [
+          33,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Cabraal appointed CB Governor",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former State Minister Ajith Nivard Cabraal has been appointed as the Governor of the Central Bank of Sri Lanka by the President with effect from September 15, Presidential Media Division said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Cabraal-appointed-CB-Governor/108-220265",
+    "url_hash": "735c688de01d1230aed139c5bf8ce69f",
+    "ut": 1631546282,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          13,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 15",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Presidential Media Division",
+        "start_end": [
+          28,
+          31
         ]
       }
     ]
