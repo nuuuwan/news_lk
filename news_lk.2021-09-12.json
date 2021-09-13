@@ -3449,6 +3449,41 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Sri Lanka Rugby to conduct training and education programs in all provinces",
+    "source": "www.ft.lk",
+    "snippet": "By Shamseer Jaleel Sri Lanka Rugby (SLR) is planning to conduct a series of World Rugby (WR) training and education programs in all provinces during September to December. With this initiative and during COVID,",
+    "url": "https://www.ft.lk/sports/Sri-Lanka-Rugby-to-conduct-training-and-education-programs-in-all-provinces/23-722960",
+    "url_hash": "bb6ef2ddd69c21d359c79d57a73a140b",
+    "ut": 1631470106,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jaleel Sri Lanka",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "World Rugby",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September to December",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "Ravaging trail left by X-Press Pearl: Part 1",
     "source": "www.ft.lk",
     "snippet": "Sri Lanka is currently facing the worst man-made maritime disaster to date after the chemical-laden MV X-Press Pearl, a Singapore-flagged container ship, caught fire on 21 May while it was anchored approximately nine nautical miles (NM) northwest of Colombo.",
@@ -4128,6 +4163,49 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Ominous signs of a T20 World Cup debacle",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's total of 103 all out was their lowest ever score batting first at home, and the lowest score they have been bowled out for by South Africa. ..",
+    "url": "https://www.dailymirror.lk/headline/Ominous-signs-of-a-T20-World-Cup-debacle/419-220251",
+    "url_hash": "a3dc75576a9e90c4d19862962443be95",
+    "ut": 1631473684,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "103",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "Cabraal to step down from parliament on Monday?",
     "source": "www.adaderana.lk",
     "snippet": "State Minister of Finance, Capital Markets and State Enterprise Reforms Ajith Nivard Cabraal is set to submit the letter of resignation from his position as a Member of Parliament on Monday (Sep",
@@ -4248,6 +4326,41 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Huawei to launch its latest feature packed Tablet PC MatePad 11",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "The leading technology solutions provider, Huawei has announced that it will soon launch the Huawei MatePad 11, the latest addition to the MatePad series with a plethora of advanced features. The tech giant Huawei has been a pioneer in introducing a range of tablet PCs that cater to different consumer segments and simplifying the",
+    "url": "http://bizenglish.adaderana.lk/huawei-to-launch-its-latest-feature-packed-tablet-pc-matepad-11/",
+    "url_hash": "674343229ef94b303bf055967b2e545f",
+    "ut": 1631473693,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Huawei",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "MatePad",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Huawei",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
@@ -5175,6 +5288,25 @@
         "start_end": [
           20,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Why are there food queues in this Indian Ocean island?",
+    "source": "www.lankaweb.com",
+    "snippet": "Sri Lanka has experienced long queues to buy essential items amid tight lockdown measures to control the spread of Covid-19. Shelves at government-run supermarkets have been running low - some even empty - with very little stock remaining of imported goods like milk powder,",
+    "url": "http://www.lankaweb.com/news/items/2021/09/12/why-are-there-food-queues-in-this-indian-ocean-island/",
+    "url_hash": "03a38bd7294bc06cf191287820fbbd32",
+    "ut": 1631484493,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
         ]
       }
     ]
