@@ -5051,6 +5051,68 @@
   },
   {
     "date": "2021-09-13",
+    "title": "Patient care at Narahenpita Army Hospital at risk: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The responsibility for the breakdown of patient care services at the Narahenpita Army Hospital should be borne by the relevant military officers and the Health Ministry officials who were involved in removing the doctors,",
+    "url": "https://www.dailymirror.lk/breaking_news/Patient-care-at-Narahenpita-Army-Hospital-at-risk-GMOA/108-220262",
+    "url_hash": "0e16860a6bfef6bed845334cd70c8df4",
+    "ut": 1631534886,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Narahenpita Army Hospital",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          23,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Bachelet raises a number of concerns on Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "The United Nations High Commissioner for Human Rights Michelle Bachelet today raised a number of concerns on Sri Lanka, including on the",
+    "url": "https://menafn.com/1102786656/Bachelet-raises-a-number-of-concerns-on-Sri-Lanka",
+    "url_hash": "b49740b3901ae3a1517715e5a15188c5",
+    "ut": 1631534915,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Michelle Bachelet",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
     "title": "Large sugar stocks seized",
     "source": "www.dailymirror.lk",
     "snippet": "A warehouse with 2,400 metric tons of sugar belonging to a leading company in Colombo was sealed by the officers of the Consumer Affairs Authority (CAA) today. Pix by Kithsiri de Mel ..",
@@ -5196,6 +5258,25 @@
   },
   {
     "date": "2021-09-13",
+    "title": "COVID situation has not yet reached satisfactory level, says Health Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "Despite a slight decrease in the number of COVID-19 infections and fatalities, the Health Ministry said the situation is not yet favourable to embrace normalcy. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-situation-has-not-yet-reached-satisfactory-level-says-Health-Ministry/108-220261",
+    "url_hash": "1cf4314fb074f0020fe5bd52ffffdedc",
+    "ut": 1631538486,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
     "title": "Economic emergency in Lanka may further expand military role in civilian functions UN rights body",
     "source": "www.theweek.in",
     "snippet": "The UN rights body on Monday expressed concern on the state of economic emergency declared in Sri Lanka amid deepening recession and noted that it may \"further expand the role of the military in civilian functions\" in the island nation.",
@@ -5311,6 +5392,256 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Sri Lanka share index suffers worst fall in near 7 months; foreigners exit",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stocks plunged 3.70 percent on Monday (13) as import restrictions and an increasing difference between dollar buying and selling weighed on the sentiment amid foreigners also exit from the island nation's risky assets,",
+    "url": "https://economynext.com/sri-lanka-share-index-suffers-worst-fall-in-near-7-months-foreigners-exit-86091/",
+    "url_hash": "40ef75ad4f4c677b24af7e949b3d0d09",
+    "ut": 1631542111,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "3.70 percent",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "At least 29 Filipino nature defenders slain in 2020-Global Witness report",
+    "source": "businessmirror.com.ph",
+    "snippet": "Filipinos opposing mining, illegal logging, and dam projects were among those killed defending forests last year, making the country one of the world's most dangerous places for environmentalists in 2020.",
+    "url": "https://businessmirror.com.ph/2021/09/13/at-least-29-filipino-nature-defenders-slain-in-2020-global-witness-report/",
+    "url_hash": "340113ec3f0ddd0f0aee01e8d9d0ea64",
+    "ut": 1631543534,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Filipinos",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Economic emergency in Lanka may further expand military role in civilian functions: UN rights body",
+    "source": "www.newindianexpress.com",
+    "snippet": "Sri Lankan President Gotabaya Rajapaksa on August 31 declared an economic emergency to contain soaring inflation after a steep fall in value of the country's currency caused a spike in food prices.",
+    "url": "https://www.newindianexpress.com/world/2021/sep/13/economic-emergency-in-lanka-may-further-expand-military-role-in-civilian-functions-un-rights-body-2358227.html",
+    "url_hash": "5f33f29d2c75fd7f7660bae81ff1cea2",
+    "ut": 1631543714,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 31",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Deletion of NMRA data could be part of drug mafia conspiracy",
+    "source": "www.dailynews.lk",
+    "snippet": "Dileepa Piries appearing on behalf of the Attorney General's Department told the Magistrate that the deletion of data from the National Medicines Regulatory Authority (NMRA) database could be part of a conspiracy of the medical drug mafia.",
+    "url": "https://www.dailynews.lk/2021/09/13/law-order/259221/deletion-nmra-data-could-be-part-drug-mafia-conspiracy",
+    "url_hash": "669943899aec03e9a0a2faefe57a96d3",
+    "ut": 1631544550,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Magistrate",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Medicines Regulatory Authority",
+        "start_end": [
+          20,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Sri Lanka Retailers Association announces, Sri Lanka Retail Forum 2021",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Ltd (SLRA), recently entered in an MOU with the Ceylon Chamber of Commerce to organize the island's premier retail sector forum for the fifth successful year. This year's Sri Lanka Retail Forum themed,",
+    "url": "http://bizenglish.adaderana.lk/sri-lanka-retailers-association-announces-sri-lanka-retail-forum-2021/",
+    "url_hash": "c84626e484b8f4b5678b03b0ce681f28",
+    "ut": 1631544554,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "MOU",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ceylon Chamber of Commerce",
+        "start_end": [
+          11,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "year",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Sri Lanka Retail Forum",
+        "start_end": [
+          34,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "TUI's latest update includes more cancelled holidays to Spain, Italy and Malta",
+    "source": "www.mirror.co.uk",
+    "snippet": "TUI's latest travel updates include holiday cancellations affecting routes in Spain, Italy, Malta and Turkey - but it's not all bad news for holidaymakers",
+    "url": "https://www.mirror.co.uk/travel/news/tuis-latest-update-includes-more-24974490",
+    "url_hash": "2e0ea52fdab8a382da14e56110ca06e7",
+    "ut": 1631544914,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "TUI",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Spain",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malta",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Turkey",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
