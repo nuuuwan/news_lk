@@ -6495,6 +6495,57 @@
   },
   {
     "date": "2021-09-13",
+    "title": "UNHCHR sounds alarm on emergency regulations",
+    "source": "www.dailymirror.lk",
+    "snippet": "Takes note of Easter Sunday bomb victims, religious leaders calling for justice UN High Commissioner for Human Rights (UNHCHR) Michelle Bachelet, in her oral update on Sri Lanka, said the emergency regulations enforced in Sri Lanka in recent times with the stated objective of ensuring food security and price controls,",
+    "url": "https://www.dailymirror.lk/front_page/UNHCHR-sounds-alarm-on-emergency-regulations/238-220275",
+    "url_hash": "71e8665339308b1d319cbe8eaa43a30c",
+    "ut": 1631556505,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Easter Sunday",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Michelle Bachelet",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
     "title": "It's not only Sri Lanka which gets the rap at UNHRC",
     "source": "www.dailymirror.lk",
     "snippet": "Many Sri Lankans grumble that their small and powerless country is singled out for trenchant criticism at the UN Human Rights Council (UNHRC) while bigger and more powerful countries with worse records go scot-free.",
@@ -6671,6 +6722,33 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Ravaging trail left by X-Press Pearl: Part 2",
+    "source": "www.ft.lk",
+    "snippet": "As of August 2021, the economic impact of the X-Press Pearl wreckage is yet to be fully understood due to the prevailing COVID-19 situation on the island and the lack of monitoring of the overall impact on economic activities in the country.",
+    "url": "https://www.ft.lk/columns/Ravaging-trail-left-by-X-Press-Pearl-Part-2/4-723009",
+    "url_hash": "0694a809a215069f9e00ee952856184d",
+    "ut": 1631560128,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "August 2021",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the X-Press",
+        "start_end": [
+          9,
+          13
         ]
       }
     ]
