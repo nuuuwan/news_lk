@@ -1437,6 +1437,41 @@
   },
   {
     "date": "2021-09-13",
+    "title": "Suresh Goonesekere: A charming, touchy character",
+    "source": "www.dailymirror.lk",
+    "snippet": "Where do I begin to write about my nephew Suresh? Suresh came into my life at a tender age, being my nephew Hishan's college buddy and neighbour. They grew up together in Mount Lavinia and attended S. Thomas's College. This shy little boy I would see ...",
+    "url": "https://www.dailymirror.lk/news-features/Suresh-Goonesekere-A-charming-touchy-character/131-220220",
+    "url_hash": "f4e4570d8099b51a2613eb4ea1f0ba40",
+    "ut": 1631506079,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Hishan",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Mount Lavinia",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Thomas's College",
+        "start_end": [
+          40,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
     "title": "Third dose for Kuwait-bound Lankan workers: SLFEB",
     "source": "www.dailymirror.lk",
     "snippet": "Steps will be taken in the future to provide one dose of another vaccine approved by the Kuwaiti government as the third dose for the Sri Lankan workers who will be travelling to Kuwait for employment,",
@@ -4398,6 +4433,33 @@
   },
   {
     "date": "2021-09-13",
+    "title": "High Court fixes date for Eater Sunday attacks trial",
+    "source": "www.adaderana.lk",
+    "snippet": "The Colombo High Court Trial-at-Bar has decided to call the case pertaining to the Easter Sunday bombings on October 04",
+    "url": "http://www.adaderana.lk/news.php?nid=76879",
+    "url_hash": "bf9827c1f1cb1fc18bfc58f781edbda0",
+    "ut": 1631527691,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 04",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
     "title": "Sri Lanka sells 83-pct of Rs50bn bond auction at higher price control",
     "source": "economynext.com",
     "snippet": "Sri Lanka has sold 83.5 percent of a 50 billion rupee bond auction after ceiling rates were raised to closer to market, data from the state debt office showed.",
@@ -4631,6 +4693,49 @@
         "start_end": [
           35,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "UN High Commissioner for Human Rights sounds alarm on emergency regulations",
+    "source": "www.dailymirror.lk",
+    "snippet": "UN High Commissioner for Human Rights Michelle Bachelet, in her oral update on Sri Lanka, said the emergency regulations enforced in Sri Lanka in recent times with the stated objective of ensuring food security and price controls,",
+    "url": "https://www.dailymirror.lk/breaking_news/UN-High-Commissioner-for-Human-Rights-sounds-alarm-on-emergency-regulations/108-220259",
+    "url_hash": "5c4a96a8ea0f8698e6750627404346e8",
+    "ut": 1631531279,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Michelle Bachelet",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
         ]
       }
     ]
@@ -4879,6 +4984,76 @@
     "title": "Large sugar stocks seized",
     "source": "www.dailymirror.lk",
     "snippet": "A warehouse with 2,400 metric tons of sugar belonging to a leading company in Colombo was sealed by the officers of the Consumer Affairs Authority (CAA) today. Pix by Kithsiri de Mel ..",
+    "url": "https://www.dailymirror.lk/caption_story/Large-sugar-stocks-seized/110-220258",
+    "url_hash": "1ba96926f4ffc53b90c200d7cf1763b0",
+    "ut": 1631534879,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "2,400 metric tons",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Consumer Affairs Authority",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kithsiri de Mel",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Patient care at Narahenpita Army Hospital at risk: GMOA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The responsibility for the breakdown of patient care services at the Narahenpita Army Hospital should be borne by the relevant military officers and the Health Ministry officials who were involved in removing the doctors,",
+    "url": "https://www.dailymirror.lk/latest_news/Patient-care-at-Narahenpita-Army-Hospital-at-risk-GMOA/342-220262",
+    "url_hash": "6684ff52c97f070dd476b0426ffa2b1b",
+    "ut": 1631534879,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Narahenpita Army Hospital",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          23,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Large sugar stocks seized",
+    "source": "www.dailymirror.lk",
+    "snippet": "A warehouse with 2,400 metric tons of sugar belonging to a leading company in Colombo was sealed by the officers of the Consumer Affairs Authority (CAA) today. Pix by Kithsiri de Mel ..",
     "url": "https://www.dailymirror.lk/latest_news/Large-sugar-stocks-seized/342-220258",
     "url_hash": "63f074f678cacea961311a4aeba20b24",
     "ut": 1631535146,
@@ -5021,6 +5196,41 @@
   },
   {
     "date": "2021-09-13",
+    "title": "Economic emergency in Lanka may further expand military role in civilian functions UN rights body",
+    "source": "www.theweek.in",
+    "snippet": "The UN rights body on Monday expressed concern on the state of economic emergency declared in Sri Lanka amid deepening recession and noted that it may \"further expand the role of the military in civilian functions\" in the island nation.",
+    "url": "https://www.theweek.in/wire-updates/international/2021/09/13/fgn31-lanka-unhrc.html",
+    "url_hash": "784b4a577cfd74f12afa8718b6d16744",
+    "ut": 1631538487,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
     "title": "China in Palk Strait",
     "source": "www.thestatesman.com",
     "snippet": "reportedly from the Intelligence community to head the island nation's Deputy High Commission in Chennai instead of posting a foreign service officer, is another matter of concern. During the 30-year civil war in Sri Lanka, particularly in the final ...",
@@ -5058,6 +5268,49 @@
         "start_end": [
           38,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-13",
+    "title": "Everything you need to know about Sri Lanka's food crisis",
+    "source": "www.independent.co.uk",
+    "snippet": "has pushed Sri Lanka to the brink of a crippling crisis. The federal government was forced to announce a state of emergency last month. The island nation's president, Gotabaya Rajapaksa, on 30 August said his administration had to declare an economic ...",
+    "url": "https://www.independent.co.uk/asia/south-asia/sri-lanka-food-emergency-reason-b1919143.html",
+    "url_hash": "b37799524c1caee7fcd3e90c38648b94",
+    "ut": 1631541367,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30 August",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
