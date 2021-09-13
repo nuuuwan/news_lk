@@ -3763,6 +3763,33 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Daily FT-ICCSL webinar on smart lockdowns highlights need for collective response to manage COVID-19",
+    "source": "www.ft.lk",
+    "snippet": "Communities everywhere are faced with a dichotomy - disregard the likelihood of public health issues and build the economy\u2014or endure some more months or parts of a year with slow growth and low growth,",
+    "url": "https://www.ft.lk/front-page/Daily-FT-ICCSL-webinar-on-smart-lockdowns-highlights-need-for-collective-response-to-manage-COVID-19/44-722978",
+    "url_hash": "50cd52226fd90b7d5d122f221a5eb177",
+    "ut": 1631470125,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a year",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "Lonely Colombo at night under lockdown",
     "source": "www.dailymirror.lk",
     "snippet": "A van is seen driving through a street in Colombo this evening, as the city is deserted during the coronavirus lockdown. Pix by Samantha Perera",
@@ -4361,6 +4388,81 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "Ominous signs of a T20 World Cup debacle",
+    "source": "www.dailymirror.lk",
+    "snippet": "It was somewhat ironic that on the day Sri Lanka announced its 15-member squad for the T20 World Cup, they also displayed one of their worst batting efforts at home, losing to South Africa by nine wickets in the second T20I yesterday. Sri Lanka's total ...",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Ominous-signs-of-a-T20-World-Cup-debacle/324-220251",
+    "url_hash": "b005b99d66e727db62d61b5cbcf2dc16",
+    "ut": 1631473693,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          47,
+          50
         ]
       }
     ]
