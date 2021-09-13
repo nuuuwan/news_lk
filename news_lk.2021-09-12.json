@@ -1951,6 +1951,65 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Give Sri Lankan Tamil refugees Indian citizenship, says SL lawmaker",
+    "source": "menafn.com",
+    "snippet": "Sri Lankan Tamil MP V.S. Radhakrishnan on Sunday called upon Tamil Nadu and the Indian governments to accord Indian citizensh",
+    "url": "https://menafn.com/1102781255/Give-Sri-Lankan-Tamil-refugees-Indian-citizenship-says-SL-lawmaker",
+    "url_hash": "d5d0fcbf76e7c70dc8908f6a423cc1c8",
+    "ut": 1631444902,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "V.S. Radhakrishnan",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "Opposition Leader calls for snap election",
     "source": "colombogazette.com",
     "snippet": "Opposition Leader Sajith Premadasa has called for a snap election to let the people decide who is best to lead the country. Speaking in Debarawewa, Tissamaharamaya, Premadasa said that the country is facing a serious crisis.",
@@ -2145,6 +2204,49 @@
     "url": "https://www.dailymirror.lk/top_story/High-profile-businessman%E2%80%99s-youngest-son-arrested-over-father%E2%80%99s-murder/155-220190",
     "url_hash": "fb20ec8a312e4295971d4bffe8339d9f",
     "ut": 1631448490,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CID",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shabbir Abbas Gulamhusein",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four years ago",
+        "start_end": [
+          22,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "High profile businessman's youngest son arrested over father's murder",
+    "source": "www.dailymirror.lk",
+    "snippet": "The CID today arrested the son of Shabbir Abbas Gulamhusein, a well-known businessman, over his father's murder four years ago, Police Spokesman SSP Nihal Thalduwa said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/High-profile-businessmans-youngest-son-arrested-over-fathers-murder/108-220190",
+    "url_hash": "2539eeefc620910301aaccba6147b78a",
+    "ut": 1631448493,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -2801,6 +2903,73 @@
         "start_end": [
           46,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "How Sri Lanka won its first test match 36 years ago - Manthrana",
+    "source": "www.islandcricket.lk",
+    "snippet": "Remember how Sri Lanka registered their first test victory 36 years ago on 11 September 1985. Main points Astonishing Amal with reliant Roy, Wobbling India recoverd but Rumesh and the pacers too good for them,",
+    "url": "https://www.islandcricket.lk/news/how-sri-lanka-won-its-first-test-match-36-years-ago-manthrana/",
+    "url_hash": "0fc2f073ab227e9b8d76087161f4b98c",
+    "ut": 1631459302,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "36 years ago",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "11 September 1985",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Roy",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Rumesh",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
