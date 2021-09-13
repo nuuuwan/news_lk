@@ -4469,6 +4469,57 @@
   },
   {
     "date": "2021-09-12",
+    "title": "Ravaging trail left by X-Press Pearl: Part 1",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka is currently facing the worst man-made maritime disaster to date after the chemical-laden MV X-Press Pearl, a Singapore-flagged container ship, caught fire on 21 May while it was anchored approximately nine nautical miles (NM) northwest of Colombo.",
+    "url": "https://www.ft.lk/agriculture/Ravaging-trail-left-by-X-Press-Pearl--Part-1/31-722963",
+    "url_hash": "6d0abf0f1560170c63d0e04d61f943f1",
+    "ut": 1631473783,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "21 May",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "approximately nine nautical miles",
+        "start_end": [
+          41,
+          45
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NM",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
     "title": "Government temporarily takes one step forward after many backward steps on agriculture",
     "source": "bizenglish.adaderana.lk",
     "snippet": "By Dr. Hemakumara Nanayakkara Ever since April 2021, Sri Lanka's agriculture and plantation sectors have been beset by needless difficulties as a result of an announcement, seemingly made on a whim, that Sri Lanka would switch to completely organic agriculture - effective immediately.",
@@ -5167,6 +5218,57 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-12",
+    "title": "The maligned Lakshman shock: Patient will die unless the new Governor diffuses it forthwith",
+    "source": "www.ft.lk",
+    "snippet": "The Lakshman shock has put Sri Lanka backward by two steps when it comes to negotiating with IMF for a rescue package. As presented by the ex-central banker Prof. S. Colombage in an article last week (available at: https://www.ft.lk/opinion/Avoiding-IMF ...",
+    "url": "https://www.ft.lk/w-a-wijewardena-columns/The-maligned-Lakshman-shock--Patient-will-die-unless-the-new-Governor-diffuses-it-forthwith/885-722964",
+    "url_hash": "3cfaa023be5e9eb1799690f0de47384d",
+    "ut": 1631480983,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Lakshman",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
