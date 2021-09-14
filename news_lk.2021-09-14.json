@@ -81,6 +81,33 @@
   },
   {
     "date": "2021-09-14",
+    "title": "Post-covid clinics for those with health issues after recovery: Medical specialist",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that some people who recover from Covid-19 could experience post-covid symptoms such as cough, breathing difficulties and chest pain even after two weeks of recovery, a medical specialist said yesterday such people should seek medical advice.",
+    "url": "https://www.dailymirror.lk/breaking_news/Post-covid-clinics-for-those-with-health-issues-after-recovery-Medical-specialist/108-220308",
+    "url_hash": "7c60e2316b269d03cffc8c52bae8ba86",
+    "ut": 1631581693,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "two weeks",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
     "title": "Keep training uninterrupted, the biggest challenge for athletes in centenary year",
     "source": "island.lk",
     "snippet": "Sri Lanka Athletics announces calendar for 2022 by Reemus Fernando How to keep training uninterrupted amidst the Covid-19 pandemic to succeed at international events is the biggest problem the track and field athletes need to find answers to in the sport's centenary year in 2022 as Sri Lanka Athletics announced a busy 2022 Competition calendar",
@@ -319,6 +346,33 @@
         "start_end": [
           53,
           54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Explained: Sri Lanka's economic crisis",
+    "source": "www.theweek.in",
+    "snippet": "As rating agencies slashed their estimates for Sri Lanka, food lines formed across the country, and a balance of payments crisis threatened to implode the economy, Sri Lanka's government officials denied the existence of a food crisis in the country.",
+    "url": "https://www.theweek.in/news/world/2021/09/13/explained-sri-lankas-economic-crisis.html",
+    "url_hash": "f84fc624f8cee830d384fea197274da9",
+    "ut": 1631587642,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          29,
+          32
         ]
       }
     ]
