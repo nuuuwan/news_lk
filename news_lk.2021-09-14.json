@@ -6363,6 +6363,49 @@
   },
   {
     "date": "2021-09-14",
+    "title": "US President calls for unity as America commemorates 20 years since the 9/11 attacks",
+    "source": "www.dailymirror.lk",
+    "snippet": "US President calls for unity as America commemorates 20 years since the 9/11 attacks ..",
+    "url": "https://www.dailymirror.lk/news-video/US-President-calls-for-unity-as-America-commemorates-20-years-since-the-911-attacks/196-220343",
+    "url_hash": "d63c99d401a34b4c28aac80cdbfb98e3",
+    "ut": 1631642877,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "20 years",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9/11",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
     "title": "South Africa completes 3-0 T20 series sweep over Sri Lanka",
     "source": "apnews.com",
     "snippet": "Openers Quinton de Kock and Reeza Hendricks scored unbeaten half-centuries to lead South Africa to a 3-0 Twenty20 series sweep over Sri Lanka with a 10-wicket win in the third and final match on Tuesday.",
@@ -6463,6 +6506,111 @@
     "url": "https://www.ft.lk/columns/Handing-over-a-prosperous-Sri-Lanka-to-our-children/4-723056",
     "url_hash": "a3681897e36e6477fc9bddc40c635137",
     "ut": 1631644893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a few decades ago",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "60",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Lanka rejects UNHRC charge of possibility of expansion of military role in country's civilian functions",
+    "source": "arunachaltimes.in",
+    "snippet": "Sri Lanka on Tuesday rejected a charge by the UN rights body that the military may expand its role in civilian functions, saying there is no militarisation in the island nation and the government's move was aimed at ensuring food security amid soaring inflation.",
+    "url": "https://arunachaltimes.in/index.php/2021/09/15/lanka-rejects-unhrc-charge-of-possibility-of-expansion-of-military-role-in-countrys-civilian-functions/",
+    "url_hash": "fa7f2bb1edd001da4bd9f79a6eb5d869",
+    "ut": 1631646486,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Sri Lanka's Exterminators to franchise globally",
+    "source": "www.ft.lk",
+    "snippet": "The Exterminators Ltd., Sri Lanka's premier environmental enhancement solutions provider, has announced that the company will franchise its specialised services nationally and internationally. ..",
+    "url": "https://www.ft.lk/business/Sri-Lanka-s-Exterminators-to-franchise-globally/34-723057",
+    "url_hash": "03da5aa6cabc294addd4280646cfa195",
+    "ut": 1631646501,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Exterminators Ltd.",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Handing over a prosperous Sri Lanka to our children",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka was a prosperous country a few decades ago but currently is faced with many issues. A survey was carried out among a group of 60 academics and professionals and other thinkers based in Sri Lanka and overseas.",
+    "url": "https://www.ft.lk/opinion/Handing-over-a-prosperous-Sri-Lanka-to-our-children/14-723056",
+    "url_hash": "e9bf1522fda9f1ab72ee907963d6528b",
+    "ut": 1631646501,
     "ent_info_list": [
       {
         "label": "GPE",
