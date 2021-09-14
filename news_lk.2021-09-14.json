@@ -1328,6 +1328,33 @@
   },
   {
     "date": "2021-09-14",
+    "title": "Pearson continues to be the trusted partner for customers and educational ecosystem in Sri Lanka amidst the Covid-19 pandemic",
+    "source": "www.dailymirror.lk",
+    "snippet": "In wake of the prevailing Covid-19 pandemic and its subsequent led to national lockdown in the country, Pearson, the world's learning company, is committed to support the learners, educators, and partner ecosystem in Sri Lanka through digital means and technologies.",
+    "url": "https://www.dailymirror.lk/press-releases/Pearson-continues-to-be-the-trusted-partner-for-customers-and-educational-ecosystem-in-Sri-Lanka-amidst-the-Covid-19-pandemic/335-220317",
+    "url_hash": "3e1578ae0e69271ad48c7e7f8ecf1b5c",
+    "ut": 1631596084,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Pearson",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
     "title": "Unmonitored tourists an invitation for disaster - PHI Association",
     "source": "www.adaderana.lk",
     "snippet": "Inviting foreign tourists into the country without proper monitoring and supervision could spell trouble for Sri Lanka, Sri Lanka Public Health Inspectors Association says",
@@ -1400,6 +1427,100 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Sri Lanka state agency hikes paddy buying price by 10-pct after emergency raids",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's cabinet of ministers had cleared state-run Paddy Marketing Board to buy Nadu paddy (rough rice) at 55 rupees a kilogram, shortly after authorities raided private milling companies which store rice under emergency law.",
+    "url": "https://economynext.com/sri-lanka-state-agency-hikes-paddy-buying-price-by-10-pct-after-emergency-raids-86120/",
+    "url_hash": "5a3f760711f325b8e796e4dc1b3f8574",
+    "ut": 1631599709,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Paddy Marketing Board",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nadu",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "55",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Sri Lanka to vaccinate children, youth under 20 in October",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will vaccinate children and youth under 20 against COVID-19 starting October, with priority given to kids with comorobidities and teenagers over 15, State Minister Channa Jayasumana said. The State Minister of Production,",
+    "url": "https://economynext.com/sri-lanka-to-vaccinate-children-youth-under-20-in-october-86121/",
+    "url_hash": "27aa98b2775e441aa6f19b2ceace0fd3",
+    "ut": 1631600609,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasumana",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
