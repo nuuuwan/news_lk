@@ -2941,6 +2941,49 @@
   },
   {
     "date": "2021-09-14",
+    "title": "Sri Lanka set to cross 50 percent vaccination of population",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is poised to achieve today (September 14) a milestone in its mass inoculation drive against Covid -19 by giving full course of vaccination to 50 percent of its population, a triumph only second to the developed countries,",
+    "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-set-to-cross-50-percent-vaccination-of-population/342-220326",
+    "url_hash": "0aca31d9c28a193ada240434b1e0908a",
+    "ut": 1631610656,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "50 percent",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
     "title": "Locked down Sri Lanka to gradually re-open from Sep 21; experts apprehensive",
     "source": "economynext.com",
     "snippet": "Sri Lanka, now into its fourth week of an extended COVID-19 lockdown, is likely to gradually reopen starting next Tuesday (21), though health experts warn that the country is not yet out of the woods.",
@@ -3366,6 +3409,65 @@
   },
   {
     "date": "2021-09-14",
+    "title": "Sri Lankan shares close higher as industrial stocks surge",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lanka re-appointed state minister Ajith Nivard Cabraal as ... offloading shares worth 219 million rupees, exchange data showed. * The island-nation reported 2,560 new coronavirus cases in the last 24 hours, taking the total to 488,482.",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close/sri-lankan-shares-close-higher-as-industrial-stocks-surge-idUSL4N2QG2LS",
+    "url_hash": "224583fd8ebc7c57739232c8a329fb72",
+    "ut": 1631617864,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "219 million",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2,560",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the last 24 hours",
+        "start_end": [
+          34,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "488,482",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
     "title": "Sri Lanka minister assures no fuel scarcity as credit lines sought",
     "source": "economynext.com",
     "snippet": "Sri Lanka has enough fuel stocks and the public should fear shortages, Co-Cabinet spokesman Ramesh Pathirana said as the country's Petroleum Minister was reportedly seeking credit lines to buy oil.",
@@ -3524,6 +3626,438 @@
         "start_end": [
           12,
           14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "IPL 2021: Franchises pool in to book charters for players coming from CPL and Sri Lanka",
+    "source": "uk.finance.yahoo.com",
+    "snippet": "After making their respective arrangements -- with assistance from the BCCI -- to get Indian players from UK to the UAE for the second half of the IPL, the eight franchises have decided to pool in and get the players currently participating in the Caribbean Premier League and the Sri Lanka-South Africa series into UAE ahead of the resumption of the league.",
+    "url": "https://uk.finance.yahoo.com/news/ipl-2021-franchises-pool-book-120651406.html",
+    "url_hash": "a5dfa8cbf1a9d2eba98d38aea082bce0",
+    "ut": 1631621464,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "BCCI",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second half",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          50,
+          52
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          53,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Pathogenic Microorganisms",
+    "source": "dailynews.lk",
+    "snippet": "No pathogenic microorganisms have been detected in imported organic fertilizers, Agriculture Ministry confirmed. The Ministry of Agriculture states that the news published on social media and in... The Government rejects the proposal for any external",
+    "url": "https://dailynews.lk/tags/pathogenic-microorganisms",
+    "url_hash": "36362da45b384e76ac00d9429afd3c4f",
+    "ut": 1631622120,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Agriculture Ministry",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Agriculture",
+        "start_end": [
+          15,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Sri Lanka sticks to domestic mechanism; says UN probe will polarise country",
+    "source": "economynext.com",
+    "snippet": "Any external initiative by the United Nations to address alleged human rights violations in Sri Lanka would not achieve the goals stated by the world body and such a move could create polarisation in the island nation,",
+    "url": "https://economynext.com/sri-lanka-sticks-to-domestic-mechanism-says-un-probe-will-polarise-country-86130/",
+    "url_hash": "18519f412b8e41b2ffcd87bb5ff2b6fe",
+    "ut": 1631622200,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Sri Lanka stocks recover in thin trade; foreigners leave",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stocks bounced back and ended 1.82 percent up on Tuesday, after the previous day's plunge amid hopes of COVID-19 lockdown being systemically eased also helped sentiment, brokers said. Foreign investors,",
+    "url": "https://economynext.com/sri-lanka-stocks-recover-in-thin-trade-foreigners-leave-86132/",
+    "url_hash": "243d34c5d50b4ff5ce55b0719bd7ee75",
+    "ut": 1631622320,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "1.82 percent",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the previous day's",
+        "start_end": [
+          14,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Core Group deeply concerned over developments in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The Core Group on Sri Lanka today raised concerns over the developments in the country. The UK's Ambassador to the UN and WTO in Geneva, Simon Manley, told the UN Human Rights Council in Geneva today that longstanding concerns about the Prevention of Terrorism Act still remain.",
+    "url": "https://colombogazette.com/2021/09/14/core-group-deeply-concerned-over-developments-in-sri-lanka/",
+    "url_hash": "8b5ed186727fce1da01a4083a0bdc109",
+    "ut": 1631622624,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Core Group",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WTO",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Simon Manley",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the UN Human Rights Council",
+        "start_end": [
+          32,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Prevention of Terrorism Act",
+        "start_end": [
+          44,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Sri Lanka legend Lasith Malinga retires from all forms of cricket",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka's Lasith Malinga announced his retirement from all forms professional cricket on Tuesday. The 38-year-old had already retired from Tests and ODIs, and this announcement marks the end of his illustrious T20I career.",
+    "url": "https://www.islandcricket.lk/news/featured/sri-lanka-lasith-malinga-retires-210914/",
+    "url_hash": "a12018ec65aef69de2be3f9a8641f34b",
+    "ut": 1631622904,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lasith Malinga",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "38-year-old",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Tests",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Wither the Sri Lankan Economy",
+    "source": "www.lankaweb.com",
+    "snippet": "Sri Lanka was till 1977 a country that was not in debt. How did a country that had no foreign debt degenerate to have a foreign debt of $ 56 billion, within the five decades 1978 to today. Perhaps this long story is best detailed in my article: It is heartening to note that our new Governor of the Central Bank had understood that the IMF's neoliberal economics that we have closely followed from 1978,",
+    "url": "http://www.lankaweb.com/news/items/2021/09/14/wither-the-sri-lankan-economy/",
+    "url_hash": "a43dcb756a49a69f4aa0ed491074d492",
+    "ut": 1631624236,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1977",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 56 billion",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the five decades 1978 to today",
+        "start_end": [
+          34,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          62,
+          65
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          69,
+          70
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1978",
+        "start_end": [
+          79,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Players from CPL and Sri Lanka to participate in IPL 2021 in UAE; 8 franchises sign agreement with BCCI",
+    "source": "www.freepressjournal.in",
+    "snippet": "While one charter plane will carry the players from CPL, one will carry players who participated in the Sri Lanka-South Africa series in the ... that lays down all the pointers that everyone associated with the IPL needs to follow in order to ensure ...",
+    "url": "https://www.freepressjournal.in/sports/cricket/players-from-cpl-and-sri-lanka-to-participate-in-ipl-2021-in-uae-8-franchises-sign-agreement-with-bcci",
+    "url_hash": "33948f795b3366fcf9b07108f7598240",
+    "ut": 1631624592,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IPL",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
