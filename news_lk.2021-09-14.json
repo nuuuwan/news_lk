@@ -5616,6 +5616,57 @@
   },
   {
     "date": "2021-09-14",
+    "title": "Shortlist announced for 2021 Booker Prize",
+    "source": "www.breakingnews.ie",
+    "snippet": "The six books shortlisted for the prestigious 2021 Booker Prize for fiction explore themes including racism, injustice, freedom and constraints on women's lives. Somali-British novelist Nadifa Mohamed is nominated for The Fortune Men.",
+    "url": "https://www.breakingnews.ie/entertainment/shortlist-announced-for-2021-booker-prize-1184391.html",
+    "url_hash": "e815d599a0b97343b503ad498de7f4df",
+    "ut": 1631632099,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Somali",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nadifa Mohamed",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Fortune Men",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
     "title": "Sri Lanka's Malinga retires from all forms of cricket",
     "source": "www.msn.com",
     "snippet": "After a 17-year career, Sri Lanka bowling icon Lasith Malinga has announced his retirement from all forms of cricket.",
@@ -6306,6 +6357,143 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "South Africa completes 3-0 T20 series sweep over Sri Lanka",
+    "source": "apnews.com",
+    "snippet": "Openers Quinton de Kock and Reeza Hendricks scored unbeaten half-centuries to lead South Africa to a 3-0 Twenty20 series sweep over Sri Lanka with a 10-wicket win in the third and final match on Tuesday.",
+    "url": "https://apnews.com/article/sports-sri-lanka-257a1565c32ba4207d10c7d1234dee01",
+    "url_hash": "e4e953c03055f6ea665159bc9f67074e",
+    "ut": 1631642908,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Openers Quinton de Kock and Reeza Hendricks",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "half-centuries",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "A reset of economic fundamentals in Sri Lanka: Is IMF the only hope?",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka is at the precipice of an economic disaster. The country's foreign debt is suffocating the country, it is its biggest immediate problem, and the problem for the foreseeable future unless urgent and drastic action is taken,",
+    "url": "https://www.ft.lk/columns/A-reset-of-economic-fundamentals-in-Sri-Lanka--Is-IMF-the-only-hope-/4-723054",
+    "url_hash": "b16b782ffb83b257581cb4ad4610993b",
+    "ut": 1631644173,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Handing over a prosperous Sri Lanka to our children",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka was a prosperous country a few decades ago but currently is faced with many issues. A survey was carried out among a group of 60 academics and professionals and other thinkers based in Sri Lanka and overseas.",
+    "url": "https://www.ft.lk/columns/Handing-over-a-prosperous-Sri-Lanka-to-our-children/4-723056",
+    "url_hash": "a3681897e36e6477fc9bddc40c635137",
+    "ut": 1631644893,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a few decades ago",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "60",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
