@@ -1562,6 +1562,57 @@
   },
   {
     "date": "2021-09-14",
+    "title": "Government defends Italy and UN visits",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government today defended the visit to Italy undertaken by Prime Minister Mahinda Rajapaksa and the UN visit scheduled to be undertaken by President Gotabaya Rajapaksa despite the economic crisis in the country.",
+    "url": "https://www.dailymirror.lk/breaking_news/Government-defends-Italy-and-UN-visits/108-220318",
+    "url_hash": "0c6f348017c10e8c0c6ee9917e20b9c2",
+    "ut": 1631599689,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
     "title": "All post/sub post offices will be open four days a week: PMG",
     "source": "www.dailymirror.lk",
     "snippet": "Due to the extension of the existing quarantine curfew, the postal department has decided to open all post and sub post offices in the country only four days per week. ..",
@@ -1920,6 +1971,57 @@
     "title": "No permits issued to export sand to fill Maldive islands: GSMB",
     "source": "www.dailymirror.lk",
     "snippet": "Rejecting reports claiming exporting sand from Sri Lanka to create an island in the Maldives, the Geological Survey and Mines Bureau (GSMB) said according to the existing local Mineral Policy, the Bureau did not issue permits to export sand or any other minerals.",
+    "url": "https://www.dailymirror.lk/breaking_news/No-permits-issued-to-export-sand-to-fill-Maldive-islands-GSMB/108-220320",
+    "url_hash": "993124f5b61d946e397595f96949da7e",
+    "ut": 1631603299,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Geological",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau (GSMB",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bureau",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "No permits issued to export sand to fill Maldive islands: GSMB",
+    "source": "www.dailymirror.lk",
+    "snippet": "Rejecting reports claiming exporting sand from Sri Lanka to create an island in the Maldives, the Geological Survey and Mines Bureau (GSMB) said according to the existing local Mineral Policy, the Bureau did not issue permits to export sand or any other minerals.",
     "url": "https://www.dailymirror.lk/latest_news/No-permits-issued-to-export-sand-to-fill-Maldive-islands-GSMB/342-220320",
     "url_hash": "16e45453df2f44b60579e6f22add3c34",
     "ut": 1631603301,
@@ -2086,6 +2188,65 @@
         "start_end": [
           17,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Country will reopen after next Monday: Sudarshani",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that the Covid mortality and infections have reduced during the lockdown period, State Minister Sudarshani Fernadopulle said today that the Government will take steps to reopen the country after next Monday.",
+    "url": "https://www.dailymirror.lk/breaking_news/Country-will-reopen-after-next-Monday-Sudarshani/108-220323",
+    "url_hash": "e3e43a2b60a3262e79afbbcbfb07505c",
+    "ut": 1631606889,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sudarshani Fernadopulle",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next Monday",
+        "start_end": [
+          31,
+          33
         ]
       }
     ]
@@ -2387,6 +2548,167 @@
         "start_end": [
           31,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Locked down Sri Lanka to gradually re-open from Sep 21; experts apprehensive",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka, now into its fourth week of an extended COVID-19 lockdown, is likely to gradually reopen starting next Tuesday (21), though health experts warn that the country is not yet out of the woods.",
+    "url": "https://economynext.com/locked-down-sri-lanka-to-gradually-re-open-from-sep-21-experts-apprehensive-86124/",
+    "url_hash": "9b543326b7adc37435fce659fc1d68e0",
+    "ut": 1631610938,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "its fourth week",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next Tuesday",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Sri Lanka is among the countries that vaccinated more than half of their population",
+    "source": "dailynews.lk",
+    "snippet": "Half of the Sri Lankan population is fully vaccinated against COVID-19 and it is a great victory achieved by the country, Co-cabinet Spokesman Mass Media Minister Dullas Alahapperuma said. Speaking at the weekly cabinet media briefing held today at the Government Information department Minister Alahappruma said that each and every citizen of the country plays a significant role in achieving this victory.",
+    "url": "https://dailynews.lk/2021/09/14/local/259278/sri-lanka-among-countries-vaccinated-more-half-their-population",
+    "url_hash": "742cfdca091cf85897722a37ba2ef766",
+    "ut": 1631611094,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Half",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dullas Alahapperuma",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government Information",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alahappruma",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Rachit Gupta",
+    "source": "www.dailynews.lk",
+    "snippet": "With Kareena Kapoor Khan on maternity leave, has showbiz found a worthy successor in Anushka Sharma? Indicators from her career certainly indicate that. Anushka has found her definite space on top of... A wise man once said that the secret to attraction is locked up in our unique imperfections, flaws and frailties. Art is almost never perfect. Yet, it's always beautiful and... Half of the Sri Lankan population is fully vaccinated against COVID-19 and... \"Bribing the voters at future elections will result in Perpetrator losing seat\" Bribing the voters at future elections will result in the Perpetrator...",
+    "url": "https://www.dailynews.lk/line/rachit-gupta",
+    "url_hash": "7df6afe4e2d2dc0623fe585eceeaa402",
+    "ut": 1631613434,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Kareena Kapoor Khan",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Anushka",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Anushka",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Half",
+        "start_end": [
+          72,
+          73
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          75,
+          77
         ]
       }
     ]
