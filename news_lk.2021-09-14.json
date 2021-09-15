@@ -6551,6 +6551,49 @@
     "title": "US President calls for unity as America commemorates 20 years since the 9/11 attacks",
     "source": "www.dailymirror.lk",
     "snippet": "US President calls for unity as America commemorates 20 years since the 9/11 attacks ..",
+    "url": "https://www.dailymirror.lk/news-video/US-President-calls-for-unity-as-America-commemorates-20-years-since-the-911-attacks/251-220343",
+    "url_hash": "3264e0c49c99626f0035a998685e1a7d",
+    "ut": 1631642864,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "20 years",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9/11",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "US President calls for unity as America commemorates 20 years since the 9/11 attacks",
+    "source": "www.dailymirror.lk",
+    "snippet": "US President calls for unity as America commemorates 20 years since the 9/11 attacks ..",
     "url": "https://www.dailymirror.lk/news-video/US-President-calls-for-unity-as-America-commemorates-20-years-since-the-911-attacks/196-220343",
     "url_hash": "d63c99d401a34b4c28aac80cdbfb98e3",
     "ut": 1631642877,
@@ -6749,6 +6792,33 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Sri Lanka's Exterminators to franchise globally",
+    "source": "www.ft.lk",
+    "snippet": "The Exterminators Ltd., Sri Lanka's premier environmental enhancement solutions provider, has announced that the company will franchise its specialised services nationally and internationally. ..",
+    "url": "https://www.ft.lk/front-page/Sri-Lanka-s-Exterminators-to-franchise-globally/44-723057",
+    "url_hash": "c972b895fe26c0d2f4991d5196b4dc1a",
+    "ut": 1631646484,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Exterminators Ltd.",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
         ]
       }
     ]
@@ -7720,6 +7790,25 @@
         "start_end": [
           5,
           8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-14",
+    "title": "Cardinal and that 'Secular Western Religion' of Human Rights",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a way, it is a stroke of irony that His Eminence Cardinal Malcolm Ranjith, had to end up seeking justice from the international.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Cardinal-and-that-Secular-Western-Religion-of-Human-Rights/172-220371",
+    "url_hash": "ab5aa2016785573b2feea26ed874786c",
+    "ut": 1631657264,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Malcolm Ranjith",
+        "start_end": [
+          14,
+          16
         ]
       }
     ]
