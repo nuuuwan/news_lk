@@ -799,6 +799,49 @@
   },
   {
     "date": "2021-09-15",
+    "title": "Committee decision on reopening schools, vaccines for school children today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The committee decision on beginning the COVID-19 vaccination rollout for school children and which grades could be opened first, will be taken up for discussion today, Health Minister Kehaliya Rambukwella said.",
+    "url": "https://www.dailymirror.lk/latest_news/Committee-decision-on-reopening-schools-vaccines-for-school-children-today/342-220392",
+    "url_hash": "e355adb9377c7680459e4d6af4ecfe89",
+    "ut": 1631675293,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kehaliya Rambukwella",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
     "title": "A Tropical Paradise Is Brewing a Storm in a Tea Cup",
     "source": "www.bloombergquint.com",
     "snippet": "Deprived of tourism dollars, Sri Lanka's forex reserves are dangerously low. Will it turn to China, India or the IMF for help?",
@@ -1359,6 +1402,116 @@
         "start_end": [
           23,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Sri Lanka new CB Governor says will push for stability, consult business",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank will push for stability and consult with businesses newly appointed Central Bank Governor Nivard Cabraal has said. \"The government, bankers, importers, exporters, lenders, borrowers,",
+    "url": "https://economynext.com/sri-lanka-new-cb-governor-says-will-push-for-stability-consult-business-86171/",
+    "url_hash": "9b7d20ff8cab33b221847221c8d9a717",
+    "ut": 1631686422,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "UN Sri Lanka condemns any ill treatment of prisoners",
+    "source": "colombogazette.com",
+    "snippet": "The United Nations (UN) office in Sri Lanka says it condemns any ill treatment of prisoners. The UN Resident Coordinator in Sri Lanka, Hanaa Singer-Hamdy said that it is the duty of the State, as per the Mandela Rules,",
+    "url": "https://colombogazette.com/2021/09/15/un-sri-lanka-condemns-any-ill-treatment-of-prisoners/",
+    "url_hash": "5c204ebc646e80e8854cb9c06a444965",
+    "ut": 1631689007,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The United Nations",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The UN Resident Coordinator",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hanaa Singer-Hamdy",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Mandela Rules",
+        "start_end": [
+          43,
+          46
         ]
       }
     ]
