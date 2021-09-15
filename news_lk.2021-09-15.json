@@ -5799,6 +5799,57 @@
     "title": "132 more COVID-19 deaths reported",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 132 more COVID-19 related deaths that occurred yesterday (14) were confirmed by the Director-General of Health Services today pushing the death toll to 11,699. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/132-more-COVID-19-deaths-reported/108-220432",
+    "url_hash": "0cc5ccf297692c25f5ad46aaa2974ef0",
+    "ut": 1631718475,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "132",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11,699",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "132 more COVID-19 deaths reported",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 132 more COVID-19 related deaths that occurred yesterday (14) were confirmed by the Director-General of Health Services today pushing the death toll to 11,699. ..",
     "url": "https://www.dailymirror.lk/latest_news/132-more-COVID-19-deaths-reported/342-220432",
     "url_hash": "da839bb72fd0038077daea7791d7a9d8",
     "ut": 1631718478,
@@ -6852,6 +6903,317 @@
         "start_end": [
           46,
           48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "LOLC becomes Mastercard's first Sri Lankan customer to join its Digital First programme",
+    "source": "www.dailymirror.lk",
+    "snippet": "Pay, a unique payment aggregator introduced by LOLC - has become the first entity in Sri Lankato sign up for the Digital First programme, launched by Mastercard. ..",
+    "url": "https://www.dailymirror.lk/financial-news/LOLC-becomes-Mastercards-first-Sri-Lankan-customer-to-join-its-Digital-First-programme/265-220453",
+    "url_hash": "a375e098058d27589a50e20577c78c45",
+    "ut": 1631736475,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "LOLC",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankato",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Digital",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "First",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mastercard",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Expert committee to undertake detailed study on mineral deposits and come up with plan for utilisation",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government has decided to appoint an expert committee to undertake a detailed study on the country's unutilised mineral deposits, in order to come up with a programme to utilise such minerals formally for economic purposes.",
+    "url": "https://www.dailymirror.lk/business-news/Expert-committee-to-undertake-detailed-study-on-mineral-deposits-and-come-up-with-plan-for-utilisation/273-220462",
+    "url_hash": "1396c581e88b23dba9f605b0f6e9c73c",
+    "ut": 1631736475,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-15",
+    "title": "hSenid Mobile launches TADHack Teens Sri Lanka 2021",
+    "source": "www.dailymirror.lk",
+    "snippet": "TADHack, the world's largest Telco application development hackathon returns for the 7th year in Sri Lanka organized by hSenid Mobile in partnership with Ideamart. ..",
+    "url": "https://www.dailymirror.lk/other/hSenid-Mobile-launches-TADHack-Teens-Sri-Lanka-2021/117-220455",
+    "url_hash": "4760a035a5650ffeb38e34af6cb5a5d2",
+    "ut": 1631736475,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the 7th year",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "hSenid Mobile",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ideamart",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Swiss-based firm to invest Rs.84mn in Tess Agro via private placement",
+    "source": "www.dailymirror.lk",
+    "snippet": "Swiss-based IPEK S A Switzerland has expressed interest to infuse Rs.84 million into Tess Agro PLC via a private placement, subscribing to 168 million new voting shares of the company and consequently becoming the largest shareholder of the firm,",
+    "url": "https://www.dailymirror.lk/business-news/Swiss-based-firm-to-invest-Rs-84mn-in-Tess-Agro-via-private-placement/273-220461",
+    "url_hash": "d185254f516072c5d32cb44c6c705e75",
+    "ut": 1631736475,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "IPEK S",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Switzerland",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tess Agro PLC",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "168 million",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "BoardPAC appointed strategic partner of Commonwealth's Business Network - CWEIC",
+    "source": "www.dailymirror.lk",
+    "snippet": "BoardPAC, the Sri Lanka-based multinational Board meeting automation solutions company, has been appointed a strategic partner of the Commonwealth Enterprise and Investment Council (CWEIC), ..",
+    "url": "https://www.dailymirror.lk/other/BoardPAC-appointed-strategic-partner-of-Commonwealth%E2%80%99s-Business-Network---CWEIC/117-220457",
+    "url_hash": "e4af9c48ab5c59368f51c1dd8f74ccb1",
+    "ut": 1631736475,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BoardPAC",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Commonwealth Enterprise and Investment Council",
+        "start_end": [
+          21,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Namal to visit Anuradhapura Prison today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Eleven Tamil prisoners who are held at the Anuradhapura Prison have sought a meeting with Minister of Sports and Youth Affairs, Namal Rajapaksa to discuss some immediate concerns, the Daily Mirror learns.",
+    "url": "https://www.dailymirror.lk/latest_news/Namal-to-visit-Anuradhapura-Prison-today/342-220434",
+    "url_hash": "42231e321556ce74c16780d9b563828b",
+    "ut": 1631736475,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "the Anuradhapura Prison",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Youth Affairs",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Daily Mirror",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Sri Lankan prison minister resigns after alleged inmate threats",
+    "source": "www.msn.com",
+    "snippet": "The government minister in charge of Sri Lanka's prisons has submitted his resignation following public outcry after he allegedly threatened to kill two ethnic minority prisoners. Lohan Ratwatte tendered his resignation to President Gotabaya Rajapaksa on Wednesday and acknowledged his responsibility for both incidents,",
+    "url": "https://www.msn.com/en-us/news/world/sri-lankan-prison-minister-resigns-after-alleged-inmate-threats/ar-AAOu6iH",
+    "url_hash": "13c5e0d17aca3c82ff9468c760468a44",
+    "ut": 1631736912,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Schoolchildren climbing treetops for access to e-classes",
+    "source": "www.ft.lk",
+    "snippet": "Customer complaints are not unique to the Sri Lankan internet and telecommunication landscape but it is a common theme that needs to be addressed and provided an expeditious resolution to fix the defects.",
+    "url": "https://www.ft.lk/columns/Schoolchildren-climbing-treetops-for-access-to-e-classes/4-723111",
+    "url_hash": "f78a4b9e5b3e49a157aafca991e29f26",
+    "ut": 1631738596,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          7,
+          9
         ]
       }
     ]
