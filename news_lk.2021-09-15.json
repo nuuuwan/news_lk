@@ -5355,6 +5355,65 @@
   },
   {
     "date": "2021-09-15",
+    "title": "Sri Lanka GDP grows 12.3-pct in June 2021 quarter",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's gross domestic product grew 12.3 percent in the June 2021 quarter from a low base in 2020, when the economy contracted 16.4 percent in the worst fall in recorded history amid a Coronavirus lockdown,",
+    "url": "https://economynext.com/sri-lanka-gdp-grows-12-3-pct-in-june-2021-quarter-86193/",
+    "url_hash": "bc6f68bbf75d712308924c74d4e121a3",
+    "ut": 1631718569,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "12.3 percent",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the June 2021 quarter",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "16.4 percent",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coronavirus",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
     "title": "News Applications Market Giants Spending Is Going to Boom with PAPR, Flipboard, BBC News",
     "source": "www.sbwire.com",
     "snippet": "Latest added News Applications Market research study by AMA offers detailed product outlook and elaborates market review till 2026.",
@@ -5387,5 +5446,15 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Blossom Media announces winners of 3rd edition of iconic Brand of the Year Award, based on the nomination by consumers",
+    "source": "www.business-standard.com",
+    "snippet": "The global pandemic has affected all business alike, but small and medium enterprises were hit harder. They had to face issues of manpower, cash crunch, and lack of digital infra among",
+    "url": "https://www.business-standard.com/content/press-releases-ani/blossom-media-announces-winners-of-3rd-edition-of-iconic-brand-of-the-year-award-based-on-the-nomination-by-consumers-121091501496_1.html",
+    "url_hash": "0d630ef808451901c9109fa915570e35",
+    "ut": 1631722160,
+    "ent_info_list": []
   }
 ]
