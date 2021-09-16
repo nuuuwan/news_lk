@@ -157,6 +157,33 @@
   },
   {
     "date": "2021-09-16",
+    "title": "Sri Lanka's Exterminators to franchise globally",
+    "source": "island.lk",
+    "snippet": "The Exterminators (Pvt) Ltd, Sri Lanka's premier environmental enhancement solutions provider announced that the company would franchise its specialized services nationally and internationally. Exterminators is one of the pioneers in COVID-19 ...",
+    "url": "https://island.lk/sri-lankas-exterminators-to-franchise-globally/",
+    "url_hash": "2c1eccbb146ccb39b1ca20dc4e3a0963",
+    "ut": 1631750900,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Exterminators (Pvt) Ltd",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          7,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
     "title": "ERASING THE EELAM VICTORY Part 19C",
     "source": "www.lankaweb.com",
     "snippet": "The Tamil Separatist Movement was not crushed by the Eelam defeat. They knew it was going to happen and were ready for it. The Movement created two new organizations after the war ended, 'Transitional government of Tamil Eelam'(TGTE) and the 'Global TamilForum' (GTF).",
@@ -361,6 +388,81 @@
   },
   {
     "date": "2021-09-16",
+    "title": "Sri Lanka tells UN not to interfere in Xinjiang and Hong Kong",
+    "source": "colombogazette.com",
+    "snippet": "By Easwaran Rutnam Sri Lanka has told the UN Human Rights Council (UNHRC) not to interfere in Xinjiang and Hong Kong. In a statement during the General Debate at the 48th Session of the UNHRC in Geneva,",
+    "url": "https://colombogazette.com/2021/09/16/sri-lanka-tells-un-not-to-interfere-in-xinjiang-and-hong-kong/",
+    "url_hash": "29741077c1c5702eb11fbc92ddab7d31",
+    "ut": 1631754523,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rutnam Sri Lanka",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the UN Human Rights Council",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Xinjiang",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hong Kong",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the General Debate",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "48th",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UNHRC",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
     "title": "Moderna says COVID-19 vaccine protection wanes, makes case for booster",
     "source": "www.dailymirror.lk",
     "snippet": "New data from Moderna Inc's (MRNA.O) large COVID-19 vaccine trial shows that the protection it offers wanes over time, supporting the case for booster doses, the company said in a news release on Wednesday.",
@@ -416,6 +518,57 @@
       {
         "label": "GPE",
         "text": "Brotton",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Basil will present a budget similar to one created with Alladin's lamp: S.M. Chandrasena",
+    "source": "www.dailymirror.lk",
+    "snippet": "Finance Minister Basil Rajapaksa will present a revolutionary, unexpected budget in November as his maiden budget, which would be similar to one created with Alladin's magic lamp, Minister S.M. Chandrasena said yesterday. He told a news conference that ...",
+    "url": "https://www.dailymirror.lk/front_page/Basil-will-present-a-budget-similar-to-one-created-with-Alladins-lamp-S-M-Chandrasena/238-220391",
+    "url_hash": "7fac4d35ce1b9a46d946cbcca1c3fa2b",
+    "ut": 1631758090,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Alladin",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S.M. Chandrasena",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
         "start_end": [
           35,
           36
@@ -497,6 +650,186 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Katugastota hospital doctor dies of COVID",
+    "source": "www.dailymirror.lk",
+    "snippet": "A doctor attached to the Katugastota hospital died yesterday while receiving treatment at the Peradeniya Teaching Hospital after contracting COVID-19, hospital director Dr. Arjuna Thilekerathne said.",
+    "url": "https://www.dailymirror.lk/latest_news/Katugastota-hospital-doctor-dies-of-COVID/342-220478",
+    "url_hash": "401f80a6cd72660598b8b8c211b2857f",
+    "ut": 1631761690,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Katugastota",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Peradeniya Teaching Hospital",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Arjuna Thilekerathne",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "How Sri Lanka's IMF-backed 'Young Plan' fired a foreign debt death spiral: Bellwether",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - While Sri Lanka's monetary meltdown acceleration with historic low interest rates driven by money printing after the tax cuts of 2019, the storm gathered pace from 2015, when rapid foreign debt accumulation greater than the annual foreign ...",
+    "url": "https://economynext.com/how-sri-lankas-imf-backed-young-plan-fired-a-foreign-debt-death-spiral-bellwether-86206/",
+    "url_hash": "044ba204413aa207bfab4710cdf8b7cf",
+    "ut": 1631762258,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2015",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Lanka to set up fifth seismic station with Chinese assistance",
+    "source": "island.lk",
+    "snippet": "By Ifham Nizam Plans are underway to set up the country's fifth seismic station in the Western Province with Chinese assistance to measure earthquakes occurring in and around Sri Lanka. Responding to queries,",
+    "url": "https://island.lk/lanka-to-set-up-fifth-seismic-station-with-chinese-assistance/",
+    "url_hash": "5748f1c533cdec8b764b99ee191fcc1a",
+    "ut": 1631762660,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ifham Nizam Plans",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Western Province",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Amnesty demands accountability over Lohan's actions",
+    "source": "colombogazette.com",
+    "snippet": "Amnesty International has demanded accountability over the actions of former State Minister for Prison Management and Prisoners Rehabilitation, Lohan Ratwatte. Lohan Ratwatte forcibly entered a state",
+    "url": "https://colombogazette.com/2021/09/16/amnesty-demands-accountability-over-lohans-actions/",
+    "url_hash": "fff10f4b3117207a239f9dcb6796fc6f",
+    "ut": 1631764363,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Amnesty International",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Prison Management and Prisoners Rehabilitation",
+        "start_end": [
+          13,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          22,
+          24
         ]
       }
     ]

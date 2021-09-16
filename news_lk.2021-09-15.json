@@ -2461,6 +2461,57 @@
   },
   {
     "date": "2021-09-15",
+    "title": "Opposing captain's consent not required to replace unfit wicket-keeper : MCC",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lankan team management had sought the match official's permission to allow Dinesh Chandimal, the reserved player, to keep wickets in place of Kusal Perera, who batted but was unfit to field in the last T-20I against South Africa on Tuesday.",
+    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Opposing-captains-consent-not-required-to-replace-unfit-wicket-keeper-MCC/458-220413",
+    "url_hash": "b57b54caf77c751e64f6b9a248cafa72",
+    "ut": 1631689690,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chandimal",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kusal Perera",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
     "title": "Sri Lankan shares end lower as country set to enter 10-day lockdown",
     "source": "www.sharenet.co.za",
     "snippet": "Sharenet provides financial information and services for investors on The JSE Securities Exchange and other South African markets including online share trading, real-time streaming quotes, graphs, news,",
@@ -5149,6 +5200,41 @@
     "url": "https://jg-tc.com/news/world/sri-lankan-prison-minister-resigns-over-prisoner-threats/article_88b95acc-b844-5804-93ab-ac05e2bef450.html",
     "url_hash": "de64e241ae947737407c23a21b412277",
     "ut": 1631711307,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Sri Lankan prison minister resigns over prisoner threats",
+    "source": "apnews.com",
+    "snippet": "A Sri Lankan Cabinet minister in charge of prisons submitted his resignation on Wednesday following a public outcry after he allegedly threatened to kill two ethnic minority prisoners.",
+    "url": "https://apnews.com/article/prisons-race-and-ethnicity-cabinets-sri-lanka-colombo-a30b5f797fb28a4617503eb9da9cf297",
+    "url_hash": "79f825a8cc6ca04a949ef87558174ee4",
+    "ut": 1631711309,
     "ent_info_list": [
       {
         "label": "NORP",
