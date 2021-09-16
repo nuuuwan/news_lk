@@ -1271,6 +1271,100 @@
   },
   {
     "date": "2021-09-16",
+    "title": "Economic growth of 5% likely to be a reality: CBSL",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government yesterday sounded upbeat on the possibility of Sri Lanka achieving an economic growth of 5 percent in 2021. ..",
+    "url": "https://www.dailymirror.lk/business_247/Economic-growth-of-5-likely-to-be-a-reality-CBSL/395-220495",
+    "url_hash": "f317b7e470cb90e950f7675b0c6bf47f",
+    "ut": 1631769074,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "5 percent",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "20ft container seized with illegally imported ginger, black gram, palm sugar",
+    "source": "www.dailymirror.lk",
+    "snippet": "The officers of the Sri Lanka Customs Preventive Division seized a 20-foot container with dried ginger, black gram and palm sugar while being attempted to smuggle\u00a0into the country, Customs Deputy Director (Legal) and Media Spokesman Sudattha Silva said.",
+    "url": "https://www.dailymirror.lk/latest_news/20ft-container-seized-with-illegally-imported-ginger-black-gram-palm-sugar/342-220494",
+    "url_hash": "10131fbfee2cd8fea02c9e9ec045d537",
+    "ut": 1631769095,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Customs Preventive Division",
+        "start_end": [
+          3,
+          9
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "20-foot",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Customs",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sudattha Silva",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
     "title": "Sri Lanka finance companies hit by import controls: Fitch",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Finance Leasing Companies have been hit by import controls as new car imports were banned, Fitch Ratings said, while second hand prices had also surged.",
@@ -1408,6 +1502,65 @@
   },
   {
     "date": "2021-09-16",
+    "title": "Youth population highly reluctant to get jabs; only 20% vaccinated in Colombo",
+    "source": "www.dailymirror.lk",
+    "snippet": "While commenting that the younger population aged from 20 to 29 show a great reluctance in receiving the COVID jab in the Colombo City, CMC Chief Medical Officer of Health, Dr. Ruwan Wijemuni said that only 20% of the estimated youth population had so far received the vaccine.",
+    "url": "https://www.dailymirror.lk/breaking_news/Youth-population-highly-reluctant-to-get-jabs-only-20-vaccinated-in-Colombo/108-220501",
+    "url_hash": "ecd94dd5f909b5063a3f86c85fab1d2e",
+    "ut": 1631772674,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "20 to 29",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "COVID",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Colombo City",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CMC",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ruwan Wijemuni",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "only 20%",
+        "start_end": [
+          37,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
     "title": "Sri Lanka conservationists fight elephant smuggling in court",
     "source": "www.greenwichtime.com",
     "snippet": "Environmentalists in Sri Lanka are challenging a court order issued earlier this month that would allow the return of 14 illegally captured wild elephants to people accused of buying them from traffickers.",
@@ -1437,6 +1590,320 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "European Commission delegation to arrive in SL to assess ground situation for GSP",
+    "source": "www.dailymirror.lk",
+    "snippet": "A delegation of European Commission, the body with authority to decide on the extension of the trade faculty called 'GSP +' will arrive in Sri Lanka on September for a fact finding mission , Foreign Secretary Prof.",
+    "url": "https://www.dailymirror.lk/breaking_news/European-Commission-delegation-to-arrive-in-SL-to-assess-ground-situation-for-GSP/108-220503",
+    "url_hash": "d717b77be655e9872599861895376e04",
+    "ut": 1631776274,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "European Commission",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "EU delegation to visit Sri Lanka to discuss GSP plus",
+    "source": "colombogazette.com",
+    "snippet": "A delegation from the European Union (EU) is to visit Sri Lanka this month to discuss the GSP plus trade concession. The Foreign Ministry said that the delegation will be in Sri Lanka on 27th September.",
+    "url": "https://colombogazette.com/2021/09/16/eu-delegation-to-visit-sri-lanka-to-discuss-gsp-plus/",
+    "url_hash": "b61e1cd9ce0245cdb4f0c4bb70567802",
+    "ut": 1631776364,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the European Union",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EU",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this month",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "GSP",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Foreign Ministry",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "27th September",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "United States remains committed to a secure and prosperous Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The United States remains committed to a secure and prosperous Sri Lanka, the US Embassy in Sri Lanka said today. Today, the United States provided $40 million in financing to SDB Bank in order to bolster Sri Lanka's Small and Medium sized Enterprise (SME) sector and assist women entrepreneurs.",
+    "url": "https://colombogazette.com/2021/09/16/united-states-remains-committed-to-a-secure-and-prosperous-sri-lanka/",
+    "url_hash": "5a52d5210659d6107237c840a6a2ca4f",
+    "ut": 1631776844,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United States",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the US Embassy",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$40 million",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SDB Bank",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SME",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Sri Lanka conservationists fight elephant smuggling in court",
+    "source": "www.chron.com",
+    "snippet": "Environmentalists in Sri Lanka are challenging a court order issued earlier this month that would allow the return of 14 illegally captured wild elephants to people accused of buying them from traffickers.",
+    "url": "https://www.chron.com/news/article/Sri-Lanka-conservationists-fight-elephant-16463184.php",
+    "url_hash": "3293b423167c701254cd2e9b98dabf42",
+    "ut": 1631777191,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier this month",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Program implemented to provide entire island with 4G",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Director-General of the Telecommunications Regulatory Commission of Sri Lanka (TRCSL) Oshadha Senanayake says that the - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/16/program-implemented-to-provide-entire-island-with-4g/",
+    "url_hash": "2656640dee90c44a929dfe32b014dcdf",
+    "ut": 1631778383,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Telecommunications Regulatory Commission",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Island-wide 4G Coverage Project underway",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Director-General of the Telecommunications Regulatory Commission of Sri Lanka (TRCSL) Oshadha Senanayake says that the - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/16/island-wide-4g-coverage-project-underway/",
+    "url_hash": "c983a4c6fae0bac29abadd3f98e292f0",
+    "ut": 1631778623,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Telecommunications Regulatory Commission",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
         ]
       }
     ]
