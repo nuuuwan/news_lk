@@ -1290,6 +1290,57 @@
     "title": "Govt feels the heat over Lohan Ratwatte",
     "source": "www.dailymirror.lk",
     "snippet": "State Minister of Prisons Management and Prisoners' Rehabilitation, Lohan Ratwatte who has been caught in a controversy over allegedly threatening Tamil prisoners at the Anuradhapura Prison on Sunday,",
+    "url": "https://www.dailymirror.lk/front_page/Govt-feels-the-heat-over-Lohan-Ratwatte/238-220490",
+    "url_hash": "5bd1d0422cd9d48f88c043f1874e4c87",
+    "ut": 1631765329,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Prisons Management and Prisoners' Rehabilitation",
+        "start_end": [
+          3,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Anuradhapura Prison",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Govt feels the heat over Lohan Ratwatte",
+    "source": "www.dailymirror.lk",
+    "snippet": "State Minister of Prisons Management and Prisoners' Rehabilitation, Lohan Ratwatte who has been caught in a controversy over allegedly threatening Tamil prisoners at the Anuradhapura Prison on Sunday,",
     "url": "https://www.dailymirror.lk/main_image/Govt-feels-the-heat-over-Lohan-Ratwatte/346-220490",
     "url_hash": "8afd8f8edaf0c19ba7689edfdfd9b5c9",
     "ut": 1631765366,
@@ -5398,6 +5449,89 @@
         "start_end": [
           61,
           62
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Sri Lanka's foreign exchange reserves are still low, a credit negative",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "On 10  Sri Lanka (Caa1 review for downgrade) published details of its foreign currency (FX) reserves position1, which was nearly $3 billion as of the end of August 2021, 43% lower than at the beginning of the year and around $600 million lower compared to the end of June.",
+    "url": "http://bizenglish.adaderana.lk/sri-lankas-foreign-exchange-reserves-are-still-low-a-credit-negative/",
+    "url_hash": "750ed19d440acbb441e74f80a6a36641",
+    "ut": 1631819601,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FX",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "nearly $3 billion",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of August 2021",
+        "start_end": [
+          31,
+          36
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "43%",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the beginning of the year",
+        "start_end": [
+          42,
+          47
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "around $600 million",
+        "start_end": [
+          48,
+          52
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of June",
+        "start_end": [
+          55,
+          59
         ]
       }
     ]
