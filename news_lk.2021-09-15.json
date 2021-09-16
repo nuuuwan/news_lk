@@ -1371,6 +1371,49 @@
   },
   {
     "date": "2021-09-15",
+    "title": "Government defends Italy and UN visits",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government defended the visit to Italy undertaken by Prime Minister Mahinda Rajapaksa and the UN visit scheduled to be undertaken by President Gotabaya Rajapaksa despite the economic crisis in the country.",
+    "url": "https://www.dailymirror.lk/front_page/Government-defends-Italy-and-UN-visits/238-220394",
+    "url_hash": "f7e4741def72f2fb66fcacd50461151f",
+    "ut": 1631675946,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
     "title": "Sri Lanka denies 5-pct tax on wage earner tax after 1-pct tax on undeclared funds",
     "source": "economynext.com",
     "snippet": "Sri Lanka has not made an official decision to tax persons earning wages above 100,000 rupees, a senior minister said after parliament passed a law to legalize unpaid taxes at a 1 percent fee.",
@@ -7935,6 +7978,108 @@
     "url": "https://www.ft.lk/dayan_jayatilleka/Geneva-and-the-GR-revolution/10527-723112",
     "url_hash": "5b8bee6b3860ca44730f72baef1a28a6",
     "ut": 1631740378,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Louise Arbour",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navi Pillay",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Zaid al-Hussain",
+        "start_end": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Coexistence suggested instead of traps for leopards",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka has lost eight leopards for 2021 and Wildlife conservationists fear whether the protected species is on a fast track towards extinction. ..",
+    "url": "https://www.dailymirror.lk/plus/Coexistence-suggested-instead-of-traps-for-leopards/352-220473",
+    "url_hash": "05c8cdb8a1a097bba360a49812cc44cb",
+    "ut": 1631740746,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Geneva and the GR revolution",
+    "source": "www.ft.lk",
+    "snippet": "In resolute defence of fair play for Sri Lanka, I had successfully resisted two UN High Commissioners for Human Rights, Louise Arbour and Navi Pillay as PR in Geneva. I would have been even more combative towards their successor Zaid al-Hussain.",
+    "url": "https://www.ft.lk/opinion/Geneva-and-the-GR-revolution/14-723112",
+    "url_hash": "38a578a109f3826b583c9645ef4bfd88",
+    "ut": 1631740756,
     "ent_info_list": [
       {
         "label": "GPE",
