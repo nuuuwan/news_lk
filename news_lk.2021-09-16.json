@@ -1091,6 +1091,57 @@
   },
   {
     "date": "2021-09-16",
+    "title": "HRCSL begins probe into prison incidents involving State Minister",
+    "source": "colombogazette.com",
+    "snippet": "The Human Rights Commission of Sri Lanka has launched a Suo Motu investigation related to the incidents that have taken place in prisons involving State Minister Lohan Ratwatte. Three Regional Coordin",
+    "url": "https://colombogazette.com/2021/09/16/hrcsl-begins-probe-into-prison-incidents-involving-state-minister/",
+    "url_hash": "d11eda41917ce185edee1777da8da877",
+    "ut": 1631765316,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Human Rights Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
     "title": "IYSSE (Sri Lanka) meeting discusses US debacle in Afghanistan",
     "source": "www.wsws.org",
     "snippet": "Students from almost all of Sri Lanka's universities participated in the event, indicating that young people are seeking a serious analysis of crucial international developments.",
@@ -1104,6 +1155,57 @@
         "start_end": [
           5,
           8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "20ft container seized with illegally imported ginger, black gram, palm sugar",
+    "source": "www.dailymirror.lk",
+    "snippet": "The officers of the Sri Lanka Customs Preventive Division seized a 20-foot container with dried ginger, black gram and palm sugar while being attempted to smuggle\u00a0into the country, Customs Deputy Director (Legal) and Media Spokesman Sudattha Silva said.",
+    "url": "https://www.dailymirror.lk/breaking_news/20ft-container-seized-with-illegally-imported-ginger-black-gram-palm-sugar/108-220494",
+    "url_hash": "05a7335bc070f81c2200c14c074225ab",
+    "ut": 1631768908,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Customs Preventive Division",
+        "start_end": [
+          3,
+          9
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "20-foot",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Customs",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Media",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sudattha Silva",
+        "start_end": [
+          43,
+          45
         ]
       }
     ]
@@ -1300,6 +1402,41 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
+    "title": "Sri Lanka conservationists fight elephant smuggling in court",
+    "source": "www.greenwichtime.com",
+    "snippet": "Environmentalists in Sri Lanka are challenging a court order issued earlier this month that would allow the return of 14 illegally captured wild elephants to people accused of buying them from traffickers.",
+    "url": "https://www.greenwichtime.com/news/article/Sri-Lanka-conservationists-fight-elephant-16463184.php",
+    "url_hash": "cbd014e922dbb31cee0fb785be1866de",
+    "ut": 1631775804,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier this month",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
