@@ -4113,6 +4113,92 @@
   },
   {
     "date": "2021-09-17",
+    "title": "No issue for cardiac patients to get Covid vaccines: Cardiologist",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that there was no issue for cardiac patients to receive Covid vaccine, Cardiac Specialist today requested all active and chronic cardiac patients to receive both doses of any Covid vaccine claiming that they were more vulnerable to develop complications or even death.",
+    "url": "https://www.dailymirror.lk/breaking_news/No-issue-for-cardiac-patients-to-get-Covid-vaccines-Cardiologist/108-220598",
+    "url_hash": "c07a223ab7fd92a9f8f51727100cb832",
+    "ut": 1631880518,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cardiac Specialist",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Latest: Cambodia vaccinating kids ages 6 to 11 for school",
+    "source": "www.thehour.com",
+    "snippet": "Cambodia is vaccinating children ages 6 to 11 so students can safely return to schools that have been closed for months due to the coronavirus. Prime Minister Hun Sen inaugurated the campaign Friday,",
+    "url": "https://www.thehour.com/news/article/Latest-China-reports-62-new-cases-1-billion-16466245.php",
+    "url_hash": "9b7daffba1d4f9d566acf800458cbe90",
+    "ut": 1631880536,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Cambodia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hun Sen",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Latest: Cambodia vaccinating kids ages 6 to 11 for school",
     "source": "www.wpri.com",
     "snippet": "Cambodia is vaccinating children ages 6 to 11 so students can safely return to schools that have been closed for months due to the coronavirus. Prime Minister Hun Sen",
@@ -4234,6 +4320,33 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Govt. shows unofficial green light to open liquor stores",
+    "source": "www.dailymirror.lk",
+    "snippet": "Countrywide liquor shops were opened to the public a short while ago, following an unofficial order received by the Department of Excise from the Ministry of Finance. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-shows-unofficial-green-light-to-open-liquor-stores/108-220599",
+    "url_hash": "894f16c66ae6204e1ab5c1aed04681d8",
+    "ut": 1631884118,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Department of Excise",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Finance",
+        "start_end": [
+          24,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Crystal's 2024 world cruise highlights Southern Hemisphere",
     "source": "www.seatrade-cruise.com",
     "snippet": "Los Angeles-Rome option and seven segments An 89-night version, from Los Angeles to Rome, also accords full world cruise benefits.\u00a0Seven segments of 13 to 18 nights are available and\u00a0can be combined for customized regional explorations with 5% savings.",
@@ -4303,6 +4416,143 @@
         "start_end": [
           47,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Sri Lanka stock index edges down on profit taking amid foreign selling; investors wait for cues",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stock index fell 0.52 percent on Friday (17) as investors looked for some cues on the interest rate and rupee exchange rate under the newly appointed central bank governor, brokers said. Former State Minister for Money and Capital Markets Ajith Nivard Cabraal assumed duty as the 16th central bank governor on Wednesday.",
+    "url": "https://economynext.com/sri-lanka-stock-index-edges-down-on-profit-taking-amid-foreign-selling-investors-wait-for-cues-86261/",
+    "url_hash": "73169ec1e0ee95e7870e577ed515f48c",
+    "ut": 1631887745,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.52 percent",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Money and Capital Markets Ajith",
+        "start_end": [
+          41,
+          46
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "16th",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          57,
+          58
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Social distancing goes for a toss...",
+    "source": "www.dailymirror.lk",
+    "snippet": "People have started gathering at liquor shops across the country in large numbers, following Government's decision to open countrywide liquor shops. Pix by Kithsiri de Mel ..",
+    "url": "https://www.dailymirror.lk/caption_story/Social-distancing-goes-for-a-toss/110-220602",
+    "url_hash": "e893cf8952b593b67ae4eba06f8db22e",
+    "ut": 1631891318,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kithsiri de Mel",
+        "start_end": [
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "iPhone 13 Mini Model Number A2481, A2626, A2628, A2629, A2630 Differences",
+    "source": "www.techwalls.com",
+    "snippet": "As compared to its predecessor, the iPhone 13 Mini is all about refinements as it has almost the same design. There are just a few minor changes like a 20% smaller notch and diagonal arrangement of the 2 cameras on the back.",
+    "url": "https://www.techwalls.com/iphone-13-mini-model-number-a2481-a2626-a2628-a2629-a2630-differences/",
+    "url_hash": "05ea99001dc899b5fb64503094614c43",
+    "ut": 1631893607,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "20%",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
