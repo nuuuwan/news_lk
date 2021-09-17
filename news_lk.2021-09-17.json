@@ -2004,6 +2004,49 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Latest: Sri Lanka extends lockdown until Oct. 1",
+    "source": "www.yourcentralvalley.com",
+    "snippet": "Sri Lanka on Friday extended the COVID-19 lockdown by another two weeks amid pressure from medical experts. The current lockdown was to end on Tuesday. A special meeting of",
+    "url": "https://www.yourcentralvalley.com/life-health/health/latest-china-reports-62-new-cases-1-billion-vaccinated/",
+    "url_hash": "650023eefb249aa2df0cb23d635f19fa",
+    "ut": 1631862485,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another two weeks",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Sri Lanka extends COVID-19 lockdown till October 1",
     "source": "www.outlookindia.com",
     "snippet": "Sri Lanka on Friday again extended its nationwide lockdown till October 1, amidst a surge in the number of COVID-19 cases and mounting pressure from medics to step up efforts to fight the raging third wave of coronavirus.",
@@ -2044,6 +2087,16 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "British retail sales fall unexpectedly in August - business live",
+    "source": "www.theguardian.com",
+    "snippet": "Rolling coverage of the latest economic and financial news",
+    "url": "https://www.theguardian.com/business/live/2021/sep/17/retail-sales-fall-august-energy-prices-crunch-supply-chains-ftse-business-live?page=with:block-61443cd88f0887fe13f54b70",
+    "url_hash": "5fac515ef0cf6c91a3df1bcf2e5d26c3",
+    "ut": 1631866085,
+    "ent_info_list": []
   },
   {
     "date": "2021-09-17",
@@ -2383,6 +2436,172 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Canva: Australian online design platform valued at $40bn",
+    "source": "www.dailymirror.lk",
+    "snippet": "Australian graphic design business Canva has become one of the world's biggest privately-owned companies after being valued at $40bn (\u00a329bn). Canva was founded in Sydney in 2013 by Australians Melanie Perkins,",
+    "url": "https://www.dailymirror.lk/latest_news/Canva-Australian-online-design-platform-valued-at-40bn/342-220592",
+    "url_hash": "599ca217a1654ec56afc185d411718c3",
+    "ut": 1631869664,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Canva",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "40bn",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Canva",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sydney",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2013",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australians",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Melanie Perkins",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "NZ abandons cricket tour of Pakistan over security concerns",
+    "source": "www.islandpacket.com",
+    "snippet": "New Zealand abandoned its cricket tour of Pakistan on Friday over security concerns that mystified the hosts, just before the Black Caps' first scheduled match in Pakistan in 18 years. New Zealand Cricket said it received a security alert from its government and made the decision to cancel the tour just moments before the scheduled start of the one-day international series in Rawalpindi.",
+    "url": "https://www.islandpacket.com/sports/article254309488.html",
+    "url_hash": "e059f414480f8935ccd72f9532a6c997",
+    "ut": 1631869673,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Black Caps'",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "18 years",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Zealand Cricket",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          61,
+          64
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rawalpindi",
+        "start_end": [
+          67,
+          68
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "British retail sales fall unexpectedly in August; inflation expectations rise - business live",
     "source": "www.theguardian.com",
     "snippet": "Rolling coverage of the latest economic and financial news",
@@ -2652,6 +2871,323 @@
         "start_end": [
           15,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "covid 19 coronavirus updates toronto ontario canada sept 17",
+    "source": "www.thespec.com",
+    "snippet": "Meanwhile, Alaska's epidemiologist says the state is experiencing \"one of the sharpest surges\" in COVID-19 in the U.S.",
+    "url": "https://www.thespec.com/ts/news/canada/2021/09/17/covid-19-coronavirus-updates-toronto-ontario-canada-sept-17.html",
+    "url_hash": "252e3c393827811c349d8bc3d9e928b4",
+    "ut": 1631873285,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Alaska",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Sri Lankan-born Dr. Ashani Weeraratna appointed to US National Cancer Advisory Board",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lankan born scientist Ashani Weeraratna, a leading cancer researcher has been appointed by US President Joe Biden to the National Cancer Advisory Board, which plays an important role in guiding the Director of the National Cancer Institute in setting the course for the national cancer research program.",
+    "url": "https://dailynews.lk/2021/09/17/local/259607/sri-lankan-born-dr-ashani-weeraratna-appointed-us-national-cancer-advisory",
+    "url_hash": "611b429da6ad1766cd95896b85a8dfa2",
+    "ut": 1631874048,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ashani Weeraratna",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Cancer Advisory Board",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Cancer Institute",
+        "start_end": [
+          36,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the national cancer research",
+        "start_end": [
+          45,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Dr Ashani Weeraratna",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lankan born scientist Ashani Weeraratna, a leading cancer researcher has been appointed by US President Joe Biden to the National Cancer Advisory Board, which plays an important role in",
+    "url": "https://dailynews.lk/tags/dr-ashani-weeraratna",
+    "url_hash": "37c23e852700434d867123de00506cd4",
+    "ut": 1631874228,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ashani Weeraratna",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Cancer Advisory Board",
+        "start_end": [
+          20,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "China to donate one million doses of Sinovac to Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "China is to donate one million doses of the Sinovac vaccine to Sri Lanka, the Chinese Embassy in Sri Lanka said.   The Em",
+    "url": "https://menafn.com/1102813323/China-to-donate-one-million-doses-of-Sinovac-to-Sri-Lanka",
+    "url_hash": "47d1f07f343516df50d6dfac8b0dbf28",
+    "ut": 1631874253,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one million",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Chinese Embassy",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Red alert for 14 districts on severe lightning: Met Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "A Red alert on thundershowers accompanied by severe lightning has been issued for 14 districts, the Department of Meteorology said today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Red-alert-for-14-districts-on-severe-lightning-Met-Dept/342-220594",
+    "url_hash": "0674ef7bc5077f325bd01276bd0ba80f",
+    "ut": 1631874644,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "National Cancer Advisory Board",
+    "source": "www.dailynews.lk",
+    "snippet": "Sri Lankan born scientist Ashani Weeraratna, a leading cancer researcher has been appointed by US President Joe Biden to the National Cancer Advisory Board, which plays an important role in",
+    "url": "https://www.dailynews.lk/tags/national-cancer-advisory-board",
+    "url_hash": "96de9314d5e36c96dfa45dde52dbca34",
+    "ut": 1631874768,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ashani Weeraratna",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Cancer Advisory Board",
+        "start_end": [
+          20,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Lankan legal row over private parties' possessing elephants",
+    "source": "menafn.com",
+    "snippet": "On Monday, it was a small victory at the Colombo Magistrates Court for conservationists battling for justice f",
+    "url": "https://menafn.com/1102810477/Lankan-legal-row-over-private-parties-possessing-elephants&source=138",
+    "url_hash": "88d07cd07240a629fb581decb696aeef",
+    "ut": 1631875321,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Magistrates Court",
+        "start_end": [
+          9,
+          13
         ]
       }
     ]
