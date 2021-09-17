@@ -506,6 +506,41 @@
     "title": "UN expert draws bleak picture of Sri Lanka",
     "source": "www.dailymirror.lk",
     "snippet": "A UN expert has drawn a bleak picture of the human rights situation in Sri Lanka, especially over the past 18 months. ..",
+    "url": "https://www.dailymirror.lk/latest_news/UN-expert-draws-bleak-picture-of-Sri-Lanka/342-220531",
+    "url_hash": "c709f60935016b99649f91406a45279f",
+    "ut": 1631840876,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past 18 months",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "UN expert draws bleak picture of Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "A UN expert has drawn a bleak picture of the human rights situation in Sri Lanka, especially over the past 18 months. ..",
     "url": "https://www.dailymirror.lk/breaking_news/UN-expert-draws-bleak-picture-of-Sri-Lanka/108-220531",
     "url_hash": "d090880d552013887370e827f12f6098",
     "ut": 1631840896,
@@ -1963,6 +1998,189 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "No need to panic over fake email : Defence Secretary",
+    "source": "dailynews.lk",
+    "snippet": "Defence Secretary Gen. Kamal Gunaratne (Retd) said there is no need to panic over the 'fake email' received by country's airport authorities regarding a security threat. Country's defence and law enforcing agencies are continuing their duties in the same vein without letting anyone to disrupt the lasting peace,",
+    "url": "https://dailynews.lk/2021/09/17/local/259603/no-need-panic-over-fake-email-defence-secretary",
+    "url_hash": "7668e8125432844f980fa37c6aea761e",
+    "ut": 1631866260,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Defence",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamal Gunaratne",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Retd",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Fake Email",
+    "source": "dailynews.lk",
+    "snippet": "Defence Secretary Gen. Kamal Gunaratne (Retd) said there is no need to panic over the 'fake email' received by country's airport authorities regarding a security threat. Country's defence and law...",
+    "url": "https://dailynews.lk/tags/fake-email",
+    "url_hash": "c16e809d91b156de190ba938eb6974f0",
+    "ut": 1631866320,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Defence",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamal Gunaratne",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Retd",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Sri Lanka extends COVID-19 lockdown till October 1",
+    "source": "www.thehindu.com",
+    "snippet": "The government took the decision following a top-level meeting chaired by President Gotabaya Rajapaksa on Friday.",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-extends-covid-19-lockdown-till-october-1/article36511654.ece",
+    "url_hash": "0d1c548fb7b0b23023e8077068bbe31f",
+    "ut": 1631867285,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Afghanistan's singers flee Taliban violence",
+    "source": "www.hirunews.lk",
+    "snippet": "Afghan singers who escaped to Pakistan say they had no choice but to flee when the Taliban took power in Afghanistan. The Taliban have banned music and are accused of executing a folk singer in northern Baghlan province in August.",
+    "url": "https://www.hirunews.lk/goldfmnews/282468/afghanistans-singers-flee-taliban-violence",
+    "url_hash": "c2c840dd0a3f50ab2989ee4d631ceb76",
+    "ut": 1631868013,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Afghan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Baghlan province",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Sri Lanka extends COVID-19 lockdown till October 1 as third wave continues to rage on",
+    "source": "www.newindianexpress.com",
+    "snippet": "The lockdown was to be lifted on September 21 after what some authorities had claimed improvement in the number of infections and the number of deaths.",
+    "url": "https://www.newindianexpress.com/world/2021/sep/17/sri-lanka-extends-covid-19-lockdown-till-october-1-as-third-wave-continues-to-rage-on-2360085.html",
+    "url_hash": "8c2d8572fdb1459472e8967749d5c88a",
+    "ut": 1631868365,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "September 21",
+        "start_end": [
+          7,
+          9
         ]
       }
     ]
