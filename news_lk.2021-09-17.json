@@ -1,6 +1,100 @@
 [
   {
     "date": "2021-09-17",
+    "title": "Sri Lanka's foreign exchange reserves still low and credit negative: Moody's",
+    "source": "www.ft.lk",
+    "snippet": "However, Sri Lanka's still high new coronavirus cases at around 2,000-3,000 daily and the extension of island-wide lockdown measures, through 21 September currently, may deter tourists. Current restrictions on public gatherings include a 10 p.m. to 4 a.m ...",
+    "url": "https://www.ft.lk/front-page/Sri-Lanka-s-foreign-exchange-reserves-still-low-and-credit-negative-Moody-s/44-723184",
+    "url_hash": "42245fe56c538d478a6c38501d1ec46a",
+    "ut": 1631837305,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "around 2,000-3,000",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "21 September",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10 p.m. to 4",
+        "start_end": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "The T20I debacle against SA: When the faults lie with appointments, what can you expect?",
+    "source": "www.islandcricket.lk",
+    "snippet": "Whenever the national cricket team's performances dip below the average like it did against South Africa (SA) in the recently concluded T20I series, where Sri Lanka was whitewashed 3-0, there is a tendency to find scapegoats for the defeat.",
+    "url": "https://www.islandcricket.lk/news/the-t20i-debacle-against-sa-when-the-faults-lie-with-appointments-what-can-you-expect/",
+    "url_hash": "16d9b55ea9f7e6d031922c58d8d35e06",
+    "ut": 1631837305,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SA",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Your Excellency President Gotabaya Rajapaksa, please let this be a turning point!",
     "source": "www.lankaweb.com",
     "snippet": "State Minister of Prison Reform and Rehabilitation Lohan Ratwatte yesterday told The Island that he had informed President Gotabaya Rajapaksa that he would step down immediately from his post as the State Minister of Prisons.",
@@ -366,6 +460,41 @@
   },
   {
     "date": "2021-09-17",
+    "title": "UN expert draws bleak picture of Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "A UN expert has drawn a bleak picture of the human rights situation in Sri Lanka, especially over the past 18 months. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/UN-expert-draws-bleak-picture-of-Sri-Lanka/108-220531",
+    "url_hash": "d090880d552013887370e827f12f6098",
+    "ut": 1631840896,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past 18 months",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Ratwatte still as State Minister of Gem Industries: Ruwan wants Govt. to clarify its stance",
     "source": "www.dailymirror.lk",
     "snippet": "Government should clarify whether Lohan Ratwatte still functions as the State Minister in charge of Gem and Jewellery related industries, UNP Deputy Leader Ruwan Wijewardene said yesterday. ..",
@@ -471,6 +600,25 @@
     "title": "SF encourages prison inmates to thrash politicos if they are harassed and intimidated",
     "source": "www.dailymirror.lk",
     "snippet": "Inmates in prisons should break the bones of State Ministers if they storm into prisons and harass them by keeping pistols on their heads, an SJB MP said yesterday. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SF-encourages-prison-inmates-to-thrash-politicos-if-they-are-harassed-and-intimidated/108-220533",
+    "url_hash": "2a7af16820e7c23006edde12094c8fa0",
+    "ut": 1631844496,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "SF encourages prison inmates to thrash politicos if they are harassed and intimidated",
+    "source": "www.dailymirror.lk",
+    "snippet": "Inmates in prisons should break the bones of State Ministers if they storm into prisons and harass them by keeping pistols on their heads, an SJB MP said yesterday. ..",
     "url": "https://www.dailymirror.lk/latest_news/SF-encourages-prison-inmates-to-thrash-politicos-if-they-are-harassed-and-intimidated/342-220533",
     "url_hash": "d64cc685dc1659467635a770e267acee",
     "ut": 1631844497,
@@ -532,6 +680,358 @@
         "start_end": [
           52,
           53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Aeroflot Sri Lanka flights to resume from November 04",
+    "source": "economynext.com",
+    "snippet": "Russia's Aeroflot will re-start flights to Sri Lanka's capital from November 04, the state airport agency said, as the island gradually opens the country to international visitors with accelerated vaccinations.",
+    "url": "https://economynext.com/aeroflot-sri-lanka-flights-to-resume-from-november-04-86247/",
+    "url_hash": "0de90ade5f92bc5005ccc0bcf333cbd7",
+    "ut": 1631848125,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Aeroflot",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November 04",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "These are the countries making Covid-19 vaccines mandatory",
+    "source": "www.heraldlive.co.za",
+    "snippet": "A sharp upturn in infections due to the Delta variant and a slowdown in vaccinations have pushed governments to make Covid-19 shots mandatory for health workers, other high-risk groups or dining out.",
+    "url": "https://www.heraldlive.co.za/news/2021-09-17-these-are-the-countries-making-covid-19-vaccines-mandatory/",
+    "url_hash": "21846d1582cf6fd13ac42a388928898d",
+    "ut": 1631848645,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Decision on island-wide quarantine curfew expected today",
+    "source": "www.adaderana.lk",
+    "snippet": "A decision is expected to reached today regarding the lifting or extending of the quarantine curfew, which is currently in effect across the island in order to control the spread of the Covid-19 virus",
+    "url": "http://www.adaderana.lk/news/76983/decision-on-island-wide-quarantine-curfew-expected-today",
+    "url_hash": "d1c031ffd8ca7554cef12a425d211046",
+    "ut": 1631849485,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Afghanistan and Sri Lanka: Whither liberative Islam?",
+    "source": "www.dailymirror.lk",
+    "snippet": "A world without women may be a good title for a socio-fiction movie or book. But under Taliban rulers, Afghanistan has become a country without women. You may ask where all the women have gone. They are there, but they are virtually dead. With no ...",
+    "url": "https://www.dailymirror.lk/opinion/Afghanistan-and-Sri-Lanka-Whither-liberative-Islam/231-220529",
+    "url_hash": "3e283247565da5b65331fe2efdd75b63",
+    "ut": 1631850496,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Inner Wheel Club of Colombo supports New Covid HDU at Base Hospital Thambuththegama",
+    "source": "colombogazette.com",
+    "snippet": "The Inner Wheel Club of Colombo gifted a Remed Bi-level Ventilator and a supply of NRB Masks to the newly set up national level Covid High Dependency Unit (HDU) at the Base Hospital Thabuththegama recently.",
+    "url": "https://colombogazette.com/2021/09/17/inner-wheel-club-of-colombo-supports-new-covid-hdu-at-base-hospital-thambuththegama/",
+    "url_hash": "08e0565b7acf6f3731a7edab16272cf6",
+    "ut": 1631850890,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Inner Wheel Club of Colombo",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Remed Bi",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ventilator",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NRB Masks",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Covid High Dependency Unit",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HDU",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Base Hospital Thabuththegama",
+        "start_end": [
+          34,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "UN expert draws bleak picture of Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "A UN expert has drawn a bleak picture of the human rights situation in Sri Lanka, especially over the past 18 months.\u00a0 The Special Rapporteur on the promotion of truth, justice, reparations and guarantees of non-recurrence,",
+    "url": "https://colombogazette.com/2021/09/17/un-expert-draws-bleak-picture-of-sri-lanka/",
+    "url_hash": "ccc937169503ab8885dd3e4961bf386d",
+    "ut": 1631851190,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past 18 months",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Chameera and Hasaranga to miss Oman T-20s due to IPL",
+    "source": "island.lk",
+    "snippet": "Rex Clementine Sri Lankan cricketers Dushmantha Chameera and Wanindu Hasaranga will miss Sri Lanka's tour of Oman next month due to their IPL commitments. The two Sri Lankans are with Royal Challengers Bangalore and they have been given clearance to remain with the franchise till 10th October.",
+    "url": "https://island.lk/chameera-and-hasaranga-to-miss-oman-t-20s-due-to-ipl/",
+    "url_hash": "210c03420f85d3795bbfacd35da46298",
+    "ut": 1631851345,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dushmantha Chameera",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wanindu Hasaranga",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Royal Challengers Bangalore",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10th October",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Sarvodaya-Fusion and HSBC collaborate to educate Sri Lankan women on Personal Financial Literacy",
+    "source": "island.lk",
+    "snippet": "In a concerted attempt to empower Sri Lankan women Sarvodaya-Fusion in partnership with HSBC has launched Personal Financial Literacy Education Programme for women starting June 2021. \"In its essence,",
+    "url": "https://island.lk/sarvodaya-fusion-and-hsbc-collaborate-to-educate-sri-lankan-women-on-personal-financial-literacy/",
+    "url_hash": "84f481829161765526f6279b9286c7c7",
+    "ut": 1631851405,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sarvodaya-Fusion",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HSBC",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Personal Financial Literacy Education Programme",
+        "start_end": [
+          18,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June 2021",
+        "start_end": [
+          26,
+          28
         ]
       }
     ]
