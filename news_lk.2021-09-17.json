@@ -1,6 +1,49 @@
 [
   {
     "date": "2021-09-17",
+    "title": "The T20I debacle against SA: When the faults lie with appointments, what can you expect?",
+    "source": "www.islandcricket.lk",
+    "snippet": "Whenever the national cricket team's performances dip below the average like it did against South Africa (SA) in the recently concluded T20I series, where Sri Lanka was whitewashed 3-0, there is a tendency to find scapegoats for the defeat.",
+    "url": "https://www.islandcricket.lk/news/featured/the-t20i-debacle-against-sa-when-the-faults-lie-with-appointments-what-can-you-expect/",
+    "url_hash": "716aabbb1b703702c8f96ed0af84dd47",
+    "ut": 1631837287,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SA",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Sri Lanka's foreign exchange reserves still low and credit negative: Moody's",
     "source": "www.ft.lk",
     "snippet": "However, Sri Lanka's still high new coronavirus cases at around 2,000-3,000 daily and the extension of island-wide lockdown measures, through 21 September currently, may deter tourists. Current restrictions on public gatherings include a 10 p.m. to 4 a.m ...",
@@ -863,6 +906,33 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Two more fungal diseases prevalent among Covid-hit people",
+    "source": "www.dailymirror.lk",
+    "snippet": "In addition to the cases of Black Fungus or mucormycosis, there are two more fungal diseases namely -Aspergillosis ..",
+    "url": "https://www.dailymirror.lk/front_page/Two-more-fungal-diseases-prevalent-among-Covid-hit-people/238-220549",
+    "url_hash": "d13d55dffe79d98ae05ab0f36e72b1d2",
+    "ut": 1631848114,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Black Fungus",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          13,
+          14
         ]
       }
     ]
@@ -3801,6 +3871,41 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Pfizer jab for those aged 15-19 and children with disabilities",
+    "source": "colombogazette.com",
+    "snippet": "The Pfizer vaccine is to be administered on those aged between 15-19 and children above 12 years with disabilities. State Minister of Production, Supply and Regulation of Pharmaceuticals Channa Jayasu",
+    "url": "https://colombogazette.com/2021/09/17/pfizer-jab-for-those-aged-15-19-and-children-with-disabilities/",
+    "url_hash": "8aa878695eb101b8a052be9e33021cdc",
+    "ut": 1631876910,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 15-19",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "above 12 years",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Tech investor Chamath Palihapitiya: 'I reserve the right to change my mind'",
     "source": "www.ft.com",
     "snippet": "The controversial 'king of Spacs' on\u2009his 'long-term greedy' approach \u2014 and the dangers of taking investing advice from Reddit",
@@ -3871,6 +3976,57 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Bathiudeen further remanded till Oct. 1 over the death of 16-year-old girl",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Minister Rishad Bathiudeen who had been named as the fifth suspect over the death of a 16-year-old domestic aide at his residence was today ordered to be further remanded till October 1 by Colombo Chief Magistrate's Court.",
+    "url": "https://www.dailymirror.lk/breaking_news/Bathiudeen-further-remanded-till-Oct-1-over-the-death-of-16-year-old-girl/108-220600",
+    "url_hash": "f07c4efdceb3d873b16a80cc72d59924",
+    "ut": 1631880478,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rishad Bathiudeen",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "16-year-old",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "No contraindication for cardiac patients to get Covid vaccines: Cardiologist",
     "source": "www.dailymirror.lk",
     "snippet": "Claiming that there was no contraindication for cardiac patients to receive Covid vaccine, Cardiac Specialist today requested all active and chronic cardiac patients to receive both doses of any Covid vaccine claiming that they were more vulnerable to develop complications or even death.",
@@ -3908,6 +4064,49 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Latest: Cambodia vaccinating kids ages 6 to 11 for school",
+    "source": "www.ctpost.com",
+    "snippet": "Cambodia is vaccinating children ages 6 to 11 so students can safely return to schools that have been closed for months due to the coronavirus. Prime Minister Hun Sen inaugurated the campaign Friday,",
+    "url": "https://www.ctpost.com/news/article/Latest-China-reports-62-new-cases-1-billion-16466245.php",
+    "url_hash": "6898b9d6ac3c721dedfef97c3f720356",
+    "ut": 1631880496,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Cambodia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hun Sen",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
