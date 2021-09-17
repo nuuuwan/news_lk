@@ -2707,6 +2707,25 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Latest: US to spend $2.1B to improve infection control",
+    "source": "www.news10.com",
+    "snippet": "The federal government is spending $2.1 billion to improve infection control procedures in health care settings, aimed at preventing the transmission of diseases inside hospitals,",
+    "url": "https://www.news10.com/news/latest-china-reports-62-new-cases-1-billion-vaccinated/",
+    "url_hash": "eb7f3ebcb079b0e048e4592c9cad12a0",
+    "ut": 1631862511,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "$2.1 billion",
+        "start_end": [
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Lohan breaks his silence: \"I stopped the Prisons from burning Am I stupid to threaten the prisoners?\"",
     "source": "www.dailymirror.lk",
     "snippet": "State Minister of Gem and Jewelry Related Industries Lohan Ratwatte who has pushed the government into a hot soup ov ..",
@@ -3375,6 +3394,25 @@
         "start_end": [
           67,
           68
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Banks watchful of foreign currency transactions via cards",
+    "source": "www.dailymirror.lk",
+    "snippet": "Local banks on their own have started implementing a set of measures on limiting foreign currency transactions via debit and credit cards due to the volatility prevailing in the country's forex market arising from the shortage of US dollars.",
+    "url": "https://www.dailymirror.lk/breaking_news/Banks-watchful-of-foreign-currency-transactions-via-cards/108-220589",
+    "url_hash": "3370e2329bfed4b81c9f69f78fc95a01",
+    "ut": 1631869675,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
@@ -5520,6 +5558,41 @@
     "title": "Ratwatte issue; EC to request Speaker to take appropriate action",
     "source": "www.dailymirror.lk",
     "snippet": "While claiming that the public will lose faith in the country's electoral system and democracy when public representatives enter prisons and intimidate inmates, the Election Commission (EC) said that it would request the Speaker in Parliament to take appropriate action in this regard.",
+    "url": "https://www.dailymirror.lk/latest_news/Ratwatte-issue-EC-to-request-Speaker-to-take-appropriate-action/342-220604",
+    "url_hash": "1d4d2d72dcca87e2255dd56151301582",
+    "ut": 1631898475,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Election Commission",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EC",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Ratwatte issue; EC to request Speaker to take appropriate action",
+    "source": "www.dailymirror.lk",
+    "snippet": "While claiming that the public will lose faith in the country's electoral system and democracy when public representatives enter prisons and intimidate inmates, the Election Commission (EC) said that it would request the Speaker in Parliament to take appropriate action in this regard.",
     "url": "https://www.dailymirror.lk/top_story/Ratwatte-issue-EC-to-request-Speaker-to-take-appropriate-action/155-220604",
     "url_hash": "9b9ca39869ee0d87afdb383e8d3acbbb",
     "ut": 1631898477,
@@ -5589,6 +5662,33 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Destinations offer mixed reactions to government update",
+    "source": "travelweekly.co.uk",
+    "snippet": "A number of destinations that will become more accessible following changes to the UK government's traffic light system issued positive statements following the announcement on Friday. But others that remain off-limits slammed the lack of progress.",
+    "url": "http://travelweekly.co.uk/news/air/destinations-offer-mixed-reactions-to-government-update",
+    "url_hash": "765b9f89632ee31aa33383ec4a548426",
+    "ut": 1631898485,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
@@ -6254,6 +6354,94 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Lanka IOC supports Education Ministry for digital mode learning",
+    "source": "www.dailymirror.lk",
+    "snippet": "School education during these pandemic times has shifted to digital mode and is heavily dependent on smart mobile phones. Underscoring, the e-learning need of school children of the society, mainly coming from lower income group families,",
+    "url": "https://www.dailymirror.lk/other/Lanka-IOC-supports-Education-Ministry-for-digital-mode-learning/117-220629",
+    "url_hash": "d963f32ab24dd81bf6a84e1719000946",
+    "ut": 1631909275,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Central Bank removes maximum acceptable rate for T-bills",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Central Bank (CB) has removed the maximum acceptable rate (364-day T-bills) at the T-bill auction after one year, as it was not successful in attracting bids for the auction, due to this restriction.",
+    "url": "https://www.dailymirror.lk/business-news/Central-Bank-removes-maximum-acceptable-rate-for-T-bills/273-220642",
+    "url_hash": "77679a2a9869d4f961f67b744fbd5527",
+    "ut": 1631909275,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "364-day",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one year",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "HCL Technologies celebrates one year in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "HCL Technologies, a leading global technology company, has completed one year of operations in Sri Lanka and recently surpassed a milestone of recruiting more than 1,000 local employees, including recent graduates as well as seasoned industry professionals.",
+    "url": "https://www.dailymirror.lk/business-news/HCL-Technologies-celebrates-one-year-in-Sri-Lanka/273-220636",
+    "url_hash": "87d904331eac8ddc72667a4f34c46d26",
+    "ut": 1631909275,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "HCL Technologies",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one year",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 1,000",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "SLC likely to take five additional players for T20 World Cup - CricWire",
     "source": "www.islandcricket.lk",
     "snippet": "Sri Lanka Cricket (SLC) has reportedly decided to take five more reserve players to the ICC T20I World Cup. The additional players have been included due to various injury concerns among the 19 cricketers currently selected for the tournament.",
@@ -6299,6 +6487,84 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "SDB bank receives US $ 40mn DFC loan to nurture SMEs and female entrepreneurship",
+    "source": "www.dailymirror.lk",
+    "snippet": "Extending a helping hand during one of the most crucial times for the local economy, the United States International Development Finance Corporation (DFC) recently finalised the official handing over of a US $ 40 million (Rs.",
+    "url": "https://www.dailymirror.lk/business-news/SDB-bank-receives-US-40mn-DFC-loan-to-nurture-SMEs-and-female-entrepreneurship/273-220641",
+    "url_hash": "b695a1c5d747e91859345663ae8868d9",
+    "ut": 1631909285,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United States International Development Finance Corporation",
+        "start_end": [
+          16,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 40 million",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Samsung to unveil Galaxy Buds2 and Galaxy Watch4 in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Samsung recently announced that they are preparing to unveil their flagship products Samsung Galaxy Watch4 and its new TWS earbuds dubbed as Galaxy Buds2, alongside the pre-order phase of the all new Galaxy Z Flip3 and Z Fold3 foldable phones.",
+    "url": "https://www.dailymirror.lk/other/Samsung-to-unveil-Galaxy-Buds2-and-Galaxy-Watch4-in-Sri-Lanka/117-220632",
+    "url_hash": "3081d21896d9a9980a716d2115dc1804",
+    "ut": 1631909285,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung Galaxy",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TWS",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Galaxy Z Flip3",
+        "start_end": [
+          35,
+          38
         ]
       }
     ]
@@ -6428,6 +6694,879 @@
         "start_end": [
           0,
           1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "These are the 6 titles in the running for the 2021 Booker Prize, one of the most prestigious book awards",
+    "source": "www.businessinsider.com",
+    "snippet": "Need a good read? Here are the six titles shortlisted for the 2021 Booker Prize, one of the world's most important literary accolades,",
+    "url": "https://www.businessinsider.com/booker-prize-shortlist-books-2021",
+    "url_hash": "4901d1bbc09eca7fb90b90a6c014ab54",
+    "ut": 1631912885,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "NEWS'Ratwatte's boorish actions unbecoming of a Minister'",
+    "source": "www.lankaweb.com",
+    "snippet": "One-time Prisons Minister Dew Gunasekera yesterday (16) called for an immediate police investigation into SLPP lawmaker Lohan Ratwatte's recent wild behaviour inside the Anuradhapura prison, where he issued death threats to two LTTEers incarcerated there. Gunasekera pointed out that the minister had forcibly entered the Anuradhapura prison on 12 Sept. around 5.30 pm in the wake of the government turning a blind eye to his earlier drunken raid on Welikada prison on 06 Sept. Gunasekera served as the Prisons Minister after the end of the war in May 2009. The former minister stressed that on both occasions the State Minister in a state of inebriation had been armed with a pistol and was accompanied by several others. Law enforcement authorities couldn't afford not to investigate the incident, the ex-minister said, referring to the presence of a woman among the crowd that entered Welikada and they went onto visit the gallows. Prison sources said that Ratwatte had arrived at the Anuradhapura prison after being to week-long Sathi Pirith chanting ceremony at Anuradhapura sacred Mirisawetiya compound in order to invoke spiritual blessings for eradication of COVID-19 epidemic from Sri Lanka and the world. The pirith chanting culminated on the following day evening after conducting a special Buddha Pooja. Conduct a proper investigation or face the consequences,\" the former General Secretary of the Communist Party told The Island, pointing out the responsibility on the part of the ruling SLPP to conduct its own inquiry. SLPP General Secretary attorney-at-law Sagara Kariyawasam said that the matter could be taken up with Prime Minister Mahinda Rajapaksa, who is also the Chairman of the party on his return from an overseas visit. Lawmaker Kariyawasam said so when The Island asked him whether the party would initiate disciplinary action against Ratwatte. Speaker Mahinda Yapa Abeywardena, also a member of the SLPP, should brief the Parliament how he intended to address this issue, Gunasekera said. The outspoken political veteran said that the Police Headquarters should make a public statement on those incidents. Gunasekera emphasiSed that the Anuradhapura incident could have been averted if the government took tangible measures in the wake of Ratwatte's raid on Welikada prison several days before. Alleging that the Prisons Department suppressed both Welikada and Anuradhapura incidents, Gunasekera questioned the rationale in Ratwatte being allowed to avoid a proper investigation by giving up Prison Management and Prisoners' Rehabilitation portfolio and also queried how Ratwatte could be allowed to continue as the State Minister of Gem and Jewellery related Industries as if nothing had happened. I'm really disappointed and disgusted with the way the government handled Anuradhapura and Welikada affairs,\" Gunasekera said. Responding to queries, Gunasekera pointed out that the incidents placed Sri Lanka at an extremely embarrassing position at the Geneva-based United Nations Human Rights Council (UNHRC) ongoing 48th sessions. Pointing out that UN Resident Representative in Colombo Hanaa Singer as well as the Tamil National Alliance (TNA), the Tamil National People's Front (TNPF) and the Center for Policy Alternatives (CPA) roundly condemned Ratwatte's actions; Gunasekera said the government would have to face grave consequences unless a proper investigation was conducted. The government should inquire into those incidents taking into consideration the ongoing Geneva confab and the forthcoming UNGA. The former minister pointed out that the Prisons Media Spokesman and Commissioner Chandana Ekanayaka denied any knowledge of the incident. Gunasekera welcomed the Human Rights Commission of Sri Lanka (HRCSL) launching an investigation into the incidents. Nihal Chandrasiri, HRCSL's Acting Director - Research & Monitoring told The Island that the outfit initiated an inquiry on its own into the incidents that had taken place in Prisons. Three Regional Coordinating Officers of the Human Rights Commission of Sri Lanka visited Anuradhapura Prison on 15th September 2021 to investigate the incidents that took place on 12th September 2021. The Human Rights Commission of Sri Lanka will summon all the responsible parties connected to these incidents as early as possible.\" The CP heavyweight recalled how thousands of LTTE cadres and suspects brought under the military and the Prisons system at the conclusion of the war in May 2009 were protected. Those who had been campaigning against Sri Lanka at the UNHRC and the UN would exploit Ratwatte's actions, the former lawmaker said, adding that the ruling party seemed bent on causing its own destruction. Gunasekera said that recently Defence Secretary Gen. Kamal Gunaratne and IGP C.D. Wickremaratne explained measures taken by the government to eradicate the underworld especially those directing the narcotics trade from within prisons. They assured the public of safety and security. However, Ratwatte's raids on Welikada and Anuradhapura prisons underscored the reality, Gunasekera said and called on the Prisons Chief to explain his failure to address the Welikada incident. Police headquarters hasn't so far issued an official statement on incidents at Welikada and Anuradhapura. Ratwatte was sworn in as the Prison Management and Prisoners' Rehabilitation Minister in the wake of the Mahara Prison riot in late Nov 2020. Ratwatte succeeded Dr. Sudarshini Fernandoplle.",
+    "url": "http://www.lankaweb.com/news/items/2021/09/17/newsratwattes-boorish-actions-unbecoming-of-a-minister/",
+    "url_hash": "6d3bc24875472b37b77229616fa75319",
+    "ut": 1631913485,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dew Gunasekera",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte's",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12 Sept.",
+        "start_end": [
+          55,
+          57
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Welikada",
+        "start_end": [
+          76,
+          77
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "06 Sept.",
+        "start_end": [
+          79,
+          81
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          81,
+          82
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 2009",
+        "start_end": [
+          94,
+          96
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          106,
+          107
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Welikada",
+        "start_end": [
+          156,
+          157
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          169,
+          170
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          174,
+          175
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "week-long",
+        "start_end": [
+          179,
+          182
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          187,
+          188
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mirisawetiya",
+        "start_end": [
+          189,
+          190
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          203,
+          205
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Buddha Pooja",
+        "start_end": [
+          222,
+          224
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Communist Party",
+        "start_end": [
+          240,
+          243
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sagara Kariyawasam",
+        "start_end": [
+          272,
+          274
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          285,
+          287
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lawmaker Kariyawasam",
+        "start_end": [
+          304,
+          306
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          321,
+          322
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Yapa Abeywardena",
+        "start_end": [
+          324,
+          327
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          338,
+          339
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          347,
+          348
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          368,
+          369
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          372,
+          373
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          388,
+          389
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Welikada",
+        "start_end": [
+          392,
+          393
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "several days",
+        "start_end": [
+          394,
+          396
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Prisons Department",
+        "start_end": [
+          400,
+          403
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Welikada",
+        "start_end": [
+          405,
+          406
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          407,
+          408
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          410,
+          411
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          415,
+          416
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Prison Management and Prisoners' Rehabilitation",
+        "start_end": [
+          426,
+          432
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          437,
+          438
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          445,
+          446
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gem",
+        "start_end": [
+          448,
+          449
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          471,
+          472
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Welikada",
+        "start_end": [
+          473,
+          474
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          477,
+          478
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          484,
+          485
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          491,
+          493
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          500,
+          501
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United Nations Human Rights Council",
+        "start_end": [
+          503,
+          508
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "48th",
+        "start_end": [
+          512,
+          513
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN Resident Representative",
+        "start_end": [
+          518,
+          521
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tamil National Alliance",
+        "start_end": [
+          528,
+          532
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tamil National People's Front",
+        "start_end": [
+          536,
+          542
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Center for Policy Alternatives",
+        "start_end": [
+          546,
+          551
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          556,
+          557
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          560,
+          561
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          589,
+          590
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNGA",
+        "start_end": [
+          594,
+          595
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Prisons Media",
+        "start_end": [
+          603,
+          605
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandana Ekanayaka",
+        "start_end": [
+          608,
+          610
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          617,
+          618
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Human Rights Commission",
+        "start_end": [
+          619,
+          623
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          624,
+          626
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nihal Chandrasiri",
+        "start_end": [
+          636,
+          638
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Prisons",
+        "start_end": [
+          667,
+          668
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          669,
+          670
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Human Rights Commission",
+        "start_end": [
+          674,
+          678
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          679,
+          681
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura Prison",
+        "start_end": [
+          682,
+          684
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "15th",
+        "start_end": [
+          685,
+          686
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 2021",
+        "start_end": [
+          686,
+          688
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12th September 2021",
+        "start_end": [
+          696,
+          699
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Human Rights Commission",
+        "start_end": [
+          700,
+          704
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          705,
+          707
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          728,
+          729
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          730,
+          731
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 2009",
+        "start_end": [
+          749,
+          751
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          760,
+          762
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNHRC",
+        "start_end": [
+          764,
+          765
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          767,
+          768
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          770,
+          771
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          792,
+          793
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Defence",
+        "start_end": [
+          796,
+          797
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kamal Gunaratne",
+        "start_end": [
+          799,
+          801
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IGP",
+        "start_end": [
+          802,
+          803
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          836,
+          837
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Welikada",
+        "start_end": [
+          840,
+          841
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          842,
+          843
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gunasekera",
+        "start_end": [
+          848,
+          849
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Welikada",
+        "start_end": [
+          863,
+          864
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Welikada",
+        "start_end": [
+          879,
+          880
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Anuradhapura",
+        "start_end": [
+          881,
+          882
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          883,
+          884
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Prison Management and Prisoners'",
+        "start_end": [
+          888,
+          894
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late Nov 2020",
+        "start_end": [
+          905,
+          908
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratwatte",
+        "start_end": [
+          909,
+          910
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sudarshini Fernandoplle",
+        "start_end": [
+          912,
+          914
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Can Sri Lanka save GSP concessions?",
+    "source": "www.dailymirror.lk",
+    "snippet": "The whole Tamil politics seems to rely on making the government accountable to the human rights violations allegedly committed during the war between the armed forces and the Liberation Tigers of Tamil Eelam (LTTE). And the Tamil leaders have reposed their ...",
+    "url": "https://www.dailymirror.lk/opinion/Can-Sri-Lanka-save-GSP-concessions/172-220650",
+    "url_hash": "91e52850fb91125dc0bc392168315487",
+    "ut": 1631914015,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
