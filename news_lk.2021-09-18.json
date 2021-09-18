@@ -1,6 +1,100 @@
 [
   {
     "date": "2021-09-18",
+    "title": "Waiting for Rs 5,000 allowance\u2026",
+    "source": "www.dailymirror.lk",
+    "snippet": "An allowance of Rs. 5000 is distributed among the senior citizens at every district post and sub-post offices. Pictures show senior citizens are waiting in the queue at the Gampaha Main Post Office. Pix by Kushan Pathiraja .",
+    "url": "https://www.dailymirror.lk/caption_story/Waiting-for-Rs-5-000-allowance/110-220630",
+    "url_hash": "d9cc76b8fb8d9f8ea518ce980300f04f",
+    "ut": 1631923689,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "5000",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Gampaha Main Post Office",
+        "start_end": [
+          32,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kushan Pathiraja",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Latest: Judge: Gov. Lee mask opt-out endangers disabled kids",
+    "source": "www.greenwichtime.com",
+    "snippet": "A federal judge has again blocked Tennessee Gov. Bill Lee from allowing parents to opt out of school mask requirements aimed at limiting coronavirus infections. U.S. District Judge Sheryl Lipman issued a preliminary injunction on Friday for schools in Shelby County,",
+    "url": "https://www.greenwichtime.com/news/article/Latest-China-reports-62-new-cases-1-billion-16466245.php",
+    "url_hash": "a7867aa2180fd5b371298b38bcddaa3a",
+    "ut": 1631923705,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Tennessee",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill Lee",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sheryl Lipman",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Shelby County",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Sri Lanka all set for Expo 2020 Dubai",
     "source": "www.msn.com",
     "snippet": "EXPO 2020 DUBAI is the latest edition of World Expos held around the world since 1851 and will be the first ever to be held in the Middle East, Africa, and South Asia.Sri Lanka will participate in the mega-event which commences in October (1 October 2021 - 31 March 2022) and is expected to attract over 25 million visitors to Dubai during its six-month run.",
@@ -180,6 +274,390 @@
         "start_end": [
           4,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Adolescents to be vaccinated only under medical care at hospitals",
+    "source": "www.dailymirror.lk",
+    "snippet": "The adolescents will be vaccinated with Pfizer's COVID-19 jabs only at hospitals under medical care, a minister said. The government has taken a decision to give Covid jabs to all those aged between 15 and 19 following recommendations by the experts' committee appointed in this regard.",
+    "url": "https://www.dailymirror.lk/latest_news/Adolescents-to-be-vaccinated-only-under-medical-care-at-hospitals/342-220667",
+    "url_hash": "c0492e201b5175ade3a22bfb568ab286",
+    "ut": 1631934489,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 15 and 19",
+        "start_end": [
+          35,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "President leaves for USA to attend United Nations General Assembly",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has left for the USA to attend the 76th session of the United Nations General Assembly in New York. ..",
+    "url": "https://www.dailymirror.lk/latest_news/President-leaves-for-USA-to-attend-United-Nations-General-Assembly/342-220664",
+    "url_hash": "a0f700211203642b03b7965114f4643c",
+    "ut": 1631934489,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "USA",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "76th",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "4mn doses of Sinopharm vaccines arrive in SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka has today received four million doses of Sinopharm vaccines from China freighted by two SriLankan Airlines aircraft, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/4mn-doses-of-Sinopharm-vaccines-arrive-in-SL/342-220665",
+    "url_hash": "ae6a51f4289fe0cc7dd9bdf247368684",
+    "ut": 1631934489,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Navy siezed vessel carrying heroin along with nine foreigners",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Navy seized another foreign fishing vessel, carrying a large consignment of heroin, with nine foreign suspects in international waters. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Navy-siezed-vessel-carrying-heroin-along-with-nine-foreigners/108-220663",
+    "url_hash": "db3b7a8fd084c751a6ef771586008a8a",
+    "ut": 1631934489,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Four more million Sinopharm vaccine doses arrive in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka received another shipment of COVID-19 vaccines containing 04 million Sinopharm doses today (Sep. 18). Following the new development, the total number of China-made vaccines arrived in Sri Lanka has reached 26 million.",
+    "url": "http://www.adaderana.lk/news/77012/four-more-million-sinopharm-vaccine-doses-arrive-in-sri-lanka",
+    "url_hash": "efd8c326a99273cbefee1f11fa1876dc",
+    "ut": 1631934497,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "04 million",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sep. 18",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26 million",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "France recalls envoys from US and Australia in protest at submarine deal",
+    "source": "www.dailymirror.lk",
+    "snippet": "France has recalled its ambassadors from Washington and Canberra for consultations, in a diplomatic protest against a new security pact under which Australia will buy nuclear-powered submarines from the US and cancel its existing contract with Paris.",
+    "url": "https://www.dailymirror.lk/latest_news/France-recalls-envoys-from-US-and-Australia-in-protest-at-submarine-deal/342-220668",
+    "url_hash": "602c28d0b9a9f41b251a7730d4d5f1ca",
+    "ut": 1631934789,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canberra",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Paris",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Holiday surge expected after travel rules change",
+    "source": "www.bbc.co.uk",
+    "snippet": "A surge in holiday bookings is expected after the government announced on Friday that international travel rules were being simplified in England. Transport Secretary Grant Shapps said the travel traffic light system was being replaced with a single red list.",
+    "url": "https://www.bbc.co.uk/news/uk-58606870?at_medium=RSS",
+    "url_hash": "444c557c14ed8de43f48f68c4fe5651d",
+    "ut": 1631934809,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Grant Shapps",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Sri Lanka Navy detains another boat with heroin in international waters",
+    "source": "colombogazette.com",
+    "snippet": "The Sri Lanka Navy has seized another foreign fishing vessel carrying a large consignment of narcotics in international waters, and arrested nine suspects. According to the Navy, the boat was detained",
+    "url": "https://colombogazette.com/2021/09/18/sri-lanka-navy-detains-another-boat-with-heroin-in-international-waters/",
+    "url_hash": "6fd2f6b0ae262c77aa53e20a8d1c6c20",
+    "ut": 1631936438,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Navy",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
