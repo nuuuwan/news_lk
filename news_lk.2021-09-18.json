@@ -253,6 +253,41 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Adolescents to be vaccinated only under medical care at Hospitals",
+    "source": "www.dailymirror.lk",
+    "snippet": "The adolescents will be vaccinated with Pfizer's COVID-19 jabs only at hospitals under medical care, a minister said. The government has taken a decision to give Covid jabs to all those aged between 15 and 19 following recommendations by the experts' committee appointed in this regard.",
+    "url": "https://www.dailymirror.lk/breaking_news/Adolescents-to-be-vaccinated-only-under-medical-care-at-Hospitals/108-220662",
+    "url_hash": "8c376c5647073ce8ce36ee9ee74d801e",
+    "ut": 1631927324,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 15 and 19",
+        "start_end": [
+          35,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Holiday surge expected after travel rules change",
     "source": "www.msn.com",
     "snippet": "A surge in holiday bookings is expected after the government announced on Friday that international travel rules were being simplified in England. Transport Secretary Grant Shapps said the travel traffic light system was being replaced with a single red list.",
@@ -599,6 +634,124 @@
         "start_end": [
           25,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "President leaves for USA to attend United Nations General Assembly",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has left for the USA to attend the 76th session of the United Nations General Assembly in New York. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/President-leaves-for-USA-to-attend-United-Nations-General-Assembly/108-220664",
+    "url_hash": "1715cf2d7c7158ec07eadb3e56a30c8c",
+    "ut": 1631934524,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "USA",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "76th",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "4mn doses of Sinopharm vaccines arrive in SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka has today received four million doses of Sinopharm vaccines from China freighted by two SriLankan Airlines aircraft, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/4mn-doses-of-Sinopharm-vaccines-arrive-in-SL/108-220665",
+    "url_hash": "7f04c85147414402bd1a6c354d70181d",
+    "ut": 1631934524,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          16,
+          18
         ]
       }
     ]
@@ -1861,6 +2014,81 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Vaccination rollout demonstrates confidence among many countries: Edu. Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The fact that China, India, the US, Russia, and European countries have given more COVID vaccines to Sri Lanka than expected demonstrates their confidence in the country, Education Minister Dinesh Gunawardena said.",
+    "url": "https://www.dailymirror.lk/latest_news/Vaccination-rollout-demonstrates-confidence-among-many-countries-Edu-Minister/342-220671",
+    "url_hash": "2890831eae4776e0a0025e14ad8fdc25",
+    "ut": 1631945324,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "European",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardena",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Sri Lanka extends nationwide quarantine curfew till October 1",
     "source": "english.newstracklive.com",
     "snippet": "In an attempt to curb the further spread of Covid-19 in the country, Sri Lanka's Health Minister Keheliya Rambukwella said the nationwid..|News Track",
@@ -2674,6 +2902,76 @@
         "start_end": [
           7,
           9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "O2Life to support efforts in combating COVID19 in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "The Lions International District 306 C1 in collaboration with The Ceylon College of Physicians, the Sri Lanka College of Internal Medicine have joi",
+    "url": "https://menafn.com/1102812040/O2Life-to-support-efforts-in-combating-COVID19-in-Sri-Lanka&source=19",
+    "url_hash": "3cb3a73691cbf1314b4e178be2c19f14",
+    "ut": 1631964855,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Lions International District 306 C1",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ceylon College of Physicians",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka College of Internal Medicine",
+        "start_end": [
+          15,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Sri Lanka Extends nationwide Curfew Until October 1 To Limit COVID spread",
+    "source": "www.republicworld.com",
+    "snippet": "Keheliya Rambukwella stated that the nationwide quarantine curfew, which went into force in late August, has been extended until October 1 to curb COVID-19.",
+    "url": "https://www.republicworld.com/world-news/rest-of-the-world-news/sri-lanka-extends-nationwide-curfew-until-october-1-to-limit-covid-spread.html",
+    "url_hash": "51b13b6e33c1461a59f7161533ee8ea0",
+    "ut": 1631965133,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late August",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          21,
+          23
         ]
       }
     ]
