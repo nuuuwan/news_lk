@@ -6430,6 +6430,41 @@
     "title": "Ratwatte issue; EC to request Speaker to take appropriate action",
     "source": "www.dailymirror.lk",
     "snippet": "While claiming that the public will lose faith in the country's electoral system and democracy when public representatives enter prisons and intimidate inmates, the Election Commission (EC) said that it would request the Speaker in Parliament to take appropriate action in this regard.",
+    "url": "https://www.dailymirror.lk/breaking_news/Ratwatte-issue-EC-to-request-Speaker-to-take-appropriate-action/108-220604",
+    "url_hash": "3d3609832a4391f3ca8268e651b81643",
+    "ut": 1631898474,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Election Commission",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EC",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Ratwatte issue; EC to request Speaker to take appropriate action",
+    "source": "www.dailymirror.lk",
+    "snippet": "While claiming that the public will lose faith in the country's electoral system and democracy when public representatives enter prisons and intimidate inmates, the Election Commission (EC) said that it would request the Speaker in Parliament to take appropriate action in this regard.",
     "url": "https://www.dailymirror.lk/latest_news/Ratwatte-issue-EC-to-request-Speaker-to-take-appropriate-action/342-220604",
     "url_hash": "1d4d2d72dcca87e2255dd56151301582",
     "ut": 1631898475,
@@ -6561,6 +6596,65 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Latest: FDA panel to offer recommendations on booster shots",
+    "source": "www.ctpost.com",
+    "snippet": "In November, WHO indicated 65 of its staffers had tested positive for COVID-19 at the time, confirming information in an internal e-mail obtained by The Associated Press ... COLOMBO, Sri Lanka \u2014 Sri Lanka on Friday extended the COVID-19 lockdown by ...",
+    "url": "https://www.ctpost.com/business/article/Latest-China-reports-62-new-cases-1-billion-16466245.php",
+    "url_hash": "b44f58fc182c484aaa3cb6075fd0790e",
+    "ut": 1631898490,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "65",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Associated Press",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
@@ -8628,6 +8722,33 @@
     "url_hash": "002d318137a1aa387234d356e4439be0",
     "ut": 1631912889,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-17",
+    "title": "The Latest: Pfizer boosters OK for high-risk groups: panel",
+    "source": "www.wgauradio.com",
+    "snippet": "After overwhelmingly rejecting a plan to give Pfizer booster shots against COVID-19 to most Americans, an influential federal advisory panel has approved the extra shots for those who are 65 or older",
+    "url": "https://www.wgauradio.com/news/world/latest-fda-panel/RPOC45J3H772L75IKOGL3ISNKY/",
+    "url_hash": "0f08d30758c69b684efdec9527934bbd",
+    "ut": 1631912890,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "65",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
   },
   {
     "date": "2021-09-17",
