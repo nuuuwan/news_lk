@@ -809,6 +809,81 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Ambassador of Mexico celebrates historic moments, honours Mexico on its extra-special Independence Day",
+    "source": "colombogazette.com",
+    "snippet": "Mexican Independence Day - the Mexican president re-enacts El Grito, \"The Cry of Dolores\", a rallying call for independence against Spanish colonizers, by ringing the same bell as revolutionary figure Miguel Hidalgo y Costilla did back in 1810.",
+    "url": "https://colombogazette.com/2021/09/18/ambassador-of-mexico-celebrates-historic-moments-honours-mexico-on-its-extra-special-independence-day/",
+    "url_hash": "2a918aeb3d4ccccbfe72ab53ec22f0ad",
+    "ut": 1631938121,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "Mexican Independence Day",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Mexican",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "El Grito",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "The Cry of Dolores",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Spanish",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Miguel Hidalgo",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Costilla",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1810",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Four million more Sinopharm vaccine doses arrive in Sri Lanka",
     "source": "www.adaderana.lk",
     "snippet": "Following the new development, the total number of China-made vaccines arrived in Sri Lanka has reached 26 million. Earlier this month, China delivered another batch of 4 million Sinopharm vaccine doses to the island nation.",
@@ -1370,6 +1445,49 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Relief packages for 17,000 private buses from next week: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Transport Ministry has decided to provide relief packages for 17,000 private buses starting next week, Transport Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Relief-packages-for-17-000-private-buses-from-next-week-Dilum/342-220670",
+    "url_hash": "1e4f6a121c27e6bc49c0057bf72a31ad",
+    "ut": 1631941690,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Transport Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17,000",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "SL extends nationwide quarantine curfew till Oct 1",
     "source": "www.sify.com",
     "snippet": "Sri Lankas Health Minister Keheliya Rambukwella said the nationwide quarantine curfew came into effect late August, has been extended till October 1 in an effort to curb the furtherspread of Covid-19.",
@@ -1599,6 +1717,81 @@
     "url": "https://www.dailymirror.lk/breaking_news/Vaccination-rollout-demonstrates-confident-among-many-countries-Edu-Minister/108-220671",
     "url_hash": "a829a02535da877723989139d395a1ff",
     "ut": 1631945285,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "European",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardena",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Vaccination rollout demonstrates confident among many countries: Edu. Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The fact that China, India, the US, Russia, and European countries have given more COVID vaccines to Sri Lanka than expected demonstrates their confidence in the country, Education Minister Dinesh Gunawardena said.",
+    "url": "https://www.dailymirror.lk/latest_news/Vaccination-rollout-demonstrates-confident-among-many-countries-Edu-Minister/342-220671",
+    "url_hash": "4dee34b3b40ed4e05d1df9858c247655",
+    "ut": 1631945290,
     "ent_info_list": [
       {
         "label": "GPE",
@@ -1939,6 +2132,92 @@
   },
   {
     "date": "2021-09-18",
+    "title": "MP Samarasinghe to quit Parliament to take over as SL envoy in US",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Minister and current Kalutara district SLPP MP Mahinda Samarasinghe has decided to resign from his Parliamentary seat and expects to take over the post of Sri Lanka's Ambassador to the USA and Mexico.",
+    "url": "https://www.dailymirror.lk/latest_news/MP-Samarasinghe-to-quit-Parliament-to-take-over-as-SL-envoy-in-US/342-220674",
+    "url_hash": "44b9768f99a79c6e30e51339d9c46b9b",
+    "ut": 1631948890,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kalutara",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Samarasinghe",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "USA",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Expressway cashier vanished with Rs.1.4 Mn arrested",
+    "source": "www.dailymirror.lk",
+    "snippet": "The cashier attached to the Galenigama Interchange of the Southern Expressway who fled with Rs.1.4 million in cash taken from the safe of the Interchange booth office, was arrested yesterday. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Expressway-cashier-vanished-with-Rs-1-4-Mn-arrested/342-220675",
+    "url_hash": "cdb79c5b46535ae9c0058e197eae02e2",
+    "ut": 1631948890,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Galenigama Interchange",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Interchange",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Antigua and Barbuda spared amber or red listing by the UK, 'Traffic light system' to be simplified as of October 4",
     "source": "antiguaobserver.com",
     "snippet": "By Orville Williams orville.williams@antiguaobserver.com Antigua and Barbuda has been retained on the United Kingdom's 'green list' for travel into the country from abroad, a move which will be",
@@ -2132,6 +2411,97 @@
         "start_end": [
           45,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "SLN brings another Heroin loaded vessel ashore",
+    "source": "www.defence.lk",
+    "snippet": "The Sri Lankan Navy (SLN) seized foreign vessel carrying another narcotics haul of 170 kilos and 866 grams, was brought to Colombo Harbour this morning (Sep 18). Sri Lanka Navy Ship Sindurala deployed for the task under the directives of the Defence Ministry,",
+    "url": "https://www.defence.lk/Article/view_article/3976",
+    "url_hash": "97d94f47c728d6574a60fc0af32d32f1",
+    "ut": 1631958139,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lankan Navy",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLN",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "170",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "866 grams",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo Harbour",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sep 18",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sindurala",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Defence Ministry",
+        "start_end": [
+          46,
+          49
         ]
       }
     ]
