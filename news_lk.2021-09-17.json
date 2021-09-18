@@ -5856,6 +5856,57 @@
   {
     "date": "2021-09-17",
     "title": "Latest: India officials: Record doses given on PM's birthday",
+    "source": "omaha.com",
+    "snippet": "India officials say a record 21 million vaccine doses were given across the country in a special drive on Friday, a birthday gift to Prime Minister Narendra",
+    "url": "https://omaha.com/news/national/latest-sri-lanka-extends-lockdown-until-oct-1/article_d78fc21f-e83a-51cb-909f-ba507dfcfa36.html",
+    "url_hash": "fe180fb75e7f2c2a66a7b86a5fea2681",
+    "ut": 1631894884,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "a record",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Narendra",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Latest: India officials: Record doses given on PM's birthday",
     "source": "madison.com",
     "snippet": "India officials say a record 21 million vaccine doses were given across the country in a special drive on Friday, a birthday gift to Prime Minister Narendra",
     "url": "https://madison.com/news/world/latest-india-officials-record-doses-given-on-pms-birthday/article_5d45fe14-c554-5c68-aadc-01586321f35c.html",
@@ -7039,6 +7090,25 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Against the consensus view",
+    "source": "www.ft.lk",
+    "snippet": "Given the recent passing of Mangala Samaraweera, it is important to set out at least a few things so as to show disagreement with the consensus view. Samaraweera was a polarising figure with his stance on ethnic reconciliation drawing .",
+    "url": "https://www.ft.lk/columns/Against-the-consensus-view/4-723203",
+    "url_hash": "fdadb0fda09c3c47e6694d13f13aa8f8",
+    "ut": 1631905689,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Mangala Samaraweera",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Sri Lanka extends lockdown till October 1; health sector overwhelmed",
     "source": "www.southasiamonitor.org",
     "snippet": "Faced with an \"unbearable\" number of daily Covid-19 cases, the Sri Lankan government has extended the ongoing lockdown till October 01, Health Minister Keheliya Rambukwella said",
@@ -7701,6 +7771,49 @@
         "start_end": [
           0,
           4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Coronavirus: UK to begin rolling out antibody cocktail for hospitalised patients \u2014 as it happened",
+    "source": "www.ft.com",
+    "snippet": "An antibody cocktail to treat Covid-19 is to be offered to thousands of NHS patients whose bodies struggle to produce defences against the disease, the UK government has announced. Ronapreve, a combination of two monoclonal antibodies,",
+    "url": "https://www.ft.com/content/d4394e3a-6269-4e3b-908f-5d32c2b247d8?bingParse",
+    "url_hash": "c9564c58184a36f7783c61155f6d19a3",
+    "ut": 1631909289,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NHS",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]

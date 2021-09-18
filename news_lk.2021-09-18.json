@@ -661,5 +661,437 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Sri Lanka's Ceylon tea output down 1.2-pct in July 2021",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Ceylon Tea production was down 1.1 percent in July 2021 from a year earlier to 26.1 million kilograms but total output for the first seven months was up 19.6 percent from a lockdown hit 2020,",
+    "url": "https://economynext.com/sri-lankas-ceylon-tea-output-down-1-2-pct-in-july-2021-86264/",
+    "url_hash": "ff5c89c5cb295cebbcabe3aeb29e1ce4",
+    "ut": 1631938093,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "1.1 percent",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 2021",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a year earlier",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "26.1 million kilograms",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first seven months",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "19.6 percent",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Four million more Sinopharm vaccine doses arrive in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Following the new development, the total number of China-made vaccines arrived in Sri Lanka has reached 26 million. Earlier this month, China delivered another batch of 4 million Sinopharm vaccine doses to the island nation.",
+    "url": "http://www.adaderana.lk/news/77015/four-million-more-sinopharm-vaccine-doses-arrive-in-sri-lanka",
+    "url_hash": "3b4d71a76eba381d1c95472f20e0d731",
+    "ut": 1631939095,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26 million",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Earlier this month",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4 million",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Four million Sinopharm doses arrive in island",
+    "source": "www.newsfirst.lk",
+    "snippet": "Another 4 million doses of the Chinese-manufactured Sinopharm vaccine were brought to the island from Beijing, China this morning - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/18/four-million-sinopharm-doses-arrive-in-island/",
+    "url_hash": "f1157fb65544b8297dc6dc48e0113741",
+    "ut": 1631939815,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Another 4 million",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "SL extends nationwide quarantine curfew till Oct 1",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka's Health Minister Keheliya Rambukwella said the nationwide quarantine curfew came into effect late August, has been extended till October 1 in an effort to curb the furtherspread of Covid-19.",
+    "url": "https://www.msn.com/en-in/news/world/sl-extends-nationwide-quarantine-curfew-till-oct-1/ar-AAOzpUe",
+    "url_hash": "ed93df84a2dd749b1a01e4f5a14410e8",
+    "ut": 1631940295,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late August",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Oppose the police witch hunt of striking teachers in Sri Lanka!",
+    "source": "www.wsws.org",
+    "snippet": "The Criminal Investigation Department has demanded government divisional secretaries provide the names and addresses of teachers who have organised demonstrations in an attempt to break their ongoing strike action.",
+    "url": "https://www.wsws.org/en/articles/2021/09/18/slte-s18.html",
+    "url_hash": "2d7cef91eef1fb10d42359136196394c",
+    "ut": 1631940595,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Criminal Investigation Department",
+        "start_end": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Navy intercepts foreign vessel carrying large haul of heroin",
+    "source": "www.dailynews.lk",
+    "snippet": "Sri Lanka Navy seized another foreign fishing vessel, carrying a large consignment of narcotics, with 09 suspects in international waters recently. This capture was made possible by a special operation carried out after days of continuous surveillance in the high seas south of Sri Lanka,",
+    "url": "https://www.dailynews.lk/2021/09/18/local/259686/navy-intercepts-foreign-vessel-carrying-large-haul-heroin",
+    "url_hash": "438b9e04b832421afaefff8fca3ba3c8",
+    "ut": 1631940891,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "09",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          46,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Moody' s says Sri Lanka' s foreign exchange reserves are still low",
+    "source": "menafn.com",
+    "snippet": "Moody's Investors Service says Sri Lanka's foreign exchange reserves are still low. In a report today, Moody's said that on 10 September, Sri Lanka published details of its foreign currency (FX) reserves position,",
+    "url": "https://menafn.com/1102815713/Moody8217-s-says-Sri-Lanka8217-s-foreign-exchange-reserves-are-still-low",
+    "url_hash": "a06479dd5c309ac5c44739375dd188a1",
+    "ut": 1631940918,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Moody's Investors Service",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Moody's",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10 September",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FX",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "The Latest: Child among latest COVID-19 deaths in Louisiana",
+    "source": "www.sfgate.com",
+    "snippet": "A child is among the latest to die from COVID-19 in Louisiana, state health officials said Friday. Heath department figures showed the state death toll from the illness grew by 52. One of the victims was a child between the ages of 5 and 11.",
+    "url": "https://www.sfgate.com/news/article/Latest-China-reports-62-new-cases-1-billion-16466245.php",
+    "url_hash": "38e285b2b48f891efb72dcdf70004247",
+    "ut": 1631941624,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Louisiana",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "52",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between the ages of 5 and 11",
+        "start_end": [
+          41,
+          48
+        ]
+      }
+    ]
   }
 ]
