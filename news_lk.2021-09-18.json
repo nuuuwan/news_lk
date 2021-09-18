@@ -121,5 +121,67 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Holiday surge expected after travel rules change",
+    "source": "www.msn.com",
+    "snippet": "A surge in holiday bookings is expected after the government announced on Friday that international travel rules were being simplified in England. Transport Secretary Grant Shapps said the travel traffic light system was being replaced with a single red list.",
+    "url": "https://www.msn.com/en-xl/news/other/holiday-surge-expected-after-travel-rules-change/ar-AAOzaGj",
+    "url_hash": "2051e540bb747470fb7cbb00ea182af2",
+    "ut": 1631932752,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Grant Shapps",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "IRCTC to launch India's first indigenous luxury cruise liner today: 7 things to know",
+    "source": "www.livemint.com",
+    "snippet": "IRCTC said,'While travelling on Cordelia Cruises, one can enjoy lot of recreational and leisure activities such as restaurants, swimming pool, bars, open cinemas, theatre, kids area, gymnasium'",
+    "url": "https://www.livemint.com/news/india/irctc-to-launch-india-s-first-indigenous-luxury-cruise-liner-cordelia-today-7-things-to-know-11631931617859.html",
+    "url_hash": "98219c9f8a7e2543ac3a56fe4532eab9",
+    "ut": 1631932800,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "IRCTC",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Cordelia Cruises",
+        "start_end": [
+          4,
+          6
+        ]
+      }
+    ]
   }
 ]
