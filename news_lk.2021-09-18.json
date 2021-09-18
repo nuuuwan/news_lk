@@ -312,6 +312,25 @@
   },
   {
     "date": "2021-09-18",
+    "title": "The latest: FDA panel rejects plan for Pfizer booster shots",
+    "source": "www.clickorlando.com",
+    "snippet": "An influential federal advisory panel has rejected a plan to offer Pfizer booster shots against COVID-19 to most Americans.",
+    "url": "https://www.clickorlando.com/health/2021/09/17/latest-china-reports-62-new-cases-1-billion-vaccinated/",
+    "url_hash": "f8d9bb1e61753c3fe76209e62709378f",
+    "ut": 1631927274,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Adolescents to be vaccinated only under medical care at Hospitals",
     "source": "www.dailymirror.lk",
     "snippet": "The adolescents will be vaccinated with Pfizer's COVID-19 jabs only at hospitals under medical care, a minister said. The government has taken a decision to give Covid jabs to all those aged between 15 and 19 following recommendations by the experts' committee appointed in this regard.",
@@ -430,6 +449,41 @@
         "start_end": [
           4,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Holiday bookings surge after travel rules change",
+    "source": "www.bbc.co.uk",
+    "snippet": "A surge in holiday bookings is expected after the government announced on Friday that international travel rules were being simplified in England. Transport Secretary Grant Shapps said the travel traffic light system was being replaced with a single red list.",
+    "url": "https://www.bbc.co.uk/news/uk-58606870",
+    "url_hash": "19c1f8ce2eab63b71b4432a99011a3ca",
+    "ut": 1631934478,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Grant Shapps",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
@@ -2972,6 +3026,33 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Holiday prices are slashed following latest travel update",
+    "source": "www.express.co.uk",
+    "snippet": "TRAVEL bosses have unleashed a sales bonanza by slashing the costs of holidays following the Government's announcement last night that strict travel rules would be scrapped.",
+    "url": "https://www.express.co.uk/travel/articles/1493031/holiday-prices-sale-travel-getaway-government-rules",
+    "url_hash": "255b509784dd1cec5cf25b9bc2f9d0d6",
+    "ut": 1631952465,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last night",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Proposal to get MBBS degree at the age of 22: Dr. Kolabage",
     "source": "www.dailymirror.lk",
     "snippet": "A proposal has already been made to create a Bachelor of Medicine, Bachelor of Surgery (MBBS) degree and become a fully qualified doctor by the time the person turns 22 years of age, Government Medical Officers' Association (GMOA) General Committee Member Dr.",
@@ -4008,6 +4089,25 @@
     "title": "20-30 age group deceived by myth prefer 'super vaccine'",
     "source": "www.dailymirror.lk",
     "snippet": "Due to a belief in a super vaccine, intimidation of people and by various parties spreading malicious myths about the effects of vaccination, people between the ages of 20 and 30 do not go for it, whereas it is not due lack of interest in getting the vaccine,",
+    "url": "https://www.dailymirror.lk/latest_news/20-30-age-group-deceived-by-myth-prefer-super-vaccine/342-220680",
+    "url_hash": "479a97ac9e17ace8eaa1dd6174225b60",
+    "ut": 1631977657,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "between the ages of 20 and 30",
+        "start_end": [
+          26,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "20-30 age group deceived by myth prefer 'super vaccine'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Due to a belief in a super vaccine, intimidation of people and by various parties spreading malicious myths about the effects of vaccination, people between the ages of 20 and 30 do not go for it, whereas it is not due lack of interest in getting the vaccine,",
     "url": "https://www.dailymirror.lk/breaking_news/20-30-age-group-deceived-by-myth-prefer-super-vaccine/108-220680",
     "url_hash": "866d54c108493e0ba96ce645f2215125",
     "ut": 1631977726,
@@ -4069,6 +4169,33 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Navy seizes150 kg of heroin off southern coast",
+    "source": "www.ft.lk",
+    "snippet": "The large volume of heroin seized during the most recent naval operation in the international seas off the southern coast of the island weighs nearly 150 kilograms, Sri Lanka Navy revealed. ..",
+    "url": "https://www.ft.lk/ft_tv/Navy-seizes150-kg-of-heroin-off-southern-coast/10520-723237",
+    "url_hash": "16e93ea3bec03ea7b528ebc2d4855e90",
+    "ut": 1631981278,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "nearly 150 kilograms",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          28,
+          31
         ]
       }
     ]
