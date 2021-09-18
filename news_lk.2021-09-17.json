@@ -4124,6 +4124,57 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Sri Lanka anti-COVID-19 measures to cost $550 million: Jayasundera",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's anti-Covid-19 measures including vaccination, tests, and oxygen is expected to cost 550 million US dollars and more than 80 percent will be financed by the World Bank and Asian Development Bank,",
+    "url": "https://economynext.com/sri-lanka-anti-covid-19-measures-to-cost-550-million-jayasundera-86254/",
+    "url_hash": "5febdc119c0753ee738aaa694d5017e2",
+    "ut": 1631870345,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "550 million US dollars",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "more than 80 percent",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Bank",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Asian Development Bank",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "British retail sales fall unexpectedly in August - business live",
     "source": "www.theguardian.com",
     "snippet": "Rolling coverage of the latest economic and financial news",
@@ -6738,6 +6789,49 @@
         "start_end": [
           27,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Abans donates LG Anti-Virus Dual Cool Inverter air conditioners to Meethotamulla Covid-19 Intermediate Care Centre",
+    "source": "www.dailymirror.lk",
+    "snippet": "Abans recently launched the 'Pivithuru Husmak - Saukkyarakshitha Hetak' initiative by donating LG Anti-Virus Dual Cool Inverter air conditioners to the Meethotamulla Intermediate Care Centre operating under the National Hospital of Colombo,",
+    "url": "https://www.dailymirror.lk/other/Abans-donates-LG-Anti-Virus-Dual-Cool-Inverter-air-conditioners-to-Meethotamulla-Covid-19-Intermediate-Care-Centre/117-220624",
+    "url_hash": "cea8dd2399ec15462eb2d00590801a85",
+    "ut": 1631906337,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Abans",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "LG Anti-Virus Dual Cool Inverter",
+        "start_end": [
+          14,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Meethotamulla Intermediate Care Centre",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Hospital of Colombo",
+        "start_end": [
+          31,
+          36
         ]
       }
     ]
