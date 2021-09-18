@@ -288,6 +288,33 @@
   },
   {
     "date": "2021-09-18",
+    "title": "The Latest: Pfizer boosters OK for high-risk groups: panel",
+    "source": "www.chron.com",
+    "snippet": "After overwhelmingly rejecting a plan to give Pfizer booster shots against COVID-19 to most Americans, an influential federal advisory panel has approved the extra shots for those who are 65 or older or run a high risk of severe disease.",
+    "url": "https://www.chron.com/news/article/Latest-China-reports-62-new-cases-1-billion-16466245.php",
+    "url_hash": "ddf80e0203c92fc7fbbb9409c7184d60",
+    "ut": 1631927346,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "65",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Holiday surge expected after travel rules change",
     "source": "www.msn.com",
     "snippet": "A surge in holiday bookings is expected after the government announced on Friday that international travel rules were being simplified in England. Transport Secretary Grant Shapps said the travel traffic light system was being replaced with a single red list.",
@@ -3324,6 +3351,41 @@
     "title": "Health Ministry not consulted when taking decision to reopen liquor shops: Deputy DG",
     "source": "www.dailymirror.lk",
     "snippet": "The decision to reopen liquor shops has been taken without the consultation of the Health Ministry, Deputy Director General of Health Services Dr Hemantha Herath said today. ..",
+    "url": "https://www.dailymirror.lk/top_story/Health-Ministry-not-consulted-when-taking-decision-to-reopen-liquor-shops-Deputy-DG/155-220677",
+    "url_hash": "51958f693a10a63eb2dba9b0467ae1c0",
+    "ut": 1631963326,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services Dr Hemantha Herath",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Health Ministry not consulted when taking decision to reopen liquor shops: Deputy DG",
+    "source": "www.dailymirror.lk",
+    "snippet": "The decision to reopen liquor shops has been taken without the consultation of the Health Ministry, Deputy Director General of Health Services Dr Hemantha Herath said today. ..",
     "url": "https://www.dailymirror.lk/breaking_news/Health-Ministry-not-consulted-when-taking-decision-to-reopen-liquor-shops-Deputy-DG/108-220677",
     "url_hash": "516951f15f113b10481f846058a4c97b",
     "ut": 1631963362,
@@ -3637,6 +3699,89 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Covid-19 death toll exceeds 12,000",
+    "source": "www.dailymirror.lk",
+    "snippet": "The total number of COVID-19 deaths in Sri Lanka exceeded 12,000 with 84 more deaths being reported today. A total of 84 more COVID-19 related deaths that occurred yesterday (17) were confirmed by the Director-General of Health Services today pushing the death toll to 12,",
+    "url": "https://www.dailymirror.lk/breaking_news/Covid-19-death-toll-exceeds-12-000/108-220681",
+    "url_hash": "d69fd762f02c6432c657bcb88724c6b9",
+    "ut": 1631974126,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12,000",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "84",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "84",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Sri Lanka receives 20 state-of-the-art railway passenger coaches from India",
     "source": "www.outlookindia.com",
     "snippet": "Sri Lanka has received 20 state-of-the-art custom-made train coaches from India as a part of the over USD 82 million contract signed between the two countries under which India will assist the island nation in the development of its railway infrastructure.",
@@ -3688,6 +3833,25 @@
   },
   {
     "date": "2021-09-18",
+    "title": "20-30 age group deceived by myth prefer 'super vaccine'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Due to a belief in a super vaccine, intimidation of people and by various parties spreading malicious myths about the effects of vaccination, people between the ages of 20 and 30 do not go for it, whereas it is not due lack of interest in getting the vaccine,",
+    "url": "https://www.dailymirror.lk/breaking_news/20-30-age-group-deceived-by-myth-prefer-super-vaccine/108-220680",
+    "url_hash": "866d54c108493e0ba96ce645f2215125",
+    "ut": 1631977726,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "between the ages of 20 and 30",
+        "start_end": [
+          26,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Who's going to share the new ball with Dushmantha Chameera?",
     "source": "www.islandcricket.lk",
     "snippet": "Who's going to share the new ball with Dushmantha Chameera? Before starting, in yesterday's article I mentioned Minod Bhanuka in my team but you guys chose Chandimal over Minod. By batting records you",
@@ -3733,6 +3897,116 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Sri Lanka receives 20 state-of-the-art railway passenger coaches from India",
+    "source": "www.newindianexpress.com",
+    "snippet": "The 20 coaches supplied by the state-run Rail India Technical and Economic Service (RITES) Ltd reached Colombo Port on Friday, the Indian High Commission here said on Saturday.",
+    "url": "https://www.newindianexpress.com/world/2021/sep/18/sri-lanka-receives-20-state-of-the-art-railway-passenger-coaches-from-india-2360631.html",
+    "url_hash": "574b1f9b21e183a73651377f4db63927",
+    "ut": 1631981336,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rail India Technical and Economic Service (RITES) Ltd",
+        "start_end": [
+          9,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo Port",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian High Commission",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Samarasinghe to be appointed Sri Lanka's envoy to US",
+    "source": "colombogazette.com",
+    "snippet": "Parliamentarian Mahinda Samarasinghe is to be appointed as Sri Lanka's new Ambassador to the US. Sources confirmed to Colombo Gazette that Samarasinghe will resign from his seat in Parliament to take on the new post.",
+    "url": "https://colombogazette.com/2021/09/18/samarasinghe-to-be-appointed-sri-lankas-envoy-to-us/",
+    "url_hash": "b3ed09b3fe7af02bd905aa31366e5bfc",
+    "ut": 1631984419,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian Mahinda Samarasinghe",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo Gazette",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
