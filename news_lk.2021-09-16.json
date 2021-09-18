@@ -6811,6 +6811,97 @@
   },
   {
     "date": "2021-09-16",
+    "title": "NZ abandons cricket tour of Pakistan over security concerns",
+    "source": "www.islandpacket.com",
+    "snippet": "New Zealand abandoned its cricket tour of Pakistan on Friday over security concerns that mystified the hosts, just before the Black Caps' first scheduled match in Pakistan in 18 years. New Zealand Cricket said it received a security alert from its government and made the decision to cancel the tour just moments before the scheduled start of the one-day international series in Rawalpindi.",
+    "url": "https://www.islandpacket.com/news/nation-world/world/article254309488.html",
+    "url_hash": "065dc7417434ac1d71e0b1e86dd9bf8e",
+    "ut": 1631833686,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Black Caps'",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "18 years",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Zealand Cricket",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          61,
+          64
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rawalpindi",
+        "start_end": [
+          67,
+          68
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-16",
     "title": "Colombo light rail MoU signed in South Korea",
     "source": "www.lankaweb.com",
     "snippet": "KCI Metro Link Korea Co and the GBK Consortium of more than 15 South Korean companies have signed a memorandum of understanding to undertake a feasibility study for a light rail line running north from Colombo to Bandaranaike International Airport and Negombo,",

@@ -4610,6 +4610,57 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Sri Lanka splits oil blocks to fire demand, BellGeospace to give data",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has split its oil offshore exploration blocks from an original 20 to 873 to make them smaller and make it cheaper for oil companies to prospect, Energy Minister Udaya Gammanpila said.",
+    "url": "https://economynext.com/sri-lanka-splits-oil-blocks-to-fire-demand-bellgeospace-to-give-data-86274/",
+    "url_hash": "f9fad03272e93d6076f226812656695a",
+    "ut": 1631988502,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "873",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Energy",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Udaya Gammanpila",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Russia And China Are Looking To Tap Afghanistan's $1 Trillion Resource Reserves",
     "source": "oilprice.com",
     "snippet": "The end of America's 20-year war in Afghanistan has opened up an opportunity for China and Russia to tap the country's vast mineral wealth",
@@ -4746,6 +4797,41 @@
         "start_end": [
           52,
           53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Tug of War is and hopes to be an anti-colonial film: Filmmaker Amil Shivji",
+    "source": "www.financialexpress.com",
+    "snippet": "It is two completely different stories and two different histories. One is from the oppressed and one from the oppressor.",
+    "url": "https://www.financialexpress.com/entertainment/tug-of-war-is-and-hopes-to-be-an-anti-colonial-film-filmmaker-amil-shivji/2332847/",
+    "url_hash": "b492e34164f5a5a658eb321ccfee8965",
+    "ut": 1631999286,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          11,
+          12
         ]
       }
     ]
