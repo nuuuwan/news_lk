@@ -7922,6 +7922,68 @@
   },
   {
     "date": "2021-09-17",
+    "title": "Scotland's travel traffic light system changed but no easing of Covid testing",
+    "source": "www.yorkpress.co.uk",
+    "snippet": "Scotland will end its current traffic light system for international travel, but will not follow England in further easing Covid-19 testing for those entering the country, the Scottish Government has said.",
+    "url": "https://www.yorkpress.co.uk/news/national/19589285.scotlands-travel-traffic-light-system-changed-no-easing-covid-testing/",
+    "url_hash": "fabf1bfe9923a230cf259b4c952b6522",
+    "ut": 1631909273,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Scotland",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Scottish Government",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
+    "title": "The Latest: FDA panel rejects plan for Pfizer booster shots",
+    "source": "madison.com",
+    "snippet": "An influential federal advisory panel has overwhelmingly rejected a plan to offer Pfizer booster shots against COVID-19 to most Americans, dealing a heavy blow to the Biden administration's",
+    "url": "https://madison.com/news/world/latest-us-to-spend-2-1b-to-improve-infection-control/article_5d45fe14-c554-5c68-aadc-01586321f35c.html",
+    "url_hash": "e2c225c44f5fcb257714d48776689a2c",
+    "ut": 1631909273,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "Lanka IOC supports Education Ministry for digital mode learning",
     "source": "www.dailymirror.lk",
     "snippet": "School education during these pandemic times has shifted to digital mode and is heavily dependent on smart mobile phones. Underscoring, the e-learning need of school children of the society, mainly coming from lower income group families,",
@@ -8873,6 +8935,57 @@
     "url_hash": "5868d06f9e5b8b64a7640a343bacee2b",
     "ut": 1631912873,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-17",
+    "title": "Govt. to expedite PCR testing at airport for expatriate Lankans and tourists",
+    "source": "www.ft.lk",
+    "snippet": "The Government has decided to expedite PCR testing at the Bandaranaike International Airport for returning expatriates as well as tourists, following a discussion held at the Health Ministry. Sri Lankans returning from abroad will be sent direct to their homes within a few hours according to the results of an expedited PCR test conducted at the airport.",
+    "url": "https://www.ft.lk/front-page/Govt-to-expedite-PCR-testing-at-airport-for-expatriate-Lankans-and-tourists/44-723231",
+    "url_hash": "bf848143609950ea589cbdc04776340d",
+    "ut": 1631912877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "a few hours",
+        "start_end": [
+          43,
+          46
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          53,
+          54
+        ]
+      }
+    ]
   },
   {
     "date": "2021-09-17",

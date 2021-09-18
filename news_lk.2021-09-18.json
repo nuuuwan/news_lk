@@ -1,6 +1,65 @@
 [
   {
     "date": "2021-09-18",
+    "title": "DMT, RGD granted permission to operate- Army Commander",
+    "source": "www.msn.com",
+    "snippet": "Permission was granted for the functioning of the Department of Motor Traffic (DMT) and the Registrar General's Department (RGD), said Chief of Defence Staff, Army Commander and Head, National Operations Centre for Prevention of COVID-19 Outbreak (NOCPCO) General Shavendra Silva.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/dmt-rgd-granted-permission-to-operate-army-commander/ar-AAOzdGP",
+    "url_hash": "239d877f604640c0a7621af29a410da3",
+    "ut": 1631923664,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Department of Motor Traffic",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Defence Staff",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Operations Centre for Prevention",
+        "start_end": [
+          36,
+          41
+        ]
+      },
+      {
+        "label": "LANGUAGE",
+        "text": "Outbreak",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Waiting for Rs 5,000 allowance\u2026",
     "source": "www.dailymirror.lk",
     "snippet": "An allowance of Rs. 5000 is distributed among the senior citizens at every district post and sub-post offices. Pictures show senior citizens are waiting in the queue at the Gampaha Main Post Office. Pix by Kushan Pathiraja .",
@@ -4048,6 +4107,16 @@
   },
   {
     "date": "2021-09-18",
+    "title": "President wanted me to be fearless - Minsters expected a puppet - Thushan Gunawardena",
+    "source": "www.hirunews.lk",
+    "snippet": "He said that he will write a detailed letter to the President regarding all information known to him when he leaves. However, he stated that the best course of action is to further support the President to eradicate corruption and the corrupt practises.",
+    "url": "https://www.hirunews.lk/english/282599/president-wanted-me-to-be-fearless-minsters-expected-a-puppet-thushan-gunawardena",
+    "url_hash": "e2e50ed932de546e3abbe32bac5f4431",
+    "ut": 1631984877,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-18",
     "title": "Japan to allow re-entry to returnees from Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "In a major change to border-control measures, Japan will from Monday allow re-entry to all returnees from six countries, including Sri Lanka, the Japan Times reported. The six countries \u2014 Afghanistan,",
@@ -4122,5 +4191,131 @@
     "url_hash": "54895f2c76fca4abc0608b715bf2619a",
     "ut": 1631986713,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-18",
+    "title": "The Latest: American Samoa reports first case of coronavirus",
+    "source": "www.sunherald.com",
+    "snippet": "American Samoa reported its first case of coronavirus on Friday. The U.S. territory's acting governor and health officials said the islands' first case of COVID-19 was of a resident who returned to America Samoa from Hawaii this week.",
+    "url": "https://www.sunherald.com/news/business/article254308678.html",
+    "url_hash": "82529a5f2fd7877afc481b44097e1d8f",
+    "ut": 1631988473,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "American Samoa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "America Samoa",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hawaii",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Sri Lanka splits oil blocks to 873 to fire demand, BellGeospace to give data",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has split its oil offshore exploration blocks from an original 20 to 873 to make them smaller and make it cheaper for oil companies to prospect, Energy Minister Udaya Gammanpila said.",
+    "url": "https://economynext.com/sri-lanka-splits-oil-blocks-to-873-to-fire-demand-bellgeospace-to-give-data-86274/",
+    "url_hash": "4529d1450a1f42328fe6d76736dec358",
+    "ut": 1631988481,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "873",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Energy",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Udaya Gammanpila",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
   }
 ]
