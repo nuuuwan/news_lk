@@ -761,6 +761,180 @@
     "title": "France recalls envoys from US and Australia in protest at submarine deal",
     "source": "www.dailymirror.lk",
     "snippet": "France has recalled its ambassadors from Washington and Canberra for consultations, in a diplomatic protest against a new security pact under which Australia will buy nuclear-powered submarines from the US and cancel its existing contract with Paris.",
+    "url": "https://www.dailymirror.lk/breaking_news/France-recalls-envoys-from-US-and-Australia-in-protest-at-submarine-deal/108-220668",
+    "url_hash": "cf50d21b25e6c863614c63c3737b51e0",
+    "ut": 1631934562,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canberra",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Paris",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "New Zealand men abandon Pakistan tour",
+    "source": "colombogazette.com",
+    "snippet": "New Zealand's men team have abandoned their tour of Pakistan following a New Zealand government \"security alert\". The Black Caps were due to play Pakistan in the first of three one-day internationals in Rawalpindi on Friday before moving to Lahore for a five-match Twenty20 series.",
+    "url": "https://colombogazette.com/2021/09/18/new-zealand-men-abandon-pakistan-tour/",
+    "url_hash": "71d34f9900f5c2dd6f18cec78ac39d4d",
+    "ut": 1631934596,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Zealand's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "The Black Caps",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rawalpindi",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Lahore",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Twenty20 series",
+        "start_end": [
+          51,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "France recalls envoys from US and Australia in protest at submarine deal",
+    "source": "www.dailymirror.lk",
+    "snippet": "France has recalled its ambassadors from Washington and Canberra for consultations, in a diplomatic protest against a new security pact under which Australia will buy nuclear-powered submarines from the US and cancel its existing contract with Paris.",
     "url": "https://www.dailymirror.lk/latest_news/France-recalls-envoys-from-US-and-Australia-in-protest-at-submarine-deal/342-220668",
     "url_hash": "602c28d0b9a9f41b251a7730d4d5f1ca",
     "ut": 1631934789,
@@ -2124,6 +2298,81 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Vaccination rollout demonstrates confidence among many countries: Edu. Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The fact that China, India, the US, Russia, and European countries have given more COVID vaccines to Sri Lanka than expected demonstrates their confidence in the country, Education Minister Dinesh Gunawardena said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Vaccination-rollout-demonstrates-confidence-among-many-countries-Edu-Minister/108-220671",
+    "url_hash": "4d2118be09082b862575e03cf310010f",
+    "ut": 1631945362,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "European",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardena",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Four million more Sinopharm vaccine doses arrive in Sri Lanka",
     "source": "www.adaderana.lk",
     "snippet": "Following the new development, the total number of China-made vaccines arrived in Sri Lanka has reached 26 million. Earlier this month, China delivered another batch of 4 million Sinopharm vaccine doses to the island nation.",
@@ -2822,6 +3071,65 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Elected Sri Lanka ruling party MP resigns to take up diplomatic posting in US: source",
+    "source": "economynext.com",
+    "snippet": "Elected ruling Sri Lanka Podujana Peramuna (SLPP) parliamentarian Mahinda Samarasinghe has decided to vacate his seat and take up an ambassador post in the United States, a source close to the MP said on Saturday (18).",
+    "url": "https://economynext.com/elected-sri-lanka-ruling-party-mp-resigns-to-take-up-diplomatic-posting-in-us-source-86272/",
+    "url_hash": "cec7bfcee0286ed4a652ae69b5fa6a61",
+    "ut": 1631959772,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Podujana Peramuna",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Samarasinghe",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Elected Sri Lanka ruling party MP to resign for diplomatic posting in US: source",
     "source": "economynext.com",
     "snippet": "Elected ruling Sri Lanka Podujana Peramuna (SLPP) parliamentarian Mahinda Samarasinghe has decided to vacate his seat and take up an ambassador post in the United States, a source close to the MP said on Saturday (18).",
@@ -2908,6 +3216,41 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Health Ministry not consulted when taking decision to reopen liquor shops: Deputy DG",
+    "source": "www.dailymirror.lk",
+    "snippet": "The decision to reopen liquor shops has been taken without the consultation of the Health Ministry, Deputy Director General of Health Services Dr Hemantha Herath said today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Health-Ministry-not-consulted-when-taking-decision-to-reopen-liquor-shops-Deputy-DG/108-220677",
+    "url_hash": "516951f15f113b10481f846058a4c97b",
+    "ut": 1631963362,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Services Dr Hemantha Herath",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "O2Life to support efforts in combating COVID19 in Sri Lanka",
     "source": "menafn.com",
     "snippet": "The Lions International District 306 C1 in collaboration with The Ceylon College of Physicians, the Sri Lanka College of Internal Medicine have joi",
@@ -2972,6 +3315,33 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Sri Lanka Navy detains another boat with heroin in international waters",
+    "source": "menafn.com",
+    "snippet": "(MENAFN - Colombo Gazette) The Sri Lanka Navy has seized another foreign fishing vessel carrying a large consignment of narcotics in international waters, and arrested nine suspects. According to ...",
+    "url": "https://menafn.com/1102817668/Sri-Lanka-Navy-detains-another-boat-with-heroin-in-international-waters",
+    "url_hash": "94cb443efc75bb27eb53177b213774fa",
+    "ut": 1631969816,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Navy",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]

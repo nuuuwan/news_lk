@@ -6757,6 +6757,57 @@
   },
   {
     "date": "2021-09-17",
+    "title": "SL removed from UK's red list",
+    "source": "www.dailymirror.lk",
+    "snippet": "The United Kingdom has removed Sri Lanka from its red travel list with effect from 4 am on2, Sri Lankan High Commission in London announced. ..",
+    "url": "https://www.dailymirror.lk/top_story/SL-removed-from-UKs-red-list/155-220617",
+    "url_hash": "adb369a4e90b872225eca8c67065b4fc",
+    "ut": 1631898562,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United Kingdom",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "4 am",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan High Commission",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-17",
     "title": "England simplifies COVID-19 travel rules bashed as confusing",
     "source": "apnews.com",
     "snippet": "The British government announced a major simplification of its rules for international travel on Friday, heeding complaints from travelers and businesses that its regulations aimed at staving off the spread of COVID-19 were cumbersome and ineffective.",
