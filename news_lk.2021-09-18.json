@@ -218,6 +218,41 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Adolescents to be vaccinated only under medical care at Hospitals",
+    "source": "www.dailymirror.lk",
+    "snippet": "The adolescents will be vaccinated with Pfizer's COVID-19 jabs only at hospitals under medical care, a minister said. The government has taken a decision to give Covid jabs to all those aged between 15 and 19 following recommendations by the experts' committee appointed in this regard.",
+    "url": "https://www.dailymirror.lk/latest_news/Adolescents-to-be-vaccinated-only-under-medical-care-at-Hospitals/342-220662",
+    "url_hash": "5fa484b82a195ffd952ee2d6f6d31e51",
+    "ut": 1631927273,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 15 and 19",
+        "start_end": [
+          35,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Holiday surge expected after travel rules change",
     "source": "www.msn.com",
     "snippet": "A surge in holiday bookings is expected after the government announced on Friday that international travel rules were being simplified in England. Transport Secretary Grant Shapps said the travel traffic light system was being replaced with a single red list.",
@@ -1789,6 +1824,65 @@
     "title": "20 train compartments arrive under Indian aid: GMR",
     "source": "www.dailymirror.lk",
     "snippet": "The Railways Department yesterday received 20 railway compartments out of 160 passenger coaches under Indian aid, the Railways General Manager, Dhammika Jayasundara said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/20-train-compartments-arrive-under-Indian-aid-GMR/342-220672",
+    "url_hash": "a1a21f54072ed7e43596fad647a2f22d",
+    "ut": 1631948873,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Railways Department",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "160",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dhammika Jayasundara",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "20 train compartments arrive under Indian aid: GMR",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Railways Department yesterday received 20 railway compartments out of 160 passenger coaches under Indian aid, the Railways General Manager, Dhammika Jayasundara said. ..",
     "url": "https://www.dailymirror.lk/breaking_news/20-train-compartments-arrive-under-Indian-aid-GMR/108-220672",
     "url_hash": "fb0765488f6de85476c4a67cbaeab1ad",
     "ut": 1631948885,
@@ -1882,6 +1976,162 @@
         "start_end": [
           11,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "SL extends nationwide quarantine curfew till Oct 1",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka's Health Minister Keheliya Rambukwella said the nationwide quarantine curfew came into effect late August, has",
+    "url": "https://menafn.com/1102817769/SL-extends-nationwide-quarantine-curfew-till-Oct-1",
+    "url_hash": "6916641fe881e266ab1ac45573d0a0fb",
+    "ut": 1631952483,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late August",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Holiday surge expected after travel rules change",
+    "source": "www.bbc.com",
+    "snippet": "A surge in holiday bookings is expected after the government announced on Friday that international travel rules were being simplified in England. Transport Secretary Grant Shapps said the travel traffic light system was being replaced with a single red list.",
+    "url": "https://www.bbc.com/news/uk-58606870?at_custom4=B3B64868-182A-11EC-AB28-AFD94744363C&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom1=%5Bpost+type%5D",
+    "url_hash": "4b6f9e91839a3f47d95ae09ccde57f94",
+    "ut": 1631952497,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Grant Shapps",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Sri Lanka extends nationwide quarantine curfew till October 1",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka`s Health Minister Keheliya Rambukwella said the nationwide quarantine curfew came into effect late August, has been extended till October 1 in an effort to curb the furtherspread of COVID-19.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-extends-nationwide-quarantine-curfew-till-october-1/ar-AAOzHqs",
+    "url_hash": "5e651907dacde00e399aaffc67ee331e",
+    "ut": 1631952543,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late August",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Proposal to get MBBS degree at the age of 22: Dr. Kolabage",
+    "source": "www.dailymirror.lk",
+    "snippet": "A proposal has already been made to create a Bachelor of Medicine, Bachelor of Surgery (MBBS) degree and become a fully qualified doctor by the time the person turns 22 years of age, Government Medical Officers' Association (GMOA) General Committee Member Dr.",
+    "url": "https://www.dailymirror.lk/latest_news/Proposal-to-get-MBBS-degree-at-the-age-of-22-Dr-Kolabage/342-220673",
+    "url_hash": "d91dc774abd1fe67b748614fc84cc3f7",
+    "ut": 1631952773,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "a Bachelor of Medicine, Bachelor of Surgery (MBBS",
+        "start_end": [
+          8,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "22 years of age",
+        "start_end": [
+          32,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government Medical Officers' Association",
+        "start_end": [
+          37,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "General Committee",
+        "start_end": [
+          45,
+          47
         ]
       }
     ]
