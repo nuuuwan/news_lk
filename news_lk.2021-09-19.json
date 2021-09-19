@@ -1217,5 +1217,182 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Hambantota Mayor arrested over assault in Bambalapitiya",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Bambalapitiya Police has arrested Hambantota Mayor Eraj Fernando in connection with an alleged assault, Police Spokesman SSP Nihal Thalduwa said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Hambantota-Mayor-arrested-over-assault-in-Bambalapitiya/108-220687",
+    "url_hash": "e1764766e41c0d2be55aa65714e11bc9",
+    "ut": 1632031674,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Bambalapitiya Police",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Eraj Fernando",
+        "start_end": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "SL receives 4 mnn doses of Sinopharm vaccines",
+    "source": "www.daijiworld.com",
+    "snippet": "Sri Lankan authorities have received 4 million doses of the Chinese Sinopharm vaccines as a mass inoculation program against Covid-19 is presently underway in the island nation. The vaccines arrived at Colombo's Bandaranaike International Airport onboard two Sri Lankan Airlines flights from",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=874939",
+    "url_hash": "89079e92c04b2c01c24f1897ed00ace3",
+    "ut": 1632035043,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Bandaranaike International Airport",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Airlines",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Sri Lanka has long surpassed WHO vaccination targets",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka has long surpassed the vaccination target of the World Health Organisation (WHO) with over 50% of the population now been fully vaccinated, the world body said. WHO has called for all countries to vaccinate 10% of their population by the end of September and 40% by the end of the year.",
+    "url": "https://colombogazette.com/2021/09/19/sri-lanka-has-long-surpassed-who-vaccination-targets/",
+    "url_hash": "64b85a1a60f9e0a63bc814e3a2c3c58f",
+    "ut": 1632035064,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Health Organisation",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "over 50%",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WHO",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "10%",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of September",
+        "start_end": [
+          47,
+          51
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "40%",
+        "start_end": [
+          52,
+          54
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of the year",
+        "start_end": [
+          55,
+          60
+        ]
+      }
+    ]
   }
 ]
