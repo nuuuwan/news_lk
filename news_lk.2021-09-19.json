@@ -729,6 +729,57 @@
   },
   {
     "date": "2021-09-19",
+    "title": "SL receives 120,000 doses of Sputnik V vaccine",
+    "source": "www.dailymirror.lk",
+    "snippet": "A consignment of 120,000 vials of second dose of the Russian-made Sputnik V COVID-19 vaccines was brought to the country this morning. ..",
+    "url": "https://www.dailymirror.lk/latest_news/SL-receives-120-000-doses-of-Sputnik-V-vaccine/342-220683",
+    "url_hash": "22a761a983345cbf12ba829959bd19d3",
+    "ut": 1632020872,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "120,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sputnik V COVID-19",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "President arrives in New York",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa arrived in New York to attend the 76th United Nations' General Assembly (UNGA) Session. ..",
@@ -860,6 +911,132 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Selectors have a freehand to groom a future Sri Lanka team says Minister Namal",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sports Minister Namal Rajapaksa claimed that unlike in the past, the Ministry does not interfere in selection matters when it comes to picking the Sri Lanka cricket team.His comments come days after Sri Lanka won the ODI series 2-1 and lost the T20 series 0-3 against South Africa.",
+    "url": "https://www.islandcricket.lk/news/selectors-have-a-freehand-to-groom-a-future-sri-lanka-team-says-minister-namal/",
+    "url_hash": "c8837388887dee1b9b96dc16bc7c01ad",
+    "ut": 1632024482,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ministry",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "come days",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ODI",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "0-3",
+        "start_end": [
+          49,
+          52
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          53,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Imported milk powder to go up by Rs. 200?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following discussions with Finance Minister Basil Rajapaksa yesterday, it has come to a conclusion with the milk powder importers to increase the price of 1 kg of imported milk power by Rs.200. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Imported-milk-powder-to-go-up-by-Rs-200/342-220685",
+    "url_hash": "7733a44bd9b1f3ed14dbc1f59067ff03",
+    "ut": 1632024712,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "1 kg",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
