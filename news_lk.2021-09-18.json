@@ -4104,6 +4104,25 @@
   },
   {
     "date": "2021-09-18",
+    "title": "The Latest: Pfizer boosters OK for high-risk groups: panel",
+    "source": "www.kansas.com",
+    "snippet": "The federal government is spending $2.1 billion to improve infection control procedures in health care settings, aimed at preventing the transmission of diseases inside hospitals, dialysis centers and other facilities.",
+    "url": "https://www.kansas.com/news/article254308678.html",
+    "url_hash": "9cf146e301be9138bc64892c86349e2d",
+    "ut": 1631975421,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "$2.1 billion",
+        "start_end": [
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "Sri Lanka receives 20 state-of-the-art railway passenger coaches from India",
     "source": "www.outlookindia.com",
     "snippet": "Sri Lanka has received 20 state-of-the-art custom-made train coaches from India as a part of the over USD 82 million contract signed between the two countries under which India will assist the island nation in the development of its railway infrastructure.",
@@ -5071,6 +5090,49 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "Woman IFS officer from Kerala's Kasaragod is new ambassador to Poland",
+    "source": "www.newindianexpress.com",
+    "snippet": "Malayalis elsewhere may refrain from 'uttering a word on Poland' but Kasaragod may have found a new love for the central European country.",
+    "url": "https://www.newindianexpress.com/good-news/2021/sep/19/woman-ifs-officer-from-keralaskasaragodis-new-ambassador-to-poland-2360719.html",
+    "url_hash": "1c1372ade5951a0a5c3776db214b037d",
+    "ut": 1632004226,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Malayalis",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Poland",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kasaragod",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "European",
+        "start_end": [
+          23,
+          24
         ]
       }
     ]
