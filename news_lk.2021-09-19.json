@@ -3400,5 +3400,67 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Plant-based pathogen threat to agriculture sector",
+    "source": "www.newsfirst.lk",
+    "snippet": "Experts have warned that the recently revealed presence of a plant-based pathogen Erwinia in organic fertilizer samples from China, - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/20/plant-based-pathogen-threat-to-agriculture-sector/",
+    "url_hash": "3e18b7b171f535aa8bdf446c1e1f021e",
+    "ut": 1632077028,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Erwinia",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "No place like home",
+    "source": "www.msn.com",
+    "snippet": "The children of the \"Biloela family\" will end up in an orphanage if they're returned to Sri Lanka, an expert says. That's the best case scenario; the worst is unthinkable. This is the inside story of the family living on borrowed time.",
+    "url": "https://www.msn.com/en-au/news/australia/no-place-like-home/ar-AAOC82I",
+    "url_hash": "21a8b07f85132f715804173e49306ca1",
+    "ut": 1632077448,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Biloela",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
   }
 ]
