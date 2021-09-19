@@ -2512,6 +2512,41 @@
   },
   {
     "date": "2021-09-19",
+    "title": "Sri Lanka has long surpassed WHO vaccination targets",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka has long surpassed the vaccination target of the World Health Organisation (WHO) with over 50% of the population now been fully",
+    "url": "https://menafn.com/1102820753/Sri-Lanka-has-long-surpassed-WHO-vaccination-targets",
+    "url_hash": "8f8201431a544b3600a4884cef69af19",
+    "ut": 1632049712,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Health Organisation",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "over 50%",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "UK to move Sri Lanka from red to amber list",
     "source": "menafn.com",
     "snippet": "The United Kingdom has decided to move Sri Lanka from the red to the amber list for travellers.   The Foreign and Commonw",
@@ -3930,6 +3965,41 @@
   },
   {
     "date": "2021-09-19",
+    "title": "Bhikkuni Sasana was set up on a Binara Poya day",
+    "source": "www.dailymirror.lk",
+    "snippet": "It was on a Binara Full Moon Poya Day, that the Bhikkuni Order was established by the Buddha Himself. The Bhikku Order.... ..",
+    "url": "https://www.dailymirror.lk/news-features/Bhikkuni-Sasana-was-set-up-on-a-Binara-Poya-day/131-220702",
+    "url_hash": "83a7a4ec671dccacc3027e3d782da439",
+    "ut": 1632085681,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "a Binara Full Moon Poya Day",
+        "start_end": [
+          3,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bhikkuni Order",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Buddha Himself",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "Boulders Bay Hotel - Galle",
     "source": "www.skyscanner.net",
     "snippet": "With a stay at Boulders Bay Hotel - Galle in Galle, you'll be near the beach, within a 5-minute drive of Galle Fort and Mahamodara Beach. Featured amenities include complimentary newspapers in the lobby,",
@@ -3978,5 +4048,15 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Death from a Buddhist Perspective",
+    "source": "www.dailymirror.lk",
+    "snippet": "Death and dying is a subject that has evoked such deep and disturbing emotion that people generally tend to live in denial..... ..",
+    "url": "https://www.dailymirror.lk/news-features/Death-from-a-Buddhist-Perspective/131-220704",
+    "url_hash": "a3faf911fd3cd254121b5bfcfc02bb7e",
+    "ut": 1632089281,
+    "ent_info_list": []
   }
 ]
