@@ -2740,6 +2740,113 @@
     "date": "2021-09-19",
     "title": "Maldives resorts welcome red list removal",
     "source": "www.travelmole.com",
+    "snippet": "Indian Ocean island nation the Maldives is one of eight countries coming off the UK's red list. It joins Sri Lanka, Oman, Bangladesh, Pakistan, Kenya, Turkey and Egypt. With fully jabbed travellers able to skip expensive quarantine on their return,",
+    "url": "https://www.travelmole.com/news_feature.php?news_id=2048599",
+    "url_hash": "da4af380e9a39f4da6a01eb3b467ba03",
+    "ut": 1632056890,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Indian Ocean",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kenya",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Turkey",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Maldives resorts welcome red list removal",
+    "source": "www.travelmole.com",
     "snippet": "Indian Ocean island nation the Maldives is one of eight countries coming off the UK's red list. It joins Sri Lanka, Oman, Bangladesh, Pakistan, Kenya, Turkey and Egypt. With fully jabbed travellers from England able to skip expensive quarantine on their ...",
     "url": "https://www.travelmole.com/news_feature.php?news_id=2048599&region=2",
     "url_hash": "91a51f01e813015190bfcca5cfbe39e7",
@@ -2890,6 +2997,65 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Iranian boat with heroin heading towards Sri Lanka seized in Gujarat",
+    "source": "colombogazette.com",
+    "snippet": "An Iranian boat with a huge consignment of heroin heading towards Sri Lanka has been seized in Gujarat, Indian officials said today. The Times of India reported that the\u00a0Gujarat Anti-Terrorism Squad (",
+    "url": "https://colombogazette.com/2021/09/19/iranian-boat-with-heroin-heading-towards-sri-lanka-seized-in-gujarat/",
+    "url_hash": "43acce970f78b42d290b906f6b152264",
+    "ut": 1632061531,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Iranian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gujarat",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Times of India",
+        "start_end": [
+          24,
+          28
         ]
       }
     ]

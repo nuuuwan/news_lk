@@ -5072,6 +5072,81 @@
   },
   {
     "date": "2021-09-18",
+    "title": "South Africa's vaccine passport: Have jab, can travel, except to the UK and US",
+    "source": "www.msn.com",
+    "snippet": "Britain's decision to leave South Africa on its Covid-19 red list of countries from which citizens may not enter the UK - while removing eight other countries from the list - has caused outrage. Transport Secretary Grant Shapps announced on Friday night that his government was removing Turkey,",
+    "url": "https://www.msn.com/en-za/news/other/south-africa-e2-80-99s-vaccine-passport-have-jab-can-travel-except-to-the-uk-and-us/ar-AAOBG1f",
+    "url_hash": "9c18f79ee739043cadd53c384dcc4caa",
+    "ut": 1631995690,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Britain",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Grant Shapps",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Turkey",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "The most successful Miss Irelands and where they are now",
     "source": "extra.ie",
     "snippet": "The Miss Ireland competition has been the launching point for many of our country's most famous stars, from Michelle Rocca to Rosanna Davison",
