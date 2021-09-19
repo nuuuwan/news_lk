@@ -1448,6 +1448,108 @@
   },
   {
     "date": "2021-09-19",
+    "title": "Sri Lanka's main shortage creating agency may allow milk powder supplies resume",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Consumer Affairs Authority has been blocking the entry of milk powder to the market through its price control power is expected to relax the restriction next week, which may allow imported supplies to reach the market,",
+    "url": "https://economynext.com/sri-lankas-main-shortage-creating-agency-may-allow-milk-powder-supplies-resume-86283/",
+    "url_hash": "ebd3bb9be8de97fe6f5bfb3bb4e89e39",
+    "ut": 1632035304,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Consumer Affairs Authority",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Sputnik V vaccines required for second dose arrive in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Sputnik V vaccines required to be used as the second dose have arrived in Sri Lanka. A consignment of 120,000 doses of the Sputnik V vaccine arrived in Sri Lanka today. The Government said that the latest consignment will meet the requirements for the second dose.",
+    "url": "https://colombogazette.com/2021/09/19/sputnik-v-vaccines-required-for-second-dose-arrive-in-sri-lanka/",
+    "url_hash": "caba6879e6ed6d78960e904b43edf765",
+    "ut": 1632035309,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "120,000",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sputnik",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "Sri Lanka's main shortage creating agency to allow milk powder supplies resume",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Consumer Affairs Authority has been blocking the entry of milk powder to the market through its price control power is expected to relax the restriction next week, which may allow imported supplies to reach the market,",
@@ -1665,6 +1767,33 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Sri Lankan posts misleadingly tout traditional medicine as coronavirus 'cure'",
+    "source": "factcheck.afp.com",
+    "snippet": "Facebook posts circulating in Sri Lanka have shared an image of a newspaper article claiming thousands of Covid-19 patients \"completely recovered\" after being treated with traditional Ayurveda medicine.",
+    "url": "https://factcheck.afp.com/http%253A%252F%252Fdoc.afp.com%252F9MV8E4-1",
+    "url_hash": "c815cb7816d974f47078d078961d696e",
+    "ut": 1632038888,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          15,
+          16
         ]
       }
     ]
