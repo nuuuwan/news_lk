@@ -3392,6 +3392,33 @@
   },
   {
     "date": "2021-09-18",
+    "title": "Countries making COVID-19 vaccines mandatory",
+    "source": "menafn.com",
+    "snippet": "Reuters A sharp upturn in infections due to the Delta variant and a slowdown in vaccinations have pushed governments to make COVID-19 shots manda",
+    "url": "https://menafn.com/1102811762/Countries-making-COVID-19-vaccines-mandatory&source=27",
+    "url_hash": "13824133303fd6470c04fe6ce5706604",
+    "ut": 1631956121,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Reuters",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
     "title": "SLN brings another Heroin loaded vessel ashore",
     "source": "www.defence.lk",
     "snippet": "The Sri Lankan Navy (SLN) seized foreign vessel carrying another narcotics haul of 170 kilos and 866 grams, was brought to Colombo Harbour this morning (Sep 18). Sri Lanka Navy Ship Sindurala deployed for the task under the directives of the Defence Ministry,",
@@ -5039,6 +5066,33 @@
         "start_end": [
           56,
           57
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-18",
+    "title": "A Tropical Paradise Is Brewing a Storm in a Tea Cup",
+    "source": "www.lankaweb.com",
+    "snippet": "The industry can't possibly find enough new buyers of niche, organic tea to offset a threefold jump in the cost of production. Experts warn that crop diseases could lead to unmitigated disasters like in 1869,",
+    "url": "http://www.lankaweb.com/news/items/2021/09/18/a-tropical-paradise-is-brewing-a-storm-in-a-tea-cup/",
+    "url_hash": "d781efe5046a853fe7affccf550d5e0a",
+    "ut": 1632002921,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "threefold",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1869",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]

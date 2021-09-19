@@ -831,6 +831,57 @@
   },
   {
     "date": "2021-09-19",
+    "title": "SL receives 120,000 doses of Sputnik V vaccine",
+    "source": "www.dailymirror.lk",
+    "snippet": "A consignment of 120,000 vials of second dose of the Russian-made Sputnik V COVID-19 vaccines was brought to the country this morning. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-receives-120-000-doses-of-Sputnik-V-vaccine/108-220683",
+    "url_hash": "7a7352eb744afdced48ef771b65131a1",
+    "ut": 1632020912,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "120,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sputnik V COVID-19",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "Sri Lanka President land in US for UN General Assembly",
     "source": "economynext.com",
     "snippet": "Sri Lanka's President Gotabaya Rajapaksa has landed in New York on September 18, to attend a UN General Assembly on September 22, his office said.",
@@ -1037,6 +1088,132 @@
         "start_end": [
           25,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Navy seizes over 3704kg of smuggled dried turmeric",
+    "source": "www.dailynews.lk",
+    "snippet": "Over 3704kg stock of smuggled dried turmeric were seized by the Sri Lanka Navy during special operations conducted in beach areas of South Bar and Irukkalampiddi and in seas south of Mannar on September 16th,",
+    "url": "http://www.dailynews.lk/2021/09/19/local/259700/navy-seizes-over-3704kg-smuggled-dried-turmeric",
+    "url_hash": "cc4d948b0b70e5e1d19fa5e13e0d15a4",
+    "ut": 1632028537,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Navy",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Bar",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Irukkalampiddi",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Mannar",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 16th",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Another stock of Sputnik V vaccine arrives in Sri Lanka",
+    "source": "dailynews.lk",
+    "snippet": "Another stock of the Russian COVID-19 Sputnik V vaccine arrived at the Bandaranaike International Airport, Katunayake this morning. The vaccine consignment consists of 120,000 doses of the Sputnik V COVID-19 vaccine developed by the Moscow-based Gamaleya Research Institute.",
+    "url": "https://dailynews.lk/2021/09/19/local/259701/another-stock-sputnik-v-vaccine-arrives-sri-lanka",
+    "url_hash": "0bd90a7e75b7804f2112b71f8a36c067",
+    "ut": 1632029257,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Katunayake",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "120,000",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sputnik",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gamaleya Research Institute",
+        "start_end": [
+          39,
+          42
         ]
       }
     ]
