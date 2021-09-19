@@ -1,6 +1,25 @@
 [
   {
     "date": "2021-09-19",
+    "title": "U.S. to spend $2.1 billion to improve infection control",
+    "source": "www.texarkanagazette.com",
+    "snippet": "The federal government is spending $2.1 billion to improve infection control procedures in health care settings, aimed at preventing the transmission of diseases inside hospitals, dialysis centers and other facilities.",
+    "url": "https://www.texarkanagazette.com/news/national/story/2021/sep/18/us-spend-21-billion-improve-infection-control/889001/",
+    "url_hash": "43fc432ad2aa80eb85682cb58ffa6f08",
+    "ut": 1632010656,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "$2.1 billion",
+        "start_end": [
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "Healing through sports",
     "source": "trinidadexpress.com",
     "snippet": "I was hooked to the Caribbean Premier League cricket tournament over the past two weeks, from the opening match between Trinbago Knight Riders and Guyana Amazon Warriors, to the thriller-of-a-final",
@@ -277,6 +296,272 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Reform or perish, it's not too late",
+    "source": "island.lk",
+    "snippet": "With the pandemic in 2020 Sri Lanka's economy shrank by 3.6% with all sectors of the economy contracting. Yet, the pandemic is not the sole cause - it only accelerated the decline of Sri Lanka's economy that was weak to begin with. The country has ...",
+    "url": "https://island.lk/reform-or-perish-its-not-too-late/",
+    "url_hash": "07170c78c223a043cac724dc00ce790c",
+    "ut": 1632014592,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "3.6%",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          37,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Computers donated to child development centres across the island",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Seven hundred computers worth 21 million rupees and internet facilities were donated to uplift the facilities for online education of children in all child development centres in the country. This donation was made to 397 child development centres which includes 10,",
+    "url": "https://www.sundaytimes.lk/210919/education/computers-donated-to-child-development-centres-across-the-island-455598.html",
+    "url_hash": "ff9915ad8db85a8654385746fafd9eb4",
+    "ut": 1632014772,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Seven hundred",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21 million",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "397",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Sri Lanka's Exterminators seeking global franchisees",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Ltd, Sri Lanka's premier environmental enhancement solutions provider, is seeking franchisees globally for its specialised services. Exterminators is Sri Lanka's premier and one of the pioneers in COVID-19 disinfection and sanitation services in the world.",
+    "url": "https://www.sundaytimes.lk/210919/business-times/sri-lankas-exterminators-seeking-global-franchisees-455360.html",
+    "url_hash": "a9d4bf55fbdb17b7aacf2da0995ebcf1",
+    "ut": 1632014786,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "When will the Lions learn?",
+    "source": "www.sundaytimes.lk",
+    "snippet": "The cricket adoring public was buoyed by the T20 series win against India and it can be considered as a confidence booster for the young Lankan Lions led by their captain Dasun Shanaka. Despite winning the series against India on home soil it remained to be seen whether they will maintain the consistency against South Africa who arrived in the island for the tour comprised of three ODIs and three T20 internationals.",
+    "url": "https://www.sundaytimes.lk/210919/sports/when-will-the-lions-learn-455701.html",
+    "url_hash": "e68b10eeaeca1dc58f7101bb09522226",
+    "ut": 1632014832,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lankan Lions",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dasun Shanaka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          55,
+          57
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          67,
+          68
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          70,
+          71
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Another mega project gets extension till Dec. next year",
+    "source": "www.sundaytimes.lk",
+    "snippet": "Yet another long overdue multimillion-dollar mixed development project, John Keells' Waterfront Properties (Pvt) Ltd, has been given an extension to start commercial operations. It is the second postponement granted to the venture,",
+    "url": "https://www.sundaytimes.lk/210919/news/another-mega-project-gets-extension-till-dec-next-year-455888.html",
+    "url_hash": "f1553a3a74d925f221f56644803be844",
+    "ut": 1632015336,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "multimillion-dollar",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Keells'",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Navy grabs hold of over 1162kg haul of smuggled dried turmeric with 02 suspects",
+    "source": "www.news.lk",
+    "snippet": "The Navy managed to seize over 1162kg haul of dried turmeric, attempted to be smuggled into the island, during a special operation carried out in Ma Oya estuary, Negombo in the wee hours (16th September 2021).",
+    "url": "https://www.news.lk/news/political-current-affairs/item/32947-navy-grabs-hold-of-over-1162kg-haul-of-smuggled-dried-turmeric-with-02-suspects",
+    "url_hash": "4edf66a4d8e346955932190ef085cfc6",
+    "ut": 1632016632,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ma Oya",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the wee hours",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "16th",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
