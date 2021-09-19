@@ -565,5 +565,166 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Sri Lanka include additional wicketkeeper for T20 WC",
+    "source": "www.islandcricket.lk",
+    "snippet": "With Kusal Janith Perera having sustained a hamstring injury during the recent South African tour, selectors have decided to include an additional wicketkeeper in the side in place of Lahiru Madushanka,",
+    "url": "https://www.islandcricket.lk/news/sri-lanka-include-additional-wicketkeeper-for-t20-wc/",
+    "url_hash": "ebfe4918845a9b90f6bcc5562694f124",
+    "ut": 1632017301,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kusal Janith",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Perera",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South African",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lahiru Madushanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "A return of the three musketeers?",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka Cricket(SLC) could allow the three banned cricketers-Kusal Mendis, Niroshan Dickwella and Danushka Gunathilaka-to play domestic cricket when the season starts with the Major Club limited-over tournament in October.",
+    "url": "https://www.islandcricket.lk/news/a-return-of-the-three-musketeers/",
+    "url_hash": "ad8157add5b1e572e1545b137cf6dc39",
+    "ut": 1632017301,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kusal Mendis",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Niroshan Dickwella",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Danushka Gunathilaka-",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Club",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Sri Lanka receives 20 state-of-the-art railway passenger coaches from India",
+    "source": "www.outlookindia.com",
+    "snippet": "Sri Lanka has received 20 state-of-the-art custom-made train coaches from India as a part of the over USD 82 million contract signed between the two countries under which India will assist the island nation in the development of its railway infrastructure.",
+    "url": "https://www.outlookindia.com/newsscroll/sri-lanka-receives-20-stateoftheart-railway-passenger-coaches-from-india/2162546",
+    "url_hash": "b43987bbae738a93dd690065e36f7873",
+    "ut": 1632020361,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
   }
 ]
