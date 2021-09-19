@@ -3403,6 +3403,73 @@
   },
   {
     "date": "2021-09-19",
+    "title": "SLC to 'seriously consider' replacing New Zealand in Pakistan if invited",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Cricket (SLC) would 'seriously consider' replacing New Zealand in Pakistan should they receive an invitation from the Pakistan Cricket Board (PCB) according to SLC Secretary Mohan de Silva.",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/SLC-to-seriously-consider-replacing-New-Zealand-in-Pakistan-if-invited/324-220696",
+    "url_hash": "df6a73249b2fdb561d2a61e5be8d0d0d",
+    "ut": 1632074875,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Pakistan Cricket Board",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mohan de Silva",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "Plant-based pathogen threat to agriculture sector",
     "source": "www.newsfirst.lk",
     "snippet": "Experts have warned that the recently revealed presence of a plant-based pathogen Erwinia in organic fertilizer samples from China, - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
@@ -3459,6 +3526,44 @@
         "start_end": [
           19,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Mahiyangana Corr.",
+    "source": "dailynews.lk",
+    "snippet": "An attempt to burgle a house in Pujanagara, Mahiyanganaya has been foiled by neigbours.A widow has been directed to a quarantine centre of the area and her little daughter has been sent to stay at...",
+    "url": "https://dailynews.lk/line/mahiyangana-corr",
+    "url_hash": "a361bfbe21ca4d844ecf381240e8af8c",
+    "ut": 1632080759,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pujanagara, Mahiyanganaya",
+        "start_end": [
+          7,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Sunimal Shriyananda",
+    "source": "dailynews.lk",
+    "snippet": "An attempt to burgle a house in Pujanagara, Mahiyanganaya has been foiled by neigbours.A widow has been directed to a quarantine centre of the area and her little daughter has been sent to stay at...",
+    "url": "https://dailynews.lk/line/sunimal-shriyananda",
+    "url_hash": "9be6a8b010eae5fc72dcb5b6bfb476ef",
+    "ut": 1632080819,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pujanagara, Mahiyanganaya",
+        "start_end": [
+          7,
+          10
         ]
       }
     ]
