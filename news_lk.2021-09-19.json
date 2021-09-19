@@ -729,6 +729,57 @@
   },
   {
     "date": "2021-09-19",
+    "title": "President arrives in New York",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa arrived in New York to attend the 76th United Nations' General Assembly (UNGA) Session. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/President-arrives-in-New-York/108-220684",
+    "url_hash": "6d8283dcceab249d97f2f8bf046d6d64",
+    "ut": 1632020865,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "76th",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United Nations'",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "General Assembly",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "SL receives 120,000 doses of Sputnik V vaccine",
     "source": "www.dailymirror.lk",
     "snippet": "A consignment of 120,000 vials of second dose of the Russian-made Sputnik V COVID-19 vaccines was brought to the country this morning. ..",
@@ -2714,6 +2765,41 @@
     "title": "Major decline in COVID cases, hospitalization: Health officials",
     "source": "www.dailymirror.lk",
     "snippet": "There is a sharp decrease in COVID-19 cases being reported daily and also the number of hospitalization has also vastly gone down, Health officials pointed out today. ..",
+    "url": "https://www.dailymirror.lk/top_story/Major-decline-in-COVID-cases-hospitalization-Health-officials/155-220693",
+    "url_hash": "6f4991dfd0196c20e952a2feb81c5f11",
+    "ut": 1632053265,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Major decline in COVID cases, hospitalization: Health officials",
+    "source": "www.dailymirror.lk",
+    "snippet": "There is a sharp decrease in COVID-19 cases being reported daily and also the number of hospitalization has also vastly gone down, Health officials pointed out today. ..",
     "url": "https://www.dailymirror.lk/breaking_news/Major-decline-in-COVID-cases-hospitalization-Health-officials/108-220693",
     "url_hash": "2f776857f0229ac1568180b685a720a5",
     "ut": 1632053288,
@@ -3403,6 +3489,41 @@
   },
   {
     "date": "2021-09-19",
+    "title": "Protest in Fort...",
+    "source": "www.dailymirror.lk",
+    "snippet": "A group of people staged a protest in Fort today urging the authorities to allow them to resume their businesses claiming that the permission has been granted to open wine stores as well.At least two protectors were arrested by the police for violating quarantine laws.",
+    "url": "https://www.dailymirror.lk/caption_story/Protest-in-Fort/110-220697",
+    "url_hash": "d4d60d4c17cc5e581594886225fc949e",
+    "ut": 1632067689,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Fort",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "At least two",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "SLC to 'seriously consider' replacing New Zealand in Pakistan if invited",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka Cricket (SLC) would 'seriously consider' replacing New Zealand in Pakistan should they receive an invitation from the Pakistan Cricket Board (PCB) according to SLC Secretary Mohan de Silva.",
@@ -3564,6 +3685,49 @@
         "start_end": [
           7,
           10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Five days of freedom - the breakout from Gilboa - EDITORIAL",
+    "source": "www.dailymirror.lk",
+    "snippet": "On September 5, six Palestinian prisoners held captive in an Israeli maximum prison -the Gilboa prison - broke out in speculator.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Five-days-of-freedom-the-breakout-from-Gilboa-EDITORIAL/231-220698",
+    "url_hash": "88754f90448ab3b7fdb05e0d9a5fe28e",
+    "ut": 1632082065,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "September 5",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Palestinian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Israeli",
+        "start_end": [
+          11,
+          12
         ]
       }
     ]
