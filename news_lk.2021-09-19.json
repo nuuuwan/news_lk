@@ -726,5 +726,142 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "President arrives in New York",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa arrived in New York to attend the 76th United Nations' General Assembly (UNGA) Session. ..",
+    "url": "https://www.dailymirror.lk/latest_news/President-arrives-in-New-York/342-220684",
+    "url_hash": "68c6dbcf376c7bfc24291df4b80f05e5",
+    "ut": 1632020912,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "76th",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United Nations'",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "General Assembly",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Sri Lanka President land in US for UN General Assembly",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's President Gotabaya Rajapaksa has landed in New York on September 18, to attend a UN General Assembly on September 22, his office said.",
+    "url": "https://economynext.com/sri-lanka-president-land-in-us-for-un-general-assembly-86278/",
+    "url_hash": "e01aff9e9dbcfadb033c9a715fe40a5c",
+    "ut": 1632020942,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 18",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN General Assembly",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 22",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "The Sordid Tale of the Captive Elephant Industry and Legitimation of Wildlife Crime",
+    "source": "groundviews.org",
+    "snippet": "Photo courtesy of Nation Today Not long after the dust had settled following the government's\u00a0\u00a0long war with Tamil separatism and terror, news filtered in of the kidnapping of baby elephants from",
+    "url": "https://groundviews.org/2021/09/19/the-sordid-tale-of-the-captive-elephant-industry-and-legitimation-of-wildlife-crime/",
+    "url_hash": "338033961172fbdba330163f9ffc2895",
+    "ut": 1632024127,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
   }
 ]
