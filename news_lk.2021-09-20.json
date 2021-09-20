@@ -186,6 +186,49 @@
   },
   {
     "date": "2021-09-20",
+    "title": "EFL 3PL sets Sri Lankan benchmark in employee experience",
+    "source": "island.lk",
+    "snippet": "EFL 3PL - the country's most progressive 3rd Party Logistics Solutions Provider - has been certified as a Great Place to Work\u00ae with a benchmark score of 94% on the Trust Index\u00a9\u00a0Survey, beating the national top-40-workplaces average of 85%.",
+    "url": "https://island.lk/efl-3pl-sets-sri-lankan-benchmark-in-employee-experience/",
+    "url_hash": "14605a94e0c2d026cddb7e37867eeedb",
+    "ut": 1632100095,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "3PL",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "3rd Party Logistics Solutions Provider -",
+        "start_end": [
+          8,
+          14
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "94%",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "85%",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
     "title": "Kohli: Skillsets of Hasaranga and Chameera will be of huge help in UAE",
     "source": "island.lk",
     "snippet": "Royal Challengers Bangalore captain Virat Kohli believes that the additions of Sri Lanka duo Wanindu Hasaranga and Dushmantha Chameera, especially in the UAE conditions, will be a \"huge help\" for the team's campaign in the second leg of IPL 2021.",
@@ -1031,6 +1074,261 @@
         "start_end": [
           46,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Govt. ready to spend billions of rupees to clean Kelani River: Amaraweera",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government is ready to spend billions of rupees for the conservation of the Kelani River in the next few years, Environment Minister Mahinda Amaraweera said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-ready-to-spend-billions-of-rupees-to-clean-Kelani-River-Amaraweera/108-220730",
+    "url_hash": "d621d085c93d44305d5bec7165802627",
+    "ut": 1632114495,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "billions",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Kelani River",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next few years",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "UN Chief assures fullest positive cooperation to SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Secretary General Antonio Guterres has assured UN's fullest positive cooperation to Sri Lanka on the effort to march forward by ensuring reconciliation among the communities. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/UN-Chief-assures-fullest-positive-cooperation-to-SL/108-220731",
+    "url_hash": "63ecf6475bce03909712799f98a37bde",
+    "ut": 1632118686,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Antonio Guterres",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "All-women Indian Army Officers Summit Mount Manirang In Himachal Pradesh",
+    "source": "www.republicworld.com",
+    "snippet": "Five women officers of the Indian Army summited Mount Manirang (6595m) in Himachal Pradesh as part of the Tri-services All Women Mountaineering Expedition.",
+    "url": "https://www.republicworld.com/india-news/general-news/all-women-indian-army-officers-summit-mount-manirang-in-himachal-pradesh.html",
+    "url_hash": "2301979828547927a743e444a60b7d3c",
+    "ut": 1632119188,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Five",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian Army",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Mount Manirang",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6595",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Himachal Pradesh",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Lankan Angel Network & Angel Fund Appoint First Female Chairperson",
+    "source": "www.lankabusinessonline.com",
+    "snippet": "The Lankan Angel Network (LAN), the country's largest network of angel investors, has appointed Chandi Dharmaratne as its Chairperson for 2021/2022, at its most recent Board Meeting held i. Ms. Dharmaratne is the first woman to lead the Lankan Angel Network.",
+    "url": "https://www.lankabusinessonline.com/lankan-angel-network-angel-fund-appoint-first-female-chairperson/",
+    "url_hash": "79edd49e919bc098082f8803623dace9",
+    "ut": 1632119595,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LAN",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandi Dharmaratne",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Chairperson",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021/2022",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board Meeting",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dharmaratne",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Sri Lanka receives 4 mn doses of Sinopharm vaccines",
+    "source": "newstodaynet.com",
+    "snippet": "Sri Lankan authorities have received 4 million doses of the Chinese Sinopharm vaccines as a mass inoculation program against Covid-19 is presently underway in the island nation. Continue Reading \u2192",
+    "url": "https://newstodaynet.com/index.php/2021/09/20/sri-lanka-receives-4-mn-doses-of-sinopharm-vaccines/",
+    "url_hash": "a9aae15c893024cb808b9e310aa70228",
+    "ut": 1632120075,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Continue Reading",
+        "start_end": [
+          28,
+          30
         ]
       }
     ]
