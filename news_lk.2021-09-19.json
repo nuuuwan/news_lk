@@ -4345,6 +4345,100 @@
     "title": "SLC to 'seriously consider' replacing New Zealand in Pakistan if invited",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka Cricket (SLC) would 'seriously consider' replacing New Zealand in Pakistan should they receive an invitation from the Pakistan Cricket Board (PCB) according to SLC Secretary Mohan de Silva.",
+    "url": "https://www.dailymirror.lk/headline/SLC-to-%E2%80%98seriously-consider%E2%80%99-replacing-New-Zealand-in-Pakistan-if-invited/419-220696",
+    "url_hash": "97370116c254028d14e2beab39ac8940",
+    "ut": 1632075088,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Pakistan Cricket Board",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mohan de Silva",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Navy seizes nearly 150kg of heroin in recent operation off southern coast",
+    "source": "www.adaderana.lk",
+    "snippet": "The large volume of heroin seized during the most recent naval operation in the international seas off the southern coast of the island weighs nearly 150 kilograms, Sri Lanka Navy revealed",
+    "url": "http://www.adaderana.lk/news/77019/navy-seizes-nearly-150kg-of-heroin-in-recent-operation-off-southern-coast",
+    "url_hash": "90d64e50a6a9ee15e22b034b76b87dd3",
+    "ut": 1632075096,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "nearly 150 kilograms",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "SLC to 'seriously consider' replacing New Zealand in Pakistan if invited",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Cricket (SLC) would 'seriously consider' replacing New Zealand in Pakistan should they receive an invitation from the Pakistan Cricket Board (PCB) according to SLC Secretary Mohan de Silva.",
     "url": "https://www.dailymirror.lk/headline/SLC-to-seriously-consider-replacing-New-Zealand-in-Pakistan-if-invited/419-220696",
     "url_hash": "4cd582dab69c3ce984b953c793827cbb",
     "ut": 1632075132,
@@ -4764,6 +4858,89 @@
         "start_end": [
           0,
           2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "SL receives 4 mnn doses of Sinopharm vaccines",
+    "source": "www.netindia123.com",
+    "snippet": "Sri Lankan authorities have received 4 million doses of the Chinese Sinopharm vaccines as a mass inoculation program against Covid-19 is presently underway in the island nation. The vaccines arrived at Colombo's Bandaranaike International Airport onboard two Sri Lankan Airlines flights from Beijing,",
+    "url": "https://www.netindia123.com/netindia/showdetails.asp?id=3822515&cat=Health",
+    "url_hash": "64fa162dc10d48724d611bd9138141d5",
+    "ut": 1632082296,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Bandaranaike International Airport",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Airlines",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          44,
+          45
         ]
       }
     ]
