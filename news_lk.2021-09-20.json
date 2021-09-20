@@ -446,6 +446,57 @@
   },
   {
     "date": "2021-09-20",
+    "title": "Fears remain oil still inside X-press Pearl",
+    "source": "www.dailymirror.lk",
+    "snippet": "Fears remain that there may be oil still inside the sunken ship, X-press Pearl, despite various assurances given earlier, officials said. Dharshani Lahandapura, the Chairperson of the Marine Environment Protection Authority (MEPA) told Daily Mirror that foreign experts believe that there is no bunker oil remaining in the ship.",
+    "url": "https://www.dailymirror.lk/breaking_news/Fears-remain-oil-still-inside-X-press-Pearl/108-220718",
+    "url_hash": "61b1dce99c6db0bad7fb3efcebbec66b",
+    "ut": 1632103696,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pearl",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dharshani Lahandapura",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Marine Environment Protection Authority",
+        "start_end": [
+          33,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MEPA",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
     "title": "27 countries in 21 months: Covid hasn't stopped Jaishankar from crisscrossing the world",
     "source": "www.msn.com",
     "snippet": "Jaishankar visited 4 countries. But since Covid lockdown was lifted in August 2020, he has visited 23 countries for bilateral and multilateral business.",
@@ -542,6 +593,84 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Gangaramaya seems deserted",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Gangaramaya Temple in Colombo seemed deserted this morning following the strict travel restrictions imposed by the government due to the COVID pandemic. All religious activities in temples were suspended,",
+    "url": "https://www.dailymirror.lk/caption_story/Gangaramaya-seems-deserted/110-220722",
+    "url_hash": "c6bf25f97e0ad22e1283395e2dfe69f2",
+    "ut": 1632107296,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Gangaramaya Temple in Colombo",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "PM returns from Italy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prime Minister Mahinda Rajapaksa and his delegation who were on an official visit to Italy to attend the G20 Interfaith Conference, returned to the island this morning, the Katunayake Airport Duty Manager said.",
+    "url": "https://www.dailymirror.lk/breaking_news/PM-returns-from-Italy/108-220723",
+    "url_hash": "1a2ef8d53e8b7ae7ec809f416d682b89",
+    "ut": 1632107304,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the G20 Interfaith Conference",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Katunayake Airport Duty",
+        "start_end": [
+          29,
+          33
         ]
       }
     ]
@@ -698,6 +827,41 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "14-year-old boy shot dead in Weeraketiya",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 14-year-old boy has been shot dead at Gajanayakagama in Weeraketiya, Police Spokesman SSP Nihal Thalduwa said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/14-year-old-boy-shot-dead-in-Weeraketiya/108-220725",
+    "url_hash": "1cc6ed82c60c4b8420a31355f0da9aee",
+    "ut": 1632110896,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "14-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gajanayakagama",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Weeraketiya",
+        "start_end": [
+          14,
+          15
         ]
       }
     ]
