@@ -843,6 +843,41 @@
     "date": "2021-09-20",
     "title": "Economic crisis in Sri Lanka shows organic farming doesn't happen overnight",
     "source": "www.msn.com",
+    "snippet": "In pursuit of becoming the world's first 100% organic food producer, Sri Lanka now finds itself in an economic crisis exacerbated by the pandemic, inflation, and hoarding of essential food items.In April,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/economic-crisis-in-sri-lanka-shows-organic-farming-doesnt-happen-overnight/ar-AAODjX5",
+    "url_hash": "cf2f167ae959dd57a8fe87e637ac6ecb",
+    "ut": 1632110884,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "100%",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Economic crisis in Sri Lanka shows organic farming doesn't happen overnight",
+    "source": "www.msn.com",
     "snippet": "In pursuit of becoming the world's first 100% organic food producer, Sri Lanka now finds itself in an economic crisis exacerbated by the pandemic, inflation, and hoarding of essential food items. In April,",
     "url": "https://www.msn.com/en-us/health/nutrition/economic-crisis-in-sri-lanka-shows-organic-farming-doesnt-happen-overnight/ar-AAOCDDr",
     "url_hash": "e2875e7903204bd228ba644bfc6a47fd",
@@ -1192,6 +1227,65 @@
         "start_end": [
           24,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Travel news latest: UK-US travel to resume 'from November'",
+    "source": "www.msn.com",
+    "snippet": "The new green list countries which are actually open to Britons What to do if you test positive for Covid while on holiday  The latest travel announcement is a huge reform of the complicated rules What the new travel rules mean for under-18s  Sign up to the Telegraph Travel newsletter Vaccinated Britons could be able to travel to the United States from November under plans expected to be announced early this week,",
+    "url": "https://www.msn.com/en-gb/travel/news/travel-news-latest-uk-us-travel-to-resume-from-november/ar-AAOCLvs",
+    "url_hash": "957ebb3d81dc217587903f6f71d9869b",
+    "ut": 1632118096,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Britons",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Telegraph Travel",
+        "start_end": [
+          49,
+          51
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vaccinated Britons",
+        "start_end": [
+          52,
+          54
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          60,
+          63
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          64,
+          65
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early this week",
+        "start_end": [
+          71,
+          74
         ]
       }
     ]
@@ -2334,6 +2428,49 @@
   },
   {
     "date": "2021-09-20",
+    "title": "Suspend Lohan's party membership: March 12 Movement tells SLPP",
+    "source": "www.dailymirror.lk",
+    "snippet": "Highlighting the need to appoint a committee of professionals to investigate the incident involving State Minister Lohan Ratwatte, the March 12 Movement today urged Sri Lanka Podujana Peramuna (SLPP) to suspend his party membership and probe his anti-disciplinary actions.",
+    "url": "https://www.dailymirror.lk/breaking_news/Suspend-Lohans-party-membership-March-12-Movement-tells-SLPP/108-220740",
+    "url_hash": "84d6b874aac1432717abd585571c3a0e",
+    "ut": 1632128875,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Podujana Peramuna",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
     "title": "Woman serving life imprisonment found innocent: CA observes trial judge misdirected himself of the facts",
     "source": "www.dailymirror.lk",
     "snippet": "After spending more than two years in prison, a woman sentenced to life imprisonment for drug trafficking was acquitted by the Court of Appeal, observing that the High Court judge has misdirected himself of the facts during the trial.",
@@ -2965,6 +3102,33 @@
   },
   {
     "date": "2021-09-20",
+    "title": "Do you know enough about protein",
+    "source": "www.dailymirror.lk",
+    "snippet": "It wouldn't be wrong to look back at the past couple of decades as a period of radical change for the Sri Lankan society that was propelled by the growing per capita income, internet age and social media amongst other things.",
+    "url": "https://www.dailymirror.lk/business/Do-you-know-enough-about-protein/215-220742",
+    "url_hash": "7b666ce5fe082697e8df175805a3453a",
+    "ut": 1632136075,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the past couple of decades",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
     "title": "Galle will win LPL this season: Team owner Nadeem Omar",
     "source": "www.msn.com",
     "snippet": "The Galle Gladiators had fallen agonisingly short of winning the inaugural edition of the Lanka Premier League last year, when they went down in a closely-fought final to eventual winners Jaffna Stallions.",
@@ -3209,6 +3373,41 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "8 people killed in shooting at Russian university",
+    "source": "www.dailymirror.lk",
+    "snippet": "At least eight people were killed when a gunman opened fire at a university in the Russian city of Perm on Monday, officials have said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/8-people-killed-in-shooting-at-Russian-university/108-220743",
+    "url_hash": "68ce4a002ec1bb38c0d0539e5dcc688d",
+    "ut": 1632139675,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least eight",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          21,
+          22
         ]
       }
     ]
@@ -3544,6 +3743,213 @@
         "start_end": [
           39,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Cairns facing 'greatest challenge' after suffering spinal stroke",
+    "source": "www.dailymirror.lk",
+    "snippet": "Cairns posted a video on social media on Sunday to thank medical teams in Canberra and Sydney, who treated the 51-year-old after he experienced an aortic dissection, a tear in the body's main artery.",
+    "url": "https://www.dailymirror.lk/headline/Cairns-facing-greatest-challenge-after-suffering-spinal-stroke/419-220744",
+    "url_hash": "5b8827c4421aa428f3a881e45642d983",
+    "ut": 1632143515,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cairns",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canberra",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sydney",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "51-year-old",
+        "start_end": [
+          21,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Galle Will Win LPL This Season, Feels Team Owner Nadeem Omar",
+    "source": "propakistani.pk",
+    "snippet": "Galle Gladiators fell short by a whisker to win the inaugural edition of the Lanka Premier League going down to",
+    "url": "https://propakistani.pk/2021/09/20/galle-will-win-lpl-this-season-feels-team-owner-nadeem-omar/",
+    "url_hash": "a7dc022a6c12d56b6c3e80eec6c7dc7b",
+    "ut": 1632144364,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Galle Gladiators",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Meet the cast of Survivor 41 and weigh their chances",
+    "source": "www.eastbaytimes.com",
+    "snippet": "Cranky Christmas comes early with the return of \"Survivor,\" which promises more twists and turns than ever in this shortened, faster paced season. No matter what the producers do to",
+    "url": "https://www.eastbaytimes.com/2021/09/20/survivor/",
+    "url_hash": "e119f449360817dae6e5c9c193ec434f",
+    "ut": 1632144904,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "Survivor",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Ranchi's JSCA Stadium to host India-New Zealand T20I match on November 19",
+    "source": "avenuemail.in",
+    "snippet": "The BCCI on Monday awarded a marquee T20 international match to Ranchi during the home season starting November 17. Team India will play a T20I match against New Zealand at Jharkhand State Cricket Association Stadium in Ranchi.",
+    "url": "https://avenuemail.in/ranchis-jsca-stadium-to-host-india-new-zealand-t20i-match-on-november-19/",
+    "url_hash": "84f53fd667c2a3fe7e03b58679af0c3e",
+    "ut": 1632145084,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "BCCI",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ranchi",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November 17",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Team India",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Jharkhand State Cricket Association Stadium",
+        "start_end": [
+          31,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ranchi",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Special concessions for airlines operating scheduled flights to Mattala",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka is to offer concessions to airlines deciding to operate scheduled flights to Mattala. Tourism Minister Prasanna Ranatunga said that airlines which commence scheduled flights to Mattala will be offered a number of concessions.",
+    "url": "https://colombogazette.com/2021/09/20/special-concessions-for-airlines-operating-scheduled-flights-to-mattala/",
+    "url_hash": "4db3815288281fb5ad2119d47de1de0b",
+    "ut": 1632145945,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
