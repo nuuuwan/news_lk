@@ -1472,6 +1472,65 @@
   },
   {
     "date": "2021-09-20",
+    "title": "Kusal Mendis leaves CCC to join SSC : Highly-placed figure in Sri Lanka's sports behind the alleged transfer",
+    "source": "www.islandcricket.lk",
+    "snippet": "The controversial Kusal Mendis who has been suspended from cricket for breaching the bio-security bubble in Durham, England during a series in June, is to leave his long-time club CCC to join the adjoining SSC,",
+    "url": "https://www.islandcricket.lk/news/kusal-mendis-leaves-ccc-to-join-ssc-highly-placed-figure-in-sri-lankas-sports-behind-the-alleged-transfer/",
+    "url_hash": "b1694c927594ab5c51bf49a502ef0ee4",
+    "ut": 1632118144,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kusal Mendis",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Durham",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CCC",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SSC",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
     "title": "UN Chief assures fullest positive cooperation to SL",
     "source": "www.dailymirror.lk",
     "snippet": "Secretary General Antonio Guterres has assured UN's fullest positive cooperation to Sri Lanka on the effort to march forward by ensuring reconciliation among the communities. ..",
@@ -3972,6 +4031,84 @@
   },
   {
     "date": "2021-09-20",
+    "title": "Death-row inmates launch protest in Welikada",
+    "source": "www.dailymirror.lk",
+    "snippet": "At least ten prisoners who were sentenced to death launched a protest on the roof of the Welikada Prison. They have reportedly begun the protest demanding that their long prison terms be reduced. Yes,",
+    "url": "https://www.dailymirror.lk/breaking_news/Death-row-inmates-launch-protest-in-Welikada/108-220745",
+    "url_hash": "20bca35385923a1bf5e2c2feea0583a8",
+    "ut": 1632143335,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least ten",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Welikada Prison",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Cairns facing 'greatest challenge' after suffering spinal stroke",
+    "source": "www.dailymirror.lk",
+    "snippet": "Cairns posted a video on social media on Sunday to thank medical teams in Canberra and Sydney, who treated the 51-year-old after he experienced an aortic dissection, a tear in the body's main artery.",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Cairns-facing-greatest-challenge-after-suffering-spinal-stroke/324-220744",
+    "url_hash": "e9c23270dd824053811cfde82a41b248",
+    "ut": 1632143335,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cairns",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canberra",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sydney",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "51-year-old",
+        "start_end": [
+          21,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
     "title": "Cairns facing 'greatest challenge' after suffering spinal stroke",
     "source": "www.dailymirror.lk",
     "snippet": "Cairns posted a video on social media on Sunday to thank medical teams in Canberra and Sydney, who treated the 51-year-old after he experienced an aortic dissection, a tear in the body's main artery.",
@@ -4644,6 +4781,175 @@
         "start_end": [
           59,
           61
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "England cricketers pull out of trip to Pakistan",
+    "source": "apnews.com",
+    "snippet": "England's cricketers will not travel for matches in Pakistan next month because of security concerns. The decision taken by the England and Wales Cricket Board on Monday came three days after New Zealand Cricket abandoned its men's team's limited-overs tour of Pakistan following a government alert that warned of a possible attack outside Rawalpindi Stadium.",
+    "url": "https://apnews.com/cd463619f1bc911b0715b45230050e3f",
+    "url_hash": "5e0b83932016b901b1872a2a6babad5b",
+    "ut": 1632154155,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Wales Cricket Board",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three days",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Zealand Cricket",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Rawalpindi Stadium",
+        "start_end": [
+          59,
+          61
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Sri Lanka money printing hits cable maker raw materials",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's ACL Cables Plc is finding it difficult to import raw materials from abroad because banks were rationing foreign exchange, customers were told amid the worst money printing in the country's central bank history.",
+    "url": "https://economynext.com/sri-lanka-money-printing-hits-cable-maker-raw-materials-86307/",
+    "url_hash": "f6f2a7d92bb07be3ecd4ab0cfad30768",
+    "ut": 1632154164,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ACL Cables Plc",
+        "start_end": [
+          3,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "93 more die of COVID-19: Death toll surges to 12,218",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 93 more COVID-19 related deaths that occurred yesterday (19) were confirmed by the Director-General of Health Services today pushing the death toll to 12,218. ..",
+    "url": "https://www.dailymirror.lk/latest_news/93-more-die-of-COVID-19-Death-toll-surges-to-12-218/342-220748",
+    "url_hash": "829c882521d63e5a2d0d27817f759eae",
+    "ut": 1632155095,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "93",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "19",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12,218",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
