@@ -3178,6 +3178,89 @@
   },
   {
     "date": "2021-09-19",
+    "title": "SL receives 4 mnn doses of Sinopharm vaccines",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lankan authorities have received 4 million doses of the Chinese Sinopharm vaccines as a mass inoculation program against Covid-19 is presently underway in the island nation. The vaccines arrived at Colombo's Bandaranaike International Airport onboard two Sri Lankan Airlines flights from Beijing,",
+    "url": "https://news.webindia123.com/news/articles/Health/20210919/3822515.html",
+    "url_hash": "bcb487f0d39e730ab06a44803635781a",
+    "ut": 1632056917,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Bandaranaike International Airport",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Airlines",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "Maldives resorts welcome red list removal",
     "source": "www.travelmole.com",
     "snippet": "Indian Ocean island nation the Maldives is one of eight countries coming off the UK's red list. It joins Sri Lanka, Oman, Bangladesh, Pakistan, Kenya, Turkey and Egypt. With fully jabbed travellers from England able to skip expensive quarantine on their ...",
