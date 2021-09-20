@@ -443,5 +443,107 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "27 countries in 21 months: Covid hasn't stopped Jaishankar from crisscrossing the world",
+    "source": "www.msn.com",
+    "snippet": "Jaishankar visited 4 countries. But since Covid lockdown was lifted in August 2020, he has visited 23 countries for bilateral and multilateral business.",
+    "url": "https://www.msn.com/en-in/news/other/27-countries-in-21-months-covid-hasn-e2-80-99t-stopped-jaishankar-from-crisscrossing-the-world/ar-AAOCqd9",
+    "url_hash": "3326ce7f5c79346a97c2fc8cdc0544a5",
+    "ut": 1632105015,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jaishankar",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 2020",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Crystal previews 2024 World Cruise - sales open 1 October",
+    "source": "latteluxurynews.com",
+    "snippet": "Crystal Cruises has offered a sneak-peek at its 2024 World Cruise, a 105-night adventure aboard Crystal Serenity.",
+    "url": "https://latteluxurynews.com/2021/09/20/crystal-2024-world-cruise-preview/",
+    "url_hash": "75d3fb8183c67b49255ddb7228bc0e85",
+    "ut": 1632105821,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Crystal Cruises",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2024",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cruise",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "105-night",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Crystal Serenity",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
   }
 ]
