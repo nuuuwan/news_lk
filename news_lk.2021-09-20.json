@@ -250,5 +250,198 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "73,000 doses of Pfizer vaccine brought to the island",
+    "source": "www.hirunews.lk",
+    "snippet": "Another 73,000 American Pfizer doses have been brought to the island. Hiru Airport Correspondent stated that the consignment arrived at the Bandaranaike International Airport Katunayake this morning (20) on a cargo plane.",
+    "url": "https://www.hirunews.lk/english/282688/73000-doses-of-pfizer-vaccine-brought-to-the-island",
+    "url_hash": "232b336d5c03a7cb4c5f11261fdef449",
+    "ut": 1632100645,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "73,000",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "American",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Hiru Airport Correspondent",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport Katunayake",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "LOLC becomes Mastercard's first customer in Sri Lanka to join its Digital First programme",
+    "source": "island.lk",
+    "snippet": "Sri Lanka's most valuable and globally diversified financial conglomerate has become the first entity in Sri Lanka to sign up for the Digital First program, launched by Mastercard. The Digital First program was initiated to facilitate an end-to-end digital journey benefiting Cardholders,",
+    "url": "https://island.lk/lolc-becomes-mastercards-first-customer-in-sri-lanka-to-join-its-digital-first-programme/",
+    "url_hash": "281eed8694cfca1af81650dc1719a306",
+    "ut": 1632101185,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Digital",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "First",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mastercard",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Digital",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "First",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cardholders",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Sri Lanka Institute of Marketing launches SLIM DIGIS 2.1",
+    "source": "island.lk",
+    "snippet": "Sri Lanka Institute of Marketing (SLIM), the national body for marketing in Sri Lanka, recently launched SLIM DIGIS 2.1, the country's most awaited digital awards ceremony in a virtual press conference held on the 16th of September 2021.",
+    "url": "https://island.lk/sri-lanka-institute-of-marketing-launches-slim-digis-2-1/",
+    "url_hash": "58463bd09059e411efffaa0bd6e5fc39",
+    "ut": 1632101845,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Institute of Marketing (SLIM",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLIM",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2.1",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 16th of September 2021",
+        "start_end": [
+          39,
+          44
+        ]
+      }
+    ]
   }
 ]
