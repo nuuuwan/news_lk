@@ -3497,6 +3497,57 @@
   },
   {
     "date": "2021-09-19",
+    "title": "103 more COVID-19 deaths reported",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 103 more COVID-19 related deaths that occurred yesterday (18) were confirmed by the Director-General of Health Services today pushing the death toll to 12,125. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/103-more-COVID-19-deaths-reported/108-220695",
+    "url_hash": "413f1274310d2e854ca7b9203d5edc44",
+    "ut": 1632064089,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "103",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12,125",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
     "title": "PCB reaches out to Sri Lanka and Bangladesh cricket boards for short tours",
     "source": "www.islandcricket.lk",
     "snippet": "The Pakistan Cricket Board had reached out to Sri Lanka and Bangladesh for a short series in the country to make up for the cancellation of the New Zealand tour but since players from both the nations had prior commitments,",
@@ -3699,6 +3750,73 @@
     "url": "https://www.dailymirror.lk/breaking_news/SLC-to-seriously-consider-replacing-New-Zealand-in-Pakistan-if-invited/108-220696",
     "url_hash": "d6d8b978a1fb80e8f51d6a6a872e6686",
     "ut": 1632074877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Zealand",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Pakistan Cricket Board",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mohan de Silva",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "SLC to 'seriously consider' replacing New Zealand in Pakistan if invited",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Cricket (SLC) would 'seriously consider' replacing New Zealand in Pakistan should they receive an invitation from the Pakistan Cricket Board (PCB) according to SLC Secretary Mohan de Silva.",
+    "url": "https://www.dailymirror.lk/sports/SLC-to-seriously-consider-replacing-New-Zealand-in-Pakistan-if-invited/322-220696",
+    "url_hash": "7a48117511c716b46b63b7c105dc5bc2",
+    "ut": 1632074889,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -4093,6 +4211,33 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-19",
+    "title": "Milk Price Wars",
+    "source": "www.dailymirror.lk",
+    "snippet": "The dairy co-operative federation in Jaffna, YARLCO, raised the price of fresh milk sold through its many outlets from Rs.100 to Rs.120 per.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Milk-Price-Wars/172-220699",
+    "url_hash": "992b605f4e2bcf4ed518d031b553f57a",
+    "ut": 1632082089,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jaffna",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "YARLCO",
+        "start_end": [
+          9,
+          10
         ]
       }
     ]

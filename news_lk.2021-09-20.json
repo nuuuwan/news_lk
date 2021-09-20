@@ -545,5 +545,126 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "More Pfizer vaccines arrive in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "More doses of the US-manufactured Pfizer COVID-19 vaccine have arrived at the Bandaranaike International Airport (BIA) in Sri Lanka",
+    "url": "http://www.adaderana.lk/news/77056/more-pfizer-vaccines-arrive-in-sri-lanka",
+    "url_hash": "3ec598ae488189b081075c3a55864cff",
+    "ut": 1632107423,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Fertilizer shortage to deprive Sri Lanka of critical forex earnings",
+    "source": "colombogazette.com",
+    "snippet": "Due to the shortage of suitable fertilizer, Sri Lanka is unlikely to be able to achieve its export earnings target for 2021, according to the Planters' Association of Ceylon (PA), which also reiterated calls for a sustainable solution to the worsening crisis.",
+    "url": "https://colombogazette.com/2021/09/20/fertilizer-shortage-to-deprive-sri-lanka-of-critical-forex-earnings/",
+    "url_hash": "9975022f5e5477ec4362fceb189bbca3",
+    "ut": 1632109962,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Planters' Association of Ceylon (PA",
+        "start_end": [
+          26,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Discover the Wonders of Wilpattu National Park Sri Lanka via Wildlife Streaming",
+    "source": "colombogazette.com",
+    "snippet": "On 24th and 26th September, the Wilpattu National Park goes live! A 'Couch Safari' will take viewers on a wildlife streaming tour of Sri Lanka's oldest and largest national park, allowing them to experience the wonders of Wilpattu from the safety of their homes.",
+    "url": "https://colombogazette.com/2021/09/20/discover-the-wonders-of-wilpattu-national-park-sri-lanka-via-wildlife-streaming/",
+    "url_hash": "e495c933463ee03ba2a12c0e2ea3c746",
+    "ut": 1632110202,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "24th and 26th September",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Wilpattu National Park",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Wilpattu",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
   }
 ]
