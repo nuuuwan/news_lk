@@ -540,6 +540,41 @@
   },
   {
     "date": "2021-09-20",
+    "title": "Sri Lanka reaffirms active commitment to engagement with Commonwealth",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka reaffirmed its active commitment to dialogue and engagement with the Commonwealth, at a virtual meeting with Commonwealth Secre",
+    "url": "https://menafn.com/1102824834/Sri-Lanka-reaffirms-active-commitment-to-engagement-with-Commonwealth",
+    "url_hash": "c112041b6a1cd6adf7517736ae2d13c8",
+    "ut": 1632103719,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Commonwealth",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Commonwealth Secre",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
     "title": "27 countries in 21 months: Covid hasn't stopped Jaishankar from crisscrossing the world",
     "source": "www.msn.com",
     "snippet": "Jaishankar visited 4 countries. But since Covid lockdown was lifted in August 2020, he has visited 23 countries for bilateral and multilateral business.",
@@ -3950,6 +3985,135 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Pfizer says its Covid-19 vaccine safe for 5- to 11-year-olds",
+    "source": "www.dailymirror.lk",
+    "snippet": "In a highly anticipated announcement, Pfizer said on Monday a Phase 2/3 trial showed its Covid-19 vaccine was safe and generated a ''robust'' antibody response in children ages 5 to 11. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Pfizer-says-its-Covid-19-vaccine-safe-for-5-to-11-year-olds/108-220747",
+    "url_hash": "188a3aa4b12a14d882ae3bc953dc9b9a",
+    "ut": 1632146886,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2/3",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "Sri Lankan Prez Gotabaya Rajapaksa Discusses Reconciliation With UN Chief Antonio Guterres",
+    "source": "www.news18.com",
+    "snippet": "Sri Lanka President Gotabaya Rajapaksa on Monday said he held a fruitful discussion with UN Secretary General Antonio Guterres on ways to jointly promote \"reconciliation\" in the country as the only way to move towards a prosperous future.",
+    "url": "https://www.news18.com/news/world/sri-lankan-prez-gotabaya-rajapaksa-discusses-reconciliation-with-un-chief-antonio-guterres-4224980.html",
+    "url_hash": "9e942f8cd0fe9116161321dd238ae068",
+    "ut": 1632147219,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Antonio Guterres",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
+    "title": "India resumes export of vaccine doses. Know which nation received most doses",
+    "source": "www.msn.com",
+    "snippet": "India so far has exported 66.36 million doses of vaccines while administering 800 million doses of Covid-19 vaccines to its own citizens.",
+    "url": "https://www.msn.com/en-in/news/other/india-resumes-export-of-vaccine-doses-know-which-nation-received-most-doses/ar-AAODmyN",
+    "url_hash": "a77ebc00dd044171a27d5b2e6833f471",
+    "ut": 1632148336,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "66.36 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "800 million",
+        "start_end": [
+          12,
+          14
         ]
       }
     ]
