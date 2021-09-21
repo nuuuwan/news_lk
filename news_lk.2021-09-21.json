@@ -758,6 +758,89 @@
   },
   {
     "date": "2021-09-21",
+    "title": "US to ease travel restrictions on fully vaccinated foreign visitors in November",
+    "source": "www.dailymirror.lk",
+    "snippet": "The United States will reopen in November to air travelers from 33 countries including China, India, Brazil and most of Europe who are fully vaccinated against COVID-19, the White House said on Monday,",
+    "url": "https://www.dailymirror.lk/latest_news/US-to-ease-travel-restrictions-on-fully-vaccinated-foreign-visitors-in-November/342-220804",
+    "url_hash": "d3d4458593a635e6780563227a93dbea",
+    "ut": 1632190082,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United States",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "33",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Brazil",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Europe",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the White House",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Vaccination centres drying up as youngsters refuse vaccines",
     "source": "www.dailymirror.lk",
     "snippet": "Health authorities yesterday raised serious concerns over the lack of interest among the 20 to 29 age group to get themselves vaccinated against COVID19 with many having fears that it may lead to infertility while some preferred unproven natural remedies.",
@@ -1134,6 +1217,57 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Monday recorded lowest PCR, RATs done since Aug. 21",
+    "source": "www.dailymirror.lk",
+    "snippet": "The lowest number of PCR and Rapid Antigen tests have been done on Monday (20) in the country to detect COVID-19 patients since August 21 this year, according to statistics provided by the Health Promotion Bureau (HPB).",
+    "url": "https://www.dailymirror.lk/breaking_news/Monday-recorded-lowest-PCR-RATs-done-since-Aug-21/108-220807",
+    "url_hash": "055efc1071d8c980040b1dbee543da8b",
+    "ut": 1632200882,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 21 this year",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Promotion Bureau",
+        "start_end": [
+          35,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Plans afoot to provide Pfizer vaccine to A/L students soon: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "Plans are underway to provide Pfizer vaccine to the students who are sitting for the Advanced Level examination this year, Education Minister Dinesh Gunawardane told Parliament today. ..",
@@ -1297,6 +1431,33 @@
         "start_end": [
           33,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Protesting death-row inmates refuse to negotiate",
+    "source": "www.dailymirror.lk",
+    "snippet": "The death-row inmates who are protesting on the roof of the chapel ward of Welikada Prison are refusing to negotiate, the Prisons Department said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Protesting-death-row-inmates-refuse-to-negotiate/108-220809",
+    "url_hash": "df071a8c004d275402b8fe8b68beada0",
+    "ut": 1632208082,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Welikada Prison",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Prisons Department",
+        "start_end": [
+          23,
+          26
         ]
       }
     ]
