@@ -889,5 +889,115 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Plans afoot to provide Pfizer vaccine to A/L students soon: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Plans are underway to provide Pfizer vaccine to the students who are sitting for the Advanced Level examination this year, Education Minister Dinesh Gunawardane told Parliament today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Plans-afoot-to-provide-Pfizer-vaccine-to-AL-students-soon-Minister/108-220808",
+    "url_hash": "c3057e8178e7b919aa7ee3f463ab6127",
+    "ut": 1632200893,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardane",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lanka seeks more employment opportunities in Kuwait",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka has sought more employment opportunities for skilled workers in Kuwait. The request was made at a meeting held between President Gotabaya Rajapaksa and the Prime Minister of Kuwait, Sheikh Sabah Al-Hamad Al-Sabah,",
+    "url": "https://colombogazette.com/2021/09/21/sri-lanka-seeks-more-employment-opportunities-in-kuwait/",
+    "url_hash": "dcea41670d3e3013f87c4f86f4ca768e",
+    "ut": 1632204822,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kuwait",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kuwait",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sabah Al-Hamad Al-Sabah",
+        "start_end": [
+          33,
+          40
+        ]
+      }
+    ]
   }
 ]
