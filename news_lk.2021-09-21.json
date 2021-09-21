@@ -1614,5 +1614,83 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Canada's Trudeau wins another minority in election, claims 'clear mandate'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Canadian Prime Minister Justin Trudeau hung onto power on Monday as his main rival conceded defeat, saying he had won a clear mandate to govern although he fell short of his goal for a majority win. .",
+    "url": "https://www.dailymirror.lk/breaking_news/Canadas-Trudeau-wins-another-minority-in-election-claims-clear-mandate/108-220810",
+    "url_hash": "175c311605fdbef65edd7c66c71d83ca",
+    "ut": 1632211686,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Canadian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Justin Trudeau",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Rishad returned back to remand custody",
+    "source": "www.newsfirst.lk",
+    "snippet": "Ex-Minister Rishad Bathiudeen was returned to remand custody until the 05th of October, as per an order issued by Fort Magistrate - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/21/rishad-returned-back-to-remand-custody/",
+    "url_hash": "d25263d389fde5be94a3b01ce36799a6",
+    "ut": 1632218310,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ex-Minister Rishad Bathiudeen",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 05th of October",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Fort Magistrate",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
   }
 ]
