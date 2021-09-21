@@ -1,6 +1,57 @@
 [
   {
     "date": "2021-09-21",
+    "title": "Lankan Prez discusses reconciliation with UN chief Guterres",
+    "source": "www.outlookindia.com",
+    "snippet": "Sri Lanka President Gotabaya Rajapaksa on Monday said he held a \"fruitful discussion\" with UN Secretary General Antonio Guterres on ways to jointly promote \"reconciliation\" in the country as the only way to move towards a prosperous future.",
+    "url": "https://www.outlookindia.com/newsscroll/lankan-prez-discusses-reconciliation-with-un-chief-guterres/2163384",
+    "url_hash": "a7c6bee2809d4e69515703343c8c87a1",
+    "ut": 1632183424,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Antonio Guterres",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Sri Lanka's Exterminators to franchise globally",
     "source": "www.msn.com",
     "snippet": "The Exterminators, one of Sri Lanka's premier environmental enhancement solutions providers has announced that the company will franchise its specialized services nationally and internationally.Franchise opportunities are available for pest control,",
@@ -183,6 +234,215 @@
         "start_end": [
           45,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lanka tea output, export earnings could fall 25-pct over fertilizer ban: industry group",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's tea production and export revenues are likely to fall in the coming months due to a fertilizer ban though up to July 2021 volumes and earnings are up compared to 2020, but down from 2019,",
+    "url": "https://economynext.com/sri-lanka-tea-output-export-earnings-could-fall-25-pct-over-fertilizer-ban-industry-group-86312/",
+    "url_hash": "b2da38df5d90756db14473dc488a10a0",
+    "ut": 1632187020,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming months",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July 2021",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Lanka receives another 20 railway passenger coaches from India",
+    "source": "island.lk",
+    "snippet": "SriLanka has received another 20 state-of-the-art railway passenger coaches from India as part of the supply of 160 coaches to the Sri Lankan Railways by the Rail India Technical and Economic Service (RITES),",
+    "url": "https://island.lk/lanka-receives-another-20-railway-passenger-coaches-from-india/",
+    "url_hash": "86c99a6c738ab08d0f8612ed5fab00ae",
+    "ut": 1632187543,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLanka",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "160",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Railways",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Rail India Technical and Economic Service",
+        "start_end": [
+          31,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lanka all set for Expo 2020 Dubai",
+    "source": "island.lk",
+    "snippet": "DUBAI is the latest edition of World Expos held around the world since 1851 and will be the first ever to be held in the Middle East, Africa, and South Asia. Sri Lanka will participate in the mega-event which commences in October (01st October 2021 - 31st March 2022) and is expected to",
+    "url": "https://island.lk/sri-lanka-all-set-for-expo-2020-dubai/",
+    "url_hash": "e0461f2507d2b7d68e3cf743a15a1c88",
+    "ut": 1632188803,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "DUBAI",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Expos",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1851",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Middle East",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Africa",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "01st",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 2021 - 31st March 2022",
+        "start_end": [
+          49,
+          55
         ]
       }
     ]
