@@ -3953,6 +3953,49 @@
   },
   {
     "date": "2021-09-20",
+    "title": "Sputnik V vaccines required for second dose arrive in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Sputnik V vaccines required to be used as the second dose arrived in Sri Lanka today.   A consignment of 120,000 doses of",
+    "url": "https://menafn.com/1102823806/Sputnik-V-vaccines-required-for-second-dose-arrive-in-Sri-Lanka",
+    "url_hash": "05d0bfa9003f73fe75d6d4daf32c332b",
+    "ut": 1632139726,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "120,000",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-20",
     "title": "8 people killed in shooting at Russian university",
     "source": "www.dailymirror.lk",
     "snippet": "At least eight people were killed when a gunman opened fire at a university in the Russian city of Perm on Monday, officials have said. ..",

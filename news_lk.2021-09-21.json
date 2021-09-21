@@ -1,6 +1,65 @@
 [
   {
     "date": "2021-09-21",
+    "title": "Fresh start for Kusal Mendis",
+    "source": "www.islandcricket.lk",
+    "snippet": "Kusal Mendis is set to represent Sinhalese Sports Club (SSC) in the upcoming Sri Lanka's domestic Inter-Club season. Mendis who has been suspended from cricket for breaching the bio-security bubble in Durham,",
+    "url": "https://www.islandcricket.lk/news/fresh-start-for-kusal-mendis/",
+    "url_hash": "f8ef1c142f38b1fa4afcc1ddbab8d0b2",
+    "ut": 1632182905,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kusal Mendis",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinhalese Sports Club",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Inter-Club season",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mendis",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Durham",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Lankan Prez discusses reconciliation with UN chief Guterres",
     "source": "www.outlookindia.com",
     "snippet": "Sri Lanka President Gotabaya Rajapaksa on Monday said he held a \"fruitful discussion\" with UN Secretary General Antonio Guterres on ways to jointly promote \"reconciliation\" in the country as the only way to move towards a prosperous future.",
@@ -443,6 +502,207 @@
         "start_end": [
           49,
           55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lanka central bank Treasuries stock tops Rs1.3 trillion amid reserve losses",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank has bought 45.9 billion rupees of Treasury bills on Friday takings it total Treasury bills stock to 1330.3 billion rupees, official data shows, as foreign reserve losses continue amid non-market interest rates.",
+    "url": "https://economynext.com/sri-lanka-central-bank-treasuries-stock-tops-rs1-3-trillion-amid-reserve-losses-86314/",
+    "url_hash": "715bc2ce88a0ab88b51a1cdd27a55463",
+    "ut": 1632190422,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "45.9 billion",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "1330.3 billion",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "US to ease travel restrictions on fully vaccinated foreign visitors in November",
+    "source": "www.dailymirror.lk",
+    "snippet": "The United States will reopen in November to air travelers from 33 countries including China, India, Brazil and most of Europe who are fully vaccinated against COVID-19, the White House said on Monday,",
+    "url": "https://www.dailymirror.lk/breaking_news/US-to-ease-travel-restrictions-on-fully-vaccinated-foreign-visitors-in-November/108-220804",
+    "url_hash": "6f8f3b1334724f30f9be32aa2a328d5a",
+    "ut": 1632190875,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United States",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "33",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Brazil",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Europe",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the White House",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lankan economic emergency gives sleepless nights to drug exporters",
+    "source": "www.pharmabiz.com",
+    "snippet": "Sri Lankan economic emergency gives sleepless nights to drug exporters: Laxmi Yadav, Mumbai Tuesday, September 21, 2021, 08:00 Hrs [IST] The economic emergency declared in Sri Lan",
+    "url": "http://www.pharmabiz.com/NewsDetails.aspx?aid=142669&sid=1",
+    "url_hash": "d8c344c21b741515e51ad85546bfed13",
+    "ut": 1632191425,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Laxmi Yadav",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday, September 21, 2021",
+        "start_end": [
+          15,
+          21
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "08:00",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sri Lan",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]
