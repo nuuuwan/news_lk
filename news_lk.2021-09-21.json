@@ -1934,6 +1934,73 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Pfizer for children above 12 years within next seven days at LRH: Paediatrician",
+    "source": "www.dailymirror.lk",
+    "snippet": "A decision has been taken to provide Pfizer vaccine as a shield against the Covid virus for children above 12-years of age at the Lady Ridgeway Hospital (LRH) in Colombo within the next seven days, LRH Consultant Paediatrician Dr.",
+    "url": "https://www.dailymirror.lk/breaking_news/Pfizer-for-children-above-12-years-within-next-seven-days-at-LRH-Paediatrician/108-220811",
+    "url_hash": "31dd718a1da08b34fb3cfd59407bc287",
+    "ut": 1632215293,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-years of age",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Lady Ridgeway Hospital",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next seven days",
+        "start_end": [
+          35,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LRH",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Paediatrician",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Prez pitches investment opportunities in SL to Kuwait",
     "source": "www.dailymirror.lk",
     "snippet": "In an effort to increase Foreign Direct Investments (FDIs) into the country, the government has pitched Sri Lanka as a feasible destination for investments to the State of Kuwait. ..",
@@ -2822,6 +2889,41 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Vaccination drive",
+    "source": "www.dailymirror.lk",
+    "snippet": "People who are living in Colombo today received the COVID-19 vaccine at the Army Vaccination Centre at Viharamahadevi park. Pix by Pradeep Pathirana. ..",
+    "url": "https://www.dailymirror.lk/caption_story/Vaccination-drive/110-220826",
+    "url_hash": "daf6b28736754d0db7378d8eaf9fb09e",
+    "ut": 1632229693,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Army Vaccination Centre",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Viharamahadevi park",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "GTF welcomes President's call for engagement with Diaspora",
     "source": "www.dailymirror.lk",
     "snippet": "Global Tamil Forum (GTF), a leading Diaspora group, said President Gotabaya Rajapaksa wanting to engage with the Tamil diaspora is certainly a progressive move. ..",
@@ -2871,6 +2973,49 @@
     "url": "https://www.sfgate.com/business/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
     "url_hash": "071c726b0703b2f43daaa179cfa68ebf",
     "ut": 1632229705,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangkok",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 18",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: CDC study says COVID-19 can spread in vaccinated",
+    "source": "www.fairfieldcitizenonline.com",
+    "snippet": "BANGKOK \u2014 Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
+    "url": "https://www.fairfieldcitizenonline.com/business/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
+    "url_hash": "d18fc90b409d46e5c4a36e16cccb156a",
+    "ut": 1632229726,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -3714,6 +3859,108 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Vaccinating children above 12 with chronic illnesses to start this Friday: Prof. Jayasumana",
+    "source": "www.dailymirror.lk",
+    "snippet": "Vaccination for children above 12 years of age, who are diagnosed with chronic diseases, would commence at the Lady Ridgeway Hospital from this Friday (24), State Minister Channa Jayasumana told Parliament today.",
+    "url": "https://www.dailymirror.lk/latest_news/Vaccinating-children-above-12-with-chronic-illnesses-to-start-this-Friday-Prof-Jayasumana/342-220833",
+    "url_hash": "b6d99c45571eebb52cca270331532aa7",
+    "ut": 1632240493,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "above 12 years of age",
+        "start_end": [
+          3,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Lady Ridgeway Hospital",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this Friday",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasumana",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: Ramping up rapid COVID-19 tests for home, school",
+    "source": "www.startribune.com",
+    "snippet": "President Joe Biden is betting on millions more rapid, at-home tests to help curb the latest deadly wave of the COVID-19 pandemic.",
+    "url": "https://www.startribune.com/the-latest-ramping-up-rapid-covid-19-tests-for-home-school/600099264/",
+    "url_hash": "c159b8c3c6aaf807305832f3fbb1ec9a",
+    "ut": 1632240502,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "High-risk postoperative conditions will occur even after recovering from COVID: Respiratory physician",
     "source": "www.dailymirror.lk",
     "snippet": "Even after recovering from COVID viral infection, several high-risk postoperative conditions such as COVID pneumonia could occur, Consultant Respiratory Physician at the Colombo National Hospital Dr.",
@@ -3872,6 +4119,100 @@
         "start_end": [
           24,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Setefano considered for SL 7's Head Coach Job",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Fiji Captain Setefano Cakau has been considered for the Sri Lanka Seven's rugby head coach job despite Sri Lanka Rugby's (SLR) failure to finalize the national squad ahead of the Asia Rugby Seven's Series in November.",
+    "url": "https://www.dailymirror.lk/top-story-sports-2/Setefano-considered-for-SL-7s-Head-Coach-Job/326-220835",
+    "url_hash": "7aa8377a13f80b53907aff65f03c0485",
+    "ut": 1632244093,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Fiji",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Setefano Cakau",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the national squad ahead",
+        "start_end": [
+          29,
+          33
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Series",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: Ramping up rapid COVID-19 tests for home, school",
+    "source": "www.fairfieldcitizenonline.com",
+    "snippet": "WASHINGTON \u2014 President Joe Biden is betting on millions more rapid, at-home tests to help curb the latest deadly wave of the COVID-19 pandemic. Surging infections are overloading hospitals and threatening to shutter some classrooms.",
+    "url": "https://www.fairfieldcitizenonline.com/news/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
+    "url_hash": "3b27448c83924712c35e5ec3c8d12a39",
+    "ut": 1632244110,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          8,
+          9
         ]
       }
     ]
@@ -4329,6 +4670,25 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Supporting Sri Lankan smallholder farmers transition to more sustainable agriculture",
+    "source": "www.ft.lk",
+    "snippet": "Today we are in the midst of many conversations and debates on the impact of the recent Government directives about the import of agrochemicals aimed at an immediate shift to organic agriculture. Needless to say,",
+    "url": "https://www.ft.lk/opinion/Supporting-Sri-Lankan-smallholder-farmers-transition-to-more-sustainable-agriculture/14-723316",
+    "url_hash": "305acb96ab28fcc3e8ba23dccff45d10",
+    "ut": 1632247714,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "CB likely to continue money expansion, direct controls",
     "source": "www.ft.lk",
     "snippet": "The Central Bank of Sri Lanka (CBSL) has been subject to severe criticism over the rapid expansion of the money supply since last year. The aggregate money supply rose by 21% during the last 12 months.",
@@ -4487,6 +4847,49 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: San Francisco requires TSA workers to vaccinate",
+    "source": "omaha.com",
+    "snippet": "SAN FRANCISCO \u2014 San Francisco is requiring all workers at San Francisco International Airport to get vaccinated against COVID-19. Employees who are exempt must undergo weekly testing.",
+    "url": "https://omaha.com/business/consumer/the-latest-san-francisco-requires-tsa-workers-to-vaccinate/article_24f2c67b-251e-5a3b-9346-0c9c77a2067a.html",
+    "url_hash": "089d748274ce87fe24a8bc68badb33e4",
+    "ut": 1632254910,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SAN FRANCISCO",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "San Francisco",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "San Francisco International Airport",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
