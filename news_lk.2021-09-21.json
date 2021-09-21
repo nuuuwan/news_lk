@@ -2682,6 +2682,92 @@
   },
   {
     "date": "2021-09-21",
+    "title": "GTF welcomes President's call for engagement with Diaspora",
+    "source": "www.dailymirror.lk",
+    "snippet": "Global Tamil Forum (GTF), a leading Diaspora group, said President Gotabaya Rajapaksa wanting to engage with the Tamil diaspora is certainly a progressive move. ..",
+    "url": "https://www.dailymirror.lk/latest_news/GTF-welcomes-Presidents-call-for-engagement-with-Diaspora/342-220828",
+    "url_hash": "86d9a924b07de3a3037615c19d5ef009",
+    "ut": 1632229697,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Global Tamil Forum",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Diaspora",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: Bangkok to give vaccines to ages 12 to 18",
+    "source": "www.sfgate.com",
+    "snippet": "BANGKOK \u2014 Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
+    "url": "https://www.sfgate.com/business/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
+    "url_hash": "071c726b0703b2f43daaa179cfa68ebf",
+    "ut": 1632229705,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangkok",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 18",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "The Latest: Bangkok to give vaccines to ages 12 to 18",
     "source": "www.westport-news.com",
     "snippet": "BANGKOK \u2014 Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
@@ -3205,6 +3291,162 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Guidelines on reopening Primary Schools directed to Edu. Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "The relevant recommendations required to re-commence Grade five and classes below that have been handed over to the Secretary to the Education Ministry. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Guidelines-on-reopening-Primary-Schools-directed-to-Edu-Ministry/108-220830",
+    "url_hash": "a86b808c66dce70dcedacb2cea268515",
+    "ut": 1632236897,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Grade",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Education Ministry",
+        "start_end": [
+          22,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: China keeps coronavirus at bay ahead of Olympics",
+    "source": "abcnews.go.com",
+    "snippet": "China's \"zero tolerance\" strategy of trying to isolate every case and stop transmission of the coronavirus has kept the country of 1.4 billion people largely free of the disease",
+    "url": "https://abcnews.go.com/Health/wireStory/latest-jj-booster-dose-strong-response-80142804",
+    "url_hash": "63bdf959106f3a3dff9823245c7bf87d",
+    "ut": 1632238345,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "zero",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.4 billion",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Bangladesh completes $200m bailout fund disbursement to Sri Lanka",
+    "source": "www.newagebd.net",
+    "snippet": "The Bangladesh Bank on Tuesday completed disbursement of the $200-million bailout fund to cash crisis-hit Sri Lanka amid a deepening foreign reserve crisis in",
+    "url": "https://www.newagebd.net/article/149749/bangladesh-completes-200m-bailout-fund-disbursement-to-sri-lanka",
+    "url_hash": "e878ed66cda896aa6c81580956bebf8c",
+    "ut": 1632239005,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Bangladesh Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$200-million",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Aggressor Adventures Announces World Tourism Day Flash Sale",
+    "source": "finance.yahoo.com",
+    "snippet": "In honor of World Tourism Day, Aggressor Adventures announces a flash sale offering customers $800 worth of savings during a four-day booking window.",
+    "url": "https://finance.yahoo.com/news/aggressor-adventures-announces-world-tourism-153500860.html",
+    "url_hash": "84a168e97e65f8927be2b7322b0f6a08",
+    "ut": 1632239725,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "World Tourism Day",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Aggressor Adventures",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "800",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-day",
+        "start_end": [
+          22,
+          25
         ]
       }
     ]
