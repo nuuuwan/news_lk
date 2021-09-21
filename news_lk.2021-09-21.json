@@ -2884,6 +2884,100 @@
     "title": "66 more COVID-19 deaths reported today",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 66 more COVID-19 related deaths that occurred yesterday (20) were confirmed by the Director-General of Health Services today pushing the death toll to 12,284. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/66-more-COVID-19-deaths-reported-today/108-220821",
+    "url_hash": "897fda84e2b3ad985403866012237faf",
+    "ut": 1632229673,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "66",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12,284",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Curi0, a curious new name, takes podium finish at Monza",
+    "source": "www.dailymirror.lk",
+    "snippet": "Championship leader Fawzul was close behind mounting the pressure and making his presence felt, this fight went on for almost half way of the race and saw the leader Andrew making a mistake which paved the pathway for Fawzul who didn't need a second chance.",
+    "url": "https://www.dailymirror.lk/headline/Curi0-a-curious-new-name-takes-podium-finish-at-Monza/419-220822",
+    "url_hash": "d08d16c0f5581d2f436dd5a4ce3a992d",
+    "ut": 1632229673,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Fawzul",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "almost half",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Andrew",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "66 more COVID-19 deaths reported today",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 66 more COVID-19 related deaths that occurred yesterday (20) were confirmed by the Director-General of Health Services today pushing the death toll to 12,284. ..",
     "url": "https://www.dailymirror.lk/latest_news/66-more-COVID-19-deaths-reported-today/342-220821",
     "url_hash": "a0c1f3937ba7265a75254ff7afa98467",
     "ut": 1632229674,
@@ -3391,6 +3485,68 @@
         "start_end": [
           27,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Booster vaccine rollout to kick off soon",
+    "source": "www.dailymirror.lk",
+    "snippet": "COVID booster jabs will begin to be administered to the relevant groups of people in the near future once the second dose rollout is completed, a top official said. ..",
+    "url": "https://www.dailymirror.lk/top_story/Booster-vaccine-rollout-to-kick-off-soon/155-220827",
+    "url_hash": "6d2ad83a5d3da560d6a375ed8dd97146",
+    "ut": 1632233273,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: China keeps coronavirus at bay ahead of Olympics",
+    "source": "tulsaworld.com",
+    "snippet": "BEIJING \u2014 China's \"zero tolerance\" strategy of trying to isolate every case and stop transmission of the coronavirus has kept the country of 1.4 billion people largely free of the",
+    "url": "https://tulsaworld.com/news/national/govt-and-politics/the-latest-china-keeps-coronavirus-at-bay-ahead-of-olympics/article_70721531-43ff-57c6-89b1-6a1ce8e25499.html",
+    "url_hash": "19b1ff741c235d9b7477b11ae10098e4",
+    "ut": 1632233290,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BEIJING",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "zero",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.4 billion",
+        "start_end": [
+          26,
+          28
         ]
       }
     ]
@@ -4834,6 +4990,135 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Sri Lanka Tourism targets top trade fairs to woo travellers",
+    "source": "www.ft.lk",
+    "snippet": "By Charumini de Silva Ahead of the winter season and a one-year break from physical engagement at global trade fairs, Sri Lanka Tourism has set out plans to undertake a series of promotional activities at top travel events in France,",
+    "url": "https://www.ft.lk/top-story/Sri-Lanka-Tourism-targets-top-trade-fairs-to-woo-travellers/26-723338",
+    "url_hash": "a7d555ad5a8a1aed42eef9d829b764b8",
+    "ut": 1632247694,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Charumini de Silva Ahead",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the winter season",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-year",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lanka, World Bank sign $ 92 m financing deal to strengthen climate resilience",
+    "source": "www.ft.lk",
+    "snippet": "The Government and the World Bank signed a $ 92 million financing agreement for the Climate Resilience Multi-Phased Program Phase I Project. This project is expected to benefit around 11.2 million people across the country by modernising the weather,",
+    "url": "https://www.ft.lk/front-page/Sri-Lanka-World-Bank-sign-92-m-financing-deal-to-strengthen-climate-resilience/44-723330",
+    "url_hash": "bbdc8c12061aadfdc92c0072ba0bbbcd",
+    "ut": 1632247706,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the World Bank",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 92 million",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Climate Resilience Multi-Phased Program Phase I Project",
+        "start_end": [
+          14,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "around 11.2 million",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "REC Campus in landmark move sues YouTube and clandestine YouTube channel for defamation",
+    "source": "www.ft.lk",
+    "snippet": "REC Campus (Russian Education Centre), a Colombo-based leading foreign educational pathway provider in Sri Lanka, has instituted legal action in the District Court of Colombo against YouTube LLC, a California-based social media network offering a popular video sharing platform,",
+    "url": "https://www.ft.lk/front-page/REC-Campus-in-landmark-move-sues-YouTube-and-clandestine-YouTube-channel-for-defamation/44-723337",
+    "url_hash": "1205b74a9fc2a002d64d38c4da28169e",
+    "ut": 1632247706,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the District Court of Colombo",
+        "start_end": [
+          26,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "California",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Supporting Sri Lankan smallholder farmers transition to more sustainable agriculture",
     "source": "www.ft.lk",
     "snippet": "Today we are in the midst of many conversations and debates on the impact of the recent Government directives about the import of agrochemicals aimed at an immediate shift to organic agriculture. Needless to say,",
@@ -5054,6 +5339,49 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: San Francisco requires TSA workers to vaccinate",
+    "source": "omaha.com",
+    "snippet": "SAN FRANCISCO \u2014 San Francisco is requiring all workers at San Francisco International Airport to get vaccinated against COVID-19. Employees who are exempt must undergo weekly testing.",
+    "url": "https://omaha.com/news/national/govt-and-politics/the-latest-san-francisco-requires-tsa-workers-to-vaccinate/article_daba9426-46f2-510c-b58e-551bc865c2be.html",
+    "url_hash": "1748a8ce559b15c5b12d2a518e3f6d78",
+    "ut": 1632254890,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SAN FRANCISCO",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "San Francisco",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "San Francisco International Airport",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
