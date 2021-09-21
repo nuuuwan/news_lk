@@ -2421,6 +2421,33 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Missing NMRA files contain data on medicines imported by previous govt. at higher prices: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The 5925 files out of the database of National Medicine Regulatory Authority (NMRA) which have been erased or disappeared contain data on medicines imported by the previous regime at exceptionally high prices,",
+    "url": "https://www.dailymirror.lk/breaking_news/Missing-NMRA-files-contain-data-on-medicines-imported-by-previous-govt-at-higher-prices-Minister/108-220825",
+    "url_hash": "d33489acd9e4161532e8ef872b541cd3",
+    "ut": 1632226091,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "5925",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Medicine Regulatory Authority",
+        "start_end": [
+          8,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Sri Lanka opposition JVP raise concerns over organic fertilizer imports from China",
     "source": "economynext.com",
     "snippet": "Sri Lanka's plans to import 63 million US dollars of organic fertilizer from a China based company after a ban on chemical fertilizer could be risky if they contain harmful micro-organisms and if they are made from municipal waste,",
@@ -2628,6 +2655,33 @@
   },
   {
     "date": "2021-09-21",
+    "title": "90% pregnant mothers vaccinated so far: Family Health Bureau",
+    "source": "www.dailymirror.lk",
+    "snippet": "About 90% of the pregnant mothers have been vaccinated so far, Family Health Bureau Director and Community Physician Chitramali de Silva said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/90-pregnant-mothers-vaccinated-so-far-Family-Health-Bureau/342-220823",
+    "url_hash": "60d63c53106af76a4b2aa8ec7d7b152b",
+    "ut": 1632229691,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "About 90%",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Family Health Bureau",
+        "start_end": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "The Latest: Bangkok to give vaccines to ages 12 to 18",
     "source": "www.westport-news.com",
     "snippet": "BANGKOK \u2014 Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
@@ -2810,6 +2864,347 @@
         "start_end": [
           27,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Booster vaccine rollout to kick off soon",
+    "source": "www.dailymirror.lk",
+    "snippet": "COVID booster jabs will begin to be administered to the relevant groups of people in the near future once the second dose rollout is completed, a top official said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Booster-vaccine-rollout-to-kick-off-soon/108-220827",
+    "url_hash": "c1ccd572fa063273e845d95faeba8ea8",
+    "ut": 1632233291,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: Bangkok to give vaccines to ages 12 to 18",
+    "source": "www.middletownpress.com",
+    "snippet": "BANGKOK \u2014 Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
+    "url": "https://www.middletownpress.com/news/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
+    "url_hash": "cd7c7fa3ee37bf0f2c5b55ef3c1ff983",
+    "ut": 1632233312,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangkok",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 18",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lanka stocks edge down in lackluster trade; CB direction awaited",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stock index fell 0.36 percent on Tuesday (21) in thin volumes of trade as investors adopted a wait and see approach and waited for central bank directions on the interest rate and rupee exchange rate under the newly appointed central bank governor,",
+    "url": "https://economynext.com/sri-lanka-stocks-edge-down-in-lackluster-trade-cb-direction-awaited-86341/",
+    "url_hash": "7e898a6e067513bf5f92b53bde5d62f4",
+    "ut": 1632234222,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.36 percent",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lankan Tamil refugees in India attempt mass suicide",
+    "source": "colombogazette.com",
+    "snippet": "At least 29 Sri Lankan Tamils at a special refugee camp within a prison in southern India tried to take their own lives last month in protest against their detention, AlJazeera reported today. On August 18,",
+    "url": "https://colombogazette.com/2021/09/21/sri-lankan-tamil-refugees-in-india-attempt-mass-suicide/",
+    "url_hash": "42a1aeb6cd314e9e09ff7743bc06b1cc",
+    "ut": 1632234983,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 29",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Tamils",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last month",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "AlJazeera",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 18",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: China keeps coronavirus at bay ahead of Olympics",
+    "source": "www.chron.com",
+    "snippet": "BEIJING \u2014 China's \"zero tolerance\" strategy of trying to isolate every case and stop transmission of the coronavirus has kept the country of 1.4 billion people largely free of the disease. But the public and businesses are paying a steep price.",
+    "url": "https://www.chron.com/news/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
+    "url_hash": "fcea68cdd2ae70af9f0eb6c16bce30ce",
+    "ut": 1632235832,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BEIJING",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "zero",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.4 billion",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: Bangkok to give vaccines to ages 12 to 18",
+    "source": "chinapost.nownews.com",
+    "snippet": "BANGKOK \u2014 Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
+    "url": "https://chinapost.nownews.com/20210921-2782550",
+    "url_hash": "9e7291b5f4370caed99153a1dee99159",
+    "ut": 1632236003,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangkok",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 18",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Team Inventius enters in the secure application delivery space with our new alliance partner Edgenexus, UK.",
+    "source": "www.openpr.com",
+    "snippet": "Team Inventius is highly delighted to announce our new alliance with the UK Head Quartered application delivery solution specialist Edgenexus Limited Inventius Technologies signed the Distribution Agreement on 9th of September 2021 with EdgeNexus UK for the India region Inventius",
+    "url": "https://www.openpr.com/news/2398179/team-inventius-enters-in-the-secure-application-delivery-space",
+    "url_hash": "4cc13e18094ab636c2fc59dac8235dd5",
+    "ut": 1632236552,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Head Quartered",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Edgenexus Limited Inventius Technologies",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Distribution Agreement",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "9th",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EdgeNexus",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Inventius",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
