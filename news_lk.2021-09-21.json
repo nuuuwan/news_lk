@@ -1711,6 +1711,41 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Canada's Trudeau wins third term",
+    "source": "www.dailymirror.lk",
+    "snippet": "Canadian Prime Minister Justin Trudeau hung onto power on Monday as his main rival conceded defeat, saying he had won a clear mandate to govern although he fell short of his goal for a majority win. .",
+    "url": "https://www.dailymirror.lk/breaking_news/Canada-s-Trudeau-wins-third-term/108-220810",
+    "url_hash": "91924b4b7e81a4840e62f78336ee5ef9",
+    "ut": 1632211854,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Canadian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Justin Trudeau",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Death-row inmates continue their protest\u2026",
     "source": "www.dailymirror.lk",
     "snippet": "The death-row inmates who launched a protest yesterday on the roof of the chapel ward of Welikada Prison demanding that their long prison terms be reduced, continued the protest for the second day as they refused to negotiate.",
@@ -1931,6 +1966,76 @@
         "start_end": [
           4,
           9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sand, soil, gravel transportation permits to be issued online from Sept. 30: Amaraweera",
+    "source": "www.dailymirror.lk",
+    "snippet": "Steps have been taken by the Geological Survey and Mines Bureau (GSMB) to issue transport permits through online from September 30 that is required for development projects in the country as well as for people's needs,",
+    "url": "https://www.dailymirror.lk/breaking_news/Sand-soil-gravel-transportation-permits-to-be-issued-online-from-Sept-30-Amaraweera/108-220816",
+    "url_hash": "da7f939a0d0df6b56324c3b89abd76c5",
+    "ut": 1632219054,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Geological",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau (GSMB",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 30",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Reveal clear policy without deceiving country: NPP",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that the Government had reversed the decision to ban on the use of chemical fertilizer, the National People's power (NPP) today urged the Government to reveal its clear policy without deceiving the country.",
+    "url": "https://www.dailymirror.lk/latest_news/Reveal-clear-policy-without-deceiving-country-NPP/342-220817",
+    "url_hash": "fc45d2d231b8b6b7248309f7f72825e9",
+    "ut": 1632219054,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National People's",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NPP",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
         ]
       }
     ]
@@ -2243,6 +2348,170 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lanka opposition raise concerns over organic fertilizer imports from China",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's plans to import 63 million US dollars of organic fertilizer from a China based company after a ban on chemical fertilizer could be risky if they contain harmful micro-organisms and if they are made from municipal waste,",
+    "url": "https://economynext.com/sri-lanka-opposition-raise-concerns-over-organic-fertilizer-imports-from-china-86339/",
+    "url_hash": "00fff717f75179f960faddd1e8a49b48",
+    "ut": 1632226278,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "63 million US dollars",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Pfizer for children over 12 with special needs, from 24th Sept",
+    "source": "www.newsfirst.lk",
+    "snippet": "Sri Lanka has decided to administer the Pfizer vaccine against COVID-19 to children above the age of 12, with special needs & - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/21/pfizer-for-children-over-12-with-special-needs-from-24th-sept/",
+    "url_hash": "61669195487e322b90306fd2920ab2ad",
+    "ut": 1632227342,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the age of 12",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: Bangkok to give vaccines to ages 12 to 18",
+    "source": "www.seattlepi.com",
+    "snippet": "BANGKOK \u2014 Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
+    "url": "https://www.seattlepi.com/business/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
+    "url_hash": "8bd90950ab7cfa9d2663d021949482be",
+    "ut": 1632229682,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangkok",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 18",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: Bangkok to give vaccines to ages 12 to 18",
+    "source": "www.westport-news.com",
+    "snippet": "BANGKOK \u2014 Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
+    "url": "https://www.westport-news.com/business/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
+    "url_hash": "fb8fbb69ae9f11a2ef7293b57a1c8e3c",
+    "ut": 1632229750,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangkok",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 18",
+        "start_end": [
+          27,
+          31
         ]
       }
     ]
