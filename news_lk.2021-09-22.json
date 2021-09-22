@@ -1,6 +1,41 @@
 [
   {
     "date": "2021-09-22",
+    "title": "Youngsters refusing to take vaccines plunging country at risk",
+    "source": "www.dailymirror.lk",
+    "snippet": "Referring to the hesitancy shown by the younger population to receive the COVID vaccine, Chairman of State Pharmaceuticals Corporation (SPC) Dr. Prasanna Gunasena said it could result in high danger increasing the viral loads in the society.",
+    "url": "https://www.dailymirror.lk/breaking_news/Youngsters-refusing-to-take-vaccines-plunging-country-at-risk/108-220837",
+    "url_hash": "ca213061ba37125bf6b9f4957813b7d8",
+    "ut": 1632269859,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "COVID",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State Pharmaceuticals Corporation",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Gunasena",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
     "title": "Sri Lanka CB announces monetary board secretary amid controversy",
     "source": "economynext.com",
     "snippet": "Sri Lanka's central bank has announced the appointment of a new Secretary to its rate-setting Monetary Board amid a controversy.",
@@ -22,6 +57,135 @@
         "start_end": [
           18,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Sri Lanka's national inflation at 6.7-pct in August 2021",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's nation-wide inflation was measured at 6.7 percent in the 12-months to August 2021 slowing from 6.8 percent in July, but prices went up 0.3 percent during the month, data from the state debt office showed.",
+    "url": "https://economynext.com/sri-lankas-national-inflation-at-6-7-pct-in-august-2021-86348/",
+    "url_hash": "fd5bcd628a2b57c92352ab4de4d321d9",
+    "ut": 1632273483,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "6.7 percent",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-months to August 2021",
+        "start_end": [
+          14,
+          20
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "6.8 percent",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.3 percent",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the month",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "UGC releases District percentages for university entrance",
+    "source": "www.dailynews.lk",
+    "snippet": "District-wise percentages for university entrance based on the results of G. C. E. Advanced Level Examination in 2020 have been released by the University Grants Commission.",
+    "url": "https://www.dailynews.lk/2021/09/21/local/259874/ugc-releases-district-percentages-university-entrance",
+    "url_hash": "81925d615ede55b4500e239a39c7e00f",
+    "ut": 1632274483,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "G. C. E. Advanced Level Examination",
+        "start_end": [
+          12,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University Grants Commission",
+        "start_end": [
+          24,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "13 soldiers arrested in connection to murder",
+    "source": "www.newsfirst.lk",
+    "snippet": "COLOMBO (News 1st); 13 soldiers have been arrested with regard to the murder of a man in Mattakkuliya. The deceased was the husband of a Grama Niladhari - Get the latest breaking news and top stories from Sri Lanka,",
+    "url": "https://www.newsfirst.lk/2021/09/21/13-soldiers-arrested-in-connection-to-murder/",
+    "url_hash": "dfb4bf5ef9e9ac45bd807ad5431ad66c",
+    "ut": 1632276587,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          41,
+          43
         ]
       }
     ]
