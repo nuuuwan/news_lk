@@ -726,6 +726,65 @@
   },
   {
     "date": "2021-09-22",
+    "title": "Sri Lanka seeks $100 million loan from IMF to procure 14 million Pfizer vaccines",
+    "source": "theprint.in",
+    "snippet": "Sri Lankan minister for pharmaceuticals Channa Jayasumana told Parliament Tuesday that the government had vaccinated over 50% of the island nation's 21 million population.",
+    "url": "https://theprint.in/world/sri-lanka-seeks-100-million-loan-from-imf-to-procure-14-million-pfizer-vaccines/737843/",
+    "url_hash": "628f697c3d2b7b63d994b8224a28d0f3",
+    "ut": 1632283710,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasumana",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "over 50%",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "21 million",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
     "title": "Renewable energy firms with overseas operations poised to get windfall from rupee depreciation",
     "source": "www.dailymirror.lk",
     "snippet": "The local renewable energy players with an expansive overseas portfolio are likely to do well in the future due to the growing demand for sustainable energy as the world is coming together to gradually end its reliance on fossil fuel powered energy on growing concerns about climate change and global warming.",
@@ -2840,6 +2899,108 @@
         "start_end": [
           61,
           62
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "COVID-19 vaccines: Sri Lanka seeks $100 million assistance from IMF",
+    "source": "www.newsbytesapp.com",
+    "snippet": "Sri Lanka has decided to ask for a $100 million loan from IMF to procure 14 million doses of Pfizer COVID-19 vaccine and finance other vaccination program-related costs",
+    "url": "https://www.newsbytesapp.com/news/world/sri-lanka-seeks-100mn-assistance-from-imf/story",
+    "url_hash": "14ffc22c74a5343b46a92ee89a055d31",
+    "ut": 1632302670,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$100 million",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14 million",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Sri Lanka justice minister condemns Anuradhapura prison incident; inquiry to begin",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Justice Minister Ali Sabry has condemned an incident involving the ex-Prisons Minister who has been accused of threatening detainees at the Anuradhapura prison, an allegation that Sabry said will be investigated by a retired high court judge.",
+    "url": "https://economynext.com/sri-lanka-justice-minister-condemns-anuradhapura-prison-incident-inquiry-to-begin-86370/",
+    "url_hash": "67c0cbe08ce1d29a9182a60346535007",
+    "ut": 1632303169,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Justice",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ali Sabry",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sabry",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
