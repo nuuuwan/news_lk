@@ -2808,6 +2808,41 @@
   },
   {
     "date": "2021-09-21",
+    "title": "The Latest: Bangkok to give vaccines to ages 12 to 18",
+    "source": "www.startribune.com",
+    "snippet": "Health officials in Bangkok have made headway in their effort to vaccinate children against the coronavirus, giving shots of the Pfizer vaccine to students ages 12 to 18 with underlying diseases.",
+    "url": "https://www.startribune.com/the-latest-bangkok-to-give-vaccines-to-ages-12-to-18/600099264/",
+    "url_hash": "9d58c5b951290e475ef4fba8f45cacd4",
+    "ut": 1632226099,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Bangkok",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ages 12 to 18",
+        "start_end": [
+          25,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Sri Lanka opposition raise concerns over organic fertilizer imports from China",
     "source": "economynext.com",
     "snippet": "Sri Lanka's plans to import 63 million US dollars of organic fertilizer from a China based company after a ban on chemical fertilizer could be risky if they contain harmful micro-organisms and if they are made from municipal waste,",
@@ -3165,6 +3200,49 @@
         "start_end": [
           27,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "GTF welcomes President's call for engagement with Diaspora",
+    "source": "www.dailymirror.lk",
+    "snippet": "Global Tamil Forum (GTF), a leading Diaspora group, said President Gotabaya Rajapaksa wanting to engage with the Tamil diaspora is certainly a progressive move. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/GTF-welcomes-Presidents-call-for-engagement-with-Diaspora/108-220828",
+    "url_hash": "fb299acb9b0782ff6de51ff0fc2c840f",
+    "ut": 1632229690,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Global Tamil Forum",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Diaspora",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          21,
+          22
         ]
       }
     ]
@@ -5215,6 +5293,25 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Supporting Sri Lankan smallholder farmers transition to more sustainable agriculture",
+    "source": "www.ft.lk",
+    "snippet": "Today we are in the midst of many conversations and debates on the impact of the recent Government directives about the import of agrochemicals aimed at an immediate shift to organic agriculture. Needless to say,",
+    "url": "https://www.ft.lk/agriculture/Supporting-Sri-Lankan-smallholder-farmers-transition-to-more-sustainable-agriculture/31-723316",
+    "url_hash": "a94ba371352c3fd084b0a831d8418cb0",
+    "ut": 1632247712,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          0,
+          1
         ]
       }
     ]
