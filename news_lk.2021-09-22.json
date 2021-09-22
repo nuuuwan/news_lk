@@ -1,6 +1,41 @@
 [
   {
     "date": "2021-09-22",
+    "title": "Youngsters refusing to take vaccines plunging country at risk",
+    "source": "www.dailymirror.lk",
+    "snippet": "Referring to the hesitancy shown by the younger population to receive the COVID vaccine, Chairman of State Pharmaceuticals Corporation (SPC) Dr. Prasanna Gunasena said it could result in high danger increasing the viral loads in the society.",
+    "url": "https://www.dailymirror.lk/top_story/Youngsters-refusing-to-take-vaccines-plunging-country-at-risk/155-220837",
+    "url_hash": "7ab2fd726d8ed3e4b04bf17dc3a7183d",
+    "ut": 1632269277,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "COVID",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State Pharmaceuticals Corporation",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Gunasena",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
     "title": "The Forgotten History of Slavery in Sri Lanka",
     "source": "www.msn.com",
     "snippet": "Title: Slave in Palanquin. Colonial Servitude and Resistance in Sri Lanka,Author: Nira WickramasinghePublisher: New York, Columbia University Press 2020.The names Vijayabhahu, Dutugamunu, and S.W.R.D.",
@@ -1941,6 +1976,73 @@
   },
   {
     "date": "2021-09-22",
+    "title": "Govt. will take action against Lohan based on investigation reports: Justice Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Appropriate action will be taken against State Minister Lohan Ratwatte, who was involved in a couple of incidents in Anuradhapura and Welikada prisons, based on the investigation reports, Justice Minister Ali Sabri said today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-will-take-action-against-Lohan-based-on-investigation-reports-Justice-Minister/108-220888",
+    "url_hash": "578b8fc6d313b38139616563df9d0b86",
+    "ut": 1632290877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Anuradhapura",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Welikada",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Justice",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ali Sabri",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
     "title": "Main suspect in shooting of 14-year-old boy to death arrested",
     "source": "www.dailymirror.lk",
     "snippet": "The main suspect in the incident in where a 14-year-old boy was shot dead at Gajanayakagama in Weeraketiya, has been arrested, Police Spokesman SSP Nihal Thalduwa said. ..",
@@ -2494,6 +2596,250 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Sri Lanka seeks $100 million assistance from IMF for COVID-19 vaccination",
+    "source": "www.thehindu.com",
+    "snippet": "The bulk of the local vaccinations had come from the Chinese Sinopharm with 26 million doses being received so far",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-seeks-100-million-assistance-from-imf-for-covid-19-vaccination/article36605131.ece",
+    "url_hash": "304eaa6e57b1f7e8cc7d40a1ef40c072",
+    "ut": 1632298086,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26 million",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "'Erwinia' pathogen detected in China's organic fertilizer threat to agriculture sector, warns SL scientists",
+    "source": "english.madhyamam.com",
+    "snippet": "Colombo: Sri Lankan scientists have warned that about 99,000 metric tonnes of organic fertiliser stock from China worth $63 million would be a farming disaster as they contain",
+    "url": "https://english.madhyamam.com/world/erwinia-pathogen-detected-in-chinas-organic-fertilizer-threat-to-agriculture-sector-warns-sl-scientists-850771",
+    "url_hash": "8dd8fb3c242051a746c6333d91714b4d",
+    "ut": 1632299286,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 99,000 metric tonnes",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$63 million",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Nearly 30 Sri Lankans attempt suicide at Indian refugee camp last month",
+    "source": "www.adaderana.lk",
+    "snippet": "Last month, at least 29 Sri Lankan Tamils at a special refugee camp within a prison in southern India tried to take their own lives in protest against their detention",
+    "url": "http://www.adaderana.lk/news/77113/nearly-30-sri-lankans-attempt-suicide-at-indian-refugee-camp-last-month",
+    "url_hash": "16972e7d3b68b2119059b6f59de4ed8a",
+    "ut": 1632299406,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Last month",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 29",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Tamils",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Emirates ramps up US flights from October to meet increasing demand",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Airline to restore US services to nearly 80% of pre-COVID levels by October and to more than 90% by December More connectivity from October to Boston, Dallas, New York, San Francisco, Seattle and Washington DC Increased demand for travel to Dubai Emirates is increasing flight frequencies to a number of US destinations from October.",
+    "url": "http://bizenglish.adaderana.lk/emirates-ramps-up-us-flights-from-october-to-meet-increasing-demand/",
+    "url_hash": "d80c855a9aaa1a728dab2557bd393353",
+    "ut": 1632300139,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "nearly 80%",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "more than 90%",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Boston",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dallas",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "San Francisco",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Seattle",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington DC",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai Emirates",
+        "start_end": [
+          48,
+          50
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          58,
+          59
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October",
+        "start_end": [
+          61,
+          62
         ]
       }
     ]
