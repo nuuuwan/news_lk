@@ -5181,6 +5181,57 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Dayasiri to drum up Laksala and Salusala",
+    "source": "www.ft.lk",
+    "snippet": "State Minister of Batik, Handloom and Local Apparel Production Dayasiri Jayasekera is to drum up once-famed State-owned entities Laksala and Salusala with several ground-breaking initiatives aimed at boosting foreign exchange earnings and livelihoods of craftsmen and local industries.",
+    "url": "https://www.ft.lk/front-page/Dayasiri-to-drum-up-Laksala-and-Salusala/44-723329",
+    "url_hash": "fbab18eb855e51b6478426be09deaeb3",
+    "ut": 1632247981,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Batik",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Handloom",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Laksala",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Salusala",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "CB likely to continue money expansion, direct controls",
     "source": "www.ft.lk",
     "snippet": "The Central Bank of Sri Lanka (CBSL) has been subject to severe criticism over the rapid expansion of the money supply since last year. The aggregate money supply rose by 21% during the last 12 months.",
@@ -5518,6 +5569,124 @@
         "text": "two",
         "start_end": [
           39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "The Latest: Idaho directing $10M toward hospitals, clinics",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "BOISE, Idaho \u2014 Gov. Brad Little says $10 million in relief funds will be directed to Idaho hospitals, primary care providers, urgent care clinics and skilled nursing facilities because of the surge in COVID-19 patients.",
+    "url": "https://www.stamfordadvocate.com/news/article/The-Latest-J-J-Booster-dose-provides-strong-16475189.php",
+    "url_hash": "329eda56dee34b38ee8517e14616a40c",
+    "ut": 1632266269,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Idaho",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Brad Little",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$10 million",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Idaho",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Australia seeks intelligence cooperation with Sri Lanka",
+    "source": "www.lankaweb.com",
+    "snippet": "The Foreign Ministers of Sri Lanka and Australia met on the eve of the 76th Session of the United Nations General Assembly in New York. At the meeting the Australian Foreign Minister Marise Payne sought from her Sri Lankan counterpart,",
+    "url": "http://www.lankaweb.com/news/items/2021/09/21/australia-seeks-intelligence-cooperation-with-sri-lanka/",
+    "url_hash": "b9e864adaf1b03183fb126b1c5186b1a",
+    "ut": 1632266569,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the eve of the 76th Session",
+        "start_end": [
+          10,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Marise Payne",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          38,
           40
         ]
       }
