@@ -2789,6 +2789,65 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Sumanta Datta new MD of Oxford University Press India",
+    "source": "www.nyoooz.com",
+    "snippet": "Sumanta Datta has been appointed as the new managing director of Oxford University Press India (OUPI) with regional responsibilities including Bangladesh, Sri Lanka, and Nepal, the publisher Tuesday announced.",
+    "url": "https://www.nyoooz.com/news/delhi/1612526/sumanta-datta-new-md-of-oxford-university-press-india/",
+    "url_hash": "bc6954de4576ecf5cead9fdeead78cf6",
+    "ut": 1632226078,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sumanta Datta",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Oxford University Press India",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nepal",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Missing NMRA files contain data on medicines imported by previous govt. at higher prices: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "The 5925 files out of the database of National Medicine Regulatory Authority (NMRA) which have been erased or disappeared contain data on medicines imported by the previous regime at exceptionally high prices,",
@@ -4920,6 +4979,57 @@
         "start_end": [
           24,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Sri Lanka's chances of making history to be ruined by administrators?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Seven's rugby team may not be able to take part in the Asia Rugby Seven Series set to be kicked off in November, if they fail to submit their final squad before the end of this month, Daily Mirror reliably learns.",
+    "url": "https://www.dailymirror.lk/sports/Sri-Lankas-chances-of-making-history-to-be-ruined-by-administrators/322-220834",
+    "url_hash": "2814959578a30a5c5e84d501e2d780e1",
+    "ut": 1632244061,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Seven's",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of this month",
+        "start_end": [
+          36,
+          41
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          42,
+          44
         ]
       }
     ]
