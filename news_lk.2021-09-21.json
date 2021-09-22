@@ -3881,6 +3881,49 @@
   },
   {
     "date": "2021-09-21",
+    "title": "The Latest: China keeps coronavirus at bay ahead of Olympics",
+    "source": "www.stltoday.com",
+    "snippet": "BEIJING \u2014 China's \"zero tolerance\" strategy of trying to isolate every case and stop transmission of the coronavirus has kept the country of 1.4 billion people largely free of the",
+    "url": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-china-keeps-coronavirus-at-bay-ahead-of-olympics/article_3a9e297b-f146-5fe6-a8e6-2cf964814494.html",
+    "url_hash": "5d810a92758d72960922b80b7e53051f",
+    "ut": 1632233336,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "BEIJING",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "zero",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.4 billion",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "Guidelines on reopening Primary Schools directed to Edu. Ministry",
     "source": "www.dailymirror.lk",
     "snippet": "The relevant recommendations required to re-commence Grade five and classes below that have been handed over to the Secretary to the Education Ministry. ..",
@@ -5485,6 +5528,65 @@
   },
   {
     "date": "2021-09-21",
+    "title": "Lanka Microfinance Practitioners' Association elects new office bearers",
+    "source": "www.ft.lk",
+    "snippet": "General Meeting of the Lanka Microfinance Practitioners' Association (LMFPA) was held online via Zoom for the first time on 14 September and a new board of Directors was appointed. Priyantha Dematagoda was unanimously elected as the new President while Imran Nafeer (of Muslim Aid Micro Credit Guarantee Ltd.",
+    "url": "https://www.ft.lk/financial-services/Lanka-Microfinance-Practitioners--Association-elects-new-office-bearers/42-723319",
+    "url_hash": "a2411143cb9fb27008f8875a1a5b961f",
+    "ut": 1632247741,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "the Lanka Microfinance Practitioners' Association (LMFPA",
+        "start_end": [
+          3,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "14 September",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Priyantha Dematagoda",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Imran Nafeer",
+        "start_end": [
+          43,
+          45
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Muslim Aid Micro Credit Guarantee Ltd.",
+        "start_end": [
+          47,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "CB likely to continue money expansion, direct controls",
     "source": "www.ft.lk",
     "snippet": "The Central Bank of Sri Lanka (CBSL) has been subject to severe criticism over the rapid expansion of the money supply since last year. The aggregate money supply rose by 21% during the last 12 months.",
@@ -5944,6 +6046,33 @@
         "start_end": [
           12,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "\"TPA won't rule out working with others if SJB fails\" - MP Mano Ganesan",
+    "source": "www.dailymirror.lk",
+    "snippet": "The main Opposition Samagi Jana Balawegaya (SJB) continues to be accused of being weak and falling short of..... ..",
+    "url": "https://www.dailymirror.lk/opinion/TPA-wont-rule-out-working-with-others-if-SJB-fails-MP-Mano-Ganesan/172-220839",
+    "url_hash": "e5a4649c94e154fe0830fbcaf74f707f",
+    "ut": 1632262117,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Samagi Jana Balawegaya",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          7,
+          8
         ]
       }
     ]
