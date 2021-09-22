@@ -267,5 +267,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Tamil Diaspora ready to engage with President",
+    "source": "colombogazette.com",
+    "snippet": "The Tamil Diaspora is prepared to engage with President Gotabaya Rajapaksa, an influential diaspora group based in London said. The Global Tamil Forum (GTF) said that the intention shown by President",
+    "url": "https://colombogazette.com/2021/09/22/tamil-diaspora-ready-to-engage-with-president/",
+    "url_hash": "0404d652da3ef3e29b5fbe034d881942",
+    "ut": 1632282671,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "The Tamil Diaspora",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "diaspora",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "London",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "The Global Tamil Forum",
+        "start_end": [
+          21,
+          25
+        ]
+      }
+    ]
   }
 ]
