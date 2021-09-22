@@ -2881,6 +2881,33 @@
   },
   {
     "date": "2021-09-21",
+    "title": "90% pregnant mothers vaccinated so far: Family Health Bureau",
+    "source": "www.dailymirror.lk",
+    "snippet": "About 90% of the pregnant mothers have been vaccinated so far, Family Health Bureau Director and Community Physician Chitramali de Silva said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/90-pregnant-mothers-vaccinated-so-far-Family-Health-Bureau/108-220823",
+    "url_hash": "57fe2f283863117c04bc0e1cf2bd53dc",
+    "ut": 1632227388,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "About 90%",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Family Health Bureau",
+        "start_end": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
     "title": "66 more COVID-19 deaths reported today",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 66 more COVID-19 related deaths that occurred yesterday (20) were confirmed by the Director-General of Health Services today pushing the death toll to 12,284. ..",
@@ -5570,6 +5597,100 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "To the powerbrokers' note takers",
+    "source": "www.dailymirror.lk",
+    "snippet": "How does one choose who to give space in a story and where to place those inputs? Questions that not every journalist.... ..",
+    "url": "https://www.dailymirror.lk/opinion/To-the-powerbrokers-note-takers/172-220840",
+    "url_hash": "7dbc911ac2812babf36243cb85d039f0",
+    "ut": 1632263388,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-21",
+    "title": "Is AUKUS Pact the beginning of a new Cold War? - EDITORIAL",
+    "source": "www.dailymirror.lk",
+    "snippet": "US President Joe Biden announced the US would be joining Australia and the UK in a trilateral AUKUS pact - in all but name, a military alliance to contain what the three partners see as the growing economic and military power of Asian giant China.",
+    "url": "https://www.dailymirror.lk/opinion/Is-AUKUS-Pact-the-beginning-of-a-new-Cold-War-EDITORIAL/172-220841",
+    "url_hash": "b13b69efb77785b64654d8a71ce02271",
+    "ut": 1632263405,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
