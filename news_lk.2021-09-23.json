@@ -1523,6 +1523,73 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Primary schools to reopen by October 15?",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Education Ministry is hoping to reopen schools that have lesser than 200 children from Grade five and below from October 15, Education Ministry Secretary Prof. Kapila Perera said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Primary-schools-to-reopen-by-October-15/342-220950",
+    "url_hash": "7178103f07c2fde042a21905954ebde9",
+    "ut": 1632370109,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Education Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "200",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Grade",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 15",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education Ministry",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kapila Perera",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Ninewells unveils its Molecular Genetics Laboratory in collaboration with Genelabs Medical",
     "source": "menafn.com",
     "snippet": "Ninewells Hospital, the leading woman and childcare hospital in Sri Lanka's private healthcare sector, recently partnered with Genelabs Medical, a",
@@ -1902,6 +1969,57 @@
   },
   {
     "date": "2021-09-23",
+    "title": "UK Covid travel rules for Egypt, SL, Maldives ease; Foreign Office still advise against holidays",
+    "source": "www.dailymirror.lk",
+    "snippet": "Top destinations Sri Lanka, Egypt and the Maldives are now off the red list for British travellers, but the Foreign Office (FO) still suggests against non-essential travel for holidaymakers according to their official website.",
+    "url": "https://www.dailymirror.lk/latest_news/UK-Covid-travel-rules-for-Egypt-SL-Maldives-ease-Foreign-Office-still-advise-against-holidays/342-220951",
+    "url_hash": "061aba58db67a4c687bbf7cdc67d73fe",
+    "ut": 1632373709,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Maldives",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Foreign Office (FO",
+        "start_end": [
+          20,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "SL plans promotion activities overseas to revive tourism",
     "source": "menafn.com",
     "snippet": "Sri Lanka's tourism sector, among the worst hit by Covid-19 in the South Asian country, has planned to undertake promotion ac",
@@ -2100,6 +2218,108 @@
     "url_hash": "3671c2f9869204e4fd9d773767ec73b4",
     "ut": 1632377309,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Xi says China will not build new coal-fired power projects abroad",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chinese leader Xi Jinping said on Tuesday that China would not build new coal-fired power projects abroad, using his address at the United Nations General Assembly to add to pledges to deal with climate change.",
+    "url": "https://www.dailymirror.lk/breaking_news/Xi-says-China-will-not-build-new-coal-fired-power-projects-abroad/108-220966",
+    "url_hash": "556d81bdc763bcfe6e02f36c87f24e83",
+    "ut": 1632377309,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Xi Jinping",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          24,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "PCR tests for overseas tourists at BIA from Saturday: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "PCR testing facility at the Bandaranaike International Airport (BIA) was declared open today and will commence testing from Saturday (25), Tourism Minister Prasanna Ranatunga said a short while ago. .",
+    "url": "https://www.dailymirror.lk/breaking_news/PCR-tests-for-overseas-tourists-at-BIA-from-Saturday-Minister/108-220967",
+    "url_hash": "7e6a5c57dff7c2d034617322f3ac5aec",
+    "ut": 1632377309,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "PCR",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
   },
   {
     "date": "2021-09-23",
@@ -2419,6 +2639,65 @@
   },
   {
     "date": "2021-09-23",
+    "title": "First child vaccination rollout from tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "Administering Pfizer vaccines as shield against Covid virus for children between the ages of 12 and 19 will commence at the Lady Ridgeway Hospital (LRH) Colombo tomorrow, the Health Ministry said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/First-child-vaccination-rollout-from-tomorrow/108-220971",
+    "url_hash": "74f96ea7e2c19d5e6dc27cf9780f56f1",
+    "ut": 1632380909,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Administering Pfizer",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between the ages of 12 and 19",
+        "start_end": [
+          10,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Lady Ridgeway Hospital",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Three members of Biloela family granted year-long visas but they'll have to remain in Perth",
     "source": "www.theguardian.com",
     "snippet": "Youngest daughter Tharnicca must remain in community detention, meaning family can not return to Queensland",
@@ -2650,6 +2929,68 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Public transport could become Covid spreaders if full strength workforce summoned to work",
+    "source": "www.dailymirror.lk",
+    "snippet": "Public transport facilities will not be adequate and it will become the mode of spreading COVID virus again if the full strength public servants are summoned to work at once, Kelaniya University Medicine Faculty Prof.",
+    "url": "https://www.dailymirror.lk/latest_news/Public-transport-could-become-Covid-spreaders-if-full-strength-workforce-summoned-to-work/342-220972",
+    "url_hash": "0db6749dfdb4e17fdcd552b87977ef00",
+    "ut": 1632384509,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Kelaniya University Medicine Faculty",
+        "start_end": [
+          31,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "\"CRADLE OF HELICOPTER PILOTS\" 27 YEARS OF DEDICATED SERVICE TO THE NATION",
+    "source": "www.dailynews.lk",
+    "snippet": "The No 7 Helicopter Squadron, also known as the \"Cradle of Helicopter Pilots\", located at Sri Lanka Air Force Base Hingurakgoda asserts of a glamorous history from 1994 to date, by rendering 27 years of dedicated service to the nation.",
+    "url": "http://www.dailynews.lk/2021/09/23/local/260071/%E2%80%9Ccradle-helicopter-pilots%E2%80%9D-27-years-dedicated-service-nation",
+    "url_hash": "0448adb925bcca43f7d43621d1ac0bb9",
+    "ut": 1632384514,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Helicopter Pilots",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1994",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "27 years",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Sri Lankan Tamil family in Australia given 12-month bridging visas",
     "source": "menafn.com",
     "snippet": "Three members of the Tamil asylum seeker family fighting to return to the central Queensland town of Biloela have been given 12-month bri",
@@ -2695,6 +3036,57 @@
         "start_end": [
           21,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lanka rupee hobbled by 203 decree, priority lists, three bonds quoted",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's bonds market saw more activity Thursday after auction yields rose a day earlier after bond auctions were freed from price controls while the rupee continued to be hobbled with decreed 203 to the US dollar,",
+    "url": "https://economynext.com/sri-lanka-rupee-hobbled-by-203-decree-priority-lists-three-bonds-quoted-86419/",
+    "url_hash": "4ef4e785021cc5bef33be72ccd0bf02b",
+    "ut": 1632384538,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a day earlier",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "203",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
@@ -2789,6 +3181,195 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Don't open the country fully: Health officials urge Govt.",
+    "source": "www.dailymirror.lk",
+    "snippet": "Health officials have urged the Government not to fully open the country when taking the decision to lift the prevalent quarantine curfew. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Dont-open-the-country-fully-Health-officials-urge-Govt/108-220975",
+    "url_hash": "912543815bb668072e379ec5a0f79e47",
+    "ut": 1632389069,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Manusha files FR challenging Cabraal's appointment",
+    "source": "www.dailymirror.lk",
+    "snippet": "Samagi Jana Balawegaya parliamentarian Manusha Nanayakkara yesterday filed a Fundamental Rights petition in Supreme Court seeking a declaration that appointment of former State Minister Ajith Nivard Cabraal as the Governor of the Central Bank by President has no legal effect.",
+    "url": "https://www.dailymirror.lk/breaking_news/Manusha-files-FR-challenging-Cabraals-appointment/108-220977",
+    "url_hash": "af801be37581cea9137fdbd9b776055e",
+    "ut": 1632389429,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Samagi Jana Balawegaya",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Manusha Nanayakkara",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fundamental Rights",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "World Bank agrees to give $100mn to Sri Lanka for Covid battle",
+    "source": "www.orissapost.com",
+    "snippet": "Colombo: The World Bank has agreed to give a $100 million loan to support Sri Lanka's efforts to curb the spread of Covid-19, local media reported Thursday. The island nation's government said the funding would be to procure 14 million doses of the Pfizer vaccines as well as for financing other costs pertaining to the",
+    "url": "https://www.orissapost.com/world-bank-agrees-to-give-100mn-to-sri-lanka-for-covid-battle/",
+    "url_hash": "b54e6b3ea7f2f2315fcca9092bbf827e",
+    "ut": 1632389499,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Bank",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$100 million",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14 million",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "World Bank agrees to give $100mn to SL for Covid battle",
+    "source": "www.thestatesman.com",
+    "snippet": "A mass-scale inoculation program is currently underway in the country with over 51 per cent of the population vaccinated to date.",
+    "url": "https://www.thestatesman.com/world/world-bank-agrees-give-100mn-sl-covid-battle-1503010763.html",
+    "url_hash": "91f40219480fdb35ba01084315d81992",
+    "ut": 1632389799,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lanka shaman dies of Covid after touting 'blessed' water cure",
+    "source": "www.msn.com",
+    "snippet": "A high-profile shaman who tried to end Sri Lanka's Covid-19 outbreak with \"blessed\" water has died of the virus, his family said Thursday. White's family said he had refused the Covid-19 vaccine.",
+    "url": "https://www.msn.com/en-za/news/world/sri-lanka-shaman-dies-of-covid-after-touting-blessed-water-cure/ar-AAOJu1o",
+    "url_hash": "405d79c2010b5f8d6aa266b037c6a723",
+    "ut": 1632390068,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "White",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
