@@ -6632,6 +6632,41 @@
   },
   {
     "date": "2021-09-22",
+    "title": "Sri Lanka as COVID-19 knowledge exchange regional hub: President proposes at UN",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka has proposed to establish a Regional Knowledge Hub in Colombo in collaboration with the World Health Organization (WHO), to facilitate exchange of lessons learnt from COVID 19 and support countries to build back better.",
+    "url": "https://www.dailymirror.lk/top_story/Sri-Lanka-as-COVID-19-knowledge-exchange-regional-hub-President-proposes-at-UN/155-220907",
+    "url_hash": "73a973999fa8b02bac26724aa1a288bc",
+    "ut": 1632330500,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "a Regional Knowledge",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Health Organization",
+        "start_end": [
+          15,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
     "title": "In U.S., Gotabaya promises to engage Tamil diaspora",
     "source": "www.thehindu.com",
     "snippet": "Sri Lankan President Gotabaya Rajapaksa's recent statement in New York that he would invite the Tamil diaspora for discussions on resolving pending questions of war-time accountability and justice in the island nation has sparked more scepticism than hope among Tamils.",
@@ -6744,6 +6779,33 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Tamil family given 12-month visas but no reunion in Biloela",
+    "source": "www.smh.com.au",
+    "snippet": "The family is still stuck in Perth where they live in the community because the youngest daughter of the Murugappan family, Tharnicaa, has not received a visa.",
+    "url": "https://www.smh.com.au/politics/federal/tamil-family-given-12-month-visas-but-no-reunion-in-biloela-20210923-p58u7j.html",
+    "url_hash": "df6fd42fef979f7e4a1df4248e694fba",
+    "ut": 1632334109,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Perth",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Murugappan",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]

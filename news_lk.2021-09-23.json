@@ -487,6 +487,57 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Delta peak now over but fears of another peak exist",
+    "source": "www.dailymirror.lk",
+    "snippet": "The peak of the Delta variant is now over in Sri Lanka and the number of deaths and infected patients have reduced but health authorities yesterday warned that another peak could be expected in the coming weeks or months with severe mutations existing in other countries.",
+    "url": "https://www.dailymirror.lk/top_story/Delta-peak-now-over-but-fears-of-another-peak-exist/155-220932",
+    "url_hash": "2235e326aeb7e926187a1882f9fd4320",
+    "ut": 1632362900,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming weeks",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Sri Lanka new CB Governor earns cautious approval from Wijewardene",
     "source": "economynext.com",
     "snippet": "Sri Lanka's newly appointed Central Bank Governor Nivard Cabraal has earned cautious approval from W A Wijewardene, a former Deputy Governor of the note-issue bank which has a legal tender monopoly in the country.",
@@ -1131,6 +1182,73 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Primary schools to reopen by October 15?",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Education Ministry is hoping to reopen schools that have lesser than 200 children from Grade five and below from October 15, Education Ministry Secretary Prof. Kapila Perera said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Primary-schools-to-reopen-by-October-15/108-220950",
+    "url_hash": "3446251a9036f5d597a1a9c4bf241993",
+    "ut": 1632370100,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Education Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "200",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Grade",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 15",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Education Ministry",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kapila Perera",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Manike to perform in Hyderabad and Gurugram",
     "source": "menafn.com",
     "snippet": "Sri Lanka's singing sensation Yohani is heading to India to perform in Hyderabad and Gurugram.   Organisers announc",
@@ -1297,6 +1415,95 @@
         "start_end": [
           38,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Flavours by Cinnamon extend 'Meals that Heal' for Front line workers",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka's leading hospitality brand,\u00a0in partnership with the Sri Lanka Red Cross,\u00a0pledge\u00a0to\u00a0aid\u00a0front line wo",
+    "url": "https://menafn.com/1102847832/Flavours-by-Cinnamon-extend-Meals-that-Heal-for-Front-line-workers",
+    "url_hash": "b633f83ba1f568f4bfb2bf2c8860e983",
+    "ut": 1632373709,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Red Cross",
+        "start_end": [
+          11,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "SL plans promotion activities overseas to revive tourism",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka's tourism sector, among the worst hit by Covid-19 in the South Asian country, has planned to undertake promotion ac",
+    "url": "https://menafn.com/1102848110/SL-plans-promotion-activities-overseas-to-revive-tourism",
+    "url_hash": "3f9987c543a03ff9668bc2d8d65c900f",
+    "ut": 1632375583,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Swedish tech company pioneering equal parental leave in Sri Lanka with 4-months paid leave to both mothers and fathers",
+    "source": "colombogazette.com",
+    "snippet": "Understanding the importance of fathers playing a key role in the family after a newborn or newly adopted child, software development company Ascentic with offices in Sweden recently made history in Sri Lanka's corporate sector by introducing a four-month paternity leave to its employees.",
+    "url": "https://colombogazette.com/2021/09/23/swedish-tech-company-pioneering-equal-parental-leave-in-sri-lanka-with-4-months-paid-leave-to-both-mothers-and-fathers/",
+    "url_hash": "44b561544fd23ab1a3f569494fbbb943",
+    "ut": 1632376912,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sweden",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-month",
+        "start_end": [
+          40,
+          43
         ]
       }
     ]
