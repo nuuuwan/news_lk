@@ -2444,6 +2444,81 @@
   },
   {
     "date": "2021-09-23",
+    "title": "25 Indian fishing boats allegedly attacked by Sri Lankan Navy",
+    "source": "sambadenglish.com",
+    "snippet": "Chennai: At least 25 fishing boats of Indian fishermen were damaged after Sri Lankan navy personnel allegedly attacked them on Wednesday late night at Katchatheevu. Tamil Nadu fisheries department officials said that the Sri Lankan Navy personnel hurled glass bottles and stones at the Indian fishermen.",
+    "url": "https://sambadenglish.com/25-indian-fishing-boats-allegedly-attacked-by-sri-lankan-navy/",
+    "url_hash": "1cb9c35e6843733621c75a36d8eaf955",
+    "ut": 1632377318,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 25",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Wednesday late night",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Katchatheevu",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Navy",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Fresh milk costlier than milk powder: Importers",
     "source": "www.dailymirror.lk",
     "snippet": "Asking people to consume fresh milk is more expensive than buying milk powder to make a litre of milk, local milk powder importer associations said. ..",
@@ -3944,6 +4019,245 @@
         "start_end": [
           29,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Fairfirst donates 100 Computers towards promoting an Equal Ground in Remote and Online Education for Children",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "FairfirstWay refers to Fairfirst Insurance's commitment to do good for the community that it serves. In line with this, Fairfirst Insurance recently donated 100 computers to the Department of Probation and Child Care Services to uplift and empower children's education across several child development centres on the island.",
+    "url": "http://bizenglish.adaderana.lk/fairfirst-donates-100-computers-towards-promoting-an-equal-ground-in-remote-and-online-education-for-children/",
+    "url_hash": "a94345069c451b01923dc2ec19cfbcd5",
+    "ut": 1632395318,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "FairfirstWay",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fairfirst Insurance's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fairfirst Insurance",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Probation and Child Care Services",
+        "start_end": [
+          29,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lanka former president Kumaratunga lambasts SLFP leadership",
+    "source": "economynext.com",
+    "snippet": "Joining forces with the ruling Sr Lanka Podujana Peramuna (SLPP) has destroyed the government's coalition partner the Sri Lanka Freedom Party (SLFP) and the leaders of the latter cannot absolve themselves of the misdeeds of the government,",
+    "url": "https://economynext.com/sri-lanka-former-president-kumaratunga-lambasts-slfp-leadership-86425/",
+    "url_hash": "dc3ae6354fa98d0916a41a8f220bc5dd",
+    "ut": 1632395334,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Sr Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Podujana Peramuna",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Freedom Party",
+        "start_end": [
+          19,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "25 Indian boats damaged by Sri Lankan Navy: Fishermen",
+    "source": "www.sify.com",
+    "snippet": "At least 25 fishing boats of Indian fishermen were damaged after Sri Lankan navy personnel allegedly attacked them on Wednesday late night at Katchatheevu.",
+    "url": "https://www.sify.com/news/25-indian-boats-damaged-by-sri-lankan-navy-fishermen-news-international-vjxlOiegghajd.html",
+    "url_hash": "9a137cf603ecc1c8778bbe9904404412",
+    "ut": 1632397778,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 25",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Wednesday late night",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Katchatheevu",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lankan Navy attacks Indian fishermen, 25 boats damaged: Tamil Nadu fisheries department",
+    "source": "www.msn.com",
+    "snippet": "Tamil Nadu fisheries department officials said that the Sri Lankan Navy personnel hurled glass bottles and stones at the Indian fishermen.",
+    "url": "https://www.msn.com/en-in/news/other/sri-lankan-navy-attacks-indian-fishermen-25-boats-damaged-tamil-nadu-fisheries-department/ar-AAOJLXk",
+    "url_hash": "ffcb4e3461a1e91eb9c7c3056ea7ec05",
+    "ut": 1632397838,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Navy",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lanka Premier League to take place in December",
+    "source": "www.outlookindia.com",
+    "snippet": "Sri Lanka Premier League (LPL) will be held from. December 4 to 23, country''s cricket board SLC announced on Thursday. This will be the second edition of th",
+    "url": "https://www.outlookindia.com/newsscroll/sri-lanka-premier-league-to-take-place-in-december/2165538",
+    "url_hash": "6dd752e03ad621eca0069d7680247c4a",
+    "ut": 1632398618,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LPL",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December 4 to 23",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
