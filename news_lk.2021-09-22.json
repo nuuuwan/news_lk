@@ -7695,6 +7695,57 @@
   },
   {
     "date": "2021-09-22",
+    "title": "President tells UN committed to building a secure future for all Sri Lankans",
+    "source": "www.ft.lk",
+    "snippet": "President Gotabaya Rajapaksa yesterday reassured the UN that his Government's firm intention was to build a prosperous, stable and secure future for all Sri Lankans, regardless of ethnicity, religion,",
+    "url": "https://www.ft.lk/top-story/President-tells-UN-committed-to-building-a-secure-future-for-all-Sri-Lankans/26-723382",
+    "url_hash": "d1e5f4fae4e1473257915c2c97a0f344",
+    "ut": 1632344896,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "all Sri Lankans",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
     "title": "AFI Corp to transform manufacturing industry in Sri Lanka",
     "source": "www.ft.lk",
     "snippet": "AFI Corp, a premier provider of leading technology solutions to Sri Lankan businesses is partnering with Malcam, a world leader in volumetric measurement systems based on microwave tomography, to provide manufacturing businesses with cutting-edge technology in moisture control in the manufacturing processes.",
