@@ -417,6 +417,57 @@
   },
   {
     "date": "2021-09-23",
+    "title": "US firm and Sri Lanka sign controversial LNG deal",
+    "source": "menafn.com",
+    "snippet": "US based New Fortress Energy and the Sri Lankan Government have signed a controversial Liquefied natural gas (LNG deal.   <p",
+    "url": "https://menafn.com/1102849462/US-firm-and-Sri-Lanka-sign-controversial-LNG-deal",
+    "url_hash": "2ea45e93cb31c73130bd04b08ff5ee03",
+    "ut": 1632359337,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Fortress Energy",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Government",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Liquefied",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LNG",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Delta peak now over but fears of another peak exist",
     "source": "www.dailymirror.lk",
     "snippet": "The peak of the Delta variant is now over in Sri Lanka and the number of deaths and infected patients have reduced but health authorities yesterday warned that another peak could be expected in the coming weeks or months with severe mutations existing in other countries.",
@@ -1749,6 +1800,108 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Prez calls on for more financial support at UNGA",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa yesterday called on the member countries of the United Nations (UN) and international agencies to further increase their assistance towards developing nations so they are able to fully come out of the crisis brought about by the Covid-19 pandemic.",
+    "url": "https://www.dailymirror.lk/business/Prez-calls-on-for-more-financial-support-at-UNGA/215-220963",
+    "url_hash": "d3cbae9fa031eaebfcbed070832a3fa3",
+    "ut": 1632373709,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Floral tribute to Father of Free Education",
+    "source": "www.dailymirror.lk",
+    "snippet": "Education Minister Dinesh Gunawardane today paid floral tribute to the statue of Dr. C. W. W. Kannangara, the Father of Free Education situated opposite to the Ministry. The Minister commemorated the 52nd death anniversary of Dr.",
+    "url": "https://www.dailymirror.lk/caption_story/Floral-tribute-to-Father-of-Free-Education/110-220969",
+    "url_hash": "dbef4b79d456547c69db5b05a81c0209",
+    "ut": 1632373709,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Education",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardane",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "C. W. W. Kannangara",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Free Education",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "52nd",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "SL plans promotion activities overseas to revive tourism",
     "source": "menafn.com",
     "snippet": "Sri Lanka's tourism sector, among the worst hit by Covid-19 in the South Asian country, has planned to undertake promotion ac",
@@ -1937,6 +2090,16 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Fresh milk costlier than milk powder: Importers",
+    "source": "www.dailymirror.lk",
+    "snippet": "Asking people to consume fresh milk is more expensive than buying milk powder to make a litre of milk, local milk powder importer associations said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Fresh-milk-costlier-than-milk-powder-Importers/342-220965",
+    "url_hash": "3671c2f9869204e4fd9d773767ec73b4",
+    "ut": 1632377309,
+    "ent_info_list": []
   },
   {
     "date": "2021-09-23",
@@ -2256,6 +2419,33 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Three members of Biloela family granted year-long visas but they'll have to remain in Perth",
+    "source": "www.theguardian.com",
+    "snippet": "Youngest daughter Tharnicca must remain in community detention, meaning family can not return to Queensland",
+    "url": "https://www.theguardian.com/australia-news/2021/sep/23/three-members-of-biloela-family-granted-year-long-visas-but-theyll-have-to-remain-in-perth",
+    "url_hash": "10e865090c0ea85884e3319bf8beab12",
+    "ut": 1632380917,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tharnicca",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Queensland",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Drop in COVID-19 admissions at Sri Lanka's Lady Ridgeway Children's Hospital",
     "source": "economynext.com",
     "snippet": "There is a drop in children being admitted to (LRCH) with COVID-19, hospital director Dr G Wijesuriya said. \"There used to be about 25 to 30 patients reported a day, but now it is around five patients a day.",
@@ -2454,6 +2644,151 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lankan Tamil family in Australia given 12-month bridging visas",
+    "source": "menafn.com",
+    "snippet": "Three members of the Tamil asylum seeker family fighting to return to the central Queensland town of Biloela have been given 12-month bri",
+    "url": "https://menafn.com/1102849112/Sri-Lankan-Tamil-family-in-Australia-given-12-month-bridging-visas&source=246",
+    "url_hash": "995ea2e9ce1da0e4d5851b3cfae576f5",
+    "ut": 1632384517,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Queensland",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Biloela",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-month",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "FR petitions filed against Cabraal's appointment as CBSL Governor",
+    "source": "www.adaderana.lk",
+    "snippet": "Two Fundamental Rights (FR) petitions have been filed before the Supreme Court against the appointment of Ajith Nivard Cabraal as the Governor of the Central Bank of Sri Lanka (CBSL)",
+    "url": "http://www.adaderana.lk/news/77148/fr-petitions-filed-against-cabraals-appointment-as-cbsl-governor",
+    "url_hash": "f289148b038a7f95fa68f17ce3608eb7",
+    "ut": 1632384821,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Supreme Court",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ajith Nivard",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          25,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lanka rupee hobbled by 203 decree, three bonds quoted",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's bonds market saw more activity Thursday after auction yields rose a day earlier after bond auctions were freed from price controls while the rupee continued to be hobbled with decreed 203 to the US dollar,",
+    "url": "https://economynext.com/sri-lanka-rupee-hobbled-by-203-decree-three-bonds-quoted-86419/",
+    "url_hash": "357d5ff076e98f611dff28419944b647",
+    "ut": 1632385733,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a day earlier",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "203",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
