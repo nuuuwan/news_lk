@@ -8023,6 +8023,49 @@
   },
   {
     "date": "2021-09-22",
+    "title": "Export earnings top billion dollars for third consecutive month in August",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's merchandise export earnings topped a billion dollars for the third consecutive month in August, with almost all the major export categories performing well despite the pandemic-induced restrictions,",
+    "url": "https://www.dailymirror.lk/business__main/Export-earnings-top-billion-dollars-for-third-consecutive-month-in-August/245-220931",
+    "url_hash": "bf1afbeb9d343ec82c8a7b7f49bfdc52",
+    "ut": 1632344898,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "a billion dollars",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the third consecutive month",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
     "title": "AFI Corp to transform manufacturing industry in Sri Lanka",
     "source": "www.ft.lk",
     "snippet": "AFI Corp, a premier provider of leading technology solutions to Sri Lankan businesses is partnering with Malcam, a world leader in volumetric measurement systems based on microwave tomography, to provide manufacturing businesses with cutting-edge technology in moisture control in the manufacturing processes.",
@@ -8600,6 +8643,57 @@
         "start_end": [
           18,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Sri Lanka seeks $100 million assistance from IMF for COVID-19 vaccination",
+    "source": "www.lankaweb.com",
+    "snippet": "Sri Lanka has decided to ask for a $100 million loan from the IMF to procure 14 million doses of the Pfizer COVID-19 vaccine and finance other vaccination programme related costs, it was announced here on Wednesday.",
+    "url": "https://www.lankaweb.com/news/items/2021/09/22/sri-lanka-seeks-100-million-assistance-from-imf-for-covid-19-vaccination/",
+    "url_hash": "e12101f7b72dca9e44a85226fe77df3c",
+    "ut": 1632352106,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$100 million",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14 million",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]

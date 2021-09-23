@@ -1139,6 +1139,33 @@
   },
   {
     "date": "2021-09-23",
+    "title": "DELTA PEAK NOW OVER BUT FEARS OF ANOTHER PEAK EXIST",
+    "source": "www.dailymirror.lk",
+    "snippet": "Still around a 60% chance that another peak may occur in the coming weeks; The results were being seen with the number of deaths and patients reducing drastically; To prevent anot",
+    "url": "https://www.dailymirror.lk/front_page/DELTA-PEAK-NOW-OVER-BUT-FEARS-OF-ANOTHER-PEAK-EXIST/238-220946",
+    "url_hash": "1153e589bac3be567618ab11102da72b",
+    "ut": 1632366533,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "60%",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming weeks",
+        "start_end": [
+          12,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "UK advises against all but essential travel to Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "The United Kingdom (UK) has advised against all but essential travel to Sri Lanka, despite removing Sri Lanka from the Red List. Sri Lanka was removed from the Red List and moved to the Amber List with effect from yesterday (Wednesday).",
@@ -1660,6 +1687,41 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Ginige, Madurangi to lead SL at Asian TT Tourney",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chameera Ginige and Ishara Madurangi will lead the Sri Lankan Men's and Women's Team for the 25th Asian Table Tennis C ..",
+    "url": "https://www.dailymirror.lk/sports/Ginige--Madurangi-to-lead-SL-at-Asian-TT-Tourney/244-220959",
+    "url_hash": "9c4948bee36908f30a862f3f324360d7",
+    "ut": 1632373698,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Chameera Ginige",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ishara Madurangi",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "25th",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Flavours by Cinnamon extend 'Meals that Heal' for Front line workers",
     "source": "menafn.com",
     "snippet": "Sri Lanka's leading hospitality brand,\u00a0in partnership with the Sri Lanka Red Cross,\u00a0pledge\u00a0to\u00a0aid\u00a0front line wo",
@@ -1762,6 +1824,116 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Xi says China will not build new coal-fired power projects abroad",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chinese leader Xi Jinping said on Tuesday that China would not build new coal-fired power projects abroad, using his address at the United Nations General Assembly to add to pledges to deal with climate change.",
+    "url": "https://www.dailymirror.lk/latest_news/Xi-says-China-will-not-build-new-coal-fired-power-projects-abroad/342-220966",
+    "url_hash": "f58f84b964b92fb2ef6d94cbfe83e31c",
+    "ut": 1632377298,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Xi Jinping",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          24,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Kusal Mendis confirms joining SSC Circus",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka top order batsman Kusal Mendis, who is currently facing one year suspension form International Cricket over misconduct, today officially announced about his decision of leaving Colombo Cricket Club (CCC) and joining the circus of Sinhlease Sports Club (SSC).",
+    "url": "https://www.islandcricket.lk/news/kusal-mendis-confirms-joining-ssc-circus/",
+    "url_hash": "f325e183c3636bb23b84aca76546c1d4",
+    "ut": 1632377306,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kusal Mendis",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one year",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Cricket",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinhlease Sports Club",
+        "start_end": [
+          40,
+          43
         ]
       }
     ]
@@ -2078,6 +2250,210 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Drop in COVID-19 admissions at Sri Lanka's Lady Ridgeway Children's Hospital",
+    "source": "economynext.com",
+    "snippet": "There is a drop in children being admitted to (LRCH) with COVID-19, hospital director Dr G Wijesuriya said. \"There used to be about 25 to 30 patients reported a day, but now it is around five patients a day.",
+    "url": "https://economynext.com/drop-in-covid-19-admissions-at-sri-lankas-lady-ridgeway-childrens-hospital-86417/",
+    "url_hash": "27eee7227a47193b07c494ecb8ca49b6",
+    "ut": 1632381344,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Dr G Wijesuriya",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "about 25 to 30",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Speaker endorses certificate on Consumer Affairs Authority (Amendment) Bill",
+    "source": "www.dailynews.lk",
+    "snippet": "The Speaker Mahinda Yapa Abeywardena endorsed his certificate on the Consumer Affairs Authority (Amendment) Bill, No 09 of 2003 yesterday (22). The Bill was passed without amendments after being debated in Parliament yesterday (22).",
+    "url": "https://www.dailynews.lk/2021/09/23/local/260070/speaker-endorses-certificate-consumer-affairs-authority-amendment-bill",
+    "url_hash": "c45ab64a0ca1b95434d48939e760d0d5",
+    "ut": 1632382102,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Yapa Abeywardena",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Consumer Affairs Authority",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "No 09 of 2003 yesterday",
+        "start_end": [
+          18,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bill",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lankan Tamil family in Australia given 12-month bridging visas",
+    "source": "menafn.com",
+    "snippet": "Three members of the Tamil asylum seeker family fighting to return to the central Queensland town of Biloela have been given 12-month bri",
+    "url": "https://menafn.com/1102849112/Sri-Lankan-Tamil-family-in-Australia-given-12-month-bridging-visas&source=30",
+    "url_hash": "9497c3f17b671e59d8ffd5408d18373f",
+    "ut": 1632383426,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Queensland",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Biloela",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-month",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "No 7 Helicopter Squadron marks 27 years",
+    "source": "www.dailymirror.lk",
+    "snippet": "The No 7 Helicopter Squadron, also known as the \"Cradle of Helicopter Pilots\", located at Sri Lanka Air Force Base Hingurakgoda asserts a glamorous history from 1994 to date, by rendering 27 years of dedicated service to the nation.",
+    "url": "https://www.dailymirror.lk/caption_story/No-7-Helicopter-Squadron-marks-27-years/110-220970",
+    "url_hash": "cde82a277f76351d0c3ce0c2e43c4059",
+    "ut": 1632384018,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Helicopter Pilots",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1994",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "27 years",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
