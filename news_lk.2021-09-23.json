@@ -1338,6 +1338,49 @@
   },
   {
     "date": "2021-09-23",
+    "title": "DELTA PEAK NOW OVER",
+    "source": "www.dailymirror.lk",
+    "snippet": "The peak of the Delta variant is now over in Sri Lanka and the number of deaths and infected patients have reduced but health authorities yesterday warned that there were 50% chances of another peak based on future pandemic behavior and probable mutations.",
+    "url": "https://www.dailymirror.lk/front_page/DELTA-PEAK-NOW-OVER/238-220946",
+    "url_hash": "8a89d3d32eb8250c125d68f5f34c5771",
+    "ut": 1632366600,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "50%",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "UK advises against all but essential travel to Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "The United Kingdom (UK) has advised against all but essential travel to Sri Lanka, despite removing Sri Lanka from the Red List. Sri Lanka was removed from the Red List and moved to the Amber List with effect from yesterday (Wednesday).",
@@ -4771,6 +4814,49 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Govt. uses various factions to incite racism and extremism again: JVP charge",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government is using various factions to incite racism and extremism again instead of meting out justice to the victims of the Easter Sunday attacks, the Janatha Vimukthi Peramuna (JVP) charged today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-uses-various-factions-to-incite-racism-and-extremism-again-JVP-charge/108-220987",
+    "url_hash": "00afba1f4074b3585106b73a50f45239",
+    "ut": 1632398962,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Janatha Vimukthi Peramuna",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "JVP",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "MP, two others arrested for violating quarantine rules in Jaffna",
     "source": "www.dailymirror.lk",
     "snippet": "Tamil National People's Front Jaffna District MP Selvarasa Gajendran and two others were arrested for violating quarantine regulations by holding a memorial observation for LTTE member Tileepan in Jaffna.",
@@ -5251,6 +5337,33 @@
         "start_end": [
           44,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "No country made particular COVID vaccine mandatory: Govt.",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Foreign Ministry has informed the Health Ministry that no country has made a particular COVID-19 vaccine compulsory when entering their respective countries. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/No-country-made-specific-COVID-vaccine-mandatory-Govt/108-220974",
+    "url_hash": "a9e2fe0039be946d6a91c07cf3e30a47",
+    "ut": 1632402562,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Foreign Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          5,
+          8
         ]
       }
     ]
@@ -5882,6 +5995,162 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lankan shaman dies of Covid after touting cure",
+    "source": "www.msn.com",
+    "snippet": "A Sri Lankan shaman who touted a potion which he said would protect people against Covid-19 has died with the disease, his family says.Eliyantha White treated sports stars and top politicians with the potion,",
+    "url": "https://www.msn.com/en-us/news/world/sri-lankan-shaman-dies-of-covid-after-touting-cure/ar-AAOKvPZ",
+    "url_hash": "be29d00e889e5249a2a6029df53d8416",
+    "ut": 1632413371,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Eliyantha White",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Eliyantha White: Sri Lankan shaman dies of Covid after touting cure",
+    "source": "www.bbc.co.uk",
+    "snippet": "A Sri Lankan shaman who touted a potion which he said would protect people against Covid-19 has died with the disease, his family says. Eliyantha White treated sports stars and top politicians with the potion,",
+    "url": "https://www.bbc.co.uk/news/world-asia-58669914",
+    "url_hash": "ea0c0bc042bfe4349aba0b2e8677766e",
+    "ut": 1632413371,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Eliyantha White",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "UK scrambles to hold UN climate summit in-person with quarantine waivers",
+    "source": "www.ft.com",
+    "snippet": "The UK has issued a last-minute quarantine waiver for ministers from \"red list\" countries attending the upcoming UN climate summit, bowing to complaints from scores of countries that they would otherwise be unable to participate.",
+    "url": "https://www.ft.com/content/b27be710-98eb-4e26-b99f-94680e06cdd3",
+    "url_hash": "69061f7a865782bd2fd86b1ec062b7af",
+    "ut": 1632413686,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last-minute",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lankan shares end higher on industrials, financials boost",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares ended higher on Thursday, helped by industrial and financial stocks. * The CSE All-Share index was up 0.48% at 8,830.35 points. * Conglomerate Expolanka Holdings Plc and John Keells Holdings were the top percentage gainers on the index,",
+    "url": "https://www.reuters.com/article/sri-lanka-markets-close-idUSL4N2QP25L",
+    "url_hash": "54813046a4d63dcd88d1233fc35ccb13",
+    "ut": 1632414031,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.48%",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8,830.35",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Conglomerate Expolanka Holdings Plc",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "John Keells Holdings",
+        "start_end": [
+          36,
+          39
         ]
       }
     ]
