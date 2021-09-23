@@ -2931,6 +2931,57 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Sri Lankan Tamil family in Australia given 12-month bridging visas",
+    "source": "menafn.com",
+    "snippet": "Three members of the Tamil asylum seeker family fighting to return to the central Queensland town of Biloela have been given 12-month bri",
+    "url": "https://menafn.com/1102853593/Sri-Lankan-Tamil-family-in-Australia-given-12-month-bridging-visas&source=138",
+    "url_hash": "282ed70c425aaeea6ff899bf5eae4411",
+    "ut": 1632380895,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Queensland",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Biloela",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-month",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "UK advises against all but essential travel to Sri Lanka",
     "source": "menafn.com",
     "snippet": "The United Kingdom (UK) has advised against all but essential travel to Sri Lanka, despite removing Sri Lanka from the Red List. </strong",
@@ -3297,6 +3348,49 @@
     "url": "http://www.adaderana.lk/news.php?nid=77148",
     "url_hash": "c814812e94dfad7a4cb25752856011f6",
     "ut": 1632384486,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Supreme Court",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ajith Nivard",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          25,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "FR petitions filed against appoint of Cabraal as CBSL Governor",
+    "source": "www.adaderana.lk",
+    "snippet": "Two Fundamental Rights (FR) petitions have been filed before the Supreme Court against the appointment of Ajith Nivard Cabraal as the Governor of the Central Bank of Sri Lanka (CBSL)",
+    "url": "http://www.adaderana.lk/news/77148/fr-petitions-filed-against-appoint-of-cabraal-as-cbsl-governor",
+    "url_hash": "733f777d972954330116f68630dc8a81",
+    "ut": 1632384499,
     "ent_info_list": [
       {
         "label": "CARDINAL",
@@ -6281,6 +6375,49 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Sri Lanka arrests Tamil lawmaker over rebel remembrance",
+    "source": "www.newagebd.net",
+    "snippet": "Sri Lankan police on Thursday arrested a Tamil lawmaker for commemorating a separatist rebel who died campaigning for the minority community, hours after president",
+    "url": "https://www.newagebd.net/article/149927/index.php",
+    "url_hash": "a46c2f99929471ab4b5de53355992179",
+    "ut": 1632413295,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "How a 19-year-old TikToker is helping bring back the Woolly Mammoth!",
     "source": "www.dailymirror.lk",
     "snippet": "A young TikTok star and his friends are helping an ambitious gene editing programme that wants to help restore ecosystems and bring back extinct species ..",
@@ -6672,6 +6809,207 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Effective revenue generation system a must to overcome macroeconomic stress: Dr. Coomaraswamy",
+    "source": "www.dailymirror.lk",
+    "snippet": "As Sri Lanka's macroeconomic outlook remains bleak, just as it has been in the past, it is about time the country embarks on serious initiatives to establish an effective revenue generation system that will result in sustainable outcomes without further delay,",
+    "url": "https://www.dailymirror.lk/business-news/Effective-revenue-generation-system-a-must-to-overcome-macroeconomic-stress-Dr-Coomaraswamy/273-221008",
+    "url_hash": "6f5697a8cdaddb0165232a5a3992ad1c",
+    "ut": 1632420487,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          1,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Agriculture, industrial sectors seek higher R&D allowance for tax from impending budget",
+    "source": "www.dailymirror.lk",
+    "snippet": "Agriculture and industrial sector players sought a higher allowance for Research and Development (R&D) expenses they spend for tax purpose from the upcoming budget to further incentivise the businesses to spend more on new product development,",
+    "url": "https://www.dailymirror.lk/business-news/Agriculture-industrial-sectors-seek-higher-R-D-allowance-for-tax-from-impending-budget/273-221011",
+    "url_hash": "d56eea72e75aee8c3ef0b4c38c9e4357",
+    "ut": 1632420487,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Research and Development",
+        "start_end": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "REC Campus sues YouTube and YouTube channel for defamation",
+    "source": "www.dailymirror.lk",
+    "snippet": "REC Campus (AKA Russian Education Centre), a Colombo-based leading foreign educational pathway provider in Sri Lanka, has instituted legal action in the District Court of Colombo against YouTube LLC,",
+    "url": "https://www.dailymirror.lk/business-news/REC-Campus-sues-YouTube-and-YouTube-channel-for-defamation/273-221004",
+    "url_hash": "59a3298eabf1164693274d843562fbfb",
+    "ut": 1632420487,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "AKA Russian Education Centre",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the District Court of Colombo",
+        "start_end": [
+          27,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Current & capital account controls aimed at fixing BOP could backfire: ICRA Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "The prolonged and recently tightened controls on imports and outward remittances are unlikely improve the country's Balance of Payment (BOP), instead would backfire by way of commodities shortages and rising prices,",
+    "url": "https://www.dailymirror.lk/business-news/Current-capital-account-controls-aimed-at-fixing-BOP-could-backfire-ICRA-Lanka/273-221006",
+    "url_hash": "a38a3c5db9a2770012a240372ba2b6e7",
+    "ut": 1632420487,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-23",
+    "title": "HIP signs MoU with King Long after promotional push in Fujian",
+    "source": "www.dailymirror.lk",
+    "snippet": "Hambantota International Port Group (HIPG) signed a memorandum of understanding (MoU) with Xiamen King Long United Automotive Industry Co., Ltd (King Long) in Fujian China, last week. ..",
+    "url": "https://www.dailymirror.lk/business-news/HIP-signs-MoU-with-King-Long-after-promotional-push-in-Fujian/273-221005",
+    "url_hash": "968a756a6be349088ffa2a472dfbe820",
+    "ut": 1632420487,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Hambantota International Port Group",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "HIPG",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Xiamen King Long",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Automotive Industry Co.,",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Fujian",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Arimac spearheads 10 years of digital transformation in Asia",
+    "source": "www.dailymirror.lk",
+    "snippet": "Arimac Digital launched its journey 10 years ago in the digital industry as an up-and-coming innovative tech company. Today, Arimac is spearheading digital solutions for customers around the world and is dominating the Asian region markets,",
+    "url": "https://www.dailymirror.lk/other/Arimac-spearheads-10-years-of-digital-transformation-in-Asia/117-221001",
+    "url_hash": "272201241a8fde3009346467daaf5396",
+    "ut": 1632420487,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Arimac Digital",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10 years ago",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Arimac",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Sri Lanka likely to record highest ever BOP deficit this year",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka is on course to record its highest ever Balance of Payments (BOP) deficit in 2021 as the first 7-month deficit in the overall foreign inflows and outflows surpassed the deficit recorded in the entirety of 2020.",
@@ -6870,6 +7208,261 @@
         "start_end": [
           44,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "25 Indian boats damaged by Sri Lankan Navy: Fishermen",
+    "source": "theshillongtimes.com",
+    "snippet": "At least 25 fishing boats of Indian fishermen were damaged after Sri Lankan navy personnel allegedly attacked them on Wednesday late night at Katchatheevu. Tamil Nadu fisheries department officials said that the Sri Lankan Navy personnel hurled glass bottles and stones at the Indian fishermen.",
+    "url": "https://theshillongtimes.com/2021/09/24/25-indian-boats-damaged-by-sri-lankan-navy-fishermen/",
+    "url_hash": "72fd800aec5a98a78df780e0a31196a4",
+    "ut": 1632424095,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least 25",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Wednesday late night",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Katchatheevu",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Navy",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "A Supreme Court of possibilities",
+    "source": "www.newindianexpress.com",
+    "snippet": "The Indian judiciary is at a crossroads. The CJI can do a lot in bringing in reforms in the system as demonstrated by Willy Mutunga, former Chief Justice of Kenya",
+    "url": "https://www.newindianexpress.com/opinions/columns/2021/sep/24/a-supreme-court-of-possibilities-2362853.html",
+    "url_hash": "a5081e1c7c9a34e7f596b144c7801694",
+    "ut": 1632424095,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CJI",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Willy Mutunga",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kenya",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Sri Lanka's foreign debt payment challenges in '22",
+    "source": "www.ft.lk",
+    "snippet": "In spite of the negative opinion on Sri Lanka's ability to repay foreign debt by rating agencies and somewhat stemming from a fiscal crisis largely precipitated by COVID-19, the country repaid the $ 1 billion bond by the deadline and a further $ 400-500 million in other commitments,",
+    "url": "https://www.ft.lk/dinesh-weerakkody/Sri-Lanka-s-foreign-debt-payment-challenges-in-22/5-723391",
+    "url_hash": "ec5d2197a25efd247179e88bbf73f0ee",
+    "ut": 1632424107,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "COVID-19",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 1 billion",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "400",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "500 million",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Coalition Leaders meet PM over Kerawalapitiya Deal",
+    "source": "www.newsfirst.lk",
+    "snippet": "Leaders of Political Parties in the ruling coalition met with Prime Minister Mahinda Rajapaksa on Thursday (23) for crucial talks over - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/24/coalition-leaders-meet-pm-over-kerawalapitiya-deal/",
+    "url_hash": "8916e82ad8d103e8a3a36d9cfbf2bbfd",
+    "ut": 1632424119,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Holiday sites see increase in UK demand for trips to Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Travel experts anticipate a \"large increase in bookings this weekend\" for foreign trips to Sri Lanka and several other destinations, according to a report in UK's Daily Mail. ..",
+    "url": "https://www.ft.lk/front-page/Holiday-sites-see-increase-in-UK-demand-for-trips-to-Sri-Lanka/44-723420",
+    "url_hash": "44b1c797a1443f38cfe0caf9b4fbc07e",
+    "ut": 1632426807,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "this weekend",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mail",
+        "start_end": [
+          30,
+          32
         ]
       }
     ]
