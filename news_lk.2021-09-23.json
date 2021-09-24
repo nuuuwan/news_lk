@@ -3804,6 +3804,57 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Moragoda presents credentials to the President of India",
+    "source": "menafn.com",
+    "snippet": "The High Commissioner of Sri Lanka to India, Milinda Moragoda, appointed with Cabinet rank, presented his Letter of Credence to President",
+    "url": "https://menafn.com/1102849459/Moragoda-presents-credentials-to-the-President-of-India",
+    "url_hash": "1ba1ef39ea8c1d9a83d68260c2ba0b8c",
+    "ut": 1632388122,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Milinda Moragoda",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Letter of Credence",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Manusha files FR challenging Cabraal's appointment",
     "source": "www.dailymirror.lk",
     "snippet": "Samagi Jana Balawegaya parliamentarian Manusha Nanayakkara yesterday filed a Fundamental Rights petition in Supreme Court seeking a declaration that appointment of former State Minister Ajith Nivard Cabraal as the Governor of the Central Bank by President has no legal effect.",
@@ -4358,6 +4409,49 @@
         "text": "SL",
         "start_end": [
           19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Eliyantha White passes away",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lankan faith healer Eliyantha White has passed away earlier today (September 22), sources told Ada Derana. He had been receiving treatment for COVID-19 at a private hospital in Colombo when he had passed away.",
+    "url": "http://www.adaderana.lk/news/77136/eliyantha-white-passes-away",
+    "url_hash": "adeb22b3c06f2176160b248a41f48f10",
+    "ut": 1632391705,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Eliyantha White",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier today",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ada Derana",
+        "start_end": [
+          18,
           20
         ]
       }
@@ -6647,6 +6741,73 @@
         "start_end": [
           2,
           3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "At UN Assembly, Sri Lanka Urges Environmental Efforts and Protection of Afghan Buddhist Heritage",
+    "source": "www.buddhistdoor.net",
+    "snippet": "Sri Lankan Prime Minister Mahinda Rajapaksa invoked Buddhism in urging measures to address the growing threat from the climate crisis and to protect the Buddhist heritage of Afghanistan. Speaking at the United Nations General Assembly in New York on Wednesday,",
+    "url": "https://www.buddhistdoor.net/news/at-un-assembly-sri-lanka-urges-environmental-efforts-and-protection-of-afghan-buddhist-heritage",
+    "url_hash": "b1165f7e74c8b38f436fa7caf2f0c21b",
+    "ut": 1632413301,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          31,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
