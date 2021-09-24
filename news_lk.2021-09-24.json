@@ -1453,6 +1453,25 @@
   },
   {
     "date": "2021-09-24",
+    "title": "Post Offices ease delivery of medicine",
+    "source": "www.dailymirror.lk",
+    "snippet": "All Post offices and Sub Post offices across the country remain open to handle delivery of medicines. The government facilitates to send the required medicines through main and sub post offices for patients who have registered with every main hospital.",
+    "url": "https://www.dailymirror.lk/caption_story/Post-Offices-ease-delivery-of-medicine/110-221030",
+    "url_hash": "99fa8fa1bf790bac83f48445840a0de2",
+    "ut": 1632452877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sub Post",
+        "start_end": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
     "title": "Tamil MP held in Sri Lanka over rebel remembrance",
     "source": "www.dawn.com",
     "snippet": "COLOMBO: Sri Lankan police on Thursday arrested a Tamil MP for commemorating a separatist rebel who died campaigning for the minority community, hours after President Gotabaya Rajapaksa called for reconciliation between ethnic groups.",
@@ -1594,6 +1613,25 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Vital to transform global food systems to be more sustainable: President",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa stressed that it is essential to transform global food systems to be more sustainable and that all stakeholders should work together in this regard. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Vital-to-transform-global-food-systems-to-be-more-sustainable-President/108-221052",
+    "url_hash": "b1733f4e993346d789c91719685d4be4",
+    "ut": 1632456477,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
         ]
       }
     ]
@@ -1962,6 +2000,41 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "UNP recognizes reduction in daily Covid deaths",
+    "source": "www.dailymirror.lk",
+    "snippet": "The United National Party (UNP) said it recognized the reduction in the number of daily Covid fatalities in the country achieved through restriction of public mobility by the government. ..",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/UNP-recognizes-reduction-in-daily-Covid-deaths/449-221058",
+    "url_hash": "3e320c1bcd01414dad29ba7d60a32cda",
+    "ut": 1632463677,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The United National Party",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
@@ -2413,6 +2486,67 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Lankan medical specialists urge parents to get their children vaccinated",
+    "source": "menafn.com",
+    "snippet": "This generation of children and youth cannot anymore afford disruptions to their education, which is why experts have called upon governments to re-open schools as soon as possible and get education back on track.",
+    "url": "https://menafn.com/1102856637/Lankan-medical-specialists-urge-parents-to-get-their-children-vaccinated",
+    "url_hash": "7ffdaa531e1231c870a29188d5e01409",
+    "ut": 1632472865,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Lanka Premier League to be played in December",
+    "source": "menafn.com",
+    "snippet": "The Lanka Premier League (LPL) is to be held from 04th to 23rd December 2021, the Sri Lanka Cricket Board said today.   T",
+    "url": "https://menafn.com/1102856633/Lanka-Premier-League-to-be-played-in-December",
+    "url_hash": "3258480b9f72bedd2c8b7d6a2e23bcdf",
+    "ut": 1632472887,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LPL",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "04th to 23rd December 2021",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Cricket Board",
+        "start_end": [
+          18,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
