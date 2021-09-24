@@ -1380,5 +1380,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Malaysia relaxes ban on travellers from Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Malaysia has relaxed a ban on travellers from Sri Lanka and four other countries. Accordingly, those with permanent resident status, long-stay passes, businessmen and investors can enter Malaysia from these five countries.",
+    "url": "https://colombogazette.com/2021/09/24/malaysia-relaxes-ban-on-travellers-from-sri-lanka/",
+    "url_hash": "38280c442ea78818c6217b4dc9a51b40",
+    "ut": 1632454492,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
   }
 ]
