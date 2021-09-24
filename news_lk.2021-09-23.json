@@ -6739,6 +6739,49 @@
   },
   {
     "date": "2021-09-23",
+    "title": "Sri Lanka arrests Tamil lawmaker over rebel remembrance",
+    "source": "www.newagebd.net",
+    "snippet": "Sri Lankan police on Thursday arrested a Tamil lawmaker for commemorating a separatist rebel who died campaigning for the minority community, hours after president",
+    "url": "http://www.newagebd.net/article/149927/sri-lanka-arrests-tamil-lawmaker-over-rebel-remembrance",
+    "url_hash": "12a53a6381b1dcca227d3c5bed635f4d",
+    "ut": 1632413771,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
     "title": "Sri Lankan shares end higher on industrials, financials boost",
     "source": "www.reuters.com",
     "snippet": "Sri Lankan shares ended higher on Thursday, helped by industrial and financial stocks. * The CSE All-Share index was up 0.48% at 8,830.35 points. * Conglomerate Expolanka Holdings Plc and John Keells Holdings were the top percentage gainers on the index,",
@@ -8443,6 +8486,33 @@
         "start_end": [
           13,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-23",
+    "title": "Grave crisis faced by Agriculture Sector",
+    "source": "www.lankaweb.com",
+    "snippet": "In spite of all these, the Ministry of Agriculture (MOA) continued to ban the import of agrochemicals. The farmers suffered immensely during the last Yala season because of this, as their crops were badly affected by lack of inorganic fertilisers,",
+    "url": "https://www.lankaweb.com/news/items/2021/09/23/grave-crisis-faced-by-agriculture-sector/",
+    "url_hash": "a6486b1c18f0255f5db6872fd114ed53",
+    "ut": 1632435371,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Agriculture",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "season",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
