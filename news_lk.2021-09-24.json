@@ -3412,6 +3412,41 @@
   },
   {
     "date": "2021-09-24",
+    "title": "Clear all stagnant essential food items from ports Immediately: PM",
+    "source": "www.dailymirror.lk",
+    "snippet": "Prime Minister Mahinda Rajapaksa instructed the Sri Lanka Customs Director General and the Import, Export Controller General to swing into immediate action to clear all essential food items currently piled up at the port.",
+    "url": "https://www.dailymirror.lk/latest_news/Clear-all-stagnant-essential-food-items-from-ports-Immediately-PM/342-221069",
+    "url_hash": "065366a6a8ec44df0981e53cca8373ce",
+    "ut": 1632478232,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Customs",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Import, Export Controller",
+        "start_end": [
+          12,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
     "title": "Sri Lanka's Apparel Industry on Tenterhooks Over EU Trade Scrutiny",
     "source": "money.usnews.com",
     "snippet": "Reynolds//File Photo Reuters COLOMBO (Reuters) - Sri Lanka's preferential trade access to the European Union, which is the biggest market for its $5 billion apparel industry, is in doubt with an investigation into the island country's human rights and governance concerns set to start on Monday.",
@@ -3557,6 +3592,73 @@
         "start_end": [
           19,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Sri Lanka signs pledge to stop building new coal power plants",
+    "source": "colombogazette.com",
+    "snippet": "Seven countries, including Sri Lanka, have signed a pledge initiated by the United Nations to stop building new coal power plants, the Bloomberg news service reported today. Sri Lanka, at present, operates a coal power plant in Puttalam which was funded and constructed by China.",
+    "url": "https://colombogazette.com/2021/09/24/sri-lanka-signs-pledge-to-stop-building-new-coal-power-plants/",
+    "url_hash": "ca47ce2010aa7ce3ae0414f873b1c634",
+    "ut": 1632481867,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Seven",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Puttalam",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          50,
+          51
         ]
       }
     ]
@@ -3745,6 +3847,312 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Sri Lankan shares end higher on boost from financials, industrials",
+    "source": "www.msn.com",
+    "snippet": "Sri Lankan shares ended higher on Friday, boosted by financial and industrial stocks. * The CSE All-Share index closed 1.24% higher at 8,940.11 points. * Conglomerate Expolanka Holdings Plc and Commercial Leasing and Finance were the top percentage gainers on the index,",
+    "url": "https://www.msn.com/en-us/finance/news/sri-lankan-shares-end-higher-on-boost-from-financials-industrials/ar-AAOLZqq",
+    "url_hash": "62b3ff06a133a0c9486538a0c56946ac",
+    "ut": 1632485444,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "1.24%",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8,940.11",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Conglomerate Expolanka Holdings Plc",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Commercial Leasing",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Main suspect in Rajagiriya drug raid incident surrenders to court",
+    "source": "www.adaderana.lk",
+    "snippet": "The main suspect in the incident during the drug raid at Obeysekarapura in Rajagiriya, where a police constable was left injured, has surrendered to court",
+    "url": "http://www.adaderana.lk/news.php?nid=77187",
+    "url_hash": "fe6bb92b547a2bf76de47c8807dae473",
+    "ut": 1632485449,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Obeysekarapura in Rajagiriya",
+        "start_end": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Asanga Seneviratne appointed to Sri Lanka stock exchange board",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Colombo Stock Exchange (CSE) of Sri Lanka appointed one of its former directors Asanga Seneviratne to its board with effect from3. Seneviratne currently serves as the chairman of Nation Lanka Equities (Pvt) Ltd and Managing Director of Asia Fort Asset Management (Private) Limited,",
+    "url": "https://economynext.com/asanga-seneviratne-appointed-to-sri-lanka-stock-exchange-board-86455/",
+    "url_hash": "545742604270fcaa1cd11b2888933eff",
+    "ut": 1632485458,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo Stock Exchange",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asanga Seneviratne",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Seneviratne",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nation Lanka Equities (Pvt) Ltd and Managing",
+        "start_end": [
+          34,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Asia Fort Asset Management",
+        "start_end": [
+          45,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Financial expert Seneviratne appointed to CSE board",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Colombo Stock Exchange (CSE) of Sri Lanka appointed one of its former directors Asanga Seneviratne to its board with effect from3. Seneviratne currently serves as the chairman of Nation Lanka Equities (Pvt) Ltd and Managing Director of Asia Fort Asset Management (Private) Limited,",
+    "url": "https://economynext.com/financial-expert-seneviratne-appointed-to-cse-board-86455/",
+    "url_hash": "2816bd485130437c6aa92750a30e319b",
+    "ut": 1632485458,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo Stock Exchange",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asanga Seneviratne",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Seneviratne",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nation Lanka Equities (Pvt) Ltd and Managing",
+        "start_end": [
+          34,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Asia Fort Asset Management",
+        "start_end": [
+          45,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Sinopharm urged to establish COVID-19 vaccine refilling plant in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Sinopharm has been urged to establish a COVID-19 vaccine refilling plant in Sri Lanka.   The request was made when the Am",
+    "url": "https://menafn.com/1102857644/Sinopharm-urged-to-establish-COVID-19-vaccine-refilling-plant-in-Sri-Lanka",
+    "url_hash": "0c9087ef1284340dabb4f6a04f46dfe3",
+    "ut": 1632487267,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "UAE to consider Sri Lanka' s request for oil through special deal",
+    "source": "menafn.com",
+    "snippet": "The United Arab Emirates (UAE) is to consider Sri Lanka's request for oil through a concessionary arrangement.   Fo",
+    "url": "https://menafn.com/1102857645/UAE-to-consider-Sri-Lanka8217-s-request-for-oil-through-special-deal&source=22",
+    "url_hash": "0b5a3e317de8bff47889081a0f3d5857",
+    "ut": 1632487867,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The United Arab Emirates",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          10,
+          13
         ]
       }
     ]
