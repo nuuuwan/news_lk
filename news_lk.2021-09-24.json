@@ -1179,6 +1179,49 @@
   },
   {
     "date": "2021-09-24",
+    "title": "CoL Committee meets today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cost of Living Committee will meet today to discuss the requests made by milk powder importers regarding the increase in the price of milk powder, Co-operative Services, Marketing Development and Consumer Protection State Minister Lasantha Alagiyawanna said.",
+    "url": "https://www.dailymirror.lk/latest_news/CoL-Committee-meets-today/342-221028",
+    "url_hash": "b6a53360a0d611ba77d8da21bc5a07db",
+    "ut": 1632449287,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Cost of Living Committee",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Marketing Development and Consumer Protection",
+        "start_end": [
+          32,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lasantha Alagiyawanna",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
     "title": "As youngsters refuse vaccines; Medics warn Sri Lanka's immunization programme at risk",
     "source": "www.dailymirror.lk",
     "snippet": "As health authorities come under severe pressure due to the lack of interest among youngsters to get the COVID-19 vaccines, medical workers yesterday warned that Sri Lanka's immunization programme will come at risk if youngsters have no confidence on all vaccinations.",
@@ -1428,6 +1471,143 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Sri Lanka begins vaccinating children for the coronavirus",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka today began vaccinating children for the first time, for the coronavirus. The Ministry of Health said that children between the age of 12 and 19 suffering from chronic illnesses or having disabilities,",
+    "url": "https://colombogazette.com/2021/09/24/sri-lanka-begins-vaccinating-children-for-the-coronavirus/",
+    "url_hash": "07552672e7f4e65078a1ece17bb70068",
+    "ut": 1632457420,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "19",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "CDB Rankati Launches Its First-Ever Digital Art Competition 'CDB Rankati Siththam Roo 2021'",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Citizens Development Business Finance PLC, in celebration of World Children's Day, announced the launch of their first-ever Digital Art Competition \"CDB Ranketi Siththam Roo 2021\". The initiative will allow children to explore their creativity and express themselves through art and colour.",
+    "url": "http://bizenglish.adaderana.lk/cdb-rankati-launches-its-first-ever-digital-art-competition-cdb-rankati-siththam-roo-2021/",
+    "url_hash": "b3abe4a0a2aa91f33887adf594bb3cf6",
+    "ut": 1632457637,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Citizens Development Business Finance PLC",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "World Children's Day",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Digital Art Competition",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Siththam Roo",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Malaysia relaxes ban on travellers from Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Malaysia has relaxed a ban on travellers from Sri Lanka and four other countries.   Accordingly, those with permanent res",
+    "url": "https://menafn.com/1102855246/Malaysia-relaxes-ban-on-travellers-from-Sri-Lanka",
+    "url_hash": "a2223bdd6e9c0b4affa6865be858dfe2",
+    "ut": 1632458440,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          11,
+          12
         ]
       }
     ]
