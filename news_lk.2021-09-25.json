@@ -299,6 +299,65 @@
   },
   {
     "date": "2021-09-25",
+    "title": "SJB to brief Mahanayake Theras on New Fortress Energy deal",
+    "source": "www.dailymirror.lk",
+    "snippet": "Samagi Jana Balawegaya (SJB) is to brief the Mahanayaka Theras of Asgiri and Malwatte on September 27, on the agreement which the government had got into with the American based New Fortress Energy to run the Kerawalapitiya power plant,",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-to-brief-Mahanayake-Theras-on-New-Fortress-Energy-deal/342-221127",
+    "url_hash": "377ee28b6150c61fd5e266a1b3bd6db1",
+    "ut": 1632535669,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Samagi Jana Balawegaya",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 27",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "American",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Fortress Energy",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kerawalapitiya",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Parts of the island to receive heavy rains above 100 mm",
     "source": "www.adaderana.lk",
     "snippet": "The Department of Meteorology says the showery condition over the south-western part of the country is expected to enhance due to active south-west monsoon condition",
@@ -560,6 +619,221 @@
         "start_end": [
           8,
           9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "The Latest: Washington state to give Pfizer boosters to some",
+    "source": "www.stltoday.com",
+    "snippet": "The Washington state Department of Health says it will immediately start offering booster doses of the Pfizer-BioNTech COVID-19 vaccine to certain people after recommendations from the U.S.",
+    "url": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-washington-state-to-give-pfizer-boosters-to-some/article_ca8f5972-611a-54d7-9584-4d06307d3270.html",
+    "url_hash": "7b204b3c7274c20872c999a228ba2e9c",
+    "ut": 1632542885,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Department of Health",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "The Latest: Washington state to give Pfizer boosters to some",
+    "source": "omaha.com",
+    "snippet": "The Washington state Department of Health says it will immediately start offering booster doses of the Pfizer-BioNTech COVID-19 vaccine to certain people after recommendations from the U.S.",
+    "url": "https://omaha.com/news/national/govt-and-politics/the-latest-washington-state-to-give-pfizer-boosters-to-some/article_5c42fb95-7390-5339-a297-41535937d9cd.html",
+    "url_hash": "7a5fd7529e738fe78fd1f1231d61ccb4",
+    "ut": 1632542890,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Department of Health",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Sri Lanka prints Rs103.5bn below 3-month Treasuries yield to reverse SRR",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank has printed 103.5 billion rupees for 87 days at rates as low as 6.08 percent days after a ceiling rate at which money was printed to boost outflows above inflows taking the country closer to sovereign default was take away.",
+    "url": "https://economynext.com/sri-lanka-prints-rs103-5bn-below-3-month-treasuries-yield-to-reverse-srr-86466/",
+    "url_hash": "8495ccf5b636dda03afac9af588073f1",
+    "ut": 1632543014,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "103.5 billion",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "87 days",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "as low as 6.08 percent",
+        "start_end": [
+          15,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "days",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Red alert on thundershowers issued to eleven districts: Met Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "A red alert has been issued on heavy showers or thunderstorms to 11 districts, the Department of Meteorology said today. They said more than 100 mm shower is forecast and expected to enhance over the southwestern part of the island, due to active Southwest ...",
+    "url": "https://www.dailymirror.lk/latest_news/Red-alert-on-thundershowers-issued-to-eleven-districts-Met-Dept/342-221128",
+    "url_hash": "9a4e5dcd38271d0e441e84c777dc759f",
+    "ut": 1632546229,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 100",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Southwest",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Comprehensive plan to reopen the country: COVID-19 committee",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Special Committee on COVID-19 Control decided to devise a comprehensive plan on the health recommendations and restrictions that need to be imposed on reopening the country with the lifting of the curfew, the President Media Division said. The plan ...",
+    "url": "https://www.dailymirror.lk/top_story/Comprehensive-plan-to-reopen-the-country-COVID-19-committee/155-221075",
+    "url_hash": "c56a1700bdea60adf941e31a336aff98",
+    "ut": 1632546229,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Special Committee",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the President Media Division",
+        "start_end": [
+          34,
+          38
         ]
       }
     ]
