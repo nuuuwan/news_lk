@@ -2793,6 +2793,33 @@
     "title": "Ranil suspects tourism-based economic recovery lead to uncertainty",
     "source": "www.dailymirror.lk",
     "snippet": "UNP Leader Ranil Wickremesinghe says that economic recovery based on a resurgence of the tourism industry will lead to uncertainty. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Ranil-suspects-tourism-based-economic-recovery-lead-to-uncertainty/342-221140",
+    "url_hash": "3f97ab542670d0408a194c386b1729c7",
+    "ut": 1632586113,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Ranil suspects tourism-based economic recovery lead to uncertainty",
+    "source": "www.dailymirror.lk",
+    "snippet": "UNP Leader Ranil Wickremesinghe says that economic recovery based on a resurgence of the tourism industry will lead to uncertainty. ..",
     "url": "https://www.dailymirror.lk/breaking_news/Ranil-suspects-tourism-based-economic-recovery-lead-to-uncertainty/108-221140",
     "url_hash": "f57bfe53c36bb65124ccb46876519397",
     "ut": 1632586139,
@@ -2846,6 +2873,49 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "No decision to give Pfizer, Moderna vaccines to local uni students - Army Chief",
+    "source": "www.adaderana.lk",
+    "snippet": "The Pfizer and Moderna COVID-19 vaccines will be administered only to students who go abroad for higher studies, the Commander of Sri Lanka Army General Shavendra Silva stated",
+    "url": "http://www.adaderana.lk/news.php?nid=77221",
+    "url_hash": "5690ad4c15a6257d80da1524c6ef8703",
+    "ut": 1632589728,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Moderna",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Army",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          26,
+          28
         ]
       }
     ]
