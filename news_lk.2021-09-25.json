@@ -1,6 +1,49 @@
 [
   {
     "date": "2021-09-25",
+    "title": "'Cutting hands off necessary punishment,' executions to return, Taliban warns",
+    "source": "www.msn.com",
+    "snippet": "AFGHANISTAN: One of the founders of the Taliban and the chief enforcer of its harsh interpretation of Islamic law when they last ruled Afghanistan said the hard-line movement will once again carry out executions and amputations of hands,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/cutting-hands-off-necessary-punishment-executions-to-return-taliban-warns/ar-AAONBqx",
+    "url_hash": "89d5315cd6b45b103b4b9717d739ec6b",
+    "ut": 1632528501,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "HSBC Sri Lanka recognised as the Best Consumer Digital Bank by Global Finance",
     "source": "island.lk",
     "snippet": "HSBC has been recognised as the Best Consumer Digital Bank in Sri Lanka for 2021 by Global Finance at the World's Best Consumer Digital Banks Awards in Asia-Pacific. While this is the bank's fourth award win for this year, this also marks the 13th time ...",

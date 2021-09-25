@@ -6729,6 +6729,65 @@
   },
   {
     "date": "2021-09-24",
+    "title": "Sri Lanka to cease building coal-fired plants, aims to be net-zero emitter by 2050",
+    "source": "www.yahoo.com",
+    "snippet": "Sri Lanka will cease building new coal-fired power plants and achieve net-zero carbon emissions by 2050, President Gotabaya Rajapaksa said in an address to the United Nations International Energy Forum on Friday.",
+    "url": "https://www.yahoo.com/entertainment/sri-lanka-cease-building-coal-190238118.html",
+    "url_hash": "335930b73302cc2024784ecab43f1fa6",
+    "ut": 1632510493,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "net-zero",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2050",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations International Energy Forum",
+        "start_end": [
+          29,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
     "title": "President says global food systems should be transformed sustainably",
     "source": "www.ft.lk",
     "snippet": "President Gotabaya Rajapaksa on Thursday stressed that it was essential to transform global food systems to be more sustainable and that all stakeholders should work together in this regard. The President expressed these views while addressing the Virtual Plenary of the UN Food Systems Summit.",
@@ -6978,6 +7037,65 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Sri Lanka to cease building coal-fired plants, aims to be net-zero emitter by 2050",
+    "source": "finance.yahoo.com",
+    "snippet": "Sri Lanka will cease building new coal-fired power plants and achieve net-zero carbon emissions by 2050, President Gotabaya Rajapaksa said in an address to the United Nations International Energy Forum on Friday.",
+    "url": "https://finance.yahoo.com/news/sri-lanka-cease-building-coal-190238118.html",
+    "url_hash": "47edc7ebf215d336c308d5836acc26ff",
+    "ut": 1632510518,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "net-zero",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2050",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations International Energy Forum",
+        "start_end": [
+          29,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
