@@ -7869,6 +7869,65 @@
   },
   {
     "date": "2021-09-24",
+    "title": "Sri Lanka to cease building coal-fired plants, aims to be net-zero emitter by 2050",
+    "source": "www.metro.us",
+    "snippet": "Sri Lanka will cease building new coal-fired power plants and achieve net-zero carbon emissions by 2050, President Gotabaya Rajapaksa said in an address to the United Nations International Energy Forum on Friday.",
+    "url": "https://www.metro.us/sri-lanka-to-cease/",
+    "url_hash": "8a2036f7c867dc1347f2db69d64d61fb",
+    "ut": 1632517703,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "net-zero",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2050",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations International Energy Forum",
+        "start_end": [
+          29,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
     "title": "Rhetoric & Pretensions",
     "source": "www.dailymirror.lk",
     "snippet": "The reform of the Muslim Marriage and Divorce Act (MMDA)that Muslim women have been demanding for over four decades,is back on centre stage. ..",
