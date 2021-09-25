@@ -2787,5 +2787,67 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Ranil suspects tourism-based economic recovery lead to uncertainty",
+    "source": "www.dailymirror.lk",
+    "snippet": "UNP Leader Ranil Wickremesinghe says that economic recovery based on a resurgence of the tourism industry will lead to uncertainty. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranil-suspects-tourism-based-economic-recovery-lead-to-uncertainty/108-221140",
+    "url_hash": "f57bfe53c36bb65124ccb46876519397",
+    "ut": 1632586139,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Tamil Nadu: 3 Fishermen Injured In Attack By Sri Lankans Mid-Sea Near Kodiyakkarai",
+    "source": "news.abplive.com",
+    "snippet": "The Sri Lankan fishermen came near the Tamil Nadu fishermen in three boats and reportedly attacked them with iron rods.",
+    "url": "https://news.abplive.com/tamil-nadu/tamil-nadu-3-fishermen-injured-in-attack-by-sri-lankans-mid-sea-near-kodiyakkarai-1484289",
+    "url_hash": "0e99f8969a8a661f203e29e5745185fe",
+    "ut": 1632587469,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
   }
 ]
