@@ -119,6 +119,57 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Economic crisis deepens in Sri Lanka; Colombo seeks help from India and UAE to buy fuel",
+    "source": "www.southasiamonitor.org",
+    "snippet": "Sri Lanka is in talks with India for a $500 million credit line to buy fuel and delay payments, said a senior Sri Lankan official as its already struggling economy worsened by the weeks-long lockdown",
+    "url": "https://www.southasiamonitor.org/sri-lanka/economic-crisis-deepens-sri-lanka-colombo-seeks-help-india-and-uae-buy-fuel",
+    "url_hash": "d9a35fc999cc53f57081845e80bbfb75",
+    "ut": 1632528521,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$500 million",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weeks-long",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "The Latest: Ironman World Champs moved from Hawaii to Utah",
     "source": "www.stltoday.com",
     "snippet": "The Ironman World Championship will be held outside Hawaii for the first time in four decades. That is due to uncertainty over whether the Big Island will be able to host the triathlon as scheduled in February because of the coronavirus pandemic.",
@@ -348,6 +399,65 @@
     "url": "https://www.dailymirror.lk/latest_news/SJB-to-brief-Mahanayake-Theras-on-New-Fortress-Energy-deal/342-221127",
     "url_hash": "377ee28b6150c61fd5e266a1b3bd6db1",
     "ut": 1632535669,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Samagi Jana Balawegaya",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 27",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "American",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Fortress Energy",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kerawalapitiya",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "SJB to brief Mahanayake Theras on New Fortress Energy deal",
+    "source": "www.dailymirror.lk",
+    "snippet": "Samagi Jana Balawegaya (SJB) is to brief the Mahanayaka Theras of Asgiri and Malwatte on September 27, on the agreement which the government had got into with the American based New Fortress Energy to run the Kerawalapitiya power plant,",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-to-brief-Mahanayake-Theras-on-New-Fortress-Energy-deal/108-221127",
+    "url_hash": "ac442a5c97b0e66fd7ac54ca9efeba0c",
+    "ut": 1632535695,
     "ent_info_list": [
       {
         "label": "PERSON",
@@ -821,6 +931,41 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Red alert on thundershowers issued to eleven districts: Met Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "A red alert has been issued on heavy showers or thunderstorms to 11 districts, the Department of Meteorology said today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Red-alert-on-thundershowers-issued-to-eleven-districts-Met-Dept/108-221128",
+    "url_hash": "0b2289dccb9e6e0ca1e397bd2afc766c",
+    "ut": 1632542895,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Mahela Jayawardena appointed as 'consultant' for T20 World Cup and U19 teams",
     "source": "menafn.com",
     "snippet": "Former Sri Lanka Captain Mahela Jayawardena has been appointed as a 'consultant' to the National team during th",
@@ -1141,6 +1286,41 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Govt. plans to make Sri Lanka carbon neutral country by 2050: President",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa said the government has made plans to transition away from fossil fuels, promote de- carbonization, and make Sri Lanka a carbon neutral country by 2050. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-plans-to-make-Sri-Lanka-carbon-neutral-country-by-2050-President/108-221130",
+    "url_hash": "b61664b94e525027c4bc958d73b8a82b",
+    "ut": 1632553695,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2050",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Sri Lanka's vital EU trade privileges hang in the balance",
     "source": "www.freemalaysiatoday.com",
     "snippet": "COLOMBO: When a special five-member European Union delegation arrives in Colombo on Monday, its review of a vital trade concession could lead to substantial export losses for Sri Lanka, which has already suffered a steep drop in foreign reserves.",
@@ -1391,6 +1571,92 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Health Minister optimistic on reopening country on Oct. 1",
+    "source": "www.dailymirror.lk",
+    "snippet": "The country will be reopened on October 1 under certain restrictions, Health Minister Keheliya Rambukwella said today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Health-Minister-optimistic-on-reopening-country-on-Oct-1/108-221134",
+    "url_hash": "8bfeced370ac9fde4a36f4647107c48f",
+    "ut": 1632564495,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Chaos at BIA as arrivals still sent for mandatory quarantine",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chaos has broken out at the Bandaranaike International Airport (BIA) today as tourists are still being taken to hotels for quarantine procedures instead of the PCR facility established at the airport.",
+    "url": "https://www.dailymirror.lk/breaking_news/Chaos-at-BIA-as-arrivals-still-sent-for-mandatory-quarantine/108-221132",
+    "url_hash": "c631f7ff29ed8107080c39c674c01dbe",
+    "ut": 1632564495,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Chaos",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "PCR",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Derana recognised as Sri Lanka's most respected media entity",
     "source": "www.adaderana.lk",
     "snippet": "The Derana Media Network has been recognised as the Most Respected entity in Sri Lanka in the media sector. LMD magazine has released it latest rankings of the country's Most Respected entities in 2021,",
@@ -1495,6 +1761,175 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Ranil suspects lockdown will not be lifted on 1st October",
+    "source": "colombogazette.com",
+    "snippet": "Leader Ranil Wickremesinghe suspects the current lockdown will not be lifted on 1st October. The UNP media unit quoted Wickremesinghe as saying that there are reports of a delay in purchasing diesel supplies for the domestic market.",
+    "url": "https://colombogazette.com/2021/09/25/ranil-suspects-lockdown-will-not-be-lifted-on-1st-october/",
+    "url_hash": "c6c7e1c0b3e5a910392931caa1787634",
+    "ut": 1632569506,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1st October",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wickremesinghe",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Indonesia says no bilateral issues with Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Indonesia has said that there are no bilateral issues with Sri Lanka, the Sri Lankan Foreign Ministry said today.   The F",
+    "url": "https://menafn.com/1102862064/Indonesia-says-no-bilateral-issues-with-Sri-Lanka",
+    "url_hash": "bcaa2e83ab739fb00c1ce18cc48916b2",
+    "ut": 1632569986,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Foreign Ministry",
+        "start_end": [
+          13,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "The F",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "HSBC Sri Lanka recognised as the Best Consumer Digital Bank by Global Finance",
+    "source": "colombogazette.com",
+    "snippet": "HSBC has been recognised as the Best Consumer Digital Bank in Sri Lanka for 2021 by Global Finance at the World's Best Consumer Digital Banks Awards in Asia-Pacific. While this is the bank's fourth award win for this year,",
+    "url": "https://colombogazette.com/2021/09/25/hsbc-sri-lanka-recognised-as-the-best-consumer-digital-bank-by-global-finance/",
+    "url_hash": "887193ee115aa6fb0ad7d43239b77c67",
+    "ut": 1632571126,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "HSBC",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "the Best Consumer Digital Bank",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Global Finance",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia-Pacific",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          42,
+          44
         ]
       }
     ]
