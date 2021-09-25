@@ -1,6 +1,16 @@
 [
   {
     "date": "2021-09-25",
+    "title": "Does Sri Lanka Really Have a Food Crisis?",
+    "source": "thediplomat.com",
+    "snippet": "The problem isn't the availability of food items or essential goods, but skyrocketing prices of essentials due to stockpiling.",
+    "url": "https://thediplomat.com/2021/09/does-sri-lanka-really-have-a-food-crisis/",
+    "url_hash": "66791e4d0a98b810a156f906e7bb51c5",
+    "ut": 1632528478,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-25",
     "title": "'Cutting hands off necessary punishment,' executions to return, Taliban warns",
     "source": "www.msn.com",
     "snippet": "AFGHANISTAN: One of the founders of the Taliban and the chief enforcer of its harsh interpretation of Islamic law when they last ruled Afghanistan said the hard-line movement will once again carry out executions and amputations of hands,",
@@ -320,6 +330,33 @@
         "start_end": [
           35,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "CMC steps in to assist vaccine roll-out for children",
+    "source": "www.dailymirror.lk",
+    "snippet": "Colombo Municipal Council (CMC) is to assist the health authorities in administering the COVID-19 vaccines to children within the municipal limit and directing them to vaccination centres, Chief Medical Officer of CMC Dr.",
+    "url": "https://www.dailymirror.lk/latest_news/CMC-steps-in-to-assist-vaccine-roll-out-for-children/342-221126",
+    "url_hash": "c4b61326f2fa1aea8f56195fb35535ad",
+    "ut": 1632532068,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Colombo Municipal Council",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CMC",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
@@ -2304,6 +2341,65 @@
   },
   {
     "date": "2021-09-25",
+    "title": "President attends event to mark 20th anniversary of 9/11 attacks in US",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa , who is in the United States , attended the special commemorative event organized in front of the Manhattan Memorial to mark the 20th anniversary of the terrorist attacks in Washington and New York.",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/President-attends-event-to-mark-20th-anniversary-of-911-attacks-in-US/449-221133",
+    "url_hash": "5a7382020428756c6efb30c911f92b5a",
+    "ut": 1632568068,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Manhattan Memorial",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "20th",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "PCR testing facility at BIA malfunctions; restoration very soon: Minister",
     "source": "www.dailymirror.lk",
     "snippet": "The rapid PCR testing facility established at the Bandaranaike International Airport (BIA), which was to kick off today, has malfunctioned due to a technical failure in the system, Tourism Minister Prasanna Ranatunga said.",
@@ -3061,6 +3157,49 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "No decision to give Pfizer, Moderna vaccines to local uni students - Army Chief",
+    "source": "www.adaderana.lk",
+    "snippet": "The Pfizer and Moderna COVID-19 vaccines will be administered only to students who go abroad for higher studies, the Commander of Sri Lanka Army General Shavendra Silva stated",
+    "url": "http://www.adaderana.lk/news/77221/no-decision-to-give-pfizer-moderna-vaccines-to-local-uni-students-army-chief",
+    "url_hash": "b639961c96acfbc9ad74e60114eafa15",
+    "ut": 1632589683,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Moderna",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Army",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          26,
+          28
         ]
       }
     ]

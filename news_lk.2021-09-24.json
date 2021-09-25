@@ -7724,6 +7724,41 @@
   },
   {
     "date": "2021-09-24",
+    "title": "People were seen purchasing books at book stores in Colombo yesterday",
+    "source": "www.dailymirror.lk",
+    "snippet": "Bookshops in Sri Lanka were closed for nearly a month after the fourth wave of COVID-19 hit the country. Pic by Pradeep Pathirana",
+    "url": "https://www.dailymirror.lk/business-news/People-were-seen-purchasing-books-at-book-stores-in-Colombo-yesterday/273-221123",
+    "url_hash": "851ff5d1c1fa945132072c2436238fd6",
+    "ut": 1632517668,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly a month",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
     "title": "How an Intruder in the Gen Assembly was upstaged by a Foreign Minister",
     "source": "www.dailymirror.lk",
     "snippet": "Thalif Deen, former UN Bureau Chief for Inter Press Service (IPS) news agency, is the author of a newly-released book on the United Nations titled \"No Comment- and Don't Quote Me on That\" from which this article is adapted.",
@@ -8587,6 +8622,44 @@
         "start_end": [
           42,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "The Latest: Group files civil rights complaint against Idaho",
+    "source": "www.stltoday.com",
+    "snippet": "BOISE, Idaho \u2014 An advocacy group for older adults has filed a civil rights complaint against Idaho over state crisis standards of care guidelines for hospitals overwhelmed amid the coronavirus",
+    "url": "https://www.stltoday.com/news/national/the-latest-norway-to-ease-most-coronavirus-restrictions/article_ca8f5972-611a-54d7-9584-4d06307d3270.html",
+    "url_hash": "8edcaed502656c89e5d5929138c14096",
+    "ut": 1632521287,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Idaho",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "The Latest: Group files civil rights complaint against Idaho",
+    "source": "omaha.com",
+    "snippet": "BOISE, Idaho \u2014 An advocacy group for older adults has filed a civil rights complaint against Idaho over state crisis standards of care guidelines for hospitals overwhelmed amid the coronavirus",
+    "url": "https://omaha.com/news/national/govt-and-politics/the-latest-group-files-civil-rights-complaint-against-idaho/article_5c42fb95-7390-5339-a297-41535937d9cd.html",
+    "url_hash": "87bbc47540609e77d1d64a7e7fdaf260",
+    "ut": 1632521291,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Idaho",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
