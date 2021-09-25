@@ -837,5 +837,48 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Uber Eats launches in Gampaha its 5th city in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Uber Eats announced its launch in Gampaha, its fifth city in Sri Lanka, bringing convenient food and grocery to the region and connecting local res",
+    "url": "https://menafn.com/1102860880/Uber-Eats-launches-in-Gampaha-its-5th-city-in-Sri-Lanka",
+    "url_hash": "6bf57f194d3b6f9b4660785d603a56ff",
+    "ut": 1632548452,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Uber Eats",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
   }
 ]

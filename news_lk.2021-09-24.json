@@ -3833,6 +3833,33 @@
   },
   {
     "date": "2021-09-24",
+    "title": "COVID snatches another doctor's life",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 31-year-old doctor has passed away due to Covid-19 while undergoing treatment at the Karapitiya Hospital. ..",
+    "url": "https://www.dailymirror.lk/latest_news/COVID-snatches-another-doctor%E2%80%99s-life/342-221068",
+    "url_hash": "7457e7b0d2c824b37aa68f0444165556",
+    "ut": 1632478102,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "31-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Karapitiya Hospital",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
     "title": "Sri Lanka seeks UAE help in buying oil",
     "source": "economynext.com",
     "snippet": "Sri Lanka has requested the United Arab Emirates for concessionary arrangements to buy oil, the foreign ministry said, as the island nation faces a foreign exchange shortage and its state-owned oil retailer Ceylon Petroleum Corporation (CPC) is struggling to pay past dollar debts.",
@@ -5066,6 +5093,25 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Comprehensive plan to reopen the country: COVID-19 committee",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Special Committee on COVID-19 Control decided to devise a comprehensive plan on the health recommendations and restrictions that need to be imposed on reopening the country with the lifting of the curfew,",
+    "url": "https://www.dailymirror.lk/top_story/Comprehensive-plan-to-reopen-the-country-COVID-19-committee/155-221075",
+    "url_hash": "c56a1700bdea60adf941e31a336aff98",
+    "ut": 1632488902,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Special Committee",
+        "start_end": [
+          0,
+          3
         ]
       }
     ]
@@ -6415,6 +6461,33 @@
     "url_hash": "e57f869fdd0da9c37ca7323f0a7c55cb",
     "ut": 1632506909,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Assassination of a Prime Minister - Revisiting the Bandaranaike murder case 62 years later",
+    "source": "www.ft.lk",
+    "snippet": "Defending a man charged with the murder of a Prime Minister is not the most popular or easiest thing to do. More so when the slain Prime Minister happens to be S.W.R.D. Bandaranaike who, in April 1956,",
+    "url": "https://www.ft.lk/front-page/Assassination-of-a-Prime-Minister-Revisiting-the-Bandaranaike-murder-case-62-years-later/44-723437",
+    "url_hash": "b6d272dc6ab2c7fbbec29394e41f01d0",
+    "ut": 1632506936,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "S.W.R.D. Bandaranaike",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April 1956",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
   },
   {
     "date": "2021-09-24",
