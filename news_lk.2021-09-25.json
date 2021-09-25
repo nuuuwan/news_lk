@@ -724,6 +724,49 @@
     "title": "COVID curbs to be lifted on October 1 in measured steps",
     "source": "www.dailymirror.lk",
     "snippet": "The health authorities were instructed yesterday to work out guidelines to lift Covid curbs on October 1 onwards in measured steps, Daily Mirror learns. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-curbs-to-be-lifted-on-October-1-in-measured-steps/108-221125",
+    "url_hash": "5fa9aa46690c60f1217c4177d75ce6d9",
+    "ut": 1632539367,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "COVID curbs to be lifted on October 1 in measured steps",
+    "source": "www.dailymirror.lk",
+    "snippet": "The health authorities were instructed yesterday to work out guidelines to lift Covid curbs on October 1 onwards in measured steps, Daily Mirror learns. ..",
     "url": "https://www.dailymirror.lk/latest_news/COVID-curbs-to-be-lifted-on-October-1-in-measured-steps/342-221125",
     "url_hash": "98c8d389ff0d90c642f386ed2c3fb39f",
     "ut": 1632539649,
@@ -987,6 +1030,73 @@
         "start_end": [
           4,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Uber Eats launches in Gampaha; its 5th city in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Uber Eats announced its launch in Gampaha, its fifth city in Sri Lanka, bringing convenient food and grocery to the region and connecting local restaurants and merchants with new customers. The Uber Eats app is available in Gampaha town and surrounding areas such as Ganemulla and Moragoda.",
+    "url": "https://colombogazette.com/2021/09/25/uber-eats-launches-in-gampaha-its-5th-city-in-sri-lanka/",
+    "url_hash": "3423ebeac31e0a8ce31f1aa6429fc349",
+    "ut": 1632542995,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Uber Eats",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ganemulla",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Moragoda",
+        "start_end": [
+          49,
+          50
         ]
       }
     ]
@@ -1700,6 +1810,49 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Health Minister optimistic on reopening country on Oct. 1",
+    "source": "www.dailymirror.lk",
+    "snippet": "The country will be reopened on October 1 under certain restrictions, Health Minister Keheliya Rambukwella said today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Health-Minister-optimistic-on-reopening-country-on-Oct-1/342-221134",
+    "url_hash": "f46511af288af919d466adb08c584c5d",
+    "ut": 1632564567,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Indonesia says no bilateral issues with Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "Indonesia has said that there are no bilateral issues with Sri Lanka, the Sri Lankan Foreign Ministry said today. The Foreign Minister of Indonesia Retno Lestari Priansari Marsudi met the Foreign Minister of Sri Lanka Professor G.",
@@ -1761,6 +1914,84 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "PCR testing facility at BIA malfunctions; restoration very soon: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The rapid PCR testing facility established at the Bandaranaike International Airport (BIA), which was to kick off today, has malfunctioned due to a technical failure in the system, Tourism Minister Prasanna Ranatunga said.",
+    "url": "https://www.dailymirror.lk/top_story/PCR-testing-facility-at-BIA-malfunctions-restoration-very-soon-Minister/155-221135",
+    "url_hash": "05d452bf92d79ea8e88328d65f90a1b2",
+    "ut": 1632568167,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Next month extremely crucial, says Army Chief",
+    "source": "www.dailymirror.lk",
+    "snippet": "The behaviour of people in the month of October would play a vital role in deciding the destiny of the country in the next few months in terms of the COVID-19 situation, Army Commander Shavendra Silva said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Next-month-extremely-crucial-says-Army-Chief/108-221136",
+    "url_hash": "82c980f86388ce11736f79a52efd2878",
+    "ut": 1632568167,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the month of October",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next few months",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
@@ -1930,6 +2161,57 @@
         "start_end": [
           42,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "HSBC Sri Lanka recognised as the Best Consumer Digital Bank by Global Finance",
+    "source": "menafn.com",
+    "snippet": "HSBC has been recognised as the  Best Consumer Digital Bank in Sri Lanka  for 2021 by Global Finance at the World's Best Consumer",
+    "url": "https://menafn.com/1102862303/HSBC-Sri-Lanka-recognised-as-the-Best-Consumer-Digital-Bank-by-Global-Finance",
+    "url_hash": "6e59a830167292d2f31a832b0f3fc935",
+    "ut": 1632573775,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "HSBC",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "the  Best Consumer Digital Bank",
+        "start_end": [
+          5,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Global Finance",
+        "start_end": [
+          18,
+          20
         ]
       }
     ]
