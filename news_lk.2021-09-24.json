@@ -3023,6 +3023,49 @@
   },
   {
     "date": "2021-09-24",
+    "title": "Sri Lanka begins vaccinating children for the coronavirus",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka today began vaccinating children for the first time, for the coronavirus.   The Ministry of Health said that ch",
+    "url": "https://menafn.com/1102859088/Sri-Lanka-begins-vaccinating-children-for-the-coronavirus",
+    "url_hash": "66d97011b8428765a0d0befd709e69c4",
+    "ut": 1632467318,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          16,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
     "title": "Sri Lanka to soon reopen schools with 200 students or fewer for grades 1 to 5",
     "source": "economynext.com",
     "snippet": "Sri Lankan students of grades 1 to 5 in schools with a student population of 200 or fewer may soon be able to go back to school, according to Education Ministry Secretary Kapila Perera. Sri Lanka has 5,",
@@ -5239,6 +5282,57 @@
     "url": "https://www.dailymirror.lk/top-story-sports-1/Mahela-appointed-as-Consultant-for-T20-World-Cup/324-221073",
     "url_hash": "8b32a4dc8dcadc1fcb4ca004fc07afc5",
     "ut": 1632492472,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahela Jayawardene",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "title": "Mahela appointed as 'Consultant' for T20 World Cup",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former national cricket captain Mahela Jayawardene was appointed as a 'Consultant' to the Sri Lanka team for the first round of the ICC Men's T20 World Cup next month. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Mahela-appointed-as-Consultant-for-T20-World-Cup/108-221073",
+    "url_hash": "67c0a9a1aeb191a355794b618b8e3d30",
+    "ut": 1632492489,
     "ent_info_list": [
       {
         "label": "PERSON",
