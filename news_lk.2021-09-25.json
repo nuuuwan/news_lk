@@ -721,6 +721,49 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Government to felicitate Yohani on achievement",
+    "source": "colombogazette.com",
+    "snippet": "The Government is to felicitate Sri Lanka's singing sensation Yohani on her achievement with the song Manike Mage Hithe.\u00a0 Sri Lankan authorities had been questioned on social media over the failure to",
+    "url": "https://colombogazette.com/2021/09/25/government-to-felicitate-yohani-on-achievement/",
+    "url_hash": "d94f187a5ed05acd40ef70751c938c8d",
+    "ut": 1632539342,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yohani",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Manike Mage Hithe",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "COVID curbs to be lifted on October 1 in measured steps",
     "source": "www.dailymirror.lk",
     "snippet": "The health authorities were instructed yesterday to work out guidelines to lift Covid curbs on October 1 onwards in measured steps, Daily Mirror learns. ..",
@@ -1030,6 +1073,73 @@
         "start_end": [
           4,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "A 167 year legacy; The Planters' Association to host its first virtual AGM",
+    "source": "colombogazette.com",
+    "snippet": "The Planters' Association of Ceylon (PA) will be hosting its 167th Annual General Meeting on the 30th 021. Notably, this will be the first time the AGM will be hosted on a virtual platform. Founded in 1854 - the objective of PA is to promote,",
+    "url": "https://colombogazette.com/2021/09/25/a-167-year-legacy-the-planters-association-to-host-its-first-virtual-agm/",
+    "url_hash": "96fed11c059e2b58e7d44db151d61e7d",
+    "ut": 1632542942,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Planters' Association of Ceylon (PA",
+        "start_end": [
+          0,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "167th Annual",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 30th 021",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AGM",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1854",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "PA",
+        "start_end": [
+          47,
+          48
         ]
       }
     ]
@@ -1810,6 +1920,49 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Chaos at BIA as arrivals still sent for mandatory quarantine",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chaos has broken out at the Bandaranaike International Airport (BIA) today as tourists are still being taken to hotels for quarantine procedures instead of the PCR facility established at the airport.",
+    "url": "https://www.dailymirror.lk/latest_news/Chaos-at-BIA-as-arrivals-still-sent-for-mandatory-quarantine/342-221132",
+    "url_hash": "7cbcd0d3f92f4902fac4aaf058259007",
+    "ut": 1632564513,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Chaos",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "PCR",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Health Minister optimistic on reopening country on Oct. 1",
     "source": "www.dailymirror.lk",
     "snippet": "The country will be reopened on October 1 under certain restrictions, Health Minister Keheliya Rambukwella said today. ..",
@@ -2167,6 +2320,65 @@
   },
   {
     "date": "2021-09-25",
+    "title": "A businessman remanded over Garlic Scam",
+    "source": "www.dailymirror.lk",
+    "snippet": "A businessman arrested for allegedly aiding and abetting to remove two containers with 54,000 kilograms of garlic belonging to Lanka Sathosa was yesterday ordered to be remanded till September 28 by Welisara Magistrate's Court.",
+    "url": "https://www.dailymirror.lk/latest_news/A-businessman-remanded-over-Garlic-Scam/342-221138",
+    "url_hash": "3a553b461c94086be3d0ca4b76e36431",
+    "ut": 1632571713,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "54,000 kilograms",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lanka Sathosa",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 28",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Welisara Magistrate's",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "HSBC Sri Lanka recognised as the Best Consumer Digital Bank by Global Finance",
     "source": "menafn.com",
     "snippet": "HSBC has been recognised as the  Best Consumer Digital Bank in Sri Lanka  for 2021 by Global Finance at the World's Best Consumer",
@@ -2212,6 +2424,76 @@
         "start_end": [
           18,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Main suspect in Rajagiriya drug raid incident surrenders to court",
+    "source": "www.adaderana.lk",
+    "snippet": "The main suspect in the incident during the drug raid at Obeysekarapura in Rajagiriya, where a police constable was left injured, has surrendered to court",
+    "url": "http://www.adaderana.lk/news/77187/main-suspect-in-rajagiriya-drug-raid-incident-surrenders-to-court",
+    "url_hash": "30da61f2461542b9a73a939a8c8e7976",
+    "ut": 1632575326,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Obeysekarapura in Rajagiriya",
+        "start_end": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "'Digital nomad' season 21-22. Which Asian country to choose?",
+    "source": "www.tripadvisor.co.uk",
+    "snippet": "Does anyone know if there are other possibilities to travel to Asian countries? I see that formally Cambodia and Bangladesh are opened as well but with obligatory quarantine. \"I see that formally Cambodia and Bangladesh are opened as well but with obligatory quarantine.",
+    "url": "https://www.tripadvisor.co.uk/ShowTopic-g1-i12357-k13682281-Digital_nomad_season_21_22_Which_Asian_country_to_choose-Solo_Travel.html",
+    "url_hash": "e0f3e2fdef798bee8cb3c836f25c7aab",
+    "ut": 1632575622,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cambodia",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cambodia",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]
