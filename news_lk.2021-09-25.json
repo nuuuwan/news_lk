@@ -926,6 +926,92 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Dead Sri Lankan's kin urge Japan immigration to accept responsibility",
+    "source": "www.dailymirror.lk",
+    "snippet": "One of the sisters of a Sri Lankan woman who died in March following mistreatment at a Japanese detention facility has called on the immigration agency to accept responsibility for her sibling's death as she left Japan.",
+    "url": "https://www.dailymirror.lk/breaking_news/Dead-Sri-Lankans-kin-urge-Japan-immigration-to-accept-responsibility/108-221129",
+    "url_hash": "8bf6c18240f9976e17f33756e175ef16",
+    "ut": 1632550083,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Japanese",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Govt. plans to make Sri Lanka carbon neutral country by 2050: President",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa said the government has made plans to transition away from fossil fuels, promote de- carbonization, and make Sri Lanka a carbon neutral country by 2050. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-plans-to-make-Sri-Lanka-carbon-neutral-country-by-2050-President/342-221130",
+    "url_hash": "758495cb9d88e0adc611abcf00db7401",
+    "ut": 1632553683,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2050",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Sri Lanka's vital EU trade privileges hang in the balance",
     "source": "www.freemalaysiatoday.com",
     "snippet": "COLOMBO: When a special five-member European Union delegation arrives in Colombo on Monday, its review of a vital trade concession could lead to substantial export losses for Sri Lanka, which has already suffered a steep drop in foreign reserves.",
@@ -1029,6 +1115,60 @@
         "text": "yesterday",
         "start_end": [
           32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Drunken cop arrested for unruly behaviour at Magistrate's residence",
+    "source": "www.dailymirror.lk",
+    "snippet": "A Policeman who was deployed to the security of the Balapitiya Magistrate's official residence was arrested by the Ambalangoda Police last night (24) for behaving in an unruly manner outside the residence under the influence of alcohol.",
+    "url": "https://www.dailymirror.lk/breaking_news/Drunken-cop-arrested-for-unruly-behaviour-at-Magistrates-residence/108-221131",
+    "url_hash": "ad6c81fcddea5e8521102106a74c3c95",
+    "ut": 1632557283,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Policeman",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ambalangoda Police",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last night",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "More attractions for tourists arriving after country re-opens",
+    "source": "www.newsfirst.lk",
+    "snippet": "Measures have been taken to conserve and develop several places of tourist interest with the intention of promoting tourism in the - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/25/more-attractions-for-tourists-arriving-after-country-re-opens/",
+    "url_hash": "e1caa9b48b308032952dee0ce640d5e1",
+    "ut": 1632558206,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
           33
         ]
       }
