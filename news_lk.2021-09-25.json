@@ -164,6 +164,81 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Asanga Seneviratne elected to CSE Board",
+    "source": "www.msn.com",
+    "snippet": "The Colombo Stock Exchange (CSE) announces the appointment of Asanga C. Seneviratne as a Director of the CSE Board with effect from 23rd September 2021.Seneviratne has previously served on the Board of the CSE as a Director during the period from 2013 to 2017.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/asanga-seneviratne-elected-to-cse-board/ar-AAONBqC",
+    "url_hash": "eed2dd8682435238e09eec8f401bc87b",
+    "ut": 1632528513,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Colombo Stock Exchange",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asanga C. Seneviratne",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the CSE Board",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "23rd",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Board of the",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2017",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Economic crisis deepens in Sri Lanka; Colombo seeks help from India and UAE to buy fuel",
     "source": "www.southasiamonitor.org",
     "snippet": "Sri Lanka is in talks with India for a $500 million credit line to buy fuel and delay payments, said a senior Sri Lankan official as its already struggling economy worsened by the weeks-long lockdown",
@@ -342,6 +417,33 @@
     "url": "https://www.dailymirror.lk/latest_news/CMC-steps-in-to-assist-vaccine-roll-out-for-children/342-221126",
     "url_hash": "c4b61326f2fa1aea8f56195fb35535ad",
     "ut": 1632532068,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Colombo Municipal Council",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CMC",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "CMC steps in to assist vaccine roll-out for children",
+    "source": "www.dailymirror.lk",
+    "snippet": "Colombo Municipal Council (CMC) is to assist the health authorities in administering the COVID-19 vaccines to children within the municipal limit and directing them to vaccination centres, Chief Medical Officer of CMC Dr.",
+    "url": "https://www.dailymirror.lk/breaking_news/CMC-steps-in-to-assist-vaccine-roll-out-for-children/108-221126",
+    "url_hash": "164820498109a27e1432970550cb0e1a",
+    "ut": 1632532090,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -3337,6 +3439,41 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "Eating on water: How floating meals caught the fancy of travellers",
+    "source": "www.financialexpress.com",
+    "snippet": "Celebrities like Sara Ali Khan, Parineeti Chopra and Taapsee Pannu have also posted vacation images of floating breakfasts during the pandemic, flaunting their sun-filled holidays.",
+    "url": "https://www.financialexpress.com/lifestyle/eating-on-water-floating-meals-have-caught-the-fancy-of-many-a-traveller/2337642/",
+    "url_hash": "3da5f554edf709a4361ac213d1cb554f",
+    "ut": 1632593299,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sara Ali Khan",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Parineeti Chopra",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taapsee Pannu",
+        "start_end": [
+          9,
+          11
         ]
       }
     ]
