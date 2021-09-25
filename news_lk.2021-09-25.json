@@ -721,6 +721,73 @@
   },
   {
     "date": "2021-09-25",
+    "title": "COVID vaccination centres run by Health Ministry today",
+    "source": "www.adaderana.lk",
+    "snippet": "The Ministry of Health-operated COVID-19 vaccination clinics are carried out island-wide today (). Accordingly, the Sinopharm jabs will be administered to people in Colombo (RDHS and CMC), Gampaha, Kalutara,",
+    "url": "http://www.adaderana.lk/news.php?nid=77201",
+    "url_hash": "095c47196f34c47265e5322328dace88",
+    "ut": 1632539298,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health-",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "COVID-19 vaccination clinics",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sinopharm",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CMC",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gampaha",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kalutara",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "The Latest: Las Vegas workers march to urge more rehiring",
     "source": "www.stltoday.com",
     "snippet": "Thousands of hotel, casino and restaurant workers marched Friday on the Las Vegas Strip to highlight their call for employers to rehire more people who were furloughed",
@@ -1619,6 +1686,49 @@
   },
   {
     "date": "2021-09-25",
+    "title": "Mahela Jayawardena appointed consultant for Sri Lanka cricket team",
+    "source": "menafn.com",
+    "snippet": "Former Sri Lanka Captain Mahela Jayawardena has been appointed as a consultant to the Sri Lanka cricket team during the first round of th",
+    "url": "https://menafn.com/1102863046/Mahela-Jayawardena-appointed-consultant-for-Sri-Lanka-cricket-team",
+    "url_hash": "64f796ff3a9c901afb9a12c2b0564a9e",
+    "ut": 1632553722,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahela Jayawardena",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
     "title": "Lanka Premier League Season 2 from 4-23 December",
     "source": "www.islandcricket.lk",
     "snippet": "Overseas Player Registration commenced yesterday Sri Lanka Cricket has announced the commencement of the Overseas Player Registration Process for the second edition of the Lanka Premier League (LPL) which started yesterday.",
@@ -2145,6 +2255,41 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "PCR testing facility at BIA malfunctions; restoration very soon: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The rapid PCR testing facility established at the Bandaranaike International Airport (BIA), which was to kick off today, has malfunctioned due to a technical failure in the system, Tourism Minister Prasanna Ranatunga said.",
+    "url": "https://www.dailymirror.lk/breaking_news/PCR-testing-facility-at-BIA-malfunctions-restoration-very-soon-Minister/108-221135",
+    "url_hash": "8d231fe7eaf6a5484bcf5776925c3984",
+    "ut": 1632568088,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike International Airport",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
@@ -2873,6 +3018,41 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-25",
+    "title": "No more coal power plant - President",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa said Sri Lanka's commitment not to construct any new coal power plant is reflected in its nationally determined contributions to the UN Framework Convention on Climate Change.",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/No-more-coal-power-plant-President/449-221141",
+    "url_hash": "e561074f32a21858e0a985df2cb9c8c6",
+    "ut": 1632589688,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the UN Framework Convention on Climate Change",
+        "start_end": [
+          24,
+          31
         ]
       }
     ]
