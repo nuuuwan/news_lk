@@ -696,6 +696,49 @@
   },
   {
     "date": "2021-09-26",
+    "title": "Diplomatic plums: applaud the naysayers",
+    "source": "island.lk",
+    "snippet": "Sanjeewa Jayaweera Several readers of the Sunday Island living in Sri Lanka and overseas reached out to me after reading my article \"Sri Lanka should close down most of our overseas missions as a step towards reducing public expenditure.",
+    "url": "https://island.lk/diplomatic-plums-applaud-the-naysayers/",
+    "url_hash": "0b2076fccaf70a423f964638a4771e75",
+    "ut": 1632625700,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sanjeewa Jayaweera Several",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Sri Lanka e-ROC becomes defective worrying companies",
     "source": "www.sundaytimes.lk",
     "snippet": "Sri Lanka's automated real-time company registration process launched with the aim of providing a more efficient and effective service by the Department of Registrar of Companies has now become a defective system with many technical faults,",
@@ -1766,6 +1809,92 @@
   },
   {
     "date": "2021-09-26",
+    "title": "Police launch probe into suspected ISIS Whatsapp group operating in SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "An investigation has been launched after the Western Province Intelligence Division had received an information in connection to a WhatsApp group suspected to be connected to Islamic State in Iraq and Syria (ISIS),",
+    "url": "https://www.dailymirror.lk/top_story/Police-launch-probe-into-suspected-ISIS-Whatsapp-group-operating-in-SL/155-221142",
+    "url_hash": "34c4110ae3c32b93a684c8d5009a20bb",
+    "ut": 1632632891,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Western Province Intelligence Division",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WhatsApp",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iraq",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "ISIS",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Chandima Weerakkody contracts COVID-19",
+    "source": "www.dailymirror.lk",
+    "snippet": "He was confirmed to have been infected with the virus after a RAT was conducted on him at the Karapitiya Teaching Hospital last evening.",
+    "url": "https://www.dailymirror.lk/breaking_news/Chandima-Weerakkody-contracts-COVID-19/108-221144",
+    "url_hash": "ac16ed663cd284ebf872a3d58030f99f",
+    "ut": 1632632891,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Karapitiya Teaching Hospital",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last evening",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Derana recognised as Sri Lanka's most respected media entity",
     "source": "www.adaderana.lk",
     "snippet": "The Derana Media Network has been recognised as the Most Respected entity in Sri Lanka in the media sector. LMD magazine has released it latest rankings of the country's Most Respected entities in 2021,",
@@ -1913,6 +2042,41 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Iran calls for boosting trade, financial transactions with Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Akbar Komeijani welcomed Sri Lanka's proposal for expansion of bilateral trade, reiterating that Tehran also expects Colombo to support Iran's interests at the international societies as an independent country.",
+    "url": "https://www.dailymirror.lk/breaking_news/Iran-calls-for-boosting-trade-financial-transactions-with-Sri-Lanka/108-221143",
+    "url_hash": "0d465c14a939c735d256e364b4c64edc",
+    "ut": 1632636491,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tehran",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iran",
+        "start_end": [
+          21,
+          22
         ]
       }
     ]
