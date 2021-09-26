@@ -4549,5 +4549,112 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Samsung launches 5G for S21 Series in Sri Lanka",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Samsung S21 Series Users Can Now Experience the Power of 5G on Dialog's 5G Trial Network For the First Time in South Asia, Dialog 5G Trial Network Made Available for Samsung S21 Series Samsung, Sri Lanka's No.",
+    "url": "http://bizenglish.adaderana.lk/samsung-launches-5g-for-s21-series-in-sri-lanka/",
+    "url_hash": "0248ba3b384c559f0edda889bc7b7748",
+    "ut": 1632684917,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dialog",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "G Trial Network",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "First",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Dialog 5",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "G Trial Network Made Available",
+        "start_end": [
+          29,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
   }
 ]
