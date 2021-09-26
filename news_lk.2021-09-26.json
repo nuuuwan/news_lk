@@ -2110,6 +2110,65 @@
   },
   {
     "date": "2021-09-26",
+    "title": "Blue Tigers coach Stimac names list of 23 for SAFF C'ship",
+    "source": "www.malaysiasun.com",
+    "snippet": "India men football coach Igor Stimac on Sunday named a list of 23 players for the forthcoming SAFF Championship which kicks off in the Maldives from October 1",
+    "url": "https://www.malaysiasun.com/news/271309081/blue-tigers-coach-stimac-names-list-of-23-for-saff-chip",
+    "url_hash": "28bb3d30e117674f3977b7be53fedcea",
+    "ut": 1632647279,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Igor Stimac",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Japan LDP election, China auto data law and Tokyo Game Show",
     "source": "asia.nikkei.com",
     "snippet": "China enters the Golden Week holiday on Friday, just as new regulations kick in requiring data from electric and autonomous vehicles to be stored within the country. Japan will know by midweek who will be its next prime minister,",
