@@ -2083,6 +2083,41 @@
   },
   {
     "date": "2021-09-26",
+    "title": "Delta variant spreading in Sri Lanka named as AY.28",
+    "source": "www.dailymirror.lk",
+    "snippet": "The new Delta branch spreading in Sri Lanka has been officially named as AY.28, an alias of the Sri Lanka lineage which is B.1.617.2.28. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Delta-variant-spreading-in-Sri-Lanka-named-as-AY-28/108-221146",
+    "url_hash": "e99759be509a76a8c3d3149b556e5b91",
+    "ut": 1632643721,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Sri Lanka: A stake through the ideological heart",
     "source": "www.srilankaguardian.org",
     "snippet": "The habit of allowing extremists to shape the national agenda and set the national course must end if Sri Lanka's future is to be better than her past. by Tisaranee Gunasekara T",
@@ -2257,6 +2292,183 @@
         "start_end": [
           37,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Health TUs to launch strike from 7.00 am to 12.00 noon tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Health Service Trade Union Collective said today they would launch a five-hour strike from 7.00 am to 12.00 noon tomorrow at all Government Hospitals in the country, since the Government had failed to resolve their issues.",
+    "url": "https://www.dailymirror.lk/latest_news/Health-TUs-to-launch-strike-from-7-00-am-to-12-00-noon-tomorrow/342-221147",
+    "url_hash": "8e1e04b738b47c8b6be35c6f2565f4b2",
+    "ut": 1632654521,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Service Trade Union Collective",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "five-hour",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "7.00 am to",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "12.00 noon",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "all Government Hospitals",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Chandima Weerakody says he tested positive for Covid",
+    "source": "colombogazette.com",
+    "snippet": "Parliamentarian Chandima Weerakkody\u00a0says he has tested positive for the coronavirus. Weerakkody said that an antigen test had found that he has contracted the virus. He said the test was carried out yesterday and the result showed that he was Covid positive.",
+    "url": "https://colombogazette.com/2021/09/26/chandima-weerakody-says-he-tested-positive-for-covid/",
+    "url_hash": "fa93a2da2cb876646e450c4daa8f2e8e",
+    "ut": 1632655755,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandima Weerakkody\u00a0",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Delta variant detected in Sri Lanka assigned unique lineage",
+    "source": "colombogazette.com",
+    "snippet": "A Delta variant of the coronavirus detected in Sri Lanka has been assigned a unique lineage, AY.28. Immunologist at the Sri Jayawardenepura University, Professor Neelika Malavige said that the Delta variant with 3 spike protein mutations (A701S,",
+    "url": "https://colombogazette.com/2021/09/26/delta-variant-detected-in-sri-lanka-assigned-unique-lineage/",
+    "url_hash": "9d2ce94898e8eb7fcfa995480187d393",
+    "ut": 1632656955,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Jayawardenepura University",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Neelika Malavige",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
