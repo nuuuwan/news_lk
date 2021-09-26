@@ -44,6 +44,33 @@
   },
   {
     "date": "2021-09-26",
+    "title": "Does Sri Lanka Really Have a Food Crisis?",
+    "source": "www.lankaweb.com",
+    "snippet": "For weeks headlines have hit news platforms around the world that Sri Lanka is experiencing food shortages. Reports of essentials such as food and medicine being in short supply have created a very grim picture of the island nation and its citizens.",
+    "url": "http://www.lankaweb.com/news/items/2021/09/25/does-sri-lanka-really-have-a-food-crisis/",
+    "url_hash": "be8e2f20621c8d3b23564a835fde87e0",
+    "ut": 1632615357,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "weeks",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Sri Lanka Easter Sunday Mass Murder: People seek Truth & Justice from AG's Dept & CID",
     "source": "www.lankaweb.com",
     "snippet": "An unforgettable crime took place on Easter Sunday 21 st April 2019. Close to 300 people will killed in a mass murder by 8 Islamic terrorist suicide bombers profaning to be members of ISIS. That they pledged support for ISIS prior to committing their heinous crime,",
@@ -105,6 +132,116 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Former Sports Minister's 'falsely raised case' dumped to bins?",
+    "source": "www.islandcricket.lk",
+    "snippet": "Former Sports Minister Mahindananda Aluthgamage has got off free despite his much publicised fixing allegation related to the 2011 World Cup final between Sri Lanka and India being proven a blatant lie.",
+    "url": "https://www.islandcricket.lk/news/former-sports-ministers-falsely-raised-case-dumped-to-bins/",
+    "url_hash": "2753ba68a67634eb70e4e31674a1800c",
+    "ut": 1632618957,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahindananda Aluthgamage",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2011",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Sri Lanka hires by India's HCL Technologies top 1,000 in first year",
+    "source": "economynext.com",
+    "snippet": "HCL Technologies, an information technology firm based in Noida, India said it had hired 1,000 IT staff in Sri Lanka in the first year of operations in the island.",
+    "url": "https://economynext.com/sri-lanka-hires-by-indias-hcl-technologies-top-1000-in-first-year-86480/",
+    "url_hash": "22e3e858f66daef6666e3a391c887ade",
+    "ut": 1632619814,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "HCL Technologies",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Noida",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,000",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first year",
+        "start_end": [
+          23,
+          26
         ]
       }
     ]
