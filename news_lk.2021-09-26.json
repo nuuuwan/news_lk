@@ -4552,6 +4552,244 @@
   },
   {
     "date": "2021-09-26",
+    "title": "A solution to the rice debacle",
+    "source": "www.ft.lk",
+    "snippet": "The Government through its short-sighted actions has made farmers, consumers and millers worse off. This article makes a strong case to seriously consider fresh solutions in a rational manner to make all the stakeholders better off.",
+    "url": "https://www.ft.lk/opinion/A-solution-to-the-rice-debacle/14-723496",
+    "url_hash": "e4c85dcfdcf7e3201035ef26ce03aced",
+    "ut": 1632679685,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Bandula Egodage appointed to Commercial Credit and Finance",
+    "source": "www.ft.lk",
+    "snippet": "Top professional Bandula Egodage has been appointed to the Board of Commercial Credit and Finance PLC as a Non-Executive, Non-Independent Director with effect from 1 October. Egodage has extensive wide-ranging experience in the private and government sector at the senior management level and board level in Sri Lanka.",
+    "url": "https://www.ft.lk/financial-services/Bandula-Egodage-appointed-to-Commercial-Credit-and-Finance/42-723503",
+    "url_hash": "f111aa70ba0df24be7b798228b92baec",
+    "ut": 1632679697,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Bandula Egodage",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Board of Commercial Credit and Finance PLC",
+        "start_end": [
+          8,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Non-Executive",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Non-Independent",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1 October",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          54,
+          56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "HSBC Sri Lanka recognised as Best Consumer Digital Bank by Global Finance",
+    "source": "www.ft.lk",
+    "snippet": "HSBC has been recognised as the Best Consumer Digital Bank in Sri Lanka for 2021 by Global Finance at the World's Best Consumer Digital Banks Awards in Asia-Pacific. While this is the bank's fourth award win for this year,",
+    "url": "https://www.ft.lk/financial-services/HSBC-Sri-Lanka-recognised-as-Best-Consumer-Digital-Bank-by-Global-Finance/42-723501",
+    "url_hash": "709b249602a69e43d01e0957e690d3ad",
+    "ut": 1632679697,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "HSBC",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "the Best Consumer Digital Bank",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Global Finance",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia-Pacific",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Cabraalnomics 2.0: Better to avoid ominous pitfalls",
+    "source": "www.ft.lk",
+    "snippet": "Enter Cabraalnomics 2.0 After the former Central Bank Governor and State Minister of Finance Ajith Nivard Cabraal took over the helm of the Central Bank two weeks ago, there was a definite change in the tone and the choice of words he used when talking about the Government\u0432\u0402\u2122s economic policy program.",
+    "url": "https://www.ft.lk/columns/Cabraalnomics-2-0--Better-to-avoid-ominous-pitfalls/4-723495",
+    "url_hash": "8bbb4212104a3e83fc7d273797943b1e",
+    "ut": 1632679701,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard Cabraal",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two weeks ago",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Mahela eligible for selection committee meetings",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former Sri Lankan captain Mahela Jayawardena, who was recently appointed as a consultant to the national cricket team for the T20 World Cup next month, is eligible to attend the selection committee meetings,",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Mahela-eligible-for-selection-committee-meetings/324-221150",
+    "url_hash": "758488627570e0505e3c833600299cab",
+    "ut": 1632683277,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahela Jayawardena",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Samsung launches 5G for S21 Series in Sri Lanka",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Samsung S21 Series Users Can Now Experience the Power of 5G on Dialog's 5G Trial Network For the First Time in South Asia, Dialog 5G Trial Network Made Available for Samsung S21 Series Samsung, Sri Lanka's No.",
@@ -4653,6 +4891,70 @@
         "start_end": [
           40,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "World Alzheimer's day - We are more than what we remember: An insight into Dementia",
+    "source": "www.dailymirror.lk",
+    "snippet": "Memories, one can say, are timeless. They give meaning to our existence and define who we are. Our memories link our past with..... ..",
+    "url": "https://www.dailymirror.lk/news-features/World-Alzheimers-day-We-are-more-than-what-we-remember-An-insight-into-Dementia/131-221151",
+    "url_hash": "52563f25ae689a307137e323dc525f62",
+    "ut": 1632686877,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-26",
+    "title": "The 76th session of the UNGA - EDITORIAL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Traditionally the 'general debate' of the United Nations General Assembly (UNGA) is the most high-profile UN event..... ..",
+    "url": "https://www.dailymirror.lk/opinion/The-76thsession-of-the-UNGA-EDITORIAL/172-221153",
+    "url_hash": "a3bedfbc61a5d073b567c8399e36886c",
+    "ut": 1632691317,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNGA",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Head of Insurance",
+    "source": "dailynews.lk",
+    "snippet": "It is time for insurance to catch up and re-emerge stronger and better. We... A total of 1,078 COVID-19 positive cases were reported in Sri",
+    "url": "https://dailynews.lk/line/head-insurance",
+    "url_hash": "943c31a173ff3e7631af0e94b75f0f23",
+    "ut": 1632692761,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "1,078",
+        "start_end": [
+          21,
+          22
         ]
       }
     ]
