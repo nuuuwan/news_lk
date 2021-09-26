@@ -1763,5 +1763,115 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Mahela to boot Sri Lanka team during the second stage of T20 World Cup",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka cricketers will have the expertise of franchise cricket's most successful coach Mahela Jayawardene during the qualifying round of the 2021 World Cup, as he has agreed to help in setting team strategies with Sri Lanka looking to avoid a qualifying round exit from the tournament.",
+    "url": "https://www.islandcricket.lk/news/mahela-to-boot-sri-lanka-team-during-the-second-stage-of-t20-world-cup/",
+    "url_hash": "7a2f21ef34507c6d5fb5cb384cd8f91c",
+    "ut": 1632633284,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahela Jayawardene",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the 2021 World Cup",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Mahela appointed consultant for Sri Lanka National and U19 teams",
+    "source": "www.adaderana.lk",
+    "snippet": "Former Sri Lanka Captain Mahela Jayawardena has been appointed as a 'consultant' to the National team during the First Round of the ICC Men's T20 World Cup, Sri Lanka Cricket (SLC) announced today",
+    "url": "http://www.adaderana.lk/news/77193/mahela-appointed-consultant-for-sri-lanka-national-and-u19-teams",
+    "url_hash": "572b60d9569a13b6e60cb1c35fc1430f",
+    "ut": 1632634484,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahela Jayawardena",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the First Round of the ICC Men's",
+        "start_end": [
+          19,
+          27
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
   }
 ]
