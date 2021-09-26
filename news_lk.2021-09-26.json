@@ -4302,6 +4302,25 @@
   },
   {
     "date": "2021-09-26",
+    "title": "Strong winds, rough seas and high waves advisory issued by met department",
+    "source": "www.hirunews.lk",
+    "snippet": "Strong winds, rough seas and high waves advisory issued by met department . Most visited website in Sri Lanka.",
+    "url": "https://www.hirunews.lk/goldfmnews/283303/strong-winds-rough-seas-and-high-waves-advisory-issued-by-met-department",
+    "url_hash": "1fc3e73ec7da8ce0761d57c84b7806a9",
+    "ut": 1632668883,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Strong winds, rough seas and high waves advisory issued",
     "source": "www.hirunews.lk",
     "snippet": "General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers. Wind speed can be increased up to (50-60) kmph at times over the island particularly in the western slope of central hills,",
@@ -4373,6 +4392,89 @@
     "url": "https://www.hindustantimes.com/cities/delhi-news/residents-of-bisrakh-who-revere-ravana-say-they-will-not-miss-ramlila-amid-covid-restrictions-101632678280682.html",
     "url_hash": "525fb5bca746b08ab7a65e985d8ad7d5",
     "ut": 1632678270,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Gautam",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Budh Nagar",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 30 km",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Connaught Place",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ramlila",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dussehra",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the day",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bisrakh",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ravana",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Residents of Bisrakh who revere Ravana, say they will not miss Ramlila amid Covid restrictions",
+    "source": "www.msn.com",
+    "snippet": "Bisrakh\u2014a village in Gautam Budh Nagar, about 30 km from Connaught Place, does not organise Ramlila or celebrate Dussehra, which is in fact the day of mourning for villagers. Local legend has it that Bisrakh is the birthplace of Ravana,",
+    "url": "https://www.msn.com/en-in/news/other/residents-of-bisrakh-who-revere-ravana-say-they-will-not-miss-ramlila-amid-covid-restrictions/ar-AAOQoui",
+    "url_hash": "7b1a9703506eb6bae623b3935688c5eb",
+    "ut": 1632679683,
     "ent_info_list": [
       {
         "label": "GPE",
