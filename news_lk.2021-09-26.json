@@ -2107,5 +2107,99 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Japan LDP election, China auto data law and Tokyo Game Show",
+    "source": "asia.nikkei.com",
+    "snippet": "China enters the Golden Week holiday on Friday, just as new regulations kick in requiring data from electric and autonomous vehicles to be stored within the country. Japan will know by midweek who will be its next prime minister,",
+    "url": "https://asia.nikkei.com/Spotlight/Your-Week-in-Asia/Japan-LDP-election-China-auto-data-law-and-Tokyo-Game-Show",
+    "url_hash": "ea63179d643436867b7b06ac06c4075a",
+    "ut": 1632647294,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Golden Week",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "WEATHER ALERT: Heavy Rains expected for the next 24 hours",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Meteorological Department has issued an amber alert for heavy rain and strong winds for today (26), until tomorrow (27). According - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/26/weather-alert-heavy-rains-expected-for-the-next-24-hours/",
+    "url_hash": "41468c829c65cc32e9d327ee947723b9",
+    "ut": 1632649634,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Meteorological Department",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
   }
 ]
