@@ -4775,6 +4775,25 @@
   },
   {
     "date": "2021-09-26",
+    "title": "A new type of hospitality: How data centres could help revive the Sri Lankan economy",
+    "source": "www.ft.lk",
+    "snippet": "Historically, Sri Lanka has been an attractive destination for traders and travellers alike, and over time, our nation has become synonymous with hospitality. Prior to COVID-19, tourism was among the most dynamic sectors in our economy,",
+    "url": "https://www.ft.lk/it-telecom-tech/A-new-type-of-hospitality--How-data-centres-could-help-revive-the-Sri-Lankan-economy/50-723508",
+    "url_hash": "af611dd656d913bdfd373949911dee08",
+    "ut": 1632679676,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Residents of Bisrakh who revere Ravana, say they will not miss Ramlila amid Covid restrictions",
     "source": "www.msn.com",
     "snippet": "Bisrakh\u2014a village in Gautam Budh Nagar, about 30 km from Connaught Place, does not organise Ramlila or celebrate Dussehra, which is in fact the day of mourning for villagers. Local legend has it that Bisrakh is the birthplace of Ravana,",
@@ -4875,6 +4894,57 @@
     "url_hash": "85542c2a5cb0ba5ed21b8738ddf07304",
     "ut": 1632679687,
     "ent_info_list": []
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Cabraalnomics 2.0: Better to avoid ominous pitfalls",
+    "source": "www.ft.lk",
+    "snippet": "Enter Cabraalnomics 2.0 After the former Central Bank Governor and State Minister of Finance Ajith Nivard Cabraal took over the helm of the Central Bank two weeks ago, there was a definite change in the tone and the choice of words he used when talking about the Government\u0432\u0402\u2122s economic policy program.",
+    "url": "https://www.ft.lk/opinion/Cabraalnomics-2-0-Better-to-avoid-ominous-pitfalls/14-723495",
+    "url_hash": "4d649107fb85c8621674dc80ae720188",
+    "ut": 1632679693,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard Cabraal",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two weeks ago",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
   },
   {
     "date": "2021-09-26",
@@ -5693,6 +5763,73 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "SLC rejects the appeal of Kusal, Dhanushka and Niroshan",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka Cricket has rejected the appeal submitted by Kusal Mendis, Danushka Gunathilaka and Niroshan Dickwella against their ban, without any hearing. Sri Lanka Cricket authorities have advised the players that the opportunity to participate in the Lanka Premier League Cricket tournament in December would be considered if they get on to the correct track on the advice of their psychiatrist.",
+    "url": "https://www.islandcricket.lk/news/slc-rejects-the-appeal-of-kusal-dhanushka-and-niroshan/",
+    "url_hash": "18f5c0833db7faefbb342d2510431808",
+    "ut": 1632690476,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kusal Mendis",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Danushka Gunathilaka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Niroshan Dickwella",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League Cricket",
+        "start_end": [
+          41,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December",
+        "start_end": [
+          46,
+          47
         ]
       }
     ]
