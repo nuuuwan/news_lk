@@ -5389,6 +5389,65 @@
     "title": "SLTDA kicks off World Tourism Day celebrations in Haputale",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka Tourism Development Authority (SLTDA) today kicked off World Tourism Day 2021 celebrations by putting the picturesque city Haputale under focus. ..",
+    "url": "https://www.dailymirror.lk/business/SLTDA-kicks-off-World-Tourism-Day-celebrations-in-Haputale/215-221223",
+    "url_hash": "5c980f38048491997ae5473951cadc7c",
+    "ut": 1632744460,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tourism Development Authority",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Tourism Day",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Haputale",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "SLTDA kicks off World Tourism Day celebrations in Haputale",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Tourism Development Authority (SLTDA) today kicked off World Tourism Day 2021 celebrations by putting the picturesque city Haputale under focus. ..",
     "url": "https://www.dailymirror.lk/business_247/SLTDA-kicks-off-World-Tourism-Day-celebrations-in-Haputale/395-221223",
     "url_hash": "30e78d30e3e18d741b2b79b9bdb677bf",
     "ut": 1632744487,
@@ -6419,6 +6478,65 @@
     "title": "Australia's richest woman warns Australia will end up impoverished like Sri Lanka",
     "source": "www.dailymirror.lk",
     "snippet": "Gina Rinehart, Australia's richest woman worth $31billion, has warned Australia is on the same track as Sri Lanka and Argentina in falling from prosperity to poverty due to a big-spending, regulation-heavy government.",
+    "url": "https://www.dailymirror.lk/top_story/Australias-richest-woman-warns-Australia-will-end-up-impoverished-like-Sri-Lanka/155-221232",
+    "url_hash": "1de460bd8ba21b9a53fff8d5e00f2b83",
+    "ut": 1632758860,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gina Rinehart",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "31billion",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Argentina",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "Australia's richest woman warns Australia will end up impoverished like Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Gina Rinehart, Australia's richest woman worth $31billion, has warned Australia is on the same track as Sri Lanka and Argentina in falling from prosperity to poverty due to a big-spending, regulation-heavy government.",
     "url": "https://www.dailymirror.lk/breaking_news/Australias-richest-woman-warns-Australia-will-end-up-impoverished-like-Sri-Lanka/108-221232",
     "url_hash": "8a846d109df3def1544f6f31ea3f383a",
     "ut": 1632758882,
@@ -6674,6 +6792,92 @@
   },
   {
     "date": "2021-09-27",
+    "title": "Patients left in the lurch as health workers strike work",
+    "source": "www.dailymirror.lk",
+    "snippet": "Forty four trade unions in the health sector struck work today morning crippling the services at some hospitals including the Colombo National Hospital. ..",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/Patients-left-in-the-lurch-as-health-workers-strike-work/449-221257",
+    "url_hash": "8650d8b01900620fff229d3b7fdd5d65",
+    "ut": 1632762460,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Forty",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "morning",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo National Hospital",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "Daily count of Covid-19 cases drops below 1,000",
+    "source": "www.adaderana.lk",
+    "snippet": "The Ministry of Health reports that another 268 persons have tested positive for coronavirus, increasing the daily count of new Covid-19 cases to 983",
+    "url": "http://www.adaderana.lk/news.php?nid=77264",
+    "url_hash": "efa06be1879cb379ac3b5138ccf60ecc",
+    "ut": 1632762470,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Health",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "268",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "983",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
     "title": "The Rhetoric Of Negation: Why Durga Will Bless Rama But 'Calcutta' Might Disown Him",
     "source": "swarajyamag.com",
     "snippet": "The NL argued before his audience in Jadavpur University that Durga is the most prominent deity of West Bengal. He suggested that his conclusion is credible because of what his infant granddaughter said on this matter.",
@@ -6711,6 +6915,127 @@
         "start_end": [
           17,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "Health experts urge youths to get vaccinated without delay and not be misled by baseless opinions",
+    "source": "www.adaderana.lk",
+    "snippet": "Professor of Community Health at the Medical Faculty of the University of Colombo, Manju Weerasinghe urged the youth not to be misled by the baseless opinions expressed by certain persons with commercial interests,",
+    "url": "http://www.adaderana.lk/news.php?nid=77267",
+    "url_hash": "e7ac80fab27db81fd512f482d4732002",
+    "ut": 1632767150,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Community Health",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Medical Faculty of the University of Colombo",
+        "start_end": [
+          5,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Manju Weerasinghe",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "Govt lifts rice control price & decides to import 100,000 MT",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Sri Lankan Government has decided to do away with the Gazette Notification on imposing a control price for rice. The decision was - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/27/govt-lifts-rice-control-price-decides-to-import-100000-mt/",
+    "url_hash": "0cbfffcb3b88e38f61db36579ca84e31",
+    "ut": 1632767172,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lankan Government",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Gazette Notification",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "Pioneering residential traditional medicine treatment centre for COVID19",
+    "source": "menafn.com",
+    "snippet": "By Frances Bulathsinghala/Sunday Observer Colombo, September 26: The Sinhala Weda Uruma Baraya, a collective of Sri Lankan professionals and",
+    "url": "https://menafn.com/1102872295/Pioneering-residential-traditional-medicine-treatment-centre-for-COVID19",
+    "url_hash": "53536b80d24d062c371fef67883c7f6c",
+    "ut": 1632768410,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Frances Bulathsinghala",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Sunday Observer Colombo",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 26",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "The Sinhala Weda Uruma Baraya",
+        "start_end": [
+          11,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
