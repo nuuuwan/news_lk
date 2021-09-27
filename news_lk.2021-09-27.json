@@ -5745,6 +5745,33 @@
   },
   {
     "date": "2021-09-27",
+    "title": "UNICEF announces life-saving support to Sri Lanka's response to COVID-19",
+    "source": "menafn.com",
+    "snippet": "UNICEF today announced that the UK is providing lifesaving medical equipment for high-risk pregnant mothers and infants identified with C",
+    "url": "https://menafn.com/1102870409/UNICEF-announces-life-saving-support-to-Sri-Lankas-response-to-COVID-19&source=27",
+    "url_hash": "78c8962a3b50769c65a60ac25bbbf6ed",
+    "ut": 1632748113,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
     "title": "Pakistan rubbishes claims Sri Lanka outraged over destruction of Buddhist sites",
     "source": "colombogazette.com",
     "snippet": "Pakistan has rubbished claims that Sri Lanka was outraged over the destruction of Buddhist sites in Pakistan. The Pakistan High Commission in Colombo said that the incident where some Buddhist sites in Pakistan were destroyed was an isolated incident which occurred in 2020.",
@@ -5814,6 +5841,76 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "Commercial objectives behind anti-vax campaigns: Medical Expert",
+    "source": "www.dailymirror.lk",
+    "snippet": "Commercial objectives were operating behind anti-vaccine movements active in Sri Lanka and websites that were promoting such anti-vax campaigns, a medical expert said today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Commercial-objectives-behind-anti-vax-campaigns-Medical-Expert/108-221226",
+    "url_hash": "11d9580ef85c55017c2a84fae4c4d785",
+    "ut": 1632751684,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "Pakistan rubbishes claims Sri Lanka outraged over destruction of Buddhist sites",
+    "source": "menafn.com",
+    "snippet": "Pakistan has rubbished claims that Sri Lanka was outraged over the destruction of Buddhist sites in Pakistan.   The Pakis",
+    "url": "https://menafn.com/1102871230/Pakistan-rubbishes-claims-Sri-Lanka-outraged-over-destruction-of-Buddhist-sites",
+    "url_hash": "5c4cba31f5d8494e216db08ceb1f4439",
+    "ut": 1632753873,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
