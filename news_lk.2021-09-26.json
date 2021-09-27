@@ -2411,6 +2411,49 @@
   },
   {
     "date": "2021-09-26",
+    "title": "A Stake Through the Ideological Heart",
+    "source": "groundviews.org",
+    "snippet": "Photo courtesy of AP \"There has been enough death.\"\u00a0Colm T\u00f3b\u00edn (House of Names) Hours after losing the presidency, Mahinda Rajapaksa climbed on to a windowsill in his ancestral home and informed a",
+    "url": "https://groundviews.org/2021/09/26/a-stake-through-the-ideological-heart/",
+    "url_hash": "edc771a63beec5370eec41819e478ac0",
+    "ut": 1632640112,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "AP",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "House of Names",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Hours",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rajapaksa",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
     "title": "Delta variant spreading in Sri Lanka named as AY.28",
     "source": "www.dailymirror.lk",
     "snippet": "The new Delta branch spreading in Sri Lanka has been officially named as AY.28, an alias of the Sri Lanka lineage which is B.1.617.2.28. ..",
@@ -5267,6 +5310,57 @@
         "start_end": [
           25,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-26",
+    "title": "Cabraalnomics 2.0: Better to avoid ominous pitfalls",
+    "source": "www.ft.lk",
+    "snippet": "After the former Central Bank Governor and State Minister of Finance Ajith Nivard Cabraal took over the helm of the Central Bank two weeks ago, there was a definite change in the tone and the choice of words he used when talking about the Government's economic policy program.",
+    "url": "https://www.ft.lk/columns/Cabraalnomics-2-0-Better-to-avoid-ominous-pitfalls/4-723495",
+    "url_hash": "de24eeb65b209ce209fa524253b4bf1d",
+    "ut": 1632679708,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard Cabraal",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two weeks ago",
+        "start_end": [
+          22,
+          25
         ]
       }
     ]
