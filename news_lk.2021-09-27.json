@@ -9023,6 +9023,73 @@
   },
   {
     "date": "2021-09-27",
+    "title": "Daily count of Covid-19 cases drops below 1,000",
+    "source": "www.lankaweb.com",
+    "snippet": "This marks the first time that the daily count of Covid-19 cases has dropped below 1,000 since the start of the third wave in the island. Meanwhile this also brings the total number of Covid-19 cases registered in Sri Lanka to 514,",
+    "url": "https://www.lankaweb.com/news/items/2021/09/27/daily-count-of-covid-19-cases-drops-below-1000/",
+    "url_hash": "40b785e1bc8eb207e60a58978a955090",
+    "ut": 1632784092,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,000",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the start of the",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "514",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
     "title": "G-Sec yields shift upwards across maturities after Central Bank lifted controls on bills",
     "source": "www.dailymirror.lk",
     "snippet": "The yield curve, which plots the yields for government securities (G-Secs) at their each maturity, moved upwards last week, specially at the shorter end of the curve, after the Central Bank removed a price ceiling in place for months on treasury bills,",

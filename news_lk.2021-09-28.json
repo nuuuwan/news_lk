@@ -2129,6 +2129,41 @@
   },
   {
     "date": "2021-09-28",
+    "title": "CBSL restores money changing licenses of entities failing to meet targets",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Central Bank (CBSL) today restored the licenses of several Money Changers who were unable to meet the targets due to issues stemming from the Covid-19 pandemic ..",
+    "url": "https://www.dailymirror.lk/business/CBSL-restores-money-changing-licenses-of-entities-failing-to-meet-targets/215-221291",
+    "url_hash": "5343b67e036b8bb38c110a10758d01c0",
+    "ut": 1632823683,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Money Changers",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "First-ever virtual Formula One Championship ends with rise of new champions and great future for eRacing",
     "source": "www.dailymirror.lk",
     "snippet": "His dominance was such one would be fooled into believing the championship was a one-sided affair. In fact there were races where Fawzul dominated the track unchallenged like in his performance at the Red Bull ring that only served to increase the aura of his dominance.",
@@ -3701,6 +3736,57 @@
   },
   {
     "date": "2021-09-28",
+    "title": "New guidelines for passengers arriving in SL from midnight today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Fully vaccinated local and overseas passengers who had negative PCR test results done within 72 hours before their departure, are not required to be subject to an on arrival PCR test at the airport in Sri Lanka from midnight today,",
+    "url": "https://www.dailymirror.lk/top_story/New-guidelines-for-passengers-arriving-in-SL-from-midnight-today/155-221309",
+    "url_hash": "f7cc0edae2db34062080e41c003c11b4",
+    "ut": 1632838083,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "72 hours",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "EGEB: GM backs the EPA's emissions reduction goals",
     "source": "electrek.co",
     "snippet": "GM endorses the EPA's stricter emissions rule, and 22 states say it's not enough; how the US can achieve a more resilient power system; more.",
@@ -3789,6 +3875,57 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "No PCR at airport for fully vaccinated passengers from tonight",
+    "source": "colombogazette.com",
+    "snippet": "Fully vaccinated passengers, both local and foreign, who arrive in Sri Lanka with a negative PCR report will not be required to carry out another PCR test at the airport from tonight. The Ministry of",
+    "url": "https://colombogazette.com/2021/09/28/no-pcr-at-airport-for-fully-vaccinated-passengers-from-tonight/",
+    "url_hash": "57c53ea540ebca82e5d19106263ce4c8",
+    "ut": 1632838114,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "tonight",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of",
+        "start_end": [
+          35,
+          38
         ]
       }
     ]
@@ -3919,6 +4056,57 @@
   },
   {
     "date": "2021-09-28",
+    "title": "Another Marine Drive coming up in Chilaw",
+    "source": "www.dailymirror.lk",
+    "snippet": "Another coastal highway, similar to Colombo Marine Drive, is under development between Nainamadama and Chilaw via Iranawila in the Puttalam district. ..",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/Another-Marine-Drive-coming-up-in-Chilaw/449-221311",
+    "url_hash": "c6596f2a3f29dd5eb7c9e8664251eb82",
+    "ut": 1632841683,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Colombo Marine Drive",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nainamadama",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chilaw",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Iranawila",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Puttalam",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "Sri Lanka stocks gain for fifth straight session amid foreign outflow",
     "source": "economynext.com",
     "snippet": "Sri Lanka stock index hit a fresh record high and rose for a fifth straight session on Tuesday (28), as ample broker credit and speculations over some select shares drove the index, brokers said. The index closed 0.",
@@ -4034,6 +4222,41 @@
         "start_end": [
           32,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Govt. suspends order placed to procure Oxygen from India",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government has decided to suspend the order placed to purchase 1,080 tonnes of liquid oxygen from India, required for the next three weeks. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-suspendsorder-placed-to-procure-Oxygen-from-India/108-221307",
+    "url_hash": "74da4aeb52397476b2769f8c1d9888d1",
+    "ut": 1632845283,
+    "ent_info_list": [
+      {
+        "label": "QUANTITY",
+        "text": "1,080 tonnes",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next three weeks",
+        "start_end": [
+          21,
+          25
         ]
       }
     ]
