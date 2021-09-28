@@ -6655,6 +6655,73 @@
   },
   {
     "date": "2021-09-27",
+    "title": "England's Moeen Ali retires from test cricket after 7 years",
+    "source": "apnews.com",
+    "snippet": "England allrounder Moeen Ali has retired from test cricket and said he hopes his career can inspire other English Muslims to play the sport. Ali made his test debut in 2014 against Sri Lanka and went on to represent England 64 times in the format.",
+    "url": "https://apnews.com/article/sports-europe-england-cricket-0ef5231989022147ee78fe2306d0c030",
+    "url_hash": "711372867243cd98171ace85614c1825",
+    "ut": 1632755310,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Moeen Ali",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "English Muslims",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ali",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2014",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "64",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
     "title": "Customs bust large-scale gold smuggle",
     "source": "www.dailymirror.lk",
     "snippet": "The officers attached to the Sri Lanka Customs Narcotics Control Division today thwarted an attempt to smuggle 16 kg of gold into the country, Customs Deputy Director (Legal) and media spokesman Sudatta Silva said.",
@@ -7867,6 +7934,41 @@
         "start_end": [
           41,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
+    "title": "Ceylon Graphite Succeeds in Producing High-Performance Coated Spherical Vein Graphite for ...",
+    "source": "apnews.com",
+    "snippet": "Ceylon Graphite Corp. (\"Ceylon Graphite\") (TSX-V: CYL) (OTC: CYLYF) (FSE: CCY) is pleased to announce that it has achieved a significant breakthrough in the performance of its vein graphite anode material (C 99.",
+    "url": "https://apnews.com/press-release/GlobeNewswire/business-technology-graphite-corp-7d1d587eb312ec9ab31e31adfb25cefc",
+    "url_hash": "eca247d8ec5bc8dbef331c4145690091",
+    "ut": 1632773310,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ceylon Graphite Corp.",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CCY",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "99",
+        "start_end": [
+          48,
+          49
         ]
       }
     ]
