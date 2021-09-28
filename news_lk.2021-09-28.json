@@ -436,5 +436,150 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Sri Lanka debt to GDP ratio rises to 104-pct by June 2021",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central government debt had climbed to 104 percent of gross domestic product by June 2021 from 101 percent in December 2020, based on the latest national income estimates and debt data.",
+    "url": "https://economynext.com/sri-lanka-debt-to-gdp-ratio-rises-to-104-pct-by-june-2021-86535/",
+    "url_hash": "4a90773bb3402d8a4a1a4ff16aad78c0",
+    "ut": 1632802090,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "104 percent",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June 2021",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "101 percent",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December 2020",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "UNICEF announces life-saving support in responding to COVID-19",
+    "source": "www.srilankaguardian.org",
+    "snippet": "The UK is providing lifesaving medical equipment for high-risk pregnant mothers and infants identified with COVID-19 to 11 public maternal hospitals across the island. This is in response to a request from the Ministry of Health Sri Lanka through UNICEF,",
+    "url": "http://www.srilankaguardian.org/2021/09/unicef-announces-life-saving-support-in.html",
+    "url_hash": "36bd900fe8b1092c80b803756101733b",
+    "ut": 1632802133,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health Sri Lanka",
+        "start_end": [
+          35,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UNICEF",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Lyca Group Chairman Allirajah Subaskaran new owner of Jaffna LPL franchise",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Jaffna Stallions have a new owner as Sri Lanka-born British entrepreneur, Allirajah Subaskaran, enters the second season of the premier T20 tournament of the Island Nation by acquiring the Jaffna-based franchise in the tournament.",
+    "url": "http://bizenglish.adaderana.lk/lyca-group-chairman-allirajah-subaskaran-new-owner-of-jaffna-lpl-franchise/",
+    "url_hash": "a19309243ddf5f2f8ac98fb2e35b4438",
+    "ut": 1632803873,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Allirajah Subaskaran",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second season",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jaffna",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
   }
 ]
