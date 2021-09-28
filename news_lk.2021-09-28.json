@@ -1780,6 +1780,41 @@
   },
   {
     "date": "2021-09-28",
+    "title": "Sri Lanka appeals to exporters to repatriate earnings quickly",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lanka on Tuesday appealed to exporters to speed up repatriation of earnings as a foreign exchange shortages bites and authorities scramble to source U.S. dollars to release food containers from ports and fund imports.",
+    "url": "https://www.reuters.com/article/sri-lanka-food/sri-lanka-appeals-to-exporters-to-repatriate-earnings-quickly-idUSL4N2QU2LE",
+    "url_hash": "f0c5555dc7cab1e48ef20e7f4a7f5762",
+    "ut": 1632823748,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "CBSL restores money changing licenses of entities failing to meet targets",
     "source": "www.dailymirror.lk",
     "snippet": "The Central Bank (CBSL) today restored the licenses of several Money Changers who were unable to meet the targets due to issues stemming from the Covid-19 pandemic ..",
@@ -1887,6 +1922,255 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Sri Lanka to import 100,000 tonnes of 'healthy' rice, as prices soar: Minister",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will import 100,000 tonnes of rice which would be healthy but not necessarily organic a minister said as domestic farmers were banned from using chemical fertilizer and insecticides and domestic rice prices soared amid import controls.",
+    "url": "https://economynext.com/sri-lanka-to-import-100000-tonnes-of-healthy-rice-as-prices-soar-minister-86543/",
+    "url_hash": "b797a1eb7b69dd3a48d92ab2ea011916",
+    "ut": 1632827367,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100,000 tonnes",
+        "start_end": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Allirajah Subaskaran new proprietor of Jaffna LPL franchise",
+    "source": "www.newsfirst.lk",
+    "snippet": "Jaffna Stallions, the winners of the inaugural version of the Lanka Premier League (LPL) have a brand new proprietor as Sri Lanka-born - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/28/allirajah-subaskaran-new-proprietor-of-jaffna-lpl-franchise/",
+    "url_hash": "c8a4ae2ad95693d450fd306cd2d1e634",
+    "ut": 1632828728,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jaffna Stallions",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LPL",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Aggressor Adventures Named Top Liveaboard Company in World with 69 Readers Choice Awards from Scuba Diving Magazine",
+    "source": "au.finance.yahoo.com",
+    "snippet": "Worldwide locations the company explores include Bahamas, Belize, Cayman Islands, Cocos Island, Costa Rica, Cuba, Dominican Republic, Egypt, Galapagos, Hawaii, Indonesia, Maldives, Mexico, Oman, Philippines, Palau, Red Sea, Roatan, Sri Lanka, Sudan ...",
+    "url": "https://au.finance.yahoo.com/news/aggressor-adventures-named-top-liveaboard-120300600.html",
+    "url_hash": "252563cae02aa4562d4c6025a0d4607d",
+    "ut": 1632830648,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Bahamas",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Belize",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cayman Islands",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cocos Island",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Costa Rica",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cuba",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dominican Republic,",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Egypt",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galapagos",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hawaii",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mexico",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Philippines",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Palau",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Red Sea",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Roatan",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          47,
+          49
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sudan",
+        "start_end": [
+          50,
+          51
         ]
       }
     ]
