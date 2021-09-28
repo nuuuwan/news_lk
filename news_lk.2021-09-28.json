@@ -3795,6 +3795,57 @@
   },
   {
     "date": "2021-09-28",
+    "title": "Hutcherson eyes starting position on Masak\u00e5da",
+    "source": "www.postguam.com",
+    "snippet": "Kiarra Hutcherson has her cap set on a starting position as the Guam Women's National Team gears up for its return to international soccer competition at the AFC Women's Asian",
+    "url": "https://www.postguam.com/sports/local/hutcherson-eyes-starting-position-on-masak-da/article_01b59f56-202c-11ec-94b8-bf854030027f.html",
+    "url_hash": "15b95f6c4b14abf2a3ca38b2e1a52392",
+    "ut": 1632838179,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kiarra Hutcherson",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Guam Women's",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Team",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the AFC Women's",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Asian",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "Sri Lanka turns to China in an hour of need",
     "source": "menafn.com",
     "snippet": "Sri Lankan President Gotabaya Rajapaksa's government is angling to turn twin economic and health crises into political opportunities, both at home a",
@@ -3919,6 +3970,41 @@
   },
   {
     "date": "2021-09-28",
+    "title": "Software engineer arrested for deleting NMRA data",
+    "source": "www.dailymirror.lk",
+    "snippet": "The CID has arrested a former assistant software engineer at Epic Lanka Technologies in connection with the deletion of the computer data of the National Medicines Regulatory Authority (NMRA), Police Spokesman SSP Nihal Thalduwa said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Software-engineer-arrested-for-deleting-NMRA-data/108-221312",
+    "url_hash": "b74b26c75dd7afe3ca53fb22e37c0362",
+    "ut": 1632841769,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CID",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Epic Lanka Technologies",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Medicines Regulatory Authority",
+        "start_end": [
+          23,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "Queueing up for milk",
     "source": "www.dailymirror.lk",
     "snippet": "A large crowd is seen buying milk powder at the Economic Centre Narahenpita where each customer was given only two packets of milk powder due to a limited stock. Pix by Kithsiri de Mel ..",
@@ -3948,6 +4034,84 @@
         "start_end": [
           32,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Sri Lanka's CMC seeks property registration to boost revenue",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Colombo Municipal Council (CMC), under whose purview exist the most expensive lands in the country, has urged residents to register over 67,000 assets in a bit to increase CMC revenue through taxes and registration fees,",
+    "url": "https://economynext.com/sri-lankas-cmc-seeks-property-registration-to-boost-revenue-86558/",
+    "url_hash": "b7d2560ad4b5d46fcca543190580a1d5",
+    "ut": 1632845396,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo Municipal Council",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "67,000",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CMC",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Sri Lanka removes on-arrival PCR requirement for all arrivals in bid to boost tourism",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will be open up for fully vaccinated tourists from September 29 as it removes the last COVID-19 travel restriction, the on-arrival PCR test, subject to a negative result within 72 hours of departure,",
+    "url": "https://economynext.com/sri-lanka-removes-on-arrival-pcr-requirement-for-all-arrivals-in-bid-to-boost-tourism-86559/",
+    "url_hash": "2220e3650cfac31a4307c96e20d0a2f4",
+    "ut": 1632846056,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 29",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "72 hours",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
