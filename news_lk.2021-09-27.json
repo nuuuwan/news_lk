@@ -5601,6 +5601,65 @@
   },
   {
     "date": "2021-09-27",
+    "title": "Sri Lankan shares see best one-day gain since March as financials surge",
+    "source": "finance.yahoo.com",
+    "snippet": "Sri Lanka central bank said https ... as per exchange data. * The island nation reported 1,078 new coronavirus cases in the last 24 hours, taking the total to 513,609, as of Sept.",
+    "url": "https://finance.yahoo.com/news/sri-lankan-shares-see-best-120023998.html",
+    "url_hash": "fb3f9fec0b2c4b966d1266e5a5667908",
+    "ut": 1632744473,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "https",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,078",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the last 24 hours",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "513,609",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sept.",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-27",
     "title": "SLTDA kicks off World Tourism Day celebrations in Haputale",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka Tourism Development Authority (SLTDA) today kicked off World Tourism Day 2021 celebrations by putting the picturesque city Haputale under focus. ..",
