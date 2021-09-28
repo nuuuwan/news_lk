@@ -1124,5 +1124,40 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Plan Your Next Foodie Vacation to Penang, Malaysia",
+    "source": "www.msn.com",
+    "snippet": "Penang is extra spicy. With its reputation as a food capital of the world, newfound obsession with architectural preservation, and extraordinary value for money, this port state\u2014an island in the Strait of Malacca but connected to the Malaysian mainland\u2014is fast becoming the next international hot spot.",
+    "url": "https://www.msn.com/en-us/travel/tripideas/plan-your-next-foodie-vacation-to-penang-malaysia/ar-AAOTX8Q",
+    "url_hash": "d282fa35d001d543d2f1e52dbcb429b2",
+    "ut": 1632814134,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Penang",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Strait of Malacca",
+        "start_end": [
+          35,
+          39
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Malaysian",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
   }
 ]
