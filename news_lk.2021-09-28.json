@@ -1617,6 +1617,33 @@
   {
     "date": "2021-09-28",
     "title": "Sri Lanka Is Ready for Its Close-Up",
+    "source": "ca.news.yahoo.com",
+    "snippet": "Just a few short years after the end of its brutal civil war, Sri Lanka\u2014with its rambling temple ruins, leafy tea plantations, and wide golden beaches\u2014is bursting with optimism (but not the crowds).",
+    "url": "https://ca.news.yahoo.com/sri-lanka-ready-close-071944665.html",
+    "url_hash": "500f43ae858630766724dc0fddac5d7a",
+    "ut": 1632812910,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "a few short years",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Sri Lanka Is Ready for Its Close-Up",
     "source": "www.yahoo.com",
     "snippet": "Just a few short years after the end of its brutal civil war, Sri Lanka\u2014with its rambling temple ruins, leafy tea plantations, and wide golden beaches\u2014is bursting with optimism (but not the crowds).",
     "url": "https://www.yahoo.com/lifestyle/sri-lanka-ready-close-071944665.html",
@@ -3070,6 +3097,92 @@
     "title": "Dr. Daminda to represent SLC at ICC bio-safety briefing",
     "source": "www.dailymirror.lk",
     "snippet": "Dr. Daminda Attanayake will represent Sri Lanka Cricket (SLC) at the upcoming ICC and BCCI organised bio-safety meeting on Thursday. ..",
+    "url": "https://www.dailymirror.lk/top-story-sports-2/Dr-Daminda-to-represent-SLC-at-ICC-bio-safety-briefing/326-221298",
+    "url_hash": "60bf14ebe59482dca6098338e335ca6d",
+    "ut": 1632830887,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Daminda Attanayake",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BCCI",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Harin hospitalized from heart complication",
+    "source": "www.dailymirror.lk",
+    "snippet": "Samagi Jana Balawegaya MP, Harin Fernando has been hospitalized after developing heart complications from a surgery conducted a few months ago, sources said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Harin-hospitalized-from-heart-complication/108-221301",
+    "url_hash": "86e51df69597e6cac1bdc5a2ec77691c",
+    "ut": 1632830887,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Samagi Jana Balawegaya MP",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harin Fernando",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a few months ago",
+        "start_end": [
+          18,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Dr. Daminda to represent SLC at ICC bio-safety briefing",
+    "source": "www.dailymirror.lk",
+    "snippet": "Dr. Daminda Attanayake will represent Sri Lanka Cricket (SLC) at the upcoming ICC and BCCI organised bio-safety meeting on Thursday. ..",
     "url": "https://www.dailymirror.lk/sports/Dr-Daminda-to-represent-SLC-at-ICC-bio-safety-briefing/322-221298",
     "url_hash": "744c5a51245f2f84d16515dfb3926584",
     "ut": 1632830897,
@@ -4107,6 +4220,51 @@
   },
   {
     "date": "2021-09-28",
+    "title": "Queueing up for milk",
+    "source": "www.dailymirror.lk",
+    "snippet": "A large crowd is seen buying milk powder at the Economic Centre Narahenpita where each customer was given only two packets of milk powder due to a limited stock. Pix by Kithsiri de Mel ..",
+    "url": "https://www.dailymirror.lk/caption_story/Queueing-up-for-milk/110-221313",
+    "url_hash": "a66e02baad4017973eccff637fdca3d8",
+    "ut": 1632841687,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "the Economic Centre Narahenpita",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "only two",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kithsiri de Mel",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "MyMed's MedExpert offers world-class expert guidance on cancer",
+    "source": "www.dailymirror.lk",
+    "snippet": "Cancer diagnosis and treatment is a stressful and difficult event in life. Cancer treatment is complex and it must be taken care of by trusted professionals with confidence. ..",
+    "url": "https://www.dailymirror.lk/other/MyMeds-MedExpert-offers-world-class-expert-guidance-on-cancer/117-221310",
+    "url_hash": "b114ac539dafe99f1a4ee8ba753e4966",
+    "ut": 1632841687,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-28",
     "title": "Sri Lanka stocks gain for fifth straight session amid foreign outflow",
     "source": "economynext.com",
     "snippet": "Sri Lanka stock index hit a fresh record high and rose for a fifth straight session on Tuesday (28), as ample broker credit and speculations over some select shares drove the index, brokers said. The index closed 0.",
@@ -4341,6 +4499,87 @@
   },
   {
     "date": "2021-09-28",
+    "title": "Wholesale rice trading gathers pace after scrapping price regulation",
+    "source": "www.dailymirror.lk",
+    "snippet": "Wholesale trading of rice took place today after the government scrapped the maximum retail prices on different varieties of the product. ..",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/Wholesale-rice-trading-gathers-pace-after-scrapping-price-regulation/449-221316",
+    "url_hash": "9e66f00d7880e61bf6161694f75febb2",
+    "ut": 1632848887,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "In view of World Rabies Day...",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Colombo Lotus Tower was lit up in view of World Rabies Day. This was in order to create awareness of the disease. Pix by Kithsiri de Mel ..",
+    "url": "https://www.dailymirror.lk/latest_news/In-view-of-World-Rabies-Day/342-221314",
+    "url_hash": "46e47c5a8bc6dcc411aac0f5c4193a48",
+    "ut": 1632852487,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Colombo Lotus Tower",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Rabies Day",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kithsiri de Mel",
+        "start_end": [
+          27,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "No PCR at airport for fully vaccinated passengers from tonight",
+    "source": "menafn.com",
+    "snippet": "Fully vaccinated passengers, both local and foreign, who arrive in Sri Lanka with a negative PCR report will not be required to carry out",
+    "url": "https://menafn.com/1102879863/No-PCR-at-airport-for-fully-vaccinated-passengers-from-tonight&source=27",
+    "url_hash": "00dbbafc3c99af33d4c5c5063d50d736",
+    "ut": 1632852519,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "Lyca Group chairman takes over Jaffna LPL franchise",
     "source": "www.sify.com",
     "snippet": "Sri Lanka-born British millionaire Allirajah Subaskaran has become the new owner of Jaffna Stallions, the defending champions of the Lanka Premier League (LPL) T20 cricket tournament for its second season starting December 4.",
@@ -4480,6 +4719,127 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Ownership of LPL champions changes hands",
+    "source": "www.dailymirror.lk",
+    "snippet": "The ownership of the Jaffna Stallions franchise, the winners of the inaugural Lanka Premier League (LPL) tournament, has changed hands, with Sri Lanka-born British entrepreneur Subaskaran Allirajah acquiring the team for the upcoming season.",
+    "url": "https://www.dailymirror.lk/latest_news/Ownership-of-LPL-champions-changes-hands/342-221319",
+    "url_hash": "99a06788e427d61ebdb70867ce312027",
+    "ut": 1632856087,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Lanka Premier League",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LPL",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Subaskaran Allirajah",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the upcoming season",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Fully vaccinated tourists free to explore SL without restrictions",
+    "source": "www.dailymirror.lk",
+    "snippet": "Fully vaccinated tourists with a negative PCR result at the time of departure will be allowed to enter the country without the need for an on-arrival test from today. ..",
+    "url": "https://www.dailymirror.lk/business_247/Fully-vaccinated-tourists-free-to-explore-SL-without-restrictions/395-221320",
+    "url_hash": "3459919eb46f0eab9cc68593b0ece15e",
+    "ut": 1632856087,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Picture book for kids on a \"City Rising from the Ocean\"",
+    "source": "menafn.com",
+    "snippet": "He has two daughters, Pekshi Advini and Methni Achinthi, who are equally excited about the project that their father is building in Colombo - a grand, ultra-modern business and entertainment center which is now rising from the ocean like a dream come true.",
+    "url": "https://menafn.com/1102880629/Picture-book-for-kids-on-a-City-Rising-from-the-Ocean",
+    "url_hash": "150084aae095e5230bdcc3854099a227",
+    "ut": 1632856365,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pekshi Advini",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Methni Achinthi",
+        "start_end": [
+          8,
+          10
         ]
       }
     ]
