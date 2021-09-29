@@ -355,6 +355,33 @@
   },
   {
     "date": "2021-09-29",
+    "title": "Sri Lanka likely to end nation-wide COVID-19 lockdown on October 1: Spokesman",
+    "source": "www.outlookindia.com",
+    "snippet": "Sri Lanka is planning to end the nation-wide lockdown on October 1 as the health authorities feel the current COVID-19 situation in the island nation has improved and is conducive to lift the curfew,",
+    "url": "https://www.outlookindia.com/newsscroll/sri-lanka-likely-to-end-nationwide-covid19-lockdown-on-october-1-spokesman/2168775",
+    "url_hash": "ce1a524d0758992b8763120bec1a5689",
+    "ut": 1632877688,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Hotels in the dark over new guidelines",
     "source": "www.dailymirror.lk",
     "snippet": "Some Safe and Secure Level 1 hotels were in the dark last night over updated travel guidelines issued by the Ministry of Health which came into effect from today. ..",
@@ -2900,6 +2927,65 @@
   },
   {
     "date": "2021-09-29",
+    "title": "Sri Lanka stops 'tainted' fertiliser import from China",
+    "source": "sg.finance.yahoo.com",
+    "snippet": "Sri Lanka halted a 96,000-tonne shipment of fertiliser from China on Wednesday citing quality issues, undermining the island's plans for the world's first fully organic farming sector.Agriculture minister Mahindananda Aluthgamage stopped the cargo of organic fertiliser as samples showed harmful bacteria,",
+    "url": "https://sg.finance.yahoo.com/news/sri-lanka-stops-tainted-fertiliser-131311544.html",
+    "url_hash": "e94269bf25ad07d853e364cb782fc1b1",
+    "ut": 1632895688,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "96,000-tonne",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahindananda Aluthgamage",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Updated quarantine measures for travellers arriving in SL issued",
     "source": "www.dailymirror.lk",
     "snippet": "The Health Ministry has issued the updated quarantine measures for travellers arriving in Sri Lanka during the prevalent COVID-19 pandemic. ..",
@@ -4292,6 +4378,84 @@
   },
   {
     "date": "2021-09-29",
+    "title": "Decisive time ahead in determining SL's Covid situation: Epidemiology Chief",
+    "source": "www.dailymirror.lk",
+    "snippet": "The time ahead is going to be decisive in determining the situation of Covid in the country and people have been urged to follow Covid appropriate behaviour, Chief Epidemiologist Dr. Samitha Ginige said today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Decisive-time-ahead-in-determining-SLs-Covid-situation-Epidemiology-Chief/108-221396",
+    "url_hash": "8dad2e8fa46c8c2fb2a835f941db002f",
+    "ut": 1632913679,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Samitha Ginige",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Nationwide quarantine curfew to be lifted on Oct. 1",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa has instructed to lift the ongoing quarantine curfew on October 1, Army Commander General Shavendra Silva said. ..",
+    "url": "https://www.dailymirror.lk/top_story/Nationwide-quarantine-curfew-to-be-lifted-on-Oct-1/155-221394",
+    "url_hash": "bbd48f1c70bea54bfb0c9d2fb92ad8ad",
+    "ut": 1632913679,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Nationwide quarantine curfew to be lifted on Oct. 1",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa has instructed to lift the ongoing quarantine curfew on October 1, Army Commander General Shavendra Silva said. ..",
@@ -4947,6 +5111,116 @@
         "start_end": [
           24,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "If You Have Indian Passport, You Can Travel to These Countries on Tourist Visa",
+    "source": "www.msn.com",
+    "snippet": "As many countries have now opened their borders for travellers from India, owing to the improving Covid-19 situation in the country, people have already started to make their travel plans. Also Read - Planning to Fly to Canada From India?",
+    "url": "https://www.msn.com/en-in/news/other/if-you-have-indian-passport-you-can-travel-to-these-countries-on-tourist-visa/ar-AAOXmeA",
+    "url_hash": "a3a6dfcf30685d45d5b2c34bf05fe428",
+    "ut": 1632920888,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Read - Planning",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Supreme TV acquires broadcast rights for Lanka Premier League",
+    "source": "www.financialexpress.com",
+    "snippet": "Sri Lanka's TV channel Supreme TV has acquired the exclusive broadcasting rights for the Lanka Premier League (LPL) in Sri Lanka. The channel has inked a multi-year agreement with IPG Group, the official franchise and broadcast holder of LPL.",
+    "url": "https://www.financialexpress.com/brandwagon/supreme-tv-acquires-broadcast-rights-for-lanka-premier-league/2340530/",
+    "url_hash": "95c2291d2d072596353c4ed2af43e7f4",
+    "ut": 1632922448,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Supreme TV",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LPL",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IPG Group",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LPL",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
