@@ -1,6 +1,41 @@
 [
   {
     "date": "2021-09-29",
+    "title": "Natalie Portman presented a new fruity-floral version of Miss Dior perfume",
+    "source": "thegoaspotlight.com",
+    "snippet": "The face of Miss Dior Eau de Parfum, as before, is the actress Natalie Portman. For several years now she has embodied this delicate and sensual perfume. The shooting of the new ad campaign took place in Australia.",
+    "url": "https://thegoaspotlight.com/2021/09/28/natalie-portman-presented-a-new-fruity-floral-version-of-miss-dior-perfume/",
+    "url_hash": "894c91dead091ed29bda3e3577bcfe22",
+    "ut": 1632874445,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Natalie Portman",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "several years",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Allirajah Subaskaran new owner of Jaffna LPL franchise",
     "source": "www.msn.com",
     "snippet": "The Winner of the inaugural edition of the Lanka Premier League (LPL) Jaffna Stallions have a new owner as Sri Lanka-born British entrepreneur, Allirajah Subaskaran, enters the second season of the premier T20 tournament of the Island Nation by acquiring the Jaffna-based franchise in the tournament.",
@@ -314,6 +349,49 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "JinkoSolar Awarded \"Top Brand PV USA 2021\" by EUPD Research",
+    "source": "apnews.com",
+    "snippet": "JinkoSolar Holding Co., Ltd. (the \"Company,\" or \"JinkoSolar\") (NYSE: JKS), one of the largest and most innovative solar module manufacturers in the world, today announced that it was awarded the 'Top Brand PV USA' seal by EUPD Research.",
+    "url": "https://apnews.com/press-release/pr-newswire/business-middle-east-3901024ab391439ea6afd7cf4c778a87",
+    "url_hash": "bfb2ee81692a32a46878acd7c53a5fe1",
+    "ut": 1632879854,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "JinkoSolar Holding Co., Ltd.",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NYSE",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EUPD Research",
+        "start_end": [
+          51,
+          53
         ]
       }
     ]
