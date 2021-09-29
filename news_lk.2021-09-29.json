@@ -433,6 +433,49 @@
   },
   {
     "date": "2021-09-29",
+    "title": "Police have failed to arrest real culprits",
+    "source": "www.dailymirror.lk",
+    "snippet": "Defence counsel appeared on behalf of two businessmen arrested for allegedly aiding and abetting to remove two containers with 54,000 kilograms of garlic belonging to Lanka Sathosa informed court that a false case had been filed against his clients aiming to protect the real culprits.",
+    "url": "https://www.dailymirror.lk/breaking_news/Police-have-failed-to-arrest-real-culprits/108-221329",
+    "url_hash": "17ded7aeef5183602ea976cc376bc371",
+    "ut": 1632877686,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "54,000 kilograms",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lanka Sathosa",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Sri Lanka likely to end nation-wide COVID-19 lockdown on October 1: Spokesman",
     "source": "www.outlookindia.com",
     "snippet": "Sri Lanka is planning to end the nation-wide lockdown on October 1 as the health authorities feel the current COVID-19 situation in the island nation has improved and is conducive to lift the curfew,",
@@ -1298,6 +1341,159 @@
         "start_end": [
           44,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "SL singer Yohani joins Bollywood music industry",
+    "source": "www.dailymirror.lk",
+    "snippet": "Yohani de Silva, who became popular in many countries around the world with her song 'Manike Mage Hithe', has entered with background vocals for a Bollywood movie for the first time. She is the lead singer of the official theme song of the .",
+    "url": "https://www.dailymirror.lk/front_page/SL-singer-Yohani-joins-Bollywood-music-industry/238-221356",
+    "url_hash": "8cd0eb3d0faf0bcf760a42e72898aed8",
+    "ut": 1632884886,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Yohani de Silva",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Manike Mage Hithe'",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bollywood",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Co-Cabinet Spokesman contradicts State Minister on child vaccination",
+    "source": "www.dailymirror.lk",
+    "snippet": "While Dr. Pathirana says that the WHO has recommended vaccinating children, Dr. Fernandopulle says that vaccine may pose greater threat on children above 12 ..",
+    "url": "https://www.dailymirror.lk/front_page/Co-Cabinet-Spokesman-contradicts-State-Minister-on-child-vaccination/238-221359",
+    "url_hash": "5717473202fc6c375e42c0d131792ca9",
+    "ut": 1632884886,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pathirana",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WHO",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Fernandopulle",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "More thundershowers likely today: Met Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "Issuing a weather forecast for today, the Meteorological Department said there could be thundershowers in Western, Sabaragamuwa, Central and North-Western provinces and in Galle and Matara districts.",
+    "url": "https://www.dailymirror.lk/breaking_news/More-thundershowers-likely-today-Met-Dept/108-221333",
+    "url_hash": "55fb398bdc50c60b40883da12db48905",
+    "ut": 1632884886,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Meteorological Department",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Western",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
@@ -6643,6 +6839,269 @@
         "start_end": [
           9,
           10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Quarantine curfew to be lifted tomorrow",
+    "source": "www.ft.lk",
+    "snippet": "Quarantine curfew, which has been enforced for over a month, will be lifted at 4 a.m. tomorrow. According to National Operations Centre for the Prevention of COVID-19 Outbreak (NOCPCO) Head Gen. Shavendra Silva,",
+    "url": "https://www.ft.lk/front-page/Quarantine-curfew-to-be-lifted-tomorrow/44-723643",
+    "url_hash": "d1dc21d3ab8e6006d72415c5c6930911",
+    "ut": 1632938911,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "over a month",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "4 a.m.",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Operations Centre",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shavendra Silva",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Boost for SL's intl. profile, MICE tourism as Colombo to host ADB's 2022 Annual Meeting in May",
+    "source": "www.ft.lk",
+    "snippet": "In a development that will boost Sri Lanka's international profile as well as MICE tourism, the Asian Development Bank (ADB) and the Government yesterday signed a Memorandum of Understanding (MoU) to hold the former's 2022 Annual Meeting in Colombo in May next year.",
+    "url": "https://www.ft.lk/front-page/Boost-for-SL-s-intl-profile-MICE-tourism-as-Colombo-to-host-ADB-s-2022-Annual-Meeting-in-May/44-723642",
+    "url_hash": "dfa13b6ef2903cf146687d662137fc12",
+    "ut": 1632938925,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Asian Development Bank",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "a Memorandum of Understanding (MoU",
+        "start_end": [
+          29,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Annual Meeting in Colombo",
+        "start_end": [
+          42,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May next year",
+        "start_end": [
+          47,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "GOVT'S FERTILIZER DEAL A HIGH-RISK ADVENTURE?",
+    "source": "www.dailymirror.lk",
+    "snippet": "The much controversial fertilizer tender, that was offered to China without analyzing samples to check its compliance with the standards published by the Sri Lanka Standard Institution, has been suspended due to the continuous failures in proving the samples are free of microorganism.",
+    "url": "https://www.dailymirror.lk/expose/GOVTS-FERTILIZER-DEAL-A-HIGH-RISK-ADVENTURE/333-221412",
+    "url_hash": "768d4c54d2d4518351e78bc89ff447eb",
+    "ut": 1632950166,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Standard Institution",
+        "start_end": [
+          23,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "New life in Montreal for family that helped Edward Snowden flee to Hong Kong",
+    "source": "www.cbc.ca",
+    "snippet": "Marc-Andre Seguin with For the Refugees said Supun Thilina Kellapatha, Nadeeka Dilrukshi Nonis and their children, Sethumdi and Dinath, are settling into their new apartment in the city after arriving Tuesday night from Toronto.",
+    "url": "https://www.cbc.ca/news/canada/montreal/canada-family-helped-edward-snowden-montreal-1.6194230",
+    "url_hash": "0324208f6ae6f4799913519756b0ed9d",
+    "ut": 1632950725,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Marc-Andre Seguin",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Thilina Kellapatha",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nadeeka Dilrukshi Nonis",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Toronto",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Lanka stops fertiliser import from China",
+    "source": "www.gulf-times.com",
+    "snippet": "Sri Lanka halted a 96,000-tonne shipment of fertiliser from China yesterday citing quality issues, undermining the island's plans for the world's first fully organic farming sector.",
+    "url": "https://www.gulf-times.com/story/701389/Lanka-stops-fertiliser-import-from-China",
+    "url_hash": "4289193203a1fa2c382cd7e51413e3df",
+    "ut": 1632952576,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "96,000-tonne",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
