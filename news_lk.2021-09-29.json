@@ -1836,6 +1836,73 @@
   },
   {
     "date": "2021-09-29",
+    "title": "More thundershowers likely today: Met Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "Issuing a weather forecast for today, the Meteorological Department said there could be thundershowers in Western, Sabaragamuwa, Central and North-Western provinces and in Galle and Matara districts.",
+    "url": "https://www.dailymirror.lk/latest_news/More-thundershowers-likely-today-Met-Dept/342-221333",
+    "url_hash": "efd33843bfeb932829b137e9f857fbf4",
+    "ut": 1632884917,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Meteorological Department",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Western",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sabaragamuwa",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Matara",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Global digital product engineering leader Nagarro celebrates six months in Sri Lanka, aims for substantial expansion",
     "source": "colombogazette.com",
     "snippet": "Nagarro SE, a global leader in digital\u00a0product\u00a0engineering and technology solutions, completed six months in Sri Lanka,\u00a0announcing\u00a0substantial\u00a0expansion plans of building a team of over 500 top-tier technology professionals.",
@@ -3636,6 +3703,103 @@
   },
   {
     "date": "2021-09-29",
+    "title": "A solar- powered three-wheeler invented by a German national resident in Galle",
+    "source": "www.dailymirror.lk",
+    "snippet": "A solar -powered three-wheeler has been made by an organization called 'Save Our Sri Lanka 'founded by German national Ulla Maschberger. ..",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/A-solar-powered-three-wheeler-invented-by-a-German-national-resident-in-Galle/449-221391",
+    "url_hash": "08dfe274625c49ff2396dfe28a363055",
+    "ut": 1632906517,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka '",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "German",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ulla Maschberger",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Illegal buildings, constructions in CP still an issue: Governor",
+    "source": "www.dailymirror.lk",
+    "snippet": "Despite the discussions about illegal buildings and construction in the Central Province (CP), illegal construction was still a major issue which needed to be halted, CP Governor Lalith U. Gamage said.",
+    "url": "https://www.dailymirror.lk/latest_news/Illegal-buildings-constructions-in-CP-still-an-issue-Governor/342-221387",
+    "url_hash": "c94b6a3a479e862fee028b5bfd2326fd",
+    "ut": 1632906517,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Central Province",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lalith U. Gamage",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Govt. stands with rice mafia; not with farmers or consumers: JVP",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Government is standing with the rice mafia rather than taking steps to protect the farmers and consumers by taking concrete steps to ensure a reasonable price for rice and paddy, the Janatha Vimukthi Peramuna (JVP) charged today.",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-stands-with-rice-mafia-not-with-farmers-or-consumers-JVP/342-221392",
+    "url_hash": "3733020e796b08ba1a33ad8a64557d19",
+    "ut": 1632906517,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "JVP",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Why did Navy men come into churches and warn of an impending attack?",
     "source": "www.dailymirror.lk",
     "snippet": "Catholic church in Colombo today said it is still confused by the fresh warnings of impending attacks on churches in the archdiocese despite the apology tendered by the Navy Commander who had claimed it was false.",
@@ -3792,6 +3956,49 @@
   },
   {
     "date": "2021-09-29",
+    "title": "Sri Lanka Treasuries auction yields rise, one year up 51bp",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Treasuries yields have risen across maturities with the one year bill rising 51 basis points to 7.01 percent, data from the state debt office shows.",
+    "url": "https://economynext.com/sri-lanka-treasuries-auction-yields-rise-one-year-up-51bp-86572/",
+    "url_hash": "be73428f79c5e6683a990039f59aaa34",
+    "ut": 1632910145,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one year",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "51",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "7.01 percent",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "IGP to probe CID for questioning journalists",
     "source": "colombogazette.com",
     "snippet": "C. D. Wickramaratne has been ordered to investigate the Criminal Investigations Department (CID) for questioning journalists despite being told not to. Public Security Minister Sarath Weerasekara had ordered the investigation.",
@@ -3923,6 +4130,68 @@
         "start_end": [
           41,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Three winter sun destinations just came back on the menu",
+    "source": "www.telegraph.co.uk",
+    "snippet": "This means that, despite emerging from the red list, package holidays to these destinations could not go ahead and independent travel came with significant risk or expense. Confusingly, however, when Turkey,",
+    "url": "https://www.telegraph.co.uk/travel/destinations/three-winter-sun-destinations-just-came-back-menu/",
+    "url_hash": "38d73088b92fbffb235b2348cde0ad6e",
+    "ut": 1632915527,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Turkey",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Quarantine curfew will be lifted on October 1",
+    "source": "dailynews.lk",
+    "snippet": "The island-wide quarantine curfew which is currently in effect will be lifted at 4.00 am on October 1 , stated the Health Minister Keheliya Rambukwella.",
+    "url": "https://dailynews.lk/2021/09/29/local/260594/quarantine-curfew-will-be-lifted-october-1",
+    "url_hash": "40a27b41770886e5684977096407cafa",
+    "ut": 1632916902,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "4.00 am",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
