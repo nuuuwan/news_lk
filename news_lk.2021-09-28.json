@@ -4951,6 +4951,25 @@
   },
   {
     "date": "2021-09-28",
+    "title": "A new type of hospitality: How data centres could help revive the Sri Lankan economy",
+    "source": "www.ft.lk",
+    "snippet": "Historically, Sri Lanka has been an attractive destination for traders and travellers alike, and over time, our nation has become synonymous with hospitality. Prior to COVID-19, tourism was among the most dynamic sectors in our economy,",
+    "url": "https://www.ft.lk/it-telecom-tech/A-new-type-of-hospitality--How-data-centres-could-help-revive-the-Sri-Lankan-economy/50-723600",
+    "url_hash": "002aec9b4c9f56a3d5954ead6f3ea963",
+    "ut": 1632852504,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "GSP+ withdrawal: How will it impact Sri Lanka's economy?",
     "source": "www.ft.lk",
     "snippet": "Sri Lanka's preferential access to the vital European Union (EU) market faces fresh challenges after the European Parliament's special resolution adopted in June 2021. The resolution calls for an assessment on \"whether there is sufficient reason,",
@@ -5694,6 +5713,65 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Ownership of LPL champions changes hands",
+    "source": "www.dailymirror.lk",
+    "snippet": "The ownership of the Jaffna Stallions franchise, the winners of the inaugural Lanka Premier League (LPL) tournament, has changed hands, with Sri Lanka-born British entrepreneur Subaskaran Allirajah acquiring the team for the upcoming season.",
+    "url": "https://www.dailymirror.lk/sports/Ownership-of-LPL-champions-changes-hands/322-221319",
+    "url_hash": "c58748c11a750d0442c810ea22a4f55c",
+    "ut": 1632856095,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Lanka Premier League",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LPL",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Subaskaran Allirajah",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the upcoming season",
+        "start_end": [
+          38,
+          41
         ]
       }
     ]
