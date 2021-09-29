@@ -4048,6 +4048,57 @@
     "title": "New guidelines for passengers arriving in SL from midnight today",
     "source": "www.dailymirror.lk",
     "snippet": "Fully vaccinated local and overseas passengers who had negative PCR test results done within 72 hours before their departure, are not required to be subject to an on arrival PCR test at the airport in Sri Lanka from midnight today,",
+    "url": "https://www.dailymirror.lk/breaking_news/New-guidelines-for-passengers-arriving-in-SL-from-midnight-today/108-221309",
+    "url_hash": "41b5391fc59d6f661d56fcb12de737e5",
+    "ut": 1632838091,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "PCR",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "72 hours",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "New guidelines for passengers arriving in SL from midnight today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Fully vaccinated local and overseas passengers who had negative PCR test results done within 72 hours before their departure, are not required to be subject to an on arrival PCR test at the airport in Sri Lanka from midnight today,",
     "url": "https://www.dailymirror.lk/latest_news/New-guidelines-for-passengers-arriving-in-SL-from-midnight-today/342-221309",
     "url_hash": "635b7b820c22184bd901cd257c13b67c",
     "ut": 1632838097,
@@ -4730,6 +4781,49 @@
   },
   {
     "date": "2021-09-28",
+    "title": "Sharpen's COO Pam Hynes Wins Gold Stevie for Female Executive of the Year",
+    "source": "apnews.com",
+    "snippet": "The Stevie\u00ae Awards for Women in Business, the world's top honors for women entrepreneurs, executives, employees, and the organizations they run, honored Sharpen's COO Pam Hynes with a Gold Stevie for Female Executive of the Year in the Business Products -11 to 2,",
+    "url": "https://apnews.com/press-release/BusinessWire/business-technology-middle-east-indiana-90cd85ada6224627a03b0d1355ae58d8",
+    "url_hash": "ef455c647c461b9741d240fe9b55470a",
+    "ut": 1632848908,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sharpen",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "COO Pam Hynes",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the Year",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
     "title": "In view of World Rabies Day...",
     "source": "www.dailymirror.lk",
     "snippet": "The Colombo Lotus Tower was lit up in view of World Rabies Day. This was in order to create awareness of the disease. Pix by Kithsiri de Mel ..",
@@ -4883,6 +4977,33 @@
         "start_end": [
           23,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-28",
+    "title": "Mangala Samaraweera, the utopian expedient",
+    "source": "www.ft.lk",
+    "snippet": "This is not a Sinhala-Buddhist country.\" This war cry, triumphantly proclaimed in the deepest south after the Easter bombings, were probably Mangala's most famous words. And rightly so, for they captured the essence of the man.",
+    "url": "https://www.ft.lk/opinion/Mangala-Samaraweera-the-utopian-expedient/14-723596",
+    "url_hash": "929002d856cc1aae7ac57f3cd3f93ddb",
+    "ut": 1632852499,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Easter",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mangala",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
