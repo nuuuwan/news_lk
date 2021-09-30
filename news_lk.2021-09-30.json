@@ -1383,6 +1383,16 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Colombo restaurants likely to request vaccine cards",
+    "source": "www.dailymirror.lk",
+    "snippet": "Furnishing the vaccination card would give confidence to customers patronizing a restaurant Colombo restaurants are likely to request customers to produce their vaccination cards when looking to dine-in,",
+    "url": "https://www.dailymirror.lk/front_page/Colombo-restaurants-likely-to-request-vaccine-cards/238-221452",
+    "url_hash": "15789cbfefcf526ac9a207f8331cf2c7",
+    "ut": 1632971382,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-30",
     "title": "Another stock of the Pfizer vaccine arrives in Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "Another stock of the Pfizer vaccine arrived in Sri Lanka today, the Ministry of Health said. The Government had announced yesterday that Sri Lanka is to begin administering the booster dose for the coronavirus using the Pfizer vaccine on a select group of people.",
@@ -2123,6 +2133,100 @@
         "start_end": [
           4,
           7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "CAL further cements its reputation as a preferred employer with 'Great Place to Work' certification",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's leading Investment Bank offering integrated capital market and investment solutions, Capital Alliance Holdings (CAL), has been certified as a 'Great Place to Work' in an independent and anonymous survey conducted by Great Place to Work\u00ae.",
+    "url": "https://www.dailymirror.lk/business/CAL-further-cements-its-reputation-as-a-preferred-employer-with-Great-Place-to-Work-certification/215-221471",
+    "url_hash": "ea7f4e3570dcf6cc28292cf31f9903bc",
+    "ut": 1632986169,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Investment Bank",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Capital Alliance Holdings",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Great Place",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Adani and Sri Lanka sign BOT deal on Colombo Port",
+    "source": "menafn.com",
+    "snippet": "India's Adani Group today signed a Build-Operate-Transfer (BOT) agreement with its local partner John Keells Holdings PLC and the Sri Lan",
+    "url": "https://menafn.com/1102890564/Adani-and-Sri-Lanka-sign-BOT-deal-on-Colombo-Port",
+    "url_hash": "9cd1980eaa345861c79871f3e29be9b1",
+    "ut": 1632988178,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Adani Group",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "John Keells Holdings PLC",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lan",
+        "start_end": [
+          25,
+          28
         ]
       }
     ]
