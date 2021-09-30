@@ -1,6 +1,49 @@
 [
   {
     "date": "2021-09-30",
+    "title": "Noticeable decline in infections and spread of COVID cases:Medical Expert",
+    "source": "www.dailymirror.lk",
+    "snippet": "A noticeable decline in the spread and infections of COVID-19 could be observed at present where the number of houses where there were at least four Covid patients under home-management by August 30 had now reduced from 60 percent to 45 percent,",
+    "url": "https://www.dailymirror.lk/breaking_news/Noticeable-decline-in-infections-and-spread-of-COVID-casesMedical-Expert/108-221434",
+    "url_hash": "adab5412d2e60c81c325170a01aac165",
+    "ut": 1632960464,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "at least four",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Covid",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "60 percent to 45 percent",
+        "start_end": [
+          39,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "More Tri Service Parachutists Pass out Adding More Skills & Teeth to Airborne Operations",
     "source": "news.lk",
     "snippet": "The Sri Lanka Army on Wednesday (29) morning added more teeth to airborne skills of tri servicemen among Special Operation Forces by graduating 74 more parchutists upon completion of their special training in Combat Airborne & Pathfinder Course No: 2 and Basic Airborne Course No: 86 A during a",
@@ -603,6 +646,51 @@
     "title": "Sri Lanka to re-open on tough restrictions to avoid another wave",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa yesterday instructed officials to lift the ongoing nationwide quarantine curfew on October 1, as health authorities noted a considerable decrease in the number of COVID-19 patients and deaths.",
+    "url": "https://www.dailymirror.lk/top_story/Sri-Lanka-to-re-open-on-tough-restrictions-to-avoid-another-wave/155-221433",
+    "url_hash": "1fcc99e336a6f599b5bb560f10c0f704",
+    "ut": 1632967664,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Colombo restaurants likely to request vaccine cards",
+    "source": "www.dailymirror.lk",
+    "snippet": "Colombo restaurants are likely to request customers to produce their vaccination cards when looking to dine-in, in future. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Colombo-restaurants-likely-to-request-vaccine-cards/108-221436",
+    "url_hash": "67e3d94468f5e13d36afee0bcebcc8d7",
+    "ut": 1632967664,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Sri Lanka to re-open on tough restrictions to avoid another wave",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa yesterday instructed officials to lift the ongoing nationwide quarantine curfew on October 1, as health authorities noted a considerable decrease in the number of COVID-19 patients and deaths.",
     "url": "https://www.dailymirror.lk/latest_news/Sri-Lanka-to-re-open-on-tough-restrictions-to-avoid-another-wave/342-221433",
     "url_hash": "f856bcefe65447da9a0fed371daf6320",
     "ut": 1632967693,
@@ -957,6 +1045,119 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Indian Foreign Secretary scheduled to visit Colombo soon",
+    "source": "www.dailymirror.lk",
+    "snippet": "Foreign Secretary Harsh Vardhan Shringla is scheduled to visit Colombo in early October, official sources in New Delhi told The Hindu, as India and Sri Lanka seek to engage at high levels amid a perceived strain in ties.",
+    "url": "https://www.dailymirror.lk/breaking_news/Indian-Foreign-Secretary-scheduled-to-visit-Colombo-soon/108-221440",
+    "url_hash": "a2b901edb2f98c1600af4fefb57a6ae0",
+    "ut": 1632971264,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Harsh Vardhan Shringla",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early October",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "No inter-provincial trains, buses for another two weeks from tomorrow: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "No inter-provincial trains and bus services for another two weeks, even after lifting the quarantine curfew on October 1, Transport State Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/No-inter-provincial-trains-buses-for-another-two-weeks-from-tomorrow-Dilum/108-221437",
+    "url_hash": "1c7db74d47a56b658aefd89c6a9ca906",
+    "ut": 1632971264,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "another two weeks",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "YouTube to remove all anti-vaccine misinformation",
+    "source": "www.dailymirror.lk",
+    "snippet": "YouTube has said it will remove content that spreads misinformation about all approved vaccines, expanding a ban on false claims about Covid-19 jabs. ..",
+    "url": "https://www.dailymirror.lk/latest_news/YouTube-to-remove-all-anti-vaccine-misinformation/342-221439",
+    "url_hash": "25b379363952cade0d3a4f4cd5dd1cb0",
+    "ut": 1632971264,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "YouTube",
+        "start_end": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Showery condition to enhance in most parts of the island",
     "source": "www.adaderana.lk",
     "snippet": "The Department of Meteorology says there is a possibility of a low-level atmospheric disturbance developing southeast area off Sri Lanka",
@@ -1171,6 +1372,135 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Validity period of driving licenses extended",
+    "source": "www.newsfirst.lk",
+    "snippet": "The validity period of all driving licenses, which were due to expire from 01 April 1 until 30 September, has been extended by one - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2021/09/30/validity-period-of-driving-licenses-extended/",
+    "url_hash": "487675584982eb1e7f060aea209c4922",
+    "ut": 1632974895,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "01 April 1",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30 September",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "ASUS Republic of Gamers powers Esports in Sri Lanka as the \"Official Gaming Laptop Partner\" of the Sri Lanka National Esports Team",
+    "source": "colombogazette.com",
+    "snippet": "ASUS Republic of Gamers (ROG), an ASUS sub-brand dedicated to creating the world's best gaming hardware and software, has been unveiled as the \"Official Gaming Laptop Partner\" of the National Esports team of Sri Lanka.",
+    "url": "https://colombogazette.com/2021/09/30/asus-republic-of-gamers-powers-esports-in-sri-lanka-as-the-official-gaming-laptop-partner-of-the-sri-lanka-national-esports-team/",
+    "url_hash": "d2a02f268d9afcfc22e5eba1896509cb",
+    "ut": 1632976635,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "ASUS Republic of Gamers",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ROG",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ASUS",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Another stock of the Pfizer vaccine arrives in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Another stock of the Pfizer vaccine arrived in Sri Lanka today, the Ministry of Health said.   The Government had announc",
+    "url": "https://menafn.com/1102889785/Another-stock-of-the-Pfizer-vaccine-arrives-in-Sri-Lanka",
+    "url_hash": "403d42a46afbe3baf2f6c0478d24b5f2",
+    "ut": 1632977775,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Health",
+        "start_end": [
+          12,
+          16
         ]
       }
     ]
