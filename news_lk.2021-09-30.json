@@ -3605,6 +3605,49 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Calling for Presidential Pardon...",
+    "source": "www.dailymirror.lk",
+    "snippet": "A group of inmates at the Welikada prison staged a protest today on top of the roof of a prison building,calling for Presidential Pardon. Pix by Pradeep Dilrukshana ..",
+    "url": "https://www.dailymirror.lk/caption_story/Calling-for-Presidential-Pardon/110-221480",
+    "url_hash": "90890f653b6d663ba51cf22214f3c621",
+    "ut": 1632996656,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Welikada",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Presidential Pardon",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Sri Lanka stops 'tainted' fertiliser import from China",
     "source": "www.wionews.com",
     "snippet": "Sri Lanka halted a 96,000-tonne shipment of fertiliser from China on Wednesday citing quality issues, undermining the island's plans for the world's first fully organic farming sector. Agriculture minister Mahindananda Aluthgamage stopped the cargo of organic fertiliser as samples showed harmful bacteria,",
@@ -3760,6 +3803,49 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "TN Speaker opposes proposed location of spent fuel storage in Kudankulam",
+    "source": "www.thehindu.com",
+    "snippet": "Mr. Appavu said the increasing presence of China in neighbouring Sri Lanka posed a danger to the Kudankulam Nuclear Power Project",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-speaker-opposes-proposed-location-of-spent-fuel-storage-in-kudankulam/article36752736.ece",
+    "url_hash": "1af11ebb6609c112ea085c020c2d7000",
+    "ut": 1633000265,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Appavu",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Kudankulam Nuclear Power Project",
+        "start_end": [
+          16,
+          21
         ]
       }
     ]
@@ -3948,6 +4034,180 @@
         "start_end": [
           24,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Tamil prisoners take Lanka's ex-prison minister to apex court over rights abuse",
+    "source": "www.theweek.in",
+    "snippet": "Eight Tamil prisoners in Sri Lanka have approached the country's Supreme Court claiming that their fundamental rights were violated by former prisons minister Lohan Ratwatte who allegedly threatened them on gunpoint,",
+    "url": "https://www.theweek.in/wire-updates/international/2021/09/30/fgn36-lanka-tamil-prisoners.html",
+    "url_hash": "0e77704dffadb948de4b086ea012e090",
+    "ut": 1633003985,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Eight",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "West Container Terminal ready to begin - JKH",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "John Keells Holdings says that the agreement regarding the Colombo Port West Container Terminal (WCT) was signed today (30) and the construction is scheduled to commence in early 2022. The company said in a disclosure to the Colombo Stock Exchange.",
+    "url": "http://bizenglish.adaderana.lk/west-container-terminal-ready-to-begin-jkh/",
+    "url_hash": "1adecbeb8b9e8367c7316e477ccb8fdf",
+    "ut": 1633004186,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "John Keells Holdings",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Colombo Port West Container Terminal",
+        "start_end": [
+          8,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early 2022",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          41,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Sri Lankan shares post best quarterly show in 11 years",
+    "source": "finance.yahoo.com",
+    "snippet": "Sri Lankan shares recorded their best quarter since September 2010, with the main index closing at a record high on Thursday, as massive liquidity due to the low interest-rate environment and strong retail participation boosted stocks.",
+    "url": "https://finance.yahoo.com/news/sri-lankan-shares-post-best-123751735.html",
+    "url_hash": "46dac9a7b06757243d9e6cc75e92d2a7",
+    "ut": 1633005425,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "their best quarter",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 2010",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Travel industry is slowly beginning to bounce back",
+    "source": "www.iomtoday.co.im",
+    "snippet": "Increasing numbers of island residents are getting ready to take to the skies for holidays now many travel restrictions have been lifted around the world.",
+    "url": "http://www.iomtoday.co.im/article.cfm?id=63835&headline=Travel%20industry%20is%20slowly%20beginning%20to%20bounce%20back&sectionIs=news&searchyear=2021",
+    "url_hash": "1336eb4b7cba793db4cdc79949044e08",
+    "ut": 1633006865,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Union Assurance Sisumaga+ Supports Online Learning for Children in Child Care Centres",
+    "source": "menafn.com",
+    "snippet": "Union Assurance Sisumaga+ lived by its ethos of providing uninterrupted education for every child by supporting an initiative to upgrade the facili",
+    "url": "https://menafn.com/1102894026/Union-Assurance-Sisumaga-Supports-Online-Learning-for-Children-in-Child-Care-Centres",
+    "url_hash": "a63aede7ba4bc744a8faf84e1d004605",
+    "ut": 1633007225,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Union Assurance Sisumaga+",
+        "start_end": [
+          0,
+          3
         ]
       }
     ]
