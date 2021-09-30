@@ -6732,6 +6732,57 @@
   },
   {
     "date": "2021-09-29",
+    "title": "OHCHR's ad-hoc mechanism not in line with UN charter, Sri Lanka tells Commonwealth",
+    "source": "www.adaderana.lk",
+    "snippet": "G.L. Peiris has reaffirmed Sri Lanka's active commitment to dialogue and engagement with the Commonwealth of Nations, at a virtual meeting with the organization's Secretary-General Patricia Scotland in New York.",
+    "url": "http://www.adaderana.lk/news/77046/sri-lanka-reaffirms-active-commitment-to-dialogue-engagement-with-commonwealth",
+    "url_hash": "c51d5c13d1cba9a4812cb0933e3b5f55",
+    "ut": 1632935616,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "G.L. Peiris",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Commonwealth of Nations",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Patricia Scotland",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Foreign Secretary scheduled to visit Colombo soon",
     "source": "www.thehindu.com",
     "snippet": "Foreign Secretary Harsh Vardhan Shringla is scheduled to visit Colombo in early October, official sources in New Delhi told The Hindu, as India and Sri Lanka seek to engage at high levels amid a perceived strain in ties.",
@@ -7325,6 +7376,100 @@
   },
   {
     "date": "2021-09-29",
+    "title": "Sri Lanka and the IMF: Myth and reality - Part 1",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka is now in the midst of its worst macroeconomic crisis since independence. Whether to seek financial support from the International Monetary Fund (IMF) in managing the crisis is a hotly-debated issue in Sri Lankan policy circles.",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-and-the-IMF-Myth-and-reality-Part-1/4-723662",
+    "url_hash": "9bcb919a143eab7670377d6bd42e7d88",
+    "ut": 1632939229,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Local News in Brief: Nalin Wickremasinghe elected new MCA Head",
+    "source": "nation.lk",
+    "snippet": "Compile by Ishani Upatharitha * Ranindu, Sasith record average scores at international chess Sri Lanka national chess champion Ranindu D. Liyanage scored five out of nine games at the Joytu Sheikh Hasina International Chess Tournament",
+    "url": "https://nation.lk/online/local-news-in-brief-nalin-wickremasinghe-elected-new-mca-head-126091.html",
+    "url_hash": "cbce46cc1f673d2c14c3eef4a4cb0d54",
+    "ut": 1632946416,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ishani Upatharitha * Ranindu",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ranindu D. Liyanage",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Joytu Sheikh Hasina International Chess Tournament",
+        "start_end": [
+          29,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "After knife attack, New Zealand criminalizes terror plotting",
     "source": "apnews.com",
     "snippet": "New Zealand politicians on Thursday passed a law that makes plotting a terrorist attack a crime, fixing a legal loophole that was exposed earlier this",
@@ -7346,6 +7491,270 @@
         "start_end": [
           4,
           5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "WHO sounds alarm at global vaccination targets being missed",
+    "source": "www.dailymirror.lk",
+    "snippet": "The World Health Organization's (WHO) goal of vaccinating at least 10 per cent of the population in every country in the world by the end of September is not going to be met, according to its latest figures.",
+    "url": "https://www.dailymirror.lk/international/WHOsounds-alarm-at-global-vaccination-targets-being-missed/107-221415",
+    "url_hash": "eeacf2c77550643dd03584eb0736487e",
+    "ut": 1632950007,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Health Organization's",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 10",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of September",
+        "start_end": [
+          26,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Swedish tech company pioneers equal parental leave in Sri Lanka with 4 months paid leave",
+    "source": "www.dailymirror.lk",
+    "snippet": "Understanding the importance of fathers playing a key role in the family after a newborn or newly adopted child, software development company Ascentic with offices in Sweden recently made history in Sri Lanka's corporate sector by introducing a four-month paternity leave to its employees.",
+    "url": "https://www.dailymirror.lk/other/Swedish-tech-company-pioneers-equal-parental-leave-in-Sri-Lanka-with-4-months-paid-leave/117-221420",
+    "url_hash": "5336ebd251718fb87917c4fbc0ba8561",
+    "ut": 1632950007,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sweden",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-month",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "GOVT'S FERTILIZER DEAL A HIGH-RISK ADVENTURE?",
+    "source": "www.dailymirror.lk",
+    "snippet": "The much controversial fertilizer tender, that was offered to China without analyzing samples to check its compliance with the standards published by the Sri Lanka Standard Institution, has been suspended due to the continuous failures in proving the samples are free of microorganism.",
+    "url": "https://www.dailymirror.lk/opinion/GOVTS-FERTILIZER-DEAL-A-HIGH-RISK-ADVENTURE/172-221412",
+    "url_hash": "3f2a2e616a0f625103b60016f61e0abd",
+    "ut": 1632950007,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Standard Institution",
+        "start_end": [
+          23,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Russia threatens YouTube ban after German RT outlet blocked",
+    "source": "www.dailymirror.lk",
+    "snippet": "Moscow threatened on Wednesday to block the YouTube video platform after the internet media firm removed the German-language channels of Russia's RT state media outlet. ..",
+    "url": "https://www.dailymirror.lk/international/Russia-threatens-YouTube-ban-after-German-RT-outlet-blocked/107-221414",
+    "url_hash": "bcb3da432082c4e17386e74c904b30d4",
+    "ut": 1632950007,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "YouTube",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "German",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Ruling party elects Kishida as leader in win for Japan establishment",
+    "source": "www.dailymirror.lk",
+    "snippet": "Japan's ruling Liberal Democratic Party (LDP) anointed former foreign minister Fumio Kishida as its new leader on Wednesday, a victory for the party elite that virtually ensures the soft-spoken consensus-builder will become prime minister within days.",
+    "url": "https://www.dailymirror.lk/international/Ruling-party-elects-Kishida-as-leader-in-win-for-Japan-establishment/107-221413",
+    "url_hash": "40e2df8ad8609d77716ddb0ce77e76c9",
+    "ut": 1632950007,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Liberal Democratic Party",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LDP",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Fumio Kishida",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "days",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Covid-19 and responses: notes for doctoral theses",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Political Economy of Covid-19 and Responses to it. That would be an excellent topic for doctoral dissertation. Of course, 'Combatting Covid-19' would also be an interesting and important study. ..",
+    "url": "https://www.dailymirror.lk/opinion/Covid-19-and-responses-notes-for-doctoral-theses/172-221410",
+    "url_hash": "708b8a697bc9342340ec7441d4590b0a",
+    "ut": 1632950007,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Political Economy of Covid-19",
+        "start_end": [
+          0,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "The wrongful release of 15 illegally captured elephants",
+    "source": "www.dailymirror.lk",
+    "snippet": "I am deeply saddened and disappointed by the recent release of 15 elephants that were in the care and custody of the state; back to persons who are alleged to have unlawfully captured them or purchased the said elephants from those who have unlawfully captured them.",
+    "url": "https://www.dailymirror.lk/news-features/The-wrongful-release-of-15-illegally-captured-elephants/131-221408",
+    "url_hash": "b192f24c87ad98b299f117a9e593e888",
+    "ut": 1632950007,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Let's brace ourselves to face the hard times ahead",
+    "source": "www.dailymirror.lk",
+    "snippet": "While on the one hand, Sri Lankans are battling the Covid-19 pandemic, on the other hand, they are compelled to grapple with the sky rocketing cost of living and the shortage of essential commodities such as milk powder,",
+    "url": "https://www.dailymirror.lk/opinion/Lets-brace-ourselves-to-face-the-hard-times-ahead/172-221411",
+    "url_hash": "662feaa741607435232a7e2a5e3c8d91",
+    "ut": 1632950038,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          6,
+          8
         ]
       }
     ]
@@ -7534,6 +7943,566 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Tourism stakeholders welcome easing of rules on vaccinated tourists",
+    "source": "www.dailymirror.lk",
+    "snippet": "The tourism sector stakeholders this week let out a sigh of relief as they welcomed the government's move to relax COVID-19-related health guidelines to support the hard-hit industry. ..",
+    "url": "https://www.dailymirror.lk/business-news/Tourism-stakeholders-welcome-easing-of-rules-on-vaccinated-tourists/273-221425",
+    "url_hash": "b16910639e1d9945e7cbe232a441fed2",
+    "ut": 1632953607,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Joint procurement of LPG via Siyolit to go ahead",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government plans to move ahead with the joint procurement of the required LP gas (LPG) supplies to the country through the newly-formed special purpose vehicle (SPV), Siyolit (Pvt.) Ltd. ..",
+    "url": "https://www.dailymirror.lk/business-news/Joint-procurement-of-LPG-via-Siyolit-to-go-ahead/273-221430",
+    "url_hash": "8e92e942a3a283aa2fd643c413343bb0",
+    "ut": 1632953607,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "LP",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LPG",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Siyolit",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Heritance Aarah celebrates local culture with curated Maldivian village experience",
+    "source": "www.dailymirror.lk",
+    "snippet": "All-inclusive luxury resort Heritance Aarah, in the Maldives recently launched a unique village experience to celebrate the illustrious culture and heritage of the island nation, right in the heart of the breathtaking Raa Atoll.",
+    "url": "https://www.dailymirror.lk/other/Heritance-Aarah-celebrates-local-culture-with-curated-Maldivian-village-experience/117-221421",
+    "url_hash": "1287acf73c6aa08ade12fb29564cdd46",
+    "ut": 1632953607,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Heritance Aarah",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Maldives",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Raa Atoll",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "SL nears enacting Cybersecurity Bill as country gets more digitally connected",
+    "source": "www.dailymirror.lk",
+    "snippet": "As more people, institutions and the government increasingly embrace and adopt digital connectivity in their day-to-day functions as never before, the authorities are bringing new laws to protect users from potential cybersecurity risks and crimes,",
+    "url": "https://www.dailymirror.lk/business-news/SL-nears-enacting-Cybersecurity-Bill-as-country-gets-more-digitally-connected/273-221431",
+    "url_hash": "188a334dd0c4a47b6e9d40f899cb3ed9",
+    "ut": 1632953607,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Sakurai Aviation Academy produces youngest female private pilot license holder",
+    "source": "www.dailymirror.lk",
+    "snippet": "Breaking all the stereotypes and barriers related to aviation training in Sri Lanka, Sakurai Aviation Academy has produced the Youngest Female Private Pilot License (PPL) Holder at the age of 17. ..",
+    "url": "https://www.dailymirror.lk/other/Sakurai-Aviation-Academy-produces-youngest-female-private-pilot-license-holder/117-221422",
+    "url_hash": "e3beff927d75714f11e21358a72b4c28",
+    "ut": 1632953607,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sakurai Aviation Academy",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Youngest Female Private Pilot License",
+        "start_end": [
+          19,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the age of 17",
+        "start_end": [
+          30,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Shares close at all-time high on consumer stocks boost",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankan shares closed at a record high yesterday, marking a positive finish for a sixth straight session, as consumer staple stocks boosted the benchmark index. ..",
+    "url": "https://www.dailymirror.lk/business-news/Shares-close-at-all-time-high-on-consumer-stocks-boost/273-221426",
+    "url_hash": "cdd9dd28a2726b6cd43da6f2feb6b039",
+    "ut": 1632953607,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "sixth",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Sri Lanka Tourism recognizes significant role played by foreign missions to promote tourism activities",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Tourism recognizing the significant role played by Sri Lankan Foreign Service representatives has collaborated with missions on initiatives in key source markets as well as in emerging markets to boost tourism exports and attract tourism investment.",
+    "url": "https://www.dailymirror.lk/other/Sri-Lanka-Tourism-recognizes-significant-role-played-by-foreign-missions-to-promote-tourism-activities/117-221423",
+    "url_hash": "de1ac258f21cce0b6646384eb74bba10",
+    "ut": 1632953616,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Foreign Service",
+        "start_end": [
+          9,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Rumesh Ratnayake, Ruwin Peiris , Dharshana Gamage and Sajeewa Weerakoon to coach Sri Lanka 'A' against Pakistan 'A'",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka Cricket (SLC ) will host the Pakistan 'A' team and they are due for a five match cricket tour comprising two four-day unofficial tests in Kandy and three unofficial one-day matches. The tour will take place in a Bio Bubble Environment and it will commence from October 28 to November 15.",
+    "url": "https://www.islandcricket.lk/news/rumesh-ratnayake-ruwin-peiris-dharshana-gamage-and-sajeewa-weerakoon-to-coach-sri-lanka-a-against-pakistan-a/",
+    "url_hash": "9c342a9f2f32f47495655a3c4c6c27e1",
+    "ut": 1632957216,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLC",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-day",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-day",
+        "start_end": [
+          36,
+          39
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "a Bio Bubble Environment",
+        "start_end": [
+          47,
+          51
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 28 to November 15",
+        "start_end": [
+          56,
+          61
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Struggling Sri Lanka's opponents in T20 WC qualifiers",
+    "source": "www.islandcricket.lk",
+    "snippet": "The Sri Lanka team for the T20 World Cup will leave for the first leg in Oman on Sunday (3 October) for two warm-up games against the Oman national team and two further ICC-organised warm-up matches in the UAE before David Wiese - Namibia Graham Ford - Ireland Ryan ten Doeschate - Netherlands taking on Namibia,",
+    "url": "https://www.islandcricket.lk/news/struggling-sri-lankas-opponents-in-t20-wc-qualifiers/",
+    "url_hash": "1c36e04928913d76e06a0c381bf680a1",
+    "ut": 1632957216,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "3 October",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Oman",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UAE",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "David Wiese - Namibia",
+        "start_end": [
+          48,
+          52
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Graham Ford - Ireland Ryan",
+        "start_end": [
+          52,
+          57
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          57,
+          58
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Namibia",
+        "start_end": [
+          63,
+          64
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Sajith requests EU delegation not to discontinue GSP+ concessions",
+    "source": "www.lankaweb.com",
+    "snippet": "Opposition Leader Sajith Premadasa has requested the visiting delegation of the European Union not to discontinue the Generalized Scheme of Preferences Plus (GSP+) concessions granted to Sri Lanka. This was mentioned during a meeting held between the Opposition Leader and the EU envoys yesterday.",
+    "url": "https://www.lankaweb.com/news/items/2021/09/29/sajith-requests-eu-delegation-not-to-discontinue-gsp-concessions/",
+    "url_hash": "40c42fe533381c7feef840d8b824ac81",
+    "ut": 1632957216,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sajith Premadasa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the European Union",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Generalized Scheme of Preferences Plus",
+        "start_end": [
+          16,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EU",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "More Tri Service Parachutists Pass out Adding More Skills & Teeth to Airborne Operations",
+    "source": "news.lk",
+    "snippet": "The Sri Lanka Army on Wednesday (29) morning added more teeth to airborne skills of tri servicemen among Special Operation Forces by graduating 74 more parchutists upon completion of their special training in Combat Airborne & Pathfinder Course No: 2 and Basic Airborne Course No: 86 A during a",
+    "url": "https://news.lk/news/political-current-affairs/item/33032-more-tri-service-parachutists-pass-out-adding-more-skills-teeth-to-airborne-operations",
+    "url_hash": "bfada886c04090acdaf0eaa61caff73c",
+    "ut": 1632959196,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Army",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "29) morning",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Special Operation Forces",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "74",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Combat Airborne & Pathfinder Course",
+        "start_end": [
+          35,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "86",
+        "start_end": [
+          49,
+          50
         ]
       }
     ]
