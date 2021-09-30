@@ -6509,6 +6509,33 @@
   },
   {
     "date": "2021-09-29",
+    "title": "Sri Lanka to begin administering booster dose",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka is to begin administering the booster dose for the coronavirus using the Pfizer vaccine on a select group of people.",
+    "url": "https://menafn.com/1102889616/Sri-Lanka-to-begin-administering-booster-dose",
+    "url_hash": "dcf82e97df33384e60278b08735634da",
+    "ut": 1632928125,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "How the organic agriculture ideology destroyed the Sri Lankan economy",
     "source": "www.msn.com",
     "snippet": "SRI Lanka, an island nation south of India, is experiencing a food and economic emergency. Just a decade ago, the country emerged victorious from the destructive and protracted war waged by the Tamil Tigers occupying the northeastern part of the country.",
@@ -7593,6 +7620,65 @@
         "start_end": [
           29,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
+    "title": "CHILD PROTECTION MEGA MONTH",
+    "source": "www.dailymirror.lk",
+    "snippet": "Three decades after signing the United Nations Convention of the Rights of the Child (UNCRC) in 1991, child protection is a national crisis in Sri Lanka. ..",
+    "url": "https://www.dailymirror.lk/news-features/CHILD-PROTECTION-MEGA-MONTH/131-221407",
+    "url_hash": "ec3002d2d0ae6185f0a76b26aec7dfde",
+    "ut": 1632949702,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Three decades",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations Convention of the Rights of the",
+        "start_end": [
+          4,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Child",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNCRC",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1991",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
         ]
       }
     ]
