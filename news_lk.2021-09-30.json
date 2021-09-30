@@ -1238,6 +1238,100 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Indian Foreign Secretary scheduled to visit Colombo soon",
+    "source": "www.dailymirror.lk",
+    "snippet": "Foreign Secretary Harsh Vardhan Shringla is scheduled to visit Colombo in early October, official sources in New Delhi told The Hindu, as India and Sri Lanka seek to engage at high levels amid a perceived strain in ties.",
+    "url": "https://www.dailymirror.lk/latest_news/Indian-Foreign-Secretary-scheduled-to-visit-Colombo-soon/342-221440",
+    "url_hash": "64ba14a176e96a76aaef9553125ce665",
+    "ut": 1632971283,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Harsh Vardhan Shringla",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early October",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "No inter-provincial trains, buses for another two weeks from tomorrow: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "No inter-provincial trains and bus services for another two weeks, even after lifting the quarantine curfew on October 1, Transport State Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/No-inter-provincial-trains-buses-for-another-two-weeks-from-tomorrow-Dilum/342-221437",
+    "url_hash": "65949aced9363a5516e0d78a9a3da571",
+    "ut": 1632971283,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "another two weeks",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 1",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Showery condition to enhance in most parts of the island",
     "source": "www.adaderana.lk",
     "snippet": "The Department of Meteorology says there is a possibility of a low-level atmospheric disturbance developing southeast area off Sri Lanka",
@@ -1629,6 +1723,68 @@
   },
   {
     "date": "2021-09-30",
+    "title": "A batch of 400,000 Pfizer vaccines flown in",
+    "source": "www.dailymirror.lk",
+    "snippet": "A consignment of 400,000 doses of Pfizer vaccine vials has been flown into the country by Emirates Airways air cargo, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/A-batch-of-400-000-Pfizer-vaccines-flown-in/108-221466",
+    "url_hash": "6e3ed471861baf8e8dc71f8e5d7216b5",
+    "ut": 1632974883,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "400,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Emirates Airways",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Altair suspects foul play behind fire",
+    "source": "menafn.com",
+    "snippet": "Ltd, the developers of Altair Colombo, Sri Lanka's tallest residential condominium, have filed a Police complaint suspecting foul play behind a recent fire. Sources at the company, who did not wish to be named,",
+    "url": "https://menafn.com/1102891049/Altair-suspects-foul-play-behind-fire&source=19",
+    "url_hash": "dca700185190a3d8433028e070355eef",
+    "ut": 1632974892,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Altair Colombo",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          8,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Validity period of driving licenses extended",
     "source": "www.newsfirst.lk",
     "snippet": "The validity period of all driving licenses, which were due to expire from 01 April 1 until 30 September, has been extended by one - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
@@ -1669,6 +1825,16 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Why did Navy men come into churches and warn of an impending attack?",
+    "source": "www.dailymirror.lk",
+    "snippet": "A probe should be carried out in this regard to find out who was behind the false warning and the reason for it. \"We wonder whether it was to keep the churches closed or not\" ..",
+    "url": "https://www.dailymirror.lk/front_page/Why-did-Navy-men-come-into-churches-and-warn-of-an-impending-attack/238-221453",
+    "url_hash": "31d5b77419598fbad56788cd0af5fd71",
+    "ut": 1632974917,
+    "ent_info_list": []
   },
   {
     "date": "2021-09-30",
@@ -2040,6 +2206,33 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Manusha arrives at CID",
+    "source": "www.dailymirror.lk",
+    "snippet": "Parliamentarian Manusha Nanayakkara has arrived at the CID to record a statement over an ongoing investigation, police said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Manusha-arrives-at-CID/342-221469",
+    "url_hash": "175ddbdcfd379ed75c154941b8d216e4",
+    "ut": 1632982083,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian Manusha Nanayakkara",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CID",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Sri Lanka bans China manufactured 'organaic' fertiliser after bacteria detection",
     "source": "english.newstracklive.com",
     "snippet": "Sri Lanka banned import of organic fertilisers made in China after state agriculture authorities detected harmful bacteria in them for the s..|News Track",
@@ -2061,6 +2254,33 @@
         "start_end": [
           9,
           10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "JVP leader smells scheme to whip up extremist sentiment in Sri Lanka",
+    "source": "economynext.com",
+    "snippet": "Opposition lawmaker Anura Kumara Dissanayake has expressed fears of a scheme to whip up communal disharmony in Sri Lanka using seasonal extremist elements to distract the public from multiple crises the country is facing.",
+    "url": "https://economynext.com/jvp-leader-smells-scheme-to-whip-up-extremist-sentiment-in-sri-lanka-86597/",
+    "url_hash": "218efa91c7030b5eae40ecb37fb29db9",
+    "ut": 1632982109,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Anura Kumara Dissanayake",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
@@ -2133,6 +2353,33 @@
         "start_end": [
           4,
           7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Altair suspects foul play behind fire",
+    "source": "www.dailymirror.lk",
+    "snippet": "Ltd, the developers of Altair Colombo, Sri Lanka's tallest residential condominium, have filed a Police complaint suspecting foul play behind a recent fire. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Altair-suspects-foul-play-behind-fire/108-221472",
+    "url_hash": "39cf64700f17188c94b8d2b8d7212a44",
+    "ut": 1632985683,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Altair Colombo",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          8,
+          11
         ]
       }
     ]
@@ -2227,6 +2474,250 @@
         "start_end": [
           25,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Probe into CID officers' unprofessional conduct begins",
+    "source": "www.dailymirror.lk",
+    "snippet": "The police said today that an investigation has begun under the orders of the IGP into certain CID officers who have acted irresponsibly which in a manner has tarnished the professional image of the CID in questioning media persons.",
+    "url": "https://www.dailymirror.lk/breaking_news/Probe-into-CID-officers-unprofessional-conduct-begins/108-221475",
+    "url_hash": "80185ce55ac718de9583521f9816cadb",
+    "ut": 1632989403,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IGP",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CID",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CID",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Indian Foreign Secretary scheduled to visit Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "(MENAFN- Colombo Gazette) Indian Foreign Secretary Harsh Vardhan Shringla is scheduled to visit Sri Lanka in early October, The Hindu newspaper reported today. According to The Hindu, India and ...",
+    "url": "https://menafn.com/1102891047/Indian-Foreign-Secretary-scheduled-to-visit-Sri-Lanka",
+    "url_hash": "fb005b1855988702b18267e02543498d",
+    "ut": 1632990873,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harsh Vardhan Shringla",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early October",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Sri Lankan Wrestling team leaves for Norway",
+    "source": "www.hirunews.lk",
+    "snippet": "The Sri Lankan wrestling team, which is participating in the World Wrestling Championships in Norway with the participation of 102 countries, left the island this morning. Sri Lanka's participation in the tournament was uncertain until the last minute due to the dollar crisis in the country and the issue of paying players.",
+    "url": "https://www.hirunews.lk/english/sports/283655/sri-lankan-wrestling-team-leaves-for-norway",
+    "url_hash": "83be7eba1560f76cd12f25daef0d0f1c",
+    "ut": 1632991092,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Wrestling Championships",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Norway",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "102",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the last minute",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "ZTE launches its smartphones in Sri Lanka with Singer",
+    "source": "readme.lk",
+    "snippet": "ZTE has officially entered the Sri Lankan market by joining hands with Singer Sri Lanka. The announcement was made at a virtual event held recently. Singer, being the national distributor for the ZTE brand announced that it will soon showcase a complete range of ZTE smartphones from entry-level to mid-range and flagship in Sri Lanka.",
+    "url": "https://readme.lk/zte/",
+    "url_hash": "6c395c8b825b7a6c8c1c88d5fddaefdb",
+    "ut": 1632991212,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "ZTE",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Singer Sri Lanka",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ZTE",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ZTE",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          60,
+          62
         ]
       }
     ]
