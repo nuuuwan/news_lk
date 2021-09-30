@@ -889,6 +889,57 @@
   },
   {
     "date": "2021-09-30",
+    "title": "UN SG documents allegations of reprisals in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Ant\u00f3nio Guterres has documented allegations of reprisals and intimidation against some 240 individual members of civil society, activists and journalists in 45 countries, including Sri Lanka for cooperating with the UN.",
+    "url": "https://www.dailymirror.lk/breaking_news/UN-SG-documents-allegations-of-reprisals-in-Sri-Lanka/108-221435",
+    "url_hash": "44dd191ce06806b6926782afe8c8e86a",
+    "ut": 1632967766,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ant\u00f3nio Guterres",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "some 240",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "45",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Sri Lanka to re-open on tough restrictions to avoid another wave",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa yesterday instructed officials to lift the ongoing nationwide quarantine curfew on October 1, as health authorities noted a considerable decrease in the number of COVID-19 patients and deaths.",
@@ -1512,6 +1563,41 @@
   },
   {
     "date": "2021-09-30",
+    "title": "State services to resume from tomorrow: Janaka Bandara",
+    "source": "www.dailymirror.lk",
+    "snippet": "While giving priority to essential services, the government has decided to resume state services from tomorrow, Public Services, Provincial Councils and Local Government Minister Janaka Bandara Thennakoon said.",
+    "url": "https://www.dailymirror.lk/breaking_news/State-services-to-resume-from-tomorrow-Janaka-Bandara/108-221438",
+    "url_hash": "9e354b5bb18958180fd128255d0e7faf",
+    "ut": 1632971366,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Public Services",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Provincial Councils and Local Government",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janaka Bandara Thennakoon",
+        "start_end": [
+          27,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Colombo restaurants likely to request vaccine cards",
     "source": "www.dailymirror.lk",
     "snippet": "Furnishing the vaccination card would give confidence to customers patronizing a restaurant Colombo restaurants are likely to request customers to produce their vaccination cards when looking to dine-in,",
@@ -2093,6 +2179,41 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Sri Lankan educators support UK parents' school strike",
+    "source": "www.wsws.org",
+    "snippet": "Our committee is making every effort to win the support of Sri Lankan teachers at every stage of your struggle and see it as a vital step in building the International Workers Alliance of Rank-and-File Committees (IWA-RFC).",
+    "url": "https://www.wsws.org/en/articles/2021/09/30/slld-s30.html",
+    "url_hash": "79e462d758c3ab01f2a939f946b4d90f",
+    "ut": 1632975001,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Workers Alliance",
+        "start_end": [
+          29,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IWA-RFC",
+        "start_end": [
+          41,
+          44
         ]
       }
     ]
@@ -2782,6 +2903,49 @@
     "url": "https://www.dailymirror.lk/latest_news/2-000-children-vaccinated-so-far-at-LRH-Paediatrician/342-221473",
     "url_hash": "1c4dd8d15340236e47033c059fdf366c",
     "ut": 1632985696,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Nearly 2,000",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "COVID",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Lady Ridgeway Hospital",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Deepal Perera",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "2,000 children vaccinated so far at LRH: Paediatrician",
+    "source": "www.dailymirror.lk",
+    "snippet": "Nearly 2,000 children have been given the COVID vaccine during the vaccination programme at the Lady Ridgeway Hospital (LRH) in Colombo, LRH Consultant Paediatrician Dr. Deepal Perera said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/2-000-children-vaccinated-so-far-at-LRH-Paediatrician/108-221473",
+    "url_hash": "3b980eb8fbae46534c0aa2cb57ceec5e",
+    "ut": 1632985766,
     "ent_info_list": [
       {
         "label": "CARDINAL",
@@ -3941,6 +4105,65 @@
   },
   {
     "date": "2021-09-30",
+    "title": "DMT open for public from tomorrow: Comm. General",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Department of Motor Traffic (DMT) is set to resume its services at the Narahenpita and Werahera offices from tomorrow under the strictest control and following health care practices, DMT Commissioner General Sumith C.",
+    "url": "https://www.dailymirror.lk/breaking_news/DMT-open-for-public-from-tomorrow-Comm-General/108-221482",
+    "url_hash": "e04f3c6bdbbd543e8a8e16f98f3b871c",
+    "ut": 1632996566,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Department of Motor Traffic",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Narahenpita",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Werahera",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "DMT",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sumith C.",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Calling for Presidential Pardon...",
     "source": "www.dailymirror.lk",
     "snippet": "A group of inmates at the Welikada prison staged a protest today on top of the roof of a prison building,calling for Presidential Pardon. Pix by Pradeep Dilrukshana ..",
@@ -4583,6 +4806,124 @@
   },
   {
     "date": "2021-09-30",
+    "title": "German Military Attach\u00e9s on a working visit to Colombo",
+    "source": "www.dailymirror.lk",
+    "snippet": "The two German military officers responsible for Sri Lanka, Capt Gerald Koch and LtCol Jan Cihar, will be in the country from October 3rd - 8th, 2021, a statement from the German embassy said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/German-Military-Attach%C3%A9s-on-a-working-visit-to-Colombo/342-221492",
+    "url_hash": "c904d5e6099bce063074accdc42d87dc",
+    "ut": 1633003766,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "German",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Capt Gerald Koch",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "LtCol Jan Cihar",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 3rd - 8th, 2021",
+        "start_end": [
+          24,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "German",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Health guidelines to be followed from tomorrow issued",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Health Ministry today issued a new set of guidelines under two phases to be followed in the month of October once the curfew is lifted from tomorrow (01). ..",
+    "url": "https://www.dailymirror.lk/latest_news/Health-guidelines-to-be-followed-from-tomorrow-issued/342-221489",
+    "url_hash": "7f6851879ba8214ab01e8cfaa41743ca",
+    "ut": 1633003766,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the month of October",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Tamil prisoners take Lanka's ex-prison minister to apex court over rights abuse",
     "source": "www.theweek.in",
     "snippet": "Eight Tamil prisoners in Sri Lanka have approached the country's Supreme Court claiming that their fundamental rights were violated by former prisons minister Lohan Ratwatte who allegedly threatened them on gunpoint,",
@@ -4988,6 +5329,57 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Gavaskar bats for Rohit Sharma for India captaincy",
+    "source": "www.dailymirror.lk",
+    "snippet": "All's not well in the Indian cricket team it would seem, with reports coming from the UAE, where the IPL is taking place, that not only R. Ashwin but two more senior players are reported to have reservations over Virat Kohli's captaincy.",
+    "url": "https://www.dailymirror.lk/mirror_sports_cricket/Gavaskar-bats-for-Rohit-Sharma-for-India-captaincy/458-221496",
+    "url_hash": "af48b1a96fb6f5f1ae1803e5cb664384",
+    "ut": 1633007366,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UAE",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "R. Ashwin",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Virat Kohli's",
+        "start_end": [
+          43,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "59 more COVID-19 deaths reported",
     "source": "www.dailymirror.lk",
     "snippet": "A total of 59 more COVID-19 related deaths that occurred yesterday (29) were confirmed by the Director-General of Health Services today pushing the death toll to 12,906. ..",
@@ -5353,6 +5745,57 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Bangladesh look to make winning start",
+    "source": "www.daily-sun.com",
+    "snippet": "Bangladesh will be looking to make a winning start in the 13th SAFF Championship when they lock horns against Sri Lanka in the tournament opener today at National Stadium in Maldivian capital Male. The match is scheduled to start at 05:00pm Bangladesh Standard Time and will be telecast live on T Sports.",
+    "url": "https://www.daily-sun.com/post/579657/Bangladesh-look-to-make-winning-start",
+    "url_hash": "b6c24f22670bf5bf7d8be17cc611631a",
+    "ut": 1633018175,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "National Stadium",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Maldivian",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "T Sports",
+        "start_end": [
+          51,
+          53
         ]
       }
     ]
