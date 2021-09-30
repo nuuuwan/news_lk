@@ -1986,6 +1986,65 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Indian Foreign Secretary scheduled to visit Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Indian Foreign Secretary Harsh Vardhan Shringla is scheduled to visit Sri Lanka in early October, The Hindu newspaper reported today. </s",
+    "url": "https://menafn.com/1102893393/Indian-Foreign-Secretary-scheduled-to-visit-Sri-Lanka&source=19",
+    "url_hash": "77c15fd2670e54a0b6c009421e680b35",
+    "ut": 1632974973,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harsh Vardhan Shringla",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early October",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "ASUS Republic of Gamers powers Esports in Sri Lanka as the \"Official Gaming Laptop Partner\" of the Sri Lanka National Esports Team",
     "source": "colombogazette.com",
     "snippet": "ASUS Republic of Gamers (ROG), an ASUS sub-brand dedicated to creating the world's best gaming hardware and software, has been unveiled as the \"Official Gaming Laptop Partner\" of the National Esports team of Sri Lanka.",
@@ -3205,6 +3264,49 @@
   },
   {
     "date": "2021-09-30",
+    "title": "SLASSCOM embarks on yet another value driven venture, with the launch of the SLASSCOM Academy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Association for Software Services Companies (SLASSCOM) has long been a proponent of the continual development of Sri Lanka's IT/BPM industry. With a view to realize their vision of establishing 1,",
+    "url": "https://www.dailymirror.lk/business/SLASSCOM-embarks-on-yet-another-value-driven-venture-with-the-launch-of-the-SLASSCOM-Academy/215-221481",
+    "url_hash": "fe312b25f976f52a076ca5ba39c2021c",
+    "ut": 1632992943,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Association for Software Services Companies",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BPM",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "JinkoSolar Provides Updates on Jinko Solar Co., Ltd.'s Proposed IPO in China",
     "source": "apnews.com",
     "snippet": "JinkoSolar Holding Co., Ltd. (\"JinkoSolar\" or the \"Company\") (NYSE: JKS), one of the largest and most innovative solar module manufacturers in the world, provided updates on the status of the proposed initial public offering (\"STAR Market IPO\") and listing of the shares of its principal operating subsidiary,",
@@ -3556,6 +3658,296 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Services at ID office to resume from Monday: DRP Comm. General",
+    "source": "www.dailymirror.lk",
+    "snippet": "After lifting the COVID quarantine curfew tomorrow, the Department for Registration of Persons (DRP) will resume its services on Monday (4), Commissioner General, Viyani Gunathilaka, said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Services-at-ID-office-to-resume-from-Monday-DRP-Comm-General/342-221483",
+    "url_hash": "68036058c7dacc9cd3697a07cf92c2da",
+    "ut": 1633000143,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "COVID",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department for Registration of Persons",
+        "start_end": [
+          8,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Viyani Gunathilaka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Sri Lanka stops 'tainted' fertiliser import from China",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka halted a 96,000-tonne shipment of fertiliser from China on Wednesday citing quality issues, undermining the island's plans for the world's first fully organic farming sector. Agriculture minister Mahindananda Aluthgamage stopped the cargo of organic fertiliser as samples showed harmful bacteria,",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-stops-tainted-fertiliser-import-from-china/ar-AAOZNm8",
+    "url_hash": "d2c40143d1e06136153576350cbf72e8",
+    "ut": 1633000152,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "96,000-tonne",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahindananda Aluthgamage",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "On Fire with Easwaran Rutnam, Harpo Gooneratne",
+    "source": "www.dailymirror.lk",
+    "snippet": "Comments will be edited (grammar, spelling and slang) and authorized at the discretion of Daily Mirror online. The website also has the right not to publish selected comments.",
+    "url": "https://www.dailymirror.lk/dm-videos/On-Fire-with-Easwaran-Rutnam-Harpo-Gooneratne/111-221486",
+    "url_hash": "4864d6585dfccc628cf429838863b0ec",
+    "ut": 1633001103,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Two German military officers on a working visit to Colombo",
+    "source": "colombogazette.com",
+    "snippet": "The two German military officers responsible for Sri Lanka, Capt Gerald Koch and LtCol Jan Cihar, will be in the country from October 3rd - 8th, 2021. After more than 18 months of pandemic-related travel restrictions,",
+    "url": "https://colombogazette.com/2021/09/30/two-german-military-officers-on-a-working-visit-to-colombo/",
+    "url_hash": "144e301b7540da16b4bebd11c0766af4",
+    "ut": 1633001493,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "German",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Capt Gerald Koch",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "LtCol Jan Cihar",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 3rd - 8th, 2021",
+        "start_end": [
+          24,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than 18 months",
+        "start_end": [
+          32,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Group led by Chinese national closes down walking path in Colombo Fort",
+    "source": "www.indiablooms.com",
+    "snippet": "Colombo/IBNS: Amid China's growing influence in Sri Lanka, a media outlet in the South Asian island country on Tuesday reported that a walking path in Colombo Fort had been closed down under the supervision of a group led by a Chinese national.",
+    "url": "https://www.indiablooms.com/world-details/SA/31521/group-led-by-chinese-national-closes-down-walking-path-in-colombo-fort.html",
+    "url_hash": "14557669199c2f9c1810b845f2834411",
+    "ut": 1633001664,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Colombo Fort",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Tamil prisoners take Lanka's ex-prison minister to apex court over rights abuse",
+    "source": "www.outlookindia.com",
+    "snippet": "Eight Tamil prisoners in Sri Lanka have approached the country's Supreme Court claiming that their fundamental rights were violated by former prisons minister Lohan Ratwatte who allegedly threatened them on gunpoint,",
+    "url": "https://www.outlookindia.com/newsscroll/tamil-prisoners-take-lankas-exprison-minister-to-apex-court-over-rights-abuse/2170181",
+    "url_hash": "6df91be47d60f3b25d9f609a4958e029",
+    "ut": 1633003452,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Eight",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lohan Ratwatte",
+        "start_end": [
+          24,
+          26
         ]
       }
     ]
