@@ -7446,6 +7446,57 @@
   },
   {
     "date": "2021-09-29",
+    "title": "President's UNGA speech and the agrarian crisis",
+    "source": "www.ft.lk",
+    "snippet": "Now we know who makes the decisions on manifestly non-military, public health matters: \"\u2026The Vice-Chancellor of the University of Kelaniya, Senior Professor Nilanthi de Silva\u2026said that although it was mentioned earlier that the Moderna vaccine would be available to students at the Army Hospital today and tomorrow,",
+    "url": "https://www.ft.lk/dayan_jayatilleka/President-s-UNGA-speech-and-the-agrarian-crisis/10527-723663",
+    "url_hash": "ba101b55818c1832c18e2f256c875ca1",
+    "ut": 1632938933,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the University of Kelaniya",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nilanthi de Silva",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Moderna",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Army Hospital",
+        "start_end": [
+          52,
+          55
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          57,
+          58
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-29",
     "title": "Prof. Mohan Munasinghe receives Blue Planet Prize 2021",
     "source": "www.ft.lk",
     "snippet": "Prof. Mohan Munasinghe has received the 2021 Blue Planet Prize for his deep research on environment and sustainability, bringing great honour to Sri Lanka. The Blue Planet Prize, sponsored by the Asahi Glass Foundation,",
