@@ -2033,6 +2033,41 @@
   },
   {
     "date": "2021-09-30",
+    "title": "A batch of 400,000 Pfizer vaccines flown in",
+    "source": "www.dailymirror.lk",
+    "snippet": "A consignment of 400,000 doses of Pfizer vaccine vials has been flown into the country by Emirates Airways air cargo, the airport duty manager said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/A-batch-of-400-000-Pfizer-vaccines-flown-in/342-221466",
+    "url_hash": "67f60f87a2a150a027b7882dc7ac4af1",
+    "ut": 1632974904,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "400,000",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pfizer",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Emirates Airways",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Why did Navy men come into churches and warn of an impending attack?",
     "source": "www.dailymirror.lk",
     "snippet": "A probe should be carried out in this regard to find out who was behind the false warning and the reason for it. \"We wonder whether it was to keep the churches closed or not\" ..",
@@ -3522,6 +3557,41 @@
         "start_end": [
           33,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "After Knife Attack, New Zealand Criminalizes Terror Plotting",
+    "source": "www.nytimes.com",
+    "snippet": "A law passed Thursday makes planning a terrorist attack a crime, addressing a legal loophole weeks after an ISIS sympathizer stabbed people at a supermarket.",
+    "url": "https://www.nytimes.com/2021/09/30/world/asia/new-zealand-terror-knife.html",
+    "url_hash": "291825f3fec7972f0ea43f2b945597ec",
+    "ut": 1632992924,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weeks",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "ISIS",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
@@ -7360,6 +7430,100 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "SOUTH ASIA'S WORLD CUP BEGINS TODAY",
+    "source": "www.thedailystar.net",
+    "snippet": "Sports lovers across South Asia and beyond will have a feast of football to devour upon over the next sixteen days as five nations of the region renew their rivalry for regional supremacy in the Maldivian capital Male today.",
+    "url": "https://www.thedailystar.net/sports/football/news/south-asias-world-cup-begins-today-2188191",
+    "url_hash": "98f6be3ce73ff467203d9aebdd82074e",
+    "ut": 1633032514,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next sixteen days",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Maldivian",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Sri Lanka Central Bank to Outline Plan for Economic Stability",
+    "source": "www.bloomberg.com",
+    "snippet": "Sri Lanka 's central bank will Friday unveil a road map to restore economic stability in the island nation, amid doubts whether it can raise enough funds to service debt. Ajith Nivard Cabraal, the Central Bank of Sri Lanka's newly appointed governor,",
+    "url": "https://www.bloomberg.com/news/articles/2021-09-30/sri-lanka-central-bank-to-outline-plan-for-economic-stability",
+    "url_hash": "fdc7d7cb5471410eb513b52b96266e0d",
+    "ut": 1633036114,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka 's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard Cabraal",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka's",
+        "start_end": [
+          36,
+          43
         ]
       }
     ]
