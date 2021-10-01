@@ -928,6 +928,41 @@
   {
     "date": "2021-10-01",
     "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
+    "source": "sports.yahoo.com",
+    "snippet": "Sri Lanka lifted a six-week lockdown Friday as COVID-19 cases and deaths decline but will restrict people's movement for work and obtaining essentials only \u2014 which are running short in the island country amid economic worries.",
+    "url": "https://sports.yahoo.com/sri-lanka-lifts-6-week-042502773.html",
+    "url_hash": "f071e2d8946cd11f091e550d4d9a8412",
+    "ut": 1633061324,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-week",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
     "source": "www.yahoo.com",
     "snippet": "COLOMBO, Sri Lanka (AP) \u2014 Sri Lanka lifted a six-week lockdown Friday as COVID-19 cases and deaths decline but will restrict people's movement for work and obtaining essentials only \u2014 which are running short in the island country amid economic worries.",
     "url": "https://www.yahoo.com/lifestyle/sri-lanka-lifts-6-week-042502773.html",
@@ -1351,6 +1386,92 @@
         "start_end": [
           8,
           9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka banks asked not to auction loan security till March, interest relief",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's banks will be asked not to auction security given for loans till March 2021, and give some relief for interest to troubled borrowers, Central Bank Governor Nivard Cabraal said.",
+    "url": "https://economynext.com/sri-lanka-banks-asked-not-to-auction-loan-security-till-march-interest-relief-86635/",
+    "url_hash": "da0da34475f2e679030f6fedd4722ecf",
+    "ut": 1633068515,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2021",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka to consider buying back ISBs falling due in 2022: Governor Cabraal",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will consider buying back some of the international sovereign bonds due in 2021, if they continue to trade at steep discounts, Central Bank Governor Nivard Cabraal said, promising no default.",
+    "url": "https://economynext.com/sri-lanka-to-consider-buying-back-isbs-falling-due-in-2022-governor-cabraal-86637/",
+    "url_hash": "fdf480195805ab2d077dad5b5ebc508a",
+    "ut": 1633068635,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          28,
+          30
         ]
       }
     ]

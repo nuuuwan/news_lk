@@ -6906,6 +6906,41 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Former President Jimmy Carter quietly marks 97th birthday",
+    "source": "mynorthwest.com",
+    "snippet": "Ex-President Jimmy Carter, the oldest former U.S. chief executive ever, will quietly mark his 97th birthday at home in southwest",
+    "url": "https://mynorthwest.com/3172880/former-president-jimmy-carter-quietly-marks-97th-birthday/",
+    "url_hash": "f50e131a7592772c4f9286e8bafdd1a2",
+    "ut": 1633021705,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jimmy Carter",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "97th",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Adani signs $700-mn deal for Lanka port",
     "source": "www.thehindu.com",
     "snippet": "Adani group on Thursday signed a more than $700-million agreement with the Sri Lanka Ports Authority (SLPA) and conglomerate John Keells Holdings, becoming the largest foreign investor in the island n",
@@ -8544,6 +8579,41 @@
     "title": "Prevention of Terrorism Act; We Cannot play to the gallery - Mohamed Ali Sabry",
     "source": "www.dailymirror.lk",
     "snippet": "The Prevention of Terrorism Act (PTA) continues to be a sticky issue for Sri Lanka with the international community calling.... ..",
+    "url": "https://www.dailymirror.lk/hard-talk/Prevention-of-Terrorism-Act-We-Cannot-play-to-the-gallery-Mohamed-Ali-Sabry/334-221539",
+    "url_hash": "6c8d75e542fcbd8c95dadeab7053278b",
+    "ut": 1633039686,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Prevention of Terrorism Act",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "PTA",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Prevention of Terrorism Act; We Cannot play to the gallery - Mohamed Ali Sabry",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Prevention of Terrorism Act (PTA) continues to be a sticky issue for Sri Lanka with the international community calling.... ..",
     "url": "https://www.dailymirror.lk/opinion/Prevention-of-Terrorism-Act-We-Cannot-play-to-the-gallery-Mohamed-Ali-Sabry/172-221539",
     "url_hash": "b372910b79904ac1a74447146c5ed921",
     "ut": 1633039692,
@@ -8879,6 +8949,73 @@
         "start_end": [
           12,
           14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "'Pushback Against China': Indian Firm Signs 35-Year Lease to Run Strategic Port in Sri Lanka",
+    "source": "www.lankaweb.com",
+    "snippet": "The awarding of the contract for Colombo's West Container Terminal to Adani Group marks the first time that an Indian firm will manage such operations in Sri Lanka. At the same time, a state-backed Chinese company already operates the Hambantota Port on a 99-year lease.",
+    "url": "http://www.lankaweb.com/news/items/2021/09/30/pushback-against-china-indian-firm-signs-35-year-lease-to-run-strategic-port-in-sri-lanka/comment-page-1/",
+    "url_hash": "3f70fdd57075fa1ac7b32e569d87c1b5",
+    "ut": 1633043324,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "West Container Terminal to Adani Group",
+        "start_end": [
+          8,
+          14
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "99-year",
+        "start_end": [
+          48,
+          51
         ]
       }
     ]
