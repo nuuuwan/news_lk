@@ -2703,6 +2703,100 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Decision of paying pension to Ajith Nivard Cabraal challenged in Courts",
+    "source": "www.dailymirror.lk",
+    "snippet": "A writ petition has been filed in the Court of Appeal seeking an interim order to stay the Monetary Board of the Central Bank of Sri Lanka from paying a pension to the newly appointed Central Bank Governor Ajith Nivard Cabraal.",
+    "url": "https://www.dailymirror.lk/latest_news/Decision-of-paying-pension-to-Ajith-Nivard-Cabraal-challenged-in-Courts/342-221576",
+    "url_hash": "865ef3122b72776752436c4ea3f0ac73",
+    "ut": 1633090082,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Court",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Monetary Board of the Central Bank of Sri Lanka",
+        "start_end": [
+          17,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          35,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Nivard Cabraal",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka's GMOA threatens trade union action over \"arbitrary\" doctors' transfers",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Government Medical Officers Association (GMOA) has threatened trade union action over what it calls arbitrary transfers of doctors by the health ministry. Writing to health minister Keheliya Rambukwella on Friday (01),",
+    "url": "https://economynext.com/sri-lankas-gmoa-threatens-trade-union-action-over-arbitrary-doctors-transfers-86661/",
+    "url_hash": "b11c0819a59850176da5d586aeb10c7e",
+    "ut": 1633090109,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Government Medical Officers Association",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Keheliya Rambukwella",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "01",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Police OIC files FR challenging transfer at the behest of racketeers",
     "source": "www.dailymirror.lk",
     "snippet": "Filing a Fundamental Rights petition in Supreme Court, the former OIC of Thelikada police station in Galle district alleged that he has been unreasonably transferred to the Tangalle police Division for normal duties at the behest of the racketeers involved in illegal activities in Gin Ganga and forests in Thelikada.",
@@ -2953,6 +3047,76 @@
     "url": "https://www.msn.com/en-in/money/topstories/india-s-proves-diplomatic-heft-in-sri-lanka-s-700m-deal/ar-AAP2mAP",
     "url_hash": "e99f61321d245f4ce75f9fc6a50a2083",
     "ut": 1633093449,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past few months",
+        "start_end": [
+          12,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Coronavirus live: US supreme court justice Brett Kavanaugh tests positive; around one in 85 people had Covid in England last week",
+    "source": "www.msn.com",
+    "snippet": "Kavanaugh has no symptoms and is fully vaccinated; prevalence of virus in England increases slightly on week before; Russia reports 887 deaths",
+    "url": "https://www.msn.com/en-gb/news/coronavirus/coronavirus-live-us-supreme-court-justice-brett-kavanaugh-tests-positive-around-one-in-85-people-had-covid-in-england-last-week/ar-AAP1kdW",
+    "url_hash": "07f5bc0e4fdb75e2be6d11300dac9472",
+    "ut": 1633095080,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "week",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "887",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "India proves diplomatic heft in Sri Lanka's $700M deal",
+    "source": "www.msn.com",
+    "snippet": "New Delhi has worked both official and unofficial channels in Colombo for the past few months to swing the deal",
+    "url": "https://www.msn.com/en-in/money/topstories/india-proves-diplomatic-heft-in-sri-lankas-dollar700m-deal/ar-AAP2mAP",
+    "url_hash": "b958832046fcb6a4ef8bd76f287d9f80",
+    "ut": 1633095251,
     "ent_info_list": [
       {
         "label": "GPE",
