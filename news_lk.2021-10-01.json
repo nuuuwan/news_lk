@@ -1,6 +1,116 @@
 [
   {
     "date": "2021-10-01",
+    "title": "SLC rewards U19 players with 100,000 each",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka Cricket rewarded 26 players of the U19 squad with a financial assistance of LKR 100,000 each for the commitment shown for the game.The U19 team is currently undergoing training focusing on the upcoming inbound tours,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/slc-rewards-u19-players-with-100000-each/ar-AAP1fKE",
+    "url_hash": "d5fe5fea6e9050080ce71b353c54fc25",
+    "ut": 1633046906,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "U19",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka inflation at 5.7-pct in September 2021, food prices soar",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's inflation in the capital Colombo was 5.7 percent in the 12-month to September, slowing from 6.0 in July, though prices rose 0.4 percent during the month, data from the state debt office showed.",
+    "url": "https://economynext.com/sri-lanka-inflation-at-5-7-pct-in-september-2021-food-prices-soar-86613/",
+    "url_hash": "51e351cfb5f57a4fb8ccd940cbb2a054",
+    "ut": 1633046924,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "5.7 percent",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "12-month to September",
+        "start_end": [
+          13,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6.0",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.4 percent",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the month",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Lasith Dassanayake was an excellent boxer",
     "source": "www.msn.com",
     "snippet": "Twenty five year old Lasith Dassanayake, an old boy of Kingswood College, Kandy started schooling from Grade Six onwards in the year 2007 and started practicing boxing in that year itself under the coaching of Rukman Wekadapola,",
