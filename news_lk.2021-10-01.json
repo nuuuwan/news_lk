@@ -2153,6 +2153,41 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Circular issued recalling public servants for duty",
+    "source": "www.dailymirror.lk",
+    "snippet": "A circular has been issued recalling all public servants to duty as usual from today in accordance with Covid-19 Health Guidelines, Public Services, Provincial Councils and Local Government Secretary J.",
+    "url": "https://www.dailymirror.lk/breaking_news/Circular-issued-recalling-public-servants-for-duty/108-221574",
+    "url_hash": "dbcaba80fd8fb5178a928aa783f3a72f",
+    "ut": 1633079265,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Guidelines, Public Services",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Provincial Councils and Local Government",
+        "start_end": [
+          25,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "HealthX super app A lockdown idea that is revolutionizing the way Sri Lankans access healthcare",
     "source": "menafn.com",
     "snippet": "HealthX, Sri Lanka's first-ever healthcare super app, has made remarkable progress since its creation during 1st wave of the COVID-19 pandemic-ind",
@@ -2286,6 +2321,127 @@
         "start_end": [
           32,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Circular issued recalling state sector employees for work",
+    "source": "dailynews.lk",
+    "snippet": "A circular has been issued by the Secretary to the Ministry of Public Administration recalling state employees to resume work. State institutions were advised to recall the necessary employees only to report to their respective offices.",
+    "url": "http://dailynews.lk/2021/10/01/local/260813/circular-issued-recalling-state-sector-employees-work",
+    "url_hash": "4f2cc45d337f9bd911fcb34a031e1e41",
+    "ut": 1633083889,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Public Administration",
+        "start_end": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Indian Foreign Secretary to visit Jaffna",
+    "source": "colombogazette.com",
+    "snippet": "Indian Foreign Secretary Shri Harsh Vardhan Shringla is expected to visit Jaffna during an official visit to Sri Lanka. The Indian Foreign Secretary\u00a0will undertake an official visit to Sri Lanka from 2-5 October 2021 at the invitation of the Foreign Secretary\u00a0Admiral\u00a0Prof.",
+    "url": "https://colombogazette.com/2021/10/01/indian-foreign-secretary-to-visit-jaffna/",
+    "url_hash": "d13abb62e9853a8e67c6a8e13b6b6cfa",
+    "ut": 1633083915,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shri Harsh Vardhan Shringla",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jaffna",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2-5 October 2021",
+        "start_end": [
+          34,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "CBK says child protection in Sri Lanka should not be politicised",
+    "source": "menafn.com",
+    "snippet": "Former President Chandrika Bandaranaike Kumaratunga says child protection in Sri Lanka should not be politicised.   Mrs K",
+    "url": "https://menafn.com/1102898999/CBK-says-child-protection-in-Sri-Lanka-should-not-be-politicised",
+    "url_hash": "ee9696c39cd98a58d3dd43ce767a7de5",
+    "ut": 1633085775,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Chandrika Bandaranaike",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kumaratunga",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
         ]
       }
     ]
