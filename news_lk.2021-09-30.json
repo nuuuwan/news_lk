@@ -2360,6 +2360,73 @@
   },
   {
     "date": "2021-09-30",
+    "title": "Microsoft launches Code; Without Barriers across nine countries in Asia Pacific",
+    "source": "colombogazette.com",
+    "snippet": "Microsoft and 13 companies across nine Asia Pacific countries today launched Code; Without Barriers to help close the gender gap in the region's fast-growing cloud, artificial intelligence (AI) and digital technology sectors.",
+    "url": "https://colombogazette.com/2021/09/30/microsoft-launches-code-without-barriers-across-nine-countries-in-asia-pacific/",
+    "url_hash": "81b08994f4853c07eb220b04cde0d814",
+    "ut": 1632978524,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Microsoft",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia Pacific",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Without Barriers",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AI",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Samsung Launches #MonsterLikeABoss Galaxy M32 5G with Twelve 5G Bands in Sri Lanka",
     "source": "bizenglish.adaderana.lk",
     "snippet": "First Galaxy M Series smartphone to offer 5G connectivity with 12 band-support and 2 year-OS upgrade to always #BeFutureReady Sri Lanka's first smartphone with a Dimensity 720 processor Sports Samsung's defense-grade Knox Security and premium design Samsung,",
@@ -5050,6 +5117,57 @@
         "start_end": [
           24,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Health guidelines to be followed from Oct. 1 issued",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Health Ministry today issued a new set of guidelines under two phases to be followed in the month of October once the curfew is lifted from tomorrow (01). ..",
+    "url": "https://www.dailymirror.lk/top_story/Health-guidelines-to-be-followed-from-Oct--1-issued/155-221489",
+    "url_hash": "48e32fa2e836eb296256967a999927f5",
+    "ut": 1633003693,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the month of October",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
