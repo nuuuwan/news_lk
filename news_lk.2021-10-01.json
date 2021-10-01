@@ -4366,6 +4366,49 @@
   },
   {
     "date": "2021-10-01",
+    "title": "The Latest: California to require school children get shots",
+    "source": "apnews.com",
+    "snippet": "SAN FRANCISCO \u2014 California has announced the nation's first coronavirus vaccine mandate for school children. Gov. Gavin Newsom says the mandate won't take effect until the COVID-19 vaccine has received final approval from the U.",
+    "url": "https://apnews.com/fadadffeef2e6b138421b21cd3cc2908",
+    "url_hash": "1b036630e53c77b9669c74935fb446c7",
+    "ut": 1633111718,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SAN FRANCISCO",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "California",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gavin Newsom",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Sri Lanka's tourism prospects shared with Vietnamese travel agents",
     "source": "www.ft.lk",
     "snippet": "Sri Lanka Tourism in collaboration with the Sri Lanka Embassy in Vietnam organised webinar to create awareness of the destination and health protocols amongst the Vietnamese tourism and travel trade.",
@@ -4782,6 +4825,33 @@
   },
   {
     "date": "2021-10-01",
+    "title": "China today thinks it's safer to be feared than to be loved: French study",
+    "source": "www.malaysiasun.com",
+    "snippet": "A fresh report by a France-based research body has described how Machiavellian China has built a tentacular network to exert its influence worldwide, a media",
+    "url": "https://www.malaysiasun.com/news/271372452/china-today-thinks-it-safer-to-be-feared-than-to-be-loved-french-study",
+    "url_hash": "a35e9bc34eea9905f184d844612a49fe",
+    "ut": 1633118935,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Machiavellian China",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "The Latest: California to require school children get shots",
     "source": "www.ctpost.com",
     "snippet": "SAN FRANCISCO \u2014 California has announced the nation's first coronavirus vaccine mandate for school children. Gov. Gavin Newsom says the mandate won't take effect until the COVID-19 vaccine has received final approval from the U.",
@@ -4854,6 +4924,127 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Australia's NSW state premier resigns amid COVID-19 battle",
+    "source": "www.dailymirror.lk",
+    "snippet": "The premier of Australia's biggest state economy New South Wales (NSW), Gladys Berejiklian, resigned on Friday after a corruption watchdog said it was investigating whether she was involved in conduct that \"constituted or involved a breach of public trust\".",
+    "url": "https://www.dailymirror.lk/international/Australias-NSW-state-premier-resigns-amid-COVID-19-battle/107-221632",
+    "url_hash": "a7a0ee61c80ea64705268cdcebc9682e",
+    "ut": 1633122500,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "New South Wales",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NSW",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gladys Berejiklian",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Life and times of Sinhala Cinema's Super Hero Gamini Fonseka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Gamini Fonseka was the uncrowned king of Sinhala cinema for nearly three decades.He was the first and arguably the sole super star of Sinhala cinema. ..",
+    "url": "https://www.dailymirror.lk/recomended-news/Life-and-times-of-Sinhala-Cinema%E2%80%99s-Super-Hero-Gamini-Fonseka/277-221628",
+    "url_hash": "622e4c1281b51ca625d8c96496209d01",
+    "ut": 1633122500,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gamini Fonseka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly three decades",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "SLASSCOM: Towards a world class learning experience",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Association for Software Services Companies (SLASSCOM) has long been a proponent of the continual development of Sri Lanka's IT/BPM industry. ..",
+    "url": "https://www.dailymirror.lk/news-features/SLASSCOM-Towards-a-world-class-learning-experience/131-221630",
+    "url_hash": "6972f677980fb7dc56adc924bca80834",
+    "ut": 1633122500,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Association for Software Services Companies",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BPM",
+        "start_end": [
+          25,
+          26
         ]
       }
     ]
