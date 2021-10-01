@@ -1884,6 +1884,65 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Cambodia bans telecast of LTTE \"Methagu\" film",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Kingdom of Cambodia has banned the telecast of 'Methagu' Tamil movie that follows the life of the leader of Liberation Tigers of Tamil Eelam (LTTE), Velupillai Prabhakaran following a request from Sri Lanka.",
+    "url": "https://www.dailymirror.lk/breaking_news/Cambodia-bans-telecast-of-LTTE-Methagu-film/108-221575",
+    "url_hash": "f26eaa08dd012da7f92d1204842990f5",
+    "ut": 1633075711,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The Kingdom of Cambodia",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Methagu",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Velupillai Prabhakaran",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "NDB Bank Celebrates World Children's Day with NDB Shilpa Children's Savings Account",
     "source": "www.dailymirror.lk",
     "snippet": "In celebration of World Children's Day, NDB Bank, the pioneer in banking has once again reintroduced the art of savings to our future generation via the Shilpa Children's Savings Account. ..",
@@ -2442,6 +2501,89 @@
         "start_end": [
           9,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Covid live news: around one in 85 people had Covid in England last week; new record high Russia deaths",
+    "source": "www.msn.com",
+    "snippet": "Prevalence of virus in England increases slightly on week before; Russia reports 887 deaths.      Merck says experimental pill cuts worst effects of coronavirus    12:29      Good morning, I'm Tom Ambrose and I will be bringing you the latest coronavirus news from the UK and around the world throughout the day.",
+    "url": "https://www.msn.com/en-gb/news/coronavirus/covid-live-news-around-one-in-85-people-had-covid-in-england-last-week-new-record-high-russia-deaths/ar-AAP1kdW",
+    "url_hash": "22fa6100f1a79c94c482e62f1cf9b500",
+    "ut": 1633089409,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "week",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "887",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Merck",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "morning",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tom Ambrose",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the day",
+        "start_end": [
+          54,
+          56
         ]
       }
     ]
