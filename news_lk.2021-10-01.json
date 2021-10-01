@@ -4065,6 +4065,84 @@
   },
   {
     "date": "2021-10-01",
+    "title": "The Latest: WH: Merck pill 'good news,' vaccine still key",
+    "source": "www.stltoday.com",
+    "snippet": "WASHINGTON \u2014 Biden administration officials say a new pill that could provide an easier, effective way to treat COVID 19 is good news, while adding vaccination remains the key to",
+    "url": "https://www.stltoday.com/news/world/the-latest-wh-merck-pill-good-news-vaccine-still-key/article_1a2f2303-4a62-56d8-a3f5-e70da6a2ddf7.html",
+    "url_hash": "e677443306e551972be5050e016a5449",
+    "ut": 1633104509,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Pahanthudawa incident: Couple get suspended sentence and fine",
+    "source": "www.dailymirror.lk",
+    "snippet": "The couple who were involved in a pornographic video at the Pahanthudawa waterfall in Balangoda were sentenced to three months imprisonment suspended for seven years and fined Rs.10,800 by the Balangoda Magistrate Jayaruwan Dissanayake today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Pahanthudawa-incident-Couple-get-suspended-sentence-and-fine/108-221598",
+    "url_hash": "172cdb89deadfd79d8ecfa196a27eb72",
+    "ut": 1633108090,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Pahanthudawa",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Balangoda",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three months",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "seven years",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "The Latest: California to require school children get shots",
     "source": "www.sfgate.com",
     "snippet": "SAN FRANCISCO \u2014 California has announced the nation's first coronavirus vaccine mandate for school children. Gov. Gavin Newsom says the mandate won't take effect until the COVID-19 vaccine has received final approval from the U.",
@@ -4102,6 +4180,108 @@
         "start_end": [
           18,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Coronavirus live: one in 20 secondary school pupils in England had Covid last week; India to quarantine UK arrivals",
+    "source": "www.theguardian.com",
+    "snippet": "Figures on English schools come as infection levels remain high in UK; India measures in response to requirements imposed on Indians visiting UK",
+    "url": "https://www.theguardian.com/world/live/2021/oct/01/coronavirus-live-news-uk-cases-rise-after-schools-return-record-monthly-deaths-in-malaysia?page=with:block-615754728f089420bc41a3b1",
+    "url_hash": "c4b0e14fc4216fb836f5c241b6ee0c6d",
+    "ut": 1633111709,
+    "ent_info_list": [
+      {
+        "label": "LANGUAGE",
+        "text": "English",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indians",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Supreme TV to telecast LPL in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Supreme TV, Sri Lanka\u0432\u0402\u2122s fastest growing TV channel, has acquired the exclusive rights to broadcast the Lanka Premier League (LPL) in Sri Lanka from the IPG Group, the official franchise and broadcast holder.",
+    "url": "https://www.ft.lk/sports/Supreme-TV-to-telecast-LPL-in-Sri-Lanka/23-723771",
+    "url_hash": "9343163cbff7c3fbb96ca4d3d4e56359",
+    "ut": 1633111714,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Supreme TV",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Premier League",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "LPL",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the IPG Group",
+        "start_end": [
+          30,
+          33
         ]
       }
     ]
@@ -4263,6 +4443,140 @@
         "start_end": [
           39,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Foreign Minister updates EU GSP+ review mission on SL's progress",
+    "source": "www.ft.lk",
+    "snippet": "Foreign Minister Prof. G.L. Peiris yesterday updated the EU delegation to review the GSP+ program of Sri Lanka's progress. He welcomed the constructive, cordial and regular engagement between Sri Lanka and the European Union (EU) during the meeting with the five-member delegation from the EU.",
+    "url": "https://www.ft.lk/front-page/Foreign-Minister-updates-EU-GSP-review-mission-on-SL-s-progress/44-723808",
+    "url_hash": "eaa3b071d8b1dccebe50cdd8b17fe3c7",
+    "ut": 1633115328,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "G.L. Peiris",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EU",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the European Union",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EU",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EU",
+        "start_end": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "The Latest: Illinois pays $443M in pandemic rental relief",
+    "source": "www.seattlepi.com",
+    "snippet": "J.B. Pritzker's office says more than $443 million in emergency rental assistance has been paid on behalf of 49,100 state households through the Illinois Rental Payment Program. It provides up to $25,",
+    "url": "https://www.seattlepi.com/news/article/The-Latest-Pakistan-bans-unvaccinated-from-16501177.php",
+    "url_hash": "9304c90e3ddfa2c3f2c6b56a4439a1b7",
+    "ut": 1633115369,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "J.B. Pritzker's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "more than $443 million",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "49,100",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Illinois Rental Payment Program",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "up to $25",
+        "start_end": [
+          32,
+          36
         ]
       }
     ]
