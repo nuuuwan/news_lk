@@ -4186,6 +4186,49 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Sri Lanka's tourism prospects shared with Vietnamese travel agents",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka Tourism in collaboration with the Sri Lanka Embassy in Vietnam organised webinar to create awareness of the destination and health protocols amongst the Vietnamese tourism and travel trade.",
+    "url": "https://www.ft.lk/business/Sri-Lanka-s-tourism-prospects-shared-with-Vietnamese-travel-agents/34-723793",
+    "url_hash": "1f10c46fbfe3eb73b85032427b70eec7",
+    "ut": 1633111686,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Embassy",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Vietnamese",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Coronavirus live: one in 20 secondary school pupils in England had Covid last week; India to quarantine UK arrivals",
     "source": "www.theguardian.com",
     "snippet": "Figures on English schools come as infection levels remain high in UK; India measures in response to requirements imposed on Indians visiting UK",
@@ -4577,6 +4620,49 @@
         "start_end": [
           32,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "The Latest: California to require school children get shots",
+    "source": "www.ctpost.com",
+    "snippet": "SAN FRANCISCO \u2014 California has announced the nation's first coronavirus vaccine mandate for school children. Gov. Gavin Newsom says the mandate won't take effect until the COVID-19 vaccine has received final approval from the U.",
+    "url": "https://www.ctpost.com/business/article/The-Latest-Pakistan-bans-unvaccinated-from-16501177.php",
+    "url_hash": "369929c7b25bd33ad26e4ad6b7316e5f",
+    "ut": 1633122062,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SAN FRANCISCO",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "California",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gavin Newsom",
+        "start_end": [
+          18,
+          20
         ]
       }
     ]
