@@ -680,6 +680,84 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Janaprith Fernando assumes duties as chief scout commissioner",
+    "source": "www.dailymirror.lk",
+    "snippet": "Attorney-at-Law Janaprith Fernando will assume duties as the 21st Chief Commissioner of the Sri Lanka Scout Association (SLSA) today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Janaprith-Fernando-assumes-duties-as-chief-scout-commissioner/342-221542",
+    "url_hash": "10331311e7d2191d235fc66b52f8b0e8",
+    "ut": 1633061292,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Janaprith Fernando",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Scout Association",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Australia to reopen border from November",
+    "source": "www.dailymirror.lk",
+    "snippet": "Australia will reopen its international border from November, allowing vaccinated travellers into the country for the first time in 18 months. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Australia-to-reopen-border-from-November/108-221546",
+    "url_hash": "37550e91b2ae5fd4222ea9151b0cf85a",
+    "ut": 1633061292,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "November",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "18 months",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Sri Lanka relaxes six-week COVID-19 \"lockdown\", but some restrictions remain",
     "source": "economynext.com",
     "snippet": "Sri Lanka's six-week COVID-19 lockdown, or 'quarantine curfew' as it is officially known, was relaxed Friday (01) morning, though some restrictions such as an inter-provincial travel ban remain. The health ministry issued new guidelines on Thursday (30) to be followed by the public in the coming weeks in order to prevent a fresh wave of daily cases which have seen a gradual decline over the past few weeks.",
@@ -757,6 +835,143 @@
         "start_end": [
           79,
           83
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
+    "source": "abcnews.go.com",
+    "snippet": "Sri Lanka has lifted a six-week national lockdown as COVID-19 cases and deaths decline but movement restrictions remain in place",
+    "url": "https://abcnews.go.com/Health/wireStory/sri-lanka-lifts-week-virus-lockdown-amid-economic-80342329",
+    "url_hash": "4a940bc355b41818abc39b1b8faf7896",
+    "ut": 1633061301,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-week",
+        "start_end": [
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts island-wide quarantine curfew",
+    "source": "www.adaderana.lk",
+    "snippet": "The island-wide quarantine curfew in Sri Lanka, which was in effect for over a month, was lifted at 4.00 a.m. today (October 01). The government decided to ease restrictions on movement as the country started seeing a considerable drop in the number of daily COVID-19 cases and deaths reported.",
+    "url": "http://www.adaderana.lk/news.php?nid=77346",
+    "url_hash": "9b0ed40df800fe696517962a73be6393",
+    "ut": 1633061301,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over a month",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "4.00 a.m.",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "October 01",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
+    "source": "www.yahoo.com",
+    "snippet": "COLOMBO, Sri Lanka (AP) \u2014 Sri Lanka lifted a six-week lockdown Friday as COVID-19 cases and deaths decline but will restrict people's movement for work and obtaining essentials only \u2014 which are running short in the island country amid economic worries.",
+    "url": "https://www.yahoo.com/lifestyle/sri-lanka-lifts-6-week-042502773.html",
+    "url_hash": "dfdb6ac9235af165a44bdc16a1ee86e6",
+    "ut": 1633061327,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AP",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-week",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
@@ -843,6 +1058,299 @@
         "start_end": [
           37,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka to hike mandatory foreign exchange surrender rule",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank will raise the foreign exchange surrender rule for exporters, after permitted debits, Central Bank Governor Nivard Cabraal said.",
+    "url": "https://economynext.com/sri-lanka-to-hike-mandatory-foreign-exchange-surrender-rule-86631/",
+    "url_hash": "0faedf0739adfebada52e570ab9a0429",
+    "ut": 1633064918,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka to increase mandatory exporter foreign exchange surrenders",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank will raise the foreign exchange surrender rule for exporters, after permitted debits, Central Bank Governor Nivard Cabraal said.",
+    "url": "https://economynext.com/sri-lanka-to-increase-mandatory-exporter-foreign-exchange-surrenders-86631/",
+    "url_hash": "7e5049c914798bd5a920ddf908e501e4",
+    "ut": 1633064918,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Trains packed with commuters as Japan fully ends emergency",
+    "source": "mynorthwest.com",
+    "snippet": "Japan fully came out of a coronavirus state of emergency for the first time in more than six months as the country starts to gradually ease",
+    "url": "https://mynorthwest.com/3172864/trains-packed-with-commuters-as-japan-fully-ends-emergency/",
+    "url_hash": "e4da37026c32415bd741833b98f1131a",
+    "ut": 1633065210,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than six months",
+        "start_end": [
+          15,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "US helps strengthen Sri Lanka justice sector's efficiency",
+    "source": "menafn.com",
+    "snippet": "The United States has extended support to strengthen the Sri Lanka justice sector's efficiency and effectiveness.   The U",
+    "url": "https://menafn.com/1102897752/US-helps-strengthen-Sri-Lanka-justice-sectors-efficiency&source=138",
+    "url_hash": "cb7a13669bfc1cdc6dcbec8b2f47231d",
+    "ut": 1633065702,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United States",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Bengaluru-based spice brand Rockbee to multiply business across Dubai, Malaysia; To enter E-Commerce, 2021 11:03 am",
+    "source": "www.freepressjournal.in",
+    "snippet": "Rockbee Pvt.Ltd, a Bengaluru-based end-to-end spice brand is set to expand its footprint across Dubai and Malaysia. The brand is planning to open two showrooms in Jumeirah and Bur Dubai (Dubai); and one showroom in Kuala Lumpur (Malaysia).",
+    "url": "https://www.freepressjournal.in/business/bengaluru-based-spice-brand-rockbee-to-multiply-business-across-dubai-malaysia-to-enter-e-commerce-2021-1103-am",
+    "url_hash": "84fd9b3f2b15b3f0936356b5a6aecb0b",
+    "ut": 1633066590,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rockbee Pvt",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bengaluru",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jumeirah",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bur Dubai",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kuala Lumpur",
+        "start_end": [
+          48,
+          50
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka reiterates support to the Palestine cause",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka has reiterated support to the Palestine cause, including their right to an independent, sovereign state.   Amba",
+    "url": "https://menafn.com/1102897753/Sri-Lanka-reiterates-support-to-the-Palestine-cause&source=30",
+    "url_hash": "5baaf371190015d47f8d18f12455b82f",
+    "ut": 1633066842,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Palestine",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts 6-week lockdown amid economic worries",
+    "source": "www.jagonews24.com",
+    "snippet": "Sri Lanka lifted a six-week lockdown Friday as COVID-19 cases and deaths decline but will restrict people's movement for",
+    "url": "https://www.jagonews24.com/en/international/news/58155",
+    "url_hash": "a6753dc3dde91eab14ea966cda66d39f",
+    "ut": 1633067721,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-week",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
         ]
       }
     ]
