@@ -3125,6 +3125,57 @@
   },
   {
     "date": "2021-09-30",
+    "title": "U19 players recognized by Sri Lanka Cricket",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka Cricket rewarded and recognized 26 players of the U19 squad, currently undergoing training focusing on the upcoming Inbound Tours, U19 Asia Cup, and the U19 World Cup. The players were given financial assistance of LKR 100,",
+    "url": "https://www.islandcricket.lk/news/u19-players-recognized-by-sri-lanka-cricket/",
+    "url_hash": "c44e9b443d6251e615461cf241e975cf",
+    "ut": 1632985681,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Inbound Tours",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the U19 World Cup",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
     "title": "Altair suspects foul play behind fire",
     "source": "www.dailymirror.lk",
     "snippet": "Ltd, the developers of Altair Colombo, Sri Lanka's tallest residential condominium, have filed a Police complaint suspecting foul play behind a recent fire. ..",
@@ -7240,6 +7291,33 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "title": "Sri Lanka Tourism achieves growth through strategic partnerships with foreign missions",
+    "source": "www.ft.lk",
+    "snippet": "Foreign policy plays an important role in strengthening economic and trade relations and has the potential to positively impact the profile of a country. Sri Lanka Tourism recognizing the significant role played by the Sri Lankan Foreign Service representatives have collaborated with missions on initiatives in key source markets as well as in emerging markets to boost tourism exports and attract t .",
+    "url": "https://www.ft.lk/travel-tourism/Sri-Lanka-Tourism-achieves-growth-through-strategic-partnerships-with-foreign-missions/27-723744",
+    "url_hash": "a1cdf8cd1b8a5754f1eb8707201f62b6",
+    "ut": 1633025294,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Foreign Service",
+        "start_end": [
+          34,
+          39
         ]
       }
     ]
