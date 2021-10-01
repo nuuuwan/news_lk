@@ -1212,6 +1212,33 @@
   },
   {
     "date": "2021-10-01",
+    "title": "US helps strengthen Sri Lanka justice sector's efficiency",
+    "source": "menafn.com",
+    "snippet": "The United States has extended support to strengthen the Sri Lanka justice sector's efficiency and effectiveness.   The U",
+    "url": "https://menafn.com/1102897752/US-helps-strengthen-Sri-Lanka-justice-sectors-efficiency",
+    "url_hash": "500263fdaf99bf364c0fe55f5dad7062",
+    "ut": 1633064931,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United States",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Sri Lanka removes LC margins on electronic, 'non-essential' items: Cabraal",
     "source": "economynext.com",
     "snippet": "Sri Lanka is removing cash margins on electronic items, underware from October 01, but importers should not bring down excessive amounts, Central Bank Governor Nivard Cabraal said.",
@@ -1556,6 +1583,33 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Sri Lanka reiterates support to the Palestine cause",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka has reiterated support to the Palestine cause, including their right to an independent, sovereign state.   Amba",
+    "url": "https://menafn.com/1102897753/Sri-Lanka-reiterates-support-to-the-Palestine-cause",
+    "url_hash": "3c527643e4e9a0c8481195ba11e56588",
+    "ut": 1633068531,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Palestine",
+        "start_end": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Sri Lanka to consider buying back ISBs falling due in 2022: Governor Cabraal",
     "source": "economynext.com",
     "snippet": "Sri Lanka will consider buying back some of the international sovereign bonds due in 2021, if they continue to trade at steep discounts, Central Bank Governor Nivard Cabraal said, promising no default.",
@@ -1593,6 +1647,65 @@
         "start_end": [
           28,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "World Bank approves US $500Mn loan for Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "The World Bank's Board of Executive Directors today approved $500 million in financing for Sri Lanka to provide safe, climate-resilient roads to connect agricultural supply chains through the Inclusive Connectivity and Development Project.",
+    "url": "https://www.dailymirror.lk/breaking_news/World-Bank-approves-US-500Mn-loan-for-Sri-Lanka/108-221570",
+    "url_hash": "c9500faf21f943e8c4ff10fa72be74f5",
+    "ut": 1633072097,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Bank's",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board of Executive Directors",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$500 million",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Inclusive Connectivity and Development Project",
+        "start_end": [
+          32,
+          38
         ]
       }
     ]
@@ -1695,6 +1808,143 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Online payment can be made for sand, gravel, soil transport permit from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Geological Survey and Mines Bureau (GSMB) has facilitated online payment for applying for sand, gravel and soil transport permit from today. Launching of this facility was held yesterday and it will be put into action from today. Environment Minister ...",
+    "url": "https://www.dailymirror.lk/latest_news/Online-payment-can-be-made-for-sand-gravel-soil-transport-permit-from-today/342-221571",
+    "url_hash": "7ed3717addba8ca3a497b5132310e02f",
+    "ut": 1633077917,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Geological",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau (GSMB",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
+    "source": "www.sfgate.com",
+    "snippet": "Sri Lanka lifted a six-week lockdown Friday as COVID-19 cases and deaths decline but will restrict people's movement for work and obtaining essentials only \u2014 which are running short in the island country amid economic worries.",
+    "url": "https://www.sfgate.com/news/article/Sri-Lanka-lifts-6-week-virus-lockdown-amid-16501056.php",
+    "url_hash": "ef3dd1d3aec51d7c119c98afcaacbaaa",
+    "ut": 1633078047,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-week",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "HealthX super app - A lockdown idea that is revolutionizing the way Sri Lankans access healthcare",
+    "source": "colombogazette.com",
+    "snippet": "HealthX, Sri Lanka's first-ever healthcare super app, has made remarkable progress since its creation during 1st wave of the COVID-19 pandemic-induced lockdown in March 2020. HealthX was ideated with the purpose of inspiring Sri Lankans to improve their health,",
+    "url": "https://colombogazette.com/2021/10/01/healthx-super-app-a-lockdown-idea-that-is-revolutionizing-the-way-sri-lankans-access-healthcare/",
+    "url_hash": "82fb1c615ad74b7cbb75a85edea1f9fd",
+    "ut": 1633078731,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "1st",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2020",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          41,
+          43
         ]
       }
     ]
