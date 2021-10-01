@@ -1057,6 +1057,41 @@
   {
     "date": "2021-10-01",
     "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
+    "source": "news.yahoo.com",
+    "snippet": "Sri Lanka lifted a six-week lockdown Friday as COVID-19 cases and deaths decline but will restrict people's movement for work and obtaining essentials only \u2014 which are running short in the island country amid economic worries.",
+    "url": "https://news.yahoo.com/sri-lanka-lifts-6-week-042502773.html",
+    "url_hash": "9a5439ab15c09067b1bb86e973bff0bc",
+    "ut": 1633061376,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-week",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
     "source": "apnews.com",
     "snippet": "Sri Lanka lifted a six-week lockdown Friday as COVID-19 cases and deaths decline but will restrict people's movement for work and obtaining essentials only \u2014 which are running short in the island country amid economic worries.",
     "url": "https://apnews.com/9c4911a67db59f2a239f7cf730c42d92",
@@ -1712,6 +1747,41 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Sri Lanka central bank relaxes some controls, exporters forced to convert more dollars",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has relaxed some foreign trade and exchange controls triggered by money printed to keep rates down, but Central Bank Governor Nivard Cabraal said exporters will be asked to convert a higher share of receipts.",
+    "url": "https://economynext.com/sri-lanka-central-bank-relaxes-some-controls-exporters-forced-to-convert-more-dollars-86643/",
+    "url_hash": "4265245f480e194fe6b37815935fb036",
+    "ut": 1633072167,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Sri Lanka central bank relaxes some controls, exporters forced convert more dollars",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sri Lanka has relaxed some foreign trade and exchange controls triggered by money printed to keep rates down, but Central Bank Governor Nivard Cabraal said exporters will be asked to convert a higher share of receipts. Exporters who now ...",
@@ -1808,6 +1878,138 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "NDB Bank Celebrates World Children's Day with NDB Shilpa Children's Savings Account",
+    "source": "www.dailymirror.lk",
+    "snippet": "In celebration of World Children's Day, NDB Bank, the pioneer in banking has once again reintroduced the art of savings to our future generation via the Shilpa Children's Savings Account. ..",
+    "url": "https://www.dailymirror.lk/other/NDB-Bank-Celebrates-World-Childrens-Day-with-NDB-Shilpa-Childrens-Savings-Account/117-221572",
+    "url_hash": "989ad5b492dfe9425ec75121dcb3c7d7",
+    "ut": 1633075742,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "World Children's Day",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NDB Bank",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Shilpa Children's Savings Account",
+        "start_end": [
+          28,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Online payment can be made for sand, gravel, soil transport permit from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Geological Survey and Mines Bureau (GSMB) has facilitated online payment for applying for sand, gravel and soil transport permit from today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Online-payment-can-be-made-for-sand-gravel-soil-transport-permit-from-today/108-221571",
+    "url_hash": "40074ac9e317090ba987e19c5358914f",
+    "ut": 1633075742,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Geological",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau (GSMB",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Colombo back to normal...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Colombo became a busy city once again with the easing of lockdown today.Transport services are functioning as normal while shops and offices are also operating. Pix by Pradeep Dilrukshana ..",
+    "url": "https://www.dailymirror.lk/caption_story/Colombo-back-to-normal/110-221573",
+    "url_hash": "139999dc0f07b44a9e49ec459321fcda",
+    "ut": 1633075742,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dilrukshana",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka cenbank unveils six-month plan to stabilise economy",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lanka's central bank governor unveiled on Friday a six-month roadmap for putting the economy back on track and assured global investors and lenders of timely debt repayments while maintaining macroeconomic stability.",
+    "url": "https://www.reuters.com/article/sri-lanka-economy-roadmap/sri-lanka-cenbank-unveils-six-month-plan-to-stabilise-economy-idUSL4N2QX1SE",
+    "url_hash": "e15c9cd139c05f3ca2e5f57c1cd63fb0",
+    "ut": 1633075751,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-month",
+        "start_end": [
+          10,
+          13
         ]
       }
     ]
@@ -1945,6 +2147,145 @@
         "start_end": [
           41,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "HealthX super app A lockdown idea that is revolutionizing the way Sri Lankans access healthcare",
+    "source": "menafn.com",
+    "snippet": "HealthX, Sri Lanka's first-ever healthcare super app, has made remarkable progress since its creation during 1st wave of the COVID-19 pandemic-ind",
+    "url": "https://menafn.com/1102898550/HealthX-super-app-A-lockdown-idea-that-is-revolutionizing-the-way-Sri-Lankans-access-healthcare",
+    "url_hash": "a79c80b3313f3e06c1e6b2c1b1d650a2",
+    "ut": 1633081052,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "1st",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts six-week virus lockdown amid economic worries",
+    "source": "www.msn.com",
+    "snippet": "Despite the end of the lockdown and a curfew, strict restrictions remain. People are only allowed out for work or to buy essentials.",
+    "url": "https://www.msn.com/en-gb/news/world/sri-lanka-lifts-six-week-virus-lockdown-amid-economic-worries/ar-AAP1MS0",
+    "url_hash": "4bd8bd821a54f0383a1342614d20ce0c",
+    "ut": 1633081151,
+    "ent_info_list": []
+  },
+  {
+    "date": "2021-10-01",
+    "title": "CBK says child protection in Sri Lanka should not be politicised",
+    "source": "colombogazette.com",
+    "snippet": "Former President Chandrika Bandaranaike Kumaratunga says child protection in Sri Lanka should not be politicised. Mrs Kumaratunga said that Government authorities should resolve the child protection crisis effectively without politicising matters,",
+    "url": "https://colombogazette.com/2021/10/01/cbk-says-child-protection-in-sri-lanka-should-not-be-politicised/",
+    "url_hash": "5720961a1f883b29a3ec1be5aa3ec3cb",
+    "ut": 1633081712,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Chandrika Bandaranaike",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kumaratunga",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mrs Kumaratunga",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "World Bank approves $500 million loan for Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The World Bank's Board of Executive Directors have approved $500 million in financing for Sri Lanka to provide safe, climate-resilient roads to connect agricultural supply chains through the Inclusive Connectivity and Development Project. This project is ...",
+    "url": "https://colombogazette.com/2021/10/01/world-bank-approves-500-million-loan-for-sri-lanka/",
+    "url_hash": "df23adb2570154313e20109a009f7285",
+    "ut": 1633082672,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Bank's",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board of Executive Directors",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$500 million",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Inclusive Connectivity and Development Project",
+        "start_end": [
+          32,
+          38
         ]
       }
     ]
