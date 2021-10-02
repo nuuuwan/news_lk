@@ -1135,6 +1135,49 @@
   {
     "date": "2021-10-01",
     "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
+    "source": "krdo.com",
+    "snippet": "By BHARATHA MALLAWARACHI Associated Press COLOMBO, Sri Lanka (AP) \u2014 Sri Lanka has lifted a six-week national lockdown as COVID-19 cases and deaths decline but movement restrictions remain in place. Th",
+    "url": "https://krdo.com/news/ap-national-business/2021/09/30/sri-lanka-lifts-6-week-virus-lockdown-amid-economic-worries-2/",
+    "url_hash": "e1a82d342d34b5bbc88b73a0e374e20b",
+    "ut": 1633061329,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AP",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-week",
+        "start_end": [
+          18,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
     "source": "news.yahoo.com",
     "snippet": "Sri Lanka lifted a six-week lockdown Friday as COVID-19 cases and deaths decline but will restrict people's movement for work and obtaining essentials only \u2014 which are running short in the island country amid economic worries.",
     "url": "https://news.yahoo.com/sri-lanka-lifts-6-week-042502773.html",
@@ -2859,6 +2902,41 @@
         "start_end": [
           15,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "CBK says child protection in Sri Lanka should not be politicised",
+    "source": "menafn.com",
+    "snippet": "Former President Chandrika Bandaranaike Kumaratunga says child protection in Sri Lanka should not be politicised.   Mrs K",
+    "url": "https://menafn.com/1102902546/CBK-says-child-protection-in-Sri-Lanka-should-not-be-politicised&source=30",
+    "url_hash": "e9157d7ba898e9c0546c37bc1fcbf2bf",
+    "ut": 1633086539,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Chandrika Bandaranaike",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kumaratunga",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
         ]
       }
     ]
@@ -5080,6 +5158,57 @@
         "start_end": [
           8,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Sri Lanka and Thailand hold high-powered talks to explore mutually beneficial investment corridors",
+    "source": "www.dailymirror.lk",
+    "snippet": "To further enhance and expand investment corridors between Sri Lanka and Thailand, the Embassy and Permanent Mission of Sri Lanka in Bangkok, ..",
+    "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-and-Thailand-hold-high-powered-talks-to-explore-mutually-beneficial-investment-corridors/273-221621",
+    "url_hash": "3b793294d2301d52fa99fb3be0903c2c",
+    "ut": 1633118905,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Embassy",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Permanent Mission of Sri Lanka",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangkok",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]

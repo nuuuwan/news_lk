@@ -283,5 +283,150 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "World Bank approves $500 million loan for Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "The World Bank's Board of Executive Directors have approved $500 million in financing for Sri Lanka to provide safe, climate-resilient ro",
+    "url": "https://menafn.com/1102902545/World-Bank-approves-500-million-loan-for-Sri-Lanka&source=30",
+    "url_hash": "2b36a8d9c96bb7924d9389ec77ec0cb7",
+    "ut": 1633146419,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The World Bank's",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board of Executive Directors",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$500 million",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "Foreign Secretary Shringla begins 4-day visit to Sri Lanka",
+    "source": "www.tribuneindia.com",
+    "snippet": "Foreign Secretary Harsh Vardhan Shringla on Saturday began his four-day visit to Sri Lanka during which he will meet the top leadership, including President Gotabaya Rajapaksa and Prime Minister Mahinda Rajapaksa,",
+    "url": "https://www.tribuneindia.com/news/nation/foreign-secretary-shringla-begins-4-day-visit-to-sri-lanka-319156",
+    "url_hash": "8a5e14ffa4f03773805aefbf9a845a00",
+    "ut": 1633146695,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Harsh Vardhan Shringla",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-day",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "Harsh Vardhan Shringla starts 4-day Sri Lanka visit today",
+    "source": "www.tribuneindia.com",
+    "snippet": "Foreign Secretary Harsh Vardhan Shringla will pay a four-day visit to Sri Lanka beginning on Saturday to take stock of the overall ties and review the progress of certain ongoing bilateral projects.",
+    "url": "https://www.tribuneindia.com/news/world/harsh-vardhan-shringla-starts-4-day-sri-lanka-visit-today-318927",
+    "url_hash": "0755701aa17242c7a09cb88d9135f0fa",
+    "ut": 1633146995,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Harsh Vardhan Shringla",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-day",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
   }
 ]
