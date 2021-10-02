@@ -1,6 +1,57 @@
 [
   {
     "date": "2021-10-02",
+    "title": "The Latest: Illinois pays $443M in pandemic rental relief",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "J.B. Pritzker's office says more than $443 million in emergency rental assistance has been paid on behalf of 49,100 state households through the Illinois Rental Payment Program. It provides up to $25,",
+    "url": "https://www.stamfordadvocate.com/news/article/The-Latest-Pakistan-bans-unvaccinated-from-16501177.php",
+    "url_hash": "b2d85b9ce9fd155ef09035d3bd686261",
+    "ut": 1633133813,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "J.B. Pritzker's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "more than $443 million",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "49,100",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Illinois Rental Payment Program",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "up to $25",
+        "start_end": [
+          32,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
     "title": "US donates another 800,000 doses of Pfizer vaccines to Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "Nearly 800,000 doses of Pfizer-BioNTech vaccines arrived in Sri Lanka this week to continue the fight against COVID-19, a gift from the American people. These safe and effective vaccines, donated by the United States and delivered via COVAX,",
@@ -54,6 +105,162 @@
         "start_end": [
           36,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "Sri Lanka gets 800,000 free Pfizer vaccines from US for kids",
+    "source": "economynext.com",
+    "snippet": "About 800,000 Pfizer Coronavirus vaccines had landed in Sri Lanka to bolster the island's vaccination efforts which can be used on young children, as part of a US program to donate 1.1 billion vaccines to countries in need.",
+    "url": "https://economynext.com/sri-lanka-gets-800000-free-pfizer-vaccines-from-us-for-kids-86670/",
+    "url_hash": "c21d2ce7645c2e01712a1a0b8ce2e19c",
+    "ut": 1633137421,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "About 800,000",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pfizer Coronavirus",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1.1 billion",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "Sri Lankan workers and poor hit by escalating costs of essential items",
+    "source": "www.wsws.org",
+    "snippet": "President Gotabhaya Rajapakse's declaration of a state of emergency on August 30, had nothing to do with ending shortages and price hikes in rice, sugar and other essentials.",
+    "url": "https://www.wsws.org/en/articles/2021/10/02/slpr-o02.html",
+    "url_hash": "c2b4f16d786929ef8d5b337655800f0c",
+    "ut": 1633137845,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabhaya Rajapakse",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "August 30",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "US donates another 800,000 doses of Pfizer vaccines to Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Nearly 800,000 doses of Pfizer-BioNTech vaccines arrived in Sri Lanka this week to continue the fight against COVID-19, a gift from the A",
+    "url": "https://menafn.com/1102902288/US-donates-another-800000-doses-of-Pfizer-vaccines-to-Sri-Lanka",
+    "url_hash": "ae4112fc847ee1b5ac86c0c1218dc177",
+    "ut": 1633140365,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Nearly 800,000",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pfizer-BioNTech",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "Unilever Sri Lanka's Horana Factory Recruits First Ever Female Workforce",
+    "source": "colombogazette.com",
+    "snippet": "With gender equality playing an important role in the workplace today, Unilever Sri Lanka, one of the largest fast-moving consumer goods companies in the country, reached another milestone in its jour",
+    "url": "https://colombogazette.com/2021/10/02/unilever-sri-lankas-horana-factory-recruits-first-ever-female-workforce/",
+    "url_hash": "0cc104ae3641ef6bd77a0c84b7293c7d",
+    "ut": 1633140785,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Unilever Sri Lanka",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
