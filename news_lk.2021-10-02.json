@@ -1,0 +1,61 @@
+[
+  {
+    "date": "2021-10-02",
+    "title": "US donates another 800,000 doses of Pfizer vaccines to Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Nearly 800,000 doses of Pfizer-BioNTech vaccines arrived in Sri Lanka this week to continue the fight against COVID-19, a gift from the American people. These safe and effective vaccines, donated by the United States and delivered via COVAX,",
+    "url": "https://colombogazette.com/2021/10/02/us-donates-another-800000-doses-of-pfizer-vaccines-to-sri-lanka/",
+    "url_hash": "60d5d206a2084fc77c1dcf4b4bfed567",
+    "ut": 1633136844,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Nearly 800,000",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pfizer-BioNTech",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "American",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
+  }
+]

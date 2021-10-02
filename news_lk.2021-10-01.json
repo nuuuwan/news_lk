@@ -468,6 +468,49 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Sri Lanka lifts 6-week virus lockdown amid economic worries",
+    "source": "wpta21.com",
+    "snippet": "Sri Lanka has lifted a six-week national lockdown as COVID-19 cases and deaths decline but movement restrictions remain in place. The lockdown was imposed Aug 20 and then extended three times as Sri L",
+    "url": "https://wpta21.com/2021/10/01/sri-lanka-lifts-6-week-virus-lockdown-amid-economic-worries/",
+    "url_hash": "5ddf33c230c4b329eeaf3aacff16ba87",
+    "ut": 1633058955,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six-week",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Sri L",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "India Foreign Secretary will be in Sri Lanka from October 2 to 5",
     "source": "menafn.com",
     "snippet": "Indian Foreign Secretary Harsh Vardhan Shringla is scheduled to be in Colombo between October 2 and 5, The Hindu s",
@@ -3428,6 +3471,57 @@
   },
   {
     "date": "2021-10-01",
+    "title": "COVID-19 death toll surges to 12,964 with 58 more deaths",
+    "source": "www.dailymirror.lk",
+    "snippet": "A total of 58 more COVID-19 related deaths that occurred yesterday (30) were confirmed by the Director-General of Health Services today pushing the death toll to 12,964. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-19-death-toll-surges-to-12-964-with-58-more-deaths/108-221578",
+    "url_hash": "51750671bef6866418a3523435ba72de",
+    "ut": 1633091331,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "58",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12,964",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Sri Lanka makes strong bid to save GSP during talks with EU",
     "source": "colombogazette.com",
     "snippet": "Sri Lanka today made a strong bid to save the GSP Plus trade concession, during talks with a European Union (EU) delegation. Foreign Minister Prof. G.L. Peiris welcomed the constructive, cordial and r",
@@ -5174,6 +5268,41 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Life and times of Sinhala Cinema's Super Hero Gamini Fonseka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Gamini Fonseka was the uncrowned king of Sinhala cinema for nearly three decades.He was the first and arguably the sole super star of Sinhala cinema. ..",
+    "url": "https://www.dailymirror.lk/recomended-news/Life-and-times-of-Sinhala-Cinemas-Super-Hero-Gamini-Fonseka/277-221628",
+    "url_hash": "4e55e496925d9140bf3da6ef3330d471",
+    "ut": 1633123731,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gamini Fonseka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly three decades",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
