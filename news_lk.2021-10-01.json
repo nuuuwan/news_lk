@@ -2161,6 +2161,33 @@
   },
   {
     "date": "2021-10-01",
+    "title": "The Latest: WH: Merck pill 'good news,' vaccine still key",
+    "source": "www.conchovalleyhomepage.com",
+    "snippet": "WASHINGTON \u2014 Biden administration officials say a new pill that could provide an easier, effective way to treat COVID 19 is good news, while adding vaccination remains the key to controlling the",
+    "url": "https://www.conchovalleyhomepage.com/news/the-latest-pakistan-bans-unvaccinated-from-domestic-flights/",
+    "url_hash": "10d28fcebb3afa582bfce0e7b380b0ea",
+    "ut": 1633075714,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden",
+        "start_end": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "NDB Bank Celebrates World Children's Day with NDB Shilpa Children's Savings Account",
     "source": "www.dailymirror.lk",
     "snippet": "In celebration of World Children's Day, NDB Bank, the pioneer in banking has once again reintroduced the art of savings to our future generation via the Shilpa Children's Savings Account. ..",
@@ -2797,6 +2824,41 @@
         "start_end": [
           9,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "The Latest: Merck: Experimental pill cuts effects of virus",
+    "source": "www.stltoday.com",
+    "snippet": "WASHINGTON \u2014 Pharmaceutical company Merck says its experimental COVID-19 pill reduced hospitalizations and deaths by half in people recently infected with the coronavirus.",
+    "url": "https://www.stltoday.com/news/world/the-latest-russias-virus-deaths-hit-record-for-4th-day/article_1a2f2303-4a62-56d8-a3f5-e70da6a2ddf7.html",
+    "url_hash": "28b88c0d057c5c70f930f3fd3b429508",
+    "ut": 1633086498,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "WASHINGTON",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Merck",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          15,
+          16
         ]
       }
     ]
@@ -4999,6 +5061,25 @@
         "start_end": [
           1,
           3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "Impairments on dollar bonds to be moderate at BOC despite hefty exposure, says ICRA Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Further provisions against the dollar bonds held by Bank of Ceylon (BOC) remain moderate even in case of another sovereign downgrade but the bank may face renewed concerns of asset quality on its loans with the pandemic's resurgence,",
+    "url": "https://www.dailymirror.lk/business-news/Impairments-on-dollar-bonds-to-be-moderate-at-BOC-despite-hefty-exposure-says-ICRA-Lanka/273-221617",
+    "url_hash": "cf3a0fbeeeb78f7213da5a0c2fb41854",
+    "ut": 1633118880,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Bank of Ceylon",
+        "start_end": [
+          8,
+          11
         ]
       }
     ]
