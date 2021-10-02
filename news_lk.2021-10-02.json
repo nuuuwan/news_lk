@@ -1,6 +1,73 @@
 [
   {
     "date": "2021-10-02",
+    "title": "Avishka on Sri Lanka Under-19 prospects",
+    "source": "island.lk",
+    "snippet": "Reemus Fernando Sri Lanka Under 19 squad comprising 26 players concluded a three weeks long training camp on Wednesday. It was the first training opportunity for junior cricketers after the Covid 19 pandemic hampered sports for more than a year.",
+    "url": "https://island.lk/avishka-on-sri-lanka-under-19-prospects/",
+    "url_hash": "741d5c27b538ae1d2c806980eec3fa73",
+    "ut": 1633133299,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Reemus Fernando Sri Lanka",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "19",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "26",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three weeks",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than a year",
+        "start_end": [
+          37,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
     "title": "The Latest: Illinois pays $443M in pandemic rental relief",
     "source": "www.stamfordadvocate.com",
     "snippet": "J.B. Pritzker's office says more than $443 million in emergency rental assistance has been paid on behalf of 49,100 state households through the Illinois Rental Payment Program. It provides up to $25,",
@@ -105,6 +172,65 @@
         "start_end": [
           36,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "Port seal before foreign secretary Harsh Shringla's Sri Lanka visit key to balance China",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "SLPA had this week signed an agreement with India's Adani Group to build a new terminal next to a Chinese-run jetty at the Colombo port. \"The agreement worth more than $700 million is the largest foreign investment ever in the port sector of Sri Lanka,",
+    "url": "https://economictimes.indiatimes.com/news/india/port-seal-before-foreign-secretary-harsh-shringlas-sri-lanka-visit-key-to-balance-china/articleshow/86697862.cms",
+    "url_hash": "f063036376ac2f9cd84c734b4b9a096f",
+    "ut": 1633136899,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Adani Group",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "more than $700 million",
+        "start_end": [
+          33,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          49,
+          51
         ]
       }
     ]
@@ -286,6 +412,57 @@
   },
   {
     "date": "2021-10-02",
+    "title": "Foreign Secretary Harsh Vardhan Shringla Begins 4-Day Visit To Sri Lanka",
+    "source": "www.ndtv.com",
+    "snippet": "Foreign Secretary Harsh Vardhan Shringla began his 4-day visit to Sri Lanka during which he will meet the top leadership, including President Gotabaya Rajapaksa and Prime Minister Mahinda Rajapaksa, and review the bilateral ties.",
+    "url": "https://www.ndtv.com/india-news/foreign-secretary-harsh-vardhan-shringla-begins-4-day-visit-to-sri-lanka-2561089",
+    "url_hash": "da5ae6f936657c6086a22e903d84ee67",
+    "ut": 1633144099,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Harsh Vardhan Shringla",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "4-day",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
     "title": "World Bank approves $500 million loan for Sri Lanka",
     "source": "menafn.com",
     "snippet": "The World Bank's Board of Executive Directors have approved $500 million in financing for Sri Lanka to provide safe, climate-resilient ro",
@@ -425,6 +602,92 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "Unilever Sri Lanka's Horana Factory Recruits First Ever Female Workforce",
+    "source": "menafn.com",
+    "snippet": "With gender equality playing an important role in the workplace today, Unilever Sri Lanka, one of the largest fast-moving cons",
+    "url": "https://menafn.com/1102902653/Unilever-Sri-Lankas-Horana-Factory-Recruits-First-Ever-Female-Workforce",
+    "url_hash": "f5a508d1846d6347fe96676c24637fb8",
+    "ut": 1633150480,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Unilever Sri Lanka",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-02",
+    "title": "Indian foreign secretary to start four-day visit to Sri Lanka 2 October",
+    "source": "www.southasiamonitor.org",
+    "snippet": "In a bid to take stock of bilateral ties and clear any misunderstandings, Indian Foreign Secretary Harsh Vardhan Shringla will begin a four-day visit to Sri Lanka on Saturday to \"take stock of the ove",
+    "url": "https://www.southasiamonitor.org/index.php/region/indian-foreign-secretary-start-four-day-visit-sri-lanka-2-october",
+    "url_hash": "e2e96e8253f140f7332c7713305d04e7",
+    "ut": 1633150879,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harsh Vardhan Shringla",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-day",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
