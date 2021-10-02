@@ -4763,6 +4763,49 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Energy Minister warns New Fortress LNG deal could impede SL's prospects in gas and oil production",
+    "source": "www.dailymirror.lk",
+    "snippet": "Amid the alleged moves to hand over the monopoly to supply LNG for the electricity generation of the country to the US-based New Fortress Energy (NFE), ..",
+    "url": "https://www.dailymirror.lk/business-news/Energy-Minister-warns-New-Fortress-LNG-deal-could-impede-SLs-prospects-in-gas-and-oil-production/273-221619",
+    "url_hash": "4d1fdb4fcb2af7cabe3d9d4332de8b2b",
+    "ut": 1633115522,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "LNG",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Fortress Energy",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NFE",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "President and the Tamil Diaspora",
     "source": "www.dailymirror.lk",
     "snippet": "President Gotabaya Rajapaksa seems to have kept in mind the threat posed by the resolution on Sri Lanka passed by the United Nations Human Rights Council (UNHRC) in March, ..",
@@ -5051,6 +5094,41 @@
   },
   {
     "date": "2021-10-01",
+    "title": "Spotlight on Attorney General's Department and Public Service Commission",
+    "source": "www.dailymirror.lk",
+    "snippet": "Certain acts by the Attorney General's Department and the Public Service\u00a0Commission during the past few months to promote certain officers of the department bypassing the Scheme of Recruitment has given rise to grave concerns of conflict of interest.",
+    "url": "https://www.dailymirror.lk/expose/Spotlight-on-Attorney-Generals-Department-and-Public-ServiceCommission/333-221631",
+    "url_hash": "f0946d08028aa8603f5a02f5224cdefc",
+    "ut": 1633122722,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Public Service\u00a0Commission",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past few months",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Scheme of Recruitment",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
     "title": "Donation from Amity Foundation in China",
     "source": "www.dailymirror.lk",
     "snippet": "The Amity Foundation in China has recently donated essential equipment worth Rs. One million to the following hospitals, upon the request of the Sri Lanka-China society to assist the country in the battle against COVID-19 Pandemic.",
@@ -5139,6 +5217,57 @@
         "start_end": [
           18,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-10-01",
+    "title": "The Latest: Illinois pays $443M in pandemic rental relief",
+    "source": "www.stamfordadvocate.com",
+    "snippet": "J.B. Pritzker's office says more than $443 million in emergency rental assistance has been paid on behalf of 49,100 state households through the Illinois Rental Payment Program. It provides up to $25,",
+    "url": "https://www.stamfordadvocate.com/news/article/The-Latest-Pakistan-bans-unvaccinated-from-16501177.php",
+    "url_hash": "b2d85b9ce9fd155ef09035d3bd686261",
+    "ut": 1633132283,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "J.B. Pritzker's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "more than $443 million",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "49,100",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Illinois Rental Payment Program",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "up to $25",
+        "start_end": [
+          32,
+          36
         ]
       }
     ]
