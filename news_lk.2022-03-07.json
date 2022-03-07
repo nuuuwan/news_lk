@@ -6625,6 +6625,92 @@
   },
   {
     "date": "2022-03-07",
+    "title": "CB devalues the rupee against USD to Rs 230",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Central Bank of Sri Lanka has devalued the rupee against the US dollar to Rs.230 with immediate effect, the bank announced a short while ago. ..",
+    "url": "https://www.dailymirror.lk/latest_news/CB-devalues-the-rupee-against-USD-to-Rs-230/342-232536",
+    "url_hash": "832a945cbb1960a462735c186215734b",
+    "ut": 1646669344,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "10 schools to be elevated as national schools tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "In view of increasing the number of national schools in the country to 495, another ten schools are to be announced as national schools tomorrow under the 'Thousand National Schools' programme, the Education Ministry said. They said the ten schools will be ...",
+    "url": "https://www.dailymirror.lk/latest_news/10-schools-to-be-elevated-as-national-schools-tomorrow/342-232532",
+    "url_hash": "ca1900874f25975cd2fd71a85039e4e4",
+    "ut": 1646669344,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "495",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Schools'",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Education Ministry",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "Sri Lanka devalues to the rupee to at least 230 to dollar",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sri Lanka has devalued the currency to 230 to the US dollar after printing money though multiple means which were making outflows greater than inflows, creating forex shortages. The central bank said it is allowing \"greater flexibility in ...",
@@ -6705,6 +6791,159 @@
         "start_end": [
           37,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Governors instruct officials to reduce power consumption by 20% in all provinces",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Provincial Governors instructed the officials of the relevant government agencies to reduce the consumption of electricity in public places in all provinces by 20%. It was announced following a special discussion held today through Zoom Technology over ...",
+    "url": "https://www.dailymirror.lk/latest_news/Governors-instruct-officials-to-reduce-power-consumption-by-20-in-all-provinces/342-232533",
+    "url_hash": "d0e30624d39fe0e22a1b64a1fd242c48",
+    "ut": 1646672944,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Provincial Governors",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "20%",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Zoom Technology",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Cardinal seeks UNHRC backing to unearth truth behind Easter attacks",
+    "source": "colombogazette.com",
+    "snippet": "Cardinal Malcolm Ranjith today called on the UN Human Rights Council (UNHRC) in Geneva to support moves to unearth the truth behind the Easter Sunday attacks. Addressing the Council in a recorded message,",
+    "url": "https://colombogazette.com/2022/03/07/cardinal-seeks-unhrc-backing-to-unearth-truth-behind-easter-attacks/",
+    "url_hash": "e3d750e31fea59d362ff92851bd4ae12",
+    "ut": 1646673873,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Malcolm Ranjith",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the UN Human Rights Council",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Sri Lanka's president faces protest from cabinet colleague",
+    "source": "www.gg2.net",
+    "snippet": "SRI LANKA'S water supply minister Vasudeva Nanayakkara on Monday (7) said he will boycott cabinet meetings to protest against the sacking of his two colleagues by president Gotabaya Rajapaksa during a snap cabinet reshuffle last week.",
+    "url": "https://www.gg2.net/sri-lankas-president-faces-protest-from-cabinet-colleague/",
+    "url_hash": "acaa308290e8a1868a15b3f9a805960c",
+    "ut": 1646674992,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Vasudeva Nanayakkara",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
