@@ -1811,6 +1811,49 @@
   },
   {
     "date": "2022-03-06",
+    "title": "2022 Best Travel Destinations",
+    "source": "www.linkedin.com",
+    "snippet": "ANTIGUA AND BARBUDA Not only is the twin-island nation blessed with miles and miles of gorgeous white and pink sands (Antigua is known for having a beach for every day of the year), but it also has the Caribbean's longest-running Sunday celebration,",
+    "url": "https://www.linkedin.com/pulse/2022-best-travel-destinations-hatim-khan",
+    "url_hash": "d444fe0bd036bb49c79cec2250605364",
+    "ut": 1646575864,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Antigua",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "every day of the year",
+        "start_end": [
+          31,
+          36
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Caribbean",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-06",
     "title": "Althaf Nawaz reporting from Batticaloa",
     "source": "dailynews.lk",
     "snippet": "Northern Province advanced to the final of the Ceylon Provincial League Tournament being played for the 'Independence Trophy' on a higher goal aggregate after a nil-all draw against Eastern Province...",

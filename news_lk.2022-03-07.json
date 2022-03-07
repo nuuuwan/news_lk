@@ -2355,6 +2355,57 @@
   },
   {
     "date": "2022-03-07",
+    "title": "KPMG,PwC to exit Russia",
+    "source": "www.dailymirror.lk",
+    "snippet": "Accounting firms KPMG and PricewaterhouseCoopers LLP (PwC) announced this Sunday their decision to exit Russia due its move to invade Ukraine. ..",
+    "url": "https://www.dailymirror.lk/business_247/KPMG-PwC-to-exit-Russia/395-232504",
+    "url_hash": "fbf9c521862da28b6149baaa9db9306c",
+    "ut": 1646629855,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "KPMG",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PricewaterhouseCoopers LLP",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "Merc-Stop Expands and Elevates Visual Brand Identity",
     "source": "www.dailymirror.lk",
     "snippet": "Having commenced its operations in 2016, Merc-Stop has become a synonymous name with reliable European Auto-Care in Sri Lanka. Over the past 5 years, Merc-Stop has grown ..",
@@ -3719,6 +3770,49 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Causing disturbance to public: Case against Wimal and others fixed for trial",
+    "source": "www.dailymirror.lk",
+    "snippet": "A case filed against National Freedom Front (NFF) leader Wimal Weerawansa and six other party activists for allegedly providing leadership to a protest which blocks the main roads at Bauddhaloka Mawatha,",
+    "url": "https://www.dailymirror.lk/breaking_news/Causing-disturbance-to-public-Case-against-Wimal-and-others-fixed-for-trial/108-232513",
+    "url_hash": "007e446a9f0aafb0732fb02b70b55605",
+    "ut": 1646640655,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National Freedom Front",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wimal Weerawansa",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bauddhaloka Mawatha",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "President instructs to name Nadungamuwa Raja as a National Treasure",
     "source": "www.dailynews.lk",
     "snippet": "President Gotabaya Rajapaksa today instructed the Buddhasasana, Religious and Cultural Affairs Ministry Secretary Prof. Kapila Gunawardena to name the deceased tusker Nadungamuwe Raja who carried the casket containing the Sacred Tooth Relic,",
@@ -4205,6 +4299,84 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Ex-CID chief Ravi Seneviratne files FR to prevent being arrested by CID",
+    "source": "www.dailymirror.lk",
+    "snippet": "Senior DIG Ravi Seneviratne has filed a Fundamental Rights petition in Supreme Court seeking an order preventing CID from arresting him in respect of the allegations mentioned at the Kuliyapitiya Magistrate's Court.",
+    "url": "https://www.dailymirror.lk/breaking_news/Ex-CID-chief-Ravi-Seneviratne-files-FR-to-prevent-being-arrested-by-CID/108-232520",
+    "url_hash": "b0828b044c8cdba5cfc5ea57f033bcf7",
+    "ut": 1646644255,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ravi Seneviratne",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Fundamental Rights",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CID",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Kuliyapitiya Magistrate's Court",
+        "start_end": [
+          28,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Basil orders LG heads to switch off all street lamps to conserve electricity",
+    "source": "www.dailymirror.lk",
+    "snippet": "Finance Minister Basil Rajapaksa has instructed all Local Government heads in the country to switch off all the street lamps in their respective Local Government areas until March 31 so as to conserve electricity.",
+    "url": "https://www.dailymirror.lk/breaking_news/Basil-orders-LG-heads-to-switch-off-all-street-lamps-to-conserve-electricity/108-232517",
+    "url_hash": "b01e8ff8b0083264ab512c53e2788d59",
+    "ut": 1646644255,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 31",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "SriLankan Airlines partners with Manta Air",
     "source": "www.dailymirror.lk",
     "snippet": "National carrier SriLankan Airlines announced its partnership with Manta Air today, a move which will connect passengers from Gan International Airport to Koodhdhoo City in Gaafu Alifu Atoll of Southern Maldives. SriLankan became the first airline to ...",
@@ -4527,6 +4699,49 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Cardinal urges UNHRC to ensure impartial probe into Easter Sunday attacks",
+    "source": "www.dailymirror.lk",
+    "snippet": "Archbishop of Colombo Cardinal Malcolm Ranjith today requested the UNHRC to support in ensuring an impartial investigation into the Easter Sunday attacks. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Cardinal-urges-UNHRC-to-ensure-impartial-probe-into-Easter-Sunday-attacks/108-232522",
+    "url_hash": "afc2c1a3d65094af72c8d8daac2a3eed",
+    "ut": 1646647855,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Malcolm Ranjith",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNHRC",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "Submarine Power Cable Market to Reach US$ 11,829.01 million, Globally, by 2028 at 6.4% CAGR: The Insight Partners",
     "source": "www.digitaljournal.com",
     "snippet": "Submarine Power Cable Market report focuses on providing a market overview, which interprets value chain structure, industrial environment, regional",
@@ -4742,6 +4957,127 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Dress To Impress With Nils",
+    "source": "www.dailymirror.lk",
+    "snippet": "Nils has led an inspiring journey since it opened its doors in 2009. Her passion long ignited, co-founder Sithumini Prematunge launched Nil's monumental showroom in Nugegoda, which paved the way for an incredible tale that's bound to wow aspiring designers to follow their own.",
+    "url": "https://www.dailymirror.lk/press-releases/Dress-To-Impress-With-Nils/335-232526",
+    "url_hash": "5e089221525f259f974d4e938f914c75",
+    "ut": 1646651455,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2009",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sithumini Prematunge",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nil",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nugegoda",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Sri Lankan shares fall as higher crude prices drive inflation worries",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lankan shares fell over 2% on Monday in broad based selling, as worries over inflationary pressures from surging crude prices hit markets globally.",
+    "url": "https://www.reuters.com/markets/stocks/sri-lankan-shares-fall-higher-crude-prices-drive-inflation-worries-2022-03-07/",
+    "url_hash": "2d708fd0f8f8c6051d1bd1b725d1600d",
+    "ut": 1646651464,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "over 2%",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Covid-19: Sri Lanka reports 08 new deaths, 121 recoveries",
+    "source": "www.adaderana.lk",
+    "snippet": "The Director General of Health Services has confirmed another eight coronavirus related deaths for March 06, increasing the country's death toll due to the pandemic to 16,339",
+    "url": "http://www.adaderana.lk/news/81037/covid-19-sri-lanka-reports-08-new-deaths-121-recoveries",
+    "url_hash": "e2ade1350bdc377cc591a740e42dae5d",
+    "ut": 1646651464,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "General of Health Services",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 06",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16,339",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "Sri Lanka bond yields move up, indicative dollar at Rs.202.04",
     "source": "economynext.com",
     "snippet": "Sri Lanka's bond yields rose marginally in dull trade on Monday (07), dealers said while the central bank's indicative spot rate too moved up. \"The market is dull. We can see whether the investors are active or not in the next auction\" a Colombo Based dealer told EconomyNext.",
@@ -4897,6 +5233,446 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "UK calls on SL to engage constructively with recommendations in resolution 46/1",
+    "source": "www.dailymirror.lk",
+    "snippet": "While raising concerns regarding the continued lack of progress on accountability and regret that there have been setbacks in several emblematic human rights cases, the United Kingdom called on the Government of Sri Lanka to engage constructively with the ...",
+    "url": "https://www.dailymirror.lk/breaking_news/UK-calls-on-SL-to-engage-constructively-with-recommendations-in-resolution-461/108-232519",
+    "url_hash": "89e72f0eb8edc108e2101a1ea4896a1b",
+    "ut": 1646655055,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "the United Kingdom",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "SL's Largest cement factory declared open in Hambantota",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa and Prime Minister Mahinda Rajapaksa today inaugurated the cement manufacturing facility of Lanwa Sanstha Cement Corporation (Pvt) Ltd., the largest cement factory in the country, located in the Magampura Lanka Industrial Zone.",
+    "url": "https://www.dailymirror.lk/breaking_news/SLs-Largest-cement-factory-declared-open-in-Hambantota/108-232521",
+    "url_hash": "305f8e569f7e84aee0cf4cf11976f769",
+    "ut": 1646655055,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lanwa Sanstha Cement Corporation",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Magampura Lanka Industrial Zone",
+        "start_end": [
+          34,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Power-cut hours to be trimmed: PUCSL Chairman",
+    "source": "www.dailymirror.lk",
+    "snippet": "There is a tendency in reducing the number of power shedding hours by at least two hours with the presence of sufficient diesel and furnace oil and until we get enough rain, Public Utilities Commission of Sri Lanka (PUCSL) Chairman Janaka Rathnayaka said .",
+    "url": "https://www.dailymirror.lk/top_story/Power-cut-hours-to-be-trimmed-PUCSL-Chairman/155-232527",
+    "url_hash": "a5266b845927074dac3f4e01c54eae92",
+    "ut": 1646655055,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "at least two hours",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Public Utilities Commission",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janaka Rathnayaka",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Sri Lanka cardinal seeks UN probe into Easter massacre",
+    "source": "news.yahoo.com",
+    "snippet": "The head of Sri Lanka's Roman Catholic Church on Monday urged the United Nations to investigate the 2019 Easter Sunday bombings that killed 279 people, calling the massacre a \"political plot\".",
+    "url": "https://news.yahoo.com/sri-lanka-cardinal-seeks-un-114807783.html",
+    "url_hash": "56e343ef733624414b908b9d68f30415",
+    "ut": 1646655073,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Roman Catholic Church",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Easter Sunday",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "279",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Air Force gears to protect environment",
+    "source": "www.newsfirst.lk",
+    "snippet": "Under the directives by the Commander of the Air Force, Air Marshal Sudarshana Pathirana commenced the Sramadana campaign on a major - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2022/03/07/air-force-gears-to-protect-environment/",
+    "url_hash": "0777df8352ad98681a4e429e683a37fd",
+    "ut": 1646655077,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Air Force",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Air Marshal",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sudarshana Pathirana",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sramadana",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Sri Lanka cardinal seeks UN probe into Easter massacre",
+    "source": "www.msn.com",
+    "snippet": "The head of Sri Lanka's Roman Catholic Church on Monday urged the United Nations to investigate the 2019 Easter Sunday bombings that killed 279 people, calling the massacre a \"political plot\". \"However,",
+    "url": "https://www.msn.com/en-za/news/world/sri-lanka-cardinal-seeks-un-probe-into-easter-massacre/ar-AAUJ7ae",
+    "url_hash": "4afdaec6a428726d46e8e5c4fd33ab12",
+    "ut": 1646655090,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Roman Catholic Church",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Easter Sunday",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "279",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Cause for Dec.3 countrywide blackout will be out soon: PUCSL Chairman",
+    "source": "www.dailymirror.lk",
+    "snippet": "While holding public inquiry for the first time in the country, Public Utilities Commission of Sri Lanka (PUCSL) Chairman Janaka Rathnayaka said the cause for the countrywide blackout on December 3 will be reveled soon. Addressing media following the ...",
+    "url": "https://www.dailymirror.lk/latest_news/Cause-for-Dec-3-countrywide-blackout-will-be-out-soon-PUCSL-Chairman/342-232528",
+    "url_hash": "14754b14611afae5085ec781eb5371fc",
+    "ut": 1646655475,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Public Utilities Commission",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janaka Rathnayaka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December 3",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Vitalhub Announces Licensing Deal With West Suffolk NHS Foundation Trust",
+    "source": "www.digitaljournal.com",
+    "snippet": "VitalHub Corp. (the \"Company\" or \"VitalHub\") (TSX: VHI) is pleased to announce licensing deal of subsidiary Intouch with Health's (\"Intouch\") suite of patient flow solutions with West Suffolk NHS Foundation Trust (the \"Trust\" or \"West Suffolk\").",
+    "url": "https://www.digitaljournal.com/pr/vitalhub-announces-licensing-deal-with-west-suffolk-nhs-foundation-trust",
+    "url_hash": "c3c652da5ca7a22b31b4f9bc012b4aa4",
+    "ut": 1646656333,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VitalHub Corp.",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "VitalHub",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TSX",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VHI",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Intouch with Health's",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "West Suffolk NHS Foundation Trust",
+        "start_end": [
+          40,
+          45
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Trust",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "West Suffolk",
+        "start_end": [
+          52,
+          54
         ]
       }
     ]
