@@ -2950,6 +2950,81 @@
   },
   {
     "date": "2022-03-06",
+    "title": "Sri Lanka - Government misleads public on power cuts",
+    "source": "menafn.com",
+    "snippet": "The Government has misled the public by enforcing power cuts despite saying last week there will not be power cuts after 5th March. The Public Utilities Commission of Sri Lanka (PUCSL) announced today that scheduled power cuts will be enforced tomorrow (Monday).",
+    "url": "https://menafn.com/1103802977/Sri-Lanka-Government-misleads-public-on-power-cuts&source=19",
+    "url_hash": "096ef1c6a663b1d9e720494c7ce0ccb8",
+    "ut": 1646600944,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "5th March",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-06",
     "title": "Core Group notes Sri Lanka's progress in addressing key reforms limited",
     "source": "www.ft.lk",
     "snippet": "The Core Group on Sri Lanka while acknowledging first steps by Sri Lanka to address key reforms, noted that progress since Council resolution 46/1 is limited. ..",
