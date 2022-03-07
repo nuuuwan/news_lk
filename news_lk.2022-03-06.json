@@ -241,6 +241,89 @@
   },
   {
     "date": "2022-03-06",
+    "title": "Power interruption schedule for weekend announced",
+    "source": "www.adaderana.lk",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) has approved the request of Ceylon Electricity Board (CEB) for the power shedding schedule for Saturday (March 05) and Sunday (March 06)",
+    "url": "http://www.adaderana.lk/news/80981/power-interruption-schedule-for-weekend-announced",
+    "url_hash": "5b506318b46b173b5f5f247688d61519",
+    "ut": 1646546937,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Electricity Board",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEB",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 05",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 06",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-06",
     "title": "\ud83d\udcf8 75 PHOTOS: The latest around the world",
     "source": "www.bukedde.co.ug",
     "snippet": "In Sri Lanka, people stand in a queue to buy diesel fuel at a petrol ... Elsewhere in Indonesia, devotees parade \"ogoh-ogoh\" statues as part of a ritual in Denpasar, Bali island on Wednesday, ahead of \"Nyepi\", the day of silence which marks the Hindu ...",
@@ -1097,6 +1180,57 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-06",
+    "title": "Shane Warne's body prepared for autopsy ahead of repatriation",
+    "source": "www.globaltimes.cn",
+    "snippet": "VCG. Thai authorities were preparing Sunday to conduct an autopsy on the body of Australian cricket superstar Shane Warne, who died of a suspected heart attack,",
+    "url": "https://www.globaltimes.cn/page/202203/1254097.shtml",
+    "url_hash": "b7b311c7e019a12f9f6c04cdb6d08513",
+    "ut": 1646564932,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VCG",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Thai",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          18,
+          20
         ]
       }
     ]
@@ -2058,6 +2192,41 @@
         "start_end": [
           14,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-06",
+    "title": "Sri Lanka celebrates 25 years of Islamic banking and finance with top forum today",
+    "source": "www.ft.lk",
+    "snippet": "The Islamic banking and finance industry in Sri Lanka celebrates a very significant milestone - 25 years since its introduction, albeit informally, in February 1997. ..",
+    "url": "https://www.ft.lk/financial-services/Sri-Lanka-celebrates-25-years-of-Islamic-banking-and-finance-with-top-forum-today/42-731554",
+    "url_hash": "7884078d6380bd9bb3a47cfaa2c1a1d5",
+    "ut": 1646597346,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February 1997",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]

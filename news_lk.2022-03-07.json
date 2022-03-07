@@ -1,6 +1,25 @@
 [
   {
     "date": "2022-03-07",
+    "title": "Inequality and fallacies in the law - EDITORIAL",
+    "source": "www.dailymirror.lk",
+    "snippet": "'Equality before law means, that among equals the law should be equal and should be equally administered, that like should be treated alike. Sadly this description is not always followed in international politics or even in domestic and day-to-day affairs.",
+    "url": "https://www.dailymirror.lk/opinion/Inequality-and-fallacies-in-the-law-EDITORIAL/231-232445",
+    "url_hash": "40fffca7003bf02787b5adec1465186b",
+    "ut": 1646611723,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "day",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "Repealing PTA",
     "source": "www.dailymirror.lk",
     "snippet": "I often reflect on the tumultuous years of the late 1970s and the paths not taken that may have determined a different future for our country. Emergency rule and then the enactment of the Prevention of Terrorism Act (PTA) in 1979 are unforgettable times of ...",
@@ -30,6 +49,57 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Sri Lanka tea prices hit record in Feb 2022, but Russia - Ukraine conflict looms",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka tea prices which hit a record national average of 725 rupees in February, but has is seeing pressure after Russia invaded Ukraine, despite lower volumes offered, auction results show.",
+    "url": "https://economynext.com/sri-lanka-tea-prices-hit-record-in-feb-2022-but-russia-ukraine-conflict-looms-91279/",
+    "url_hash": "2f0606fb1f36b19686233d406b839744",
+    "ut": 1646611750,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "725",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
@@ -226,6 +296,89 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Pakistan: A Breathtaking Tourist Destination",
+    "source": "en.ce.cn",
+    "snippet": "The U.S. magazine Cond\u00e9 Nast Traveler ranked Pakistan as No.1 travel destination for tourism in 2020. Taxila (editor's note: a city in Rawalpindi District of Punjab, Pakistan), an ancient city, is a trove of treasures with Buddhist Stupas and archeological remains and the tales tell us that Thomas the Apostle came to present day Taxila in the first century AD.",
+    "url": "https://en.ce.cn/main/latest/202203/07/t20220307_37380312.shtml",
+    "url_hash": "3f053b1c2ba5c33f9773d540c7f56401",
+    "ut": 1646615346,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Cond\u00e9 Nast Traveler",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Rawalpindi District of Punjab",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Thomas the Apostle",
+        "start_end": [
+          55,
+          58
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first century AD",
+        "start_end": [
+          64,
+          68
         ]
       }
     ]
@@ -515,6 +668,92 @@
         "start_end": [
           64,
           68
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "President to open state-of-the-art Lanwa Sanstha Cement factory in H'tota today",
+    "source": "www.dailymirror.lk",
+    "snippet": "State-of-the-art cement manufacturing facility of Lanwa Sanstha Cement Corporation (Pvt) Ltd is slated to be declared open today by the President Gotabaya Rajapaksa. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/President-to-open-state-of-the-art-Lanwa-Sanstha-Cement-factory-in-Htota-today/108-232466",
+    "url_hash": "11d22380fd89f3faea72006ff752b711",
+    "ut": 1646618923,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Lanwa Sanstha Cement Corporation",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Pan Asia Bank relocates Pillimathalawa branch",
+    "source": "www.dailymirror.lk",
+    "snippet": "Pan Asia Bank relocated its Pilimathalawa branch, on March 2, 2022, to No.217, Kandy Road, Manadeniya, Pilimathalawa. ..",
+    "url": "https://www.dailymirror.lk/financial-news/Pan-Asia-Bank-relocates-Pillimathalawa-branch/265-232455",
+    "url_hash": "04b45dbc27c8ce771eceef54f1295984",
+    "ut": 1646618923,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Pan Asia Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Pilimathalawa",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2, 2022",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy Road",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Manadeniya",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
@@ -943,6 +1182,41 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Low-pressure area's impact on Sri Lanka's weather reducing",
+    "source": "www.adaderana.lk",
+    "snippet": "The low-pressure area in the Southwest Bay of Bengal is weakening and its impact on the island's weather is reducing, says the Department of Meteorology",
+    "url": "http://www.adaderana.lk/news.php?nid=81028",
+    "url_hash": "412ba381e67cab63fd7143380d73bafb",
+    "ut": 1646622532,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Southwest Bay",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bengal",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          25,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "Bonus interest scheme for senior citizen deposits extended by one year",
     "source": "www.dailymirror.lk",
     "snippet": "However, deposits maintained under the scheme will not be auto-renewed Deposit holders will have to make a declaration to the bank to make available the special interest rate at maturity The Central Bank has extended the 15 percent special interest scheme ...",
@@ -1179,6 +1453,111 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "SLPP edges closer to form new govt; MR urgently calls for political calm",
+    "source": "www.dailymirror.lk",
+    "snippet": "In addition to the economic, fuel, power and food crisis which has severely hampered the daily lives of all citizens in the country, Sri Lanka has now been plunged into severe political turmoil after two cabinet ministers were sacked last week and 11 dissident members are now threatening to leave the government.",
+    "url": "https://www.dailymirror.lk/top_story/SLPP-edges-closer-to-form-new-govt-MR-urgently-calls-for-political-calm/155-232490",
+    "url_hash": "07b6bfa56bf60f570338abb0b8356a32",
+    "ut": 1646626123,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Severe gas shortage due to forex issue",
+    "source": "www.dailymirror.lk",
+    "snippet": "The country is currently facing a severe gas shortage as three gas tankers are being anchored off the Sri Lankan waters due to the non-issuance of letters of credit by Sri Lankan commercial banks in the face of the dollar crisis.",
+    "url": "https://www.dailymirror.lk/breaking_news/A-severe-gas-shortage-due-to-forex-issue/108-232492",
+    "url_hash": "d6a80d664710db2792203f3576881879",
+    "ut": 1646626483,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "2021: Global house price boom slowing, but the U.S., Pacific and some parts of Europe continue to grow strongly",
+    "source": "www.globalpropertyguide.com",
+    "snippet": "Sri Lanka's housing market continues to struggle ... In fact the Puerto Rican housing market been falling continuously for most of the decade. The island has experienced a prolonged economic crisis, massive debt, high unemployment and continuing ...",
+    "url": "https://www.globalpropertyguide.com/investment-analysis/2021-Global-house-price-boom-slowing-but-the-US-Pacific-and-some-parts-of-Europe-continue-to-grow-strongly",
+    "url_hash": "e140352f5eda1521e4ddce5aa779dab0",
+    "ut": 1646628292,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Puerto Rican",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the decade",
+        "start_end": [
+          22,
+          24
         ]
       }
     ]
