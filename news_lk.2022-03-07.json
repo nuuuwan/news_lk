@@ -1357,6 +1357,25 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Non-fungible tokens: Fool's gold or a glimpse of the future?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Early January of 2022 is marked by anticipation of things to come. Global economies are gearing up to put the pandemic behind them and face the uncertainties of a world whose normalcy has been altered beyond recognition.",
+    "url": "https://www.dailymirror.lk/editorialbusiness/Non-fungible-tokens-Fools-gold-or-a-glimpse-of-the-future/340-232458",
+    "url_hash": "a19d67ace19d28ca8d8d6ad51b18d250",
+    "ut": 1646618953,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Early January of 2022",
+        "start_end": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "Govt. looking at holistic approach to digitally transform SL: Namal",
     "source": "www.dailymirror.lk",
     "snippet": "Dedicated efforts are underway to transform Sri Lanka into a technology-based society, as the government is actively looking at a holistic approach to create an ecosystem where citizen services will be supported by digital transformation,",
@@ -6197,6 +6216,65 @@
         "start_end": [
           25,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Sri Lanka Mourns Death Of Celebrated Indian Elephant; Body To Be Kept As National Treasure",
+    "source": "www.republicworld.com",
+    "snippet": "Sri Lanka is mourning the death of a 69-year-old celebrated Indian elephant, considered to be the largest in Asia, after it died on Monday, with President Gotabaya Rajapaksa instructing that the body of the tusker be preserved for future generations and naming it as a national treasure.",
+    "url": "https://www.republicworld.com/world-news/rest-of-the-world-news/sri-lanka-mourns-death-of-celebrated-indian-elephant-body-to-be-kept-as-national-treasure.html",
+    "url_hash": "86c44e4dddb9b2533a9b794c3966d7f5",
+    "ut": 1646662188,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "69-year-old",
+        "start_end": [
+          8,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
