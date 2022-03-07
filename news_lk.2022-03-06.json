@@ -241,6 +241,100 @@
   },
   {
     "date": "2022-03-06",
+    "title": "\ud83d\udcf8 75 PHOTOS: The latest around the world",
+    "source": "www.bukedde.co.ug",
+    "snippet": "In Sri Lanka, people stand in a queue to buy diesel fuel at a petrol ... Elsewhere in Indonesia, devotees parade \"ogoh-ogoh\" statues as part of a ritual in Denpasar, Bali island on Wednesday, ahead of \"Nyepi\", the day of silence which marks the Hindu ...",
+    "url": "https://www.bukedde.co.ug/special%20reports/128430/75-photos-the-latest-around-the-world",
+    "url_hash": "4e2ccfe145649089564efde092d21141",
+    "ut": 1646546943,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Denpasar",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bali",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Nyepi",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the day",
+        "start_end": [
+          48,
+          50
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Hindu",
+        "start_end": [
+          55,
+          56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-06",
+    "title": "A master on field, enigmatic off; Shane Warne dies aged 52",
+    "source": "abcnews.go.com",
+    "snippet": "Shane Warne's artful and record-breaking spin bowling on the cricket field was matched by his impish allure and often controversial career off the pitch",
+    "url": "https://abcnews.go.com/Sports/wireStory/master-field-enigmatic-off-shane-warne-dies-aged-83279231",
+    "url_hash": "343751aadfa160d13c9b4fea9bb54b37",
+    "ut": 1646546951,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shane Warne's",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-06",
     "title": "Renowned artiste and comedian Berti Gunathilaka bids adieu",
     "source": "www.dailymirror.lk",
     "snippet": "Veteran silver screen artiste and well known comedian Berti Gunathilaka has passed away at the age of 98 this morning. ..",
@@ -552,6 +646,81 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-06",
+    "title": "A master on field, enigmatic off; Shane Warne dies aged 52",
+    "source": "www.marshallindependent.com",
+    "snippet": "Staff members help move the body of Shane Warne from Ko Samui Hospital on Ko Samui island, southern Thailand ... when he retired in 2007 after his 145th test match. Only Sri Lanka off-spinner Muttiah Muralitharan has passed him, with 800.",
+    "url": "https://www.marshallindependent.com/wire/?category=5196&ID=171768",
+    "url_hash": "40225d5ec935a472e815225b7dd43aac",
+    "ut": 1646550543,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ko Samui Hospital",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2007",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "145th",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Muttiah Muralitharan",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "800",
+        "start_end": [
+          45,
+          46
         ]
       }
     ]
