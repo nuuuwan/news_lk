@@ -5932,6 +5932,73 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Sri Lanka cardinal seeks UN probe into Easter massacre",
+    "source": "www.enca.com",
+    "snippet": "The head of Sri Lanka's Roman Catholic Church on\u00a0Monday urged the United Nations to investigate the 2019 Easter Sunday bombings that killed 279 people, calling the massacre a \"political plot\".",
+    "url": "https://www.enca.com/news/sri-lanka-cardinal-seeks-un-probe-easter-massacre",
+    "url_hash": "9fe236ef33ec56bceea123065ffb3595",
+    "ut": 1646654984,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Roman Catholic Church",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Easter Sunday",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "279",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "UK calls on SL to engage constructively with recommendations in resolution 46/1",
     "source": "www.dailymirror.lk",
     "snippet": "While raising concerns regarding the continued lack of progress on accountability and regret that there have been setbacks in several emblematic human rights cases, the United Kingdom called on the Government of Sri Lanka to engage constructively with the ...",
@@ -6401,6 +6468,41 @@
         "start_end": [
           22,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Emirates signs MoU with Sri Lanka Tourism",
+    "source": "www.adaderana.lk",
+    "snippet": "Emirates has signed a memorandum of understanding with Sri Lanka Tourism Promotion Bureau at the Emirates Group headquarters in Dubai",
+    "url": "http://www.adaderana.lk/news/81039/emirates-signs-mou-with-sri-lanka-tourism",
+    "url_hash": "fd32aaf20b1ca2e54444aefa81cad30d",
+    "ut": 1646658584,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Tourism Promotion Bureau",
+        "start_end": [
+          8,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Emirates Group",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
@@ -9066,6 +9168,65 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "WishQue bags Gold award",
+    "source": "www.dailymirror.lk",
+    "snippet": "WishQue, Sri Lanka's Premium Online Shop bagged the Gold award for the Online Brand Of The Year 2021 at the SLIM Brand Excellence held on February 9, 2022 at the Grand Monarch Imperial. ..",
+    "url": "https://www.dailymirror.lk/latest_news/WishQue-bags-Gold-award/342-232620",
+    "url_hash": "4e517bb66009b28d642282b1d9f9da38",
+    "ut": 1646694576,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "WishQue",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Online Brand Of The Year 2021",
+        "start_end": [
+          13,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the SLIM Brand Excellence",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February 9, 2022",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Grand Monarch Imperial",
+        "start_end": [
+          32,
+          36
         ]
       }
     ]

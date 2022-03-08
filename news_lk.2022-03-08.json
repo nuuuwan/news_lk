@@ -1954,6 +1954,49 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Reduce electricity usage by 50% in EP Govt institutions: Governor",
+    "source": "www.dailymirror.lk",
+    "snippet": "Governor Anuradha Yahampath yesterday urged all institutions that come under the Eastern Provincial Council to take immediate action to reduce their electricity usage by 50%. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Reduce-electricity-usage-by-50-in-EP-Govt-institutions-Governor/108-232603",
+    "url_hash": "d345c93a3f72c000982886fa6155c5f8",
+    "ut": 1646716176,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Anuradha Yahampath",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Eastern Provincial Council",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "50%",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Sri Lanka stocks gain over 1.5-pct at market open amid float",
     "source": "economynext.com",
     "snippet": "Sri Lanka stocks surged over 1.50 percent minutes after market opened following the central bank's move to float rupee to 230 against the US dollar last night (07), market data showed. The main All Share Price Index gained over 170 points to 11,",
@@ -2097,6 +2140,41 @@
     "url": "https://www.dailymirror.lk/breaking_news/Entry-fare-to-Zoo-increased/108-232607",
     "url_hash": "0b6d362903efb73ca73a9c73846ef15e",
     "ut": 1646719752,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National Zoological Gardens",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Entry fare to Zoo increased",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government granted permission to increase the entry ticket fare to enter the National Zoological Gardens for local tourists commencing from yesterday (7), the department said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Entry-fare-to-Zoo-increased/342-232607",
+    "url_hash": "9e11810a657b999bf0407303afb51bc7",
+    "ut": 1646719776,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -2851,6 +2929,41 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Sri Lanka rupee bid at Rs230 to dollar, no two-way quotes for float yet",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's rupee is bid at 230 to the US dollar in the interbank market with no offers despite a float being allowed by the central bank amid mandatory conversions and surrender requirements.",
+    "url": "https://economynext.com/sri-lanka-rupee-bid-at-rs230-to-dollar-no-two-way-quotes-for-float-yet-91417/",
+    "url_hash": "c1e1f5cee30e1a038a9deb4a5e69ff4e",
+    "ut": 1646727000,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "230",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Women take to the street against govt.",
     "source": "www.dailymirror.lk",
     "snippet": "Heavy traffic was reported from Technical Junction towards the Fort Railway Station due to a protest march organized by the Women's collective to protect the rights of the people against the government.",
@@ -3377,6 +3490,57 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Jayantha Samaraweera resigns as State Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Parliamentarian Jayantha Samaraweera said that he has resigned from the post of State Minister of Warehousing Facilities, Container Yards, Ports Supply Facilities and Boat and Shipping Industry Development.",
+    "url": "https://www.dailymirror.lk/breaking_news/Jayantha-Samaraweera-resigns-as-State-Minister/108-232616",
+    "url_hash": "315ded9b4b57c089d415ff22a5aedd2f",
+    "ut": 1646734176,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian Jayantha Samaraweera",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Warehousing Facilities",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Container Yards",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ports Supply Facilities",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Sri Lanka rupee bid at Rs230 to dollar, no float yet, conversion at close rates",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sri Lanka's rupee is bid at 230 to the US dollar in the interbank market with no offers despite a float being allowed by the central bank amid mandatory conversions and surrender requirements. There were no two way quotes in the interbank ...",
@@ -3489,6 +3653,143 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Cabinet nod for nine-member Economic Council",
+    "source": "www.dailymirror.lk",
+    "snippet": "The establishment of an Economic Council comprising of nine members received the Cabinet nod today. The Economic Council will convene weekly and will operate with the objective of boosting economic growth. Focus areas include overall management of the ...",
+    "url": "https://www.dailymirror.lk/business/Cabinet-nod-for-nine-member-Economic-Council/215-232614",
+    "url_hash": "adabd0ec9210e43b4532d378b0049a63",
+    "ut": 1646737776,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Economic Council",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Economic Council",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Sri Lanka - Incentive allowance for remittance of migrant workers increased",
+    "source": "menafn.com",
+    "snippet": "The Government said that the foreign employment sector is a major source of foreign exchange for Sri Lanka ... 38 per dollar. (Colombo Gazette)",
+    "url": "https://menafn.com/1103811636/Sri-Lanka-Incentive-allowance-for-remittance-of-migrant-workers-increased&source=19",
+    "url_hash": "690d883911bcf2e1b71eecc126eb39be",
+    "ut": 1646738044,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "38",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo Gazette",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Emirates, Sri Lanka Tourism plan joint activities",
+    "source": "www.tradearabia.com",
+    "snippet": "Dubai-based Emirates has signed a memorandum of understanding (MoU) with Sri Lanka Tourism Promotion Bureau to cooperate on joint activities that will help enhance trade and tourism. The agreement reaffirms the airline's commitment to Sri Lanka and outlines mutually beneficial initiatives that will help revive the country's trade and tourism industry.",
+    "url": "http://www.tradearabia.com/news/TTN_393963.html",
+    "url_hash": "6d0eaab90758b350440a42041ecfddd7",
+    "ut": 1646739704,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Emirates",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "MoU",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Tourism Promotion Bureau",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
         ]
       }
     ]
