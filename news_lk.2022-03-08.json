@@ -2782,6 +2782,65 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Two locals nabbed with Rs.10mn worth Anthurium plants",
+    "source": "www.dailymirror.lk",
+    "snippet": "Two Sri Lankan passengers were arrested at the Katunayake International airport in possession of anthurium plants which they have brought from Thailand, Customs Deputy Director (Legal) and media spokesman Sudatta Silva said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-locals-nabbed-with-Rs-10mn-worth-Anthurium-plants/108-232612",
+    "url_hash": "c9add75df4845fe6ff198976bb5f8dac",
+    "ut": 1646723355,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Katunayake International airport",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thailand",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Customs",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sudatta Silva",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "The View from India | Caught in a conflict",
     "source": "www.thehindu.com",
     "snippet": "A crippling fuel shortage and consequent power cuts across Sri Lanka are threatening to worsen the island nation's persisting economic crisis, while sparking protests from citizens. Pakistan's Interior Minister on Saturday (March 5) vowed to arrest the ...",
@@ -4981,6 +5040,33 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Sri Lanka - Boards of inquiry to be established to expedite probe on missing",
+    "source": "menafn.com",
+    "snippet": "The Cabinet has given approval to establish boards of inquiry to expedite investigations on missing persons.   A Govern",
+    "url": "https://menafn.com/1103811635/Sri-Lanka-Boards-of-inquiry-to-be-established-to-expedite-probe-on-missing&source=19",
+    "url_hash": "eb6473c40b3e48a848c84feca50ae2ab",
+    "ut": 1646741385,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Govern",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "New Fortress Energy Reiterates Commitment to LNG and Power Projects in Sri Lanka Following Favorable Court Ruling",
     "source": "finance.yahoo.com",
     "snippet": "New Fortress Energy Inc. (NASDAQ: NFE) (\"NFE\" or the \"Company\") today issued a statement following a favorable ruling on Friday, March 4, by the Supreme Court of the Democratic Socialist Republic of Sri Lanka (the \"Court\").",
@@ -5227,6 +5313,33 @@
         "start_end": [
           0,
           2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Sri Lanka - Government regrets situation facing the public",
+    "source": "menafn.com",
+    "snippet": "The Government today expressed regret over the situation facing the public.   Media Minister Dullas Alahapperuma admitt",
+    "url": "https://menafn.com/1103812238/Sri-Lanka-Government-regrets-situation-facing-the-public&source=22",
+    "url_hash": "37453d65efc6e9885b8b74481ebe3ef9",
+    "ut": 1646744985,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dullas Alahapperuma",
+        "start_end": [
+          15,
+          17
         ]
       }
     ]
@@ -5483,6 +5596,89 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Sri Lanka cardinal seeks UN probe into Easter massacre",
+    "source": "phnompenhpost.com",
+    "snippet": "The head of Sri Lanka's Roman Catholic Church on Monday urged the United Nations to investigate the 2019 Easter Sunday bombings that killed 279 people, calling the massacre a \"political plot\". In an address to the UN Human Rights Council in Geneva,",
+    "url": "https://phnompenhpost.com/international/sri-lanka-cardinal-seeks-un-probe-easter-massacre",
+    "url_hash": "d6ee81f573c233b6466a462eb7106ab1",
+    "ut": 1646752164,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Roman Catholic Church",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Easter Sunday",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "279",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the UN Human Rights Council",
+        "start_end": [
+          40,
+          45
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Geneva",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Sri Lanka likely to face more scrutiny in September UNHRC session",
     "source": "economynext.com",
     "snippet": "Sri Lanka may have to convince the international community more on its human rights efforts before another resolution at the United Nations Human Rights Council (UNHRC) meeting in September as the island nation has been asked to do more to address past alleged rights abuses.",
@@ -5689,6 +5885,81 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Sri Lanka's Finance Minister to visit New Delhi for talks on further assistance",
+    "source": "www.thehindu.com",
+    "snippet": "Sri Lanka's Finance Minister Basil Rajapaksa will visit New Delhi later this month, Indian authorities said, following his telephone conversation with External Affairs Minister Jaishankar on Monday, amid a severe economic meltdown stifling the island nation.",
+    "url": "https://www.thehindu.com/news/international/sri-lankas-finance-minister-to-visit-new-delhi-for-talks-on-further-assistance/article65204985.ece",
+    "url_hash": "494edb8a7f3f31309bb69e961578c73b",
+    "ut": 1646755764,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "later this month",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jaishankar",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Sri Lanka stocks plunge to 4-month low after rupee devaluation",
     "source": "economynext.com",
     "snippet": "Sri Lanka's main All Share Price Index (ASPI) lost 4 percent on Tuesday (08) to hits its lowest close in four months on concerns over impacts of a 15 percent overnight devaluation in the rupee currency on the earnings of the listed companies,",
@@ -5750,6 +6021,73 @@
         "start_end": [
           35,
           36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "IFC, CSE ring bell for gender equality in Sri Lanka",
+    "source": "economynext.com",
+    "snippet": "The International Finance Corporation (IFC) and the Colombo Stock Exchange (CSE) partnered for 'Ring the Bell for Gender Equality' event in Sri Lanka for the seventh consecutive year on Tuesday, celebrated in line with the International Women's Day.",
+    "url": "https://economynext.com/ifc-cse-ring-bell-for-gender-equality-in-sri-lanka-91428/",
+    "url_hash": "1431acb3bfac7a05b1cfecf3bc6e89e8",
+    "ut": 1646755781,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Finance Corporation",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the seventh consecutive year",
+        "start_end": [
+          30,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Women's Day",
+        "start_end": [
+          41,
+          46
         ]
       }
     ]
