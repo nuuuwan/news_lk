@@ -1836,6 +1836,33 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Sri Lanka health official defends debunked COVID-19 cremation mandate",
+    "source": "economynext.com",
+    "snippet": "A health ministry official on Monday (07) defended Sri Lanka's highly controversial and now-reversed requirement to cremate all victims of COVID-19 irrespective of religious beliefs, blaming the earlier decision on inadequate knowledge of SARS-CoV-2,",
+    "url": "https://economynext.com/sri-lanka-health-official-defends-debunked-covid-19-cremation-mandate-91414/",
+    "url_hash": "9e6c775a68e49fb9f070af08ca0e894e",
+    "ut": 1646719780,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Sri Lanka cardinal seeks UN probe into 2019 Easter bombings",
     "source": "www.aljazeera.com",
     "snippet": "Sri Lanka is on the agenda of the UN's top rights body at the moment for a separate reason. Last year, it set up a mechanism to gather evidence linked to alleged war crimes during the final stages of the island's Tamil separatist conflict, which ended ...",
@@ -1873,6 +1900,143 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Sri Lanka's Finance Minister Basil Rajapaksa to visit India this month",
+    "source": "www.tribuneindia.com",
+    "snippet": "Sri Lanka's Finance Minister Basil Rajapaksa will visit India this month, the Indian High Commission here has announced, amidst an unprecedented financial crisis in the island nation.",
+    "url": "https://www.tribuneindia.com/news/nation/sri-lankas-finance-minister-basil-rajapaksa-to-visit-india-this-month-376088",
+    "url_hash": "cddf9174d705b6420f4d2d777ee2aacf",
+    "ut": 1646724443,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this month",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian High Commission",
+        "start_end": [
+          13,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Sri Lanka FM to visit Russia soon",
+    "source": "www.uniindia.com",
+    "snippet": "Sri Lankan Foreign Minister Gamini Lakshman Peiris plans to pay an official visit to Russia in the near future, Sri Lankan Ambassador in Moscow Janitha Abewickrema Liyanage told Sputnik. \"In the near future,",
+    "url": "https://www.uniindia.com/story/Sri-Lanka-FM-to-visit-Russia-soon",
+    "url_hash": "11f593cfafc5a0317a2d2d6a375fb862",
+    "ut": 1646725523,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamini Lakshman Peiris",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janitha Abewickrema Liyanage",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Emirates signs agreement with Sri Lanka Tourism",
+    "source": "www.tradearabia.com",
+    "snippet": "Emirates has signed an agreement with Sri Lanka Tourism Promotion Bureau reaffirming the airline's commitment to Sri Lanka and outlines mutually beneficial initiatives that will help revive the country's trade and tourism industry.",
+    "url": "http://www.tradearabia.com/news/TTN_393932.html",
+    "url_hash": "0afece2c93afb03c3a5003ac7d373f2f",
+    "ut": 1646725703,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Tourism Promotion Bureau",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
