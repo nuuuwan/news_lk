@@ -7557,6 +7557,57 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Autopsy report confirm Shane Warne died from natural causes",
+    "source": "easternmirrornagaland.com",
+    "snippet": "An autopsy report on Monday confirmed that Australia's legendary cricketer Shane Warne had died from natural causes. A report in mirror.co.uk quoting Thai police said that the spinner's family \"have been informed\" and that they \"accept the finding\".",
+    "url": "https://easternmirrornagaland.com/autopsy-report-confirm-shane-warne-died-from-natural-causes/",
+    "url_hash": "8911eb5477cce450d530f050a1e2a18f",
+    "ut": 1646672966,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "mirror.co.uk",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Thai",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "12 facts about Nauru, the tiny island without a single Covid case",
     "source": "www.telegraph.co.uk",
     "snippet": "Settled by Micronesians and Polynesians at least 3,000 years ago, the remote Pacific island nation was annexed by Germany in 1888, ruled by the UK, Australia and New Zealand under a League of Nations mandate after the First World War,",
@@ -8447,6 +8498,65 @@
   },
   {
     "date": "2022-03-07",
+    "title": "Cracks appear in SL's coalition govt after sacking of 2 Cabinet ministers",
+    "source": "www.business-standard.com",
+    "snippet": "Sri Lanka's Water Supply Minister Vasudeva Nanayakkara on Monday said he will boycott cabinet meetings to protest the sacking of his two colleagues by President Gotabaya Rajapaksa during a snap cabinet reshuffle last week,",
+    "url": "https://www.business-standard.com/article/international/cracks-appear-in-sl-s-coalition-govt-after-sacking-of-2-cabinet-ministers-122030800043_1.html",
+    "url_hash": "76359f1fdd9fcced6582bd6f2172533e",
+    "ut": 1646680166,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vasudeva Nanayakkara",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
     "title": "Staggering regime strains to negotiate uncertainty, people's pressure",
     "source": "www.dailymirror.lk",
     "snippet": "Senior political analysts, public question govt.'s incompetence Activist groups could put more pressure on the courts The Government and the Opposition have proven that they are incapable of comprehending the gravity of the crisis The failure to deliver ...",
@@ -8823,6 +8933,49 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Hundreds of bakeries shut in Sri Lanka after cooking gas runs out",
+    "source": "au.news.yahoo.com",
+    "snippet": "The island nation is facing its worst financial ... A senior official at Laugfs Gas, one of Sri Lanka's two gas suppliers, said imports were stalled because banks were declining to open letters ...",
+    "url": "https://au.news.yahoo.com/hundreds-bakeries-shut-sri-lanka-131417604.html",
+    "url_hash": "5fd61310fb045f053205ca235e55c141",
+    "ut": 1646687366,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Laugfs Gas",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          21,
+          22
         ]
       }
     ]
