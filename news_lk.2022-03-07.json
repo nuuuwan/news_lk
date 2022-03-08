@@ -8438,5 +8438,115 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Swarna Wijekone",
+    "source": "www.dailynews.lk",
+    "snippet": "The discussion between the Sri Lanka Freedom Party(SLFP) and President Gotabaya Rajapaksa will be held this afternoon (08), said SLFP General Secretary State Minister Dayasiri Jayasekara.Jayasekara...",
+    "url": "https://www.dailynews.lk/line/swarna-wijekone",
+    "url_hash": "85897b93b9c39254a2783a94d60202c4",
+    "ut": 1646696189,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Freedom",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this afternoon",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "08",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLFP General",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dayasiri Jayasekara",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Jayasekara",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-07",
+    "title": "Sri Lanka Insurance introduces \"Jana Rekuma\" to extend insurance for general masses",
+    "source": "island.lk",
+    "snippet": "The nation's protector Sri Lanka Insurance introduces \"Jana Rakuma\" Individual Personal Accident Cover to extend the benefits of insurance to the general masses of Sri Lanka. The \"Jana Rekuma\" Individual Personal Accident Cover caters to the mass market covering the individuals who are not insured,",
+    "url": "https://island.lk/sri-lanka-insurance-introduces-jana-rekuma-to-extend-insurance-for-general-masses/",
+    "url_hash": "e7069a635b0c6146008f136326d9b7f9",
+    "ut": 1646696553,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Insurance",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Jana Rakuma",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Jana Rekuma",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
   }
 ]
