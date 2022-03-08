@@ -525,6 +525,65 @@
   },
   {
     "date": "2022-03-08",
+    "title": "IFC reaffirms commitment to Sri Lanka amid plans to increase investments",
+    "source": "island.lk",
+    "snippet": "International Finance Corporation Regional Vice President for Asia and the Pacific Alfonso Garcia Mora has said that IFC aims to boost its investments in Sri Lanka, with a focus on supporting private sector job creation,",
+    "url": "https://island.lk/ifc-reaffirms-commitment-to-sri-lanka-amid-plans-to-increase-investments/",
+    "url_hash": "994b6c78bf8635569c508f4a40e0c81f",
+    "ut": 1646698163,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "International Finance Corporation Regional",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Pacific Alfonso",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Garcia Mora",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IFC",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Death toll nears 6 mn as COVID-19 pandemic enters third year",
     "source": "www.msn.com",
     "snippet": "THAILAND: The official global death toll from COVID-19 is on the verge of eclipsing 6 million \u2014 underscoring that the pandemic, now entering its third year, is far from over.The milestone is the latest tragic reminder of the unrelenting nature of the pandemic even as people are shedding masks,",
@@ -1645,6 +1704,57 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Sri Lanka approves Rs38 incentive for worker remittance amid float move",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's cabinet of minister had approved a 38 rupee incentive to expat workers in pace of the current 10 rupees, Cabinet spokesman Minister Dullas Alahapperuma said.",
+    "url": "https://economynext.com/sri-lanka-approves-rs38-incentive-for-worker-remittance-amid-float-move-91410/",
+    "url_hash": "54cdbd869673e127236083f13f12320b",
+    "ut": 1646712582,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "38",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dullas Alahapperuma",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Sri Lanka rupee is floated, Rs230 a guidance: CB Governor",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sri Lanka's forex markets are braced for a float of the rupee after the central bank said it will no longer hold the rupee at 200 to the US dollar, amid suggestions that further monetary tightening is needed to prevent a steep fall of the ...",
@@ -1768,6 +1878,81 @@
         "start_end": [
           42,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "Sri Lanka stocks gain over 1.5-pct at market open amid float",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stocks surged over 1.50 percent minutes after market opened following the central bank's move to float rupee to 230 against the US dollar last night (07), market data showed. The main All Share Price Index gained over 170 points to 11,",
+    "url": "https://economynext.com/sri-lanka-stocks-gain-over-1-5-pct-at-market-open-amid-float-91411/",
+    "url_hash": "943243959ab35dd5112e2f0d75f1419c",
+    "ut": 1646716182,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "minutes",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "230",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "07",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "All Share Price Index",
+        "start_end": [
+          38,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "170",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          47,
+          48
         ]
       }
     ]
