@@ -1716,6 +1716,65 @@
   },
   {
     "date": "2022-03-09",
+    "title": "PUCSL announces tomorrow's power shedding",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) yesterday announced power shedding for today (9) as a result of fuel scarcity and the absence of power generators. ..",
+    "url": "https://www.dailymirror.lk/front_page/PUCSL-announces-tomorrows-power-shedding/238-232661",
+    "url_hash": "88ae2607ede220676e3ddd285ef5a9dd",
+    "ut": 1646798944,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Government to establish centralised economic decision-making body under President",
     "source": "www.dailymirror.lk",
     "snippet": "The 'Economic Council' to have 11 members including PM, Finance Minister, CB Governor and Treasury Secy. Will convene weekly; first meeting this week Mandated with instructing and guiding the implementation of decisions taken by ministries, depts.",
@@ -2065,6 +2124,73 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "McDonald's, Starbucks, Coke and Pepsi all halt sales in Russia",
+    "source": "www.dailymirror.lk",
+    "snippet": "McDonald's, PepsiCo, Coca-Cola and Starbucks stopped sales of their best-known products in Russia on Tuesday, offering a united rebuke of the war on Ukraine by companies that define America for much of the world.",
+    "url": "https://www.dailymirror.lk/breaking_news/McDonalds-Starbucks-Coke-and-Pepsi-all-halt-sales-in-Russia/108-232686",
+    "url_hash": "7d34c8cee74ebd75b206e25805462420",
+    "ut": 1646802544,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "McDonald's",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PepsiCo",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coca-Cola and Starbucks",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
@@ -2821,6 +2947,33 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Power crises forces Parliament to curtail power usage: Speaker",
+    "source": "www.dailymirror.lk",
+    "snippet": "Usage of power has been limited in the Parliamentary complex due to the present power crisis, Speaker Mahinda Yapa Abeywardene announced today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Power-crises-forces-Parliament-to-curtail-power-usage-Speaker/108-232694",
+    "url_hash": "743c3e2aaf8ca6e6f3611e1ea3ffa152",
+    "ut": 1646813344,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Yapa Abeywardene",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka struggles to pay for fuel imports after surge in crude prices",
     "source": "www.reuters.com",
     "snippet": "Sri Lanka's fuel import plans have been disrupted by a rapid spike in global crude prices after Russia's invasion of Ukraine, leaving the crisis-hit island nation struggling to pay for diesel amid power cuts as fuel pumps run dry,",
@@ -3289,6 +3442,97 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Sri Lanka added to Wizz Air Gulf network",
+    "source": "travelweekly.co.uk",
+    "snippet": "Wizz Air's Abu Dhabi offshoot has started serving Sri Lanka. The ultra-low-cost airline's first destination in South Asia will be served three times a week. Flights will operate to Mattala in south Sri Lanka with fares starting at AED179 using Airbus A321neo aircraft with 239 seats.",
+    "url": "https://travelweekly.co.uk/news/air/sri-lanka-added-to-wizz-air-gulf-network",
+    "url_hash": "a66bd4266503eccb231feb5b282b2fa5",
+    "ut": 1646820553,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Wizz Air's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Abu Dhabi",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mattala",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Airbus A321neo",
+        "start_end": [
+          48,
+          50
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "239",
+        "start_end": [
+          52,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Imports of 367 non-essential items restricted",
     "source": "www.dailymirror.lk",
     "snippet": "The Gazette notification restricting the imports of 367 non-essential items without a valid licence has been issued, with effect from midnight today, Department of Imports and Exports Control said. ..",
@@ -3565,6 +3809,65 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Give us UGC-approved nurse's degree",
+    "source": "www.dailymirror.lk",
+    "snippet": "The All Ceylon Nurses' Union held a protest march from Colombo General Hospitals to the University Grant Commission (UGC) today, demanding that the government grant them a genuine health degree approved by the UGC.",
+    "url": "https://www.dailymirror.lk/caption_story/Give-us-UGC-approved-nurses-degree/110-232699",
+    "url_hash": "8f9cb2a667fc953574404f6142742864",
+    "ut": 1646824144,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The All Ceylon Nurses' Union",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo General Hospitals",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University Grant Commission",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UGC",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UGC",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]
@@ -4119,6 +4422,33 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Sri Lanka restricts 'luxuries' as forex crisis worsens",
+    "source": "news.yahoo.com",
+    "snippet": "Sri Lanka on Wednesday tightened restrictions on a wide range of imports from whisky to kitchen appliances as a foreign exchange shortage pushed the economy to the brink of collapse.",
+    "url": "https://news.yahoo.com/sri-lanka-restricts-luxuries-forex-130616903.html",
+    "url_hash": "c3aa0ab42cc87b26d608ea382bcebc73",
+    "ut": 1646831353,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "No issue if media prepared to take responsibility for information published : Namal",
     "source": "www.dailymirror.lk",
     "snippet": "Media does not have to worry about the Data Protection Bill as long as they are prepared to take responsibility for the information they publish, Minister Namal Rajapaksa told Parliament today. ..",
@@ -4298,6 +4628,111 @@
         "start_end": [
           39,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Cultural experiences in the Indian Ocean",
+    "source": "www.ttgmedia.com",
+    "snippet": "It might be famed for its beaches but the Indian Ocean also offers clients opportunities to connect with the culture of their destination, explains Debbie Ward.",
+    "url": "https://www.ttgmedia.com/features/cultural-experiences-in-the-indian-ocean-33139",
+    "url_hash": "e953a74908c894ef489d8d5f0392529e",
+    "ut": 1646834953,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Debbie Ward",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka - Ranjan Ramanayake refused permission to attend movie launch",
+    "source": "menafn.com",
+    "snippet": "Former Parliamentarian Ranjan Ramanayake has been refused permission to attend the launch of a movie in which he is acting.  <",
+    "url": "https://menafn.com/1103819322/Sri-Lanka-Ranjan-Ramanayake-refused-permission-to-attend-movie-launch&source=19",
+    "url_hash": "bcdd421b7ab0a618def14f523783a36e",
+    "ut": 1646835036,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian Ranjan Ramanayake",
+        "start_end": [
+          1,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka restricts import of 367 non-essential items",
+    "source": "english.news.cn",
+    "snippet": "Sri Lankan Finance Minister Basil Rajapaksa on Wednesday issued a gazette notification restricting the import of 367 non-essential items with no valid import license. The gazette comes into effect from midnight on Wednesday,",
+    "url": "https://english.news.cn/20220309/ee1242c0c62b44efbe9180b7e0759011/c.html",
+    "url_hash": "6ea1d457a8a2da4228387ff4c49c3f30",
+    "ut": 1646837616,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "367",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
