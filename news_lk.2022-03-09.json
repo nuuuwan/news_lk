@@ -6523,6 +6523,84 @@
   },
   {
     "date": "2022-03-09",
+    "title": "From crisis to inclusive economic growth in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka has managed the health and safety aspects of the COVID-19 pandemic in a commendable way. The nation has been and continues to be swift in safeguarding the health of its population, including vaccinating its citizens.",
+    "url": "https://www.ft.lk/columns/From-crisis-to-inclusive-economic-growth-in-Sri-Lanka/4-731737",
+    "url_hash": "9802b4e5460c089bb8f4dc5f4c0b599e",
+    "ut": 1646849353,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Raid Amazones returns to Sri Lanka for third adventure; first major event since pandemic",
+    "source": "www.ft.lk",
+    "snippet": "By Darshana Abayasingha SriLankan Airlines chose International Women's Day to announce its partnership with Raid Amazones 2022 as its official Airline and sponsor. Raid Amazones is an annual adventure trail originating from France that features female athletes competing in numerous challenges including riding,",
+    "url": "https://www.ft.lk/front-page/Raid-Amazones-returns-to-Sri-Lanka-for-third-adventure-first-major-event-since-pandemic/44-731774",
+    "url_hash": "78e71609640768dee65d7cd18abcc6bd",
+    "ut": 1646849353,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Darshana Abayasingha SriLankan Airlines",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Women's Day",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Raid Amazones 2022",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Airline",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Raid Amazones",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Wizz Air Abu Dhabi expands its network to Mattala Sri Lanka",
     "source": "www.ft.lk",
     "snippet": "Wizz Air Abu Dhabi, the ultra-low-cost national airline of the UAE, has launched an exciting new route from Abu Dhabi to Mattala, Sri Lanka. ..",
@@ -6732,6 +6810,57 @@
         "start_end": [
           8,
           9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka limits imports of 367 non-essential items effective midnight",
+    "source": "www.channelnewsasia.com",
+    "snippet": "Sri Lanka has limited imports of 367 non-essential items, including fish, footwear and wine, the finance ministry said on Wednesday as the South Asian country attempts to tackle its worst financial crisis in years.",
+    "url": "https://www.channelnewsasia.com/business/sri-lanka-limits-imports-367-non-essential-items-effective-midnight-2551961",
+    "url_hash": "2318d6120e212fc41c94af097afb4dae",
+    "ut": 1646866762,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "367",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
