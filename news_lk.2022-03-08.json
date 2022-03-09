@@ -3505,6 +3505,57 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Cabinet nod for nine-member Economic Council",
+    "source": "www.dailymirror.lk",
+    "snippet": "The establishment of an Economic Council comprising of nine members received the Cabinet nod today. The Economic Council will convene weekly and will operate with the objective of boosting economic growth.",
+    "url": "https://www.dailymirror.lk/business_247/Cabinet-nod-for-nine-member-Economic-Council/395-232614",
+    "url_hash": "6af5938e5340bb4864a54393e7ba8816",
+    "ut": 1646726963,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Economic Council",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Economic Council",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "AGS Students Benefit From Cricket Kindness Donation",
     "source": "antiguaobserver.com",
     "snippet": "Sri Lanka, and the South Pacific. \"It's really an honour to be here today, especially on Sir Viv's birthday. My team and I are happy to be here and to continue the work we have been doing.",
@@ -7085,6 +7136,41 @@
   },
   {
     "date": "2022-03-08",
+    "title": "Are we running scared of India?",
+    "source": "www.ft.lk",
+    "snippet": "Or so it seems. \"I don't know whether our players are scared of the Indian bowlers, they give the impression that when they go out to bat they are already resigned to defeat,\" said Sri Lanka captain Dimuth Karunaratne following his team's innings ...",
+    "url": "https://www.ft.lk/sports/Are-we-running-scared-of-India/23-731715",
+    "url_hash": "d8570bcb6ec451fe70098ef4f5103d90",
+    "ut": 1646762984,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dimuth Karunaratne",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
     "title": "Digital economy of China",
     "source": "www.ft.lk",
     "snippet": "This paper is based on the interview with Chanuka Wattegama, a Policy Researcher in the field of Economics and Technology, on 'Rising China and Lessons for Sri Lanka'. The interview series was launched by the Veemansa Initiative - an independent think tank in the areas of economic,",
@@ -7878,6 +7964,57 @@
         "start_end": [
           7,
           13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-08",
+    "title": "OGF Retail Festival at One Galle Face",
+    "source": "www.dailymirror.lk",
+    "snippet": "OGF Retail Festival kicked off at One Galle Face, Colombo last Saturday (5) showcasing a variety of fashions, including for men and women. Pix by Pradeep Dilrukshana ..",
+    "url": "https://www.dailymirror.lk/latest_news/OGF-Retail-Festival-at-One-Galle-Face/342-232684",
+    "url_hash": "7046986615def43a4644e9277f353d57",
+    "ut": 1646777363,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Retail Festival",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Galle Face",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last Saturday",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilrukshana",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
