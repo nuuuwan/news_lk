@@ -28,6 +28,68 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Emirates signs MoU with Sri Lanka Tourism",
+    "source": "island.lk",
+    "snippet": "The agreement reaffirms the airline's commitment to Sri Lanka and outlines mutually beneficial initiatives to help drive trade and tourism to the country. Since the nation safely re-opened to international tourists in February 2021,",
+    "url": "https://island.lk/emirates-signs-mou-with-sri-lanka-tourism/",
+    "url_hash": "d397708c0dee83d3ed2164d3405ffbf2",
+    "ut": 1646784549,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February 2021",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Cargills 'Village to Home' supports local SMEs",
+    "source": "www.msn.com",
+    "snippet": "The pandemic has caused many challenges to the agricultural and SME communities across Sri Lanka. Among the challenges was a lack of market access. The Cargills 'Village to Home' programme was launched with the intention of addressing this issue and supporting the country's small and medium entrepreneurs by providing them with a platform to engage with a larger network of customers.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/cargills-village-to-home-supports-local-smes/ar-AAUOIe0",
+    "url_hash": "922499a7e71c7f5b77dd5f06f2799a47",
+    "ut": 1646784549,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SME",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Cargills",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "BCS Sri Lanka Section elects new leadership for 2022/23",
     "source": "island.lk",
     "snippet": "The Chartered Institute for IT (Sri Lanka Section) elected its new leadership for the year 2022/23 at the Annual General Meeting held virtually recently. The new Sri Lanka leadership team consists of the Executive Committee led by Chairman Vajeendra S Kandegamage.",
@@ -1053,6 +1115,76 @@
   },
   {
     "date": "2022-03-09",
+    "title": "NDB Wealth empowers women to achieve financial security",
+    "source": "www.dailymirror.lk",
+    "snippet": "Expert financial planner NDB Wealth celebrated the International Women's Day on March 8, 2022, with emphasis on empowering women to better understand the financial world in order to achieve financial security,",
+    "url": "https://www.dailymirror.lk/financial-news/NDB-Wealth-empowers-women-to-achieve-financial-security/265-232645",
+    "url_hash": "a4392567789f7cf7300d463023c8c23f",
+    "ut": 1646795340,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "NDB Wealth",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Women's Day",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 8, 2022",
+        "start_end": [
+          12,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Ceylon Chamber hopes CB's exchange rate action will ease dollar shortage",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Ceylon Chamber of Commerce yesterday commended Central Bank Governor Ajith Nivard Cabraal and his team for permitting greater flexibility in the exchange rate and expects the move would significantly ease the shortage of dollars in the market.",
+    "url": "https://www.dailymirror.lk/business-news/Ceylon-Chamber-hopes-CBs-exchange-rate-action-will-ease-dollar-shortage/273-232651",
+    "url_hash": "cab4e29add1af0d8e28c06b5287137de",
+    "ut": 1646795340,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ceylon Chamber of Commerce",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Stock market plunges after CB devalues rupee",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lankan shares fell 4 percent to a near four-month low yesterday after the country's Central Bank devalued the rupee in a move seen as a step towards securing an International Monetary Fund loan programme and help negotiate debt restructuring.",
@@ -1402,6 +1534,49 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Ranil says no national govt. But calls for all parties to unite to come out of crises",
+    "source": "www.dailymirror.lk",
+    "snippet": "Rumours have been rife that UNP Leader Ranil Wickremesinghe is in talks with Prime Minister Mahinda Rajapaksa and President Gotabaya Rajapaksa to form a national government amidst the ongoing crises,",
+    "url": "https://www.dailymirror.lk/front_page/Ranil-says-no-national-govt-But-calls-for-all-parties-to-unite-to-come-out-of-crises/238-232667",
+    "url_hash": "e718a6543063adb025678c8410bd46d0",
+    "ut": 1646798940,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Government to establish centralised economic decision-making body under President",
     "source": "www.dailymirror.lk",
     "snippet": "The 'Economic Council' to have 11 members including PM, Finance Minister, CB Governor and Treasury Secy. Will convene weekly; first meeting this week Mandated with instructing and guiding the implementation of decisions taken by ministries, depts.",
@@ -1627,6 +1802,49 @@
         "start_end": [
           33,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Supplying medicine to pharmacies suspended from yesterday",
+    "source": "www.dailymirror.lk",
+    "snippet": "After the decision by the Central Bank of Sri Lanka (CBSL) to devalue the rupee against the US dollar to Rs. 230, the mainline medicine manufacturing companies and importers are contemplating to stop supplying medicine to pharmacies from yesterday,",
+    "url": "https://www.dailymirror.lk/top_story/Supplying-medicine-to-pharmacies-suspended-from-yesterday/155-232685",
+    "url_hash": "745d778e9b1c395ec4d803b04c7f7368",
+    "ut": 1646802549,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          4,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "230",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
@@ -1910,6 +2128,41 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Fuel storage, distribution come under Maj. Gen. De Zoysa",
+    "source": "www.dailymirror.lk",
+    "snippet": "Major General M.R. W. de Zoysa today assumed duties as the new Chairman of the Ceylon Petroleum Storage Terminals Limited. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Fuel-storage-distribution-come-under-Maj-Gen-De-Zoysa/108-232687",
+    "url_hash": "6ef0753c548606278694b9df01e1bc6a",
+    "ut": 1646806140,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "M.R. W. de Zoysa",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ceylon Petroleum Storage Terminals Limited",
+        "start_end": [
+          14,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka power crisis to affect parliament; speaker asks MPs to brace themselves",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Speaker of Parliament Mahinda Yapa Abeywardena has requested lawmakers' cooperation in managing the electricity situation in the parliament complex as the country's ongoing power crisis worsens.",
@@ -1990,6 +2243,476 @@
         "start_end": [
           37,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Ranjan to express special regret over utterances in second contempt of court case",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former State Minister Ranjan Ramanayak through his counsel today informed Supreme Court that he is expecting to make a special regret if his utterances have caused any contempt towards the Supreme Court.",
+    "url": "https://www.dailymirror.lk/breaking_news/Ranjan-to-express-special-regret-over-utterances-in-second-contempt-of-court-case/108-232690",
+    "url_hash": "f96b8e08a64f856d18b798dbd2f5b549",
+    "ut": 1646809740,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranjan Ramanayak",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Supreme Court",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka bond yields flat, indicative dollar at Rs.229.5",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka bond yields were quoted flat in mid-day trading on Wednesday (09), dealers said while the central bank's indicative spot rate moved up. In debt markets, a bond maturing on 01/08/2025 quoted flat at 13.",
+    "url": "https://economynext.com/sri-lanka-bond-yields-flat-indicative-dollar-at-rs-229-5-91454/",
+    "url_hash": "2ab1d9eb901e0d9321e3c284ea890d05",
+    "ut": 1646809767,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "mid-day",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "09",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Court of Appeal issues notices on Litro and Laughs Gas Companies and others",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Court of Appeal today issued notices on Litro and Laughs Gas Companies, Consumer Affairs Authority and Sri Lanka Standards Institution (SLSI) standards, returnable for June 6 in connection with a writ petition filed challenging the gas companies ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Court-of-Appeal-issues-notices-on-Litro-and-Laughs-Gas-Companies-and-others/108-232692",
+    "url_hash": "721dc8e37e34edb4bd624416d31fed09",
+    "ut": 1646813340,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Court of Appeal",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Litro",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Laughs Gas Companies",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Consumer Affairs Authority",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Standards Institution",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLSI",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June 6",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka struggles to pay for fuel imports after surge in crude prices",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lanka's fuel import plans have been disrupted by a rapid spike in global crude prices after Russia's invasion of Ukraine, leaving the crisis-hit island nation struggling to pay for diesel amid power cuts as fuel pumps run dry,",
+    "url": "https://www.reuters.com/markets/commodities/sri-lanka-struggles-pay-fuel-imports-after-surge-crude-prices-2022-03-09/",
+    "url_hash": "5ce267b72a85819dba9851637d5c9563",
+    "ut": 1646813349,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "John Keells launches the \"SanNap programme\" to provide Hemas 'Fems Aya' sanitary napkins to employees",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "John Keells Holdings PLC (JKH) signed an agreement with Hemas Consumer Brands on 9th March 2022 to offer all female employees of the John Keells Group with the 'Fems Aya' sanitary napkins, free of charge,",
+    "url": "http://bizenglish.adaderana.lk/john-keells-launches-the-sannap-programme-to-provide-hemas-fems-aya-sanitary-napkins-to-employees/",
+    "url_hash": "6d49ec15c8e79ff9ccb54b9dbc3d1ab4",
+    "ut": 1646813349,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "John Keells Holdings PLC",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "JKH",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Hemas Consumer Brands",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "9th March 2022",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the John Keells Group",
+        "start_end": [
+          24,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "No A/C after 2.30 p.m. at State institutions; new circular issued",
+    "source": "www.dailymirror.lk",
+    "snippet": "In the wake of the foreign exchange crisis which has adversely affected fuel importation, the Ministry of Public Services has issued a new circular in respect of the consumption of electricity and fuel at all public institutions. According to the circular ...",
+    "url": "https://www.dailymirror.lk/breaking_news/No-AC-after-2-30-p-m-at-State-institutions-new-circular-issued/108-232689",
+    "url_hash": "b0acbc8f658efd8b2decdd0db9d2505e",
+    "ut": 1646816940,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Public Services",
+        "start_end": [
+          15,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Epidemiology Unit to conduct separate study on antibody response after vaccination: Prof. Jayasumana",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Epidemiology Unit of the Health Ministry is planning to conduct a separate research on antibody response after vaccination against Covid-19, apart from the research conducted by the Sri Jayewardenepura University on the matter,",
+    "url": "https://www.dailymirror.lk/breaking_news/Epidemiology-Unit-to-conduct-separate-study-on-antibody-response-after-vaccination-Prof-Jayasumana/108-232693",
+    "url_hash": "de3c1c03546078614f4954c1f4b2b398",
+    "ut": 1646817240,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Health Ministry",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Jayewardenepura University",
+        "start_end": [
+          28,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Wizz Air Abu Dhabi adds new Sri Lanka connection",
+    "source": "www.breakingtravelnews.com",
+    "snippet": "Wizz Air Abu Dhabi has launched a new route from Abu Dhabi to Mattala, Sri Lanka. Flights to the destination are scheduled on Monday, Wednesday and Friday.",
+    "url": "https://www.breakingtravelnews.com/news/article/wizz-air-abu-dhabi-adds-new-sri-lanka-connection/",
+    "url_hash": "2a0f677a767988acc4e68bb8a3fec32c",
+    "ut": 1646818149,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Wizz Air Abu Dhabi",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abu Dhabi",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday, Wednesday and Friday",
+        "start_end": [
+          25,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka inches closer to IMF aid option after rupee plunge",
+    "source": "gulfnews.com",
+    "snippet": "Colombo: Sri Lanka's painful decision to effectively devalue its currency this week could pave the way for the island nation to get help from the International Monetary Fund as a $1 billion debt payment looms in four months.",
+    "url": "https://gulfnews.com/business/banking/sri-lanka-inches-closer-to-imf-aid-option-after-rupee-plunge-1.86307040",
+    "url_hash": "637f4ca5f31cfde700c5aa3988fd34b1",
+    "ut": 1646818989,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four months",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Wizz Air Abu Dhabi launches Sri Lanka route",
+    "source": "www.ttgmedia.com",
+    "snippet": "Wizz Air Abu Dhabi, the low-cost carrier's gulf operation, has launched its first service to south Asia with a new route from Abu Dhabi to Mattala in Sri Lanka.\u00a0 The airline will offer flights on Mondays,",
+    "url": "https://www.ttgmedia.com/news/wizz-air-abu-dhabi-launches-sri-lanka-route-33155",
+    "url_hash": "5ace4946e2950408a0ddbefbee6717b1",
+    "ut": 1646819349,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Wizz Air Abu Dhabi",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abu Dhabi",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Mondays",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
