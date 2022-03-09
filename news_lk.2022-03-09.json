@@ -28,6 +28,344 @@
   },
   {
     "date": "2022-03-09",
+    "title": "China to provide Ukraine humanitarian aid, praises Russia ties",
+    "source": "www.dailymirror.lk",
+    "snippet": "China's Red Cross will provide humanitarian aid to Ukraine \"as soon as possible\", Foreign Minister Wang Yi said on Monday, as he praised his country's friendship with Russia as \"rock solid\". China has refused to condemn Russia's attack on ...",
+    "url": "https://www.dailymirror.lk/international/China-to-provide-Ukraine-humanitarian-aid-praises-Russia-ties/107-232593",
+    "url_hash": "ccc4fd269979e4022a835f2cba704da9",
+    "ut": 1646785596,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Red Cross",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wang Yi",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Overwhelming support for Sri Lanka at the Interactive Dialogue at the Human Rights Council",
+    "source": "island.lk",
+    "snippet": "Sri Lanka received overwhelming support from countries of the Global South at the Interactive Dialogue on the written update of the High Commissioner for Human Rights on Sri Lanka, which concluded on Monday (7 March).",
+    "url": "https://island.lk/overwhelming-support-for-sri-lanka-at-the-interactive-dialogue-at-the-human-rights-council/",
+    "url_hash": "684576c10de23844797061d3e5667840",
+    "ut": 1646785605,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Global South",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Interactive Dialogue",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "7 March",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Gampaha District Athletic champions",
+    "source": "www.msn.com",
+    "snippet": "35th Annual Masters Athletics Championships organized by the Sri Lanka Masters Athletics Association was held at the Sugathadasa Stadium, Colombo recently with the participation of a large number of master's athletes from all parts of the country and also from foreign countries in the region.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/gampaha-district-athletic-champions/ar-AAUOIem",
+    "url_hash": "8513b495e3344e91caf484c54fde825a",
+    "ut": 1646785605,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "35th",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Masters Athletics Association",
+        "start_end": [
+          7,
+          13
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Sugathadasa Stadium",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "AIBL partners All Island School Children's Transport Association",
+    "source": "www.msn.com",
+    "snippet": "Romany Parakrama, Chairperson, AIBL presents an AIBL branded umbrella to L.M.S. De Silva, Chairman, AISCTA symbolically meaning the insurance cover and protection. Dhanika De Silva, Director, AIBL, Nihal Handunge,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/aibl-partners-all-island-school-children-s-transport-association/ar-AAUOqrY",
+    "url_hash": "0c2cf80cd7aeefe62c857ace77cf50e6",
+    "ut": 1646785605,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Romany Parakrama",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chairperson",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AIBL",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AIBL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "L.M.S. De Silva",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AISCTA",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dhanika De Silva",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AIBL",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nihal Handunge",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "SLAF shramadana campaign to protect environment",
+    "source": "www.msn.com",
+    "snippet": "A shramadana campaign was held in Colombo on Saturday with the active participation of over 3,000 Sri Lanka Air Force personnel in parallel to the 71st Air Force Day Celebration 2022. The main aim of this programme is to eliminate the dengue breeding places and to keep the environment clean.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/slaf-shramadana-campaign-to-protect-environment/ar-AAUOvzh",
+    "url_hash": "3109e9c87807b2d631ce8e3bff8d9945",
+    "ut": 1646785618,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,000",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Air Force",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "71st",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka in talks with Iran Tea Association to boost exports",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka Embassy in Iran talks with Iran importers to expand the market for tea in Iran with a downward trend has been observed by the Iran Importers for the Ceylon tea in the market, the state information office said.",
+    "url": "https://economynext.com/sri-lanka-in-talks-with-iran-tea-association-to-boost-exports-91438/",
+    "url_hash": "1339889483d7643112da4981d64e02fe",
+    "ut": 1646785623,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Embassy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iran",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iran",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iran",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka interest rate hike not enough, rupee cannot be held at 230: Harsha",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sri Lanka devaluation of the rupee to 230 to the US dollar will not help avert the foreign exchange crisis and the one percent rate hike was insufficient with inflation running double digits, opposition legislator Harsha de Silva said.",
@@ -57,6 +395,65 @@
         "start_end": [
           38,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka rupee official rate falls to Rs229 to US dollar, a historic low",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's rupee selling rate fell to a historic low of 229.99 to the US dollar according to indicative rates quoted by the central bank after the rupee was allowed to fall to 230 to the US dollar on March 08.",
+    "url": "https://economynext.com/sri-lanka-rupee-official-rate-falls-to-rs229-to-us-dollar-a-historic-low-91439/",
+    "url_hash": "1dcb541d318215edc2124c92ac769656",
+    "ut": 1646789223,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "229.99",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "230",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 08",
+        "start_end": [
+          40,
+          42
         ]
       }
     ]
