@@ -1537,6 +1537,16 @@
     "title": "Increasing women's political participation in Sri Lanka",
     "source": "www.dailymirror.lk",
     "snippet": "Democracy, by its very definition, calls for the representation of all citizens. Hence, women in politics are essential for representative governance. ..",
+    "url": "https://www.dailymirror.lk/editorialbusiness/Increasing-womens-political-participation-in-Sri-Lanka/340-232641",
+    "url_hash": "305c5568e02055005c2c442209603d26",
+    "ut": 1646795372,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Increasing women's political participation in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Democracy, by its very definition, calls for the representation of all citizens. Hence, women in politics are essential for representative governance. ..",
     "url": "https://www.dailymirror.lk/businessopinion/Increasing-womens-political-participation-in-Sri-Lanka/306-232641",
     "url_hash": "39871be6f6bba85d44019db5130884de",
     "ut": 1646795386,
@@ -2296,6 +2306,116 @@
         "start_end": [
           1,
           2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Tourist arrivals in first nine weeks of 2022 surpass total arrivals in 2021",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka welcomed over 25,000 tourists in the first week of March, bringing the total number of arrivals to cross the 200,000 mark. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Tourist-arrivals-in-first-nine-weeks-of-2022-surpass-total-arrivals-in-2021/342-232650",
+    "url_hash": "2aed883b8ef608d4e5d4cc3167929497",
+    "ut": 1646802572,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "over 25,000",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first week of March",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "200,000",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "McDonald's, Starbucks, Coke and Pepsi all halt sales in Russia",
+    "source": "www.dailymirror.lk",
+    "snippet": "McDonald's, PepsiCo, Coca-Cola and Starbucks stopped sales of their best-known products in Russia on Tuesday, offering a united rebuke of the war on Ukraine by companies that define America for much of the world.",
+    "url": "https://www.dailymirror.lk/latest_news/McDonalds-Starbucks-Coke-and-Pepsi-all-halt-sales-in-Russia/342-232686",
+    "url_hash": "98648dfb181ae8bcd6c36e5ca8fc6547",
+    "ut": 1646802572,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "McDonald's",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PepsiCo",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coca-Cola and Starbucks",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          36,
+          37
         ]
       }
     ]
@@ -4696,6 +4816,49 @@
   },
   {
     "date": "2022-03-09",
+    "title": "PUCSL approves powercuts for tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) today approved power shedding schedule for several areas in the country. ..",
+    "url": "https://www.dailymirror.lk/latest_news/PUCSL-approves-powercuts-for-tomorrow/342-232705",
+    "url_hash": "e1ddea12ee2cfe29e94aa20f88c49677",
+    "ut": 1646834972,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka - Ranjan Ramanayake refused permission to attend movie launch",
     "source": "menafn.com",
     "snippet": "Former Parliamentarian Ranjan Ramanayake has been refused permission to attend the launch of a movie in which he is acting.  <",
@@ -4781,6 +4944,73 @@
     "url_hash": "47430134f09fd2c4739f90c0d7dd2c3e",
     "ut": 1646838572,
     "ent_info_list": []
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka Inches Closer to IMF Aid Option After Rupee Plunge",
+    "source": "www.bloombergquint.com",
+    "snippet": "The country's dollar bonds due July 2022 gained 1.6% on Wednesday to halt five days of losses, while the rupee advanced 0.3% a day after plunging as much as 12% -- the most in more than four decades -- in reaction to the central bank's announcement that it was letting the currency float as international reserves dwindle.",
+    "url": "https://www.bloombergquint.com/onweb/sri-lanka-comes-closer-to-imf-aid-option-after-rupee-plunge",
+    "url_hash": "07898d51e1046046057464810290702b",
+    "ut": 1646838581,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "July 2022",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "1.6%",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "five days",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "0.3%",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "as much as 12%",
+        "start_end": [
+          30,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than four decades",
+        "start_end": [
+          39,
+          43
+        ]
+      }
+    ]
   },
   {
     "date": "2022-03-09",
