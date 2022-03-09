@@ -1534,6 +1534,16 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Increasing women's political participation in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Democracy, by its very definition, calls for the representation of all citizens. Hence, women in politics are essential for representative governance. ..",
+    "url": "https://www.dailymirror.lk/businessopinion/Increasing-womens-political-participation-in-Sri-Lanka/306-232641",
+    "url_hash": "39871be6f6bba85d44019db5130884de",
+    "ut": 1646795386,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-09",
     "title": "Due to non-payment of tax arrears Mendis Distilleries suspended from functioning: Semasinghe",
     "source": "www.dailymirror.lk",
     "snippet": "Mendis Distilleries which is owned by Arjun Aloysius is yet to settle due tax arrears and therefore it has not been allowed to function, State Minister Shehan Semasinghe told Parliament yesterday. ..",
@@ -1856,6 +1866,25 @@
         "start_end": [
           36,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Cabinet nod for nine-member Economic Council",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Economic Council will convene weekly and will operate with the objective of boosting economic growth. Focus areas ..",
+    "url": "https://www.dailymirror.lk/front_page/Cabinet-nod-for-nine-member-Economic-Council/238-232664",
+    "url_hash": "6c261fa92143d626a9b6d9ef7e8f5493",
+    "ut": 1646798986,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Economic Council",
+        "start_end": [
+          0,
+          3
         ]
       }
     ]
@@ -3042,6 +3071,100 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Imports of 367 non-essential items restricted",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Gazette notification restricting the imports of 367 non-essential items without a valid licence has been issued, with effect from midnight today, Department of Imports and Exports Control said. ..",
+    "url": "https://www.dailymirror.lk/top_story/Imports-of-367-non-essential-items-restricted/155-232697",
+    "url_hash": "235c92922e4d5ac9ad74faf4be37f125",
+    "ut": 1646820586,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gazette",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "367",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Department of Imports and Exports Control",
+        "start_end": [
+          26,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka tourism sees arrival, revenue drop after Russian invasion",
+    "source": "economynext.com",
+    "snippet": "Sri Lankan tourism industry is likely to see a dip in arrivals and revenue as Russian national carrier Aeroflot halted international flights amid western sanctions over Vladimir Putin's Ukraine invasion.",
+    "url": "https://economynext.com/sri-lanka-tourism-sees-arrival-revenue-drop-after-russian-invasion-91434/",
+    "url_hash": "36f359f38e9b11ac6e8f0ef8115707ad",
+    "ut": 1646820594,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Aeroflot",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vladimir Putin's",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka added to Wizz Air Gulf network",
     "source": "travelweekly.co.uk",
     "snippet": "Wizz Air's Abu Dhabi offshoot has started serving Sri Lanka. The ultra-low-cost airline's first destination in South Asia will be served three times a week. Flights will operate to Mattala in south Sri Lanka with fares starting at AED179 using Airbus A321neo aircraft with 239 seats.",
@@ -3181,6 +3304,167 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka says to limit imports of 367 non-essential items effective midnight",
+    "source": "www.channelnewsasia.com",
+    "snippet": "Sri Lanka has limited imports of 367 non-essential items, including fish, footwear and wine, the Finance Ministry said on Wednesday as the country attempts to tackle its worst financial crisis in years.",
+    "url": "https://www.channelnewsasia.com/business/sri-lanka-says-limit-imports-367-non-essential-items-effective-midnight-2551961",
+    "url_hash": "ad0723c990327071be136739cb2a533d",
+    "ut": 1646824215,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "367",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Finance Ministry",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "China looks to strengthen ties with Sri Lanka Parliament",
+    "source": "colombogazette.com",
+    "snippet": "China has sought to strengthen ties with the Parliament in Sri Lanka. The Chinese Ambassador to Sri Lanka, Qi Zhenhong, called Speaker Mahinda Yapa Abeywardena, the Parliament media unit said today. D",
+    "url": "https://colombogazette.com/2022/03/09/china-looks-to-strengthen-ties-with-sri-lanka-parliament/",
+    "url_hash": "62bb34c557246fca4d9673686a3bd4fb",
+    "ut": 1646824695,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qi Zhenhong",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Yapa Abeywardena",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lankan rupee value slashed by 15 per cent, posted its biggest single-day decline in more than 40 years",
+    "source": "gulfnews.com",
+    "snippet": "There was no choice other than to allow the exchange rate to move,\" said Udeeshan Jonas, chief strategist CAL Securities, of the central bank's guidance capping the rupee a",
+    "url": "https://gulfnews.com/your-money/sri-lankan-rupee-value-slashed-by-15-per-cent-posted-its-biggest-single-day-decline-in-more-than-40-years-1.1646734083934",
+    "url_hash": "4c8912e558ce73ae6bf302f71e70722c",
+    "ut": 1646824734,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Udeeshan Jonas",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CAL Securities",
+        "start_end": [
+          21,
+          23
         ]
       }
     ]
