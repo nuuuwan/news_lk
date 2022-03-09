@@ -28,6 +28,65 @@
   },
   {
     "date": "2022-03-09",
+    "title": "IFC and Colombo Stock Exchange ring the bell for gender equality in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "In Sri Lanka, the female labour force participation rate remains stagnant at around 35%, compared with a steady male participation rate of 74%. Similarly, the average female unemployment rate (7%) remained more than double that of men (3%) between 2011 and ...",
+    "url": "https://www.ft.lk/hr/IFC-and-Colombo-Stock-Exchange-ring-the-bell-for-gender-equality-in-Sri-Lanka/47-731703",
+    "url_hash": "f28b113fd44aeef7c543536ac4ae4303",
+    "ut": 1646784544,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "around 35%",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "74%",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "7%",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "3%",
+        "start_end": [
+          47,
+          49
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "between 2011",
+        "start_end": [
+          50,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Emirates signs MoU with Sri Lanka Tourism",
     "source": "island.lk",
     "snippet": "The agreement reaffirms the airline's commitment to Sri Lanka and outlines mutually beneficial initiatives to help drive trade and tourism to the country. Since the nation safely re-opened to international tourists in February 2021,",
@@ -2054,6 +2113,49 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Supplying medicine to pharmacies suspended from yesterday",
+    "source": "www.dailymirror.lk",
+    "snippet": "After the decision by the Central Bank of Sri Lanka (CBSL) to devalue the rupee against the US dollar to Rs. 230, the mainline medicine manufacturing companies and importers have stopped supplying medicine to pharmacies from yesterday,",
+    "url": "https://www.dailymirror.lk/breaking_news/Supplying-medicine-to-pharmacies-suspended-from-yesterday/108-232685",
+    "url_hash": "dfe20f40f2550c1a4c786c4ba14ca5fb",
+    "ut": 1646802522,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          4,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "230",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Tourist arrivals in first nine weeks of 2022 surpass total arrivals in 2021",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka welcomed over 25,000 tourists in the first week of March, bringing the total number of arrivals to cross the 200,000 mark. ..",
@@ -3605,6 +3707,100 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Imports of 367 non-essential items restricted",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Gazette notification restricting the imports of 367 non-essential items without a valid licence has been issued, with effect from midnight today, Department of Imports and Exports Control said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Imports-of-367-non-essential-items-restricted/342-232697",
+    "url_hash": "9d36524a9992ff22d0b17f967cec9586",
+    "ut": 1646820522,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gazette",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "367",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Department of Imports and Exports Control",
+        "start_end": [
+          26,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "President calls for all party conference: Dinesh",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa had called for an all party conference to discuss the current economic situation in the country, Leader of the House Dinesh Gunawardene informed Parliament today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/President-calls-for-all-party-conference-Dinesh/108-232696",
+    "url_hash": "7c472452f6bdf865d37ff1bbdadc5e40",
+    "ut": 1646820522,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the House Dinesh Gunawardene",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka-Bound: Wizz Air Abu Dhabi Adds Mattala Route",
     "source": "simpleflying.com",
     "snippet": "In its short history, Wizz Air Abu Dhabi has wasted no time in developing a diverse route network from its UAE base. The latest addition to its increasing portfolio will see it se",
@@ -4451,6 +4647,41 @@
     "title": "Personal Data Protection Bill passed with amendments",
     "source": "www.dailymirror.lk",
     "snippet": "Personal Data Protection Bill was passed in parliament with amendments today. Chief Opposition Whip Lakshman Kiriella requested Speaker Mahinda yapa Abeywardhane to register their protest over the Bill.",
+    "url": "https://www.dailymirror.lk/breaking_news/Personal-Data-Protection-Bill-passed-with-amendments/108-232702",
+    "url_hash": "7ebf9e89e60115190cc3f0792ec43eb1",
+    "ut": 1646827722,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Abeywardhane",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Personal Data Protection Bill passed with amendments",
+    "source": "www.dailymirror.lk",
+    "snippet": "Personal Data Protection Bill was passed in parliament with amendments today. Chief Opposition Whip Lakshman Kiriella requested Speaker Mahinda yapa Abeywardhane to register their protest over the Bill.",
     "url": "https://www.dailymirror.lk/latest_news/Personal-Data-Protection-Bill-passed-with-amendments/342-232702",
     "url_hash": "b19fd4b9c689c47449a3cbe1bcc206ad",
     "ut": 1646827811,
@@ -4684,6 +4915,49 @@
         "start_end": [
           15,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "No issue if media prepared to take responsibility for information published : Namal",
+    "source": "www.dailymirror.lk",
+    "snippet": "Media does not have to worry about the Data Protection Bill as long as they are prepared to take responsibility for the information they publish, Minister Namal Rajapaksa told Parliament today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/No-issue-if-media-prepared-to-take-responsibility-for-information-published-Namal/108-232703",
+    "url_hash": "6c9a8310b40ea6783b67e31c5d0e46b6",
+    "ut": 1646831322,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Data Protection Bill",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Namal Rajapaksa",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
@@ -4963,6 +5237,73 @@
         "start_end": [
           39,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "PUCSL approves powercuts for tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) today approved power shedding schedule for several areas in the country. Accordingly, a one-hour powercut from 5.00 pm to 9.00 pm for P, Q, R, S, T, U, V and W while areas that come under A, B, C, D, E ...",
+    "url": "https://www.dailymirror.lk/breaking_news/PUCSL-approves-powercuts-for-tomorrow/108-232705",
+    "url_hash": "a8d156cc8d52835745536ec7b157db2b",
+    "ut": 1646834922,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "one-hour",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "5.00 pm to",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "9.00 pm",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
@@ -5417,6 +5758,84 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Rampant policy confusion!",
+    "source": "www.dailymirror.lk",
+    "snippet": "Confusion appears to be the order of the day. Just after the Central Bank Governor Ajith Nivard Cabraal told bank CEOs today that the rupee was floated, providing some much needed clarity, the Finance Ministry in a bizarre statement announced a Rs.",
+    "url": "https://www.dailymirror.lk/latest_news/Rampant-policy-confusion/342-232708",
+    "url_hash": "29803390fad73489359f90cc63e1b61f",
+    "ut": 1646845722,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the day",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Finance Ministry",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rs",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Media denied access to cover handing over",
+    "source": "www.dailymirror.lk",
+    "snippet": "The media personnel who went to cover the official event denied access to cover the handing over the items used by the state Minister Jayantha Samaraweera, who resigned recently. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Media-denied-access-to-cover-handing-over/342-232707",
+    "url_hash": "cc36e66e81360f33fca721d8c47898e2",
+    "ut": 1646845722,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jayantha Samaraweera",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka imposes import restrictions on 367 'non-essential' items",
     "source": "economictimes.indiatimes.com",
     "snippet": "It mostly relates to food items such as fish meat, fish fillets, milk and cream, buttermilk, curdled milk and cream, yogurt, butter and other fat and oil derived from milk; dairy spreads, cheese and curd,",
@@ -5539,6 +5958,194 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "New Fortress Energy to continue with plans for Sri Lanka LNG project",
+    "source": "www.dailymirror.lk",
+    "snippet": "New York-based gas-to-power developer New Fortress Energy will continue with the plans for the Sri Lanka LNG project after the country's court discharged the opposing development. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/New-Fortress-Energy-to-continue-with-plans-for-Sri-Lanka-LNG-project/108-232709",
+    "url_hash": "ba1f5b7fe43f8f67d47e55c6ed08ff87",
+    "ut": 1646849322,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "New Fortress Energy",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LNG",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Sri Lanka faces near 4 hour power cut on Thursday",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's power regulator announced power cut of up to 3 hour and 45 minutes for Thursday in all parts of the country between 8am and 11pm due to inadequate supply of fuel for thermal power generation.",
+    "url": "https://economynext.com/sri-lanka-faces-near-4-hour-power-cut-on-thursday-91473/",
+    "url_hash": "d952e6f17fab444f5e1ba53823014468",
+    "ut": 1646849348,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "up to 3 hour and",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "45 minutes",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "between 8am and 11",
+        "start_end": [
+          24,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Wizz Air Abu Dhabi expands its network to Mattala Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Wizz Air Abu Dhabi, the ultra-low-cost national airline of the UAE, has launched an exciting new route from Abu Dhabi to Mattala, Sri Lanka. ..",
+    "url": "https://www.ft.lk/ft_tv/Wizz-Air-Abu-Dhabi-expands-its-network-to-Mattala-Sri-Lanka/10520-731723",
+    "url_hash": "fbae091c922770e3b08e6db382a9816b",
+    "ut": 1646850784,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Wizz Air Abu Dhabi",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abu Dhabi",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "At Colombo Security Conclave, India calls for close cooperation to tackle trafficking, transnational crime",
+    "source": "www.uniindia.com",
+    "snippet": "Male/New Delhi, March 9 (UNI) India on Wednesday called for setting up of a joint working group involving stakeholders from member countries of the Colombo Security Conclave and its observer nations on tackling trafficking and transnational organised crime.",
+    "url": "https://www.uniindia.com/story/At-Colombo-Security-Conclave-India-calls-for-close-cooperation-to-tackle-trafficking-transnational-crime",
+    "url_hash": "9e025e2ad2f0b70f23fc1fa54a60b585",
+    "ut": 1646851731,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Male/New Delhi",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 9",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNI",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Security Conclave",
+        "start_end": [
+          28,
+          32
         ]
       }
     ]
