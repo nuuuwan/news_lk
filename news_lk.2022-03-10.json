@@ -1,6 +1,65 @@
 [
   {
     "date": "2022-03-10",
+    "title": "Measures to protect archaeological sites in North - Vidura",
+    "source": "www.msn.com",
+    "snippet": "State Minister of State Minister of National Heritage, Performing Arts and Rural Arts Promotion Vidura Wickramanayake after inspecting the Samalankulama Archaeological Work Site in Vavuniya said that steps will be taken to consolidate and preserve all archaeological sites in the North,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/measures-to-protect-archaeological-sites-in-north-vidura/ar-AAURpAT",
+    "url_hash": "3937d6a27d90cbd78a641da8e2f7b14b",
+    "ut": 1646870973,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Heritage, Performing Arts",
+        "start_end": [
+          6,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rural Arts Promotion Vidura Wickramanayake",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Samalankulama Archaeological Work Site in Vavuniya",
+        "start_end": [
+          19,
+          26
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "North",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Sri Lanka to issue long-term visas for travellers interested in investing",
     "source": "www.traveldailymedia.com",
     "snippet": "Sri Lankan cabinet has accepted a plan to offer long-term visas to tourists who are interested in investing in the island nation",
@@ -566,6 +625,41 @@
   },
   {
     "date": "2022-03-10",
+    "title": "SL at the heart of Indo-Pacific to play leading role: U.S. Ambassador",
+    "source": "www.dailymirror.lk",
+    "snippet": "U. S. Ambassador Julie J. Chung said her country recognizes that much of the planet's future will be written in the Indo-Pacific and Sri Lanka is at the heart of the Indo Pacific to play a leading role.",
+    "url": "https://www.dailymirror.lk/latest_news/SL-at-the-heart-of-Indo-Pacific-to-play-leading-role-U-S-Ambassador/342-232717",
+    "url_hash": "de47bef94e9ff49bf8e671981053d370",
+    "ut": 1646881751,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Julie J. Chung",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Indo Pacific",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Triumph International India launches their new retail store in Seawoods Grand Central Mall",
     "source": "www.easternherald.com",
     "snippet": "With 3 retail stores in the city, Triumph and sloggi reinstate their commitment to provide a unique experience for customers in Navi Mumbai~ ~Aims to - Report on The Eastern Herald",
@@ -622,6 +716,752 @@
         "start_end": [
           23,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sierra wins Seethawaka EPZ Wastewater Treatment Plant project",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Board of Investment of Sri Lanka (BOI) has awarded a contract to Sierra Construction Ltd to augment the common wastewater treatment plant at the Seethawaka Export Processing Zone (SEPZ) that services 139 enterprises.",
+    "url": "https://www.dailymirror.lk/other/Sierra-wins-Seethawaka-EPZ-Wastewater-Treatment-Plant-project/117-232731",
+    "url_hash": "52da72b4ec947036a9cd947e2bed98c3",
+    "ut": 1646885351,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Board of Investment of Sri Lanka",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BOI",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sierra Construction Ltd",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Seethawaka Export Processing Zone",
+        "start_end": [
+          26,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "139",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Colombo Port City to add aquatic airport",
+    "source": "www.dailymirror.lk",
+    "snippet": "The fast progressing Colombo Port City will see the addition of an aquatic airport, Tourism Minister Prasanna Ranatunga said. ..",
+    "url": "https://www.dailymirror.lk/business-news/Colombo-Port-City-to-add-aquatic-airport/273-232748",
+    "url_hash": "10d7290b30febc4638c076991f7776ea",
+    "ut": 1646885351,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Colombo Port City",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tourism",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Lanwa lays foundation for steel and roofing sheet factories",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's forerunner in steel manufacturing and export, Ceylon Steel Corporation Limited (Lanwa), recently laid the foundation for two state-of-the-art production facilities for steel and roofing sheets,",
+    "url": "https://www.dailymirror.lk/business-news/Lanwa-lays-foundation-for-steel-and-roofing-sheet-factories/273-232761",
+    "url_hash": "d4408ce31d361eb7f7fda5dbeb9373c1",
+    "ut": 1646885351,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Steel Corporation Limited",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "U.S. man with transplanted genetically modified pig heart dies",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 57-year-old man with terminal heart disease who made history as the first person to receive a genetically modified pig's heart died on Tuesday at the University of Maryland Medical Center (UMMC), the hospital said.",
+    "url": "https://www.dailymirror.lk/latest_news/U-S-man-with-transplanted-genetically-modified-pig-heart-dies/342-232744",
+    "url_hash": "2b5c776abd159abdae02552725b4b469",
+    "ut": 1646885351,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "57-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University of Maryland Medical Center",
+        "start_end": [
+          30,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "MP Gammanpila - no shortage of facts on fuel",
+    "source": "www.dailymirror.lk",
+    "snippet": "In his statement, the MP claims that (a) the Ceylon Petroleum Corporation (CPC) is incurring specific losses on the sale of each litre of Petrol, Diesel, and Kerosene, and (b) these daily losses could be minimized if .",
+    "url": "https://www.dailymirror.lk/slide-1/MP-Gammanpila-no-shortage-of-facts-on-fuel/329-232738",
+    "url_hash": "e523189b5c94146a5cd8abc7b5f3f039",
+    "ut": 1646885351,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ceylon Petroleum Corporation",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Petrol",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Diesel",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kerosene",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "5G-ready Samsung Galaxy S22 series available for pre-order at Dialog",
+    "source": "www.dailymirror.lk",
+    "snippet": "Dialog Axiata PLC announced the pre-order availability for the all-new 5G-ready Samsung Galaxy S22 and S22 Ultra, where all the Samsung Galaxy S22 flagship devices have also been enabled to experience the power of 5G on Dialog's 5G trial network,",
+    "url": "https://www.dailymirror.lk/other/5G-ready-Samsung-Galaxy-S22-series-available-for--pre-order-at-Dialog/117-232727",
+    "url_hash": "99b49c158c49711e57bbae9d19686dcb",
+    "ut": 1646885351,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Dialog Axiata PLC",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5G",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung Galaxy S22",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "S22 Ultra",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dialog",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Diesel scarcity leads Kelanitissa GT-7 power plant shut down",
+    "source": "www.dailymirror.lk",
+    "snippet": "The single power generation unit of Ceylon Electricity Board (CEB) GT-7 at the Kelanitissa power plant premises was shut down abruptly this morning due to absence of diesel, the CEB spokesperson said .",
+    "url": "https://www.dailymirror.lk/latest_news/Diesel-scarcity-leads-Kelanitissa-GT-7-power-plant-shut-down/342-232718",
+    "url_hash": "3195c6edb867f00e7e7218a7b3b6c905",
+    "ut": 1646885351,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ceylon Electricity Board",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEB",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kelanitissa",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "CEB",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sri Lanka sees small dip in forex reserves in Feb",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lanka's central bank said foreign currency reserves dropped to $2.31 billion by the end of February, a level that could provide a month's breather in efforts to lure investment and curb imports to ensure debt repayments during the year.",
+    "url": "https://www.reuters.com/markets/rates-bonds/sri-lanka-sees-small-dip-forex-reserves-feb-2022-03-10/",
+    "url_hash": "3bc0fd1cc9a9b10d143693b8abec8c37",
+    "ut": 1646885360,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$2.31 billion",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of February",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "month",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the year",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Benchmark 1-year T-bill yield surpasses 10% hitting 3-year high",
+    "source": "www.dailymirror.lk",
+    "snippet": "Treasury bill rate surpassed 10.0 percent at the bill auction held yesterday, first time since the Central Bank raised its key policy rates last week, hitting more than a three-year high. ..",
+    "url": "https://www.dailymirror.lk/business-news/Benchmark-1-year-T-bill-yield-surpasses-10-hitting-3-year-high/273-232767",
+    "url_hash": "e20e968812ff4b92387d49af332dbf92",
+    "ut": 1646888951,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "10.0 percent",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than a",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three-year",
+        "start_end": [
+          31,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Triumph International India launches their new retail store in Seawoods Grand Central Mall",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "ft. store is thematically designed with set-ups and fixtures ... Elaborating on the brand ethos, Santhosh Sivaramakrishnan, Commercial Director, India and Sri Lanka, Triumph International said, \"Triumph believes in customer-first approach and has witnessed ...",
+    "url": "https://www.bignewsnetwork.com/news/272375139/triumph-international-india-launches-their-new-retail-store-in-seawoods-grand-central-mall",
+    "url_hash": "9ea5f896e0a3ffeca9c24a629b26b2fc",
+    "ut": 1646889393,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Santhosh Sivaramakrishnan",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Triumph International",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Wizz Air Abu Dhabi launches new route to Mattala, Sri Lanka",
+    "source": "sharjah24.ae",
+    "snippet": "Wizz Air Abu Dhabi has announced the launch of a new route from Abu Dhabi to Mattala, Sri Lanka, to introduce a new segment of travel by adding its first destination to South Asia. Michael Berlouis, Managing Director of Wizz Air Abu Dhabi,",
+    "url": "https://sharjah24.ae/en/Articles/2022/03/10/Wizz-Air-Abu-Dhabi-launches-new-route-to-Mattala-Sri-Lanka",
+    "url_hash": "f97c46b767c290fb76410bdd307f7459",
+    "ut": 1646890460,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Wizz Air Abu Dhabi",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abu Dhabi",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Michael Berlouis",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Wizz Air Abu Dhabi",
+        "start_end": [
+          43,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "AP PHOTOS: Sri Lankan power cuts affect all walks of life",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka is going through hours of daily power cuts since it can't operate turbines because of a fuel shortage and the government has only a little foreign currency to pay for oil imports.",
+    "url": "https://apnews.com/article/business-sri-lanka-colombo-8927df9c89990f8cf1cba8bd28e592a5",
+    "url_hash": "b5cfb9b7ff98e828d897c687e31879b2",
+    "ut": 1646890588,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Wizz Air Abu Dhabi launches new route to Asian destination",
+    "source": "www.msn.com",
+    "snippet": "Wizz Air Abu Dhabi has launched a new route from Abu Dhabi to Mattala in Sri Lanka. It marks the airline's first destination to South Asia. The thrice-weekly flight will operate on Mondays, Wednesdays and Fridays.",
+    "url": "https://www.msn.com/en-ae/travel/news/wizz-air-abu-dhabi-launches-new-route-to-asian-destination/ar-AAURIyJ",
+    "url_hash": "0b320540ede88e7ec37e408cb464e86e",
+    "ut": 1646890820,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Wizz Air Abu Dhabi",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abu Dhabi",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weekly",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Mondays",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesdays",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Fridays",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "India pursue Sri Lanka sweep in pink ball second Test",
+    "source": "www.rfi.fr",
+    "snippet": "India will be strong favourites to stay unbeaten in pink-ball Tests at home as new captain Rohit Sharma eyes a clean sweep of Sri Lanka in the second Test starting Saturday.",
+    "url": "https://www.rfi.fr/en/india-pursue-sri-lanka-sweep-in-pink-ball-second-test",
+    "url_hash": "d362b65b1ca179d1305b734ae2ea8f18",
+    "ut": 1646892020,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohit Sharma",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
