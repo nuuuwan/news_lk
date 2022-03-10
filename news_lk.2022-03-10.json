@@ -515,6 +515,49 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Sri Lanka restricts 'luxuries' as forex crisis worsens",
+    "source": "www.brecorder.com",
+    "snippet": "COLOMBO: Sri Lanka on Wednesday tightened restrictions on a wide range of imports from whisky to kitchen appliances as a foreign exchange shortage pushed the economy to the brink of collapse. An import ban was already introduced in March 2020 on big-ticket items such as cars in an effort by the government to stop the outflow of dollars needed to pay Sri Lanka's debts.",
+    "url": "https://www.brecorder.com/news/40159743/sri-lanka-restricts-luxuries-as-forex-crisis-worsens",
+    "url_hash": "a13868afd47a9e9ecf022c5ee96bd78f",
+    "ut": 1646874520,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 2020",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          65,
+          68
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "National Obits",
     "source": "www.newspressnow.com",
     "snippet": "Stander first drew national notice with a fifth-round knockout of Earnie Shavers in 1970, and he was 23-1-1 when he got his opportunity against Frazier on May 25, 1972. The Frazier fight was at the Civic Auditorium in Omaha,",
@@ -1087,6 +1130,57 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Overwhelming support for Sri Lanka at the Interactive Dialogue at the Human Rights Council",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka received overwhelming support from countries of the Global South at the Interactive Dialogue on the written update of the High Commissioner for Human Rights on Sri Lanka, which concluded on Monday,",
+    "url": "https://www.ft.lk/ft_tv/Overwhelming-support-for-Sri-Lanka-at-the-Interactive-Dialogue-at-the-Human-Rights-Council/10520-731781",
+    "url_hash": "fb36936812e9c25cdafd95dcae7c58ba",
+    "ut": 1646885333,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Global South",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Interactive Dialogue",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
@@ -5596,6 +5690,65 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Chariot unveil Bhanuka Rajapaksa as Brand Ambassador",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chariot Sri Lanka recently unveiled national cricketer Bhanuka Rajapaksa as their Brand Ambassador for the year 2022 at an event hosted by Asriel Holdings (Pvt.) Ltd. at the Shangri-La Hotel in Colombo.",
+    "url": "https://www.dailymirror.lk/top-story-sports-3/Chariot-unveil-Bhanuka-Rajapaksa-as-Brand-Ambassador/327-232794",
+    "url_hash": "dd509b036b6200cdc4a6a56f54733f75",
+    "ut": 1646921311,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bhanuka Rajapaksa",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Brand",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the year 2022",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asriel Holdings",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Shangri-La Hotel in Colombo",
+        "start_end": [
+          30,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "RBI issues notification to operationalize $500 mn loan offered to Sri Lanka for petroleum items",
     "source": "www.freepressjournal.in",
     "snippet": "The RBI on Thursday issued a notification to operationalise the $500-million line of credit provided by India to Sri Lanka, which is facing the worst economic crisis in decades due to the pandemic, to buy petroleum products.",
@@ -5926,6 +6079,116 @@
   },
   {
     "date": "2022-03-10",
+    "title": "New Mumbai store for Triumph International India",
+    "source": "www.knittingindustry.com",
+    "snippet": "Triumph International India, one of the world's leading Intimate apparel brands, has inaugurated its new retail store in Seawoods Grand Central Mall, Navi Mumbai on March 8, in the presence of glamourous actress Tara Sutaria.",
+    "url": "https://www.knittingindustry.com/new-mumbai-store-for-triumph-international-india/",
+    "url_hash": "3584f80363711191e2629a126947994f",
+    "ut": 1646924933,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Triumph International India",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Seawoods Grand Central Mall",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Navi Mumbai",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 8",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tara Sutaria",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sri Lanka stock index sees record gain after select shares go up",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stocks gained record 6.81 percent on Thursday (10) as select investors pushed handful shares after the central bank allowed the local currency to float from a pegged 200 rupees, brokers said.",
+    "url": "https://economynext.com/sri-lanka-stock-index-sees-record-gain-after-select-shares-go-up-91516/",
+    "url_hash": "4370f45b2e971cf80762a9f9f59fe81b",
+    "ut": 1646924938,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "6.81 percent",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "200",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Sri Lanka stock index sees record gain as select shares pushed up",
     "source": "economynext.com",
     "snippet": "Sri Lanka stocks gained record 6.81 percent on Thursday (10) as select investors pushed handful shares after the central bank allowed the local currency to float from a pegged 200 rupees, brokers said.",
@@ -5971,6 +6234,49 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Ten party alliance to conduct rally in Nugegoda",
+    "source": "www.dailymirror.lk",
+    "snippet": "The ten party alliance of the government is planning for a public rally in Nugegoda in similar lines with 'Mahinda Sulanga rally' (Bring Back Mahinda) conducted way back in 2015 after the electoral defeat,",
+    "url": "https://www.dailymirror.lk/breaking_news/Ten-party-alliance-to-conduct-rally-in-Nugegoda/108-232795",
+    "url_hash": "af98a9931d8e7b7e49fa4e6311090926",
+    "ut": 1646928511,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "ten",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nugegoda",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Bring Back Mahinda",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2015",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
@@ -6092,6 +6398,111 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "LIOC increases diesel by Rs.75, Petrol by Rs.50 per litre",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Price of a litre of petrol has been increased by Rs.50 while the price of a litre of diesel has been up by Rs.75 with immediate effect, LIOC Managing Director Manoj Gupta said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/LIOC-increases-diesel-by-Rs-75-Petrol-by-Rs-50-per-litre/342-232799",
+    "url_hash": "d2fcde1dafca1d72381e42228cca70b9",
+    "ut": 1646932111,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Manoj Gupta",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Pathum Nissanka doubtful for second India Test",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's top order batsman Pathum Nissanka is unlikely to be in the final eleven for the second Test against India, it is learnt. ..",
+    "url": "https://www.dailymirror.lk/headline/Pathum-Nissanka-doubtful-for-second-India-Test/419-232800",
+    "url_hash": "177aa59403a7fb222bf71d650ccb0c69",
+    "ut": 1646932111,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pathum Nissanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eleven",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "President's economic council has same members who led SL to present debacle: Vijitha",
+    "source": "www.dailymirror.lk",
+    "snippet": "Expressing his views, National People's Power MP Vijitha Herath said today that the economic council appointed by the President recently, comprised the same members who were instrumental for the current economic debacle.",
+    "url": "https://www.dailymirror.lk/breaking_news/Presidents-economic-council-has-same-members-who-led-SL-to-present-debacle-Vijitha/108-232798",
+    "url_hash": "434e4fda72ee3387ccfa1008a1b5e068",
+    "ut": 1646932111,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "National People's Power MP",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vijitha Herath",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          12,
+          13
         ]
       }
     ]
@@ -6248,6 +6659,146 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Anton Roux appointed as fielding coach of Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Nottinghamshire pathway coach Anton Roux has departed Trent Bridge to join the Sri Lankan national team as fielding coach. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Anton-Roux-appointed-as-fielding-coach-of-Sri-Lanka/108-232801",
+    "url_hash": "d40ea6b4408383b39ddb1a098a6ee072",
+    "ut": 1646935711,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Anton Roux",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "India and Sri Lanka to further expand cooperation in petroleum sector",
+    "source": "colombogazette.com",
+    "snippet": "India and Sri Lanka are to further expand cooperation in the petroleum sector to help overcome the present crisis in Sri Lanka. The High Commissioner of Sri Lanka to India Milinda Moragoda met with th",
+    "url": "https://colombogazette.com/2022/03/10/india-and-sri-lanka-to-further-expand-cooperation-in-petroleum-sector/",
+    "url_hash": "7ca9568de512ad165779c47e53c0c46b",
+    "ut": 1646935742,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sri Lanka - SC Judge Yasantha Kodagoda withdraws from case on Shani Abeysekara",
+    "source": "menafn.com",
+    "snippet": "Supreme Court Judge Yasantha Kodagoda has withdrawn from hearing a Fundamental Rights petition filed by former Director of the Criminal",
+    "url": "https://menafn.com/1103827573/Sri-Lanka-SC-Judge-Yasantha-Kodagoda-withdraws-from-case-on-Shani-Abeysekara",
+    "url_hash": "946926e701c5a3c657562bbcd957ca8b",
+    "ut": 1646938082,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yasantha Kodagoda",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "a Fundamental Rights",
+        "start_end": [
+          9,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sri Lanka - Lanka IOC increases price of fuel again",
+    "source": "menafn.com",
+    "snippet": "Lanka IOC has increased the price of fuel, just days after it increased prices after world oil prices rose following the crisis in Ukra",
+    "url": "https://menafn.com/1103827570/Sri-Lanka-Lanka-IOC-increases-price-of-fuel-again",
+    "url_hash": "782b645624fd7b3da6b2eea6ea9379b6",
+    "ut": 1646938502,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "IOC",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukra",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
