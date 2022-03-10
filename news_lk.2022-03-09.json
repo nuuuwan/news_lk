@@ -6467,6 +6467,33 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Wizz Air Abu Dhabi expands its network to Mattala Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Further, the tourism sector in Sri Lanka will vastly grow with short and long-stay tourists arriving to the island while increasing connectivity between cities and other airlines around Wizz Air schedules. I am positive that the route will be a success and ...",
+    "url": "https://www.ft.lk/travel-tourism/Wizz-Air-Abu-Dhabi-expands-its-network-to-Mattala-Sri-Lanka/27-731755",
+    "url_hash": "10ab35b4ffa8e7cdfa72a35bc1498b3a",
+    "ut": 1646849335,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Wizz Air",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka faces near 4 hour power cut on Thursday",
     "source": "economynext.com",
     "snippet": "Sri Lanka's power regulator announced power cut of up to 3 hour and 45 minutes for Thursday in all parts of the country between 8am and 11pm due to inadequate supply of fuel for thermal power generation.",
@@ -6512,6 +6539,33 @@
         "start_end": [
           24,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "SLID-Daily FT webinar shares insights on how CEOs must lead",
+    "source": "www.ft.lk",
+    "snippet": "The CEO Forum of the Sri Lanka Institute of Directors (SLID) recently arranged a panel discussion and webinar titled 'How the pandemic has changed the way CEOs must lead' to discuss and share insights on the pandemic-led leadership style changes that were implemented by CEOs to successfully navigate their companies during the extremely challenging period.",
+    "url": "https://www.ft.lk/front-page/SLID-Daily-FT-webinar-shares-insights-on-how-CEOs-must-lead/44-731738",
+    "url_hash": "640580511345d7cccb6c3eaac43984fe",
+    "ut": 1646849348,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Institute of Directors",
+        "start_end": [
+          4,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLID",
+        "start_end": [
+          11,
+          12
         ]
       }
     ]
@@ -6692,6 +6746,97 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
+    "title": "New Fortress to provide Sri Lanka estimated 1.2 million gallons of LNG per day",
+    "source": "colombogazette.com",
+    "snippet": "New Fortress Energy (NFE) is to initially provide Sri Lanka an estimated 1.2 million gallons of LNG per day. NFE will have gas supply rights to the\u00a0Kerawalapitya Power Complex\u00a0and will initially provide GOSL an estimated 1.",
+    "url": "https://colombogazette.com/2022/03/09/new-fortress-to-provide-sri-lanka-estimated-1-2-million-gallons-of-lng-per-day/",
+    "url_hash": "73e013f1def22a4c7c18432fee8c2053",
+    "ut": 1646849357,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "New Fortress Energy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NFE",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "an estimated",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "1.2 million gallons",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LNG",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NFE",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kerawalapitya Power Complex",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "GOSL",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "an estimated 1",
+        "start_end": [
+          40,
+          43
         ]
       }
     ]
