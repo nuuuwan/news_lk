@@ -1,6 +1,126 @@
 [
   {
     "date": "2022-03-10",
+    "title": "Sri Lanka to issue long-term visas for travellers interested in investing",
+    "source": "www.traveldailymedia.com",
+    "snippet": "Sri Lankan cabinet has accepted a plan to offer long-term visas to tourists who are interested in investing in the island nation",
+    "url": "https://www.traveldailymedia.com/sri-lanka-to-issue-long-term-visas-for-travellers-interested-in-investing/",
+    "url_hash": "5238388df161155526ec70d302ba55d2",
+    "ut": 1646871057,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Multi-regional monitoring system for the conservation of the Sri Lankan leopard",
+    "source": "www.msn.com",
+    "snippet": "The Sri Lankan leopard (Panthera pardus kotiya) is the largest of the four wild cat species found in Sri Lanka, and the apex mammalian predator on the island. The sub-species of this charismatic animal is endemic to Sri Lanka and widely distributed across the island's dry zones and low country wet zones with habitats ranging to the cloud forests of the highest elevations in the hill country.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/multi-regional-monitoring-system-for-the-conservation-of-the-sri-lankan-leopard/ar-AAURzdG",
+    "url_hash": "84549c7af9e2a137e2d62267c0dc2794",
+    "ut": 1646871057,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Panthera",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "SLT-MOBITEL empowers Keragala Ranaviru Village",
+    "source": "www.msn.com",
+    "snippet": "SLT-MOBITEL, the National ICT Solutions Provider, continued its commitment to empowering Sri Lanka with 100% 4G LTE connectivity solutions, inaugurating yet another base station at the Ranaviru Village in Keragala,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/slt-mobitel-empowers-keragala-ranaviru-village/ar-AAURE9x",
+    "url_hash": "7c855cdf88967d4fb2c23b9690e34bc9",
+    "ut": 1646871057,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLT-MOBITEL",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National ICT Solutions Provider",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "100%",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Ranaviru Village",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Keragala",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Ceylinco Life among '10 Best Workplaces' in Banking, Finance & Insurance",
     "source": "island.lk",
     "snippet": "Ceylinco Life has been ranked among the 10 Best Workplaces in Sri Lanka's Banking, Financial Services and Insurance (BFSI) sector by Great Place to Work\u00ae, the global authority on workplace culture. Great Place to Work\u00ae announced its inaugural list of Best Workplaces in the BFSI Industries in Sri Lanka for 2021 at a recent awards",
@@ -338,6 +458,25 @@
         "start_end": [
           36,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sri Lanka has to hike rates, ensure monetary fiscal co-ordination to help rupee: Bellwether",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has to raise the policy rate urgently and also remove a surrender requirement which creates new money to help stabilize the rupee in a free float and also ensure monetary fiscal co-ordination.",
+    "url": "https://economynext.com/sri-lanka-has-to-hike-rates-ensure-monetary-fiscal-co-ordination-to-help-rupee-bellwether-91480/",
+    "url_hash": "185266d5978321cd5fe0bd8f92867429",
+    "ut": 1646879595,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
         ]
       }
     ]
