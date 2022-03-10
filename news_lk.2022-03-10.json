@@ -598,6 +598,73 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Toronto 18 terrorist attack plotter finds unusual support for his bid to become licensed lawyer",
+    "source": "www.fortsaskatchewanrecord.com",
+    "snippet": "One of the RCMP's national security investigators who helped bring down the shocking Toronto 18 terrorist plots in 2006 testified Wednesday in support of one of those convicted being granted a licence to practise law.",
+    "url": "https://www.fortsaskatchewanrecord.com/news/canada/toronto-18-terrorist-attack-plotter-finds-unusual-support-for-his-bid-to-become-licensed-lawyer",
+    "url_hash": "cb444de4ce9aa71a17884b454499af66",
+    "ut": 1646874561,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RCMP",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Toronto",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2006",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "India, Sri Lanka explore slew of maritime security agreements for Indian Ocean Region",
     "source": "economictimes.indiatimes.com",
     "snippet": "This mechanism include supply of Donier surveillance aircraft for the Sri Lanka Air Force, a ship repair dock for the Sri Lanka Navy in Trincomalee and suggestion to post a Sri Lankan Navy officer at the Intelligence Fusion Centre,",
@@ -1636,6 +1703,33 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Sri Lanka has to raise policy rates to contain inflation, help rupee: Wijewardena",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka needs further rate hike to contain monetary expansion and put the brakes on inflation but a rate hike is will also help support the rupee, W A Wijewardena, former Deputy Governor of the central bank said.",
+    "url": "https://economynext.com/sri-lanka-has-to-raise-policy-rates-to-contain-inflation-help-rupee-wijewardena-91487/",
+    "url_hash": "254c6280e3dde59065e7597e0b932c11",
+    "ut": 1646885365,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "W A Wijewardena",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Sri Lanka limits imports of 367 non-essential items effective midnight",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka has limited imports of 367 non-essential items, including fish, footwear and wine, the finance ministry said yesterday as the South Asian country attempts to tackle its worst financial crisis in years.",
@@ -2495,6 +2589,57 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Sri Lanka rupee traded at 260 to the US dollar for the day, market at 275/285",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's rupee hit 260 to the US dollar on Thursday in the interbank market and banks have started sell dollars at 250/260 for telegraphic transfers as a cautious float of the rupee progresses.",
+    "url": "https://economynext.com/sri-lanka-rupee-traded-at-260-to-the-us-dollar-for-the-day-market-at-275-285-91496/",
+    "url_hash": "ae05d888863803a6a3fe7f2e20016937",
+    "ut": 1646892565,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "260",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "250/260",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Triumph International India launches their new retail store in Seawoods Grand Central Mall",
     "source": "www.business-standard.com",
     "snippet": "Triumph International India, one of the world's leading Intimate apparel brands, has inaugurated its new retail store in Seawoods Grand Central Mall, Navi Mumbai on March 8, in presence of",
@@ -2655,6 +2800,108 @@
     "url_hash": "029ac4600f23338a8c124ce16afd20f6",
     "ut": 1646895960,
     "ent_info_list": []
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Basil's absence causes furore in Parliament",
+    "source": "www.dailymirror.lk",
+    "snippet": "As the opposition alleged that Finance Minister Basil Rajapaksa has not made any statement in Parliament since December 10 last year on the status of Sri Lanka's economy, Speaker Mahinda Yapa Abeywardene said he has no right to force any Minister to make a statement in the House.",
+    "url": "https://www.dailymirror.lk/latest_news/Basils-absence-causes-furore-in-Parliament/342-232777",
+    "url_hash": "2b573e1b30f84b32c49b0e34eb0238b6",
+    "ut": 1646896139,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December 10 last year",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Yapa Abeywardene",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "House",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Variant that combines Delta and Omicron identified",
+    "source": "www.dailymirror.lk",
+    "snippet": "Scientists have for the first time provided solid evidence of a covid strain that combines Delta and Omicron variants - but do not believe it poses a cause for concern. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Variant-that-combines-Delta-and-Omicron-identified/108-232782",
+    "url_hash": "def32076c61cdda69c25a728e64b27fc",
+    "ut": 1646896139,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Delta",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Omicron",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
   },
   {
     "date": "2022-03-10",
@@ -3500,6 +3747,41 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Shiranthi Rajapaksa says women's empowerment requires collective effort",
+    "source": "colombogazette.com",
+    "snippet": "Prime Minister Mahinda Rajapaksa's wife Shiranthi Rajapaksa says women's empowerment requires a collective effort. She participated and delivered a keynote address at the International Webinar with th",
+    "url": "https://colombogazette.com/2022/03/10/shiranthi-rajapaksa-says-womens-empowerment-requires-collective-effort/",
+    "url_hash": "c56de9b12cf0502144e99e258bf5cb80",
+    "ut": 1646899769,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shiranthi Rajapaksa",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the International Webinar",
+        "start_end": [
+          25,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Sri Lanka currency falls sharply as economic crisis deepens",
     "source": "news.yahoo.com",
     "snippet": "The Sri Lankan rupee fell sharply against the dollar Thursday, after the country's central bank ordered a 15 percent depreciation in a bid to stave off a looming economic collapse sparked by a shortage of foreign currency.",
@@ -3663,6 +3945,127 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "China mum on Sri Lanka's request for debt restructuring",
+    "source": "www.adaderana.lk",
+    "snippet": "China once again kept silent on Sri Lanka's request for debt restructuring but said it has been assisting the island nation to the best of its ability to overcome its forex crisis",
+    "url": "http://www.adaderana.lk/news.php?nid=81100",
+    "url_hash": "8a8f98783637bb3c4b27841dc4495e65",
+    "ut": 1646903348,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          6,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "India Pursue Sri Lanka Sweep In Pink Ball Second Test",
+    "source": "www.barrons.com",
+    "snippet": "India will be strong favourites to stay unbeaten in pink-ball Tests at home as new captain Rohit Sharma eyes a clean sweep of Sri Lanka in the second Test starting Saturday.",
+    "url": "https://www.barrons.com/news/india-pursue-sri-lanka-sweep-in-pink-ball-second-test-01646892008?refsec=afp-news",
+    "url_hash": "889c68a743ecd5f3055fc32f285d1b72",
+    "ut": 1646906288,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohit Sharma",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sri Lanka to revise control price of imported medicines",
+    "source": "www.china.org.cn",
+    "snippet": "COLOMBO, March 10 (Xinhua ... State Minister Channa Jayasumana told the media that gazette notifications will be issued announcing the revised prices. A number of commonly used medicines in Sri Lanka are currently sold under controlled pricing, which ...",
+    "url": "http://www.china.org.cn/world/Off_the_Wire/2022-03/10/content_78100843.htm",
+    "url_hash": "b679808a830148f406c4654616f7657e",
+    "ut": 1646906369,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "March 10",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Xinhua",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Channa Jayasumana",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]
