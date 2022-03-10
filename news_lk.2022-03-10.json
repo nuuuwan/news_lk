@@ -2085,6 +2085,33 @@
   },
   {
     "date": "2022-03-10",
+    "title": "AP PHOTOS: Sri Lankan power cuts affect all walks of life",
+    "source": "apnews.com",
+    "snippet": "Sri Lanka is going through hours of daily power cuts since it can't operate turbines because of a fuel shortage and the government has only a little foreign currency to pay for oil imports.",
+    "url": "https://apnews.com/8927df9c89990f8cf1cba8bd28e592a5",
+    "url_hash": "8f3c9877c3eaed3210bf6748749bf71e",
+    "ut": 1646888979,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Triumph International India launches their new retail store in Seawoods Grand Central Mall",
     "source": "www.bignewsnetwork.com",
     "snippet": "ft. store is thematically designed with set-ups and fixtures ... Elaborating on the brand ethos, Santhosh Sivaramakrishnan, Commercial Director, India and Sri Lanka, Triumph International said, \"Triumph believes in customer-first approach and has witnessed ...",
@@ -4497,6 +4524,49 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Wizz Air Abu Dhabi launches low-cost flights to Mattala",
+    "source": "www.adaderana.lk",
+    "snippet": "Wizz Air Abu Dhabi, the ultra-low-cost national airline of the UAE, has launched an exciting new route from Abu Dhabi to Mattala, Sri Lanka",
+    "url": "http://www.adaderana.lk/news/81103/wizz-air-abu-dhabi-launches-low-cost-flights-to-mattala",
+    "url_hash": "6267d1060860177c18260feb9366c5d0",
+    "ut": 1646906971,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Wizz Air Abu Dhabi",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Abu Dhabi",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mattala",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "LKR depreciates to the highest point in history",
     "source": "www.dailymirror.lk",
     "snippet": "The Sri Lankan Rupee depreciated to the highest point in history today reaching Rs. 249 against the US Dollar. ..",
@@ -5450,6 +5520,73 @@
         "start_end": [
           30,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sri Lanka maintains near 4 hour power cut; furnace oil, diesel storage down",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's utility provider Ceylon Electricity Board (CEB) has imposed up to 3 hour and 45 minutes' power cut on Friday (10) in multiple areas of the country while one hour power cuts has been imposed to the remaining areas with severe forex shortage dented fuel supply to run thermal power plants in the country.",
+    "url": "https://economynext.com/sri-lanka-maintains-near-4-hour-power-cut-furnace-oil-diesel-storage-down-91514/",
+    "url_hash": "de6e707a855b14e2ab55ce50a957fdb4",
+    "ut": 1646921987,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Electricity Board",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEB",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "up to 3 hour and 45 minutes",
+        "start_end": [
+          13,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "one hour",
+        "start_end": [
+          35,
+          37
         ]
       }
     ]
