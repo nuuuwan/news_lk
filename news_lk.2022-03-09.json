@@ -3659,6 +3659,41 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Vaccination Tracker",
+    "source": "www.theedgemarkets.com",
+    "snippet": "Sri Lanka's fuel import plans have been disrupted by a rapid spike in global crude prices after Russia's invasion of Ukraine, leaving the crisis-hit island nation struggling to pay for diesel amid power cuts as fuel pumps run dry,",
+    "url": "https://www.theedgemarkets.com/article/sri-lanka-struggles-pay-fuel-imports-after-surge-crude-prices",
+    "url_hash": "f0d0bddb6b8738579c4ccb6885c82e2e",
+    "ut": 1646818583,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-09",
     "title": "Sri Lanka inches closer to IMF aid option after rupee plunge",
     "source": "gulfnews.com",
     "snippet": "Colombo: Sri Lanka's painful decision to effectively devalue its currency this week could pave the way for the island nation to get help from the International Monetary Fund as a $1 billion debt payment looms in four months.",
