@@ -813,6 +813,41 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Sri Lanka struggles to pay for fuel imports after surge in crude prices",
+    "source": "www.fijitimes.com",
+    "snippet": "Sri Lanka's fuel import plans have been disrupted by a rapid spike in global crude prices after Russia's invasion of Ukraine, leaving the crisis-hit island nation struggling to pay for diesel amid power cuts as fuel pumps run dry,",
+    "url": "https://www.fijitimes.com/sri-lanka-struggles-to-pay-for-fuel-imports-after-surge-in-crude-prices/",
+    "url_hash": "631d74321b3ee4e48aa95297e4b071db",
+    "ut": 1646878179,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Sri Lanka has to hike rates, ensure monetary fiscal co-ordination to help rupee: Bellwether",
     "source": "economynext.com",
     "snippet": "Sri Lanka has to raise the policy rate urgently and also remove a surrender requirement which creates new money to help stabilize the rupee in a free float and also ensure monetary fiscal co-ordination.",
@@ -7339,6 +7374,116 @@
         "start_end": [
           45,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "India pursue Lanka sweep in pink ball second Test",
+    "source": "www.gulf-times.com",
+    "snippet": "India will be strong favourites to stay unbeaten in pink-ball Tests at home as new captain Rohit Sharma eyes a clean sweep of Sri Lanka in the second Test starting tomorrow.",
+    "url": "https://www.gulf-times.com/story/711536/India-pursue-Lanka-sweep-in-pink-ball-second-Test",
+    "url_hash": "6ce37af49d57ed68e1e7477b55322953",
+    "ut": 1646946579,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohit Sharma",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sega Nagendra, 1939-2022: An appreciation",
+    "source": "www.ft.lk",
+    "snippet": "Segarajasingham Nagendra, known as Sega, met the love of his life when they were both children. Eight years her senior, Sega was the playmate and bodyguard of his cousin Sarla Murugaser. Both were direct descendants of Sir Ponnamabalam Arunachalam,",
+    "url": "https://www.ft.lk/opinion/Sega-Nagendra-1939-2022-An-appreciation/14-731797",
+    "url_hash": "d03cb20ed8031165314fecbe63e5951d",
+    "ut": 1646946591,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Segarajasingham Nagendra",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sega",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Eight years",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sega",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sarla Murugaser",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ponnamabalam Arunachalam",
+        "start_end": [
+          42,
+          44
         ]
       }
     ]
