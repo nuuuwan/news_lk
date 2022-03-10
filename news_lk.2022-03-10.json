@@ -183,6 +183,89 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Sri Lanka set to play Test in south India after more than 15 years",
+    "source": "island.lk",
+    "snippet": "Rex Clementine in Bangalore Sri Lanka have been frequent visitors to south India even before they gained Test status having come here for the Gopalan Trophy. In fact, Sri Lanka's first Test match in India was played in Madras in 1982.",
+    "url": "https://island.lk/sri-lanka-set-to-play-test-in-south-india-after-more-than-15-years/",
+    "url_hash": "e9b11753c2e5eee7eea5cf5c5302da7e",
+    "ut": 1646872303,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rex Clementine",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Gopalan Trophy",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Madras",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1982",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "HERCapital by Hatch: Pioneering gender smart funding in Sri Lanka",
     "source": "island.lk",
     "snippet": "Gender disparity within the entrepreneurial world is a globally prevalent problem, often stemming from the underrepresentation of women in the labour force and leadership positions. This imbalance in diversity is mainly seen in markets with no gender-smart funding,",
@@ -196,6 +279,65 @@
         "start_end": [
           0,
           1
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "India, Sri Lanka explore slew of maritime security agreements for Indian Ocean Region",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "This mechanism include supply of Donier surveillance aircraft for the Sri Lanka Air Force, a ship repair dock for the Sri Lanka Navy in Trincomalee and suggestion to post a Sri Lankan Navy officer at the Intelligence Fusion Centre,",
+    "url": "https://economictimes.indiatimes.com/news/defence/india-sri-lanka-explore-slew-of-maritime-security-agreements-for-indian-ocean-region/articleshow/90113417.cms",
+    "url_hash": "65b7ba9977d645be17d228c4df8b5f2d",
+    "ut": 1646877583,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Donier",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Air Force",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Navy",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Trincomalee",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Navy",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Intelligence Fusion Centre",
+        "start_end": [
+          36,
+          40
         ]
       }
     ]
