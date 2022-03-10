@@ -4763,6 +4763,73 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Sri Lanka stocks end 6-pct higher amid rupee float",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stocks soared over 6 percent on Thursday (10) after the central bank allowed the local currency to float from a pegged 200 rupees, market data showed. On Thursday, rupee opened at 240/260 in the interbank market and went up as much as 275/285 before easing.",
+    "url": "https://economynext.com/sri-lanka-stocks-end-6-pct-higher-amid-rupee-float-91510/",
+    "url_hash": "79403119f4ffe175379fbeada7a19fe9",
+    "ut": 1646910548,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "over 6 percent",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "200",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "240/260",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Sri Lanka stares at possible default, again",
     "source": "www.globalcapital.com",
     "snippet": "The Democratic Socialist Republic of Sri Lanka is again facing a possible non-payment of its dollar bond, having dodged a default in January, as it continues to struggle with depleting foreign reserves and external headwinds.",
@@ -5289,6 +5356,100 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Sri Lanka's Rupee Devaluation, Import Restrictions May Boost Inflation -Analysts",
+    "source": "money.usnews.com",
+    "snippet": "Sri Lanka's sudden devaluation of the local currency and imposition of import limits on hundreds of items is likely to disrupt value chains and push up consumer prices that are already sky high, analysts and retailers warned.",
+    "url": "https://money.usnews.com/investing/news/articles/2022-03-10/sri-lankas-rupee-devaluation-import-restrictions-may-boost-inflation-analysts",
+    "url_hash": "0001cb922e30fd2c02654250fffb8d59",
+    "ut": 1646917757,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "UpanandaJayasundera Kandy Sports Special Corr",
+    "source": "dailynews.lk",
+    "snippet": "Twenty Seven year old Tharindu Chathuranga, a Rugby player of Kandy Sports Club is an Old Boy of Kingswood College,Kandy who got admitted to the College in the Year 2010. He started his Rugby",
+    "url": "https://dailynews.lk/line/upanandajayasundera-kandy-sports-special-corr",
+    "url_hash": "325f3550d80b54b7aefa36e60b1029dd",
+    "ut": 1646918747,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Twenty Seven year old",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tharindu Chathuranga",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rugby",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kandy Sports Club",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kingswood College",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the Year 2010",
+        "start_end": [
+          30,
+          33
         ]
       }
     ]
