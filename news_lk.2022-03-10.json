@@ -5835,6 +5835,25 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Sri Lankan restaurants you don't wanna miss",
+    "source": "www.iloveqatar.net",
+    "snippet": "Do you love exploring different cuisines? Would you like to try any of these Sri Lankan specialities? Check them out here!",
+    "url": "https://www.iloveqatar.net/dining/foodieNews/sri-lankan-restaurants-qatar",
+    "url_hash": "c2f873d9bb841b9a897ef683f5e9748b",
+    "ut": 1646917760,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Current fuel crisis won't affect airline operations: D.V. Chanaka",
     "source": "www.dailymirror.lk",
     "snippet": "The current fuel crisis has not affected the operations of flight services in the country as we paid dollars directly to the Ceylon Petrolium Corporation (CPC), Aviation and Export Zones Development State Minister D.",
@@ -6982,6 +7001,57 @@
     "title": "Pathum Nissanka doubtful for second India Test",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka's top order batsman Pathum Nissanka is unlikely to be in the final eleven for the second Test against India, it is learnt. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Pathum-Nissanka-doubtful-for-second-India-Test/342-232800",
+    "url_hash": "57329b4fa9192fdb2e39bddb4f26e4eb",
+    "ut": 1646932152,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pathum Nissanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eleven",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Pathum Nissanka doubtful for second India Test",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's top order batsman Pathum Nissanka is unlikely to be in the final eleven for the second Test against India, it is learnt. ..",
     "url": "https://www.dailymirror.lk/top-story-sports-1/Pathum-Nissanka-doubtful-for-second-India-Test/324-232800",
     "url_hash": "237e0d4f924bdf3df30f6bda9b226932",
     "ut": 1646932158,
@@ -7407,6 +7477,41 @@
   },
   {
     "date": "2022-03-10",
+    "title": "Sri Lanka - SC Judge Yasantha Kodagoda withdraws from case on Shani Abeysekara",
+    "source": "menafn.com",
+    "snippet": "Supreme Court Judge Yasantha Kodagoda has withdrawn from hearing a Fundamental Rights petition filed by former Director of the Criminal",
+    "url": "https://menafn.com/1103828271/Sri-Lanka-SC-Judge-Yasantha-Kodagoda-withdraws-from-case-on-Shani-Abeysekara",
+    "url_hash": "c1a48afef3c6f3feaf94e6175f979f48",
+    "ut": 1646939381,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Supreme Court",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Yasantha Kodagoda",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "a Fundamental Rights",
+        "start_end": [
+          9,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Was the last presidential election a fraud?",
     "source": "www.ft.lk",
     "snippet": "The prime issue contained in the petition filed by Nagananda Kodituwakku making the Bribery and Corruption Commission, its chairperson and its members, and the Election Commission, its former chairmen and members as respondents,",
@@ -7538,6 +7643,57 @@
         "start_end": [
           19,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "In conversation with Poet Ahnaf Jazeem \"The poems I wrote were against the ISIS ideology\"",
+    "source": "www.dailymirror.lk",
+    "snippet": "Young Tamil poet and teacher Ahnaf Jazeem was controversially arrested on May 16, 2020 under the Prevention of Terrorism Act (PTA) on the allegations of sowing Islamic extremism through his",
+    "url": "https://www.dailymirror.lk/hard-talk/In-conversation-with-Poet-Ahnaf-Jazeem-The-poems-I-wrote-were-against-the-ISIS-ideology/334-232803",
+    "url_hash": "fd0fd6584f65cb434603b5fb4ed724ab",
+    "ut": 1646946552,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ahnaf Jazeem",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 16, 2020",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Prevention of Terrorism Act",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
