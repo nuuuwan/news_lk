@@ -5596,6 +5596,16 @@
   },
   {
     "date": "2022-03-10",
+    "title": "AP PHOTOS: Sri Lankan power cuts affect all walks of life",
+    "source": "www.sfgate.com",
+    "snippet": "Government ministers have admitted that they struggle to pay the ships docked in Colombo port before unloading their fuel stocks. Dry weather has also limited hydropower production in shrinking reservoirs.",
+    "url": "https://www.sfgate.com/news/article/AP-PHOTOS-Sri-Lankan-power-cuts-affect-all-walks-16990942.php",
+    "url_hash": "8d8e53fb9a83ab530ba35675741684eb",
+    "ut": 1646914182,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-10",
     "title": "Organic Agriculture Nightmare Tanks Sri Lanka's Economy",
     "source": "www.forbes.com",
     "snippet": "New solutions for the environment fail if not properly executed. The latest example is organic farming, forced upon all farmers in Sri Lanka by a President wanting to lead an \"agricultural revolution\" for his own ego,",
@@ -6178,6 +6188,57 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Powercuts announced for tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) today approved the power shedding schedule for several areas in the country for tomorrow. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Powercuts-announced-for-tomorrow/108-232792",
+    "url_hash": "5d5fb470fcd2a536958da39c9a5d9c80",
+    "ut": 1646921365,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          23,
+          24
         ]
       }
     ]
@@ -7853,6 +7914,57 @@
   },
   {
     "date": "2022-03-10",
+    "title": "In conversation with Poet Ahnaf Jazeem \"The poems I wrote were against the ISIS ideology\"",
+    "source": "www.dailymirror.lk",
+    "snippet": "Young Tamil poet and teacher Ahnaf Jazeem was controversially arrested on May 16, 2020 under the Prevention of Terrorism Act (PTA) on the allegations of sowing Islamic extremism through his",
+    "url": "https://www.dailymirror.lk/opinion/In-conversation-with-Poet-Ahnaf-Jazeem-The-poems-I-wrote-were-against-the-ISIS-ideology/231-232803",
+    "url_hash": "286c3b1fdac844013724268fe2fa9772",
+    "ut": 1646946565,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ahnaf Jazeem",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 16, 2020",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Prevention of Terrorism Act",
+        "start_end": [
+          16,
+          21
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Islamic",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "India pursue Lanka sweep in pink ball second Test",
     "source": "www.gulf-times.com",
     "snippet": "India will be strong favourites to stay unbeaten in pink-ball Tests at home as new captain Rohit Sharma eyes a clean sweep of Sri Lanka in the second Test starting tomorrow.",
@@ -8230,6 +8342,57 @@
       {
         "label": "GPE",
         "text": "New Delhi",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Coronavirus: 580 fresh cases reported and confirms 13 more coronavirus deaths in Sri Lanka",
+    "source": "www.lankaweb.com",
+    "snippet": "The Health Ministry reports that another 580 persons have tested positive for Covid-19 today (March 10), pushing the tally of confirmed cases of the virus registered in the country to 654,916. Nearly 20,",
+    "url": "https://www.lankaweb.com/news/items/2022/03/10/coronavirus-580-fresh-cases-reported-and-confirms-13-more-coronavirus-deaths-in-sri-lanka/",
+    "url_hash": "d8dc0756b848b33112e1023dc2660276",
+    "ut": 1646953773,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Health Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "580",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today (March 10",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "654,916",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Nearly 20",
         "start_end": [
           35,
           37
