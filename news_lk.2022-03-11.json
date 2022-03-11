@@ -2148,6 +2148,25 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Wheat flour prices increased with immediate effect",
+    "source": "www.dailymirror.lk",
+    "snippet": "Ltd have decided to increase the price of wheat flour by Rs. 38 with immediate effect. Senior officials from the comp",
+    "url": "https://www.dailymirror.lk/latest_news/Wheat-flour-prices-increased-with-immediate-effect/342-232861",
+    "url_hash": "ec8bcdc16829bc97d236fbd613f3a5b6",
+    "ut": 1646978937,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "38",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "This photo shows queues at petrol pumps in India in 2012, not Sri Lanka in 2017",
     "source": "news.yahoo.com",
     "snippet": "As fuel shortages continued to bite in crisis-hit Sri Lanka, a photo of bikers queuing at petrol pumps was shared repeatedly in Facebook posts alongside a claim it was taken during a previous fuel crisis in 2017.",
@@ -2365,6 +2384,183 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Judgment in passport case against Shashi Weerawansa postponed",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Colombo Chief Magistrate today postponed for May 6 to deliver its judgment in respect of two cases filed against Shashi Weerawansa, the wife of National Freedom Front (NFF) Leader and former Minister Wimal Weerawansa.",
+    "url": "https://www.dailymirror.lk/latest_news/Judgment-in-passport-case-against-Shashi-Weerawansa-postponed/342-232864",
+    "url_hash": "5f15066a394c89e9ec2f85da56a0bf00",
+    "ut": 1646982537,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "May 6",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Shashi Weerawansa",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Freedom Front",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wimal Weerawansa",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Price of lunch packets increases from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The price of lunch packets will be increased due to the highest depreciation of the Sri Lankan rupee against the US dollar and the shortage of the LP gas cylinders, All Island Canteen Owners Association Chairman Asela Sampath said today.",
+    "url": "https://www.dailymirror.lk/latest_news/Price-of-lunch-packets-increases-from-today/342-232863",
+    "url_hash": "33d037c1005d0456629551ca41e63d82",
+    "ut": 1646982537,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "All Island Canteen Owners Association",
+        "start_end": [
+          31,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asela Sampath",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "CEB & Indian company to set up solar power plant in Sampur",
+    "source": "www.dailymirror.lk",
+    "snippet": "Ceylon Electricity Board (CEB) and National Thermal Power Corporation in India will sign a joint venture agreement today to establish a solar power electricity generating plant at Sampur, Trincomalee,",
+    "url": "https://www.dailymirror.lk/breaking_news/CEB-Indian-company-to-set-up-solar-power-plant-in-Sampur/108-232862",
+    "url_hash": "826aa1c1d026b87db73cb04b79f0bb7f",
+    "ut": 1646982537,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ceylon Electricity Board",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEB",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "National Thermal Power Corporation",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sampur",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Trincomalee",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
