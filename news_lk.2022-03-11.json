@@ -2148,6 +2148,33 @@
   },
   {
     "date": "2022-03-11",
+    "title": "This photo shows queues at petrol pumps in India in 2012, not Sri Lanka in 2017",
+    "source": "news.yahoo.com",
+    "snippet": "As fuel shortages continued to bite in crisis-hit Sri Lanka, a photo of bikers queuing at petrol pumps was shared repeatedly in Facebook posts alongside a claim it was taken during a previous fuel crisis in 2017.",
+    "url": "https://news.yahoo.com/photo-shows-queues-petrol-pumps-061438713.html",
+    "url_hash": "af114de016d3574df424e6070b2fb76b",
+    "ut": 1646978958,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2017",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "Bakery items to take a hike from midnight",
     "source": "www.dailymirror.lk",
     "snippet": "The bakery owners have decided to increase the prices of all bakery products, including the price of a loaf of bread, from midnight today due to the increase in the price of a kilo of wheat flour by the flour companies,",
@@ -2338,6 +2365,124 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "India pursue Sri Lanka sweep in second Test",
+    "source": "gulfnews.com",
+    "snippet": "Thrashed visitors inside 3 days in Mohali to lead two-match series 1-0  New Delhi: India will be strong favourites to stay unbeaten in pink-ball Tests at home as new captain Rohit Sharma eyes a clean sweep of Sri Lanka in the second Test starting Saturday.",
+    "url": "https://gulfnews.com/sport/cricket/icc/india-pursue-sri-lanka-sweep-in-second-test-1.86363498",
+    "url_hash": "3c84665278488937deaba3c9a68875df",
+    "ut": 1646983518,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "3 days",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mohali",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohit Sharma",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          45,
+          47
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          49,
+          50
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          52,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Struggling Sri Lanka hit by sharp fuel price hikes",
+    "source": "english.alarabiya.net",
+    "snippet": "Sri Lanka's largest private fuel retailer hiked diesel prices more than 40 percent on Friday, compounding the hardship for ordinary people in the country's",
+    "url": "https://english.alarabiya.net/News/world/2022/03/11/Struggling-Sri-Lanka-hit-by-sharp-fuel-price-hikes",
+    "url_hash": "24d9cef43092ef444e32f0a753ed0d07",
+    "ut": 1646984898,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "more than 40 percent",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          15,
+          16
         ]
       }
     ]

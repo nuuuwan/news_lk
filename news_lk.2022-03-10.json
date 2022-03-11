@@ -4803,6 +4803,57 @@
   },
   {
     "date": "2022-03-10",
+    "title": "U. S. Ambassador holds bilateral talks with Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "The newly appointed U.S. Ambassador, Julie Chung, called on Foreign Affairs Minister G.L. Peiris on March 9, 2022 at the Ministry of Foreign Affairs in Colombo. ..",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/U-S-Ambassador-holds-bilateral-talks-with-Minister/449-232787",
+    "url_hash": "08d15de137de4987b66875e89b63a513",
+    "ut": 1646903349,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Julie Chung",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G.L. Peiris",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 9, 2022",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Foreign Affairs in Colombo",
+        "start_end": [
+          22,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "India Pursue Sri Lanka Sweep In Pink Ball Second Test",
     "source": "www.barrons.com",
     "snippet": "India will be strong favourites to stay unbeaten in pink-ball Tests at home as new captain Rohit Sharma eyes a clean sweep of Sri Lanka in the second Test starting Saturday.",
@@ -7747,6 +7798,73 @@
         "start_end": [
           25,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Pathum Nissanka doubtful for second India Test",
+    "source": "www.islandcricket.lk",
+    "snippet": "Sri Lanka's top order batsman Pathum Nissanka is unlikely to be in the final eleven for the second Test against India, it is learnt. According to highly placed sources in Bangalore, the 23-year-old right handed batsman has a back problem.",
+    "url": "https://www.islandcricket.lk/news/pathum-nissanka-doubtful-for-second-india-test/",
+    "url_hash": "e1d1ceb083bc79603386255a8400817d",
+    "ut": 1646942958,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pathum Nissanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eleven",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bangalore",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "23-year-old",
+        "start_end": [
+          36,
+          41
         ]
       }
     ]
