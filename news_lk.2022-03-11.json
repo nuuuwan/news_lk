@@ -2325,6 +2325,33 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Bakery items to take a hike from midnight",
+    "source": "www.dailymirror.lk",
+    "snippet": "The bakery owners have decided to increase the prices of all bakery products, including the price of a loaf of bread, from midnight today due to the increase in the price of a kilo of wheat flour by the flour companies,",
+    "url": "https://www.dailymirror.lk/breaking_news/Bakery-items-to-take-a-hike-from-midnight/108-232860",
+    "url_hash": "da936eab4d8e7efc9bc6a8edd831c708",
+    "ut": 1646978916,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "Wheat flour prices increased with immediate effect",
     "source": "www.dailymirror.lk",
     "snippet": "Ltd have decided to increase the price of wheat flour by Rs. 38 with immediate effect. Senior officials from the comp",
@@ -5501,6 +5528,116 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Ranjan turns 59\u2026",
+    "source": "www.dailymirror.lk",
+    "snippet": "The supporters and fans of imprisoned actor- turned politician and parliamentarian Ranjan Ramanayake are seen celebrating Ranjan's 59th birthday in absentia. Pix by Waruna Wanniarachchi ..",
+    "url": "https://www.dailymirror.lk/caption_story/Ranjan-turns-59/110-232880",
+    "url_hash": "76808f8b7d08353ff5d0f69a3e266050",
+    "ut": 1647018516,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ranjan Ramanayake",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranjan",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "59th",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Waruna Wanniarachchi",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "President Gotabaya Rajapaksa to meet ITAK on March 15 - TNA MP",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa is to meet ITAK on Tuesday March 15 2022, TNA MP S. Rasamanickam told Parliament today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/President-Gotabaya-Rajapaksa-to-meet-ITAK-on-March-15-TNA-MP/108-232881",
+    "url_hash": "4edae1b1eeedcce84317ead3c4c467f2",
+    "ut": 1647018516,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "ITAK",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday March 15 2022",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TNA",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Rasamanickam",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "Sri Lanka to start talks with IMF on debt restructuring",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, including assistance with debt restructuring and managing its foreign exchange shortage,",
@@ -5530,6 +5667,671 @@
         "start_end": [
           13,
           15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "EXCLUSIVE-Sri Lanka to start talks with IMF as economic crisis worsens - sources",
+    "source": "www.nasdaq.com",
+    "snippet": "Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, where a foreign exchange shortage has squeezed essential imports amid looming debt payments,",
+    "url": "https://www.nasdaq.com/articles/exclusive-sri-lanka-to-start-talks-with-imf-as-economic-crisis-worsens-sources",
+    "url_hash": "39e188dbdeca6da97bfe9faf004588e9",
+    "ut": 1647022125,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka to start debt restructuring discussion with IMF - Reuters",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will start debt restructuring talks with the International Monetary Fund (IMF) in April on a plan to address its debt crisis, including assistance with debt restructuring and managing its foreign exchange shortage,",
+    "url": "https://economynext.com/sri-lanka-to-start-debt-restructuring-discussion-with-imf-reuters-91564/",
+    "url_hash": "28ab73bacd7ef90c3c10ee9a91cd46e6",
+    "ut": 1647022143,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Chameera out of pink ball Test, as Lakmal bids farewell",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka have had to alter their plans for the second Test against India on Saturday and go without fast-bowler Dushmantha Chameera after the team's medical panel recommended managing his workload in the lead up to the T20 World Cup later this year.",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Chameera-out-of-pink-ball-Test-as-Lakmal-bids-farewell/324-232898",
+    "url_hash": "867b01402880225dab9121799fdd35ef",
+    "ut": 1647022776,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dushmantha Chameera",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Cup",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "later this year",
+        "start_end": [
+          43,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka state-run Ceypetco also raises fuel prices after rupee devaluation",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's state-owned Ceylon Petroleum Corporation (Ceypetco) raised petrol (Octane 92) and (auto) diesel prices by 77 rupees and 55 rupees respectively from the mid night of Friday, after the island nation's central bank's flexible exchange rate resulted in near 30 percent depreciation in the currency within three days.",
+    "url": "https://economynext.com/sri-lanka-state-run-ceypetco-also-raises-fuel-prices-after-rupee-devaluation-91566/",
+    "url_hash": "3ae76d1a3abea10ad8e1d47aa4e6ce87",
+    "ut": 1647023163,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Petroleum Corporation",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceypetco",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Octane 92",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "77",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "55",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the mid night",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "30 percent",
+        "start_end": [
+          52,
+          54
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three days",
+        "start_end": [
+          59,
+          61
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka, Thailand discuss bilateral ties on higher education, research and innovation",
+    "source": "www.ft.lk",
+    "snippet": "Ambassador of Sri Lanka to the Kingdom of Thailand and Permanent Representative to the United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP), C.A. Chaminda I. Colonne called on Minister of Higher Education,",
+    "url": "https://www.ft.lk/business/Sri-Lanka-Thailand-discuss-bilateral-ties-on-higher-education-research-and-innovation/34-731849",
+    "url_hash": "c1f7ef6c7f665e498d5b986ea9fe058b",
+    "ut": 1647023398,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the Kingdom of Thailand",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations Economic and Social Commission",
+        "start_end": [
+          13,
+          20
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Pacific",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNESCAP",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "C.A. Chaminda I. Colonne",
+        "start_end": [
+          29,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Higher Education",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Consul General in Mumbai promotes Sri Lanka at CII Annual Meeting",
+    "source": "www.ft.lk",
+    "snippet": "Following the invitation of the Confederation of Indian Industry (CII), Gujarat Chapter Chairman, Consul General, Sri Lanka, Mumbai\u00a0Dr. Valsan Vethody addressed the inaugural plenary session of the Gujarat Annual Meeting: Rising Gujarat held on\u202f2\u202fMarch at\u202fAhmedabad.",
+    "url": "https://www.ft.lk/business/Consul-General-in-Mumbai-promotes-Sri-Lanka-at-CII-Annual-Meeting/34-731851",
+    "url_hash": "27d8034e470bb0ff192ab7463ced41a7",
+    "ut": 1647023398,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Confederation of Indian Industry",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CII",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gujarat Chapter",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Consul General",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Valsan Vethody",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gujarat",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gujarat",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "AMG Advanced Metallurgical Group N.V. Publishes 2021 Annual Report",
+    "source": "apnews.com",
+    "snippet": "Amsterdam,11March2022--- AMG Advanced Metallurgical Group N.V. (\"AMG\", EURONEXT AMSTERDAM: \"AMG\") has published its 2021 Annual Report. The 2021 Annual Report is available",
+    "url": "https://apnews.com/press-release/globe-newswire/technology-business-20b4ba62a1d9621d36949606afb5fd75",
+    "url_hash": "7cbbc6bc03fd720f1ecff53daa2ae195",
+    "ut": 1647023514,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "AMG Advanced Metallurgical Group N.V.",
+        "start_end": [
+          3,
+          8
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "AMG",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "AMG",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Annual Report",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka - CEB seeks increase in cost of electricity",
+    "source": "menafn.com",
+    "snippet": "The Ceylon Electricity Board (CEB) has sought an increase in the cost of electricity, the Public Utilities Commission of Sri Lanka (PUCSL) said today. PUCSL Chairman Janaka Ratnayake said that the PUCSL is considering the request from the CEB.",
+    "url": "https://menafn.com/1103833207/Sri-Lanka-CEB-seeks-increase-in-cost-of-electricity&source=30",
+    "url_hash": "172c46556044d429d45002cb8549679e",
+    "ut": 1647023767,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ceylon Electricity Board",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEB",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Public Utilities Commission",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janaka Ratnayake",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEB",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka to start talks with IMF as economic crisis worsens - sources",
+    "source": "financialpost.com",
+    "snippet": "Sri Lanka is facing its worst financial crisis in years. With foreign exchange reserves standing at a paltry $2.31 billion, the country is struggling to pay for critical imports i",
+    "url": "https://financialpost.com/pmn/business-pmn/sri-lanka-to-start-talks-with-imf-as-economic-crisis-worsens-sources",
+    "url_hash": "52a43e164e9c89dd13fdcda7a593252f",
+    "ut": 1647023985,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$2.31 billion",
+        "start_end": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Lanka IOC hikes fuel prices yet again",
+    "source": "www.dailyexcelsior.com",
+    "snippet": "The Lanka Indian Oil Company (LIOC), the Sri Lankan subsidiary of India's oil major Indian Oil Corporation has hiked the retail prices of petrol and diesel with effect from Friday due to the significant depreciation of the Sri Lankan Rupee,",
+    "url": "https://www.dailyexcelsior.com/lanka-ioc-hikes-fuel-prices-yet-again/",
+    "url_hash": "a925dd23ced853288195bd65a0fa214b",
+    "ut": 1647024765,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Lanka Indian Oil Company",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian Oil Corporation",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "WIZZ AIR ABU DHABI EXPANDS ITS EVER-GROWING NETWORK TO SOUTH ASIA WITH THE LAUNCH OF A NEW ROUTE TO MATTALA, SRI LANKA",
+    "source": "menafn.com",
+    "snippet": "The airline brings a unique offering with ultra-low-cost travel to the region Abu Dhabi, UAE:\u00a0Wizz Air Abu Dhabi,\u00a0the ultra-low-cost natio",
+    "url": "https://menafn.com/1103832888/WIZZ-AIR-ABU-DHABI-EXPANDS-ITS-EVER-GROWING-NETWORK-TO-SOUTH-ASIA-WITH-THE-LAUNCH-OF-A-NEW-ROUTE-TO-MATTALA-SRI-LANKA&source=24",
+    "url_hash": "ced44b6e7ae46dd5f3fd229454c05295",
+    "ut": 1647025605,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Abu Dhabi",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Wizz Air Abu Dhabi",
+        "start_end": [
+          22,
+          26
         ]
       }
     ]
