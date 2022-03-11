@@ -3463,6 +3463,41 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Tuk Tuk fare for second km increased to Rs.50",
+    "source": "www.dailymirror.lk",
+    "snippet": "Along with the recent fuel price increase, the All-Island Three-Wheeler Drivers' Union (AITWDU) said that the three wheeler fare should be increased, AITWDU President Lalith Dharmasekera said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Tuk-Tuk-fare-for-second-km-increased-to-Rs-50/342-232869",
+    "url_hash": "9fdff6a1cd11528dc4e6ed872d1a85d4",
+    "ut": 1646993368,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the All-Island Three-Wheeler Drivers' Union",
+        "start_end": [
+          8,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lalith Dharmasekera",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "School van fares to go up",
     "source": "www.dailymirror.lk",
     "snippet": "The All Island School Van Operators Association (AISVOA) today said that they are compelled to increase the school van fares as soon as the Ceylon Petroleum Corporation (CPC) increases its prices. ..",
@@ -4553,6 +4588,33 @@
   },
   {
     "date": "2022-03-11",
+    "title": "First Wheelchair Basketball League in city today",
+    "source": "www.msn.com",
+    "snippet": "Project Mumbai, is part of a larger mission to make Mumbai more accessible, and draw the attention of non-challenged citizens to para-sports",
+    "url": "https://www.msn.com/en-in/news/other/first-wheelchair-basketball-league-in-city-today/ar-AAUWrgG",
+    "url_hash": "8ac79ad2e4550dbd7c3c94a3e8ad9b61",
+    "ut": 1647007777,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Project Mumbai",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "Court sentences man to 10 years for double murder",
     "source": "www.msn.com",
     "snippet": "The Kalyan Criminal Court has sentenced a 37-year-old man to 10 years of rigorous imprisonment in a double murder case of 2010 registered at Mahatma Phule police station",
@@ -4858,6 +4920,100 @@
         "start_end": [
           45,
           46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Historic Galle Fort Hotel reopens inside UNESCO World Heritage site after massive two-year restoration",
+    "source": "bwhotelier.businessworld.in",
+    "snippet": "Sri Lanka's most iconic heritage hotel, Galle Fort Hotel, reopened on February 23, 2022, after completing an extensive two-year restoration process. Located inside the UNESCO World Heritage Galle Fort,",
+    "url": "http://bwhotelier.businessworld.in/article/Historic-Galle-Fort-Hotel-reopens-inside-UNESCO-World-Heritage-site-after-massive-two-year-restoration/11-03-2022-422656/",
+    "url_hash": "109aa53b26a4af77e65a4805f469f601",
+    "ut": 1647011810,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Galle Fort Hotel",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February 23, 2022",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-year",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNESCO World Heritage",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka to start talks with IMF on debt restructuring",
+    "source": "www.newsfirst.lk",
+    "snippet": "Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, including - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2022/03/11/sri-lanka-to-start-talks-with-imf-on-debt-restructuring/",
+    "url_hash": "59b2327f4cc5a5bead979b7ab1c534b4",
+    "ut": 1647014377,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
