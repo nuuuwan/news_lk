@@ -2763,6 +2763,57 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Price of lunch packets increases from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The price of lunch packets will be increased due to the highest depreciation of the Sri Lankan rupee against the US dollar and the shortage of the LP gas cylinders, All Island Canteen Owners Association Chairman Asela Sampath said today.",
+    "url": "https://www.dailymirror.lk/breaking_news/Price-of-lunch-packets-increases-from-today/108-232863",
+    "url_hash": "b07a874a805e18fefe370f27860cc077",
+    "ut": 1646982552,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "All Island Canteen Owners Association",
+        "start_end": [
+          31,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asela Sampath",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "Air ticket prices in Sri Lanka go up 25-27 percent as rupee depreciates further",
     "source": "economynext.com",
     "snippet": "Sri Lanka outbound travellers will need to pay 25- 27 percent more when booking airline tickets as the rupee continues to depreciate against dollar, the Civil Aviation Authority (CAA) said. With the Central Bank of Sri Lanka (CBSL) deciding to let the rupee float,",
@@ -4408,6 +4459,41 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Gammanpila barred from speaking in Parliament",
+    "source": "www.dailymirror.lk",
+    "snippet": "One of the sacked ministers, MP Udaya Gammanpila has been denied permission to speak in a Parliament debate on energy crisis on March 10. ..",
+    "url": "https://www.dailymirror.lk/top_story/Gammanpila-barred-from-speaking-in-Parliament/155-232876",
+    "url_hash": "691ee0cbd5ed5950621b7b0af35ec9d8",
+    "ut": 1647004152,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 10",
+        "start_end": [
+          23,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "254rs for a liter of petrol? a small country struggling with fuel prices",
     "source": "www.thehansindia.com",
     "snippet": "It is a known fact that Sri Lanka is struggling hard with inflation, unemployment and other issues after the pandemic.",
@@ -5179,6 +5265,41 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Sri Lanka to start talks with IMF on debt restructuring",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, including assistance with debt restructuring and managing its foreign exchange shortage,",
+    "url": "https://www.dailymirror.lk/breaking_news/Sri-Lanka-to-start-talks-with-IMF-on-debt-restructuring/108-232879",
+    "url_hash": "a855a2d8358d66b8fdc81b442a0e8ce2",
+    "ut": 1647014952,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "Exclusive-Sri Lanka to Start Talks With IMF on Debt Restructuring - Sources",
     "source": "money.usnews.com",
     "snippet": "COLOMBO (Reuters) -Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, including assistance with debt restructuring and managing its foreign exchange shortage,",
@@ -5374,6 +5495,41 @@
         "start_end": [
           45,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka to start talks with IMF on debt restructuring",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, including assistance with debt restructuring and managing its foreign exchange shortage,",
+    "url": "http://www.adaderana.lk/news/81138/sri-lanka-to-start-talks-with-imf-on-debt-restructuring",
+    "url_hash": "99819fd4c3b4fdf0f4669a616716619a",
+    "ut": 1647019760,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          13,
+          15
         ]
       }
     ]
