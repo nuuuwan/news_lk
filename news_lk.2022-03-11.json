@@ -92,5 +92,83 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "IFC and Colombo Stock Exchange Ring the Bell for Gender Equality in Sri Lanka",
+    "source": "island.lk",
+    "snippet": "For the seventh consecutive year, IFC partnered with the Colombo Stock Exchange (CSE) to 'Ring the Bell for Gender Equality.' Celebrated in line with the International Women's Day, the annual global initiative highlights how greater participation of women in the economy can spur sustainable and inclusive growth,",
+    "url": "https://island.lk/ifc-and-colombo-stock-exchange-ring-the-bell-for-gender-equality-in-sri-lanka/",
+    "url_hash": "bfb48dad5c57c852d53f89df8b5a4788",
+    "ut": 1646958967,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the seventh consecutive year",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSE",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Women's Day",
+        "start_end": [
+          30,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka actions to stabilize economy in global turmoil: Cabraal",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's actions including a float of the currency and taxes on imported items will help the economy stabilize amid global turmoil, Central Bank Governor Nivard Cabraal said, as the rupee fell in an free float exercise.",
+    "url": "https://economynext.com/sri-lanka-actions-to-stabilize-economy-in-global-turmoil-cabraal-91525/",
+    "url_hash": "c4d89970737030c69c343909090cb94b",
+    "ut": 1646958984,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Central Bank",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nivard Cabraal",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
   }
 ]
