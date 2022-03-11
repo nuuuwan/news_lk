@@ -6806,6 +6806,41 @@
   },
   {
     "date": "2022-03-10",
+    "title": "This Is the Most Expensive Country to Buy a Car",
+    "source": "www.msn.com",
+    "snippet": "Cars have become more expensive than in most years over the past several decades. It is not just a problem for Americans. A low inventory of the microchips used in car electronic and infotainment systems has halted the production of some cars.",
+    "url": "https://www.msn.com/en-us/money/markets/this-is-the-most-expensive-country-to-buy-a-car/ar-AAUTCmF",
+    "url_hash": "da277285304e2295a4dd3dd13c8f70bd",
+    "ut": 1646928538,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "most years",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past several decades",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Americans",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
     "title": "Ten party alliance to conduct rally in Nugegoda",
     "source": "www.dailymirror.lk",
     "snippet": "The ten party alliance of the government is planning for a public rally in Nugegoda in similar lines with 'Mahinda Sulanga rally' (Bring Back Mahinda) conducted way back in 2015 after the electoral defeat,",
@@ -8740,6 +8775,65 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-10",
+    "title": "Warne returns home to where story began",
+    "source": "www.northweststar.com.au",
+    "snippet": "At the St Kilda Cricket Club, the Junction Oval scoreboard reads, \"Shane Warne RIP\". On Thursday evening, as a Dassault Falcon 7X jet carrying Warne's body",
+    "url": "https://www.northweststar.com.au/story/7654013/warne-returns-home-to-where-story-began/",
+    "url_hash": "23bccc24fb09b3b1f2dcad9a79d54c6b",
+    "ut": 1646950138,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "the St Kilda Cricket Club",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Shane Warne RIP",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "evening",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dassault Falcon",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Warne",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
