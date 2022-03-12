@@ -716,6 +716,57 @@
   },
   {
     "date": "2022-03-12",
+    "title": "PM says Ranil a good friend, but no national government",
+    "source": "www.dailymirror.lk",
+    "snippet": "Amidst rising reports that a national government was being discussed between the Rajapaksa brothers and UNP Leader Ranil Wickremesinghe which would see President Gotabaya Rajapaksa as head of state and Wickremesinghe as the new Prime Minister,",
+    "url": "https://www.dailymirror.lk/latest_news/PM-says-Ranil-a-good-friend-but-no-national-government/342-232887",
+    "url_hash": "4666444782e3c159eabe277710c11500",
+    "ut": 1647047358,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wickremesinghe",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "Sri Lanka to start talks with IMF as economic crisis worsens \u2014 sources",
     "source": "www.malaymail.com",
     "snippet": "Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, where a foreign exchange shortage has squeezed essential imports amid looming debt payments,",
@@ -1364,6 +1415,41 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Grade 5 exam results to be released tonight",
+    "source": "www.dailymirror.lk",
+    "snippet": "Education Minister Dinesh Gunawardana said he intends to contact the relevant authorities to release the grade five scholarship examination results by tonight ..",
+    "url": "https://www.dailymirror.lk/latest_news/Grade-5-exam-results-to-be-released-tonight/342-232940",
+    "url_hash": "3d0819f17e2cc1c8c893dbb629e42c77",
+    "ut": 1647065358,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Dinesh Gunawardana",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "tonight",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "Sri Lanka: Destruction of Minaret at Daftar Jailani",
     "source": "www.srilankaguardian.org",
     "snippet": "Amidst the silence and secrecy of Thursday 24 February 2022 night the minaret, arch, at the entrance to Daftar Jailani was demolished using peco heavy equipment, as stated in the media. No doubt this was a planned high handed vandalism dismissing the rights of peaceful Muslims.",
@@ -1554,6 +1640,108 @@
         "start_end": [
           17,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka: Prices of essential commodities rise following currency devaluation",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "The prices of a number of essential commodities including fuel and wheat increased significantly on Friday following Sri Lanka decision to relax the controls",
+    "url": "https://www.bignewsnetwork.com/news/272381900/sri-lanka-prices-of-essential-commodities-rise-following-currency-devaluation",
+    "url_hash": "379a2dd49d5d7f1a6723a6cbee37a3e9",
+    "ut": 1647070586,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka's state-run oil and gas entity Ceylon Petroleum raises fuel prices",
+    "source": "www.thehindu.com",
+    "snippet": "Sri Lanka's state-run oil and gas entity Ceylon Petroleum has raised the price of petrol by 77 Rupees (LKR - Sri Lankan Rupees) and diesel by 55 Rupees after Lanka IOC, the local subsidiary of India's oil major Indian Oil Corporation,",
+    "url": "https://www.thehindu.com/news/international/sri-lankas-state-run-oil-and-gas-entity-ceylon-petroleum-raises-fuel-prices/article65217079.ece",
+    "url_hash": "226b00e54cf9f935cbf89f6bed8ca6b4",
+    "ut": 1647070826,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Petroleum",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "77",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LKR - Sri Lankan Rupees",
+        "start_end": [
+          22,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "55",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Lanka IOC",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian Oil Corporation",
+        "start_end": [
+          45,
+          48
         ]
       }
     ]

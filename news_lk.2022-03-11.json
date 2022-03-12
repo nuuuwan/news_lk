@@ -5214,6 +5214,33 @@
   },
   {
     "date": "2022-03-11",
+    "title": "COVID, Russia-Ukraine war and other external issues caused the crisis: Basil",
+    "source": "www.dailymirror.lk",
+    "snippet": "Finance Minister Basil Rajapaksa said that they are trying to provide relief to people as much as possible, despite the challenges posed by the Russia-Ukraine conflict. Commenting on the current economic debacle, he told reporters that the pandemic ...",
+    "url": "https://www.dailymirror.lk/breaking_news/COVID-Russia-Ukraine-war-and-other-external-issues-caused-the-crisis-Basil/108-232878",
+    "url_hash": "c75d7f810c850519a0bdd155183d25fa",
+    "ut": 1647011358,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "We will resolve local crises amidst Russia-Ukraine conflict: Basil",
     "source": "www.dailymirror.lk",
     "snippet": "Finance Minister Basil Rajapaksa said that they are trying to provide relief to people as much as possible, despite the challenges posed by the Russia-Ukraine conflict. ..",
@@ -6032,6 +6059,73 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "CPC also increases fuel prices; petrol by Rs.77 & diesel by Rs. 55",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Ceylon Petroleum Corporation has decided to increase fuel prices with effect from midnight today. A litre of 92 octane petrol has been increased by Rs 77 while a litre of 95 octane petrol by Rs. 75,",
+    "url": "https://www.dailymirror.lk/latest_news/CPC-also-increases-fuel-prices-petrol-by-Rs-77-diesel-by-Rs-55/342-232899",
+    "url_hash": "4bb7ac408b5a7aec29609df8a5b50e2e",
+    "ut": 1647022158,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ceylon Petroleum Corporation",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "92",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "77",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "95",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "75",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
