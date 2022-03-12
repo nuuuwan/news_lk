@@ -883,6 +883,41 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Sri Lanka drug prices up after money printing hits rupee; concern over cost",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka National Medicine Regulatory Association (NMRA) has given permission to raise drug prices by 29 percent on the request of private importers due to steep depreciation of rupee against the US dollar,",
+    "url": "https://economynext.com/sri-lanka-drug-prices-up-after-money-printing-hits-rupee-concern-over-cost-91573/",
+    "url_hash": "2c667acc2e6322fa9c371f8e3d4d424e",
+    "ut": 1647058149,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka National Medicine Regulatory Association",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "29 percent",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "Sri Lanka Raises Fuel Prices on Global Hike, Sharp Rupee Decline",
     "source": "www.bloombergquint.com",
     "snippet": "Sri Lanka raised fuel prices by over 40% after a currency float pushed the local rupee to record lows and amid a spike in global commodity costs. The Ceylon Petroleum Corp increased the price of a liter of gasoline to 254 rupees ($1) from 177 rupees,",
@@ -1015,6 +1050,124 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Remittances from exported goods and services from foreign earnings should be remitted to SL within 180 days - CBSL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Foreign earnings from all exported goods and services have been made mandatory and to be remitted to Sri Lanka within 180 days from the date of shipment or provisioning of services, the Central Bank stated.",
+    "url": "https://www.dailymirror.lk/breaking_news/Remittances-from-exported-goods-and-services-from-foreign-earnings-should-be-remitted-to-SL-within-180-days-CBSL/108-232939",
+    "url_hash": "ce6aa80c06c96de2b545f406d55c674f",
+    "ut": 1647061722,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "180 days",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "2nd test: Australia wins toss, elects to bat vs Pakistan",
+    "source": "apnews.com",
+    "snippet": "Australia won the toss and elected to bat against Pakistan as leg-spinner Mitchell Swepson made his test debut on Saturday. The 28-year-old Swepson replaced fast bowler Josh Hazlewood in the only change Australia made from the first test which ended in a draw on a docile wicket at Rawalpindi.",
+    "url": "https://apnews.com/d36911f979c8f692d83a77554b8352e9",
+    "url_hash": "8d7c1aa100e658e18f1dcb5a334430ac",
+    "ut": 1647061740,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mitchell Swepson",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "28-year-old",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Swepson",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Josh Hazlewood",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "2nd test: Australia wins toss, elects to bat vs Pakistan",
     "source": "apnews.com",
     "snippet": "Australia won the toss and elected to bat against Pakistan as leg-spinner Mitchell Swepson made his test debut on Saturday. The 28-year-old Swepson replaced fast bowler Josh Hazlewood in the only change Australia made from the first test which ended in a draw on a docile wicket at Rawalpindi.",
@@ -1135,6 +1288,272 @@
         "start_end": [
           19,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka: Prices of essential commodities rise following currency devaluation",
+    "source": "theprint.in",
+    "snippet": "The prices of a number of essential commodities including fuel and wheat increased significantly on Friday following Sri Lanka's decision to relax the controls over the value of the Sri Lankan rupee,",
+    "url": "https://theprint.in/world/sri-lanka-prices-of-essential-commodities-rise-following-currency-devaluation/870121/",
+    "url_hash": "e1564faf00f24a60f9e85a85c9c5b8c2",
+    "ut": 1647065331,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Central Bank issues new rules for receipt of export proceeds into Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "The Central Bank of Sri Lanka has issued new rules for the receipt of export proceeds into Sri Lanka. Accordingly, local suppliers who receive payments in foreign currency out of the export proceeds must mandatorily convert the residual of such receipts into Sri Lanka Rupees.",
+    "url": "https://colombogazette.com/2022/03/12/central-bank-issues-new-rules-for-receipt-of-export-proceeds-into-sri-lanka/",
+    "url_hash": "f8eda1ae2e457935dadf63a0329b1bc0",
+    "ut": 1647065354,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Sri Lanka Rupees",
+        "start_end": [
+          44,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka: Destruction of Minaret at Daftar Jailani",
+    "source": "www.srilankaguardian.org",
+    "snippet": "Amidst the silence and secrecy of Thursday 24 February 2022 night the minaret, arch, at the entrance to Daftar Jailani was demolished using peco heavy equipment, as stated in the media. No doubt this was a planned high handed vandalism dismissing the rights of peaceful Muslims.",
+    "url": "http://www.srilankaguardian.org/2022/03/sri-lanka-destruction-of-minaret-at.html",
+    "url_hash": "ed19389446c94f5415fdb4473a43749c",
+    "ut": 1647065691,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "24 February 2022",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daftar Jailani",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "peco",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslims",
+        "start_end": [
+          49,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka opposition MP tables private bill to ban conversion therapy",
+    "source": "economynext.com",
+    "snippet": "In a historic first for Sri Lanka, a private member's bill was tabled in parliament on Friday (11) by a member of the main opposition to ban the unscientific practice of conversion therapy by unregistered clinics to \"cure\" LGBTQI people.",
+    "url": "https://economynext.com/sri-lanka-opposition-mp-tables-private-bill-to-ban-conversion-therapy-91589/",
+    "url_hash": "5f1d2d2c839d3377e9e13c2104fd47ea",
+    "ut": 1647065949,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "India vs Sri Lanka Live Score, 2nd Test, Day 1: Rohit Sharma eyes clean sweep with win in IND vs SL pink-ball Test",
+    "source": "www.hindustantimes.com",
+    "snippet": "India vs Sri Lanka Live Cricket Score, 2nd Test, Day 1 Live Updates: After beating SL in the T20I series, Rohit Sharma's IND, would hope to accomplish a similar feat in the Tests by winning the pink-ball game.",
+    "url": "https://www.hindustantimes.com/cricket/india-vs-sri-lanka-live-score-2nd-test-day-1-ind-vs-sl-2022-pink-ball-test-latest-score-updates-and-cricket-news-today-101647061652117.html",
+    "url_hash": "ea8e791b889e2662e3761a2019189841",
+    "ut": 1647066591,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Live Cricket Score",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "2nd",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rohit Sharma's",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IND",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Tests",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka - Central Bank issues new rules for receipt of export proceeds into Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "The Central Bank of Sri Lanka has issued new rules for the receipt of export proceeds into Sri Lanka.   Accordingly, lo",
+    "url": "https://menafn.com/1103835579/Sri-Lanka-Central-Bank-issues-new-rules-for-receipt-of-export-proceeds-into-Sri-Lanka&source=30",
+    "url_hash": "d5acdfba04d85b2130b5d58c63f9936a",
+    "ut": 1647068474,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
         ]
       }
     ]
