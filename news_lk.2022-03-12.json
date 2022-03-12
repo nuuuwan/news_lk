@@ -1745,5 +1745,142 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka Raises Fuel Prices On Global Hike, Sharp Rupee Decline",
+    "source": "www.brudirect.com",
+    "snippet": "Sri Lanka Raises Fuel Prices On Global Hike, Sharp Rupee Decline. March 12th, 2022 \\| 15:36 PM \\| 23 views. SRI LANKA. Sri Lanka raised fuel p",
+    "url": "https://www.brudirect.com/news.php?id=140423",
+    "url_hash": "0fad11622561772fddf801b73ab69a42",
+    "ut": 1647072834,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sharp Rupee Decline",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 12th",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "15:36 PM",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "People flock to McDonald's for last meals as it shuts restaurants in Russia. Watch video",
+    "source": "indianexpress.com",
+    "snippet": "In the video, queue of dozens of cars was seen while McDonald's iconic yellow 'M' glittered amidst the street and car lights.",
+    "url": "https://indianexpress.com/article/trending/trending-globally/people-flock-mcdonalds-russia-7816575/",
+    "url_hash": "739c3d2d36035c28b1619a7c8505562f",
+    "ut": 1647073743,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "dozens",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "McDonald's",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka's state-run oil and gas entity raises fuel prices",
+    "source": "www.newindianexpress.com",
+    "snippet": "The Ceylon Petroleum Corporation (CPC) price hike has seen the price of Octane 92 petrol rising by 43.5 per cent to a record 254 rupees a litre while diesel soaring 45.5 per cent to 176 rupees.",
+    "url": "https://www.newindianexpress.com/world/2022/mar/12/sri-lankas-state-run-oil-and-gas-entity-raises-fuel-prices-2429311.html",
+    "url_hash": "03fd345adeef46c1f1a51aa2ebb68aec",
+    "ut": 1647073974,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ceylon Petroleum Corporation",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Octane 92",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "43.5 per cent",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "254",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "45.5 per cent",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "176",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
   }
 ]
