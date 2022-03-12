@@ -2240,6 +2240,49 @@
   {
     "date": "2022-03-12",
     "title": "India, Sri Lanka sign agreement to build solar power plant in island nation",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "Sri Lanka is facing its all-time worst foreign exchange crisis after the pandemic hit the nation's earnings from tourism and remittances. By December, the reserves position had plummeted to just one month's imports or a little over USD 1 billion.",
+    "url": "https://economictimes.indiatimes.com/industry/renewables/india-sri-lanka-sign-agreement-to-build-solar-power-plant-in-island-nation/articleshow/90167856.cms",
+    "url_hash": "73e6a3b0c3a473a4137f313e0f5d2703",
+    "ut": 1647076197,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "just one month's",
+        "start_end": [
+          34,
+          38
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "a little over",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "India, Sri Lanka sign agreement to build solar power plant in island nation",
     "source": "www.msn.com",
     "snippet": "India and Sri Lanka have signed an agreement for developing a 100 megawatt solar power plant in the island nation's eastern port district of Trincomalee, as part of the efforts to strengthen bilateral economic partnership,",
     "url": "https://www.msn.com/en-in/finance/news/india-sri-lanka-sign-agreement-to-build-solar-power-plant-in-island-nation/ar-AAUYmsb",
@@ -2362,6 +2405,49 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "If no solutions by govt. bus fare will go up by 30%, min. fare Rs.30: IPPBA",
+    "source": "www.dailymirror.lk",
+    "snippet": "Executive Committee decided today to raise the total bus fare by 30% while also raising the minimum bus fare from the present Rs.17 to Rs. 30, if the government does not come up with a solution. ..",
+    "url": "https://www.dailymirror.lk/latest_news/If-no-solutions-by-govt-bus-fare-will-go-up-by-30-min-fare-Rs-30-IPPBA/342-232944",
+    "url_hash": "e3ccbd3f5de022da9924060c534a0786",
+    "ut": 1647079788,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Executive Committee",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "30%",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
@@ -2491,6 +2577,143 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka's central bank assures country's currency to stabilise soon",
+    "source": "www.msn.com",
+    "snippet": "The Sri Lankan Rupee has depreciated by LKR 57 against USD in a span of seven days, bringing the exchange rate to the lowest ever, LKR 260 per US dollar on Thursday",
+    "url": "https://www.msn.com/en-in/news/world/sri-lankas-central-bank-assures-countrys-currency-to-stabilise-soon/ar-AAUYFgG",
+    "url_hash": "8993edc7fa75cbbc24ad73aa219e21d8",
+    "ut": 1647083397,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "LKR 57 against USD",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a span of seven days",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "260",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Mumbai Police registers fourth FIR against Talwalkars for bank loan fraud",
+    "source": "www.hindustantimes.com",
+    "snippet": "In May 2019, when the complainant bank deposited a security cheque issued by the borrower company it was dishonoured as the signature on the cheque did not match with the signature in the payee bank's record.",
+    "url": "https://www.hindustantimes.com/cities/mumbai-news/mumbai-police-registers-fourth-fir-against-talwalkars-for-bank-loan-fraud-101647089773768.html",
+    "url_hash": "3efb6e7472a3e0de7e423091778add8d",
+    "ut": 1647089769,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "May 2019",
+        "start_end": [
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Upananda Jayasundera -Kandy Sports Special correspondent",
+    "source": "www.dailynews.lk",
+    "snippet": "The Oldest 'Big Match' in the Hill capital between Dharmaraja and Kingswood Colleges, Kandy will be played on March 11 and 12, 2022 for the 114 th time at the Pallekele International cricket Stadium...",
+    "url": "https://www.dailynews.lk/line/upananda-jayasundera-kandy-sports-special-correspondent-45",
+    "url_hash": "602743215c47392c85564a247966adf9",
+    "ut": 1647090052,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Hill",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dharmaraja and",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kingswood Colleges",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 11 and 12, 2022",
+        "start_end": [
+          21,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "114",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pallekele International",
+        "start_end": [
+          34,
+          36
         ]
       }
     ]
