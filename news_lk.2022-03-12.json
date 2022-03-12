@@ -143,6 +143,83 @@
   },
   {
     "date": "2022-03-12",
+    "title": "CAGES OR WINGS The Predicament of Dancers Imprisoned by Legacy",
+    "source": "www.dailymirror.lk",
+    "snippet": "Dance is a unique and difficult choice for a career. Only a hardened few reach the heights they aim for and even when that target is reached, any dancer's time in the glow of the spotlight is all too fleeting.",
+    "url": "https://www.dailymirror.lk/audio/the_weekend_online/CAGES-OR-WINGS-The-Predicament-of-Dancers-Imprisoned-by-Legacy/426-232897",
+    "url_hash": "c65648efd0cc6e43c6456fa7302feeab",
+    "ut": 1647043723,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-12",
+    "title": "TROPICAL JAM",
+    "source": "www.dailymirror.lk",
+    "snippet": "Spotted at Tropical Jam 2022 held on the 5th of March at Cinnamon Lakeside, Colombo. Organized by Kanishka Corea, Nadun Nambuge, Keminda Attygalle and Roshan Perera, the guests were treated to a full day of live entertainment, with the best of local talent ...",
+    "url": "https://www.dailymirror.lk/audio/the_weekend_online/TROPICAL-JAM/426-232903",
+    "url_hash": "fb6f09655a300d3e3d760ea5b86d5f1e",
+    "ut": 1647043723,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 5th of March",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cinnamon Lakeside, Colombo",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kanishka Corea",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nadun Nambuge",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Keminda Attygalle",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Roshan Perera",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "INTERNATIONAL WOMEN'S DAY 2022",
     "source": "www.dailymirror.lk",
     "snippet": "Imagine a world where all females, in the East and the West, were treated as equals. The house of women is vast and unfinished. ..",
@@ -690,6 +767,71 @@
         "start_end": [
           33,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lankan president sacks two ministers amid deepening economic and political crisis",
+    "source": "www.wsws.org",
+    "snippet": "The removal of two key allies in the campaign that originally brought President Rajapakse to power underscores the deep political crisis of the government and entire capitalist class.",
+    "url": "https://www.wsws.org/en/articles/2022/03/12/slpr-m12.html",
+    "url_hash": "f833b7331585c44e7cf67be3b1546d34",
+    "ut": 1647058131,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rajapakse",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka allows exporters to pay local suppliers in foreign currency",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank has allowed local suppliers exporters to be paid in foreign currency and will also allow companies approved Strategic Development Act exemptions from a mandatory conversion of foreign currency,",
+    "url": "https://economynext.com/sri-lanka-allows-exporters-to-pay-local-suppliers-in-foreign-currency-91574/",
+    "url_hash": "20dc477cbe76922dc49689e55e4ed4b7",
+    "ut": 1647058209,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka allows exporters to pay local suppliers in dollars",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank has allowed local suppliers exporters to be paid in foreign currency and will also allow companies approved Strategic Development Act exemptions from a mandatory conversion of foreign currency,",
+    "url": "https://economynext.com/sri-lanka-allows-exporters-to-pay-local-suppliers-in-dollars-91574/",
+    "url_hash": "f0856b97d537923f8fb3d6cfcd55860f",
+    "ut": 1647058209,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
         ]
       }
     ]
