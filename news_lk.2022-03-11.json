@@ -3603,6 +3603,57 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Struggling Sri Lanka hit by sharp fuel price hikes",
+    "source": "www.macaubusiness.com",
+    "snippet": "Sri Lanka's largest private fuel retailer hiked diesel prices more than 40 percent on Friday, compounding the hardship for ordinary people in the country's worst economic crisis since independence. The island nation's 22 million people have already been reeling from weeks of shortages that have crippled public transport and caused long queues for petrol,",
+    "url": "https://www.macaubusiness.com/struggling-sri-lanka-hit-by-sharp-fuel-price-hikes/",
+    "url_hash": "34f66eab6e00bb9784ac3432c5dba1b9",
+    "ut": 1646993366,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "more than 40 percent",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22 million",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weeks",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "Tuk Tuk fare for second km increased to Rs.50",
     "source": "www.dailymirror.lk",
     "snippet": "Along with the recent fuel price increase, the All-Island Three-Wheeler Drivers' Union (AITWDU) said that the three wheeler fare should be increased, AITWDU President Lalith Dharmasekera said. ..",
