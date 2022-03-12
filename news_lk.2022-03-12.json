@@ -140,5 +140,142 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Tackling land forgery in Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "As land forgery continues unabated in Sri Lanka, something has to be done to prevent the prevalent rate of land fraud, with legal owners and innocent buyers unknowingly falling into these traps.According to news sources,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/tackling-land-forgery-in-sri-lanka/ar-AAUXJiw",
+    "url_hash": "3cba6647caf3913da45791b900db9d8b",
+    "ut": 1647044467,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "RBI operationalises US$ 500 mn loan provided to Sri Lanka for petro items",
+    "source": "www.msn.com",
+    "snippet": "Mumbai: The Reserve Bank of India (RBI) on Thursday issued a notification to operationalise the US$ 500-million Line of Credit provided by India to Sri Lanka, to buy petroleum products.The Export-Import Bank of India (Exim Bank) entered into a pact on February 2,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/rbi-operationalises-us-500-mn-loan-provided-to-sri-lanka-for-petro-items/ar-AAUXtpq",
+    "url_hash": "289bdebb693c0873a378fd88f509788e",
+    "ut": 1647044467,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Reserve Bank of India",
+        "start_end": [
+          2,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RBI",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "US$ 500-million",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Export-Import Bank of India",
+        "start_end": [
+          37,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February 2",
+        "start_end": [
+          53,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka to start talks with IMF as economic crisis worsens \u2014 sources",
+    "source": "www.malaymail.com",
+    "snippet": "Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, where a foreign exchange shortage has squeezed essential imports amid looming debt payments,",
+    "url": "https://www.malaymail.com/news/money/2022/03/12/sri-lanka-to-start-talks-with-imf-as-economic-crisis-worsens-sources/2046972",
+    "url_hash": "1d1b5da9d461d93859821a9177699f12",
+    "ut": 1647048067,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
   }
 ]

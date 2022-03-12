@@ -6081,6 +6081,73 @@
   },
   {
     "date": "2022-03-11",
+    "title": "Sri Lanka Petrol raised to Rs254 and Diesel to Rs176 a litre by CPC",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lanka's state-owned Ceylon Petroleum Corporation (Ceypetco) raised petrol (Octane 92) by 77 rupees and (auto) diesel by 55 rupees from the mid night of Friday, after the island nation's central bank's flexible exchange rate ...",
+    "url": "https://economynext.com/sri-lanka-petrol-raised-to-rs254-and-diesel-to-rs176-a-litre-by-cpc-91566/",
+    "url_hash": "6db35c117faf96418838cb1be86c8d5c",
+    "ut": 1647022884,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ceylon Petroleum Corporation",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceypetco",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Octane 92",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "77",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "55",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the mid night",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "Sri Lanka state-run Ceypetco also raises fuel prices after rupee devaluation",
     "source": "economynext.com",
     "snippet": "Sri Lanka's state-owned Ceylon Petroleum Corporation (Ceypetco) raised petrol (Octane 92) and (auto) diesel prices by 77 rupees and 55 rupees respectively from the mid night of Friday, after the island nation's central bank's flexible exchange rate resulted in near 30 percent depreciation in the currency within three days.",
@@ -6981,6 +7048,49 @@
         "start_end": [
           15,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "MJF Foundation, Karan Foundation donate new wing to Point Pedro Base Hospital",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Merrill J. Fernando Charitable Foundation and Ian & Barbara Karan Foundation have together funded and constructed a 90-bed Ward Block to modernize and expand services at the Point Pedro Base hospital.",
+    "url": "https://www.dailymirror.lk/other/MJF-Foundation--Karan-Foundation-donate-new-wing-to-Point-Pedro-Base-Hospital/117-232909",
+    "url_hash": "cb9efe2bbc9088971b077443a4a835d3",
+    "ut": 1647026459,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Merrill J. Fernando Charitable Foundation",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ian & Barbara Karan Foundation",
+        "start_end": [
+          7,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "90",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ward Block",
+        "start_end": [
+          21,
+          23
         ]
       }
     ]
