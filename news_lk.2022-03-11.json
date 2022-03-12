@@ -8202,5 +8202,96 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Sri Lanka to boost awareness among Bangladesh tourists",
+    "source": "island.lk",
+    "snippet": "As an initiative to attract more tourists from the Bangladesh market, the Sri Lanka Tourism Promotion Bureau (SLTPB) with the assistance of Sri Lanka High Commission in Dhaka and Sri Lankan Airlines organized a Familiarization (FAM) tour for two groups of the Bangladesh Travel Writers Association (BDTWA) and Tour Operators Association of Bangladesh (TOAB) for",
+    "url": "https://island.lk/sri-lanka-to-boost-awareness-among-bangladesh-tourists/",
+    "url_hash": "53e4cfde921863df3a54f34b2cb2aa6b",
+    "ut": 1647041532,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Tourism Promotion Bureau",
+        "start_end": [
+          12,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka High Commission",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dhaka",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Airlines",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Familiarization",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bangladesh Travel Writers Association (BDTWA",
+        "start_end": [
+          46,
+          53
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tour Operators Association of Bangladesh",
+        "start_end": [
+          55,
+          60
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "TOAB",
+        "start_end": [
+          61,
+          62
+        ]
+      }
+    ]
   }
 ]
