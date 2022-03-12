@@ -2124,6 +2124,57 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Temporary bridge to 'Paravi Duwa' declared open to public",
+    "source": "www.newsfirst.lk",
+    "snippet": "The temporary bridge connecting Matara city and 'Pavai Duwa' (Pigeon Island) was declared open to the public today (12),\u00a0Chief of - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2022/03/12/temporary-bridge-to-paravi-duwa-declared-open-to-public/",
+    "url_hash": "d73ebb2c0e871805f5680424956e852b",
+    "ut": 1647076134,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Matara city",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Pigeon Island",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "ADB President Masatsugu Asakawa arrives in Sri Lanka",
     "source": "www.adaderana.lk",
     "snippet": "Masatsugu Asakawa arrived in Sri Lanka today for an official visit. He was warmly received at the Bandaranaike International Airport (BIA) in Katunayake this morning by Tourism Minister, Prasanna Ranatunga and State Minister of Regional Co-operation Tharaka Balasuriaya while state ministers DV Chanaka and Shehan Semasinghe wee also present on the occasion.",
@@ -2669,6 +2720,16 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Following are the top foreign stories at 1700 hours",
+    "source": "www.theweek.in",
+    "snippet": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+    "url": "https://www.theweek.in/wire-updates/international/2022/03/12/fgn30-top-foreign-stories-at-1700-hours.html",
+    "url_hash": "906c4aa7b0750fc1aef13f20bf7574b1",
+    "ut": 1647086934,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-12",
     "title": "Mumbai Police registers fourth FIR against Talwalkars for bank loan fraud",
     "source": "www.hindustantimes.com",
     "snippet": "In May 2019, when the complainant bank deposited a security cheque issued by the borrower company it was dishonoured as the signature on the cheque did not match with the signature in the payee bank's record.",
@@ -2951,6 +3012,49 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "76 pilgrims from TN travel to Katchatheevu for church festival",
+    "source": "menafn.com",
+    "snippet": "A total of 76 pilgrims from Tamil Nadu's Rameswaram have travelled to Sri Lanka's Katchatheevu island to participate in",
+    "url": "https://menafn.com/1103835414/76-pilgrims-from-TN-travel-to-Katchatheevu-for-church-festival",
+    "url_hash": "63fee46dee21b79bbd5058df35e93a93",
+    "ut": 1647101694,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "76",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamil Nadu's",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Katchatheevu",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
