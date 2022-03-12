@@ -2717,5 +2717,67 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Mumbai Police registers fourth FIR against Talwalkars for bank loan fraud",
+    "source": "www.msn.com",
+    "snippet": "In May 2019, when the complainant bank deposited a security cheque issued by the borrower company it was dishonoured as the signature on the cheque did not match with the signature in the payee bank's record.",
+    "url": "https://www.msn.com/en-in/news/other/mumbai-police-registers-fourth-fir-against-talwalkars-for-bank-loan-fraud/ar-AAUYr9R",
+    "url_hash": "846832461a7f1c439adb8ad96e8b131f",
+    "ut": 1647090537,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "May 2019",
+        "start_end": [
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Colombo's Ratmalana Airport Restarts International Flights After 54 Years",
+    "source": "simpleflying.com",
+    "snippet": "The Sri Lankan government is all set to allow international flights to resume at Colombo's Ratmalana Airport (RML) after a gap of nearly 54 years. The announcement came from D.",
+    "url": "https://simpleflying.com/colombo-ratmalana-airport-restarts-international-flights-54-years/",
+    "url_hash": "e63acf69b0e762871532d92b5c94ce0e",
+    "ut": 1647093597,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Ratmalana Airport",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RML",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly 54 years",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "D.",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
   }
 ]
