@@ -3163,6 +3163,73 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Jow Biden",
+    "source": "www.india.com",
+    "snippet": "Testing and other preventive measures allow children traveling alone to be released to sponsors in Associated Press | February 11, 2022 8:45 PM IST The Taliban have called on the international community to release funds and help stave off a Associated Press | January 25,",
+    "url": "https://www.india.com/topic/jow-biden/",
+    "url_hash": "874d4d697fe5acdbd1eba2e067acc225",
+    "ut": 1647101339,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Associated Press",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "February 11, 2022",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "8:45 PM",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IST",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Taliban",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Associated Press",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January 25",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "76 pilgrims from TN travel to Katchatheevu for church festival",
     "source": "menafn.com",
     "snippet": "A total of 76 pilgrims from Tamil Nadu's Rameswaram have travelled to Sri Lanka's Katchatheevu island to participate in",
@@ -3200,6 +3267,49 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "India, Sri Lanka sign agreement to build solar power plant in island nation",
+    "source": "www.dailyexcelsior.com",
+    "snippet": "India and Sri Lanka have signed an agreement for developing a 100 megawatt solar power plant in the island nation's eastern port district of Trincomalee, as part of the efforts to strengthen bilateral economic partnership,",
+    "url": "https://www.dailyexcelsior.com/india-sri-lanka-sign-agreement-to-build-solar-power-plant-in-island-nation/",
+    "url_hash": "af07d430065a27b84f00738dde668088",
+    "ut": 1647109910,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 megawatt",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Trincomalee",
+        "start_end": [
+          25,
+          26
         ]
       }
     ]
