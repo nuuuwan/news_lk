@@ -719,6 +719,57 @@
     "title": "PM says Ranil a good friend, but no national government",
     "source": "www.dailymirror.lk",
     "snippet": "Amidst rising reports that a national government was being discussed between the Rajapaksa brothers and UNP Leader Ranil Wickremesinghe which would see President Gotabaya Rajapaksa as head of state and Wickremesinghe as the new Prime Minister,",
+    "url": "https://www.dailymirror.lk/top_story/PM-says-Ranil-a-good-friend-but-no-national-government/155-232887",
+    "url_hash": "765c35a76c82ce4fb642cd0cdb33d533",
+    "ut": 1647047353,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Wickremesinghe",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "PM says Ranil a good friend, but no national government",
+    "source": "www.dailymirror.lk",
+    "snippet": "Amidst rising reports that a national government was being discussed between the Rajapaksa brothers and UNP Leader Ranil Wickremesinghe which would see President Gotabaya Rajapaksa as head of state and Wickremesinghe as the new Prime Minister,",
     "url": "https://www.dailymirror.lk/latest_news/PM-says-Ranil-a-good-friend-but-no-national-government/342-232887",
     "url_hash": "4666444782e3c159eabe277710c11500",
     "ut": 1647047358,
@@ -2146,6 +2197,49 @@
   {
     "date": "2022-03-12",
     "title": "India, Sri Lanka sign agreement to build solar power plant in island nation",
+    "source": "www.financialexpress.com",
+    "snippet": "India and Sri Lanka have signed an agreement for developing a 100 megawatt solar power plant in the island nation's eastern port district of Trincomalee, as part of the efforts to strengthen bilateral economic partnership,",
+    "url": "https://www.financialexpress.com/industry/india-sri-lanka-sign-agreement-to-build-solar-power-plant-in-island-nation/2458843/",
+    "url_hash": "5edfc2c050354f19d7ac58aa3409fcb6",
+    "ut": 1647076161,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "100 megawatt",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Trincomalee",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "India, Sri Lanka sign agreement to build solar power plant in island nation",
     "source": "www.msn.com",
     "snippet": "India and Sri Lanka have signed an agreement for developing a 100 megawatt solar power plant in the island nation's eastern port district of Trincomalee, as part of the efforts to strengthen bilateral economic partnership,",
     "url": "https://www.msn.com/en-in/finance/news/india-sri-lanka-sign-agreement-to-build-solar-power-plant-in-island-nation/ar-AAUYmsb",
@@ -2217,6 +2311,57 @@
         "start_end": [
           25,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "If no solutions, bus fare will increase by 30%, minimum fare to Rs.30: IPPBA",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Inter-Provincial Private Bus Association (IPPBA) executive committee decided today to raise the total bus fare by 30% while also raising the minimum bus fare to Rs. 30 if the government did not provide a solution.",
+    "url": "https://www.dailymirror.lk/breaking_news/If-no-solutions-bus-fare-will-increase-by-30-minimum-fare-toRs-30-IPPBA/108-232944",
+    "url_hash": "7caee85696527b2260a4955fb0a21e3b",
+    "ut": 1647079753,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Inter-Provincial Private Bus Association",
+        "start_end": [
+          1,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IPPBA",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "30%",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
