@@ -4892,6 +4892,33 @@
   },
   {
     "date": "2022-03-11",
+    "title": "The Ongoing Looting of Sri Lanka's Cultural Heritage",
+    "source": "hyperallergic.com",
+    "snippet": "Artifacts stolen from the Kotawehera Rajamaha temple in Sri Lanka are the latest victims of longstanding looting and trafficking.",
+    "url": "https://hyperallergic.com/716524/the-ongoing-looting-of-sri-lankas-cultural-heritage/",
+    "url_hash": "2044c706bca70ad8775feb226559aafd",
+    "ut": 1647007745,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "the Kotawehera Rajamaha",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
     "title": "PUCSL agrees to approve emergency power purchase",
     "source": "www.dailymirror.lk",
     "snippet": "The Public Utilities Commission of Sri Lanka has agreed in principle to approve emergency power purchase subject to conditions laid down by the Commission. ..",
@@ -7539,6 +7566,57 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-11",
+    "title": "Goldman Sachs cuts U.S. growth forecast as commodity prices bite",
+    "source": "www.dailymirror.lk",
+    "snippet": "Goldman Sachs analysts downgraded their forecasts for U.S. economic growth for this year, reckoning that spikes in oil and other commodities since Russia's invasion of Ukraine will hurt spending. ..",
+    "url": "https://www.dailymirror.lk/business-news/Goldman-Sachs-cuts-U-S-growth-forecast-as-commodity-prices-bite/273-232918",
+    "url_hash": "27eaee4148521d6cbe8a5f9f0769eca8",
+    "ut": 1647029335,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Goldman Sachs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
