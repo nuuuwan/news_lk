@@ -1340,6 +1340,65 @@
   },
   {
     "date": "2022-03-12",
+    "title": "St.Anthony's Feast in Katchchathivu today (12)",
+    "source": "www.newsfirst.lk",
+    "snippet": "The annual feast of St.Anthony's at Katchchtivu island is to be held on Saturday (12). Religious observances and services are - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2022/03/12/st-anthonys-feast-in-katchchathivu-today-12/",
+    "url_hash": "be115e7f6ba5cf4ca0b748de904a2ba4",
+    "ut": 1647061771,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "annual",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "St.Anthony's",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Katchchtivu",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "2nd test: Australia wins toss, elects to bat vs Pakistan",
     "source": "apnews.com",
     "snippet": "Australia won the toss and elected to bat against Pakistan as leg-spinner Mitchell Swepson made his test debut on Saturday. The 28-year-old Swepson replaced fast bowler Josh Hazlewood in the only change Australia made from the first test which ended in a draw on a docile wicket at Rawalpindi.",
@@ -1767,6 +1826,25 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Pharmaceutical importers permitted to hike prices",
+    "source": "www.adaderana.lk",
+    "snippet": "The State Ministry of Production, Supply and Regulation of Pharmaceuticals has granted permission to pharmaceutical importers for a reasonable price increase, due to the increase in the exchange rates",
+    "url": "http://www.adaderana.lk/news/81111/pharmaceutical-importers-permitted-to-hike-prices",
+    "url_hash": "4e40a7d39375ab24ad3fc8a55547aee2",
+    "ut": 1647068971,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The State Ministry of Production, Supply and Regulation of Pharmaceuticals",
+        "start_end": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "Sri Lanka: Prices of essential commodities rise following currency devaluation",
     "source": "www.bignewsnetwork.com",
     "snippet": "The prices of a number of essential commodities including fuel and wheat increased significantly on Friday following Sri Lanka decision to relax the controls",
@@ -1981,6 +2059,73 @@
         "start_end": [
           12,
           14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Strengthening Indian Ocean Maritime Security Through The Colombo Security Conclave",
+    "source": "www.msn.com",
+    "snippet": "The fifth meeting of the National Security Advisors (NSA) of the 'Colombo Security Conclave' (CSC) at the Maldivian capital of Mal\u00e9 will be noted for the induction of Mauritius as a full member. Maldives,",
+    "url": "https://www.msn.com/en-in/news/opinion/strengthening-indian-ocean-maritime-security-through-the-colombo-security-conclave/ar-AAUY743",
+    "url_hash": "801e9f4aa1269df1945ef68ddab86a5e",
+    "ut": 1647072571,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Security Advisors",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the 'Colombo Security Conclave'",
+        "start_end": [
+          12,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSC",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Maldivian",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mal\u00e9",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mauritius",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
