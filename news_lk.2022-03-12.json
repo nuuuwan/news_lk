@@ -941,6 +941,57 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Goldman Sachs cuts U.S. growth forecast as commodity prices bite",
+    "source": "www.dailymirror.lk",
+    "snippet": "Goldman Sachs analysts downgraded their forecasts for U.S. economic growth for this year, reckoning that spikes in oil and other commodities since Russia's invasion of Ukraine will hurt spending. ..",
+    "url": "https://www.dailymirror.lk/business-news/Goldman-Sachs-cuts-U-S-growth-forecast-as-commodity-prices-bite/273-232918",
+    "url_hash": "27eaee4148521d6cbe8a5f9f0769eca8",
+    "ut": 1647048791,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Goldman Sachs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "Sri Lanka to Start Talks with IMF as Economic Crisis Worsens: Sources",
     "source": "www.news18.com",
     "snippet": "With foreign exchange reserves standing at a paltry $2.31 billion, the country is struggling to pay for critical imports including fuel, food and medicines.",
