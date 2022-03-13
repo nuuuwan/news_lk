@@ -1002,6 +1002,49 @@
   },
   {
     "date": "2022-03-13",
+    "title": "Two boys killed due to electrocution in Samanthurai",
+    "source": "www.dailymirror.lk",
+    "snippet": "Two children have died after being caught in an unauthorized power line at Naikadu in Samanthurai yesterday. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Two-boys-killed-due-to-electrocution-in-Samanthurai/108-232950",
+    "url_hash": "ddb15300f9e337709ff8708c71cad6a4",
+    "ut": 1647148155,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Naikadu",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Samanthurai",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "Army reconstructs Pigeon Island bridge in 5 days",
     "source": "www.dailymirror.lk",
     "snippet": "The temporary bridge connecting Matara town and Pigeon Island was declared open to the public yesterday by Chief of Defense Staff and Commander of the Army, General Shavendra Silva. ..",
@@ -1280,6 +1323,100 @@
         "start_end": [
           34,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Sri Lanka to start talks with IMF on debt restructuring",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lanka is set to begin talks with the International Monetary Fund (IMF) in mid-April on a plan for aid for the crisis-ridden country, media reports said on Sunday. The talks are likely to include assistance with debt restructuring and managing its foreign exchange shortage.",
+    "url": "https://news.webindia123.com/news/Articles/World/20220313/3918777.html",
+    "url_hash": "6c67c6692f1b70e58cd97bcf7efb5cd2",
+    "ut": 1647152545,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "mid-April",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Sri Lanka - Two Indian Navy ships berth at China-funded port in Hambantota",
+    "source": "menafn.com",
+    "snippet": "Two Indian Navy ships berthed at the China-funded port in Hambantota, the Port management said.   Hambantota Internatio",
+    "url": "https://menafn.com/1103838309/Sri-Lanka-Two-Indian-Navy-ships-berth-at-China-funded-port-in-Hambantota&source=30",
+    "url_hash": "3726a283aad33a328b55a1965d07f665",
+    "ut": 1647155149,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian Navy",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hambantota",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Port",
+        "start_end": [
+          15,
+          16
         ]
       }
     ]
