@@ -1648,5 +1648,142 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "At least seven months to end current fuel, gas crisis: Lokuge",
+    "source": "www.dailymirror.lk",
+    "snippet": "At least another seven months will take\u00a0to end the current fuel and gas queues, Energy Minister Gamini Lokuge said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/At-least-seven-months-to-end-current-fuel-gas-crisis-Lokuge/342-232953",
+    "url_hash": "892b86986332cc613b5517cc643f0c3e",
+    "ut": 1647159584,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "At least another seven months",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Energy",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamini Lokuge",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Around 100 Indian Pilgrims Attend Annual Festival At St Anthony's Shrine In Kachchateevu",
+    "source": "www.republicworld.com",
+    "snippet": "The two-day festival, which underlines deep people to people linkages between India and Sri Lanka as well as enduring cultural ties, was held on March 11-12.",
+    "url": "https://www.republicworld.com/world-news/rest-of-the-world-news/around-100-indian-pilgrims-attend-annual-festival-at-st-anthonys-shrine-in-kachchateevu-articleshow.html",
+    "url_hash": "21fc2f30d8a24f418594b2419b013fdb",
+    "ut": 1647159592,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "two-day",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 11-12",
+        "start_end": [
+          28,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "After port terminal deal, Adani group bags power projects in Sri Lanka",
+    "source": "www.thehindu.com",
+    "snippet": "India's Adani Group has signed a deal for two large power projects in Sri Lanka's Northern Province, six months after it bagged a strategic port terminal project in Colombo that it is now executing with majority stakes.",
+    "url": "https://www.thehindu.com/news/international/after-port-terminal-deal-adani-group-bags-power-projects-in-sri-lanka/article65219949.ece",
+    "url_hash": "199aad9a7703bf3a22d8dd7821bb6a23",
+    "ut": 1647160312,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Adani Group",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Northern Province",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "six months",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
   }
 ]
