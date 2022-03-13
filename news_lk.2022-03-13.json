@@ -2904,6 +2904,25 @@
   },
   {
     "date": "2022-03-13",
+    "title": "Fuel crisis severely impacts Sri Lanka",
+    "source": "www.news.cn",
+    "snippet": "The fuel crisis, caused by the shortage of foreign exchange, has severely impacted the Sri Lankan society, worsening the country's economic woes. The recent increase in crude oil prices in the world market has made many wonder whether fuel shortages would be a part of daily life.",
+    "url": "http://www.news.cn/asiapacific/20220313/eab7fbb34d6541f79f080b25fe4a3951/c.html",
+    "url_hash": "bf2fe7e54058254d7a599d4affb7621a",
+    "ut": 1647180527,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "UK warns its citizens on travel to SL over deteriorating economic situation",
     "source": "www.dailymirror.lk",
     "snippet": "The United Kingdom, in its latest travel advisory on Sri Lanka has warned its citizens saying the economic situation was deteriorating in the country with shortages of basic necessities including medicines, fuel and food. In the travel advisory released ...",
@@ -3682,6 +3701,111 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Cash-strapped Sri Lanka's cabinet panels meet to find alternative importing methods",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's cabinet sub committees appointed to find way forward to to manage imports from China, Japan, and Middle East met for the first time and explored other methods of importing essential food items,",
+    "url": "https://economynext.com/cash-strapped-sri-lankas-cabinet-panels-meet-to-find-alternative-importing-methods-91600/",
+    "url_hash": "2375f9aad38948f19863d54659a5db20",
+    "ut": 1647194945,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Middle East",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "India evacuates its citizens from Ukraine",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "A proactive and committed Indian government has evacuated nearly all its citizens most of whom were students from the war-hit Ukraine through its massive evacuation",
+    "url": "https://www.bignewsnetwork.com/video/1912/india-evacuates-its-citizens-from-ukraine",
+    "url_hash": "38011867b7014987050168bec5f062ad",
+    "ut": 1647195407,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Said-ul-Ajaib village carves its niche as unlikely start-up hub in south Delhi",
+    "source": "www.msn.com",
+    "snippet": "Over 100 early-stage startups have made the south Delhi area their home, operating out of its multi-storey buildings and severalco-working spaces",
+    "url": "https://www.msn.com/en-in/news/other/said-ul-ajaib-village-carves-its-niche-as-unlikely-start-up-hub-in-south-delhi/ar-AAV0Gia",
+    "url_hash": "647f68bf68385183f1eef643e3150e7a",
+    "ut": 1647196201,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Delhi",
+        "start_end": [
+          10,
+          11
         ]
       }
     ]
