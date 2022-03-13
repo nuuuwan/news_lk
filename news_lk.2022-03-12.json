@@ -1949,6 +1949,73 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Strengthening Indian Ocean Maritime Security Through The Colombo Security Conclave",
+    "source": "www.news18.com",
+    "snippet": "The fifth meeting of the National Security Advisors (NSA) of the 'Colombo Security Conclave' (CSC) at the Maldivian capital of Mal\u00e9 will be noted for the induction of Mauritius as a full member. Maldives,",
+    "url": "https://www.news18.com/news/opinion/strengthening-indian-ocean-maritime-security-through-the-colombo-security-conclave-4867322.html",
+    "url_hash": "885a5a76c9be647270651a8945840460",
+    "ut": 1647069703,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Security Advisors",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the 'Colombo Security Conclave'",
+        "start_end": [
+          12,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSC",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Maldivian",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mal\u00e9",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mauritius",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "Sri Lanka: Prices of essential commodities rise following currency devaluation",
     "source": "www.bignewsnetwork.com",
     "snippet": "The prices of a number of essential commodities including fuel and wheat increased significantly on Friday following Sri Lanka decision to relax the controls",
@@ -2281,6 +2348,25 @@
         "start_end": [
           27,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka to start talks with IMF as economic crisis worsens: sources",
+    "source": "kathmandupost.com",
+    "snippet": "With foreign exchange reserves standing at a paltry $2.31 billion, the country is struggling to pay for critical imports including fuel, food and medicines.",
+    "url": "https://kathmandupost.com/world/2022/03/12/sri-lanka-to-start-talks-with-imf-as-economic-crisis-worsens-sources",
+    "url_hash": "1799ea28d74105ef4cc7f5d02949f169",
+    "ut": 1647073303,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "$2.31 billion",
+        "start_end": [
+          8,
+          11
         ]
       }
     ]
@@ -2969,6 +3055,49 @@
   },
   {
     "date": "2022-03-12",
+    "title": "Sri Lanka's central bank assures country's currency to stabilise soon",
+    "source": "www.wionews.com",
+    "snippet": "The Central Bank of Sri Lanka, the island country's monetary authority assured on Friday that the Sri Lankan Rupee (LKR) which has seen significant volatility in the past few years will stabilize soon.",
+    "url": "https://www.wionews.com/south-asia/sri-lankas-central-bank-assures-countrys-currency-to-stabilize-soon-461651",
+    "url_hash": "2ed5fb8ea7787ba66c6952c8401ac826",
+    "ut": 1647084103,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LKR",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past few years",
+        "start_end": [
+          30,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "Following are the top foreign stories at 1700 hours",
     "source": "www.theweek.in",
     "snippet": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
@@ -3613,6 +3742,57 @@
         "start_end": [
           38,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Shane Warne was not a popular man in Sri Lanka. Then one act of kindness changed everything",
+    "source": "www.abc.net.au",
+    "snippet": "Dogged by scandals in the late 90s and early 2000s, Shane Warne arrived in Sri Lanka a controversial figure. But the people he met after the Boxing Day tsunami have never forgotten him.",
+    "url": "https://www.abc.net.au/news/2022-03-13/shane-warne-boxing-day-tsunami/100898370",
+    "url_hash": "914a43e8f504513fc79ff796b62cb247",
+    "ut": 1647112903,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the late 90s",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early 2000s",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Boxing Day",
+        "start_end": [
+          27,
+          30
         ]
       }
     ]
