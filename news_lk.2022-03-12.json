@@ -2915,6 +2915,49 @@
   },
   {
     "date": "2022-03-12",
+    "title": "If no solutions by govt. bus fare will go up by 30%, min. fare Rs.30: IPPBA",
+    "source": "www.dailymirror.lk",
+    "snippet": "Executive Committee decided today to raise the total bus fare by 30% while also raising the minimum bus fare from the present Rs.17 to Rs. 30, if the government does not come up with a solution. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/If-no-solutions-by-govt-bus-fare-will-go-up-by-30-min-fare-Rs-30-IPPBA/108-232944",
+    "url_hash": "9997b37c0db09eafdb536dc78763786f",
+    "ut": 1647079742,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Executive Committee",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "30%",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "30",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
     "title": "If no solutions, bus fare will increase by 30%, minimum fare to Rs.30: IPPBA",
     "source": "www.dailymirror.lk",
     "snippet": "The Inter-Provincial Private Bus Association (IPPBA) executive committee decided today to raise the total bus fare by 30% while also raising the minimum bus fare to Rs. 30 if the government did not provide a solution.",
@@ -3721,6 +3764,25 @@
     "title": "People are preparing to revolt - Maithri",
     "source": "www.dailymirror.lk",
     "snippet": "Former President Maithripala Sirisena said that the people are preparing to revolt as they cannot bear the burden of the cost of living. ..",
+    "url": "https://www.dailymirror.lk/top_story/People-are-preparing-to-revolt-Maithri/155-232947",
+    "url_hash": "1a5bdbb896593839a79fdf11b7898bcd",
+    "ut": 1647108542,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Maithripala Sirisena",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "People are preparing to revolt - Maithri",
+    "source": "www.dailymirror.lk",
+    "snippet": "Former President Maithripala Sirisena said that the people are preparing to revolt as they cannot bear the burden of the cost of living. ..",
     "url": "https://www.dailymirror.lk/breaking_news/People-are-preparing-to-revolt-Maithri/108-232947",
     "url_hash": "76c3c28de99684455028b4c5b700fb1d",
     "ut": 1647108545,
@@ -3731,6 +3793,41 @@
         "start_end": [
           2,
           4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-12",
+    "title": "Sri Lanka: Prices of essential commodities rise following currency devaluation",
+    "source": "news.webindia123.com",
+    "snippet": "The prices of a number of essential commodities including fuel and wheat increased significantly on Friday following Sri Lanka's decision to relax the controls over the value of the Sri Lankan rupee,",
+    "url": "https://news.webindia123.com/news/Articles/World/20220312/3918394.html",
+    "url_hash": "d1f4d89b59a3a203a6095bfd1239fce5",
+    "ut": 1647108551,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          30,
+          32
         ]
       }
     ]
