@@ -1933,5 +1933,101 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Phone tapping case: BJP protests against Mumbai cops notice to Fadnavis",
+    "source": "www.msn.com",
+    "snippet": "Ex-Maharashtra chief minister is facing questioning over the case in which former Pune top cop Rashmi Shukla is accused of illegally tapping phones of prominent opposition leaders when he was the chie",
+    "url": "https://www.msn.com/en-in/news/other/phone-tapping-case-bjp-protests-against-mumbai-cops-notice-to-fadnavis/ar-AAV08cM",
+    "url_hash": "cac3d2c889da80abc63f5bc3f09ccae2",
+    "ut": 1647166129,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-13",
+    "title": "SL fishermen refuse any grace period for Indian fishermen",
+    "source": "www.daijiworld.com",
+    "snippet": "Sri Lankan fishermen have refused to give anymore grace period to Indian fishermen during the informal talks between community leaders that took place at the St Anthonys feast in Kachchateevu. On the eve of the church feast at the uninhabited osland located half a nautical mile from the",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=936410",
+    "url_hash": "1aa80545fd8661ad7d7a9bb6aeffb43e",
+    "ut": 1647166356,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kachchateevu",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "half",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Fishing in troubled waters: Sri Lanka makes life difficult for TN fishermen",
+    "source": "menafn.com",
+    "snippet": "Indian fishermen from Tamil Nadu are in dire straits after several arrests and jail terms for crossing the International Maritime Boundary Line (IMBL) with the Sri Lankan Navy and police arresting them.",
+    "url": "https://menafn.com/1103838100/Fishing-in-troubled-waters-Sri-Lanka-makes-life-difficult-for-TN-fishermen",
+    "url_hash": "88977f0bc2fd6f2386ef32a9cb7a0a18",
+    "ut": 1647168036,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamil Nadu",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Maritime Boundary Line",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Navy",
+        "start_end": [
+          26,
+          30
+        ]
+      }
+    ]
   }
 ]
