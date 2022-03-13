@@ -562,5 +562,72 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Petrol hiked by Rs 77 per litre in Sri Lanka",
+    "source": "www.tribuneindia.com",
+    "snippet": "Sri Lanka's state-run oil and gas entity Ceylon Petroleum has raised the price of petrol by 77 rupees and diesel by 55 rupees after Lanka IOC, the local subsidiary of India's oil major Indian Oil Corporation,",
+    "url": "https://www.tribuneindia.com/news/world/petrol-hiked-by-rs-77-per-litre-in-sri-lanka-377446",
+    "url_hash": "8307b24720872ebc393e3533bd4278b0",
+    "ut": 1647138599,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Petroleum",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "77",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "55",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Lanka IOC",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian Oil Corporation",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
   }
 ]
