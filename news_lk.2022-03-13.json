@@ -632,6 +632,97 @@
   },
   {
     "date": "2022-03-13",
+    "title": "Sri Lanka schedules power cuts of 3 hours for March 13",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's Ceylon Electricity Board will cut power for one hour for some areas from 500pm to 900pm and three hours and 15 minutes in two blocks from in the day time and night the Public Utilities Commission of Sri Lanka said.",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-3-hours-for-march-13-91593/",
+    "url_hash": "8b8747eca3f6cea3e8d381e8ad7a3eaf",
+    "ut": 1647140992,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Electricity Board",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "one hour",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "500pm",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "900pm",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "three hours and 15 minutes",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the day time and night",
+        "start_end": [
+          30,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Public Utilities Commission",
+        "start_end": [
+          35,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "Sri Lanka buys 96MW Aitken Spence IPP for Southern grid",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Ceylon Electricity Board has been given the nod by the regulator to buy 96 MegaWatts of emergency power from ACE Power Embilipitiya for six months to augment the Southern grid after hydro stations were run down.",
@@ -843,6 +934,68 @@
         "start_end": [
           51,
           52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "STICK NO BILLS",
+    "source": "www.ft.lk",
+    "snippet": "In Stick No Bills, Hashan Cooray's latest body of work, he focuses on a selection of posters stripped from the public walls of Colombo. The sourced images, taken from their original posts, ..",
+    "url": "https://www.ft.lk/other/STICK-NO-BILLS/10538-731902",
+    "url_hash": "d4e85c04e622d0c61d0612c17a19f1e8",
+    "ut": 1647144587,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Hashan Cooray's",
+        "start_end": [
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Fishing in troubled waters: Sri Lanka makes life difficult for TN fishermen",
+    "source": "www.daijiworld.com",
+    "snippet": "Indian fishermen from Tamil Nadu are in dire straits after several arrests and jail terms for crossing the International Maritime Boundary Line (IMBL) with the Sri Lankan Navy and police arresting them.",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=936278",
+    "url_hash": "f70ff1d04ef485f6d24e2f04610d365b",
+    "ut": 1647146132,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamil Nadu",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Maritime Boundary Line",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Navy",
+        "start_end": [
+          26,
+          30
         ]
       }
     ]
