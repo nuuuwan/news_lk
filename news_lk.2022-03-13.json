@@ -1396,6 +1396,41 @@
   },
   {
     "date": "2022-03-13",
+    "title": "Sri Lanka to start talks with IMF on debt restructuring",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "Sri Lanka is set to begin talks with the International Monetary Fund IMF in mid-April on a plan for aid for the crisis-ridden country media reports said on S",
+    "url": "https://www.bignewsnetwork.com/news/272384271/sri-lanka-to-start-talks-with-imf-on-debt-restructuring",
+    "url_hash": "07bb746072d71c049f811504982ea5c5",
+    "ut": 1647151735,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund IMF",
+        "start_end": [
+          8,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "mid-April",
+        "start_end": [
+          14,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "Harin denies defaulting electricity Bill",
     "source": "www.dailymirror.lk",
     "snippet": "SJB MP Harin Fernando who has denied defaulting an electricity Bill said yesterday that he never owned a house in Colombo and he never occupied his official residence when he was a Minister in the previous government after 2019.",
@@ -1611,6 +1646,49 @@
     "title": "Decision on fuel subsidy or bus fare revision to be announced on Tuesday: Dilum",
     "source": "www.dailymirror.lk",
     "snippet": "The decision on fuel subsidy or a bus fare revision will be announced on Tuesday (15) morning after the cabinet decision, Transport Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Decision-on-fuel-subsidy-or-bus-fare-revision-to-be-announced-on-Tuesday-Dilum/108-232952",
+    "url_hash": "4a9f110ca6055fce3b872acd74cd3227",
+    "ut": 1647155327,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "15) morning",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Transport",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Decision on fuel subsidy or bus fare revision to be announced on Tuesday: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "The decision on fuel subsidy or a bus fare revision will be announced on Tuesday (15) morning after the cabinet decision, Transport Minister Dilum Amunugama said. ..",
     "url": "https://www.dailymirror.lk/latest_news/Decision-on-fuel-subsidy-or-bus-fare-revision-to-be-announced-on-Tuesday-Dilum/342-232952",
     "url_hash": "cac616ee54ae763edb355c9988af0a83",
     "ut": 1647155342,
@@ -1782,6 +1860,76 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Bihar govt to tie up with IIT-P to develop science labs in 50 model schools",
+    "source": "www.msn.com",
+    "snippet": "The move to set up science labs in tie up with IIT-Patna is significant as there has been a huge shortage of teachers of science subject as well as adequate lab facilities in the government schools in Bihar.",
+    "url": "https://www.msn.com/en-in/news/other/bihar-govt-to-tie-up-with-iit-p-to-develop-science-labs-in-50-model-schools/ar-AAUZM6V",
+    "url_hash": "12345359b1b99e6ca4047f1599706c65",
+    "ut": 1647164708,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "IIT",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bihar",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Sri Lanka restricts import of 367 non-essential items",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "Sri Lankan Finance Minister Basil Rajapaksa on Wednesday issued a gazette notification restricting the import of 367 non-essential",
+    "url": "https://www.bignewsnetwork.com/news/272373726/sri-lanka-restricts-import-of-367-non-essential-items",
+    "url_hash": "ec97a1d09c1fcd7406cf3c3de4592a4b",
+    "ut": 1647165376,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "367",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
