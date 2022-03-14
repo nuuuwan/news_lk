@@ -1,6 +1,49 @@
 [
   {
     "date": "2022-03-14",
+    "title": "Strong quake strikes off Indonesia, no tsunami potential seen",
+    "source": "www.reuters.com",
+    "snippet": "A powerful earthquake struck off the west coast of Indonesia's Sumatra island early on Monday and was felt strongly in some areas, including the city of Padang, though there were no immediate reports of casualties or damage,",
+    "url": "https://www.reuters.com/article/us-indonesia-quake/strong-quake-strikes-off-indonesia-no-tsunami-potential-seen-idUSKCN2LB030",
+    "url_hash": "21132ec7e9c90f5a023e1746835ce604",
+    "ut": 1647216561,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sumatra",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Padang",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Sri Lankan Batik promoted in Melbourne coinciding with International Women's Day",
     "source": "island.lk",
     "snippet": "The Consulate General of Sri Lanka in Melbourne in collaboration with the Committee for Sri Lanka (CFSL), the South Asian Australia Alliance and the Australia Sri Lanka Business Council organised a photo shoot of Sri Lankan Batiks coinciding with International Women's Day on 08 March 2022.",
@@ -462,6 +505,148 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Upanannda Jayasundera Kandy Sports special correspondent",
+    "source": "dailynews.lk",
+    "snippet": "St. Anthonys Girls School,Katugastota beat Mahamaya Girls School,Kandy by seven wickets in their Girls Schools Cricket tournament match played at Rahula Grounds, Katugastota. Isiri Meegammana, the...",
+    "url": "https://dailynews.lk/line/upanannda-jayasundera-kandy-sports-special-correspondent",
+    "url_hash": "bc7ba5a198e2a53b9d121c829d9a8257",
+    "ut": 1647220157,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "St. Anthonys Girls School",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Katugastota",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mahamaya Girls School",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Girls Schools Cricket",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rahula Grounds",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Katugastota",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Isiri Meegammana",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "IMF top team to brief Sri Lanka President on economic crisis",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - A top International Monetary Fund officials is in Sri Lanka to brief President Gotabaya Rajapaksa about their assessment of the country, the Washington based lender said. The delegation is likely to be headed by IMF's Asia Pacific ...",
+    "url": "https://economynext.com/imf-top-team-to-brief-sri-lanka-president-on-economic-crisis-91603/",
+    "url_hash": "13dc0a52813eea2e90f05718aec98381",
+    "ut": 1647220181,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Asia Pacific",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Sri Lanka to start talks with IMF as economic crisis worsens",
     "source": "www.thestar.com.my",
     "snippet": "COLOMBO: Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, where a foreign exchange shortage has squeezed essential imports amid looming debt payments,",
@@ -534,6 +719,159 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Ball is in private sector's court: We could make it or break it",
+    "source": "www.dailymirror.lk",
+    "snippet": "Two major events happened during the past few days in regard to possible changes in the country's macroeconomic fundamentals in the near future. ..",
+    "url": "https://www.dailymirror.lk/features/Ball-is-in-private-sector%E2%80%99s-court:-We-could-make-it-or-break-it/185-232977",
+    "url_hash": "4d2b09a421c6017af2c30059ae1c3622",
+    "ut": 1647225012,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past few days",
+        "start_end": [
+          5,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Historic Galle Fort Hotel reopens inside UNESCO World Heritage site",
+    "source": "www.fnbnews.com",
+    "snippet": "Historic Galle Fort Hotel reopens inside UNESCO World Heritage site: Monday, 14 March, 2022, 08 : 00 AM [IST] Sri Lanka: Sri Lanka's most iconic heritage hotel, Galle Fort Hotel",
+    "url": "http://www.fnbnews.com/Top-News/historic-galle-fort-hotel-reopens-inside-unesco-world-heritage-site-66604",
+    "url_hash": "ccf56ce43d992d2b86028b6dfb4a5832",
+    "ut": 1647225096,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Historic Galle Fort Hotel",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNESCO World Heritage",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "14 March",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "08",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "00",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Galle Fort Hotel",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "People's Bank and CA Sri Lanka to offer SME Mentoring Programme",
+    "source": "www.dailymirror.lk",
+    "snippet": "People's Bank has partnered with the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) to provide a timely boost for Small and Medium-sized Enterprise (SME) customers of the bank through a mentoring programme.",
+    "url": "https://www.dailymirror.lk/financial-news/People%E2%80%99s-Bank-and-CA-Sri-Lanka-to-offer-SME-Mentoring-Programme/265-232982",
+    "url_hash": "83e3178e1dcde9f31f3d38ebcf3f9831",
+    "ut": 1647225312,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "People's Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Institute of Chartered Accountants of Sri Lanka",
+        "start_end": [
+          6,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SME",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]

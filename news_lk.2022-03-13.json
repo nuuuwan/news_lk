@@ -766,6 +766,65 @@
   },
   {
     "date": "2022-03-13",
+    "title": "Sri Lanka raises fuel prices amid a surge in global commodity costs",
+    "source": "www.thenationalnews.com",
+    "snippet": "Sri Lanka raised fuel prices by more than 40 per cent after a currency float pushed the local rupee to record lows and amid a surge in global commodity costs. The Ceylon Petroleum Corp increased the price of a litre of petrol to 254 rupees ($1) from 177 rupees,",
+    "url": "https://www.thenationalnews.com/business/2022/03/13/sri-lanka-raises-fuel-prices-amid-a-spike-in-global-commodity-costs/",
+    "url_hash": "7abab566d718cefbb16a1afe98446f08",
+    "ut": 1647140961,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 40",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ceylon Petroleum Corp",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "254",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "1",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "177",
+        "start_end": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "Sri Lanka buys 96MW for Southern grid power crisis from ACE",
     "source": "economynext.com",
     "snippet": "Sri Lanka's Ceylon Electricity Board has been given the nod by the regulator to buy 96 MegaWatts of emergency power from ACE Power Embilipitiya for six months to augment the Southern grid after hydro stations were run down.",
@@ -2920,6 +2979,65 @@
   },
   {
     "date": "2022-03-13",
+    "title": "Where To Go This Holiday Uae?",
+    "source": "www.ipsinternational.org",
+    "snippet": "At Dubai Desert Safari, you can take advantage of a day or night as a reward. Ayana Qasr Al Sarab (307 km from Dubai) offers luxurious experiences Amidst the Desert. What Is An Entry In Need A Pcr Test Before Leaving Dubai?",
+    "url": "https://www.ipsinternational.org/where-to-go-this-holiday-uae/",
+    "url_hash": "0d9abec7cc60f020038b53b3b05700be",
+    "ut": 1647176961,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Desert Safari",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ayana Qasr Al Sarab",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "307 km",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "An Entry In Need A Pcr Test Before Leaving Dubai",
+        "start_end": [
+          37,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "2nd Test, Day 2: India reach 199/5 in 2nd innings at dinner, lead Sri Lanka by 342 runs",
     "source": "www.canindia.com",
     "snippet": "India were 199/5 in their second innings at the dinner break, leading by 342 runs against Sri Lanka on the second day of the second and final Test (pink ball game) at the Chinnaswamy Stadium, here on Sunday.",
@@ -3999,6 +4117,89 @@
         "start_end": [
           58,
           59
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Umaria Sinhawansa becomes Most Popular Woman in Sri Lanka at Sri Lanka Vanithabhimana",
+    "source": "www.ft.lk",
+    "snippet": "Renowned singer Umaria Sinhawansa became the Most Popular Woman in Sri Lanka at the Sri Lanka Vanithabhimana 2021. The other nominated contestants were Yohani De Silva, Sashika Nisansala, Shalani Tharaka and last year's winner Pushpa Ramyani Zoysa.",
+    "url": "https://www.ft.lk/hr/Umaria-Sinhawansa-becomes-Most-Popular-Woman-in-Sri-Lanka-at-Sri-Lanka-Vanithabhimana/47-731938",
+    "url_hash": "16bbd693181a61bfc9da59aa83584d34",
+    "ut": 1647194976,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Umaria Sinhawansa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Yohani De Silva",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sashika Nisansala",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shalani Tharaka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year's",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pushpa Ramyani Zoysa",
+        "start_end": [
+          38,
+          41
         ]
       }
     ]
