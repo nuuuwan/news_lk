@@ -2804,6 +2804,33 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Queen issues heartfelt apology after skipping Commonwealth Day service",
+    "source": "www.smh.com.au",
+    "snippet": "Having recently recovered from a bout of COVID-19, the Queen she hoped the people of the Commonwealth could \"draw strength and inspiration\" during these \"testing times\".",
+    "url": "https://www.smh.com.au/world/europe/queen-issues-heartfelt-apology-after-skipping-commonwealth-day-service-20220315-p5a4n3.html",
+    "url_hash": "001f0abf2a3416f60ce197e2cce9582d",
+    "ut": 1647234581,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "COVID-19",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Commonwealth",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Facebook party raided, 39 youth held",
     "source": "dailynews.lk",
     "snippet": "Thirty-nine youth were arrested yesterday with drugs by the Wennappuwa Police after raiding a Facebook party held at a hotel in Waikkal Area. \u00a0 A team of officers from the Kandy Divisional Anti-Corruption Unit of the police conducted the raid on the hotel said to be owned by a Kandy Municipal Councillor.",
@@ -6471,6 +6498,105 @@
   },
   {
     "date": "2022-03-14",
+    "title": "India crush Sri Lanka to win 15th straight Test series at home",
+    "source": "www.dailymirror.lk",
+    "snippet": "India extended their winning streak at home to 15 test series as they beat Sri Lanka by 238 runs in the second test to wrap up the day-night match in Bengaluru on day three and win the two-test series 2-0 on Monday.",
+    "url": "https://www.dailymirror.lk/mirror_sports_cricket/India-crush-Sri-Lanka-to-win-15th-straight-Test-series-at-home/458-233037",
+    "url_hash": "ed7f2dbd087b1dd4d5b32c8d886e021c",
+    "ut": 1647266964,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "238",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "day-night",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bengaluru",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "day three",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Cricbuzz Chatter: IND v SL, 2nd Test Review ft. Harsha Bhogle",
     "source": "www.cricbuzz.com",
     "snippet": "India proved to be too strong for Sri Lanka as the visitors were held winless on the tour. Harsha Bhogle & Tanay Tiwari review the completion of India's home Test season on Cricbuzz Chatter",
@@ -6919,6 +7045,108 @@
         "start_end": [
           14,
           15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Lanka FM meets top IMF official",
+    "source": "www.omanobserver.om",
+    "snippet": "Sri Lanka's finance minister held talks with a top International Monetary Fund (IMF) official, two sources said, as the island nation seeks help to deal with its plunging",
+    "url": "https://www.omanobserver.om/article/1116120/world/americas/lanka-fm-meets-top-imf-official",
+    "url_hash": "9a339f53c06c1c2e02634b6c194324fa",
+    "ut": 1647277773,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Saudi Arabia ready to assist Sri Lanka with renewable energy",
+    "source": "colombogazette.com",
+    "snippet": "Saudi Arabia is ready to assist Sri Lanka with renewable energy generation, Saudi Arabian Foreign Minister Faisal bin Farhan Al Saud said. He said this at talks with President Gotabaya Rajapaksa in Colombo today.",
+    "url": "https://colombogazette.com/2022/03/14/saudi-arabia-ready-to-assist-sri-lanka-with-renewable-energy/",
+    "url_hash": "c02728411cf19995b9a496303c20c677",
+    "ut": 1647278695,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Saudi Arabia",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Saudi Arabian",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Faisal bin Farhan Al Saud",
+        "start_end": [
+          17,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          35,
+          36
         ]
       }
     ]
