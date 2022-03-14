@@ -3465,6 +3465,25 @@
   },
   {
     "date": "2022-03-13",
+    "title": "Fuel crisis severely impacts Sri Lanka",
+    "source": "www.news.cn",
+    "snippet": "The fuel crisis, caused by the shortage of foreign exchange, has severely impacted the Sri Lankan society, worsening the country's economic woes. The recent increase in crude oil prices in the world market has made many wonder whether fuel shortages would be a part of daily life.",
+    "url": "http://www.news.cn/english/20220313/8d91afc2c4c04c55860047202d018e1b/c.html",
+    "url_hash": "544fd785a4f2e92bc041d7a100ddb620",
+    "ut": 1647182165,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "Scholarship Examination results released",
     "source": "www.dailymirror.lk",
     "snippet": "The results of the Grade Five Scholarship Examination was released a short while ago, the Examinations Department Commissioner General L.M.D Dharmasena said. ..",
@@ -4254,6 +4273,100 @@
         "start_end": [
           10,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Southern Open All Island Badminton Championships from today",
+    "source": "www.ft.lk",
+    "snippet": "The Premasiri Halabage Memorial Southern Open All Island Badminton Championships 2022, organised by the Southern Province Badminton Association (SPBA) under the auspices of Sri Lanka Badminton (SLB),",
+    "url": "https://www.ft.lk/sports/Southern-Open-All-Island-Badminton-Championships-from-today/23-731958",
+    "url_hash": "0ac2f12016c9a5bcb83586e5059129d7",
+    "ut": 1647196565,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Premasiri Halabage Memorial Southern Open All Island",
+        "start_end": [
+          0,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Southern Province Badminton Association",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SPBA",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLB",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Sri Lanka and World Bank explore path to sustainable, inclusive fisheries sector growth",
+    "source": "www.ft.lk",
+    "snippet": "The Government and the World Bank recently convened a high-level policy dialogue to discuss the findings and recommendations of a report titled \"Priorities for Sustainably Managing Sri Lanka's Marine Fisheries,",
+    "url": "https://www.ft.lk/agriculture/Sri-Lanka-and-World-Bank-explore-path-to-sustainable-inclusive-fisheries-sector-growth/31-731950",
+    "url_hash": "5fa05a6b3e691f30cc1baf43125b21b6",
+    "ut": 1647196579,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the World Bank",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Priorities for Sustainably Managing Sri Lanka's",
+        "start_end": [
+          25,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Marine Fisheries",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]
