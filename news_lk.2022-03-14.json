@@ -1907,6 +1907,57 @@
   },
   {
     "date": "2022-03-14",
+    "title": "All children summoned to schools from today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Through a circular issued last Friday (11), the Education Ministry advised the relevant officials to call all children to school as usual from today (14). ..",
+    "url": "https://www.dailymirror.lk/breaking_news/All-children-summoned-to-schools-from-today/108-233018",
+    "url_hash": "ace9790c34b6577c23539bfcf3e6f78f",
+    "ut": 1647227348,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "last Friday",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Education Ministry",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Two Indian naval vessels visit HIP",
     "source": "www.dailymirror.lk",
     "snippet": "Two Indian naval vessels visited the Hambantota International Port (HIP) for replenishments and husbandry services. ..",
@@ -2223,6 +2274,49 @@
         "start_end": [
           49,
           53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "No threat to SL following South Sumatra earthquake",
+    "source": "www.dailymirror.lk",
+    "snippet": "The National Tsunami Early Warning Centre stated that there is no tsunami threat to Sri Lanka as a result of the 6.8 magnitude earthquake that struck south of Sumatra. ..",
+    "url": "https://www.dailymirror.lk/latest_news/No-threat-to-SL-following-South-Sumatra-earthquake/342-233019",
+    "url_hash": "83ac91914aa120fcc8cc828e7feb1b54",
+    "ut": 1647230948,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The National Tsunami Early Warning Centre",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6.8",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sumatra",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
@@ -2573,6 +2667,86 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Vasu hands over official residence and vehicles",
+    "source": "www.dailymirror.lk",
+    "snippet": "Minister of Water Supply Vasudeva Nanayakkara handed over his official residence and vehicles to the Ministry Secretary today, Sources said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Vasu-hands-over-official-residence-and-vehicles/108-233017",
+    "url_hash": "f7a37fec8755d1710204592be7e32dc0",
+    "ut": 1647238148,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Ministry",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sources",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Cricketer Mike Whitney shares his fondest memories of his wild times on the road with Shane Warne",
+    "source": "www.dailymail.co.uk",
+    "snippet": "Mike Whitney has recalled his memories of his friend, Shane Warne, during their time playing cricket together, following the former athlete's death at age 52.",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-10610007/Cricketer-Mike-Whitney-shares-fondest-memories-wild-times-road-Shane-Warne.html",
+    "url_hash": "77267bef4233ef040a15d79520b86884",
+    "ut": 1647238157,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mike Whitney",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "age 52",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Blue-sky thinking: new rules allow digital nomads to work in the sun",
+    "source": "theguardian.com",
+    "snippet": "Setting up a remote 'office' is a freedom many are now used to. So why not do it in a beautiful part of the world?",
+    "url": "https://theguardian.com/money/2022/mar/14/blue-sky-thinking-new-rules-allow-digital-nomads-to-work-in-the-sun",
+    "url_hash": "2336af20aa9895f97dc52518b49e092c",
+    "ut": 1647238157,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-14",
     "title": "Two Indian naval ships berthed at Hambantota",
     "source": "www.uniindia.com",
     "snippet": "Two Indian Navy ships are berthed at the China-funded port in Hambantota in Sri Lanka, media reports said. Hambantota International Port Group Pvt Ltd. said the Indian ships visited the Hambantota International Port (HIP) for replenishment and husbandry services.",
@@ -2685,6 +2859,108 @@
         "start_end": [
           23,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Issuing permits for inland sand mining suspended: Env. Ministry",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Environment Ministry instructed the Geological Survey and Mines Bureau (GSMB) to suspend issuing inland sand mining permits. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Issuing-permits-for-inland-sand-mining-suspended-Env-Ministry/342-233020",
+    "url_hash": "e7887cd96bdb198bae8ebfebfadfe45e",
+    "ut": 1647241748,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Environment Ministry",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mines Bureau",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "GSMB",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "SLT-MOBITEL celebrates achievements of the SLT Training Centre students",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "SLT-MOBITEL, the National ICT Solutions Provider, held the Graduation Ceremony of its education arm, the SLT Training Centre (SLTTC), on the 9th of March, 2022 at the Bandaranaike Memorial International Conference Hall.",
+    "url": "http://bizenglish.adaderana.lk/slt-mobitel-celebrates-achievements-of-the-slt-training-centre-students/",
+    "url_hash": "5e9bd9f7b9826303e6c74dd905dd3cf5",
+    "ut": 1647241877,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLT-MOBITEL",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National ICT Solutions Provider",
+        "start_end": [
+          4,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Graduation Ceremony",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the SLT Training Centre (SLTTC",
+        "start_end": [
+          19,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 9th of March",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bandaranaike Memorial International Conference Hall",
+        "start_end": [
+          35,
+          41
         ]
       }
     ]
