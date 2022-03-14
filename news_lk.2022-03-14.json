@@ -862,6 +862,49 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Strong quake strikes off Indonesia, no tsunami potential seen",
+    "source": "www.fxempire.com",
+    "snippet": "A powerful earthquake struck off the west coast of Indonesia's Sumatra island early on Monday and was felt strongly in some areas, including the city of Padang, though there were no immediate reports of casualties or damage,",
+    "url": "https://www.fxempire.com/news/article/strong-quake-strikes-off-indonesia-no-tsunami-potential-seen-933054",
+    "url_hash": "caa654f6ba92c4a38009413b63561b51",
+    "ut": 1647223750,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sumatra",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Padang",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "People's Bank and CA Sri Lanka to offer SME Mentoring Programme",
     "source": "www.dailymirror.lk",
     "snippet": "People's Bank has partnered with the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) to provide a timely boost for Small and Medium-sized Enterprise (SME) customers of the bank through a mentoring programme.",
@@ -2524,6 +2567,124 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Two Indian naval ships berthed at Hambantota",
+    "source": "www.uniindia.com",
+    "snippet": "Two Indian Navy ships are berthed at the China-funded port in Hambantota in Sri Lanka, media reports said. Hambantota International Port Group Pvt Ltd. said the Indian ships visited the Hambantota International Port (HIP) for replenishment and husbandry services.",
+    "url": "https://www.uniindia.com/story/Two-Indian-naval-ships-berthed-at-Hambantota",
+    "url_hash": "20ff5c71a359627f89382e486df173d8",
+    "ut": 1647241051,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian Navy",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hambantota",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Hambantota International Port Group Pvt Ltd.",
+        "start_end": [
+          22,
+          28
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Hambantota International Port",
+        "start_end": [
+          33,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Barack Obama",
+    "source": "dailynews.lk",
+    "snippet": "Former US President Barack Obama announced Sunday that he has tested positive for Covid-19. \"I've had a scratchy throat for a couple days, but am feeling fine otherwise,\" he said on his",
+    "url": "https://dailynews.lk/tags/barack-obama",
+    "url_hash": "989f7be3716505e39b71320a06d2b198",
+    "ut": 1647241086,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Barack Obama",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a couple days",
+        "start_end": [
+          23,
+          26
         ]
       }
     ]

@@ -3186,6 +3186,33 @@
   },
   {
     "date": "2022-03-13",
+    "title": "UK warns its citizens on travel to SL over deteriorating economic situation",
+    "source": "www.dailymirror.lk",
+    "snippet": "The United Kingdom, in its latest travel advisory on Sri Lanka has warned its citizens saying the economic situation was deteriorating in the country with shortages of basic necessities including medicines,",
+    "url": "https://www.dailymirror.lk/breaking_news/UK-warns-its-citizens-on-travel-to-SL-over-deteriorating-economic-situation/108-232962",
+    "url_hash": "278821be6ede6992f296735bf9830e32",
+    "ut": 1647180542,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United Kingdom",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "Govt.'s actions aggravated present crisis: JVP",
     "source": "www.dailymirror.lk",
     "snippet": "While expressing the country's economy could not be regulated by the orders of the President or the Finance Minister, the Janatha Vimukthi Peramuna (JVP) said today the actions of the government have intensified the country's economic crisis.",
@@ -3956,6 +3983,25 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Misleading tourism estimates",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka is gradually losing its ability to serve tourists as a hospitable nation. A new gazette now restricts the import of several items considered non-essential but these include cheese,",
+    "url": "https://www.dailymirror.lk/plus/Misleading-tourism-estimates/352-232966",
+    "url_hash": "fb6270b1600ebe9f32881f3bf32fd114",
+    "ut": 1647194942,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
         ]
       }
     ]
