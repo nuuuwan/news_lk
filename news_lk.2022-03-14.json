@@ -1480,6 +1480,237 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Sri Lanka looks to attract tourists from Bangladesh",
+    "source": "www.dailymirror.lk",
+    "snippet": "In an effort to diversify source markets for Sri Lanka tourism, authorities have kicked off a fresh initiative to attract visitors from Bangladesh. ..",
+    "url": "https://www.dailymirror.lk/business-news/Sri-Lanka-looks-to-attract-tourists-from-Bangladesh/273-232986",
+    "url_hash": "b372a3fe6fecd63e8c4566fd95404002",
+    "ut": 1647224331,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Saudi Arabia Foreign Minister visits island",
+    "source": "www.dailymirror.lk",
+    "snippet": "Saudi Arabia Foreign Affairs Minister Sheikh Faisal Bin Farhan Al Saud arrived at the Katunayake International Airport this morning for a one day official visit. He arrived at the airport at 1.20 am today on a special flight accompanied by 18 senior ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Saudi-Arabia-Foreign-Minister-visits-island/108-232989",
+    "url_hash": "c5e274e257a531ec8f560067c9d823c5",
+    "ut": 1647224331,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Saudi Arabia",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sheikh Faisal",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bin Farhan Al Saud",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Katunayake International Airport",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one day",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "1.20 am today",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Grade 5: District-wise minimum cut off marks released",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Examinations Department has released the cut-off marks for the 2021 (2022) grade five scholarship examination to select students for schools and to award scholarships. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Grade-5-District-wise-minimum-cut-off-marks-released/342-232993",
+    "url_hash": "0bc16c62cde1f07e8a79d37a127ca016",
+    "ut": 1647224331,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Examinations Department",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Payments to local suppliers in dollars permitted",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Central Bank in an extraordinary gazette issued on Friday included payments to local suppliers as part of permitted payments and commitments from the dollar proceeds before converting the residual amount into Sri Lankan rupees on or before the seventh day of the following month.",
+    "url": "https://www.dailymirror.lk/business-news/Payments-to-local-suppliers-in-dollars-permitted/273-232987",
+    "url_hash": "9b4f4abbdb14a38988c2eb2f9c520141",
+    "ut": 1647224331,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "seventh",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Central Bank removes maximum interest rates on forex deposits",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Central Bank issued fresh directions to licensed commercial banks and the National Savings Bank (NSB) last week rescinding the earlier instructions issued on capping the interest rates offered on foreign currency deposits,",
+    "url": "https://www.dailymirror.lk/business-news/Central-Bank-removes-maximum-interest-rates-on-forex-deposits/273-232990",
+    "url_hash": "302e2d7083f9e35a6921a678e23dddc1",
+    "ut": 1647224331,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Savings Bank",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NSB",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Ball is in private sector's court: We could make it or break it",
     "source": "www.dailymirror.lk",
     "snippet": "Two major events happened during the past few days in regard to possible changes in the country's macroeconomic fundamentals in the near future. ..",
@@ -1743,6 +1974,124 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Top IMF official to visit SL this week to brief President",
+    "source": "www.dailymirror.lk",
+    "snippet": "REUTERS: A senior International Monetary Fund (IMF) official will be visiting Sri Lanka on Monday and Tuesday to brief President Gotabaya Rajapaksa on the Fund's assessment of the crisis-hit economy,",
+    "url": "https://www.dailymirror.lk/business_247/Top-IMF-official-to-visit-SL-this-week-to-brief-President/395-232994",
+    "url_hash": "5255a3e42f76c79b9bde06135288da69",
+    "ut": 1647227931,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "REUTERS",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fund",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Sri Lanka rupee opens 265/80 to the dollar",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's rupee was quoted at 265/80 to the US dollar on Monday, dealers said, after the central bank allowed the rupee to fall from a previous rate of 200 to the dollar.",
+    "url": "https://economynext.com/sri-lanka-rupee-opens-265-80-to-the-dollar-91628/",
+    "url_hash": "95c4e3887f70370a342653c66a83c1e5",
+    "ut": 1647227957,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "200",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Multiple countries issue travel advisories on Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "Multiple countries have issued travel advisories on Sri Lanka warning of food shortages, owing to the deteriorating economic situation in the country. Canada has warned its citizens that the economic",
@@ -1831,6 +2180,170 @@
         "start_end": [
           49,
           53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Future of Eelam Tamils in Sri Lanka",
+    "source": "countercurrents.org",
+    "snippet": "It is a high time and urgent need for the United Nations, UNHRC, ICC and the International Community to find remedial justice to the oppressed Tamils in Sri",
+    "url": "https://countercurrents.org/2022/03/future-of-eelam-tamils-in-sri-lanka/",
+    "url_hash": "5873cfd1fdf96971f22b3fa6466adeb0",
+    "ut": 1647231540,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United Nations",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNHRC",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Community",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Nepal PM Deuba to visit Sri Lanka for BIMSTEC summit",
+    "source": "colombogazette.com",
+    "snippet": "Nepal Prime Minister Sher Bahadur Deuba will soon attend 5th BIMSTEC Summit (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation. He is due to attend the summit on March 30 in Colombo,",
+    "url": "https://colombogazette.com/2022/03/14/nepal-pm-deuba-to-visit-sri-lanka-for-bimstec-summit/",
+    "url_hash": "18a1c3fbb9dac876638d35d6b83aa29a",
+    "ut": 1647231562,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sher Bahadur Deuba",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "5th",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Multi-Sectoral Technical and Economic Cooperation",
+        "start_end": [
+          18,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 30",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Sri Lanka's beloved German travel vlogger mulls leaving as forex crisis creates blackouts",
+    "source": "economynext.com",
+    "snippet": "A German vlogger, going by the name of Ken Abroad that captured the hearts thousands of youtube users in Sri Lanka has said he may have to cut his visit short and leave the country as money printing created forex shortages and a power crisis.",
+    "url": "https://economynext.com/sri-lankas-beloved-german-travel-vlogger-mulls-leaving-as-forex-crisis-creates-blackouts-91629/",
+    "url_hash": "ea33892239637a105cc255604a6e1649",
+    "ut": 1647232637,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "German",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Ken Abroad",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Sri Lanka becomes first South Asian country to trial 5G SA",
+    "source": "developingtelecoms.com",
+    "snippet": "Sri Lankan telecommunications service provider Dialog Axiata claimed in a press release that it has become the first company in South Asia to successfully trial the most advanced 5G Standalone (5G SA) network.",
+    "url": "https://developingtelecoms.com/telecom-business/operator-news/13119-sri-lanka-becomes-first-south-asian-country-to-trial-5g-sa.html",
+    "url_hash": "5ca09cc5d22cff493fb680b31c326dc7",
+    "ut": 1647233400,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
