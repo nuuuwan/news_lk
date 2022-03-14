@@ -3374,6 +3374,113 @@
   },
   {
     "date": "2022-03-13",
+    "title": "Pink ball Test, Day 2: India extend lead to 342 at dinner after Pant's attacking fifty",
+    "source": "www.daijiworld.com",
+    "snippet": "India reached 199/5 in their second innings at the dinner break and extended their lead to 342 runs against Sri Lanka after Rishabh Pant hit an attacking fifty (50 off 31) on the second day of the second and final Test (pink ball game) at the Chinnaswamy Stadium,",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=936508",
+    "url_hash": "ff70c958eec30e5d018f0cc341d2f6c9",
+    "ut": 1647180588,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "199/5",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "342",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rishabh Pant",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "fifty",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "50",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "31",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second day",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Chinnaswamy Stadium",
+        "start_end": [
+          49,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
     "title": "Top IMF Official to Visit Sri Lanka This Week to Brief About Economy's State",
     "source": "money.usnews.com",
     "snippet": "A senior International Monetary Fund (IMF) official will be visiting Sri Lanka on Monday and Tuesday to brief President Gotabaya Rajapaksa on the fund's assessment of the crisis-hit economy, Sri Lanka mission chief Masahiro Nozaki told Reuters.",
@@ -3693,6 +3800,105 @@
         "start_end": [
           10,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-13",
+    "title": "Pink ball Test, Day 2: India reach 61/1 in 2nd innings at Tea, lead Sri Lanka by 204 runs",
+    "source": "menafn.com",
+    "snippet": "India were 61 for one in their second innings at Tea, leading by 204 runs against Sri Lanka on the second day of the second and final Test (pink ball game) at the Chinnaswamy Stadium, here on Sunday.",
+    "url": "https://menafn.com/1103839331/Pink-ball-Test-Day-2-India-reach-611-in-2nd-innings-at-Tea-lead-Sri-Lanka-by-204-runs?source=310",
+    "url_hash": "bb42ca79f325c8feb686250c4513801f",
+    "ut": 1647187788,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "61",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tea",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "204",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second day",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Chinnaswamy Stadium",
+        "start_end": [
+          35,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
