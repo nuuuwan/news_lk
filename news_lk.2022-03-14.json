@@ -44,6 +44,100 @@
   },
   {
     "date": "2022-03-14",
+    "title": "JICA continues its support to improve lives of people in Sri Lanka",
+    "source": "island.lk",
+    "snippet": "Japan International Cooperation Agency (JICA) granted medical equipment and PPEs to combat with COVID-19, which are worth of Rs.22 Million LKR, to the Awissavella District General Hospital (DGH) in Western Province,",
+    "url": "https://island.lk/jica-continues-its-support-to-improve-lives-of-people-in-sri-lanka/",
+    "url_hash": "5dc80d1060fa61d11d7c8629bc43ca98",
+    "ut": 1647216567,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Japan International Cooperation Agency",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "JICA",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "COVID-19",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rs.22 Million",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LKR",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Awissavella District General Hospital",
+        "start_end": [
+          26,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "DGH",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Western Province",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Retiring Lakmal ready to give back to the game",
+    "source": "www.islandcricket.lk",
+    "snippet": "Anytime if I'm needed for the future of Sri Lanka Cricket, I'm available. Call me. I will inculcate all what I know, even if it's of small measure. I've always told we need to love the game and play with pride\",",
+    "url": "https://www.islandcricket.lk/news/retiring-lakmal-ready-to-give-back-to-the-game/",
+    "url_hash": "d79f4050dfb05c713172c40648edb635",
+    "ut": 1647216567,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Cricket",
+        "start_end": [
+          9,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Sri Lankan Batik promoted in Melbourne coinciding with International Women's Day",
     "source": "island.lk",
     "snippet": "The Consulate General of Sri Lanka in Melbourne in collaboration with the Committee for Sri Lanka (CFSL), the South Asian Australia Alliance and the Australia Sri Lanka Business Council organised a photo shoot of Sri Lankan Batiks coinciding with International Women's Day on 08 March 2022.",
@@ -647,6 +741,49 @@
   },
   {
     "date": "2022-03-14",
+    "title": "IMF top team to brief Sri Lanka President on economy in Colombo",
+    "source": "economynext.com",
+    "snippet": "Senior International Monetary Fund officials will brief Sri Lanka President Gotabaya Rajapaksa about their assessment of the country, the Washington based lender said.",
+    "url": "https://economynext.com/imf-top-team-to-brief-sri-lanka-president-on-economy-in-colombo-91603/",
+    "url_hash": "982f8907e8cb1ade39c710fc5bc88923",
+    "ut": 1647220184,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Sri Lanka to start talks with IMF as economic crisis worsens",
     "source": "www.thestar.com.my",
     "snippet": "COLOMBO: Sri Lanka will begin talks with the International Monetary Fund (IMF) next month on a plan to help the crisis-hit country, where a foreign exchange shortage has squeezed essential imports amid looming debt payments,",
@@ -719,6 +856,624 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "People's Bank and CA Sri Lanka to offer SME Mentoring Programme",
+    "source": "www.dailymirror.lk",
+    "snippet": "People's Bank has partnered with the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) to provide a timely boost for Small and Medium-sized Enterprise (SME) customers of the bank through a mentoring programme.",
+    "url": "https://www.dailymirror.lk/financial-news/Peoples-Bank-and-CA-Sri-Lanka-to-offer-SME-Mentoring-Programme/265-232982",
+    "url_hash": "87e4cbf070725f79ff4e83e9d6cf46b8",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "People's Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Institute of Chartered Accountants of Sri Lanka",
+        "start_end": [
+          6,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SME",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Exterminators Initial Public Offering opens today",
+    "source": "www.dailymirror.lk",
+    "snippet": "Pest management and environmental enhancement technology company Exterminators Limited's IPO will open today. ..",
+    "url": "https://www.dailymirror.lk/business-news/Exterminators-Initial-Public-Offering-opens-today/273-232985",
+    "url_hash": "21c366ad7a31a7e3c52efcba5af65f3f",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Pest",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Exterminators Limited's",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "SriLankan aims to reach greater heights next financial year",
+    "source": "www.dailymirror.lk",
+    "snippet": "National carrier SriLankan Airlines aims to reach greater heights next year and several efforts are underway to pull it towards a positive growth trajectory after years of reported losses. ..",
+    "url": "https://www.dailymirror.lk/business-news/SriLankan-aims-to-reach-greater-heights-next-financial-year/273-232983",
+    "url_hash": "92e7334114d6f3b3265082d5a62230a1",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next year",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Social entrepreneurs pitch to impact investors at British Council Social Enterprise Development Competition",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Support for Integrated Rural Development Enterprise programme was implemented by the British Council in partnership with Chrysalis and Care Germany over the last 4.5 years with the funding of the European Union.",
+    "url": "https://www.dailymirror.lk/business-news/Social-entrepreneurs-pitch-to-impact-investors-at-British-Council-Social-Enterprise-Development-Competition/273-232972",
+    "url_hash": "9539da7d0a344178aebc165b0f62603e",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Support for Integrated Rural Development Enterprise",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the British Council",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Chrysalis",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Care Germany",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the last 4.5 years",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the European Union",
+        "start_end": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "AIA launches US$ 10 bn buyback on strong 2021 growth",
+    "source": "www.dailymirror.lk",
+    "snippet": "AIA Group Ltd on Friday launched a US$ 10 billion share buyback plan and declared a higher final dividend on strong growth in 2021, but warned of near-term pain from a recent outbreak of coronavirus infections in Hong Kong.",
+    "url": "https://www.dailymirror.lk/financial-news/AIA-launches-US-10-bn-buyback-on-strong-2021-growth/265-232979",
+    "url_hash": "5914870784233282ad35f85d9ede0540",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "AIA Group Ltd",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "US$ 10 billion",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hong Kong",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Sampath Bank celebrates IWD with 'Wonder Women Initiative'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sampath Bank PLC hosted 'Wonder Women Initiative', an open forum of discussion on the significance of celebrating women's achievements and addressing leadership roles and prejudice that exists in today's society for women leaders.",
+    "url": "https://www.dailymirror.lk/financial-news/Sampath-Bank-celebrates-IWD-with-%E2%80%98Wonder-Women-Initiative%E2%80%99/265-232981",
+    "url_hash": "3bfa6bc45b5708e126514f1e4117af02",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sampath Bank PLC",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Wonder Women Initiative'",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "SLID webinar shares insights on how CEOs must lead during pandemic",
+    "source": "www.dailymirror.lk",
+    "snippet": "The CEO Forum of the Sri Lanka Institute of Directors (SLID) recently arranged a panel discussion and webinar titled 'How the Pandemic has Changed the Way CEOs Must Lead', to discuss and share insights on the pandemic-led leadership style changes that were implemented by CEOs to successfully navigate their companies during the extremely challenging period.",
+    "url": "https://www.dailymirror.lk/business-news/SLID-webinar-shares-insights-on-how-CEOs-must-lead-during-pandemic/273-232973",
+    "url_hash": "6e4efefabbe5a9c709f24ff4b00ebf2a",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Institute of Directors",
+        "start_end": [
+          4,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLID",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "'How the Pandemic",
+        "start_end": [
+          21,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "NTB-Amex campaign rewards cardmembers with latest Samsung smartphones",
+    "source": "www.dailymirror.lk",
+    "snippet": "Nations Trust Bank American Express announced the winners of the 'Pump Fuel and Win' campaign held in partnership with Samsung. ..",
+    "url": "https://www.dailymirror.lk/financial-news/NTB-Amex-campaign-rewards-cardmembers-with-latest-Samsung-smartphones/265-232978",
+    "url_hash": "51ebc594c3b0b8f4c10282523b730189",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Nations Trust Bank American Express",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samsung",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "CFA Society Sri Lanka kicks off CFA Programme information session series",
+    "source": "www.dailymirror.lk",
+    "snippet": "This session is ideal for professionals looking to transition to a new career path and undergraduates seeking to enter the finance and investment industry. The Chartered Financial Analyst (CFA) credential has become the most respected and recognised investment designation in the world and enrolling in the CFA Programme is the first step towards earning this qualification.",
+    "url": "https://www.dailymirror.lk/business-news/CFA-Society-Sri-Lanka-kicks-off-CFA-Programme-information-session-series/273-232974",
+    "url_hash": "43466c0887351f519fe8297cb1c3925c",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "CFA",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          53,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "India inks JVSHA with SL to develop 100MW solar power plant in Sampur",
+    "source": "www.dailymirror.lk",
+    "snippet": "Ahead of Finance Minister Basil Rajapaksa's Indian visit next week to finalise a US$ 1 billion credit line, India has inked a joint venture and shareholders' agreement (JVSHA) with Sri Lanka to develop a 100 MW solar power plant in Sampur in the Trincomalee District.",
+    "url": "https://www.dailymirror.lk/business-news/India-inks-JVSHA-with-SL-to-develop-100MW-solar-power-plant-in-Sampur/273-232984",
+    "url_hash": "efc9b2db49f5edba4f1c9a7720370679",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "US$ 1 billion",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "JVSHA",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MW",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sampur",
+        "start_end": [
+          45,
+          46
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Trincomalee District",
+        "start_end": [
+          47,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "SL tourism on reverse gear with proposed new act",
+    "source": "www.dailymirror.lk",
+    "snippet": "There's mounting opposition from the entire tourist industry against the government's plan to change the existing Tourism Act, as seen in the media. Having been a member of the team that helped draft the current act around 15 years ago,",
+    "url": "https://www.dailymirror.lk/features/SL-tourism-on-reverse-gear-with-proposed-new-act/185-232976",
+    "url_hash": "94bd433b704209b798c5febe6dcecabf",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "Tourism Act",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "around 15 years ago",
+        "start_end": [
+          40,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Saudi Arabia Foreign Minister visits island",
+    "source": "www.dailymirror.lk",
+    "snippet": "Saudi Arabia Foreign Affairs Minister Sheikh Faisal Bin Farhan Al Saud arrived at the Katunayake International Airport this morning for a one day official visit. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Saudi-Arabia-Foreign-Minister-visits-island/342-232989",
+    "url_hash": "ce7322af13cd93c10838fdd16764b7f2",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Saudi Arabia",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sheikh Faisal",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bin Farhan Al Saud",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Katunayake International Airport",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one day",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Seminar on Japanese manufacturing excellence",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lanka Japan Business Council will present a seminar on the theme of Japanese design and Sri Lankan manufacturing excellence on March 16, at Ramada Hotel, Colombo, at 6:00 p.m. onwards. ..",
+    "url": "https://www.dailymirror.lk/business-news/Seminar-on-Japanese-manufacturing-excellence/273-232970",
+    "url_hash": "7e3d4753cc6f28d418670558bd3ab5d0",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Japan Business Council",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Japanese",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 16",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ramada Hotel, Colombo",
+        "start_end": [
+          26,
+          30
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "6:00 p.m.",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "UB Finance prepares for aggressive growth",
+    "source": "www.dailymirror.lk",
+    "snippet": "UB Finance Co Ltd, a subsidiary of Union Bank PLC recently announced an aggressive plan for future growth and expansion. ..",
+    "url": "https://www.dailymirror.lk/financial-news/UB-Finance-prepares-for-aggressive-growth/265-232980",
+    "url_hash": "2a1b3c0ad358e87ce8886134802423dc",
+    "ut": 1647223759,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UB Finance Co Ltd",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Union Bank PLC",
+        "start_end": [
+          8,
+          11
         ]
       }
     ]
@@ -872,6 +1627,210 @@
         "start_end": [
           32,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Two Indian naval vessels visit HIP",
+    "source": "www.dailymirror.lk",
+    "snippet": "Two Indian naval vessels visited the Hambantota International Port (HIP) for replenishments and husbandry services. ..",
+    "url": "https://www.dailymirror.lk/business-news/Two-Indian-naval-vessels-visit-HIP/273-232988",
+    "url_hash": "779f1773a0c397057e513afc483c1785",
+    "ut": 1647227359,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Hambantota International Port",
+        "start_end": [
+          5,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Vessel with 20,000 MT of Diesel to reach SL",
+    "source": "www.newsfirst.lk",
+    "snippet": "The Ministry of Energy stated that another ship carrying 20,000 MT of Diesel will reach Sri Lankan shores on Monday (14). The Ministry - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2022/03/14/vessel-with-20000-mt-of-diesel-to-reach-sl/",
+    "url_hash": "daa33ba0dd0213293f007806a37b4165",
+    "ut": 1647227607,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ministry of Energy",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20,000",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MT of Diesel",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry - Get",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Multiple countries issue travel advisories on Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Multiple countries have issued travel advisories on Sri Lanka warning of food shortages, owing to the deteriorating economic situation in the country. Canada has warned its citizens that the economic",
+    "url": "https://colombogazette.com/2022/03/14/multiple-countries-issue-travel-advisories-on-sri-lanka-3/",
+    "url_hash": "e69436d36cc4cb1548660851ffb13fb4",
+    "ut": 1647229248,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Dian re-elected to Asian Boxing Confederation",
+    "source": "colombogazette.com",
+    "snippet": "Dian Gomes has been re-elected as a member of the Board of Directors in the Asian Boxing Confederation (ASBC) for a four-year term. The Boxing Association of Sri Lanka said that Dian Gomes, who is currently an Executive Committee member of the Asian Boxing Confederation (ASBC),",
+    "url": "https://colombogazette.com/2022/03/14/dian-re-elected-to-asian-boxing-confederation/",
+    "url_hash": "7ff8e36f9277d1ae015a9089eb98222f",
+    "ut": 1647230448,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Board of Directors",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Asian Boxing Confederation",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-year",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Boxing Association of Sri Lanka",
+        "start_end": [
+          30,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dian Gomes",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Executive Committee",
+        "start_end": [
+          45,
+          47
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Asian Boxing Confederation",
+        "start_end": [
+          49,
+          53
         ]
       }
     ]
