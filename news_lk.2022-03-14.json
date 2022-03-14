@@ -103,6 +103,65 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Sri Lanka in shambles in second Test",
+    "source": "www.islandcricket.lk",
+    "snippet": "India have not just got the world's best franchise tournament, they also have a robust Test team and Sri Lanka with a bloated First Class system were no match for the hosts as they were heading for a heavy defeat in the second Test here in Bangalore inside three days.",
+    "url": "https://www.islandcricket.lk/news/sri-lanka-in-shambles-in-second-test/",
+    "url_hash": "ba5e1260f566eb29988cd8e94ded0b70",
+    "ut": 1647216563,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "First",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Bangalore",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three days",
+        "start_end": [
+          50,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "JICA continues its support to improve lives of people in Sri Lanka",
     "source": "island.lk",
     "snippet": "Japan International Cooperation Agency (JICA) granted medical equipment and PPEs to combat with COVID-19, which are worth of Rs.22 Million LKR, to the Awissavella District General Hospital (DGH) in Western Province,",
@@ -3453,6 +3512,25 @@
         "start_end": [
           11,
           12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Queen issues heartfelt message after skipping Commonwealth Day service",
+    "source": "www.watoday.com.au",
+    "snippet": "The Queen said she hoped the people of the Commonwealth could \"draw strength and inspiration\" during these \"testing times\".",
+    "url": "https://www.watoday.com.au/world/europe/queen-issues-heartfelt-apology-after-skipping-commonwealth-day-service-20220315-p5a4n3.html",
+    "url_hash": "e30a77aaf0ba891a8e5e2d1e20766ae1",
+    "ut": 1647241772,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Commonwealth",
+        "start_end": [
+          9,
+          10
         ]
       }
     ]
@@ -6992,6 +7070,65 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Sri Lanka to sign $1 billion credit line with India to help pay for key imports",
+    "source": "www.brecorder.com",
+    "snippet": "COLOMBO: Sri Lanka's finance minister will visit New Delhi on Tuesday to sign a $1 billion credit line to pay for essential imports of food and medicine, an official said on Monday, as the island nation struggles with its worst financial crisis in years.",
+    "url": "https://www.brecorder.com/news/40160628/sri-lanka-to-sign-1-billion-credit-line-with-india-to-help-pay-for-key-imports",
+    "url_hash": "e5626133383f6cee275a85eda3e19b87",
+    "ut": 1647270563,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Sri Lanka Said to Have Started Early Talks to Explore IMF Loan",
     "source": "finance.yahoo.com",
     "snippet": "The former Soviet states are also the top source of tourists to the island nation, and the war is drying up these much-needed dollars. Calls to Sri Lanka's Finance Ministry and an email to the ...",
@@ -8046,6 +8183,199 @@
         "text": "San Juan",
         "start_end": [
           46,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Heritage park to come up near Jama Masjid, will open this Sunday",
+    "source": "www.msn.com",
+    "snippet": "In the first phase, an area of about 1.75 acres was developed at an estimated cost of \u20b97.65 crore while the second phase took up the 2.25 acres at an estimated cost of \u20b910.03 crore.",
+    "url": "https://www.msn.com/en-in/news/other/heritage-park-to-come-up-near-jama-masjid-will-open-this-sunday/ar-AAV3u7o",
+    "url_hash": "0366e3a0aa5e65427a7c1f8445ddcc29",
+    "ut": 1647292176,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 1.75 acres",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "7.65",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "2.25 acres",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "10.03",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "SLT-Mobitel powered 37th Junior, Intermediate National Rowing Championship concludes on a high note",
+    "source": "www.ft.lk",
+    "snippet": "The SLT-Mobitel powered 37th Junior and Intermediate National Rowing Championship concluded successfully on the 12 March 2022 with many clubs and schools showcasing talents across various age groups and categories.",
+    "url": "https://www.ft.lk/sports/SLT-Mobitel-powered-37th-Junior-Intermediate-National-Rowing-Championship-concludes-on-a-high-note/23-731974",
+    "url_hash": "13c1c02f78b853872b904b971850a669",
+    "ut": 1647293376,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLT-Mobitel",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "37th Junior and Intermediate National Rowing Championship",
+        "start_end": [
+          5,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 12 March 2022",
+        "start_end": [
+          15,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "India crush Sri Lanka to win 15th straight test series at home",
+    "source": "www.ft.lk",
+    "snippet": "India extended their winning streak at home to 15 test series as they beat Sri Lanka by 238 runs in the second test to wrap up the day-night match in Bengaluru on day three and win the two-test series 2-0 on Monday.",
+    "url": "https://www.ft.lk/sports/India-crush-Sri-Lanka-to-win-15th-straight-test-series-at-home/23-731979",
+    "url_hash": "c0da71caef026ba114cc9beca4b57ee4",
+    "ut": 1647293616,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "238",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "day-night",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bengaluru",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "day three",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          47,
           48
         ]
       }
