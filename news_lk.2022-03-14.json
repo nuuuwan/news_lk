@@ -4305,6 +4305,81 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Colombo Port ranked world's 22nd after 6 pct growth in 2021",
+    "source": "english.news.cn",
+    "snippet": "Sri Lanka's Colombo Port has moved up one notch in the world's best port ranking to 22nd this year, due to a healthy 6 percent growth in volumes to record 7.25 million TEUs in 2021, local media quoting the Sri Lanka Ports Authority (SLPA) reported here Monday.",
+    "url": "https://english.news.cn/asiapacific/20220314/4482ff51f74c42289be29c92679f6816/c.html",
+    "url_hash": "b1de966bc39b6f5a4a65f5ceeb915cc7",
+    "ut": 1647248968,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "22nd this year",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "6 percent",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7.25 million",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Ports Authority",
+        "start_end": [
+          43,
+          47
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          52,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Sri Lanka's tourism to take a beating as foreign govts issue advisories for visitors amidst forex crisis",
     "source": "www.freepressjournal.in",
     "snippet": "Sri Lanka's ongoing forex crisis will further hit its tourism industry as the UK and Canada have warned their travellers to be aware of the current economic situation in the island nation. According to a latest advisory issued by the British government,",
@@ -8028,6 +8103,49 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Sand mining and threats to freshwater fish : Construction industry's wicked ways of destruction",
+    "source": "www.dailymirror.lk",
+    "snippet": "The W\u00e9 Ganga Muththetuwatta Mankada in Nivitigala, located 20km away from the Ratnapura town, transforms into a hive of activity at the break of dawn. Both sand and gem miners utilise this 'lucky spot' along the W\u00e9 Ganga - a tributary of .",
+    "url": "https://www.dailymirror.lk/plus/Sand-mining-and-threats-to-freshwater-fish-Construction-industrys-wicked-ways-of-destruction/352-233068",
+    "url_hash": "083d64155e973f4b6864ae1aa8e01218",
+    "ut": 1647281346,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Nivitigala",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "20km",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratnapura",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ganga",
+        "start_end": [
+          43,
+          44
         ]
       }
     ]
