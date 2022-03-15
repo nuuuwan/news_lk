@@ -135,5 +135,94 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Fuel crisis severely impacts Sri Lanka",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "The fuel crisis caused by the shortage of foreign exchange has severely impacted the Sri Lankan society worsening the country e",
+    "url": "https://www.bignewsnetwork.com/news/272385478/fuel-crisis-severely-impacts-sri-lanka",
+    "url_hash": "407305129ab1f9ae21511c1c05276df1",
+    "ut": 1647304569,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Avani Dias",
+    "source": "www.dailynews.lk",
+    "snippet": "In the late 1990s, Shane Warne was not very well loved in the cricket-obsessed island nation of Sri Lanka.He may have been respected for his incredible talent, but local cricketers accused him of...",
+    "url": "https://www.dailynews.lk/line/avani-dias",
+    "url_hash": "32a354b30fd4063f31e2f01797d35272",
+    "ut": 1647305225,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the late 1990s",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka Seeks IMF Help, Dropping Refusal as Economy Worsens",
+    "source": "nz.finance.yahoo.com",
+    "snippet": "Sri Lanka is seeking financial support from the International Monetary Fund, reversing the government's earlier resistance as efforts to bolster its foreign exchange reserves and manage looming debt payments have been complicated by the war in Ukraine.",
+    "url": "https://nz.finance.yahoo.com/news/sri-lanka-said-started-early-154652877.html",
+    "url_hash": "e89936fa266083cd26d52abc508b666f",
+    "ut": 1647306909,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
   }
 ]
