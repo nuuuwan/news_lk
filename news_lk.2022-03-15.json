@@ -915,6 +915,49 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Another 105 MW thermal power plant to set up at Kelanitissa premises: Pavithra",
+    "source": "www.dailymirror.lk",
+    "snippet": "Owing to the failure to establish power plants in recent times to add power to the national grid, immediate action need to be taken to construct another 105 MW thermal power plant at the Kelanitissa power plant premises to overcome the present power crisis and we should take steps to add at least 1,",
+    "url": "https://www.dailymirror.lk/latest_news/Another-105-MW-thermal-power-plant-to-set-up-at-Kelanitissa-premises-Pavithra/342-233105",
+    "url_hash": "99349561fe71b2380fa4efbffb618a33",
+    "ut": 1647313756,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "105",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MW",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kelanitissa",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 1",
+        "start_end": [
+          52,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "Sri Lankan finance minister to visit India today",
     "source": "www.bignewsnetwork.com",
     "snippet": "Amid the worsening economic situation in his country Sri Lankan Finance Minister Basil Rajapaksa will begin his India visit on Tuesday hoping to seal a USD 1",
@@ -952,6 +995,57 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "President meeting with TNA cancelled again due to SJB protest",
+    "source": "www.dailymirror.lk",
+    "snippet": "The long awaited meeting between President Gotabaya Rajapaksa and the members of the Tamil National Alliance (TNA) which was to be held today afternoon has been cancelled yet again due to the SJB protest, the Daily Mirror learns. Senior sources in the ...",
+    "url": "https://www.dailymirror.lk/breaking_news/President-meeting-with-TNA-cancelled-again-due-to-SJB-protest/108-233106",
+    "url_hash": "e25322d9af3f8a7bd6e40dca0a5f63ce",
+    "ut": 1647317356,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tamil National Alliance",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "afternoon",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
@@ -1255,6 +1349,92 @@
         "start_end": [
           34,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka to award diesel and crude oil purchase contract to UAE-based company",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka will award the long-term contract to a UAE-based Coral Energy DMCC for the purchase of diesel and crude oil, the government says",
+    "url": "http://www.adaderana.lk/news/81209/sri-lanka-to-award-diesel-and-crude-oil-purchase-contract-to-uae-based-company",
+    "url_hash": "189a52a1d1deb081510760860715b373",
+    "ut": 1647321024,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coral Energy DMCC",
+        "start_end": [
+          14,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka says will begin official talks with IMF next month",
+    "source": "financialpost.com",
+    "snippet": "COLOMBO \u2014 Sri Lanka will start official talks with the International Monetary Fund (IMF) next month, a cabinet spokesman said on Tuesday, as the government seeks to stave off the island nation's worst economic crisis in years.",
+    "url": "https://financialpost.com/pmn/business-pmn/sri-lanka-says-will-begin-official-talks-with-imf-next-month",
+    "url_hash": "d8f6d8d5977a9ac3f9975028add85afe",
+    "ut": 1647321504,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
