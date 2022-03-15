@@ -4981,6 +4981,121 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Xinhua Asia-Pacific news summary at 1000 GMT, March 14",
+    "source": "www.china.org.cn",
+    "snippet": "PHNOM PENH -- The official launch of Wing Bank (Cambodia) Plc amid the COVID-19 pandemic clearly reflects investors' confidence in Cambodia's economic development, officials said here on Monday. Wing Bank is the 56th commercial bank operating in the Southeast Asian country. (Cambodia-Bank) FAIZABAD, Afghanistan -- Police have arrested two drug smugglers in the northern Badakhshan province of Afghanistan and foiled their attempts to sell drug to addicts, Qari Maazudin Ahmadi, provincial director of information and culture, said on Monday. The arrested men, who smuggled heroin from...",
+    "url": "http://www.china.org.cn/world/Off_the_Wire/2022-03/14/content_78107886.htm",
+    "url_hash": "d43f15cd13035076a5573c97e64a330d",
+    "ut": 1647256146,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "PHNOM PENH",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Wing Bank",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Cambodia",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "56th",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Southeast Asian",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cambodia-Bank",
+        "start_end": [
+          49,
+          52
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          55,
+          56
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          60,
+          61
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Badakhshan",
+        "start_end": [
+          66,
+          67
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Afghanistan",
+        "start_end": [
+          69,
+          70
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qari Maazudin Ahmadi",
+        "start_end": [
+          80,
+          83
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          93,
+          94
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "India spinner Ashwin breaks Sri Lanka's resistance on Day 3",
     "source": "apnews.com",
     "snippet": "Ravichandran Ashwin took two quick wickets as Sri Lanka was reduced to 151-4 at tea on day three of the second test against India on Monday. Dimuth Karunaratne was 67 not out and Niroshan Dickwella unbeaten on 10 as Sri Lanka needed another 296 runs for an improbable victory.",
@@ -9300,6 +9415,81 @@
         "start_end": [
           14,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "DMM of FMSC, USJ celebrates 25th anniversary",
+    "source": "www.dailymirror.lk",
+    "snippet": "A ceremony was held to celebrate the 25th anniversary of the Department of Marketing Management (DMM), Faculty of Management Studies and Commerce (FMSC), University of Sri Jayewardenepura (USJ), at the Senate Boardroom of USJ,",
+    "url": "https://www.dailymirror.lk/other/DMM-of-FMSC--USJ-celebrates-25th-anniversary/117-233074",
+    "url_hash": "3cb9861aa0b8cf91bb38fe671f539a04",
+    "ut": 1647299323,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "25th",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Marketing Management",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "DMM",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Faculty of Management Studies and Commerce",
+        "start_end": [
+          19,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "University of Sri Jayewardenepura",
+        "start_end": [
+          29,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "USJ",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Senate Boardroom",
+        "start_end": [
+          38,
+          41
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "USJ",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
