@@ -2785,6 +2785,49 @@
   },
   {
     "date": "2022-03-14",
+    "title": "No threat to SL following South Sumatra earthquake",
+    "source": "www.dailymirror.lk",
+    "snippet": "The National Tsunami Early Warning Centre stated that there is no tsunami threat to Sri Lanka as a result of the 6.8 magnitude earthquake that struck south of Sumatra. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/No-threat-to-SL-following-South-Sumatra-earthquake/108-233019",
+    "url_hash": "d1a6adde9a38db2d6e763e824eb0d66c",
+    "ut": 1647231628,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The National Tsunami Early Warning Centre",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6.8",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sumatra",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Sri Lanka's beloved German travel vlogger mulls leaving as forex crisis creates blackouts",
     "source": "economynext.com",
     "snippet": "A German vlogger, going by the name of Ken Abroad that captured the hearts thousands of youtube users in Sri Lanka has said he may have to cut his visit short and leave the country as money printing created forex shortages and a power crisis.",
@@ -6933,6 +6976,105 @@
   },
   {
     "date": "2022-03-14",
+    "title": "India crush Sri Lanka to win 15th straight Test series at home",
+    "source": "www.dailymirror.lk",
+    "snippet": "India extended their winning streak at home to 15 test series as they beat Sri Lanka by 238 runs in the second test to wrap up the day-night match in Bengaluru on day three and win the two-test series 2-0 on Monday.",
+    "url": "https://www.dailymirror.lk/sports/India-crush-Sri-Lanka-to-win-15th-straight-Test-series-at-home/322-233037",
+    "url_hash": "7ca779e56e05af3e7a311f6e16a00ebe",
+    "ut": 1647267628,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "238",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "day-night",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bengaluru",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "day three",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Sri Lankan Finance Minister Basil to visit India for $1 billion bailout package",
     "source": "www.tribuneindia.com",
     "snippet": "Sri Lankan Finance Minister Basil Rajapaksa will visit India on Tuesday to seek $1 billion in financial assistance to bail the island nation out of a severe economic crisis since September last year.",
@@ -7543,6 +7685,57 @@
   },
   {
     "date": "2022-03-14",
+    "title": "Bus fare revision announced, Minimum bus fare is Rs.20: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Cabinet approval was granted for the fare increase by 15 percent with effect from yesterday, Transport Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Bus-fare-revision-announced-Minimum-bus-fare-is-Rs-20-Minister/108-233060",
+    "url_hash": "8cab6267ca71d4b58d1aae08e241d566",
+    "ut": 1647278428,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "15 percent",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Transport",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
     "title": "Saudi Arabia ready to assist Sri Lanka with renewable energy",
     "source": "colombogazette.com",
     "snippet": "Saudi Arabia is ready to assist Sri Lanka with renewable energy generation, Saudi Arabian Foreign Minister Faisal bin Farhan Al Saud said. He said this at talks with President Gotabaya Rajapaksa in Colombo today.",
@@ -7784,6 +7977,49 @@
         "start_end": [
           24,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-14",
+    "title": "Focus on sand mining and threats to freshwater fish Construction industry's wicked ways of destruction",
+    "source": "www.dailymirror.lk",
+    "snippet": "The W\u00e9 Ganga Muththetuwatta Mankada in Nivitigala, located 20km away from the Ratnapura town, transforms into a hive of activity at the break of dawn. Both sand and gem miners utilise this 'lucky spot' along the W\u00e9 Ganga - a tributary of .",
+    "url": "https://www.dailymirror.lk/news-features/Focus-on-sand-mining-and-threats-to-freshwater-fish-Construction-industrys-wicked-ways-of-destruction/131-233068",
+    "url_hash": "f9bf4bcfcce7848a108807c62667a411",
+    "ut": 1647282028,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Nivitigala",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "20km",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ratnapura",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ganga",
+        "start_end": [
+          43,
+          44
         ]
       }
     ]
