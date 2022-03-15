@@ -1688,6 +1688,57 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Cabinet gives approval to commence talks with IMF",
+    "source": "colombogazette.com",
+    "snippet": "Cabinet has given approval to Finance Minister Basil Rajapaksa to commence talks with the International Monetary Fund (IMF) to seek assistance to address the current financial crisis in Sri Lanka. Cabinet co-spokesman Dr.",
+    "url": "https://colombogazette.com/2022/03/15/cabinet-gives-approval-to-commence-talks-with-imf/",
+    "url_hash": "b2ecadfeecc290145159560eb1346de7",
+    "ut": 1647320991,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "Sri Lanka to award diesel and crude oil purchase contract to UAE-based company",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka will award the long-term contract to a UAE-based Coral Energy DMCC for the purchase of diesel and crude oil, the government says",
@@ -4531,6 +4582,49 @@
   },
   {
     "date": "2022-03-15",
+    "title": "COVID: Sri Lanka confirms 08 more deaths and 428 new cases",
+    "source": "www.adaderana.lk",
+    "snippet": "The Director General of Health Services has confirmed another 08 coronavirus related deaths for March 14, increasing the country's death toll due to the virus to 16,407",
+    "url": "http://www.adaderana.lk/news.php?nid=81222",
+    "url_hash": "57220d42d078c0c768a0a92dee52cdfb",
+    "ut": 1647353374,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "General of Health Services",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "08",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 14",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16,407",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "SJB takes to the streets against govt.",
     "source": "www.dailymirror.lk",
     "snippet": "The Samagi Jana Balawegaya protest which commenced in Colombo today ended with dummy coffins being burnt and Sajith Premadasa calling for a snap presidential election. Pix by Pradeep Dilrukshana ..",
@@ -4849,6 +4943,25 @@
     "url": "https://economynext.com/tourists-are-taken-care-of-in-sri-lanka-official-responds-to-uk-travel-advice-91682/",
     "url_hash": "79b8f1263094bc1e611b74cc4c7b5dcd",
     "ut": 1647356985,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Tourists are \"taken care of\" in Sri Lanka, officials respond to UK travel advice",
+    "source": "economynext.com",
+    "snippet": "Foreign visitors to Sri Lanka have been taken care of without being deprived of their plans despite the ongoing economic crisis in the island, officials said in response to a recent travel advisory.",
+    "url": "https://economynext.com/tourists-are-taken-care-of-in-sri-lanka-officials-respond-to-uk-travel-advice-91682/",
+    "url_hash": "287bbeafbd192b4cb36fe36058da1bf0",
+    "ut": 1647356987,
     "ent_info_list": [
       {
         "label": "GPE",
@@ -5510,6 +5623,68 @@
         "start_end": [
           18,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "UK issues advisory on Sri Lanka travel amid supply concerns",
+    "source": "www.gg2.net",
+    "snippet": "SRI LANKA'S ongoing forex crisis may further hit its tourism industry as the UK and Canada have warned their travellers to be aware of the current economic situation in the island nation. According to the latest advisory issued by the British government,",
+    "url": "https://www.gg2.net/uk-issues-advisory-on-sri-lanka-travel-amid-supply-concerns/",
+    "url_hash": "f4823190ee9e9908a08a3e03530c95d4",
+    "ut": 1647371910,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Canada",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka reaches out to IMF for help as FM Rajapaksa departs for New Delhi to sign fresh bailout package with India",
+    "source": "www.dailyexcelsior.com",
+    "snippet": "Sri Lankan Government will seek financial support from the IMF, softening its resistance against the international lender as it desperately tries to salvage the country's beleaguered economy that is currently reeling under a severe foreign exchange crisis.",
+    "url": "https://www.dailyexcelsior.com/sri-lanka-reaches-out-to-imf-for-help-as-fm-rajapaksa-departs-for-new-delhi-to-sign-fresh-bailout-package-with-india/",
+    "url_hash": "1864de89d3baee5c9a2b8d0e2e84bb32",
+    "ut": 1647372570,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Government",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          9,
+          10
         ]
       }
     ]
