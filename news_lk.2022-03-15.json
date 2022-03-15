@@ -1645,5 +1645,126 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Journo attack: Sri Lanka media minister ready to accept govt responsibility if investigations fail",
+    "source": "economynext.com",
+    "snippet": "If Sri Lanka Police fails to find those responsible for the recent attack on journalist Chamuditha Samarawickrama's residence, as media minister he would not hesitate to accept the government's responsibility and take any decision necessary,",
+    "url": "https://economynext.com/journo-attack-sri-lanka-media-minister-ready-to-accept-govt-responsibility-if-investigations-fail-91673/",
+    "url_hash": "980afba36cf22dd838935f3d12823568",
+    "ut": 1647328189,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Police",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chamuditha Samarawickrama's",
+        "start_end": [
+          15,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lankan transport service providers struggle after sharp fuel price hikes",
+    "source": "economynext.com",
+    "snippet": "Sri Lankan transport providers are grappling with practical issues and ethical dilemmas as diesel prices shot up by 45 percent in the second week of March. With schools and offices starting work at full capacity from Monday (14),",
+    "url": "https://economynext.com/sri-lankan-transport-service-providers-struggle-after-sharp-fuel-price-hikes-91675/",
+    "url_hash": "8772fcc2ca8aba1afb41df20ce5997fa",
+    "ut": 1647329252,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "45 percent",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second week of March",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka to begin official talks with IMF next month as protests grow",
+    "source": "financialpost.com",
+    "snippet": "COLOMBO \u2014 Sri Lanka will start official talks with the International Monetary Fund (IMF) next month, a cabinet spokesman said on Tuesday, as the government seeks to stave off the island nation's worst economic crisis in years amid growing protests.",
+    "url": "https://financialpost.com/pmn/business-pmn/sri-lanka-to-begin-official-talks-with-imf-next-month-as-protests-grow",
+    "url_hash": "b6dddf8a3316dbb72f3eef858b9b0672",
+    "ut": 1647329312,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
   }
 ]
