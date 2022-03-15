@@ -3806,6 +3806,41 @@
     "title": "Angry crowd tries to storm Sri Lanka president's office",
     "source": "www.msn.com",
     "snippet": "A huge crowd tried to storm the Sri Lankan president's seaside office Tuesday as anger flared over runaway prices brought about by the worst financial crisis in the island's modern history. The coronavirus pandemic wrought havoc on Sri Lanka's economy and crippled earnings from the island's tourism sector -- a key foreign exchange earner.",
+    "url": "https://www.msn.com/en-za/news/world/angry-crowd-tries-to-storm-sri-lanka-president-s-office/ar-AAV5aCQ",
+    "url_hash": "c64a869ebdae66577185f74eadf52ab0",
+    "ut": 1647349788,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Angry crowd tries to storm Sri Lanka president's office",
+    "source": "www.msn.com",
+    "snippet": "A huge crowd tried to storm the Sri Lankan president's seaside office Tuesday as anger flared over runaway prices brought about by the worst financial crisis in the island's modern history. The coronavirus pandemic wrought havoc on Sri Lanka's economy and crippled earnings from the island's tourism sector -- a key foreign exchange earner.",
     "url": "https://www.msn.com/en-us/news/world/angry-crowd-tries-to-storm-sri-lanka-president-s-office/ar-AAV5aCQ",
     "url_hash": "3c522cde84568507e5e7d65980e348c7",
     "ut": 1647349987,
@@ -3910,6 +3945,92 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "SJB takes to the streets against govt.",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Samagi Jana Balawegaya protest which commenced in Colombo today ended with dummy coffins being burnt and Sajith Premadasa calling for a snap presidential election. Pix by Pradeep Dilrukshana ..",
+    "url": "https://www.dailymirror.lk/caption_story/SJB-takes-to-the-streets-against-govt/110-233132",
+    "url_hash": "552f24048b81d57bd94d260d24031765",
+    "ut": 1647353835,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jana Balawegaya",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sajith Premadasa",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilrukshana",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka heads for IMF after currency devaluation",
+    "source": "www.businesslive.co.za",
+    "snippet": "Opposition leaders led a march of hundreds of protesters through Sri Lanka's main city of Colombo on Tuesday amid mounting anger about a worsening economic crisis that has brought fuel shortages and spiralling food prices.",
+    "url": "https://www.businesslive.co.za/bd/world/asia/2022-03-15-sri-lanka-heads-for-imf-after-currency-devaluation/",
+    "url_hash": "087527a54b5b93d61894a925c4b4cdf5",
+    "ut": 1647355764,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]
