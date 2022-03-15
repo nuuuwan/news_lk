@@ -1355,6 +1355,41 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Govt. approves to import crude oil, diesel from Dubai company",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government has approved a long-term contract for importing crude oil and diesel for a period of seven to eight months from a Dubai-based United Arab Emirates (UAE) petroleum and petroleum products merchant wholesaler.",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-approves-to-import-crude-oil-diesel-from-Dubai-company/108-233108",
+    "url_hash": "b33f825c20915085a6b38f2cf7554cb1",
+    "ut": 1647320934,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "seven to eight months",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "United Arab Emirates",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "Sri Lanka to award diesel and crude oil purchase contract to UAE-based company",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka will award the long-term contract to a UAE-based Coral Energy DMCC for the purchase of diesel and crude oil, the government says",
@@ -1435,6 +1470,178 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "UAE-based company to supply diesel and crude oil to Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka has decided to award a long-term contract to a UAE-based Coral Energy DMCC for the purchase of diesel and crude oil",
+    "url": "http://www.adaderana.lk/news/81209/uae-based-company-to-supply-diesel-and-crude-oil-to-sri-lanka",
+    "url_hash": "bceca7876406c90c31fc5381be2000c6",
+    "ut": 1647324542,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UAE",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Coral Energy DMCC",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka to issue death/missing certificates to disappeared, pay 100,000 LKR to next of kin",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's cabinet of ministers has approved a proposal to issue death or missing person certificates to disappeared persons and pay a 100,000-rupee one-time-only allowance to their next of kin and also provide land where necessary,",
+    "url": "https://economynext.com/sri-lanka-to-issue-death-missing-certificates-to-disappeared-pay-100000-lkr-to-next-of-kin-91667/",
+    "url_hash": "f60c5ee8334b50537c1ea1888469095f",
+    "ut": 1647324559,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100,000",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka awards diesel contract to UAE-based Coral Energy DMCC",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lanka cabinet has awarded a long term contract of importing ... months from March 1 to October 31 this year, the government said. The island nation has been struggling to import fuel due to severe shortage of US dollars as its usable ...",
+    "url": "https://economynext.com/sri-lanka-awards-diesel-contract-to-uae-based-coral-energy-dmcc-91668/",
+    "url_hash": "57eb11ba07341885fcc787374dcc85d3",
+    "ut": 1647325202,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "months",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 1 to October 31 this year",
+        "start_end": [
+          16,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka Seeks IMF Help, Dropping Refusal as Economy Worsens",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Government discussed plan with visiting IMF officials Monday Forex reserves shrinking ahead of $1 billion bond due in July Bloomberg - Sri Lanka is seeking financial support from the International Monetary Fund,",
+    "url": "http://bizenglish.adaderana.lk/sri-lanka-seeks-imf-help-dropping-refusal-as-economy-worsens/",
+    "url_hash": "a1f9c88de8ea39069fe46beb6d34a8ac",
+    "ut": 1647327482,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Forex",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Bloomberg - Sri Lanka",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          29,
+          33
         ]
       }
     ]
