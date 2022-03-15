@@ -60,6 +60,65 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Sri Lanka-Saudi bilateral relations, a multi-faceted partnership",
+    "source": "www.msn.com",
+    "snippet": "The first-ever bilateral talks between the Sri Lankan and Saudi Arabian Foreign Ministers took place at the Ministry of Foreign Affairs in Colombo yesterday.Foreign Minister Prof. G. L. Peiris and held talks with his Saudi counterpart,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/sri-lanka%E2%80%93saudi-bilateral-relations-a-multi-faceted-partnership/ar-AAV3Wui",
+    "url_hash": "c63bf6795b4262a822c71d9be4e77944",
+    "ut": 1647302945,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Saudi Arabian",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Foreign Affairs in Colombo",
+        "start_end": [
+          18,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G. L. Peiris",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Saudi",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "CB yet to provide inflation guidance, credit growth target for this year",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka is operating neither with guidance for headline and core inflation nor a private sector credit growth target for this year, which can be taken as a lack of policy direction from the authorities to steer the economy forward.",
@@ -613,6 +672,25 @@
     "date": "2022-03-15",
     "title": "SLFP not responsible for Govt.'s downfall",
     "source": "www.dailymirror.lk",
+    "snippet": "Minister of Environment Mahinda Amaraweera said the Sri Lanka Freedom Party was not prepared to be part and parcel to the government's downfall if the government was not prepared to accept the positive features of their proposals to overcome the ...",
+    "url": "https://www.dailymirror.lk/breaking_news/SLFP-not-responsible-for-Govt-s-downfall/108-233104",
+    "url_hash": "8475e732798debf70f74923ac9de6ea5",
+    "ut": 1647306535,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Freedom Party",
+        "start_end": [
+          6,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "SLFP not responsible for Govt.'s downfall",
+    "source": "www.dailymirror.lk",
     "snippet": "Minister of Environment Mahinda Amaraweera said the Sri Lanka Freedom Party was not prepared to be part and parcel to the government's downfall if the government was not prepared to accept the positive features of their proposals to overcome the prevailing crisis.",
     "url": "https://www.dailymirror.lk/latest_news/SLFP-not-responsible-for-Govt-s-downfall/342-233104",
     "url_hash": "3fb76a102816f908ab8d36e87fc56b24",
@@ -794,6 +872,49 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Another 105 MW thermal power plant to set up at Kelanitissa premises: Pavithra",
+    "source": "www.dailymirror.lk",
+    "snippet": "Owing to the failure to establish power plants in recent times to add power to the national grid, immediate action need to be taken to construct another 105 MW thermal power plant at the Kelanitissa power plant premises to overcome the present power crisis and we should take steps to add at least 1,",
+    "url": "https://www.dailymirror.lk/breaking_news/Another-105-MW-thermal-power-plant-to-set-up-at-Kelanitissa-premises-Pavithra/108-233105",
+    "url_hash": "92651bba0f9df9f6c6de3cf155230ff8",
+    "ut": 1647313735,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "105",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MW",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kelanitissa",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least 1",
+        "start_end": [
+          52,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "Sri Lankan finance minister to visit India today",
     "source": "www.bignewsnetwork.com",
     "snippet": "Amid the worsening economic situation in his country Sri Lankan Finance Minister Basil Rajapaksa will begin his India visit on Tuesday hoping to seal a USD 1",
@@ -831,6 +952,309 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Saudi Arabia, Sri Lanka agree to strengthen economic cooperation",
+    "source": "www.zawya.com",
+    "snippet": "COLOMBO: Saudi Arabia and Sri Lanka have agreed to strengthen bilateral relations with a focus on economic cooperation, following the inaugural visit of the Kingdom's foreign minister to the South Asian country on Monday.",
+    "url": "https://www.zawya.com/en/economy/global/saudi-arabia-sri-lanka-agree-to-strengthen-economic-cooperation-q9ada4za",
+    "url_hash": "25a2f51c8cc76bdf364111aa067c8d34",
+    "ut": 1647317405,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Saudi Arabia",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kingdom",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Bumrah helps India thrash Sri Lanka to secure Test series",
+    "source": "colombogazette.com",
+    "snippet": "India pace bowler Jasprit Bumrah took eight wickets to help his side win the day-night Test against Sri Lanka by 238 runs and wrap up a 2-0 series victory. The hosts scored 252, with Shreyas Iyer scoring 92,",
+    "url": "https://colombogazette.com/2022/03/15/bumrah-helps-india-thrash-sri-lanka-to-secure-test-series/",
+    "url_hash": "51f886c1e0798f23b4f092baf8e57d47",
+    "ut": 1647318569,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jasprit Bumrah",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "eight",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "238",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "252",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shreyas Iyer",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "92",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Domination in England to Flooring Sri Lanka at Home - Team India Ends Test Season 2021-22 on a High",
+    "source": "www.msn.com",
+    "snippet": "A dominant series win against SL signals the end of the Test season for India for the year, and while the wins in England and against NZ will boost India, missed chance in South Africa will surely hur",
+    "url": "https://www.msn.com/en-in/sports/cricket/domination-in-england-to-flooring-sri-lanka-at-home-team-india-ends-test-season-2021-22-on-a-high/ar-AAV3Tvj",
+    "url_hash": "0b0a7199d51d14396d652f20bb3267ef",
+    "ut": 1647318605,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the year",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "NZ",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "President meeting with TNA cancelled again due to SJB protest",
+    "source": "www.dailymirror.lk",
+    "snippet": "The long awaited meeting between President Gotabaya Rajapaksa and the members of the Tamil National Alliance (TNA) which was to be held today afternoon has been cancelled yet again due to the SJB protest,",
+    "url": "https://www.dailymirror.lk/latest_news/President-meeting-with-TNA-cancelled-again-due-to-SJB-protest/342-233106",
+    "url_hash": "db7765faac063a6b7adb82bde4ed3465",
+    "ut": 1647318955,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tamil National Alliance",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "afternoon",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lankan finance minister to visit India today hoping to seal $1 bn LoC",
+    "source": "www.business-standard.com",
+    "snippet": "Amid the worsening economic situation in his country, Sri Lankan Finance Minister Basil Rajapaksa will begin his India visit on Tuesday, hoping to seal a USD 1 billion line of credit (LoC).",
+    "url": "https://www.business-standard.com/article/international/sri-lankan-finance-minister-to-visit-india-today-hoping-to-seal-1-bn-loc-122031500148_1.html",
+    "url_hash": "936667753805df248de52c8a7d115792",
+    "ut": 1647320045,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Finance",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 1 billion",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LoC",
+        "start_end": [
+          34,
+          35
         ]
       }
     ]
