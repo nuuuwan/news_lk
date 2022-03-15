@@ -2083,6 +2083,41 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Economic Council to be assisted by 14-member advisory committee",
+    "source": "www.dailymirror.lk",
+    "snippet": "The newly appointed 11-member Economic Council has been given a 14-member advisory committee for assistance. ..",
+    "url": "https://www.dailymirror.lk/mirror_business/Economic-Council-to-be-assisted-by-14member-advisory-committee/241-233114",
+    "url_hash": "af332c595492ab59b51a7acde90d1944",
+    "ut": 1647328107,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Economic Council",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "Train fares to increase to cover fuel cost: Dilum",
     "source": "www.dailymirror.lk",
     "snippet": "The government has decided to increase train fares shortly to cover the cost of fuel and not to earn a profit, Transport Minister Dilum Amunugama said. ..",
@@ -5623,6 +5658,65 @@
         "start_end": [
           18,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Sri Lanka shares fall for third straight session; mkt shrugs off decision for IMF help",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stock index dropped for a third straight session on Tuesday (14) to a near one-week low as economic uncertainties after the currency depreciation weighed on the sentiment, brokers said. Investors shrugged off a government decision that the cabinet had given approval for the Finance Minister to seek International Monetary Fund assistance to address the current economic crisis.",
+    "url": "https://economynext.com/sri-lanka-shares-fall-for-third-straight-session-mkt-shrugs-off-decision-for-imf-help-91683/",
+    "url_hash": "1057ccd199ff5cb9f383678b76d4e3a0",
+    "ut": 1647371333,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "one-week",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund",
+        "start_end": [
+          55,
+          58
         ]
       }
     ]
