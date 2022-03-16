@@ -672,6 +672,25 @@
   },
   {
     "date": "2022-03-16",
+    "title": "No power interruption during President's address today",
+    "source": "www.dailymirror.lk",
+    "snippet": "No power interruptions will be in place in any part of the country during the time when President Gotabaya Rajapaksa makes a special address. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/No-power-interruption-during-Presidents-address-today/108-233175",
+    "url_hash": "24d20f8d0c645c6a67cae206fa32e2cb",
+    "ut": 1647403736,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "German WWII ghosts loom large in Ukraine crisis",
     "source": "www.hindustantimes.com",
     "snippet": "World War II still looms large in Germans' living memory and public discourse, shaping the perception of the Ukraine invasion and the political debate over how to face the moment.",
@@ -1547,6 +1566,33 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lanka firms with billions in trade credits exposed as rupee falls",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Companies with suppliers' credit and dollar debt are facing large forex losses as the Sri Lanka rupee falls steeply after two years of unusual money printing to keep interest rates down as budget deficits expanded. In the stock market ...",
+    "url": "https://economynext.com/sri-lanka-firms-with-billions-in-trade-credits-exposed-as-rupee-falls-91697/",
+    "url_hash": "0f85cb27dc99a82954ddd9ec4cb66f50",
+    "ut": 1647407362,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two years",
+        "start_end": [
+          23,
+          25
         ]
       }
     ]

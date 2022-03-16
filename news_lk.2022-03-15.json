@@ -5938,6 +5938,33 @@
   },
   {
     "date": "2022-03-15",
+    "title": "'India is largest target market for Colombo port city project': Wickramasuriya",
+    "source": "www.msn.com",
+    "snippet": "Port City Colombo is being built on 269 hectares of land reclaimed from the sea and extends Colombo's central business district",
+    "url": "https://www.msn.com/en-in/news/other/e2-80-98india-is-largest-target-market-for-colombo-port-city-project-e2-80-99-wickramasuriya/ar-AAV5eQK",
+    "url_hash": "0105e11404f626dbb254fb0675e62216",
+    "ut": 1647364145,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Port City Colombo",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "269 hectares",
+        "start_end": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "Sri Lanka: A Challenge for the All-Party Conference",
     "source": "www.srilankaguardian.org",
     "snippet": "The reality in Sri Lanka today is akin to the Bayesian interpretation of probability. Perhaps with a difference. Probability may have advanced to certainty! The Sun may rise, but it is possible that there may not be power,",
@@ -6322,6 +6349,25 @@
         "start_end": [
           3,
           5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "How Plan left Sri Lanka, abandoning children and misleading donors",
+    "source": "www.dailymirror.lk",
+    "snippet": "Plan International's decision to leave Sri Lanka raised eyebrows. Several stakeholders found the decision abrupt and ill-prepared. ..",
+    "url": "https://www.dailymirror.lk/recomended-news/How-Plan-left-Sri-Lanka--abandoning-children-and-misleading-donors/277-233144",
+    "url_hash": "847a79b6664829cd095be5d69b5a6c67",
+    "ut": 1647378536,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
         ]
       }
     ]
