@@ -2270,6 +2270,33 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Huge crowd stormed in to Sri Lankan president office",
+    "source": "www.paktribune.com",
+    "snippet": "COLOMBO: A huge crowd tried to storm the Sri Lankan president's seaside office on Tuesday as anger flared over runaway prices brought about by the worst financial crisis in the island's modern history.",
+    "url": "https://www.paktribune.com/news-details/huge-crowd-stormed-in-to-sri-lankan-president-office",
+    "url_hash": "3787db06211836f3dd1b4d2e1f660a27",
+    "ut": 1647414546,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Angry crowd tries to storm Sri Lanka president's office",
     "source": "news.yahoo.com",
     "snippet": "A huge crowd tries to storm the Sri Lankan President Gotabaya Rajapaksa's office as anger flares over runaway prices brought about by the worst financial crisis in the island's modern history. Marshalled by the main opposition party,",
@@ -4493,6 +4520,65 @@
   },
   {
     "date": "2022-03-16",
+    "title": "7.3 magnitude quake hits north Japan, tsunami alert issued",
+    "source": "www.dailymirror.lk",
+    "snippet": "A powerful 7.3 magnitude earthquake struck off the coast of Fukushima in northern Japan on Wednesday evening, triggering a tsunami advisory and plunging more than 2 million homes in the Tokyo area into darkness.",
+    "url": "https://www.dailymirror.lk/latest_news/7-3-magnitude-quake-hits-north-Japan-tsunami-alert-issued/342-233222",
+    "url_hash": "f4e819b56375d1873f6668621b593342",
+    "ut": 1647446937,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "7.3",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Fukushima",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Wednesday evening",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 2 million",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tokyo",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Sri Lanka heads to IMF to end economic crisis, president says",
     "source": "www.msn.com",
     "snippet": "Sri Lanka will work with the International Monetary Fund to help solve the country's economic crisis, President Gotabaya Rajapaksa said on Wednesday, setting a target of cutting its trade deficit by about 14% this year.",
@@ -4968,6 +5054,25 @@
         "start_end": [
           15,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Increase train services with higher passenger demand: Station Masters'",
+    "source": "www.dailymirror.lk",
+    "snippet": "With the current fuel price increase, people who used private transportation systems have a tendency to use train services as it was a low cost transport mode, the Sri Lanka Railway Station Masters' Union (SLRSMU) said.",
+    "url": "https://www.dailymirror.lk/latest_news/Increase-train-services-with-higher-passenger-demand-Station-Masters/342-233221",
+    "url_hash": "89746ac8a9cf9caad9f69f1bd6372d60",
+    "ut": 1647450559,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Railway Station Masters' Union",
+        "start_end": [
+          29,
+          37
         ]
       }
     ]
@@ -5469,6 +5574,33 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Payments made for LP gas tankers; unloading to begin tomorrow",
+    "source": "www.adaderana.lk",
+    "snippet": "The President's Media Division says that payments have been made for the LP gas tankers docked in the Colombo Port",
+    "url": "http://www.adaderana.lk/news.php?nid=81250",
+    "url_hash": "c5373ca43f0caf6a4785b585ab2551ff",
+    "ut": 1647457750,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Media Division",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Colombo Port",
+        "start_end": [
+          18,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Sri Lanka - Saudi Arabia ready to assist Sri Lanka with renewable energy",
     "source": "menafn.com",
     "snippet": "Saudi Arabia is ready to assist Sri Lanka with renewable energy generation, Saudi Arabian Foreign Minister Faisal bin Farhan Al Saud sa",
@@ -5600,6 +5732,248 @@
         "start_end": [
           16,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "DC Edit | Amidst Lanka crisis, give Colombo a helping hand",
+    "source": "www.deccanchronicle.com",
+    "snippet": "Its economy in shambles, Sri Lanka is in dire straits. The island nation, largely dependent on tourism dollars, has suffered more than most from the two-year slowdown caused by the pandemic. Food and essentials are scarce on supermarket shelves,",
+    "url": "https://www.deccanchronicle.com/opinion/dc-comment/170322/dc-edit-amidst-lanka-crisis-give-colombo-a-helping-hand.html",
+    "url_hash": "4c612ef6fdbacac78faebc0298a7bf3d",
+    "ut": 1647461346,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-year",
+        "start_end": [
+          29,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Battered by dollar crunch, SL to negotiate with IMF & others on loan repayment",
+    "source": "www.msn.com",
+    "snippet": "Battered by \"worst-ever\" financial crisis since independence, Sri Lanka's President Gotabaya Rajapaksa has talked to the international financial institutions including the International Monetary Fund (IMF) and other countries on loan repayment.",
+    "url": "https://www.msn.com/en-in/news/world/battered-by-dollar-crunch-sl-to-negotiate-with-imf-others-on-loan-repayment/ar-AAV9Joy",
+    "url_hash": "8315006c49956777d7e859418915e8ce",
+    "ut": 1647461346,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          26,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lanka - Basil briefs Modi on economic crisis in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Finance Minister Basil Rajapaksa briefed Indian Prime Minister Narendra Modi today on the economic crisis in Sri Lanka ... of Parliament since 2014. (Colombo Gazette)",
+    "url": "https://menafn.com/1103857530/Sri-Lanka-Basil-briefs-Modi-on-economic-crisis-in-Sri-Lanka&source=28",
+    "url_hash": "8e23a32cbd20d45741c63fa55fd776c0",
+    "ut": 1647461367,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Narendra Modi",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2014",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo Gazette",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Gas distribution to resume today: President's Office",
+    "source": "www.dailymirror.lk",
+    "snippet": "The payments for the LP gas cylinders have been made and thus, unloading and distribution of domestic LP gas will re-commence today (17), the President's Office said. Local primary gas suppliers Litro Gas Lanka and Laugfs Gas were compelled to suspend ...",
+    "url": "https://www.dailymirror.lk/breaking_news/Gas-distribution-to-resume-today-Presidents-Office/108-233224",
+    "url_hash": "0d38fc77983d9dfb0e114da124dcff8c",
+    "ut": 1647462057,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "17",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Litro Gas Lanka",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Laugfs Gas",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Fort St. John international students concerned over express entry",
+    "source": "www.msn.com",
+    "snippet": "This article has been amended to include and clarify student concerns over express entry.] Update, 1:30 p.m. International students studying at Northern Lights College in Fort St. John say they want to see a provincial nominee program for students seeking to study and become permanent residents post-graduation.",
+    "url": "https://www.msn.com/en-ca/news/other/fort-st-john-international-students-concerned-over-express-entry/ar-AAVa9nA",
+    "url_hash": "9c0b976a8262bf4f5c128e65faaf3bf8",
+    "ut": 1647464119,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "1:30 p.m.",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Northern Lights College",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Fort St. John",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Fort St. John international students fight high tuition fees",
+    "source": "www.niagarafallsreview.ca",
+    "snippet": "International students studying at Northern Lights College in Fort St. John say they want to see cuts to high tuition fees imposed by post-secondary",
+    "url": "https://www.niagarafallsreview.ca/ts/news/canada/2022/03/16/fort-st-john-international-students-fight-high-tuition-fees.html",
+    "url_hash": "71d490f028dff2a62e246080a02fd7f4",
+    "ut": 1647464899,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Northern Lights College",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Fort St. John",
+        "start_end": [
+          8,
+          11
         ]
       }
     ]
