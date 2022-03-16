@@ -5030,6 +5030,49 @@
   },
   {
     "date": "2022-03-15",
+    "title": "3 held for attempting to smuggle pesticides",
+    "source": "www.thehindu.com",
+    "snippet": "Police have arrested 3 persons when they attempted to smuggle pesticides to Sri Lanka on Monday night. Police said the Tharuvaikulam Coastal Security Group police rec",
+    "url": "https://www.thehindu.com/news/cities/Madurai/3-held-for-attempting-to-smuggle-pesticides/article65228104.ece",
+    "url_hash": "e47fcea2560da442b7866a710a7f5dc2",
+    "ut": 1647353383,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Monday night",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tharuvaikulam Coastal Security Group",
+        "start_end": [
+          20,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "SJB takes to the streets against govt.",
     "source": "www.dailymirror.lk",
     "snippet": "The Samagi Jana Balawegaya protest which commenced in Colombo today ended with dummy coffins being burnt and Sajith Premadasa calling for a snap presidential election. Pix by Pradeep Dilrukshana ..",
@@ -5484,6 +5527,25 @@
         "start_end": [
           15,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "Protests flare in crisis-hit Sri Lanka as govt readies for IMF talks",
+    "source": "www.khaleejtimes.com",
+    "snippet": "Devaluation stoked further inflation, inflicting more distress on Sri Lankans battling rolling power cuts and fuel shortages.",
+    "url": "https://www.khaleejtimes.com/asia/protests-flare-in-crisis-hit-sri-lanka-as-govt-readies-for-imf-talks",
+    "url_hash": "2fb7cb401e48347001d361a108311fab",
+    "ut": 1647356983,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          9,
+          11
         ]
       }
     ]
