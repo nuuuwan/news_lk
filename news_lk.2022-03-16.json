@@ -1832,6 +1832,33 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Lyft details fuel surcharge to help offset rising gas prices",
+    "source": "mynorthwest.com",
+    "snippet": "Lyft will add a fuel surcharge of 55 cents to each ride given by drivers to offset surging gasoline prices. The company said earlier this week that it",
+    "url": "https://mynorthwest.com/3396927/lyft-details-fuel-surcharge-to-help-offset-rising-gas-prices/",
+    "url_hash": "e9fbaea49029b24e3835d357ee90e61e",
+    "ut": 1647407334,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "55 cents",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier this week",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Sri Lanka firms with billions in trade credits exposed as rupee falls",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Companies with suppliers' credit and dollar debt are facing large forex losses as the Sri Lanka rupee falls steeply after two years of unusual money printing to keep interest rates down as budget deficits expanded. In the stock market ...",
@@ -1880,6 +1907,84 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "'Right in the trash': Texas ballot rejections soar, AP finds",
+    "source": "mynorthwest.com",
+    "snippet": "Texas threw out mail votes at an abnormally high rate during the nation's first primary of 2022, rejecting nearly 23,000 ballots",
+    "url": "https://mynorthwest.com/3396988/right-in-the-trash-texas-ballot-rejections-soar-ap-finds/",
+    "url_hash": "1e3aa515bfb45d6a8b8f58a2d281e13b",
+    "ut": 1647410934,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nearly 23,000",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Chinese operative accused in plot to undermine US candidate",
+    "source": "mynorthwest.com",
+    "snippet": "Five people accused of acting on behalf of the Chinese government have been charged with plotting to stalk and harass Chinese",
+    "url": "https://mynorthwest.com/3396951/chinese-operative-accused-in-plot-to-undermine-us-candidate/",
+    "url_hash": "d04419969e27e0bbd55563e432b513ec",
+    "ut": 1647410934,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Five",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          20,
+          21
         ]
       }
     ]
@@ -1955,6 +2060,33 @@
         "start_end": [
           21,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Man who killed guest at cabin acted in self-defense, DA says",
+    "source": "mynorthwest.com",
+    "snippet": "A man who fatally shot a guest at his cabin in Pennsylvania nine times did so out of self-defense, a county district attorney has",
+    "url": "https://mynorthwest.com/3396958/man-who-killed-guest-at-cabin-acted-in-self-defense-da-says/",
+    "url_hash": "72369bab694c39d1cdb3a91e92ebc397",
+    "ut": 1647410948,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pennsylvania",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "nine",
+        "start_end": [
+          12,
+          13
         ]
       }
     ]
@@ -4326,6 +4458,41 @@
   },
   {
     "date": "2022-03-16",
+    "title": "President announces decision to work with IMF",
+    "source": "www.dailymirror.lk",
+    "snippet": "Addressing the nation, President Gotabaya Rajapaksa today announced his decision to work with the International Monetary Fund (IMF) to explore a sustainable solution for the country to repay its foreign debt and build back its foreign reserves.",
+    "url": "https://www.dailymirror.lk/business/President-announces-decision-to-work-with-IMF/215-233223",
+    "url_hash": "e4e1f9bfddb65cca206becf54dc91c21",
+    "ut": 1647446916,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          14,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Sri Lanka heads to IMF to end economic crisis, president says",
     "source": "www.msn.com",
     "snippet": "Sri Lanka will work with the International Monetary Fund to help solve the country's economic crisis, President Gotabaya Rajapaksa said on Wednesday, setting a target of cutting its trade deficit by about 14% this year.",
@@ -4659,6 +4826,33 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Sri Lankan Leader Seeks IMF Help as Economic Crisis Deepens",
+    "source": "www.usnews.com",
+    "snippet": "Sri Lanka's president says his government is in discussions with the International Monetary Fund, other agencies and countries on deferring loan repayments.",
+    "url": "https://www.usnews.com/news/business/articles/2022-03-16/sri-lankan-leader-seeks-imf-help-as-economic-crisis-deepens",
+    "url_hash": "44f16cbb1333275a14d99f8c8bc8ad45",
+    "ut": 1647450534,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          11,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Cash-strapped Sri Lanka Seeks IMF Bailout",
     "source": "www.ibtimes.com",
     "snippet": "Sri Lanka will seek an International Monetary Fund bailout, President Gotabaya Rajapaksa said on Wednesday, to battle record inflation and unprecedented food and fuel shortages as the country runs out of dollars to finance imports.",
@@ -4731,6 +4925,49 @@
         "start_end": [
           80,
           82
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Cash-strapped Sri Lanka seeks IMF bailout",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka will seek an International Monetary Fund bailout, President Gotabaya Rajapaksa said on Wednesday, to battle record inflation and unprecedented food and fuel shortages as the country runs out of dollars to finance imports.",
+    "url": "https://www.msn.com/en-ca/news/world/cash-strapped-sri-lanka-seeks-imf-bailout/ar-AAV96JX",
+    "url_hash": "b4793895d5f6503442c575575b1d643a",
+    "ut": 1647450552,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          15,
+          16
         ]
       }
     ]
@@ -5118,6 +5355,114 @@
         "start_end": [
           29,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lankan Finance Minister Calls on PM Modi; Appreciates India's Economic Support",
+    "source": "www.news18.com",
+    "snippet": "Modi and Rajapaksa also had a \"comprehensive discussion\" on the complex fishermen issue and agreed on the urgent need to find a lasting solution, according to the Sri Lankan High Commission",
+    "url": "https://www.news18.com/news/india/sri-lankan-finance-minister-calls-on-pm-modi-appreciates-indias-economic-support-4882130.html",
+    "url_hash": "9a912d1d85e55d1b50744d82a570522e",
+    "ut": 1647454125,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan High Commission",
+        "start_end": [
+          29,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Fed hikes rates, promises to quantity tighten as Sri Lanka struggles",
+    "source": "economynext.com",
+    "snippet": "The Federal Reserve has hiked interest rates and also promised to reverse quantity easing at its next meeting in a bid to bring inflation down to 2.0 percent from the current runaway levels it had created by a policy error.",
+    "url": "https://economynext.com/fed-hikes-rates-promises-to-quantity-tighten-as-sri-lanka-struggles-91755/",
+    "url_hash": "0ca6974b5da10992225d8031e3a3aecb",
+    "ut": 1647454143,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Federal Reserve",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "2.0 percent",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "India is largest target market for the port city project: Lankan official",
+    "source": "www.msn.com",
+    "snippet": "He highlighted the separate laws being enacted for the port city and bespoke business solutions as its main attractions for Indian investors.",
+    "url": "https://www.msn.com/en-in/news/other/india-is-largest-target-market-for-the-port-city-project-lankan-official/ar-AAV9iqc",
+    "url_hash": "e4d07afae0b915323eebf63572784ada",
+    "ut": 1647454485,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "India, Lanka to finalise $1 billion line of credit",
+    "source": "www.msn.com",
+    "snippet": "Rajapaksa is visiting India at a time when the Sri Lankan government has been rocked by protests in Colombo amid demands for the president's resignation for his handling of the economic crisis.",
+    "url": "https://www.msn.com/en-in/news/other/india-lanka-to-finalise-241-billion-line-of-credit/ar-AAV9iys",
+    "url_hash": "66db9db709906362c79c9d597d6a4e7e",
+    "ut": 1647454845,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          9,
+          11
         ]
       }
     ]
