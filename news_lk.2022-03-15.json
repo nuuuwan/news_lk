@@ -4641,6 +4641,57 @@
   },
   {
     "date": "2022-03-15",
+    "title": "SLAF helds excellence awards",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lanka Air Force Excellence Awards 2021 was held at the Eagles' Lagoon View Banquet Hall, Katunayake on Monday under the patronage of the Commander of the Air Force, Air Marshal Sudarshana Pathirana.",
+    "url": "https://www.dailymirror.lk/caption_story/SLAF-helds-excellence-awards/110-233189",
+    "url_hash": "85c08bc80d2cbfc2741cca87ac1bd28b",
+    "ut": 1647353328,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Eagles",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Katunayake",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Air Force",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Air Marshal Sudarshana Pathirana",
+        "start_end": [
+          33,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "SJB takes to the streets against govt.",
     "source": "www.dailymirror.lk",
     "snippet": "The Samagi Jana Balawegaya protest which commenced in Colombo today ended with dummy coffins being burnt and Sajith Premadasa calling for a snap presidential election. Pix by Pradeep Dilrukshana ..",
@@ -4917,6 +4968,41 @@
         "start_end": [
           18,
           19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "No fuel distribution from tonight: SLPPTO",
+    "source": "www.dailymirror.lk",
+    "snippet": "Attempts made by the Sri Lanka Petroleum Private Tanker Owners' Association (SLPPTOA) to reach the fuel transport formula revision has failed to fetch fruitful results, the SLPPTOA has opted to refrain from distributing fuel from midnight today.",
+    "url": "https://www.dailymirror.lk/top_story/No-fuel-distribution-from-tonight-SLPPTO/155-233136",
+    "url_hash": "53cea6c8a368690b054e618ccc79194d",
+    "ut": 1647356928,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Petroleum Private Tanker Owners' Association",
+        "start_end": [
+          3,
+          12
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          40,
+          41
         ]
       }
     ]
