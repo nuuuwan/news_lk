@@ -5466,5 +5466,142 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lanka - Saudi Arabia ready to assist Sri Lanka with renewable energy",
+    "source": "menafn.com",
+    "snippet": "Saudi Arabia is ready to assist Sri Lanka with renewable energy generation, Saudi Arabian Foreign Minister Faisal bin Farhan Al Saud sa",
+    "url": "https://menafn.com/1103862991/Sri-Lanka-Saudi-Arabia-ready-to-assist-Sri-Lanka-with-renewable-energy&source=28",
+    "url_hash": "f4c21bbf953c84eda91ff1d0230a6b76",
+    "ut": 1647457914,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Saudi Arabia",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Saudi Arabian",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Faisal bin Farhan Al Saud",
+        "start_end": [
+          17,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lanka offers cash to families of civil war dead",
+    "source": "www.gg2.net",
+    "snippet": "Sri Lanka will pay small sums to the families of people who were killed or went missing in the carnage of the island nation's decade-long civil war, authorities announced Tuesday. Successive Sri Lankan governments have faced international censure over the conflict,",
+    "url": "https://www.gg2.net/sri-lanka-offers-cash-to-families-of-civil-war-dead/",
+    "url_hash": "c62747b63a8190a7721b7b889e42c40c",
+    "ut": 1647458308,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "decade-long civil war",
+        "start_end": [
+          25,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Successive Sri Lankan",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lanka - Basil briefs Modi on economic crisis in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Finance Minister Basil Rajapaksa briefed Indian Prime Minister Narendra Modi today on the economic crisis in Sri Lanka.",
+    "url": "https://menafn.com/1103857530/Sri-Lanka-Basil-briefs-Modi-on-economic-crisis-in-Sri-Lanka&source=24",
+    "url_hash": "59bc0e78a9a5384a08ee82aa1952d49a",
+    "ut": 1647460074,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Narendra Modi",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
   }
 ]
