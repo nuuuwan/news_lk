@@ -76,6 +76,84 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Basil arrives in New Delhi",
+    "source": "www.dailymirror.lk",
+    "snippet": "Finance Basil Rajapaksa, along with Ministry Secretary S.R.Attigale, arrived in New Delhi today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news_videos/Basil-arrives-in-New-Delhi/449-233147",
+    "url_hash": "af6c4d2f76d5302d9fe061891415d719",
+    "ut": 1647390674,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ministry",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "S.R.Attigale",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "NGO accused of misusing funds, abandoning children in SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Plan International, the global development and humanitarian organisation has been accused of misleading donors and abandoning some 20,000 children in Sri Lanka. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/NGO-accused-of-misusing-funds-abandoning-children-in-SL/108-233139",
+    "url_hash": "9851bdea3b6afbff1f06c846627bac28",
+    "ut": 1647390674,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "some 20,000",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Protesters blame Sri Lanka leader for severe economic crisis",
     "source": "kvia.com",
     "snippet": "Tens of thousands of protesters have demonstrated in Sri Lanka's capital, calling for the president to resign as the country suffers its worst economic crisis within memory. The protesters blamed Pres",
@@ -116,6 +194,65 @@
         "start_end": [
           5,
           8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lanka President meets top IMF Asia-Pacific staff",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's President Gotabaya Rajapaksa has met top International Monetary Fund Asia Pacific staff as the cabinet of ministers gave the go ahead for Finance Minister Basil Rajapaksa to start negotiations with the International Monetary Fund.",
+    "url": "https://economynext.com/sri-lanka-president-meets-top-imf-asia-pacific-staff-91686/",
+    "url_hash": "8ed5d242907ea775c06c2a8f83225413",
+    "ut": 1647394481,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund Asia Pacific",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          33,
+          37
         ]
       }
     ]
