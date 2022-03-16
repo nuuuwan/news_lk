@@ -237,6 +237,57 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Protesters blame Sri Lanka leader for severe economic crisis",
+    "source": "www.chron.com",
+    "snippet": "Anti-government protests roiled Sri Lanka's capital on Tuesday amid demands that President Gotabaya Rajapaksa resign, as the country suffers its worst economic crisis within memory. Tens of thousands of people gathered outside of the president's office in Colombo,",
+    "url": "https://www.chron.com/news/article/Protesters-blame-Sri-Lanka-leader-for-severe-17004968.php",
+    "url_hash": "c9f509ac3de09e54a8ad0706131dd87f",
+    "ut": 1647392965,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Tens of thousands",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Sri Lanka President meets top IMF Asia-Pacific staff",
     "source": "economynext.com",
     "snippet": "Sri Lanka's President Gotabaya Rajapaksa has met top International Monetary Fund Asia Pacific staff as the cabinet of ministers gave the go ahead for Finance Minister Basil Rajapaksa to start negotiations with the International Monetary Fund.",
@@ -317,6 +368,92 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lanka rupee opens at 275/285 to the US dollar",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's rupee opened at 275/285 to the US dollar on Wednesday dealers said as the forex market is still struggling to establish a free float amid low policy rates interest rates and surrenders.",
+    "url": "https://economynext.com/sri-lanka-rupee-opens-at-275-285-to-the-us-dollar-91692/",
+    "url_hash": "7d0af3e1ecd043b345eb0d0b0b3ec148",
+    "ut": 1647401553,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "275/285",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "NO End to Fuel Queues in Sri Lanka",
+    "source": "www.newsfirst.lk",
+    "snippet": "Long queues were seen in filling stations in several parts of the country on Tuesday (15) until midnight. Many of them said that they - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2022/03/16/no-end-to-fuel-queues-in-sri-lanka/",
+    "url_hash": "0f60eedff4a5e795c95a615c609bc3b2",
+    "ut": 1647403336,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          37,
+          39
         ]
       }
     ]
