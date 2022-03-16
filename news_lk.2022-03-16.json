@@ -202,6 +202,33 @@
   },
   {
     "date": "2022-03-16",
+    "title": "NGO accused of misusing funds, abandoning children in SL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Plan International, the global development and humanitarian organisation has been accused of misleading donors and abandoning some 20,000 children in Sri Lanka. ..",
+    "url": "https://www.dailymirror.lk/latest_news/NGO-accused-of-misusing-funds-abandoning-children-in-SL/342-233139",
+    "url_hash": "3bb932443d6673ddc43a64acc6e74213",
+    "ut": 1647389346,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "some 20,000",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Sri Lanka angry crowd tries to storm president's office over economic woes",
     "source": "www.scmp.com",
     "snippet": "Frustration flared over runaway prices during financial crisis, with long queues outside petrol stations and rolling blackouts the norm.",
@@ -720,6 +747,41 @@
         "start_end": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "People's Bank upgrades Siyambalanduwa service centre into a fully-fledged branch",
+    "source": "www.dailymirror.lk",
+    "snippet": "With the aim of providing a seamless digital banking experience to its customers, People's Bank upgraded its Siyambalanduwa service centre into a fully-fledged branch and ceremonially opened it to the public on March 14,",
+    "url": "https://www.dailymirror.lk/financial-news/People%E2%80%99s-Bank-upgrades-Siyambalanduwa-service-centre-into-a-fully-fledged-branch/265-233166",
+    "url_hash": "7399cd56fe22d9609b2c7fb28d7c0e2b",
+    "ut": 1647403746,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "People's Bank",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Siyambalanduwa",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 14",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
@@ -1620,6 +1682,248 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Russia bars entry to Biden and Canada's Trudeau",
+    "source": "www.dailymirror.lk",
+    "snippet": "Russia said on Tuesday it had put U.S. President Joe Biden, Canadian Prime Minister Justin Trudeau and a dozen top U.S. officials on a ''stop list'' that bars them from entering the country. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Russia-bars-entry-to-Biden-and-Canadas-Trudeau/108-233204",
+    "url_hash": "ae75f38ea640b0d6ddd8034b02cc4ef4",
+    "ut": 1647410946,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Canadian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Justin Trudeau",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "a dozen",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Distribution of LP gas for domestic use halted",
+    "source": "www.adaderana.lk",
+    "snippet": "Litro Gas and LAUGFS Gas PLC, the two largest suppliers of liquefied petroleum (LP) gas in Sri Lanka, have decided to halt the distribution of cylinders for domestic use",
+    "url": "http://www.adaderana.lk/news/81232/distribution-of-lp-gas-for-domestic-use-halted",
+    "url_hash": "b1f0bff5d16711b397792541ee455350",
+    "ut": 1647410959,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Litro Gas",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LAUGFS Gas PLC",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Angry crowd tries to storm Sri Lanka president's office",
+    "source": "news.yahoo.com",
+    "snippet": "A huge crowd tries to storm the Sri Lankan President Gotabaya Rajapaksa's office as anger flares over runaway prices brought about by the worst financial crisis in the island's modern history. Marshalled by the main opposition party,",
+    "url": "https://news.yahoo.com/angry-crowd-tries-storm-sri-070012680.html",
+    "url_hash": "5665d1e161457e7ff81933dce3f87c92",
+    "ut": 1647414555,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "China daily local Covid cases hit two-year high",
+    "source": "dailynews.lk",
+    "snippet": "China has posted a steep jump in daily Covid-19 infections with new cases more than doubling from a day earlier to a two-year high as a virus outbreak expanded rapidly in the north-east. A total of 3,",
+    "url": "https://dailynews.lk/2022/03/16/world/274946/china-daily-local-covid-cases-hit-two-year-high",
+    "url_hash": "84c98597d3cd8fb300011d0cf73ebb79",
+    "ut": 1647415270,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a day earlier",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-year",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Meet Hkm Saharan, The Founder of \"Third World\" Who's Making an Impact in the World of Web3",
+    "source": "finance.yahoo.com",
+    "snippet": "I aim to build myself up, whilst giving back to the community.\" says Hkm Saharan, also widely known as HK. A budding entrepreneur and founder of the exclusive community organisation 'Third World' which serves as an amazing guide to those new to investments and Web3.",
+    "url": "https://finance.yahoo.com/news/meet-hkm-saharan-founder-third-072500498.html",
+    "url_hash": "a16dcdb5f1a9fc26bd3841a40d50fe97",
+    "ut": 1647415481,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Hkm Saharan",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "The best test-free travel destinations this spring",
+    "source": "www.wanderlust.co.uk",
+    "snippet": "Spring has nearly sprung. Take the hassle out of your travels this season by visiting one of these test-free destinations (if you're fully",
+    "url": "https://www.wanderlust.co.uk/content/best-test-free-travel-destinations/",
+    "url_hash": "d22db8ba14069c30b448f9ab7bc4698e",
+    "ut": 1647418035,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "this season",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
