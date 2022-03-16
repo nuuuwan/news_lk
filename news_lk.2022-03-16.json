@@ -839,6 +839,25 @@
   },
   {
     "date": "2022-03-16",
+    "title": "No power interruption during President's address today",
+    "source": "www.dailymirror.lk",
+    "snippet": "No power interruptions will be in place in any part of the country during the time when President Gotabaya Rajapaksa makes a special address. ..",
+    "url": "https://www.dailymirror.lk/mirror_for_hope/No-power-interruption-during-Presidents-address-today/338-233175",
+    "url_hash": "cffe2e1605c65977b72d33869cd40eb1",
+    "ut": 1647403760,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "European leaders visit Kyiv, Zelensky hints at NATO compromise",
     "source": "www.dailymirror.lk",
     "snippet": "Three European prime ministers headed to Kyiv by train on Tuesday for the first visit of its kind since war began, even as buildings there were ablaze and rescue workers were trying to pull survivors from the rubble of fresh Russian bombardment.",
@@ -3351,6 +3370,57 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Inspection tour...",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa made an inspection tour to the Chief Mechanical Engineer's Sub Department and the Maligawatta Railway Yard of the Department of Railways, Dematagoda today. President's Media .",
+    "url": "https://www.dailymirror.lk/latest_news/Inspection-tour/342-233215",
+    "url_hash": "36dbd765a917568ed459edee94f146af",
+    "ut": 1647432560,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Maligawatta Railway Yard",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Railways",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dematagoda",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Environmentalists reject plans to protect elephants in Sri Lanka",
     "source": "www.infobae.com",
     "snippet": "In Sri Lanka, dozens of people die each year because of elephants. And more elephants die because of humans. The main reason is that humans increasingly invade the habitat of about 7,500 wild elephants in Sri Lanka,",
@@ -3930,6 +4000,76 @@
         "start_end": [
           39,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "India, Sri Lanka to finalise $1-billion line of credit on Thursday",
+    "source": "www.hindustantimes.com",
+    "snippet": "India's financial aid to Sri Lanka is to help President Gotabaya Rajapaksa's government cope with the island nation's worst economic crisis in decades.",
+    "url": "https://www.hindustantimes.com/india-news/india-sri-lanka-to-finalise-1-billion-line-of-credit-on-thursday-101647442801680.html",
+    "url_hash": "143596d54d9595d8367fcc7613cfb569",
+    "ut": 1647443370,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "decades",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Govt. to work with IMF: Prez",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa said he has decided to work with the International Monetary Fund (IMF) after examining the advantages and disadvantages. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Govt-to-work-with-IMF-Prez/342-233218",
+    "url_hash": "e1ac7a32c022e5787391a68f3557d7ac",
+    "ut": 1647443900,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          10,
+          14
         ]
       }
     ]
