@@ -73,5 +73,51 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Protesters blame Sri Lanka leader for severe economic crisis",
+    "source": "kvia.com",
+    "snippet": "Tens of thousands of protesters have demonstrated in Sri Lanka's capital, calling for the president to resign as the country suffers its worst economic crisis within memory. The protesters blamed Pres",
+    "url": "https://kvia.com/news/business-technology/ap-national-business/2022/03/15/protesters-blame-sri-lanka-leader-for-severe-economic-crisis/",
+    "url_hash": "e9bfe9fe7ee66479cf785dc2a604092c",
+    "ut": 1647392019,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Tens of thousands",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          8,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Protesters blame Sri Lanka leader for severe economic crisis",
+    "source": "www.thetelegraph.com",
+    "snippet": "Anti-government protests roiled Sri Lanka's capital",
+    "url": "https://www.thetelegraph.com/news/article/Protesters-blame-Sri-Lanka-leader-for-severe-17004968.php",
+    "url_hash": "ca72b7092774d5c8c20a2e831e8972d2",
+    "ut": 1647392075,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      }
+    ]
   }
 ]
