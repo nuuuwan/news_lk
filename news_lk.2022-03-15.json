@@ -1025,6 +1025,57 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Democrat Horn joins crowded US Senate race in Oklahoma",
+    "source": "mynorthwest.com",
+    "snippet": "Former U.S. Rep. Kendra Horn, a moderate Democrat who pulled off one of the biggest political upsets in the 2018 midterm elections,",
+    "url": "https://mynorthwest.com/3395012/democrat-horn-joins-crowded-us-senate-race-in-oklahoma/",
+    "url_hash": "0ca69a5e3e4668ad9a59df259cbad83a",
+    "ut": 1647313819,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kendra Horn",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Democrat",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2018",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "Sri Lankan finance minister to visit India today",
     "source": "www.bignewsnetwork.com",
     "snippet": "Amid the worsening economic situation in his country Sri Lankan Finance Minister Basil Rajapaksa will begin his India visit on Tuesday hoping to seal a USD 1",

@@ -76,6 +76,43 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Sri Lanka angry crowd tries to storm president's office over economic woes",
+    "source": "www.scmp.com",
+    "snippet": "Frustration flared over runaway prices during financial crisis, with long queues outside petrol stations and rolling blackouts the norm.",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3170597/sri-lanka-angry-crowd-tries-storm-presidents-office-over",
+    "url_hash": "ba17f45b574ac922bd7a9f22f8ca9f70",
+    "ut": 1647389411,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-16",
+    "title": "5 Stunning Heritage Circuits In India To Add To Your Travel Bucketlist",
+    "source": "www.outlookindia.com",
+    "snippet": "Religion, history and local cuisine are the hallmarks of this heritage trail in Madhya Pradesh. Indore, the largest city in MP, is well connected with the rest of the country by air (Devi Ahilya Bai International Airport),",
+    "url": "https://www.outlookindia.com/travel/5-stunning-heritage-circuits-in-india-news-186953",
+    "url_hash": "34ae9193b120bf3b39b019225df5fc51",
+    "ut": 1647389424,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Madhya Pradesh",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Devi Ahilya Bai",
+        "start_end": [
+          37,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Basil arrives in New Delhi",
     "source": "www.dailymirror.lk",
     "snippet": "Finance Basil Rajapaksa, along with Ministry Secretary S.R.Attigale, arrived in New Delhi today. ..",
@@ -253,6 +290,33 @@
         "start_end": [
           33,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Former LTTE cadre sentenced to life in prison",
+    "source": "www.adaderana.lk",
+    "snippet": "The Colombo High Court has sentenced a former cadre of the now-defunct separatist group LTTE to rigorous life imprisonment",
+    "url": "http://www.adaderana.lk/news/81010/former-ltte-cadre-sentenced-to-life",
+    "url_hash": "a4092a4b6893ac2147316f8c43a8f855",
+    "ut": 1647397335,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Colombo High Court",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LTTE",
+        "start_end": [
+          16,
+          17
         ]
       }
     ]
