@@ -2032,6 +2032,57 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Sri Lanka says will begin official talks with IMF next month",
+    "source": "www.zawya.com",
+    "snippet": "COLOMBO: Sri Lanka will start official talks with the International Monetary Fund (IMF) next month, a cabinet spokesman said on Tuesday, as the government seeks to stave off the island nation's worst economic crisis in years.",
+    "url": "https://www.zawya.com/en/world/indian-sub-continent/sri-lanka-says-will-begin-official-talks-with-imf-next-month-tw4gd54o",
+    "url_hash": "e2f39a46caf14b1b54ea93d134da7a33",
+    "ut": 1647324582,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "years",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "Sri Lanka awards diesel contract to UAE-based Coral Energy DMCC",
     "source": "economynext.com",
     "snippet": "ECONOMYNEXT - Sri Lanka cabinet has awarded a long term contract of importing ... months from March 1 to October 31 this year, the government said. The island nation has been struggling to import fuel due to severe shortage of US dollars as its usable ...",
@@ -5639,6 +5690,41 @@
         "start_end": [
           65,
           68
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "4,000 hoarded gas cylinders found in Angunakolapelessa",
+    "source": "www.dailymirror.lk",
+    "snippet": "Around 4,000 gas cylinders that were hoarded in Angunakolapelessa were taken into the custody by the police today. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/4-000-hoarded-gas-cylinders-found-in-Angunakolapelessa/108-233137",
+    "url_hash": "7245ff80ada03cbd5ef915571a5e1b38",
+    "ut": 1647360574,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Around 4,000",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Angunakolapelessa",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
