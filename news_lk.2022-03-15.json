@@ -4356,6 +4356,97 @@
   },
   {
     "date": "2022-03-15",
+    "title": "Pakistan defies Australia to reach 192-2 in 2nd test",
+    "source": "apnews.com",
+    "snippet": "Captain Babar Azam's first test hundred in two years and Abdullah Shafique's 71 led Pakistan's resistance after Australia set up a huge target of 506 on day four Tuesday of the second test.",
+    "url": "https://apnews.com/article/sports-pakistan-karachi-australia-cricket-648d4abdc6790228ada79b902f998407",
+    "url_hash": "4b741489b7cfd7787766972f2c58e83f",
+    "ut": 1647349742,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Babar Azam's",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundred",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two years",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Abdullah Shafique's",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "71",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "506",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
     "title": "SJB supporters in protest rally",
     "source": "www.dailymirror.lk",
     "snippet": "The supporters of the main opposition Samagi Jana Balawegaya (SJB) assembled in Colombo for a protest rally urging the government to step down. ..",
@@ -6435,6 +6526,25 @@
         "start_end": [
           3,
           5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-15",
+    "title": "How Plan left Sri Lanka, abandoning children and misleading donors",
+    "source": "www.dailymirror.lk",
+    "snippet": "Plan International's decision to leave Sri Lanka raised eyebrows. Several stakeholders found the decision abrupt and ill-prepared. ..",
+    "url": "https://www.dailymirror.lk/recomended-news/How-Plan-left-Sri-Lanka-abandoning-children-and-misleading-donors/277-233144",
+    "url_hash": "4cbe032c7de2a8e44ef60c8e1ed8c4c6",
+    "ut": 1647378526,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
         ]
       }
     ]
