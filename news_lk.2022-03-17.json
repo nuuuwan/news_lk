@@ -143,5 +143,40 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lanka seeks IMF bailout amid shortages, rising public anger",
+    "source": "www.msn.com",
+    "snippet": "President Gotabaya Rajapaksa has called on Sri Lankans to use fuel and electricity sparingly. But citizens blame his government for the country's worst economic crisis since independence almost 75 years ago.",
+    "url": "https://www.msn.com/en-xl/news/other/sri-lanka-seeks-imf-bailout-amid-shortages-rising-public-anger/ar-AAVasyy",
+    "url_hash": "c5dafda3b16d35a9314ad0fb8a9ad49f",
+    "ut": 1647478969,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "almost 75 years ago",
+        "start_end": [
+          29,
+          33
+        ]
+      }
+    ]
   }
 ]

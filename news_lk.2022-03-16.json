@@ -1825,6 +1825,52 @@
   },
   {
     "date": "2022-03-16",
+    "title": "He is in action after all!",
+    "source": "www.dailymirror.lk",
+    "snippet": "He is not attending his Ministry these days. His friends say that he has stopped attending office, because he has already told the country that he has ceased carrying out duties of his portfolio. They say there is another reason he does not attend office: he wants to avoid giving answers to the questions that media personnel may pose to him!",
+    "url": "https://www.dailymirror.lk/political_gossip/He-is-in-action-after-all/261-233196",
+    "url_hash": "9c2c1cf6b005463ec0d2ff4affd75d03",
+    "ut": 1647405341,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Ministry",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "these days",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Black sheep is to be shown the door!",
+    "source": "www.dailymirror.lk",
+    "snippet": "An informal decision is said to have been taken to keep away a certain prominent Diyawanna member from all government meetings and other collective activity. ..",
+    "url": "https://www.dailymirror.lk/political_gossip/Black-sheep-is-to-be-shown-the-door/261-233197",
+    "url_hash": "f047e5478a65787f1006c6a257cfe248",
+    "ut": 1647405341,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Diyawanna",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Protesters blame Sri Lanka leader for severe economic crisis",
     "source": "www.timesunion.com",
     "snippet": "Anti-government protests roiled Sri Lanka's capital on Tuesday amid demands that President Gotabaya Rajapaksa resign, as the country suffers its worst economic crisis within memory. Tens of thousands of people gathered outside of the president's office in Colombo,",
@@ -4945,6 +4991,41 @@
   },
   {
     "date": "2022-03-16",
+    "title": "President announces decision to work with IMF",
+    "source": "www.dailymirror.lk",
+    "snippet": "Addressing the nation, President Gotabaya Rajapaksa today announced his decision to work with the International Monetary Fund (IMF) to explore a sustainable solution for the country to repay its foreign debt and build back its foreign reserves.",
+    "url": "https://www.dailymirror.lk/mirror_business/President-announces-decision-to-work-with-IMF/241-233223",
+    "url_hash": "33e74763a39f8b7ba306cf40d6e3f57c",
+    "ut": 1647448541,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          14,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Cash-strapped Sri Lanka seeks IMF bailout",
     "source": "www.msn.com",
     "snippet": "Sri Lanka will seek an International Monetary Fund bailout, President Gotabaya Rajapaksa said on Wednesday, to battle record inflation and unprecedented food and fuel shortages as the country runs out of dollars to finance imports.",
@@ -6751,6 +6832,33 @@
   },
   {
     "date": "2022-03-16",
+    "title": "Keells revolutionizes local retail industry with Rs.4.6bn distribution centre",
+    "source": "www.dailymirror.lk",
+    "snippet": "Keells Supermarkets recently launched its Rs.4.6 billion, state-of-the-art centralized distribution centre (DC) in the industrial zone in Kerawalapitiya. ..",
+    "url": "https://www.dailymirror.lk/business-news/Keells-revolutionizes-local-retail-industry-with-Rs-4-6bn-distribution-centre/273-233246",
+    "url_hash": "7b73c125af27d5a63986ae885c33329b",
+    "ut": 1647470141,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Rs.4.6 billion",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kerawalapitiya",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Turnover up but stock market remains lacklustre",
     "source": "www.ft.lk",
     "snippet": "The Colombo stock market remained lacklustre with indices closing on a mixed note though turnover improved. ..",
@@ -6857,6 +6965,60 @@
         "start_end": [
           22,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Protests flare in crisis-hit Sri Lanka as government readies for IMF talks",
+    "source": "www.stltoday.com",
+    "snippet": "Protesters have tried to storm the Sri Lankan president's office in Colombo over fuel shortages and spiraling food prices brought about by the worst financial crisis in the island's modern",
+    "url": "https://www.stltoday.com/news/world/protests-flare-in-crisis-hit-sri-lanka-as-government-readies-for-imf-talks/video_f1b6dfb8-7064-58ab-8000-60c856706989.html",
+    "url_hash": "cd24417af31e4ae26c04601625982feb",
+    "ut": 1647473749,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Be the first to know",
+    "source": "omaha.com",
+    "snippet": "Protesters have tried to storm the Sri Lankan president's office in Colombo over fuel shortages and spiraling food prices brought about by the worst financial crisis in the island's modern",
+    "url": "https://omaha.com/news/world/protests-flare-in-crisis-hit-sri-lanka-as-government-readies-for-imf-talks/video_8c3e8b55-64a1-54c0-8dd9-72fdce6e45be.html",
+    "url_hash": "94328892c10998643efc3481b7ab5afa",
+    "ut": 1647473749,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          12,
+          13
         ]
       }
     ]
