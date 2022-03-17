@@ -5605,6 +5605,41 @@
   {
     "date": "2022-03-16",
     "title": "Sri Lankan leader seeks IMF help as economic crisis deepens",
+    "source": "www.pahomepage.com",
+    "snippet": "Sri Lanka's president said Wednesday that his government was in discussions with the International Monetary Fund, other agencies and countries on deferring loan",
+    "url": "https://www.pahomepage.com/uncategorized/sri-lankan-leader-seeks-imf-help-as-economic-crisis-deepens/",
+    "url_hash": "000e60d9d76874565d4ef26b9732271a",
+    "ut": 1647450591,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          13,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lankan leader seeks IMF help as economic crisis deepens",
     "source": "www.msn.com",
     "snippet": "Sri Lanka's president said Wednesday that his government was in discussions with the International Monetary Fund, other agencies and countries on deferring loan repayments and requested people's support by limiting electricity and fuel consumption to cope with the worst economic crisis in memory.",
     "url": "https://www.msn.com/en-us/news/world/sri-lankan-leader-seeks-imf-help-as-economic-crisis-deepens/ar-AAV9gQS",
@@ -6488,6 +6523,57 @@
         "start_end": [
           16,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Sri Lanka - Basil briefs Modi on economic crisis in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "Finance Minister Basil Rajapaksa briefed Indian Prime Minister Narendra Modi today on the economic crisis in Sri Lanka.",
+    "url": "https://menafn.com/1103862986/Sri-Lanka-Basil-briefs-Modi-on-economic-crisis-in-Sri-Lanka",
+    "url_hash": "741aca03949b05e6113b5142dc33af8d",
+    "ut": 1647461387,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Narendra Modi",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
         ]
       }
     ]
