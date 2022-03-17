@@ -1771,6 +1771,60 @@
   },
   {
     "date": "2022-03-16",
+    "title": "She throws a tantrum!",
+    "source": "www.dailymirror.lk",
+    "snippet": "She is said to be highly disappointed due to getting the cold shoulder. She is hardly seen at the party meetings these days, they say. She has complained to party seniors that a certain young man is the cause for her being snubbed and when the seniors had taken up her case with the party chief,",
+    "url": "https://www.dailymirror.lk/political_gossip/She-throws-a-tantrum/261-233195",
+    "url_hash": "0e7fb222778b454068f0a1cb32f61ee9",
+    "ut": 1647404393,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "these days",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "No power interruption during President's address today",
+    "source": "www.dailymirror.lk",
+    "snippet": "No power interruptions will be in place in any part of the country during the time when President Gotabaya Rajapaksa makes a special address. The President is scheduled to address the nation tonight at 8.30 pm. According to the demand management power ...",
+    "url": "https://www.dailymirror.lk/breaking_news/No-power-interruption-during-President%E2%80%99s-address-today/108-233175",
+    "url_hash": "2a7770243feb398260ecf26230eda330",
+    "ut": 1647404393,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "tonight",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "8.30 pm",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "Protesters blame Sri Lanka leader for severe economic crisis",
     "source": "www.timesunion.com",
     "snippet": "Anti-government protests roiled Sri Lanka's capital on Tuesday amid demands that President Gotabaya Rajapaksa resign, as the country suffers its worst economic crisis within memory. Tens of thousands of people gathered outside of the president's office in Colombo,",
@@ -4821,6 +4875,41 @@
   },
   {
     "date": "2022-03-16",
+    "title": "President announces decision to work with IMF",
+    "source": "www.dailymirror.lk",
+    "snippet": "Addressing the nation, President Gotabaya Rajapaksa today announced his decision to work with the International Monetary Fund (IMF) to explore a sustainable solution for the country to repay its foreign debt and build back its foreign reserves.",
+    "url": "https://www.dailymirror.lk/business_247/President-announces-decision-to-work-with-IMF/395-233223",
+    "url_hash": "c45c9d5c90d80475cce12e5cd0cd900a",
+    "ut": 1647447593,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          14,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "President says crisis is not his fault",
     "source": "colombogazette.com",
     "snippet": "President Gotabaya Rajapaksa says the current crisis Sri Lanka is facing is not his fault. He said that those who created this crisis are now criticising the current Government. Addressing the nation today,",
@@ -6369,6 +6458,293 @@
         "start_end": [
           20,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "CB projected to deliver two more policy rate hikes this year encompassing 200bps",
+    "source": "www.dailymirror.lk",
+    "snippet": "First Capital Research (FCR) revisiting its earlier forecasts said it now expects the Central Bank to deliver two more rate hikes in the second half of the year, up from the previously forecasted three for the full year,",
+    "url": "https://www.dailymirror.lk/business-news/CB-projected-to-deliver-two-more-policy-rate-hikes-this-year-encompassing-200bps/273-233255",
+    "url_hash": "cee752d9469868192d4a64492e8a64f3",
+    "ut": 1647469193,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "First Capital Research",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FCR",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the second half of the year",
+        "start_end": [
+          24,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the full year",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Labour Dept. launches online complaint management system",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Labour Department this week launched an online complaint management system allowing employees to submit their inquiries and complaints with the department swiftly and conveniently. ..",
+    "url": "https://www.dailymirror.lk/business-news/Labour-Dept-launches-online-complaint-management-system/273-233254",
+    "url_hash": "092febea5963719649369461dd1f48bb",
+    "ut": 1647469193,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Labour Department",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Govt. to revisit proposed FTA with China",
+    "source": "www.dailymirror.lk",
+    "snippet": "After a gap of seven years, the government has decided to revisit the proposed free trade agreement (FTA) with China, a top source said. ..",
+    "url": "https://www.dailymirror.lk/business-news/Govt-to-revisit-proposed-FTA-with-China/273-233248",
+    "url_hash": "96112135efcfd80378350a41a41fe127",
+    "ut": 1647469193,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "seven years",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "FTA",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "The agony when savers become spenders",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's political scene experienced a charged tempo when the main opposition Samagi Jana Balawegaya (SJB) took to the streets on Tuesday (March 15) protesting against an inefficient government and demanding from the president to call for an early presidential election.",
+    "url": "https://www.dailymirror.lk/opinion/The-agony-when-savers-become-spenders/172-233230",
+    "url_hash": "fb406092e08241712a2d961480485902",
+    "ut": 1647469193,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samagi Jana Balawegaya",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 15",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "BOI woos FDIs, re-investments by German firms",
+    "source": "www.ft.lk",
+    "snippet": "Ambassador of Germany Holger Seubert, Deputy Head of Mission / Counsellor Olaf Malchow and Chief Delegate of German Industry and Commerce in Sri Lanka (AHK) Alexandra Voss met with Chairman BOI Eng. Raja Edirisuriya and Director General Renuka Weerakone on 10 March at the BOI.",
+    "url": "https://www.ft.lk/business/BOI-woos-FDIs-re-investments-by-German-firms/34-732108",
+    "url_hash": "2bba653212682f3ede0231b222a33baa",
+    "ut": 1647469216,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Germany",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Holger Seubert",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Mission / Counsellor Olaf Malchow",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "German Industry and Commerce",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AHK",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Alexandra Voss",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "BOI Eng",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Raja Edirisuriya",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Renuka Weerakone",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10 March",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BOI",
+        "start_end": [
+          48,
+          49
         ]
       }
     ]
