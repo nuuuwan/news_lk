@@ -146,6 +146,33 @@
   },
   {
     "date": "2022-03-17",
+    "title": "Be the first to know",
+    "source": "omaha.com",
+    "snippet": "Protesters have tried to storm the Sri Lankan president's office in Colombo over fuel shortages and spiraling food prices brought about by the worst financial crisis in the island's modern",
+    "url": "https://omaha.com/news/world/protests-flare-in-crisis-hit-sri-lanka-as-government-readies-for-imf-talks/video_8c3e8b55-64a1-54c0-8dd9-72fdce6e45be.html",
+    "url_hash": "94328892c10998643efc3481b7ab5afa",
+    "ut": 1647476854,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "Sri Lanka seeks IMF bailout amid shortages, rising public anger",
     "source": "www.msn.com",
     "snippet": "President Gotabaya Rajapaksa has called on Sri Lankans to use fuel and electricity sparingly. But citizens blame his government for the country's worst economic crisis since independence almost 75 years ago.",
@@ -175,6 +202,65 @@
         "start_end": [
           29,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lanka seeks IMF bailout amid shortages, rising public anger",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka will seek an International Monetary Fund (IMF) bailout, the country's president said on Wednesday, just 24 hours after a huge crowd stormed his office over runaway prices.President Gotabaya Rajapaksa said his government was in discussions with the IMF,",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/sri-lanka-seeks-imf-bailout-amid-shortages-rising-public-anger/ar-AAVaF65",
+    "url_hash": "60ee80111844453fb85dae4a7e1d2c06",
+    "ut": 1647480454,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Monetary Fund",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "just 24 hours",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          46,
+          47
         ]
       }
     ]
