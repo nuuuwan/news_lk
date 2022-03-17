@@ -315,5 +315,99 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "This Tropical Island Is Being Crushed by War in Ukraine",
+    "source": "www.bloombergquint.com",
+    "snippet": "Russia's war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets, is now threatening to crush an $81 billion economy more than 4,000 miles away in the Indian Ocean.",
+    "url": "https://www.bloombergquint.com/global-economics/shock-waves-from-the-war-in-ukraine-threaten-to-swamp-sri-lanka",
+    "url_hash": "84af128a60993861d1eeda33f118d7a0",
+    "ut": 1647486563,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$81 billion",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "more than 4,000 miles",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "SJB to prepare a blue print for economic development",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Samaji Jana Balawegaya (SJB) yesterday said it has embarked on preparing a blue print to revive the Sri Lankan economy and is prepared to talk to international organizations as well for the purpose.",
+    "url": "https://www.dailymirror.lk/breaking_news/SJB-to-prepare-a-blue-print-for-economic-development/108-233258",
+    "url_hash": "bed70be3b287ae84b924d7784f71d770",
+    "ut": 1647488114,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jana Balawegaya",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
   }
 ]
