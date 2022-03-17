@@ -412,6 +412,25 @@
   },
   {
     "date": "2022-03-17",
+    "title": "Russia's war in Ukraine is crushing Sri Lanka's $81 billion economy",
+    "source": "theprint.in",
+    "snippet": "Hit by soaring oil import costs and a dip in tourism revenue, Sri Lanka is racing to avert a default amid dwindling forex holdings.",
+    "url": "https://theprint.in/world/russias-war-in-ukraine-is-crushing-sri-lankas-81-billion-economy/877212/",
+    "url_hash": "4a15df3830e93c14e363d71d16979926",
+    "ut": 1647486537,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "Sri Lanka heads to IMF to end economic crisis, president says",
     "source": "www.cnbc.com",
     "snippet": "Sri Lanka's foreign exchange reserves have fallen 70% in the past two years to about $2.31 billion, leaving it struggling to pay for essential imports.",
@@ -543,6 +562,33 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "WHO says global rise in COVID cases is 'tip of the iceberg'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Figures showing a global rise in COVID-19 cases could herald a much bigger problem as some countries also report a drop in testing rates, the WHO said on Tuesday, warning nations to remain vigilant against the virus.",
+    "url": "https://www.dailymirror.lk/breaking_news/WHO-says-global-rise-in-COVID-cases-is-tip-of-the-iceberg/108-233259",
+    "url_hash": "6a1ebb17a83511f65cf432a36665cbd0",
+    "ut": 1647490129,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "WHO",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
@@ -860,6 +906,159 @@
       {
         "label": "MONEY",
         "text": "USD 1 billion",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Setting up of sugar processing plant: Vedda chief having 'an open mind'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Several leading Vedda chieftains in Bibile recently expressing their thoughts about the controversial land acquisition attempts to set up a sugar processing plant said, they are 'being in an open mind' yet will act accordingly,",
+    "url": "https://www.dailymirror.lk/breaking_news/Setting-up-of-sugar-processing-plant-Vedda-chief-having-an-open-mind/108-233261",
+    "url_hash": "af4dd6ea226b911077e8c7705d805dc7",
+    "ut": 1647497329,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Vedda",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bibile",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Won't remit Dollars to Sri Lanka: Expatriate organization",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankan Expatriates for Change', an organization formed by the Sri Lankan expatriates based in Milan in Italy today said they have decided to refrain from remitting dollars to Sri Lanka as a protest against whom they call corrupt politicians who had ruled the nation in the past and now.",
+    "url": "https://www.dailymirror.lk/breaking_news/Wont-remit-Dollars-to-Sri-Lanka-Expatriate-organization/108-233262",
+    "url_hash": "a42fe86f75772a50715fe80583589d05",
+    "ut": 1647497329,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Expatriates for Change'",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Milan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lankan finance minister to Indian counterpart to discuss $1 billion loan",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka's Finance Minister Basil Rajapaksha is expected to meet his Indian counterpart Nirmala Sitharaman this week to discuss $1 billion loan that the Indian government agreed to provide and will also share the road map on the utilisation of funds.",
+    "url": "https://www.msn.com/en-ae/news/world/sri-lankan-finance-minister-to-indian-counterpart-to-discuss-dollar1-billion-loan/ar-AAVaEcC",
+    "url_hash": "8c61c362ea5414917bf5a3bf4abf3c2d",
+    "ut": 1647497337,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksha",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nirmala Sitharaman",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
         "start_end": [
           20,
           23
@@ -1274,6 +1473,81 @@
   },
   {
     "date": "2022-03-17",
+    "title": "Lowest daily COVID-19 deaths reported after one year",
+    "source": "www.dailymirror.lk",
+    "snippet": "COVID-19 deaths reported yesterday was the lowest after nearly 375 days. Accordingly, only one COVID-19 fatality was confirmed for Tuesday (15) by Director General of Health Services yesterday. This brings total number of deaths to 16,",
+    "url": "https://www.dailymirror.lk/latest_news/Lowest-daily-COVID-19-deaths-reported-after-one-year/342-233263",
+    "url_hash": "4176bb721094ecc137119206f309b3b2",
+    "ut": 1647500929,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "COVID-19 deaths",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nearly 375 days",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "only one",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "15",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "Sri Lankan Min To Meet Indian FM Over $1BN Credit After Bilateral Talks With PM Modi",
     "source": "www.republicworld.com",
     "snippet": "After meeting PM Modi on Wednesday in New Delhi, Sri Lankan FM Basil Rajapaksa will meet his Indian counterpart Nirmala Sitharaman this week.",
@@ -1389,6 +1663,317 @@
         "start_end": [
           1,
           2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "5 Safe and Luxurious Level I Hotels in Sri Lanka",
+    "source": "ceoworld.biz",
+    "snippet": "I was ecstatic to be returning to Sri Lanka when the country reopened its doors to tourists in September 2021, following the pandemic. With the new Covid criteria in effect, it's more crucial than ever to find the right hotel - and in Sri Lanka,",
+    "url": "https://ceoworld.biz/2022/03/17/5-safe-and-luxurious-level-i-hotels-in-sri-lanka/",
+    "url_hash": "65ca8de314621d17a331a6b497d94b8a",
+    "ut": 1647504550,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "September 2021",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Covid",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lankan finance minister Basil Rajapaksa meets PM Narendre Modi amid Sri Lankan economic crisis",
+    "source": "www.thehindu.com",
+    "snippet": "India likely to assist Sri Lanka with a $1 billion emergency support along with loan deferment, credit for fuel imports and RBI currency swap",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-finance-minister-basil-rajapaksa-meets-india-pm-modi/article65230357.ece",
+    "url_hash": "09010ea2a97543c13c688638f74fd4ff",
+    "ut": 1647505617,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RBI",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Poland's Karolina Bielawska wins Miss World 2021",
+    "source": "dailynews.lk",
+    "snippet": "Karolina Bielawska from Poland won the title of international beauty pageant Miss World 2021. Indian-American Shree Saini from the United States bagged the first runner-up title, followed by Olivia Yace from Cote d'Ivoire as the second runner-up.",
+    "url": "https://dailynews.lk/2022/03/17/world/275029/polands-karolina-bielawska-wins-miss-world-2021",
+    "url_hash": "85b39443e67e317bbec1f5ebf7c5ff21",
+    "ut": 1647506753,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Karolina",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bielawska",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Poland",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "World 2021",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian-American",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shree Saini",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Olivia Yace",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Miss World 2021",
+    "source": "dailynews.lk",
+    "snippet": "Karolina Bielawska from Poland won the title of international beauty pageant Miss World 2021. Indian-American Shree Saini from the United States bagged the first runner-up title, followed by",
+    "url": "https://dailynews.lk/tags/miss-world-2021",
+    "url_hash": "ec1d6b65b04b1e6dbc2784f249066a20",
+    "ut": 1647506753,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Karolina",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bielawska",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Poland",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "World 2021",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian-American",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shree Saini",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Jaishankar welcomes Sri Lankan Finance Minister",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "External Affairs Minister S Jaishankar on Wednesday welcomed Finance Minister of Sri Lanka Basil Rajapaksa in New Delhi and held productive discussions on the e",
+    "url": "https://www.bignewsnetwork.com/news/272396143/jaishankar-welcomes-sri-lankan-finance-minister",
+    "url_hash": "a5d37859e7ed689c58170c17b9161333",
+    "ut": 1647507177,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          16,
+          18
         ]
       }
     ]
