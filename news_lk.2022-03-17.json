@@ -267,6 +267,57 @@
   },
   {
     "date": "2022-03-17",
+    "title": "This Tropical Island's Economy Is Being Crushed by War in Ukraine",
+    "source": "www.bloomberg.com",
+    "snippet": "Russia's war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets, is now threatening to crush an $81 billion economy more than 4,000 miles away in the Indian Ocean.",
+    "url": "https://www.bloomberg.com/news/articles/2022-03-17/shock-waves-from-the-war-in-ukraine-threaten-to-swamp-sri-lanka",
+    "url_hash": "df58714b1ab15b7234c1fb54f5e2080a",
+    "ut": 1647482961,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$81 billion",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "more than 4,000 miles",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "This Tropical Island Is Being Crushed by War in Ukraine",
     "source": "www.bnnbloomberg.ca",
     "snippet": "Russia's war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets, is now threatening to crush an $81 billion economy more than 4,000 miles away in the Indian Ocean.",
@@ -498,6 +549,33 @@
   },
   {
     "date": "2022-03-17",
+    "title": "WHO says global rise in COVID cases is 'tip of the iceberg'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Figures showing a global rise in COVID-19 cases could herald a much bigger problem as some countries also report a drop in testing rates, the WHO said on Tuesday, warning nations to remain vigilant against the virus.",
+    "url": "https://www.dailymirror.lk/latest_news/WHO-says-global-rise-in-COVID-cases-is-tip-of-the-iceberg/342-233259",
+    "url_hash": "b4380705d5e54bd518d5b108eac0993c",
+    "ut": 1647490152,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "WHO",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "Battered by dollar crunch, Sri Lanka to negotiate with IMF, others on loan repayment",
     "source": "www.freepressjournal.in",
     "snippet": "Battered by \"worst-ever\" financial crisis since independence, Sri Lanka's President Gotabaya Rajapaksa has talked to the international financial institutions including the International Monetary Fund (IMF) and other countries on loan repayment.",
@@ -527,6 +605,272 @@
         "start_end": [
           26,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lanka economy being crushed by war in Ukraine",
+    "source": "www.straitstimes.com",
+    "snippet": "Fuel shortages and blackouts lasting as long as seven hours have become daily routine. . Read more at straitstimes.com.",
+    "url": "https://www.straitstimes.com/business/economy/sri-lanka-economy-being-crushed-by-war-in-ukraine",
+    "url_hash": "43d651742304843ea5e55ba290647d1c",
+    "ut": 1647493761,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "as long as seven hours",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lanka forced into IMF U-turn after financial crisis sparks protests",
+    "source": "www.ft.com",
+    "snippet": "Sri Lanka has begun talks with the IMF over a debt relief package after protests over a deepening economic crisis forced Gotabaya Rajapaksa's government into a policy U-turn. Th",
+    "url": "https://www.ft.com/content/c898054d-e76b-4c2e-985b-01418cf04109",
+    "url_hash": "efe5e21c741fbfc0ed8cf3b749bc91b7",
+    "ut": 1647493775,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa's",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "No power interruption during President's address today",
+    "source": "www.dailymirror.lk",
+    "snippet": "No power interruptions will be in place in any part of the country during the time when President Gotabaya Rajapaksa makes a special address. The President is scheduled to address the nation tonight at 8.30 pm. According to the demand management power ...",
+    "url": "https://www.dailymirror.lk/live_video/No-power-interruption-during-Presidents-address-today/450-233175",
+    "url_hash": "35377e05bad1075e54fc2f7d519398e2",
+    "ut": 1647494712,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "tonight",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "8.30 pm",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lankan economic crisis deal a blow to Thoothukudi port",
+    "source": "www.newindianexpress.com",
+    "snippet": "THOOTHUKUDI: The economic crisis underway in Sri Lanka has severely hit the container shipment at VO Chidambaranar Port in Thoothukudi. Industrial bodies, shipping agents, and customs brokers said due to the sudden inflation in the island-nation,",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2022/mar/17/sri-lankan-economic-crisis-deal-a-blow-to-thoothukudi-port-2431121.html",
+    "url_hash": "66ca9011983f31bb752f6d2b031e7cf1",
+    "ut": 1647495921,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Thoothukudi",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Jaishankar welcomes Sri Lankan Finance Minister, holds productive talks on economic partnership",
+    "source": "news.webindia123.com",
+    "snippet": "External Affairs Minister S Jaishankar on Wednesday welcomed Finance Minister of Sri Lanka Basil Rajapaksa in New Delhi and held productive discussions on the economic partnership between India and Sri Lanka.",
+    "url": "https://news.webindia123.com/news/Articles/World/20220316/3920270.html",
+    "url_hash": "6540fd497803e1e4844304ec70e5433a",
+    "ut": 1647496341,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lankan finance minister to meet Nirmala Sitharaman this week",
+    "source": "theprint.in",
+    "snippet": "Sri Lanka's Finance Minister Basil Rajapaksha is expected to meet his Indian counterpart Nirmala Sitharaman this week to discuss USD 1 billion loan that the Indian government agreed to provide and will also share the road map on the utilisation of funds.",
+    "url": "https://theprint.in/world/sri-lankan-finance-minister-to-meet-nirmala-sitharaman-this-week/877232/",
+    "url_hash": "02532b4559ac8199a45368bba8718cb7",
+    "ut": 1647496821,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksha",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nirmala Sitharaman",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 1 billion",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
