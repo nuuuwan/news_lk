@@ -5940,6 +5940,41 @@
   },
   {
     "date": "2022-03-16",
+    "title": "India, Lanka to finalise $1 billion line of credit",
+    "source": "www.msn.com",
+    "snippet": "Rajapaksa is visiting India at a time when the Sri Lankan government has been rocked by protests in Colombo amid demands for the president's resignation for his handling of the economic crisis.",
+    "url": "https://www.msn.com/en-in/news/other/india-lanka-to-finalise-1-billion-line-of-credit/ar-AAV9iys",
+    "url_hash": "28ed0bb23db548db5d2aa5312084505a",
+    "ut": 1647454154,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
     "title": "India is largest target market for the port city project: Lankan official",
     "source": "www.msn.com",
     "snippet": "He highlighted the separate laws being enacted for the port city and bespoke business solutions as its main attractions for Indian investors.",
@@ -6090,6 +6125,33 @@
         "start_end": [
           18,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Angry crowd tries to storm Sri Lanka president's office",
+    "source": "www.gg2.net",
+    "snippet": "A huge crowd tried to storm the Sri Lankan president's seaside office Tuesday as anger flared over runaway prices brought about by the worst financial crisis in the island's modern history. The cost of food,",
+    "url": "https://www.gg2.net/angry-crowd-tries-to-storm-sri-lanka-presidents-office/",
+    "url_hash": "1c74f67ca12f70c0c29fd8eee7b65eec",
+    "ut": 1647457754,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          13,
+          14
         ]
       }
     ]
