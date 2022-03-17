@@ -638,6 +638,33 @@
   },
   {
     "date": "2022-03-17",
+    "title": "Fort St. John international students concerned over express entry",
+    "source": "www.niagarafallsreview.ca",
+    "snippet": "International students studying at Northern Lights College in Fort St. John say they want to see a provincial nominee program for students seeking to study and become permanent residents post-graduation.",
+    "url": "https://www.niagarafallsreview.ca/ts/news/canada/2022/03/16/fort-st-john-international-students-concerned-over-express-entry.html",
+    "url_hash": "f5f86565b978742e7d97a7c913b64e09",
+    "ut": 1647486542,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Northern Lights College",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Fort St. John",
+        "start_end": [
+          8,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "This Tropical Island Is Being Crushed by War in Ukraine",
     "source": "www.bloombergquint.com",
     "snippet": "Russia's war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets, is now threatening to crush an $81 billion economy more than 4,000 miles away in the Indian Ocean.",
@@ -1081,6 +1108,33 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Setting up of sugar processing plant: Vedda chief having 'an open mind'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Several leading Vedda chieftains in Bibile recently expressing their thoughts about the controversial land acquisition attempts to set up a sugar processing plant said, they are 'being in an open mind' yet will act accordingly,",
+    "url": "https://www.dailymirror.lk/latest_news/Setting-up-of-sugar-processing-plant-Vedda-chief-having-an-open-mind/342-233261",
+    "url_hash": "45173f2c2078a892086c3b070f80189c",
+    "ut": 1647497321,
+    "ent_info_list": [
+      {
+        "label": "PRODUCT",
+        "text": "Vedda",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bibile",
+        "start_end": [
+          5,
+          6
         ]
       }
     ]
@@ -4921,6 +4975,57 @@
   },
   {
     "date": "2022-03-17",
+    "title": "India gets bigger for SL with a fresh $ 1 b loan",
+    "source": "www.ft.lk",
+    "snippet": "India's support for Sri Lanka expanded by a further $ 1 billion yesterday when the two countries signed a fresh loan whilst agreeing to a new master framework to further enhance bilateral cooperation.",
+    "url": "https://www.ft.lk/top-story/India-gets-bigger-for-SL-with-a-fresh-1-b-loan/26-732133",
+    "url_hash": "095354f38dd046bd261eef07a01c8c64",
+    "ut": 1647540542,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 1 billion",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "NYC Stymieing Overhaul of Rikers Island, Monitor Tells Court",
     "source": "www.msn.com",
     "snippet": "The federal monitor overseeing reforms at Rikers Island, New York City's largest jail complex, asked a court to enforce greater compliance with efforts to overhaul the problem-plagued facility, saying they have been stymied by a lack of cooperation from Mayor Eric Adams's administration.",
@@ -5441,6 +5546,25 @@
         "start_end": [
           22,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Looming food shortages is the next 'slow-moving disaster' to hit world",
+    "source": "nypost.com",
+    "snippet": "Food prices are already skyrocketing. Some \u2014\u00a0a lot \u2014 of this comes from inflation caused by runaway government spending over the past two years.",
+    "url": "https://nypost.com/2022/03/17/looming-food-shortages-is-worlds-next-slow-moving-disaster/",
+    "url_hash": "3724fcabc8a5a789c96579ec272dba7a",
+    "ut": 1647556558,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the past two years",
+        "start_end": [
+          23,
+          27
         ]
       }
     ]
