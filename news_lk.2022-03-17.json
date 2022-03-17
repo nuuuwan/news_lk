@@ -404,6 +404,33 @@
   },
   {
     "date": "2022-03-17",
+    "title": "Fort St. John international students fight high tuition fees",
+    "source": "www.stcatharinesstandard.ca",
+    "snippet": "International students studying at Northern Lights College in Fort St. John say they want to see cuts to high tuition fees imposed by post-secondary",
+    "url": "https://www.stcatharinesstandard.ca/ts/news/canada/2022/03/16/fort-st-john-international-students-fight-high-tuition-fees.html",
+    "url_hash": "a01bf6f201f6a90e6c41b2d08bce5202",
+    "ut": 1647482954,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Northern Lights College",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Fort St. John",
+        "start_end": [
+          8,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "This Tropical Island's Economy Is Being Crushed by War in Ukraine",
     "source": "www.bloomberg.com",
     "snippet": "Russia's war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets, is now threatening to crush an $81 billion economy more than 4,000 miles away in the Indian Ocean.",
@@ -5296,6 +5323,124 @@
         "start_end": [
           31,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Instant Grocery Delivery App Buyk Files for Bankruptcy After Russian Sanctions",
+    "source": "ca.news.yahoo.com",
+    "snippet": "Rapid grocery-delivery app Buyk Corp. filed for bankruptcy and will permanently shut down after fallout from Russia's invasion of Ukraine restricted the startup's access to funding. Most Read from BloombergPutin Vows to Rid Russia of 'Traitors' While Waging Ukraine WarRichest Russian Built NYC Power Over Decades and Lost It in WeeksShock Waves From War in Ukraine Threaten to Swamp Sri LankaU.",
+    "url": "https://ca.news.yahoo.com/instant-grocery-delivery-app-buyk-193730209.html",
+    "url_hash": "5158e075b754b3d2de3291578ec6ffdf",
+    "ut": 1647551354,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Buyk Corp.",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rid Russia",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Waging Ukraine WarRichest",
+        "start_end": [
+          44,
+          47
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Swamp Sri",
+        "start_end": [
+          65,
+          67
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "FirstFT: Japanese factories closed after earthquake",
+    "source": "www.ft.com",
+    "snippet": "Two killed in powerful tremor off the north east coast, Moscow attacks civilian targets in Ukraine, Sri Lanka forced into IMF U-turn",
+    "url": "https://www.ft.com/content/b2e3af28-5021-4747-a1f0-923b9b04cb1f",
+    "url_hash": "09194edd6c3a16ccc8d555bbb1fd495f",
+    "ut": 1647553394,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the north east coast",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "IMF U",
+        "start_end": [
+          22,
+          24
         ]
       }
     ]
