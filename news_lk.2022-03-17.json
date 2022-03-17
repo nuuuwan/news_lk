@@ -264,5 +264,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "This Tropical Island Is Being Crushed by War in Ukraine",
+    "source": "www.bnnbloomberg.ca",
+    "snippet": "Russia's war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets, is now threatening to crush an $81 billion economy more than 4,000 miles away in the Indian Ocean.",
+    "url": "https://www.bnnbloomberg.ca/this-tropical-island-is-being-crushed-by-war-in-ukraine-1.1738858",
+    "url_hash": "07cc44b6d908bb945e96af039f180e62",
+    "ut": 1647486162,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$81 billion",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "more than 4,000 miles",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          34,
+          37
+        ]
+      }
+    ]
   }
 ]
