@@ -4754,5 +4754,142 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lankan finance minister to meet Nirmala Sitharaman this week",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lanka's Finance Minister Basil Rajapaksha is expected to meet his Indian counterpart Nirmala Sitharaman this week to discuss USD 1 billion loan that the Indian government agreed to provide and will also share the road map on the utilisation of funds.",
+    "url": "https://news.webindia123.com/news/Articles/World/20220317/3920485.html",
+    "url_hash": "7bafc01ebe714e12a798a8ead84bf20f",
+    "ut": 1647541317,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksha",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nirmala Sitharaman",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 1 billion",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "India extends $1 billion line of credit to Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "Visiting Sri Lankan finance minister Basil Rajapaksa, his Indian counterpart Nirmala Sitharaman and external affairs minister S Jaishankar witnessed the signing of the agreement for the concessional l",
+    "url": "https://www.msn.com/en-in/news/other/india-extends-241-billion-line-of-credit-to-sri-lanka/ar-AAVcJNd",
+    "url_hash": "b0a3455404a5c39651eef4159359c469",
+    "ut": 1647541797,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nirmala Sitharaman",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Frustration spills over: No saviours in sight",
+    "source": "www.dailymirror.lk",
+    "snippet": "The address to the nation by President Gotabaya Rajapaksa on Wednesday might have aimed at instilling confidence in him and his government in the minds of the public who have been and still.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Frustration-spills-over-No-saviours-in-sight/172-233273",
+    "url_hash": "47d2bf380ef925e3848a5732cbde156e",
+    "ut": 1647541848,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          10,
+          11
+        ]
+      }
+    ]
   }
 ]
