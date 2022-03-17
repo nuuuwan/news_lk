@@ -318,6 +318,92 @@
   },
   {
     "date": "2022-03-17",
+    "title": "SJB to prepare a blue print for economic development",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Samaji Jana Balawegaya (SJB) yesterday said it has embarked on preparing a blue print to revive the Sri Lankan economy and is prepared to talk to international organizations as well for the purpose.",
+    "url": "https://www.dailymirror.lk/latest_news/SJB-to-prepare-a-blue-print-for-economic-development/342-233258",
+    "url_hash": "7ed356acdfbf0434fb9b261fff593bb0",
+    "ut": 1647486531,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jana Balawegaya",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SJB",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lanka heads to IMF to end economic crisis, president says",
+    "source": "www.cnbc.com",
+    "snippet": "Sri Lanka's foreign exchange reserves have fallen 70% in the past two years to about $2.31 billion, leaving it struggling to pay for essential imports.",
+    "url": "https://www.cnbc.com/2022/03/17/sri-lanka-heads-to-imf-to-end-economic-crisis-president-says.html",
+    "url_hash": "770003935243b5ee1e2de2ad65df8372",
+    "ut": 1647486539,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "70%",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past two years",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "about $2.31 billion",
+        "start_end": [
+          16,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "This Tropical Island Is Being Crushed by War in Ukraine",
     "source": "www.bloombergquint.com",
     "snippet": "Russia's war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets, is now threatening to crush an $81 billion economy more than 4,000 miles away in the Indian Ocean.",
@@ -406,6 +492,41 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Battered by dollar crunch, Sri Lanka to negotiate with IMF, others on loan repayment",
+    "source": "www.freepressjournal.in",
+    "snippet": "Battered by \"worst-ever\" financial crisis since independence, Sri Lanka's President Gotabaya Rajapaksa has talked to the international financial institutions including the International Monetary Fund (IMF) and other countries on loan repayment.",
+    "url": "https://www.freepressjournal.in/business/battered-by-dollar-crunch-sri-lanka-to-negotiate-with-imf-others-on-loan-repayment",
+    "url_hash": "886165181c2646adfb427895158130a0",
+    "ut": 1647490439,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          26,
+          30
         ]
       }
     ]

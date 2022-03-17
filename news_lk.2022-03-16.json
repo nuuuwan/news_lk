@@ -3906,6 +3906,65 @@
     "title": "Power interruptions scheduled for Thursday",
     "source": "www.adaderana.lk",
     "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) has approved the Ceylon Electricity Board's request for power interruptions for tomorrow (March 17)",
+    "url": "http://www.adaderana.lk/news/81245/power-interruptions-scheduled-for-thursday",
+    "url_hash": "1ff481316ff4994c8e4d5c15b7ba05dc",
+    "ut": 1647436144,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ceylon Electricity Board's",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 17",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Power interruptions scheduled for Thursday",
+    "source": "www.adaderana.lk",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) has approved the Ceylon Electricity Board's request for power interruptions for tomorrow (March 17)",
     "url": "http://www.adaderana.lk/news.php?nid=81245",
     "url_hash": "09e55348d82364c25f6ba9b570eefb3d",
     "ut": 1647436156,
@@ -6606,6 +6665,68 @@
         "start_end": [
           27,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Browns introduces 'Exide Matrix' latest revolutionary battery range",
+    "source": "www.dailymirror.lk",
+    "snippet": "Exide recently unveiled its latest revolutionary battery range 'Exide Matrix', exclusively designed for cars and SUVs. Exide Matrix boasts technological superiority and represents a paradigm shift in the Sri Lankan automotive battery industry.",
+    "url": "https://www.dailymirror.lk/other/Browns-introduces-%E2%80%98Exide-Matrix%E2%80%99-latest-revolutionary-battery-range/117-233236",
+    "url_hash": "c93bf2524e83129479d3ad510105dc66",
+    "ut": 1647468531,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Local producer prices surge 17.3% in Jan., highest in recent times",
+    "source": "www.dailymirror.lk",
+    "snippet": "The producer prices surged 17.3 percent in January 2022 over the same month in 2021, touching the highest level in recent history, reflecting that the rising commodities prices are running through the production supply chains more acutely.",
+    "url": "https://www.dailymirror.lk/business-news/Local-producer-prices-surge-17-3-in-Jan-highest-in-recent-times/273-233247",
+    "url_hash": "3e4142eded4d66612b048ff098165d3d",
+    "ut": 1647468531,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "17.3 percent",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January 2022",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the same month",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          14,
+          15
         ]
       }
     ]
