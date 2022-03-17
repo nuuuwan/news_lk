@@ -4757,6 +4757,57 @@
   },
   {
     "date": "2022-03-17",
+    "title": "\"Sri Lanka must be prepared to face new Covid variants\" - Dr. Hamdani",
+    "source": "www.dailymirror.lk",
+    "snippet": "As some cities in China, the country where Corona virus was first discovered, have gone into fresh lockdowns due to a spike in COVID-19 cases, Sri Lanka's Health Ministry has also urged Sri",
+    "url": "https://www.dailymirror.lk/hard-talk/Sri-Lanka-must-be-prepared-to-face-new-Covid-variants-Dr-Hamdani/334-233274",
+    "url_hash": "df5cbd1637d50b0dadd5ff9869c15cc3",
+    "ut": 1647540521,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Corona",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka's",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Ministry",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "The Supreme role of the Central bank Governor",
     "source": "www.dailymirror.lk",
     "snippet": "One of the principal reasons for our failure as a nation to progress is the absence of strong institutions. If we had a National Panning Commission, Elections Commission with educational.... ..",
@@ -5009,6 +5060,73 @@
         "start_end": [
           10,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Instant Grocery Delivery App Buyk Files for Bankruptcy After Russian Sanctions",
+    "source": "ca.finance.yahoo.com",
+    "snippet": "Rapid grocery delivery app Buyk Corp. filed for bankruptcy on Thursday after fallout from Russia's invasion of Ukraine restricted the startup's access to funding. Most Read from BloombergPutin Vows to Rid Russia of 'Traitors' While Waging Ukraine WarRichest Russian Built NYC Power Over Decades and Lost It in WeeksShock Waves From War in Ukraine Threaten to Swamp Sri LankaU.",
+    "url": "https://ca.finance.yahoo.com/news/instant-grocery-delivery-app-buyk-193730209.html",
+    "url_hash": "78ae7b26b298a0e5d1fc1b9367566c14",
+    "ut": 1647544144,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Buyk Corp.",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rid Russia",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Waging Ukraine WarRichest",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Swamp Sri",
+        "start_end": [
+          61,
+          63
         ]
       }
     ]
