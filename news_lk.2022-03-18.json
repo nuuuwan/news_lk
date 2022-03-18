@@ -278,6 +278,51 @@
     "title": "Diesel, Jet fuel consignments stuck at Port",
     "source": "www.dailymirror.lk",
     "snippet": "The government has been unable to clear two consignments of fuel consisting of diesel and jet fuel which is presently docked at the Colombo Port totalling to 42 million US dollars and due to the delay in clearance,",
+    "url": "https://www.dailymirror.lk/breaking_news/Diesel-Jet-fuel-consignments-stuck-at-Port/108-233277",
+    "url_hash": "75ce238b42f265ff17fd40e01d5ba10d",
+    "ut": 1647565789,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Colombo Port",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "42 million US dollars",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "How much is a Sri Lankan Elephant worth",
+    "source": "www.linkedin.com",
+    "snippet": "From time immemorial elephants have evoked strong emotions from people the world over. Their size and sheer majesty attracts young and old alike to them.",
+    "url": "https://www.linkedin.com/pulse/how-much-sri-lankan-elephant-worth-srilal-miththapala",
+    "url_hash": "fd2d05e38effd160847cb91b9259ed28",
+    "ut": 1647565798,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Diesel, Jet fuel consignments stuck at Port",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government has been unable to clear two consignments of fuel consisting of diesel and jet fuel which is presently docked at the Colombo Port totalling to 42 million US dollars and due to the delay in clearance,",
     "url": "https://www.dailymirror.lk/latest_news/Diesel-Jet-fuel-consignments-stuck-at-Port/342-233277",
     "url_hash": "bc49e672c99e1eaf18287702d593117b",
     "ut": 1647567039,
@@ -2396,6 +2441,41 @@
   },
   {
     "date": "2022-03-18",
+    "title": "SYU protesters break into Presidential Secretariat",
+    "source": "www.dailymirror.lk",
+    "snippet": "A group of protesters of the Socialist Youth Union (SYU) attached to the Janatha Vimukthi Peramuna (JVP) have forcibly entered the Presidential Secretariat a short while ago. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SYU-protesters-break-into-Presidential-Secretariat/108-233339",
+    "url_hash": "8e8d3460c06f20fc5a4a70d3192ffe9d",
+    "ut": 1647587389,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Socialist Youth Union",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Janatha Vimukthi Peramuna",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Presidential Secretariat",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Sri Lanka secures Indian lifeline as IMF signals help",
     "source": "news.yahoo.com",
     "snippet": "Cash-strapped Sri Lanka has secured a billion-dollar credit line from India to buy urgently needed food and medicine, officials said Friday, as the IMF confirmed it would discuss a possible bailout.",
@@ -2777,6 +2857,240 @@
         "start_end": [
           13,
           14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Even if President leaves tomorrow, we can't go for presidential poll: Amaraweera",
+    "source": "www.dailymirror.lk",
+    "snippet": "Even if the President leaves tomorrow, we cannot go for a presidential election. All that could be done is for the Parliament to appoint a President, Environment Minister Mahinda Amaraweera said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Even-if-President-leaves-tomorrow-we-cant-go-for-presidential-poll-Amaraweera/108-233343",
+    "url_hash": "4cdc407dace424fdffe861dff9fcdcd0",
+    "ut": 1647598189,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "SYU protest...",
+    "source": "www.dailymirror.lk",
+    "snippet": "Protesters belong to the Socialist Youth Union (SYU) staged protest march in Colombo today where they forcibly entered the Presidential Secretariat. Pix by Nimasiri Edirisinghe ..",
+    "url": "https://www.dailymirror.lk/latest_news/SYU-protest/342-233347",
+    "url_hash": "00c9cabc0a372773f61deeeb01d17db0",
+    "ut": 1647598189,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Socialist Youth Union",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Presidential Secretariat",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Nimasiri Edirisinghe",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Minister Basil returns to island after India visit",
+    "source": "www.adaderana.lk",
+    "snippet": "Finance Minister Basil Rajapaksa has returned to the island today (March 18) following his official visit to India",
+    "url": "http://www.adaderana.lk/news.php?nid=81278",
+    "url_hash": "3cf4fb8b65a9eed1b679696c85aa9925",
+    "ut": 1647598198,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 18",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Marxist youth in Sri Lanka protest outside president's office, attempt break-in",
+    "source": "economynext.com",
+    "snippet": "Marxist youth affiliated with the opposition Janatha Vimukthi Peramuna (JVP) protested the government's handling of Sri Lanka's worsening economic crisis on Friday (18) outside the president's office,",
+    "url": "https://economynext.com/marxist-youth-in-sri-lanka-protest-outside-presidents-office-attempt-break-in-91815/",
+    "url_hash": "548f0520f4d6a3ec85ffc07a083aa0b0",
+    "ut": 1647598216,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Marxist",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Janatha Vimukthi Peramuna",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Sri Lanka secures $1bn credit line from India as IMF signals help",
+    "source": "www.msn.com",
+    "snippet": "Island nation gets lifeline from India to buy food and medicine as the IMF confirms it will discuss a possible bailout.",
+    "url": "https://www.msn.com/en-us/news/world/sri-lanka-secures-241bn-credit-line-from-india-as-imf-signals-help/ar-AAVeiZX",
+    "url_hash": "d860e627114f291ec1a0142ed3d5b3a2",
+    "ut": 1647598258,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "The rise of the 'grey gap year': The best midlife adventures for 60-somethings",
+    "source": "www.telegraph.co.uk",
+    "snippet": "Here are five thrilling itineraries to turn your plans into a reality, from a grown-up Interrail trip across Europe to a tour of India",
+    "url": "https://www.telegraph.co.uk/travel/activity-and-adventure/best-midlife-holiday-adventures-60s-where-travel-world-2022/",
+    "url_hash": "6a6d35c4835397325ec96e595b9aea30",
+    "ut": 1647600972,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Interrail",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Europe",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]

@@ -4634,6 +4634,49 @@
   },
   {
     "date": "2022-03-17",
+    "title": "Why Indian fishermen are often caught fishing in Sri Lanka's troubled waters",
+    "source": "www.msn.com",
+    "snippet": "Many Indian fishermen are often captured by Sri Lanka for crossing maritime boundary between two nations and particularly crossing into Kachchatheevu island; it is becoming a flashpoint in bilateral relations,",
+    "url": "https://www.msn.com/en-in/news/newsindia/why-indian-fishermen-are-often-caught-fishing-in-sri-lankas-troubled-waters/ar-AAVcy8b",
+    "url_hash": "e4013ffbd3fc9ce28d5bbd8044b92b5b",
+    "ut": 1647533398,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Kachchatheevu",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "India extends $1 bn line of credit to Sri Lanka to help to combat economic crisis",
     "source": "www.freepressjournal.in",
     "snippet": "India announced a $1 billion line of credit to Sri Lanka on Thursday as part of its financial assistance to help the island nation deal with its economic crisis. After an agreement to extend the line of credit was inked,",
@@ -6022,6 +6065,97 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lanka to target Indian investors",
+    "source": "www.dailyexcelsior.com",
+    "snippet": "Dispelling all concerns, the Colombo Port City officials are wooing Indian investors in the Sri Lanka project in contest with Dubai, Singapore and Malaysia. The Port City will hold road shows in India in the next two to three months to showcase the benefit of the project to Indian investors,",
+    "url": "https://www.dailyexcelsior.com/sri-lanka-to-target-indian-investors-2/",
+    "url_hash": "c9863b4d3057fe4d3552f114e39cf82e",
+    "ut": 1647544198,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Port City",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dubai",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Malaysia",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Port City",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next two to three months",
+        "start_end": [
+          37,
+          43
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          51,
+          52
         ]
       }
     ]
