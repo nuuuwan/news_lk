@@ -124,5 +124,153 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Sri Lanka signs USD 1 billion credit line with India",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lanka on Thursday signed USD 1 billion credit line with India for procurement of food, medicines and other essential items, amid the island nation's worsening economic crisis. The agreement was signed between the State Bank of India (SBI) and the Government of Sri Lanka,",
+    "url": "https://news.webindia123.com/news/Articles/World/20220317/3920595.html",
+    "url_hash": "07d4aa9d51cb717d0fd6141700f1989d",
+    "ut": 1647563775,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 1 billion",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the State Bank of India",
+        "start_end": [
+          37,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government of Sri Lanka",
+        "start_end": [
+          46,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "India largest target market for Port City project: Sri Lankan official",
+    "source": "island.lk",
+    "snippet": "The Colombo Port City Economic Commission wants the \"Port City to be an international city\" and looking at more detailed, bespoke and customised solutions to \"create value propositions for key anchor investors\",",
+    "url": "https://island.lk/india-largest-target-market-for-port-city-project-sri-lankan-official/",
+    "url_hash": "0bcedc42ffd064f0241c7e0d871eeff6",
+    "ut": 1647563775,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Colombo Port City Economic Commission",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Port City",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "IMF to begin talks with Sri Lanka on program",
+    "source": "economynext.com",
+    "snippet": "The International Monetary Fund will begin discussions with Sri Lanka on program to support the country, spokesman Gerry Rice said as the island is facing steep currency depreciation and inflation after unusual bout of money printing to keep interest rates low.",
+    "url": "https://economynext.com/imf-to-begin-talks-with-sri-lanka-on-program-91777/",
+    "url_hash": "3e7b091ec86850fa5755c0f0f5ec46e3",
+    "ut": 1647563852,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Monetary Fund",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gerry Rice",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "NDBIB and CT CLSA form strategic partnership",
+    "source": "www.ft.lk",
+    "snippet": "CT CLSA is a leading investment bank in Sri Lanka offering equity capital market, debt capital market, mergers and acquisition and corporate advisory services and has participated in some of the landmark transactions to take place on the Colombo Stock ...",
+    "url": "https://www.ft.lk/financial-services/NDBIB-and-CT-CLSA-form-strategic-partnership/42-732164",
+    "url_hash": "20f9fe7805bd8eb2c4ac39f53a86ba08",
+    "ut": 1647567160,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
   }
 ]
