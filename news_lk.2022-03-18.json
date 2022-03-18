@@ -6279,5 +6279,40 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Katharine Lang",
+    "source": "dailynews.lk",
+    "snippet": "Before March 2020, many people saw pandemics as a thing of the past. Then came COVID-19. Scientists still do not know exactly where the virus that caused it \u2014 SARS-CoV-2 \u2014 came from, but it soon... Litro Gas commenced distributing LP Gas stocks to all parts of the country...",
+    "url": "https://dailynews.lk/line/katharine-lang",
+    "url_hash": "3bd9bed5bbab139cf235f717277a0453",
+    "ut": 1647644711,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "March 2020",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Litro Gas",
+        "start_end": [
+          43,
+          45
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "LP Gas",
+        "start_end": [
+          47,
+          49
+        ]
+      }
+    ]
   }
 ]
