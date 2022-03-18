@@ -1715,6 +1715,65 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Sri Lanka Secures $1 Billion Credit Facility From India",
+    "source": "au.finance.yahoo.com",
+    "snippet": "Shock Waves From War in Ukraine Threaten to Swamp Sri Lanka (1) The country has about $2 billion of foreign-currency reserves against total debt repayment of as much as $7 billion for 2022, including $1 billion of notes maturing in July. The island nation ...",
+    "url": "https://au.finance.yahoo.com/news/sri-lanka-secures-1-billion-114755729.html",
+    "url_hash": "a9df44fd63859ab1979de37a65538016",
+    "ut": 1647580151,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "1",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "about $2 billion",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "as much as $7 billion",
+        "start_end": [
+          31,
+          37
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          41,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "How four powerful brothers broke Sri Lanka",
     "source": "www.moneycontrol.com",
     "snippet": "The Rajapaksa clan may have defeated the Tamil rebellion, but they've lost control of Sri Lanka's economy after two years of worsening crisis",
@@ -2064,6 +2123,108 @@
   },
   {
     "date": "2022-03-18",
+    "title": "SYU protesters break into Presidential Secretariat",
+    "source": "www.dailymirror.lk",
+    "snippet": "A group of protesters of the Socialist Youth Union (SYU) attached to the Janatha Vimukthi Peramuna (JVP) have forcibly entered the Presidential Secretariat a short while ago. ..",
+    "url": "https://www.dailymirror.lk/latest_news/SYU-protesters-break-into-Presidential-Secretariat/342-233339",
+    "url_hash": "cee60be4c498d5ca20e05bb1557c9a5a",
+    "ut": 1647587342,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Socialist Youth Union",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Janatha Vimukthi Peramuna",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Presidential Secretariat",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Sri Lanka Secures Indian Lifeline As IMF Signals Help",
+    "source": "www.ibtimes.com",
+    "snippet": "Cash-strapped Sri Lanka has secured a billion-dollar credit line from India to buy urgently needed food and medicine, officials said Friday, as the IMF confirmed it would discuss a possible bailout. The South Asian nation is suffering its worst economic crisis since independence in 1948,",
+    "url": "https://www.ibtimes.com/sri-lanka-secures-indian-lifeline-imf-signals-help-3442212",
+    "url_hash": "929dc4a942bee9ecaba33bccab2aa4b7",
+    "ut": 1647587351,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "billion-dollar",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1948",
+        "start_end": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Power cuts continue in Sri Lanka with four-hour outages scheduled for March 18",
     "source": "economynext.com",
     "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) has given permission for four-hour power cuts in multiple areas in the country on Friday (18) while a 3.5-hour power cuts will be imposed in the rest of the island.",
@@ -2321,6 +2482,57 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "This newspaper cutting was doctored to include a false article about a Sri Lankan opposition leader",
+    "source": "www.msn.com",
+    "snippet": "An image appearing to show a Sinhala-language newspaper article about a Sri Lankan opposition leader pledging to fix the island nation's dwindling economy \"within 100 days\" of coming to power has been shared hundreds of times on Facebook.",
+    "url": "https://www.msn.com/en-us/news/technology/this-newspaper-cutting-was-doctored-to-include-a-false-article-about-a-sri-lankan-opposition-leader/ar-AAVdP99",
+    "url_hash": "e496025125c730aa1fbc379be8d18369",
+    "ut": 1647590978,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sinhala",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "100 days",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Facebook",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
