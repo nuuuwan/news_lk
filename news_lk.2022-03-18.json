@@ -1178,6 +1178,57 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Verit\u00e9 Research to host South Asian Regional Workshop on Air Quality",
+    "source": "www.dailymirror.lk",
+    "snippet": "In 2016, approximately seven million premature deaths globally were attributable to air pollution. Of these deaths, 91 percent occurred in lowand middle-income countries. According to the 2020 World Air Quality Report,",
+    "url": "https://www.dailymirror.lk/business-news/Verit%C3%A9-Research-to-host-South-Asian-Regional-Workshop-on-Air-Quality/273-233294",
+    "url_hash": "d240d3b1d289f01533cb42175903c68f",
+    "ut": 1647576550,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2016",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "approximately seven million",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "91 percent",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World Air Quality Report",
+        "start_end": [
+          33,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Samsung Launches Galaxy S22 Series in Sri Lanka: the Epic Standard of Smartphones with Premium Experience",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Samsung, Sri Lanka's most trusted smartphone brand, unveiled its most premium flagships - Galaxy S22 Series - in Sri Lanka at an exclusive media event. Galaxy S22 Ultra 5G combines the unrivalled power of the Note series and the iconic S-Pen with the pro-grade camera and performance of the S series to set the",
@@ -1758,6 +1809,57 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Motorcycle parade cancelled due to public protest",
+    "source": "www.dailymirror.lk",
+    "snippet": "A three-day motorcycle parade organised by a private motorcycle club called ''Spin Rider Club'' from Mirigama to Anuradhapura via Kalpitiya has been cancelled by the police due to public protest. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Motorcycle-parade-cancelled-due-to-public-protest/108-233338",
+    "url_hash": "a5a7d6bf19a14c7ee540732ad4473557",
+    "ut": 1647583750,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "three-day",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Spin Rider Club''",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mirigama",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anuradhapura",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kalpitiya",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Woman arrested with forged US visa",
     "source": "www.dailymirror.lk",
     "snippet": "A 64-year-old woman was arrested yesterday for attempting to flee to America with a forged US visa, the police said. They said the woman from Battaramulla was arrested by the officers attached to the police Crime Investigations department for possessing a ...",
@@ -1956,6 +2058,269 @@
         "start_end": [
           30,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Power cuts continue in Sri Lanka with four-hour outages scheduled for March 18",
+    "source": "economynext.com",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) has given permission for four-hour power cuts in multiple areas in the country on Friday (18) while a 3.5-hour power cuts will be imposed in the rest of the island.",
+    "url": "https://economynext.com/power-cuts-continue-in-sri-lanka-with-four-hour-outages-scheduled-for-march-18-91802/",
+    "url_hash": "ac17e036ed751712331ad0d0fee52205",
+    "ut": 1647587376,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "four-hour",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "3.5-hour",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Sri Lanka secures Indian lifeline as IMF signals help",
+    "source": "news.yahoo.com",
+    "snippet": "Cash-strapped Sri Lanka has secured a billion-dollar credit line from India to buy urgently needed food and medicine, officials said Friday, as the IMF confirmed it would discuss a possible bailout.",
+    "url": "https://news.yahoo.com/sri-lanka-secures-indian-lifeline-071228259.html",
+    "url_hash": "ed7c78e54bcb7d66d90971e30f6c2322",
+    "ut": 1647587539,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "billion-dollar",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Sri Lanka secures Indian lifeline as IMF signals help",
+    "source": "www.msn.com",
+    "snippet": "Cash-strapped Sri Lanka has secured a billion-dollar credit line from India to buy urgently needed food and medicine, officials said Friday, as the IMF confirmed it would discuss a possible bailout. The South Asian nation is suffering its worst economic crisis since independence in 1948,",
+    "url": "https://www.msn.com/en-ca/news/world/sri-lanka-secures-indian-lifeline-as-imf-signals-help/ar-AAVdJBl",
+    "url_hash": "b5a7f568e55a3af6b1b21beacb0b34f2",
+    "ut": 1647587564,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "billion-dollar",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1948",
+        "start_end": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Shock Waves From War in Ukraine Threaten to Swamp Sri Lanka",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Soaring oil, dipping foreign reserves jolt $81 billion economy Facing default, island-nation in talks with IMF for bailout Bloomberg - Russia's war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets,",
+    "url": "http://bizenglish.adaderana.lk/shock-waves-from-war-in-ukraine-threaten-to-swamp-sri-lanka/",
+    "url_hash": "94ce7f3309a0cbc65af746714be06489",
+    "ut": 1647587599,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "$81 billion",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bloomberg - Russia's",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Sri Lanka: Two consignments stuck at Colombo Port, foreign companies claim demurrage fee",
+    "source": "theprint.in",
+    "snippet": "The Sri Lankan government failed to clear USD 42 million worth two consignments of jet fuel and diesel which is presently docked at the Colombo port and due to the delay in clearance, the foreign company is now claiming a fee for demurrage,",
+    "url": "https://theprint.in/world/sri-lanka-two-consignments-stuck-at-colombo-port-foreign-companies-claim-demurrage-fee/878660/",
+    "url_hash": "28d2e1ce1e8ce86e9f89af16e66136bf",
+    "ut": 1647590419,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "USD 42 million",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
