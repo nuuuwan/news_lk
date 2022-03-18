@@ -5026,6 +5026,57 @@
   },
   {
     "date": "2022-03-17",
+    "title": "\"Sri Lanka must be prepared to face new Covid variants\" - Dr. Hamdani",
+    "source": "www.dailymirror.lk",
+    "snippet": "As some cities in China, the country where Corona virus was first discovered, have gone into fresh lockdowns due to a spike in COVID-19 cases, Sri Lanka's Health Ministry has also urged Sri",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-must-be-prepared-to-face-new-Covid-variants-Dr-Hamdani/231-233274",
+    "url_hash": "1694aa210119dcdce4c0dabf237f6bf3",
+    "ut": 1647540548,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Corona",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka's",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Health Ministry",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "NYC Stymieing Overhaul of Rikers Island, Monitor Tells Court",
     "source": "www.msn.com",
     "snippet": "The federal monitor overseeing reforms at Rikers Island, New York City's largest jail complex, asked a court to enforce greater compliance with efforts to overhaul the problem-plagued facility, saying they have been stymied by a lack of cooperation from Mayor Eric Adams's administration.",
@@ -5987,6 +6038,41 @@
         "start_end": [
           23,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Sri Lanka suffering reduced if IMF decision was made earlier: opposition",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's current economic troubles would have been avoided if a decision has been made to approach the International Monetary Fund earlier and authorities cannot disclaim responsibility, opposition legislator Harsha de Silva said.",
+    "url": "https://economynext.com/sri-lanka-suffering-reduced-if-imf-decision-was-made-earlier-opposition-91769/",
+    "url_hash": "29d173592233d8111cfa02f00cb204c6",
+    "ut": 1647558574,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harsha de Silva",
+        "start_end": [
+          32,
+          35
         ]
       }
     ]
