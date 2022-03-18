@@ -5303,6 +5303,65 @@
   },
   {
     "date": "2022-03-17",
+    "title": "NDBIB and CT CLSA form strategic partnership",
+    "source": "www.ft.lk",
+    "snippet": "NDB Investment Bank Ltd. (NDBIB) and CT CLSA Capital Ltd. (CT CLSA) have entered into a Collaboration Agreement to work together in raising capital for Sri Lankan corporates via Equity Initial Public Offerings (IPOs) on the Colombo Stock Exchange.",
+    "url": "https://www.ft.lk/financial-services/NDBIB-and-CT-CLSA-form-strategic-partnership/42-732164",
+    "url_hash": "20f9fe7805bd8eb2c4ac39f53a86ba08",
+    "ut": 1647541871,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "NDB Investment Bank Ltd.",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CT CLSA Capital Ltd.",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "a Collaboration Agreement",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Equity Initial Public Offerings",
+        "start_end": [
+          33,
+          37
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo Stock Exchange",
+        "start_end": [
+          41,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
     "title": "Samsung launches Galaxy S22 Series in Sri Lanka",
     "source": "www.ft.lk",
     "snippet": "Samsung on Wednesday unveiled its most premium flagships -Galaxy S22 Series in Sri Lanka at an exclusive media event. Galaxy S22 Ultra 5G combines the unrivalled power of the Note series and the iconic S-Pen with the pro-grade camera and performance of the S series to set the new standard for premium smartphones.",
@@ -5678,6 +5737,49 @@
         "start_end": [
           31,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Cyclonic storm expected next week:Met. Dept.",
+    "source": "www.dailymirror.lk",
+    "snippet": "A cyclonic storm is expected over the Bay of Bengal around March 21, the Department of Meteorology said yesterday. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Cyclonic-storm-expected-next-weekMet-Dept/342-233279",
+    "url_hash": "e52b5b37059a4dba19e30a6209dc1d0c",
+    "ut": 1647549039,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "the Bay of Bengal",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "around March 21",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Department of Meteorology",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]

@@ -127,6 +127,33 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Nuwara Eliya April Festival will be held: C.B. Ratnayake",
+    "source": "www.dailymirror.lk",
+    "snippet": "Minister of Wildlife and Forest Conservation C.B. Ratnayake said Nuwara Eliya April Festival would be held despite of whatever problems in the country. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Nuwara-Eliya-April-Festival-will-be-held-C-B-Ratnayake/342-233278",
+    "url_hash": "8060f2a09ccfda8362aed363fc13c9c8",
+    "ut": 1647563439,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Nuwara",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April Festival",
+        "start_end": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Sri Lanka signs USD 1 billion credit line with India",
     "source": "news.webindia123.com",
     "snippet": "Sri Lanka on Thursday signed USD 1 billion credit line with India for procurement of food, medicines and other essential items, amid the island nation's worsening economic crisis. The agreement was signed between the State Bank of India (SBI) and the Government of Sri Lanka,",
@@ -248,6 +275,41 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Diesel, Jet fuel consignments stuck at Port",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government has been unable to clear two consignments of fuel consisting of diesel and jet fuel which is presently docked at the Colombo Port totalling to 42 million US dollars and due to the delay in clearance,",
+    "url": "https://www.dailymirror.lk/latest_news/Diesel-Jet-fuel-consignments-stuck-at-Port/342-233277",
+    "url_hash": "bc49e672c99e1eaf18287702d593117b",
+    "ut": 1647567039,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Colombo Port",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "42 million US dollars",
+        "start_end": [
+          27,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "NDBIB and CT CLSA form strategic partnership",
     "source": "www.ft.lk",
     "snippet": "CT CLSA is a leading investment bank in Sri Lanka offering equity capital market, debt capital market, mergers and acquisition and corporate advisory services and has participated in some of the landmark transactions to take place on the Colombo Stock ...",
@@ -269,6 +331,65 @@
         "start_end": [
           39,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "India comes to Sri Lankan peoples' rescue amid worsening economic situation",
+    "source": "news.webindia123.com",
+    "snippet": "The Indian government has progressed on the path of ensuring bilateral relations with its immediate neighbour Sri Lanka amid the worsening economic situation in the island nation. Sri Lanka on Thursday signed USD 1 billion credit line with India for procurement of food,",
+    "url": "https://news.webindia123.com/news/Articles/World/20220317/3920626.html",
+    "url_hash": "4ecbb0162969b12e575d5950c527a396",
+    "ut": 1647570107,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 1 billion",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
