@@ -3062,6 +3062,41 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Even if President leaves tomorrow, we can't go for presidential poll: Amaraweera",
+    "source": "www.dailymirror.lk",
+    "snippet": "Even if the President leaves tomorrow, we cannot go for a presidential election. All that could be done is for the Parliament to appoint a President, Environment Minister Mahinda Amaraweera said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Even-if-President-leaves-tomorrow-we-cant-go-for-presidential-poll-Amaraweera/342-233343",
+    "url_hash": "496edeeac7f858d00e94cdc072daa53c",
+    "ut": 1647598150,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Amaraweera",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Basil returns",
     "source": "www.dailymirror.lk",
     "snippet": "Finance Minister Basil Rajapaksa arrived in the country this afternoon after concluding a two-day official visit to India. ..",
@@ -3634,6 +3669,57 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Kandy take top spot",
+    "source": "www.dailymirror.lk",
+    "snippet": "Kandy SC moved to the top of the Nippon Paints Inter-Club Rugby League tournament with a 36-23 win over Police SC, with Havelock SC dropping to second. ..",
+    "url": "https://www.dailymirror.lk/headline/Kandy-take-top-spot/419-233354",
+    "url_hash": "491eda1d98df2a55be756f31cef42de8",
+    "ut": 1647605350,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Kandy SC",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "36",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Police SC",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Havelock SC",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Power cuts continue in Sri Lanka with 3 hrs 45 min outages scheduled for March 19",
     "source": "economynext.com",
     "snippet": "Sri Lanka's utility provider the Ceylon Electricity Board (CEB) said power cuts of three hours and 45 minutes will be imposed in multiple areas on Saturday (19) while a three-hour power cuts will be imposed in the rest of the island.",
@@ -3972,6 +4058,57 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Sri Lanka shares up from 1-wk low in thin trade",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka stock gained on Friday (18) due to some bargain hunting for the first time in five straight session as negative sentiments over economic uncertainties worsened after the currency depreciation,",
+    "url": "https://economynext.com/sri-lanka-shares-up-from-1-wk-low-in-thin-trade-91837/",
+    "url_hash": "c1617b6b50251d4bf728de3b2021d153",
+    "ut": 1647612576,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Foreign Minister briefs Core Group on Sri Lanka",
     "source": "colombogazette.com",
     "snippet": "Foreign Minister Professor G. L. Peiris had an informal discussion with the Core Group on Sri Lanka at the Ministry of Foreign Affairs today. Secretary to the Ministry of Foreign Affairs, Admiral Jayanath Colombage was also present.",
@@ -4084,6 +4221,167 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "US Under Secretary for Political Affairs to visit Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "US Under Secretary for Political Affairs Victoria Nuland is to travel from March 19-23 to Bangladesh, India, and Sri Lanka with an interagency delegation. The US State Department said that the delegation will to underscore US commitment to,",
+    "url": "https://colombogazette.com/2022/03/18/us-under-secretary-for-political-affairs-to-visit-sri-lanka/",
+    "url_hash": "eaa2e63bbf85fe1a5b0769ce728c9aba",
+    "ut": 1647616180,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Political Affairs",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Victoria Nuland",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 19-23",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The US State Department",
+        "start_end": [
+          29,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "PM Modi assured Sri Lanka of full cooperation on economic, social matters: Finance Minister Basil Rajapaksa",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "Speaking to reporters after he returned from India, where he clinched a USD 1 billion line of credit to Sri Lanka to help it tackle its ongoing economic crisis, Rajapaksa said Sri Lanka enjoys very close ties with India.",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/pm-modi-assured-sri-lanka-of-full-cooperation-on-economic-social-matters-finance-minister-basil-rajapaksa/articleshow/90311809.cms",
+    "url_hash": "78c1d2d3d22747b2574afa370b6a8460",
+    "ut": 1647618439,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 1 billion",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rajapaksa",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "PM Modi assured Sri Lanka of full cooperation on economic, social matters: FM Basil Rajapaksa",
+    "source": "www.businesstoday.in",
+    "snippet": "Sri Lanka's worsening foreign-exchange shortage has seriously impacted the energy sector, which depends entirely on imports for its oil needs.",
+    "url": "https://www.businesstoday.in/latest/trends/story/pm-modi-assured-sri-lanka-of-full-cooperation-on-economic-social-matters-fm-basil-rajapaksa-326517-2022-03-18",
+    "url_hash": "197c7670e91927e6835b8b81b89c72e1",
+    "ut": 1647619639,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
         ]
       }
     ]
