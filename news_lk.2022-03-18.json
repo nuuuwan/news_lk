@@ -2777,6 +2777,25 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Water bill payments digitalised: NWSDB",
+    "source": "www.dailymirror.lk",
+    "snippet": "Due to the shortage of paper for printing utility bills, the National Water Supply and Drainage Board (NWSDB) has decided to introduce digital payment methods with a receipt. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Water-bill-payments-digitalised-NWSDB/108-233340",
+    "url_hash": "c0ebf514843e709af9857b9cb5b1cdf5",
+    "ut": 1647594571,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National Water Supply and Drainage Board",
+        "start_end": [
+          11,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Sri Lanka urged to 'vocally support' Ukraine by West, Japan",
     "source": "economynext.com",
     "snippet": "Diplomats of key western nations, the US and Japan has called on Sri Lanka to join them in 'vocal support' of Ukraine as the country resisted an invasion by Russia's Vladimir Putin.",
@@ -2857,6 +2876,49 @@
         "start_end": [
           13,
           14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Basil returns",
+    "source": "www.dailymirror.lk",
+    "snippet": "Finance Minister Basil Rajapaksa arrived in the country this afternoon after concluding a two-day official visit to India. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Basil-returns/108-233348",
+    "url_hash": "b3e6d49deb3405a23c41590f6d6b3cf4",
+    "ut": 1647598171,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this afternoon",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-day",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
@@ -3091,6 +3153,116 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Sri Lanka's Litro promises continuous LP gas supply; CPC says fuel en route",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's state run liquid petroleum (LP) gas company Litro announced a continuous supply of cooking gas cylinders to the market starting Friday (18), while the Ceylon Petroleum Corporation (CPC) said a fuel consignment sufficient for 20-25 days is also expected.",
+    "url": "https://economynext.com/sri-lankas-litro-promises-continuous-lp-gas-supply-cpc-says-fuel-en-route-91822/",
+    "url_hash": "b56c0107a93d21f5a9d5d9a3e61b1115",
+    "ut": 1647602037,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Litro",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "18",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ceylon Petroleum Corporation",
+        "start_end": [
+          31,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "20-25 days",
+        "start_end": [
+          44,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Instant Grocery Delivery App Buyk Files for Bankruptcy After Russian Sanctions",
+    "source": "au.news.yahoo.com",
+    "snippet": "U.S. Says Biden Team Hardens View of China Tilting Toward Putin on Ukraine Shock Waves From War in Ukraine Threaten to Swamp Sri Lanka Putin Vows to Rid Russia of 'Traitors' While Waging ...",
+    "url": "https://au.news.yahoo.com/instant-grocery-delivery-app-buyk-193730209.html",
+    "url_hash": "8c6f0631e20fde52db9d9c93e16f9d24",
+    "ut": 1647603233,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Biden Team Hardens View",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Putin Vows",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rid Russia",
+        "start_end": [
+          27,
+          29
         ]
       }
     ]
