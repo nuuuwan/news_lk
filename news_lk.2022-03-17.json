@@ -2558,6 +2558,49 @@
     "title": "Update: Sri Lanka signs USD 1 billion credit line with India",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka on Thursday signed USD 1 billion credit line with India for procurement of food, medicines and other essential items, amid the island nation's worsening economic crisis. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Update-Sri-Lanka-signs-USD-1-billion-credit-line-with-India/342-233265",
+    "url_hash": "63d0936857ba8692ed3e43f395a55488",
+    "ut": 1647508127,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 1 billion",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Update: Sri Lanka signs USD 1 billion credit line with India",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka on Thursday signed USD 1 billion credit line with India for procurement of food, medicines and other essential items, amid the island nation's worsening economic crisis. ..",
     "url": "https://www.dailymirror.lk/top_story/Update-Sri-Lanka-signs-USD-1-billion-credit-line-with-India/155-233265",
     "url_hash": "9dc8dde3ccdde3bcdffdba7a549bfae0",
     "ut": 1647508163,
@@ -5106,6 +5149,81 @@
         "start_end": [
           46,
           49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-17",
+    "title": "Top female leaders to share key ideas at Interbrand-Daily FT International Women's Day celebrations",
+    "source": "www.ft.lk",
+    "snippet": "Interbrand in association with the Daily FT celebrates International Women's Day (IWD) 2022, the theme being - \"#BreaktheBias: Equality today for a sustainable tomorrow; Gender equality today for a sustainable tomorrow\",",
+    "url": "https://www.ft.lk/front-page/Top-female-leaders-to-share-key-ideas-at-Interbrand-Daily-FT-International-Women-s-Day-celebrations/44-732176",
+    "url_hash": "6a71a9efba4c90025a66601436311716",
+    "ut": 1647540565,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "International Women's Day",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IWD",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gender",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
