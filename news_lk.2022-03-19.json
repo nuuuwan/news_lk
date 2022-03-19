@@ -2893,6 +2893,49 @@
   },
   {
     "date": "2022-03-19",
+    "title": "Sri Lanka Cancels Exams For Millions Of School Students Over Paper Shortage",
+    "source": "www.india.com",
+    "snippet": "Term tests In Sri Lanka are part of a continuous assessment process to decide if students are promoted to the next grade at the end of the year. The move could reportedly hold up tests for around two-thirds of the country's 4.",
+    "url": "https://www.india.com/news/world/sri-lanka-cancels-exams-for-millions-of-school-students-over-paper-shortage-5293722/",
+    "url_hash": "e3f1e84484fa773be158ecccf401e54e",
+    "ut": 1647709719,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the end of the year",
+        "start_end": [
+          23,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "around two-thirds",
+        "start_end": [
+          37,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "Kashish Badar",
     "source": "www.dailynews.lk",
     "snippet": "An adaption of R. K. Narayan's \"The English Teacher\", generated an enthusiastic response in New Delhi recently.Characters of R.K. Narayan's novel \"The English Teacher\" came alive on stage when...",
@@ -2938,6 +2981,41 @@
         "start_end": [
           29,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Lanka cancels exams for want of dollars to procure papers",
+    "source": "www.dailypioneer.com",
+    "snippet": "Sri Lanka has cancelled exams for millions of school students as the country ran out of printing paper with Colombo short on dollars to finance imports, officials said Saturday. Education authorities said the term tests,",
+    "url": "https://www.dailypioneer.com/2022/page1/lanka-cancels-exams-for-want---of-dollars-to-procure-papers.html",
+    "url_hash": "0ef7057fae32d35dce8a2102445feef0",
+    "ut": 1647714724,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]
