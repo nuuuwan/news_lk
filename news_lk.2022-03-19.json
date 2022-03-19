@@ -103,6 +103,49 @@
   },
   {
     "date": "2022-03-19",
+    "title": "How Four Powerful Brothers Broke an Island Nation",
+    "source": "www.washingtonpost.com",
+    "snippet": "The Rajapaksa clan\u00a0may have defeated the Tamil rebellion, but they've lost control of Sri Lanka's economy after two years of worsening crisis.",
+    "url": "https://www.washingtonpost.com/business/energy/how-four-powerful-brothers-broke-an-island-nation/2022/03/18/e9e04c5e-a71d-11ec-8628-3da4fa8f8714_story.html",
+    "url_hash": "7ad69d89f6a025e4f7034bc30a49a5bc",
+    "ut": 1647648556,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two years",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "'A tournament that tells the world that Sri Lanka is a safe tourist destination'",
     "source": "island.lk",
     "snippet": "The holding of the Raid Amazones adventure program will send a positive message to the world that Sri Lanka is a safe tourist destination, Tourism Minister Prasanna Ranatunge said while declaring open the Raid Amazones adventure program which commenced in Sigiriya recently.",
@@ -444,6 +487,65 @@
         "start_end": [
           28,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Conflict threatens to swamp Sri Lanka",
+    "source": "www.thestar.com.my",
+    "snippet": "RUSSIA'S war in Ukraine, which has caused a humanitarian crisis and convulsed global financial markets, is now threatening to crush an US$81bil (RM340bil) economy more than 6,437km away in the Indian Ocean.",
+    "url": "https://www.thestar.com.my/business/business-news/2022/03/19/conflict-threatens-to-swamp-sri-lanka",
+    "url_hash": "327c02007ca25b585e5a288f216212f4",
+    "ut": 1647658396,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "RUSSIA",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "81bil",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RM340bil",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "more than 6,437",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          36,
+          39
         ]
       }
     ]
