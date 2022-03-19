@@ -2295,5 +2295,40 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "This newspaper cutting was doctored to include a false article about a Sri Lankan opposition leader",
+    "source": "uk.style.yahoo.com",
+    "snippet": "Frustration with the government's handling of the crisis is growing, and angry protesters clashed with heavily armed police on the streets of the capital, Colombo ... crises that Sri Lanka is facing at present within 100 days. (Continued Page 6)\".",
+    "url": "https://uk.style.yahoo.com/newspaper-cutting-doctored-false-article-075414992.html",
+    "url_hash": "80b2fe176ef8d912abff9932d4a7d90d",
+    "ut": 1647696340,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "100 days",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
   }
 ]
