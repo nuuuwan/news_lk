@@ -103,6 +103,65 @@
   },
   {
     "date": "2022-03-19",
+    "title": "World Happiness Reports and Sri Lanka",
+    "source": "island.lk",
+    "snippet": "Sunil Dharmabandhu U.K. Email: sunilrajdharm@yahoo.co.uk Since 2002, the World Happiness Report has used statistical analysis to determine the world's happiest countries. In its 2021 update, the report concluded that Finland is the happiest country in the world.",
+    "url": "https://island.lk/world-happiness-reports-and-sri-lanka/",
+    "url_hash": "5b3be5d28af91ef1a0397027796f05a3",
+    "ut": 1647648540,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sunil Dharmabandhu",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.K.",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2002",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the World Happiness Report",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Finland",
+        "start_end": [
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "How Four Powerful Brothers Broke an Island Nation",
     "source": "www.washingtonpost.com",
     "snippet": "The Rajapaksa clan\u00a0may have defeated the Tamil rebellion, but they've lost control of Sri Lanka's economy after two years of worsening crisis.",
@@ -1186,6 +1245,41 @@
   },
   {
     "date": "2022-03-19",
+    "title": "British tech consultancy Codification expands operations in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "Codification, a globally distributed digital transformation consultancy based in the UK, entered into the Sri Lankan market last year and has since accelerated hiring in the country. Having been impressed by the quality and capabilities of the talent Sri ...",
+    "url": "https://www.dailymirror.lk/other/British-tech-consultancy-Codification-expands-operations-in-Sri-Lanka/117-233281",
+    "url_hash": "97cd986ed8babfe5e0c6cf074014e517",
+    "ut": 1647673731,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "West and Japan urge Sri Lanka to extend \"vocal support\" for Ukraine",
     "source": "www.adaderana.lk",
     "snippet": "Envoys of the United States and several other key nations in the west, as well as Japan on Friday, called on Sri Lanka to join in active support against the Russian invasion of Ukraine",
@@ -1338,6 +1432,84 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Adani Group entering country through back door, says Sri Lanka's Opposition",
+    "source": "www.thehindu.com",
+    "snippet": "The Adani Group's \"back door\" entry into Sri Lanka's energy sector disrupts the country's competitive electricity generation system, the Opposition has said, accusing the Rajapaksa government of \"pampering\" Prime Minister Narendra Modi's \"notorious friends\".",
+    "url": "https://www.thehindu.com/news/international/adani-group-entering-country-through-back-door-says-sri-lankas-opposition/article65239950.ece",
+    "url_hash": "b72ddaf6cb74b5902edf9a6c64929f81",
+    "ut": 1647677340,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Adani Group's",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Opposition",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Narendra Modi's",
+        "start_end": [
+          39,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Headed to Colombo? Don't miss these unforgettable attractions",
+    "source": "www.msn.com",
+    "snippet": "In Colombo you will find some beautiful attractions that you just cannot miss! Places like Yala National Park Camping, Ravana's Cave and many more. Continue reading to know more. Yala National Park Camping is a paradisiacal place which is most visited for its wonderful wildlife and scenery.",
+    "url": "https://www.msn.com/en-my/lifestyle/other/headed-to-colombo-dont-miss-these-unforgettable-attractions/ar-AAVg4zp",
+    "url_hash": "535a83719156f6154e4a29ef421e06ef",
+    "ut": 1647679740,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Yala National Park Camping",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ravana's Cave",
+        "start_end": [
+          22,
+          25
         ]
       }
     ]
