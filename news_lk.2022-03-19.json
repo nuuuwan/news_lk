@@ -2602,6 +2602,49 @@
   },
   {
     "date": "2022-03-19",
+    "title": "Sri Lanka fuel crisis to ease with India shipments, Jet fuel already in: CPC chief",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka is expecting severe fuel shortages to ease with shipments from an Indian credit line beginning to come, Ceylon Petroleum Corporation Chairman Sumith Wijesinghe said, as the island nation reels from forex shortages triggered by money printing.",
+    "url": "https://economynext.com/sri-lanka-fuel-crisis-to-ease-with-india-shipments-jet-fuel-already-in-cpc-chief-91848/",
+    "url_hash": "29bb679238cc012d976b248a5c2db895",
+    "ut": 1647702552,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Petroleum Corporation",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sumith Wijesinghe",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "Sri Lanka to close oil refinery over crude supply",
     "source": "economynext.com",
     "snippet": "Sri Lanka will close its state-run refinery from March 21 as crude supplies and is hoping to re-start operations by April if short term tenders which have been floated, gets a good response, an official said.",
@@ -2736,6 +2779,60 @@
         "start_end": [
           45,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Running low on dollars to import paper, debt-ridden Sri Lanka cancels exams",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka, which is reeling under its worst financial crisis, had to cancel exams for millions of school students in the western province due to an acute shortage of printing paper. According to reports,",
+    "url": "https://www.msn.com/en-in/news/world/running-low-on-dollars-to-import-paper-debt-ridden-sri-lanka-cancels-exams/ar-AAVgm09",
+    "url_hash": "914c869713dc993c661aaa788b892807",
+    "ut": 1647706152,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Cheap Flights from Singapore Changi to Colombo (SIN - CMB)",
+    "source": "www.skyscanner.net",
+    "snippet": "What are the COVID-19 travel requirements for flying to Colombo right now? COVID-19 travel restrictions are changing fast, but we're here to help you find the advice you need. Check our live page on Sri Lanka travel restrictions to see if you can travel from Singapore Changi to Colombo,",
+    "url": "https://www.skyscanner.net/routes/sin/cmba/",
+    "url_hash": "5a20b2ca914c46905c6e438bacfedd62",
+    "ut": 1647707683,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Singapore",
+        "start_end": [
+          49,
+          50
         ]
       }
     ]
