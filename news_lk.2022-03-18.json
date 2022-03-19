@@ -6464,5 +6464,115 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "How Four Powerful Brothers Broke an Island Nation",
+    "source": "www.washingtonpost.com",
+    "snippet": "The Rajapaksa clan\u00a0may have defeated the Tamil rebellion, but they've lost control of Sri Lanka's economy after two years of worsening crisis.",
+    "url": "https://www.washingtonpost.com/business/energy/how-four-powerful-brothers-broke-an-island-nation/2022/03/18/e9e04c5e-a71d-11ec-8628-3da4fa8f8714_story.html",
+    "url_hash": "7ad69d89f6a025e4f7034bc30a49a5bc",
+    "ut": 1647646527,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two years",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "Greatest 'Lovers' Quarrel' of all time",
+    "source": "island.lk",
+    "snippet": "By Captain Chandra Godakanda Arachchi It was 50 years ago that the beautiful port city of Galle witnessed the 67th Mahinda-Richmond \"Lovers' Quarrel\", on 24 and 25 March 1972. A 33-year-old batting record,",
+    "url": "https://island.lk/greatest-lovers-quarrel-of-all-time/",
+    "url_hash": "ae378c5a8211f8e5c6a9cca0f89c827c",
+    "ut": 1647646539,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Chandra Godakanda Arachchi",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "50 years ago",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Galle",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "67th",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Mahinda-Richmond \"Lovers'",
+        "start_end": [
+          20,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "24 and 25 March 1972",
+        "start_end": [
+          30,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "33-year-old",
+        "start_end": [
+          37,
+          42
+        ]
+      }
+    ]
   }
 ]

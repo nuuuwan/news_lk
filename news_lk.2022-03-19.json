@@ -159,5 +159,153 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Globally distributed British tech consultancy Codification expands operations into Sri Lanka",
+    "source": "island.lk",
+    "snippet": "Codification, a globally distributed digital transformation consultancy based in the UK, entered into the Sri Lankan market last year and has since accelerated hiring in the country. Having been impressed by the quality and capabilities of the talent Sri Lanka has to offer,",
+    "url": "https://island.lk/globally-distributed-british-tech-consultancy-codification-expands-operations-into-sri-lanka/",
+    "url_hash": "55a0f18ca1409ab2c92c6684ae42fb83",
+    "ut": 1647650127,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Sri Lanka tests UN's patience on human rights",
+    "source": "www.yahoo.com",
+    "snippet": "President Rajapaksa is resisting efforts to investigate alleged war crimes and improve a dismal rights record.",
+    "url": "https://www.yahoo.com/now/sri-lanka-tests-uns-patience-002005576.html",
+    "url_hash": "7d0fe2288cf3e32c20ba6170d172db22",
+    "ut": 1647650152,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Rajapaksa",
+        "start_end": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Environmentalists reject plans to protect elephants in Sri Lanka",
+    "source": "www.infobae.com",
+    "snippet": "Living with elephants is a sensitive political issue in Sri Lanka. In this island country located in the Indian Ocean, it is mostly Buddhist, and the animal is considered the incarnation of the Buddha. Elephants are respected and a symbol of wealth.",
+    "url": "https://www.infobae.com/en/2022/03/16/environmentalists-reject-plans-to-protect-elephants-in-sri-lanka-2/",
+    "url_hash": "f9273921af64d2098e81b336eced23c7",
+    "ut": 1647650427,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Buddhist",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Buddha",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Women journalists' network urges SLRC to revoke ban on TV presenter",
+    "source": "colombogazette.com",
+    "snippet": "The South Asian Women in Media- Sri Lanka (SAWM- SL) has urged the State-run television network, Sri Lanka Rupavahini Corporation (SLRC), to immediately revoke its decision to ban Parami Nileptha Ranasinghe,",
+    "url": "https://colombogazette.com/2022/03/19/women-journalists-network-urges-slrc-to-revoke-ban-on-tv-presenter/",
+    "url_hash": "236cf05c9b3cc1e4366d6bed761030dc",
+    "ut": 1647652728,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The South Asian Women",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Rupavahini Corporation",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parami Nileptha Ranasinghe",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
   }
 ]
