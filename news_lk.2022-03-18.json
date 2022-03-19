@@ -127,6 +127,73 @@
   },
   {
     "date": "2022-03-18",
+    "title": "BRI criticism rings hollow in Sri Lanka",
+    "source": "www.chinadaily.com.cn",
+    "snippet": "It posted 6 percent growth in the volume of cargo handled, to a record 7.25 million twenty-foot-equivalent units in 2021, media cited the Sri Lanka Ports Authority as saying on Monday. The ports authority's chief, Prasantha Jayamanna, told the Daily FT ...",
+    "url": "http://www.chinadaily.com.cn/a/202203/18/WS6233bf0ca310fd2b29e519b6.html",
+    "url_hash": "690f942b19a17d50965e63f643cb6420",
+    "ut": 1647562770,
+    "ent_info_list": [
+      {
+        "label": "PERCENT",
+        "text": "6 percent",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7.25 million",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "twenty-foot",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Ports Authority",
+        "start_end": [
+          28,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasantha Jayamanna",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "Nuwara Eliya April Festival will be held: C.B. Ratnayake",
     "source": "www.dailymirror.lk",
     "snippet": "Minister of Wildlife and Forest Conservation C.B. Ratnayake said Nuwara Eliya April Festival would be held despite of whatever problems in the country. ..",
@@ -3548,6 +3615,89 @@
         "start_end": [
           44,
           48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "FirstFT: Biden to warn Xi over Ukraine",
+    "source": "www.ft.com",
+    "snippet": "Joe Biden will warn Xi Jinping the US is prepared to retaliate if Beijing actively supports Russia in Ukraine, in the first call between the two leaders since Vladimir Putin ordered the invasion of his neighbouring country.",
+    "url": "https://www.ft.com/content/b2e3af28-5021-4747-a1f0-923b9b04cb1f",
+    "url_hash": "09194edd6c3a16ccc8d555bbb1fd495f",
+    "ut": 1647602370,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Xi Jinping",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Vladimir Putin",
+        "start_end": [
+          29,
+          31
         ]
       }
     ]
