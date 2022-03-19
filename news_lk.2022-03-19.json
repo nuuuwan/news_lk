@@ -549,5 +549,75 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "We are paying for sins committed by others",
+    "source": "www.dailymirror.lk",
+    "snippet": "Tourism Minister Prasanna Ranatunga said that they will face the existing challenges and resolve the issues confronted by the public. The Opposition behaved in a similar manner even during the height of the war.",
+    "url": "https://www.dailymirror.lk/breaking_news/We-are-paying-for-sins-committed-by-others/108-233418",
+    "url_hash": "5747ef7937512a656231f21865afb129",
+    "ut": 1647659353,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Ravindra Liyanage-Hiniduma Special Corr:",
+    "source": "dailynews.lk",
+    "snippet": "A multi-day fishing boat owner has had to spend more than Rs. 300,000 per trip due to the price increase of diesel, the All Island General Fisheries Association said.The National Organizer of the... Litro Gas commenced distributing LP Gas stocks to all parts of the country...",
+    "url": "https://dailynews.lk/line/ravindra-liyanage-hiniduma-special-corr-3",
+    "url_hash": "3bda5da795f3195de918be7bc135fd2d",
+    "ut": 1647662897,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "300,000",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the All Island General Fisheries Association",
+        "start_end": [
+          26,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The National Organizer of",
+        "start_end": [
+          34,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Litro Gas",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "LP Gas",
+        "start_end": [
+          44,
+          46
+        ]
+      }
+    ]
   }
 ]
