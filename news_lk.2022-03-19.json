@@ -2414,6 +2414,33 @@
   },
   {
     "date": "2022-03-19",
+    "title": "Cash-strapped Sri Lanka cancels school exams over paper shortage",
+    "source": "www.aljazeera.com",
+    "snippet": "Official sources said the move could effectively hold up tests for about two-thirds of country's 4.5 million students.",
+    "url": "https://www.aljazeera.com/news/2022/3/19/sri-lanka-cancels-school-exams-over-paper-shortage",
+    "url_hash": "47bb8a2effc12453cdadadac2b8478f3",
+    "ut": 1647695361,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "about two-thirds",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4.5 million",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "This newspaper cutting was doctored to include a false article about a Sri Lankan opposition leader",
     "source": "uk.style.yahoo.com",
     "snippet": "Frustration with the government's handling of the crisis is growing, and angry protesters clashed with heavily armed police on the streets of the capital, Colombo ... crises that Sri Lanka is facing at present within 100 days. (Continued Page 6)\".",
@@ -2569,6 +2596,146 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Sri Lanka to close oil refinery over crude supply",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will close its state-run refinery from March 21 as crude supplies and is hoping to re-start operations by April if short term tenders which have been floated, gets a good response, an official said.",
+    "url": "https://economynext.com/sri-lanka-to-close-oil-refinery-over-crude-supply-91847/",
+    "url_hash": "58819bc137d66a5c8bed6de04f2aeef5",
+    "ut": 1647702579,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 21",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Sri Lanka CPC expects fuel crisis to ease with India shipments, Jet fuel in",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka is expecting severe fuel shortages to ease with shipments from an Indian credit line beginning to come, Ceylon Petroleum Corporation Chairman Sumith Wijesinghe said, as the island nation reels from forex shortages triggered by money printing.",
+    "url": "https://economynext.com/sri-lanka-cpc-expects-fuel-crisis-to-ease-with-india-shipments-jet-fuel-in-91848/",
+    "url_hash": "72df198cbb84ffc1ea4e4a5d925ed9c3",
+    "ut": 1647703161,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Petroleum Corporation",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sumith Wijesinghe",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Running low on dollars to import paper, debt-ridden Sri Lanka cancels exams",
+    "source": "www.wionews.com",
+    "snippet": "Sri Lanka, which is reeling under its worst financial crisis, had to cancel exams for millions of school students in the western province due to an acute shortage of printing paper. According to reports,",
+    "url": "https://www.wionews.com/south-asia/running-low-on-dollars-to-import-paper-debt-ridden-sri-lanka-cancels-exams-463851",
+    "url_hash": "2251cd589e49a9665ea0f927ef335e04",
+    "ut": 1647704481,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Sri Lanka to close oil refinery as crude supply ends",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Sri Lanka will close its state-run refinery from March 21 as crude supplies and is hoping to re-start operations by April if short term tenders which have been floated, gets a good response, an official said. Sapugaskanada Refinery will be ...",
+    "url": "https://economynext.com/sri-lanka-to-close-oil-refinery-as-crude-supply-ends-91847/",
+    "url_hash": "0377a0794ec1fbdaf67c3f5846fc51c9",
+    "ut": 1647705099,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "March 21",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sapugaskanada Refinery",
+        "start_end": [
+          45,
+          47
         ]
       }
     ]
