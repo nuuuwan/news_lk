@@ -619,5 +619,51 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Ensuring equal access to EdTech for all students in Sri Lanka",
+    "source": "economynext.com",
+    "snippet": "The COVID-19 pandemic, which resulted in schools across the globe turning to online teaching, has further exposed the gulf between students of rich and poorer families in South Asia. Furthermore, it also highlights gaps in teacher training,",
+    "url": "https://economynext.com/ensuring-equal-access-to-edtech-for-all-students-in-sri-lanka-91841/",
+    "url_hash": "d839cd5cafb29c21e59e64f4a8437621",
+    "ut": 1647662985,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Sri Lanka - Tamil Nadu Police hunt for missing Sri Lankan man",
+    "source": "menafn.com",
+    "snippet": "The Tamil Nadu Police have been alerted to look for a man reported missing in Sri Lanka along with his boat after an abandoned vessel w",
+    "url": "https://menafn.com/1103874546/Sri-Lanka-Tamil-Nadu-Police-hunt-for-missing-Sri-Lankan-man",
+    "url_hash": "11d818a34fbb64d2a275cc09f2937d44",
+    "ut": 1647664609,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Tamil Nadu Police",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      }
+    ]
   }
 ]
