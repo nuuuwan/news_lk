@@ -1618,6 +1618,41 @@
   },
   {
     "date": "2022-03-19",
+    "title": "Cyclone Asani To Cause Heat Surge in Tamil Nadu, Forecast To Witness Hotter Days, Humid Nights",
+    "source": "www.msn.com",
+    "snippet": "While the cyclone is expected to steer clear of Tamil Nadu, weather scientists have forecast that its movement over the Bay of Bengal could lead to soaring mercury levels. Chennai is expected to witness maximum temperatures of 36\u00b0C,",
+    "url": "https://www.msn.com/en-in/news/other/cyclone-asani-to-cause-heat-surge-in-tamil-nadu-forecast-to-witness-hotter-days-humid-nights/ar-AAVgc3e",
+    "url_hash": "9e01e7d2efdd03ce7700da88350c2e78",
+    "ut": 1647677352,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Tamil Nadu",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Bay of Bengal",
+        "start_end": [
+          20,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "36",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "Headed to Colombo? Don't miss these unforgettable attractions",
     "source": "www.msn.com",
     "snippet": "In Colombo you will find some beautiful attractions that you just cannot miss! Places like Yala National Park Camping, Ravana's Cave and many more. Continue reading to know more. Yala National Park Camping is a paradisiacal place which is most visited for its wonderful wildlife and scenery.",
@@ -2034,6 +2069,97 @@
         "start_end": [
           53,
           54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Cyclone Asani: Low Pressure to Intensify Tomorrow; Andaman Island Braces for Flooding, Inundation of Roads",
+    "source": "www.news18.com",
+    "snippet": "2022's First Cyclone Asani Set to Brew in Bay of Bengal; NDRF, Army on Alert for Andaman & Nicobar Storm Brewing in Bay of Bengal, Likely to Intensify into Cyclone Next Week, Says IMD Asani, a name suggested by Sri Lanka is likely to move nearly north ...",
+    "url": "https://www.news18.com/news/india/cyclone-asani-low-pressure-to-intensify-tomorrow-andaman-island-braces-for-flooding-inundation-of-roads-4889381.html",
+    "url_hash": "b0daa19a925a7b0660420f0c1b99965a",
+    "ut": 1647688152,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2022",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "First Cyclone Asani Set",
+        "start_end": [
+          2,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bay of Bengal",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NDRF",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Army",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Andaman & Nicobar Storm Brewing",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bay of Bengal",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "Cyclone Next Week",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "IMD Asani",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          45,
+          47
         ]
       }
     ]
@@ -2699,6 +2825,68 @@
   },
   {
     "date": "2022-03-19",
+    "title": "Cyclone Asani update: Evacuation process starts; fishermen alerted. Check date, time and how to track",
+    "source": "www.livemint.com",
+    "snippet": "The storm is likely to bring extremely heavy rainfall to Andaman and Nicobar Island. Meanwhile, fishermen have already been warned not to venture into the sea.",
+    "url": "https://www.livemint.com/news/india/cyclone-asani-update-evacuation-process-starts-fishermen-alerted-check-date-time-and-how-to-track-11647700205827.html",
+    "url_hash": "6b75a0dbbf2285140d290b59ebe73ea3",
+    "ut": 1647702552,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Andaman",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nicobar Island",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Sri Lanka to shut oil refinery as crude supply runs out",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka will close its state-run refinery from March 21 as crude supplies and is hoping to re-start operations by April if short term tenders which have been floated, gets a good response, an official said.",
+    "url": "https://economynext.com/sri-lanka-to-shut-oil-refinery-as-crude-supply-runs-out-91847/",
+    "url_hash": "200fc2069395886d8646d9a66306da81",
+    "ut": 1647702569,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 21",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "Sri Lanka to close oil refinery over crude supply",
     "source": "economynext.com",
     "snippet": "Sri Lanka will close its state-run refinery from March 21 as crude supplies and is hoping to re-start operations by April if short term tenders which have been floated, gets a good response, an official said.",
@@ -3016,6 +3204,41 @@
         "start_end": [
           29,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "West Indies v England: second Test, day four - live!",
+    "source": "www.msn.com",
+    "snippet": "Join our writers for the latest from Saturday's play at Kensington Oval in Bridgetown",
+    "url": "https://www.msn.com/en-gb/sports/cricket/west-indies-v-england-second-test-day-four-e2-80-93-live/ar-AAVgsHc",
+    "url_hash": "3a4958bf23109d53b0f9bd7e2f8f23d3",
+    "ut": 1647717277,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Kensington Oval",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bridgetown",
+        "start_end": [
+          14,
+          15
         ]
       }
     ]
