@@ -928,5 +928,64 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Western nations, Japan urge Sri Lanka to extend vocal support for Ukraine",
+    "source": "www.adaderana.lk",
+    "snippet": "Envoys of the United States and several other key nations in the west, as well as Japan on Friday, called on Sri Lanka to join in active support against the Russian invasion of Ukraine",
+    "url": "http://www.adaderana.lk/news/81295/western-nations-japan-urge-sri-lanka-to-extend-vocal-support-for-ukraine",
+    "url_hash": "1736f3f5b764c5212402bce6431fe02f",
+    "ut": 1647670971,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Japan",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
   }
 ]
