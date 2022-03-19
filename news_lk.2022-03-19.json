@@ -466,6 +466,57 @@
   },
   {
     "date": "2022-03-19",
+    "title": "India, Sri Lanka, and the Fishers Caught in the Middle",
+    "source": "thediplomat.com",
+    "snippet": "A bunch of fishers came to me that day, and told me that the Sri Lankan Navy had arrested my younger brother, Victus,\" Thambi, who is the Coordinator of the National Traditional Fishermen Federation,",
+    "url": "https://thediplomat.com/2022/03/india-sri-lanka-and-the-fishers-caught-in-the-middle/",
+    "url_hash": "272ee225fe21988d6ae01309ffe887fd",
+    "ut": 1647655769,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "that day",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Navy",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Victus",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Thambi",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Traditional Fishermen Federation",
+        "start_end": [
+          34,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
     "title": "SYU calls youth to join for country's sake",
     "source": "www.msn.com",
     "snippet": "The Sri Lankan youth are invited regardless of their political ... It was held following the protest march conducted from the Technical Junction to Colombo Fort.The SYU had organized this protest campaign against the present situation in the country ...",
@@ -662,6 +713,218 @@
         "start_end": [
           15,
           17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "How four powerful brothers broke the island nation Sri Lanka",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "In just over two years, Sri Lanka's first family has presided over a series of crises mostly of its own making. The island nation of 22 million people is facing its worst econom",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/how-four-powerful-brothers-broke-the-island-nation-sri-lanka/articleshow/90316861.cms",
+    "url_hash": "ca5c6808491c8c7f1f8ce3d32182efe3",
+    "ut": 1647666569,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "just over two years",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22 million",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Sri Lankan construction companies clarify details regarding Central Expressway Project - Section 3",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "History and importance of the Central Expressway Under the directives of Ministry of Highways (MoH), and the purview of the Road Development Authority (RDA), Sri Lanka's Central Expressway Project (CEP) seeks to link the major cities of Kandy,",
+    "url": "http://bizenglish.adaderana.lk/sri-lankan-construction-companies-clarify-details-regarding-central-expressway-project-section-3/",
+    "url_hash": "45df302cd01f9447965ea741a7312950",
+    "ut": 1647667538,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Central Expressway Under",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ministry of Highways",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Road Development Authority",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka's",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEP",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Kandy",
+        "start_end": [
+          46,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Paper shortages force schools in Sri Lanka's western province to postpone exams",
+    "source": "economynext.com",
+    "snippet": "A paper shortage in cash-strapped Sri Lanka has led to final term tests for grades 9, 10 and 11 in Western province schools being postponed until after the April holidays, with tests for grades 6, 7 and 8 to be held at the school level.",
+    "url": "https://economynext.com/paper-shortages-force-schools-in-sri-lankas-western-province-to-postpone-exams-91842/",
+    "url_hash": "bedefff865e5bbd9d9b941e49c9b24ca",
+    "ut": 1647667726,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "11",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April holidays",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "'India is largest target market for Colombo port city project'- Wickramasuriya",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Port City Colombo is being built on 269 hectares of land reclaimed from the sea and extends Colombo's central business district. Saliya Wickramasuriya, director general of the Colombo Port City Economic Commission,",
+    "url": "http://bizenglish.adaderana.lk/india-is-largest-target-market-for-colombo-port-city-project-wickramasuriya/",
+    "url_hash": "1d55b23e45dccc413fa1e735ff898dd1",
+    "ut": 1647668249,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Port City Colombo",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "269 hectares",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Saliya Wickramasuriya",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Colombo Port City Economic Commission",
+        "start_end": [
+          29,
+          35
         ]
       }
     ]
