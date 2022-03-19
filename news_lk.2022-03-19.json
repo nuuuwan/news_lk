@@ -3293,5 +3293,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "Public protests increase in SL against govt. failures",
+    "source": "www.dailymirror.lk",
+    "snippet": "Public protests continued in Sri Lanka on Saturday evening with an increasing number of people lining up on the roads holding candles in Kelaniya, Kohuwala and Mount Lavinia against the ongoing economic hardships.",
+    "url": "https://www.dailymirror.lk/breaking_news/Public-protests-increase-in-SL-against-govt-failures/108-233424",
+    "url_hash": "288c047c39f6a57819995becc932a4a8",
+    "ut": 1647720521,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Saturday evening",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kelaniya",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kohuwala",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Mount Lavinia",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
   }
 ]
