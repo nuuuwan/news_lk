@@ -5215,6 +5215,49 @@
   },
   {
     "date": "2022-03-18",
+    "title": "Agent Diary: 'It's reassuring to see so many customers keen to book quickly'",
+    "source": "travelweekly.co.uk",
+    "snippet": "Holding the fort at the shop was a nice change of scenery and walk-in bookings are encouraging, says Carla Hutchings, Luxury Travel Associate at Swords Travel in Bournemouth.",
+    "url": "https://travelweekly.co.uk/articles/447263/agent-diary-its-reassuring-to-see-so-many-customers-keen-to-book-quickly",
+    "url_hash": "aab5f29d7953e836c5b50f49754fc871",
+    "ut": 1647626973,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Carla Hutchings",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Luxury Travel Associate at",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Swords Travel",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Bournemouth",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
     "title": "UNP welcomes Govt decision seeking IMF assistance",
     "source": "www.dailymirror.lk",
     "snippet": "The United National Party (UNP) today welcomed the decision made by the government to seek the assistance of the International Monetary Fund (IMF) to resolve the present economic crisis . ..",
@@ -6671,6 +6714,65 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-18",
+    "title": "IMF to begin talks with Sri Lanka on program to support the country",
+    "source": "www.lankaweb.com",
+    "snippet": "The International Monetary Fund (IMF) intends to begin discussions with Sri Lanka on a programme to support the country, IMF spokesman Gerry Rice says. Speaking at a media briefing on Thursday (March 17),",
+    "url": "https://www.lankaweb.com/news/items/2022/03/18/imf-to-begin-talks-with-sri-lanka-on-program-to-support-the-country/",
+    "url_hash": "176e9cc01658b4859293403085a326c9",
+    "ut": 1647641359,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Monetary Fund",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gerry Rice",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 17",
+        "start_end": [
+          36,
+          38
         ]
       }
     ]
