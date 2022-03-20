@@ -3513,5 +3513,64 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-19",
+    "title": "'Heart aches': Liz Hurley's sad reveal before Shane Warne's funeral",
+    "source": "au.sports.yahoo.com",
+    "snippet": "Liz Hurley has delivered a heartbreaking message on the eve of cricket legend Shane Warne's private funeral after not being able to attend the service. Hurley was engaged with Warne in 2013 and has expressed her devastation upon hearing of the cricket legend's death on March 4.",
+    "url": "https://au.sports.yahoo.com/shane-warne-2022-liz-hurleys-devastating-reveal-before-funeral-000154357.html",
+    "url_hash": "4a0ea65d68a9e2b9914664912bff9c06",
+    "ut": 1647732963,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Liz Hurley",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne's",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hurley",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Warne",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2013",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 4",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
   }
 ]
