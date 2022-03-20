@@ -1319,6 +1319,57 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Rival captains expect another slow wicket in series decider",
+    "source": "apnews.com",
+    "snippet": "Pakistan captain Babar Azam predicts another slow wicket will test the patience and skills of batters when the home team meets Australia in the decisive third and final test on Monday.",
+    "url": "https://apnews.com/19d850e69e2d3341dd62e781348b94fa",
+    "url_hash": "5fb628d49a296eb54558832654eb6a88",
+    "ut": 1647763751,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Babar Azam",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Second death in Sri Lanka fuel queue in 24 hours: report",
     "source": "economynext.com",
     "snippet": "A second senior citizen died Sunday (20) morning while waiting in line for fuel in cash-strapped Sri Lanka, media reports said, barely 24 hours after the death of a 71-year-old man under similar circumstances.",
@@ -1592,6 +1643,151 @@
         "start_end": [
           27,
           29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Govt to set up 2.2 m home gardens countrywide",
+    "source": "www.dailynews.lk",
+    "snippet": "The Government will set up 2.2 million home gardens countrywide early next month under the program \"For a green Country\". It will cover all Grama Nildhari divisions in the island. Almost 12,912 low income Samurdhi families are now entrusted with free quality fruit and vegetable plants to set up nurseries to grow the plants,",
+    "url": "https://www.dailynews.lk/2022/03/20/local/275211/govt-set-22-m-home-gardens-countrywide",
+    "url_hash": "737fa7bbdfd4d34b2623e91a8001fe31",
+    "ut": 1647769319,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "2.2 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "early next month",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Grama Nildhari",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Almost 12,912",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Elizabeth Hurley's emotional note on not being able to attend Shane Warne's funeral",
+    "source": "www.canindia.com",
+    "snippet": "English model and actress Elizabeth Hurley has penned an emotional note saying that her heart aches as she would not be able to attend the funeral of her former fiance, legendary Australian cricketer Shane Warne,",
+    "url": "https://www.canindia.com/elizabeth-hurleys-emotional-note-on-not-being-able-to-attend-shane-warnes-funeral/",
+    "url_hash": "e9dde4a0c6f2d3b5ac214e847b1631e5",
+    "ut": 1647770403,
+    "ent_info_list": [
+      {
+        "label": "LANGUAGE",
+        "text": "English",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Elizabeth Hurley",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Jaishankar welcomes Sri Lankan Finance Minister, holds productive talks on economic partnership",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "India will always be a reliable partner for Sri Lanka\", the MEA stated. India has stepped up and pledged a whopping USD 2.415 billion to the island nation to help overcome dire financial constraints caused by external debt payments and a lack of US dollars ...",
+    "url": "https://www.bignewsnetwork.com/news/272395585/jaishankar-welcomes-sri-lankan-finance-minister-holds-productive-talks-on-economic-partnership",
+    "url_hash": "5e68a5c0f0514575a3e512f9406ee471",
+    "ut": 1647770763,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MEA",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "USD 2.415 billion",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          46,
+          47
         ]
       }
     ]
