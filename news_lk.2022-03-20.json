@@ -192,6 +192,65 @@
   },
   {
     "date": "2022-03-20",
+    "title": "'Heart aches': Liz Hurley's sad reveal before Shane Warne's funeral",
+    "source": "nz.news.yahoo.com",
+    "snippet": "Liz Hurley has delivered a heartbreaking message on the eve of cricket legend Shane Warne's private funeral after not being able to attend the service. Hurley was engaged with Warne in 2013 and has expressed her devastation upon hearing of the cricket legend's death on March 4.",
+    "url": "https://nz.news.yahoo.com/shane-warne-2022-liz-hurleys-devastating-reveal-before-funeral-000154357.html",
+    "url_hash": "974e7ce2d2c4fb2b247ff331dcffdbe7",
+    "ut": 1647735908,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Liz Hurley",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne's",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Hurley",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Warne",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2013",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 4",
+        "start_end": [
+          48,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Colombo-based Western diplomats urge Sri Lanka to support Ukraine",
     "source": "www.sundaytimes.lk",
     "snippet": "As the oldest surviving democracy in Asia, history will judge Sri Lanka's stand of the 'middle path' on the Eastern European conflict. The conflict saw Russia invading Ukraine-a sovereign, democratic nation represented at the United Nations.",
@@ -420,6 +479,119 @@
         "start_end": [
           25,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "IMF urges Sri Lanka to restore macroeconomic stability",
+    "source": "www.sundaytimes.lk",
+    "snippet": "The International Monetary Fund (IMF) has emphasised the urgent need for Sri Lanka to implement a credible and coherent strategy to restore macroeconomic stability and debt sustainability, while protecting vulnerable groups through strengthened,",
+    "url": "https://www.sundaytimes.lk/220320/business-times/imf-urges-sri-lanka-to-restore-macroeconomic-stability-476811.html",
+    "url_hash": "c5fff87b1e0083337658c98c5c8abed1",
+    "ut": 1647739508,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Monetary Fund",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Sri Lanka Cricket - reflects the decadent country mindset!",
+    "source": "www.islandcricket.lk",
+    "snippet": "Victory and defeat are a part and parcel of sporting events. So, there was no grave reason to cry about the result of the last test series in India. What produces tears however, was the abject manner in which the Sri Lanka team folded up within a space of three days.",
+    "url": "https://www.islandcricket.lk/news/sri-lanka-cricket-reflects-the-decadent-country-mindset/",
+    "url_hash": "49d011686530b9f8539896a7c077a25a",
+    "ut": 1647739508,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three days",
+        "start_end": [
+          53,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Sri Lanka fuel queue claims first death: report",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - A person waiting in a queue to buy kerosene (paraffin) in the central Sri Lanka district of Kandy has died after collapsing, a media report said. Sri Lanka's Sirasa television said the 71 year old person was believed to be a resident of ...",
+    "url": "https://economynext.com/sri-lanka-fuel-queue-claims-first-death-report-91855/",
+    "url_hash": "936bacd6e9fc2ac83a21efdbba711914",
+    "ut": 1647741326,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          32,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sirasa",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "71 year old",
+        "start_end": [
+          39,
+          42
         ]
       }
     ]
