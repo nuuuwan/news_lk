@@ -1362,6 +1362,41 @@
   },
   {
     "date": "2022-03-20",
+    "title": "JVP to boycott All-Party Conference",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Janatha Vimukthi Peramuna (JVP) would not participate at the All- Party Conference (APC) convened by the President, as it was not meant to resolve the economic crisis but to resolve the political crisis within the government,",
+    "url": "https://www.dailymirror.lk/latest_news/JVP-to-boycott-All-Party-Conference/342-233432",
+    "url_hash": "8a82e1c872e9ad2afcee684a22a923f0",
+    "ut": 1647760175,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Janatha Vimukthi Peramuna",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the All-",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "APC",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Rival captains expect another slow wicket in series decider",
     "source": "apnews.com",
     "snippet": "Pakistan captain Babar Azam predicts another slow wicket will test the patience and skills of batters when the home team meets Australia in the decisive third and final test on Monday.",
@@ -2003,6 +2038,164 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Inflation Takes Its Toll On Humans In Lanka: Two Men In Their 70s Collapse And Die While Queuing Up For Fuel",
+    "source": "swarajyamag.com",
+    "snippet": "Two men in their seventies collapsed and died while waiting for petrol and kerosene in two different parts of Sri Lanka amidst rising inflation in the island country. \"One was a 70-year-old three-wheeler driver who was a diabetic and heart patient while the second was a 72-year-old,",
+    "url": "https://swarajyamag.com/world/human-cost-of-inflation-in-sri-lanka-two-men-in-their-70s-collapse-and-die-while-queuing-up-for-fuel",
+    "url_hash": "bcad6501aae5b56cce75585aab5d70e2",
+    "ut": 1647774945,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "70-year-old",
+        "start_end": [
+          33,
+          38
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          51,
+          52
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "72-year-old",
+        "start_end": [
+          54,
+          59
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Sri Lanka's China-backed port visited by Defence Attach\u00e9s",
+    "source": "economynext.com",
+    "snippet": "ECONOMYNEXT - Defence Attach\u00e9s from several embassies in Colombo had visited Sri Lanka's China-backed port in Hambantota International Port, its operating firm said. The visiting group represented the USA, Maldives, France, Germany, Kenya, Republic of ...",
+    "url": "https://economynext.com/sri-lankas-china-backed-port-visited-by-defence-attaches-91866/",
+    "url_hash": "044a7c4cf67da779192e23e6ba686e96",
+    "ut": 1647777484,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Hambantota International Port",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "USA",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "France",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Germany",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kenya",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
