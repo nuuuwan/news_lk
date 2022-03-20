@@ -2435,5 +2435,115 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Laugfs increases price of domestic gas",
+    "source": "colombogazette.com",
+    "snippet": "Laugfs Gas PLC, has increased the price of domestic gas with effect from today. Accordingly, the price of a 12.5kg domestic gas cylinder has been increased to Rs. 4,199 and a 5kg cylinder to Rs. 1,680.",
+    "url": "https://colombogazette.com/2022/03/20/laugfs-increases-price-of-domestic-gas/",
+    "url_hash": "25a9f1bfc21fb93f814c08fb215e5f9f",
+    "ut": 1647782605,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Laugfs Gas PLC",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "12.5kg",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4,199",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "5kg",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rs",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,680",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Two Die In Fuel Queues As Sri Lanka Grapples With Shortages",
+    "source": "www.channelstv.com",
+    "snippet": "At least two people in Sri Lanka died while waiting in long queues for fuel, officials said Sunday, as widespread shortages cause misery and hardship across the island nation. Sri Lanka is battling the worst economic crisis in its history as an independent nation,",
+    "url": "https://www.channelstv.com/2022/03/20/two-die-in-fuel-queues-as-sri-lanka-grapples-with-shortages/",
+    "url_hash": "2a3fe7b8649a9ec9eb192f3122a2c2f9",
+    "ut": 1647784923,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least two",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
   }
 ]
