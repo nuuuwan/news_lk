@@ -3346,6 +3346,25 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Sri Lanka - Second man dies while standing in a fuel queue",
+    "source": "menafn.com",
+    "snippet": "A second man has died while standing in a queue to purchase fuel.   The latest victim had died while standing at a petr",
+    "url": "https://menafn.com/1103878840/Sri-Lanka-Second-man-dies-while-standing-in-a-fuel-queue&source=24",
+    "url_hash": "3c6ef80a4880558ccfa47fff773340dc",
+    "ut": 1647799735,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "We must all share the pain of rising prices",
     "source": "www.thedailystar.net",
     "snippet": "Industry experts believe the prices could go even higher. Those desperate to move their goods can, of course, opt for airfreight. But that brings with it extra costs. And, of course, prices for airfreight are also on the rise.",
@@ -3672,6 +3691,151 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "2 die in fuel queues as Lanka grapples with shortages",
+    "source": "www.omanobserver.om",
+    "snippet": "At least two people in Sri Lanka died while waiting in long queues for fuel, as widespread shortages cause misery and hardship across the island nation. Sri Lanka is battling",
+    "url": "https://www.omanobserver.om/article/1116454/world/asia/2-die-in-fuel-queues-as-lanka-grapples-with-shortages",
+    "url_hash": "46872b09478a1a1a0b617b4cf378072e",
+    "ut": 1647808174,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least two",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Chinese Ambassador pays courtesy call on G.L. Peiris",
+    "source": "www.ft.lk",
+    "snippet": "Foreign Affairs Minister Prof. G.L Peiris held discussions with Ambassador of China in Sri Lanka Qi Zhenhong last week. ..",
+    "url": "https://www.ft.lk/news/Chinese-Ambassador-pays-courtesy-call-on-G-L-Peiris/56-732285",
+    "url_hash": "7db2fdae82efd36f0743109205b44510",
+    "ut": 1647808846,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "G.L Peiris",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qi Zhenhong",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last week",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Condominium property market remains resilient: CBSL survey",
+    "source": "www.ft.lk",
+    "snippet": "The Condominium Property Volume Index compiled by the Central Bank has increased significantly during Q4-2021 with a notable increase of 49.0% compared to Q4, 2020 and with a growth of 48.4% compared to Q3-2021.",
+    "url": "https://www.ft.lk/front-page/Condominium-property-market-remains-resilient-CBSL-survey/44-732289",
+    "url_hash": "d1e6ad37b5429951f28855bac03b07e8",
+    "ut": 1647809639,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Condominium Property Volume Index",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "49.0%",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Q4",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "48.4%",
+        "start_end": [
+          34,
+          36
         ]
       }
     ]
