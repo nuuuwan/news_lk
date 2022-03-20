@@ -1128,6 +1128,73 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Cup of milk tea to cost 100 rupees in Sri Lanka: reports",
+    "source": "economynext.com",
+    "snippet": "The price of a cup of milk tea in Sri Lanka shot up to 100 rupees on Sunday (20) after importers raised milk powder prices the previous day. Media reports quoting All Island Canteen Owners Association President Asela Sampath said the price of a cup of milk tea was increased taking into consideration rising prices of essential commodities including sugar.",
+    "url": "https://economynext.com/cup-of-milk-tea-to-cost-100-rupees-in-sri-lanka-reports-91860/",
+    "url_hash": "eb9951cff3dbaab081c6cbf45c601f6e",
+    "ut": 1647756542,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "100",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the previous day",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "All Island Canteen Owners Association",
+        "start_end": [
+          34,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Asela Sampath",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Cup of milk tea will be Rs.100 from tonight: Canteen Owners' Assn.",
     "source": "www.dailymirror.lk",
     "snippet": "From tonight, the All Island Canteen Owners' Association (AICOA) is to increase the price of a cup of milk tea Rs.100. ..",
@@ -1442,6 +1509,41 @@
         "start_end": [
           30,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Sri Lanka - Sri Lanka urged to join in active support for Ukraine",
+    "source": "menafn.com",
+    "snippet": "Sri Lanka has been urged by the diplomatic community based in Colombo, to join in active support for Ukraine.   The dip",
+    "url": "https://menafn.com/1103876530/Sri-Lanka-Sri-Lanka-urged-to-join-in-active-support-for-Ukraine",
+    "url_hash": "466f11ce666dae73327558ec2d42b5a7",
+    "ut": 1647763764,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
@@ -2438,6 +2540,167 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Red alert on cyclonic storm over Southeast Bay of Bengal issued",
+    "source": "www.dailymirror.lk",
+    "snippet": "The low-pressure area over Southeast Bay of Bengal has concentrated into a depression and lay centered at 8.30 am today (20) over Southeast Bay of Bengal and adjoining south Andaman Sea,'' the Meteorology Department said.",
+    "url": "https://www.dailymirror.lk/breaking_news/Red-alert-on-cyclonic-storm-over-Southeast-Bay-of-Bengal-issued/108-233435",
+    "url_hash": "60a2ca7323eaea8826d85cea9d7f01fb",
+    "ut": 1647781734,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Southeast Bay",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bengal",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "8.30 am today",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Southeast Bay",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bengal",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Andaman Sea",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Meteorology Department",
+        "start_end": [
+          37,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Man nabbed with Rs.120mn worth gold in Jaffna bound bus",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 38-year-old suspect was arrested while transporting over 6 kg of gold worth Rs. 120 million in a bus plying to Jaffna from Colombo, police said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Man-nabbed-with-Rs-120mn-worth-gold-in-Jaffna-bound-bus/108-233434",
+    "url_hash": "5b7f612ff1c8ff59e6d72471f1cb6803",
+    "ut": 1647781734,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "38-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "6 kg",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "120 million",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Jaffna",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Unable to Attend Shane Warne's Funeral, Liz Hurley Pens Emotional Note",
+    "source": "www.msn.com",
+    "snippet": "English model and actress Elizabeth Hurley has penned an emotional note saying that her heart aches as she would not be able to attend the funeral of her former fiance, legendary Australian cricketer Shane Warne,",
+    "url": "https://www.msn.com/en-in/entertainment/other/unable-to-attend-shane-warne-s-funeral-liz-hurley-pens-emotional-note/ar-AAVhOZi",
+    "url_hash": "18d6bd2ef537b9b1fc294b69127578de",
+    "ut": 1647781742,
+    "ent_info_list": [
+      {
+        "label": "LANGUAGE",
+        "text": "English",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Elizabeth Hurley",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Shane Warne",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Laugfs increases price of domestic gas",
     "source": "colombogazette.com",
     "snippet": "Laugfs Gas PLC, has increased the price of domestic gas with effect from today. Accordingly, the price of a 12.5kg domestic gas cylinder has been increased to Rs. 4,199 and a 5kg cylinder to Rs. 1,680.",
@@ -2542,6 +2805,33 @@
         "start_end": [
           32,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Liz Hurley's emotional note on not being able to attend Shane Warne's funeral",
+    "source": "timesofindia.indiatimes.com",
+    "snippet": "English model and actress Elizabeth Hurley has penned an emotional note saying that her heartaches as she would not be able to attend the funeral of h",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/liz-hurleys-emotional-note-on-not-being-able-to-attend-shane-warnes-funeral/articleshow/90338306.cms",
+    "url_hash": "b2b3940da7f1805c18ca5fe636baee4a",
+    "ut": 1647785342,
+    "ent_info_list": [
+      {
+        "label": "LANGUAGE",
+        "text": "English",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Elizabeth Hurley",
+        "start_end": [
+          4,
+          6
         ]
       }
     ]
