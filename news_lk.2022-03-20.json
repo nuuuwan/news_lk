@@ -3917,6 +3917,138 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Norris canal needs attention",
+    "source": "www.dailymirror.lk",
+    "snippet": "Norris Canal starting from Colombo National Hospital was built during the British colonial period to prevent the area from being.... ..",
+    "url": "https://www.dailymirror.lk/news-features/Norris-canal-needs-attention/131-233438",
+    "url_hash": "06601c31a5af4679df3f7e86ee7554a0",
+    "ut": 1647810525,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Norris Canal",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo National Hospital",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Origin and Development of Passion Plays in Sri Lanka",
+    "source": "www.dailymirror.lk",
+    "snippet": "The season Lent has dawned upon us once again and for most Catholics it's the liturgical season they cherish most, owing..... ..",
+    "url": "https://www.dailymirror.lk/news-features/Origin-and-Development-of-Passion-Plays-in-Sri-Lanka/131-233441",
+    "url_hash": "281d451693d9ac05adcf0d8f1e8a3643",
+    "ut": 1647810525,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Catholics",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "The Legendary Basketball Coach Ram Sunderalingam Is No More",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Centenary Benedictine Magazine of 1965 portrays Mr. Ram Sunderalingam thus; \"He was both a catalyst and a prophet..... ..",
+    "url": "https://www.dailymirror.lk/news-features/The-Legendary-Basketball-Coach-Ram-Sunderalingam-Is-No-More/131-233440",
+    "url_hash": "a69f0867ae7008b831238b6108316f90",
+    "ut": 1647810534,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Centenary Benedictine Magazine",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1965",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ram Sunderalingam",
+        "start_end": [
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "IMF to begin talks with Sri Lanka on program to support the country",
+    "source": "www.adaderana.lk",
+    "snippet": "The International Monetary Fund (IMF) intends to begin discussions with Sri Lanka on a programme to support the country, IMF spokesman Gerry Rice says",
+    "url": "http://www.adaderana.lk/news/81271/imf-to-begin-talks-with-sri-lanka-to-support-the-country",
+    "url_hash": "03af55ddf5b719b480f8a5a73e2bfdf0",
+    "ut": 1647810534,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Monetary Fund",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gerry Rice",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Northern Pre-School Teachers Quest for Survival",
     "source": "www.dailymirror.lk",
     "snippet": "Most of us, having spent over a decade growing with schools as much as we did with our families, are constantly reminded..... ..",
@@ -4050,6 +4182,41 @@
         "start_end": [
           14,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Nandalal Weerasinghe and Ganeshan Wignaraja",
+    "source": "www.dailynews.lk",
+    "snippet": "In late February 2022, the crisis between Russia and Ukraine escalated. The global economy was just beginning to recover from COVID-19 after recording the worst economic performance since the great...",
+    "url": "https://www.dailynews.lk/line/nandalal-weerasinghe-and-ganeshan-wignaraja",
+    "url_hash": "4a38321d4fe1de5ac55e2361015ee142",
+    "ut": 1647816109,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "late February 2022",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          10,
+          11
         ]
       }
     ]
