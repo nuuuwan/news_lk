@@ -2905,6 +2905,33 @@
   },
   {
     "date": "2022-03-20",
+    "title": "'A form of cruelty': 51 asylum seekers brought to Australia under medevac laws still languish in detention",
+    "source": "www.theguardian.com",
+    "snippet": "Since 2017 about 206 refugees have been released but their freedom highlights the 'random' way others remain locked up",
+    "url": "https://www.theguardian.com/australia-news/2022/mar/21/a-form-of-cruelty-51-asylum-seekers-brought-to-australia-under-medevac-laws-still-languish-in-detention",
+    "url_hash": "9da6f50367add3f12ad04730911674d0",
+    "ut": 1647788990,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2017",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "about 206",
+        "start_end": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Daily brief: India's foreign policy better than Pakistan, says Imran Khan and all the latest news",
     "source": "www.msn.com",
     "snippet": "Here are today's top news, analysis, and opinion. Know all about the latest news and other news updates from Hindustan Times.",
@@ -3117,6 +3144,143 @@
         "start_end": [
           28,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Raid Amazones day 6 ''Treasure hunt''",
+    "source": "www.ft.lk",
+    "snippet": "The 6th day challenge ''Treasure hunt'' .They have to climb 1300 steps (370m high) from the Lion Rock, the most visited site in Sri Lanka. ..",
+    "url": "https://www.ft.lk/ft_tv/Raid-Amazones-day-6-Treasure-hunt/10520-732244",
+    "url_hash": "00770800635adee9ccd04f62183b845a",
+    "ut": 1647796194,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "6th",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1300",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "370",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Lion Rock",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Indonesia and Sri Lanka to further strengthen bilateral relations",
+    "source": "colombogazette.com",
+    "snippet": "At the meeting, they also discussed the 70th anniversary of Indonesia-Sri Lanka diplomatic relations and the plan to hold the 3rd Joint Commission for Bilateral Cooperation. (Colombo Gazette)",
+    "url": "https://colombogazette.com/2022/03/20/indonesia-and-sri-lanka-to-further-strengthen-bilateral-relations/",
+    "url_hash": "b490559a6f109002866e33d4ada4b26a",
+    "ut": 1647799263,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "70th",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the 3rd Joint Commission for Bilateral Cooperation",
+        "start_end": [
+          22,
+          29
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Colombo Gazette",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Sri Lanka - Ranjan Ramanayake admitted to hospital",
+    "source": "menafn.com",
+    "snippet": "Former Parliamentarian Ranjan Ramanayake was admitted to the Colombo National Hospital today.   The Prisons Department",
+    "url": "https://menafn.com/1103878841/Sri-Lanka-Ranjan-Ramanayake-admitted-to-hospital&source=27",
+    "url_hash": "2eadb3fc60523667a667f3310e4f9ea6",
+    "ut": 1647799623,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Parliamentarian Ranjan Ramanayake",
+        "start_end": [
+          1,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Colombo National Hospital",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Prisons Department",
+        "start_end": [
+          14,
+          17
         ]
       }
     ]
