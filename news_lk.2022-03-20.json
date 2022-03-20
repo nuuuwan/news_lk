@@ -668,6 +668,49 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Sapugaskanda refinery to stop operations from tomorrow: CPC Chairman",
+    "source": "www.dailymirror.lk",
+    "snippet": "The fuel refinery operations at the Sapugaskanda oil refinery will be suspended from tomorrow, Ceylon Petrolium Corporation (CPC) Chairman Sumith Wijesinghe said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Sapugaskanda-refinery-to-stop-operations-from-tomorrow-CPC-Chairman/108-233425",
+    "url_hash": "b978aad1e9b9f99c527aa7145d79b404",
+    "ut": 1647742150,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sapugaskanda",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Petrolium Corporation",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sumith Wijesinghe",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Cyclone Asani update: Evacuation process starts; fishermen alerted. Check date, time and how to track",
     "source": "www.livemint.com",
     "snippet": "The storm is likely to bring extremely heavy rainfall to Andaman and Nicobar Island. Meanwhile, fishermen have already been warned not to venture into the sea.",
@@ -817,6 +860,41 @@
     "url": "https://www.dailymirror.lk/breaking_news/Milk-powder-to-be-released-to-market-in-April-with-no-increase-in-prices-MILCO-chairman/108-233427",
     "url_hash": "8b85a8db3211f6f59cf9e22a771b261f",
     "ut": 1647752926,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The MILCO Private Limited",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Renuka Perera",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Milk powder to be released to market in April with no increase in prices: MILCO chairman",
+    "source": "www.dailymirror.lk",
+    "snippet": "The MILCO Private Limited said they have resumed the milkpowder manufacturing process and stocks will be back on the market shelves by April without increasing its prices, its chairman, Renuka Perera said .",
+    "url": "https://www.dailymirror.lk/latest_news/Milk-powder-to-be-released-to-market-in-April-with-no-increase-in-prices-MILCO-chairman/342-233427",
+    "url_hash": "9dfd1ab22684e718685e0665924b49e2",
+    "ut": 1647752950,
     "ent_info_list": [
       {
         "label": "ORG",
@@ -1007,6 +1085,25 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Laugfs increases gas prices",
+    "source": "www.dailymirror.lk",
+    "snippet": "The price of a laugfs gas has been increased due to the rupee depreciating against the dollar, Deputy Chairman of Laugfs Gas Thilak de Silva said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Laugfs-increases-gas-prices/108-233429",
+    "url_hash": "4b4c4c62592f59d54fb99213cc2f6ece",
+    "ut": 1647756550,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Laugfs Gas Thilak de Silva",
+        "start_end": [
+          21,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Cuppa milk tea to cost 100 rupees more in Sri Lanka",
     "source": "economynext.com",
     "snippet": "The price of a cup of milk tea in Sri Lanka shot up by 100 rupees on Sunday (20) after importers raised milk powder prices the previous day. Media reports quoting All Island Canteen Owners Association President Asela Sampath said the price of a cup of milk tea was increased taking into consideration rising prices of essential commodities including sugar.",
@@ -1119,6 +1216,33 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Another man dies fainting in a fuel queue in Kadawatha",
+    "source": "www.dailymirror.lk",
+    "snippet": "Another senior citizen who fainted while standing in a fuel queue in Kadawatha has died on admission to hospital today. ..",
+    "url": "https://www.dailymirror.lk/top_story/Another-man-dies-fainting-in-a-fuel-queue-in-Kadawatha/155-233431",
+    "url_hash": "7273854af7933ebb04d55e2750f6917d",
+    "ut": 1647760150,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Kadawatha",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          19,
+          20
         ]
       }
     ]
