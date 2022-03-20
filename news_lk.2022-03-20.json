@@ -450,6 +450,33 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Sri Lanka fuel queue claims first death",
+    "source": "economynext.com",
+    "snippet": "A person waiting in a queue to buy kerosene (paraffin) in the central Sri Lanka district of Kandy has died after collapsing, a media report said.",
+    "url": "https://economynext.com/sri-lanka-fuel-queue-claims-first-death-91855/",
+    "url_hash": "2321ff563bb514daa1d94b8451313b55",
+    "ut": 1647738573,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kandy",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Australian mining company halts mineral explorations in Mannar",
     "source": "www.sundaytimes.lk",
     "snippet": "Australian mining company, Titanium Sands Ltd, currently carrying out extensive Ilmenite sand mining with a licence obtained in an allegedly irregular way on Mannar Island has decided to halt operations,",
@@ -778,6 +805,132 @@
         "start_end": [
           26,
           28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Obituary: Patricia Parker",
+    "source": "www.pressherald.com",
+    "snippet": "Patricia Parker was born in Washington, D.C. to James Lawson and Eloise Smith Lawson, Oct. 29, 1941, and was raised in the D.C. suburbs of Silver Spring and Takoma Park, Md. with her three younger siblings,",
+    "url": "https://www.pressherald.com/2022/03/20/obituarypatricia-parker/",
+    "url_hash": "0fb3f9f918ec2eb20fcc946bb8ff1b83",
+    "ut": 1647752956,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Patricia Parker",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "D.C.",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "James Lawson",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Eloise Smith Lawson",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Oct. 29, 1941",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "D.C.",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Silver Spring",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Takoma Park",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Md.",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Cyclone Asani: Coast Guard Warns Fishermen, Mariners Not To Venture Into Bay Of Bengal",
+    "source": "www.republicworld.com",
+    "snippet": "Indian Coast Guard (ICG) ships and planes are relaying weather warnings to all vessels and fishermen at sea amid Cyclone Asani.",
+    "url": "https://www.republicworld.com/india-news/general-news/cyclone-asani-coast-guard-warns-fishermen-mariners-not-to-venture-into-bay-of-bengal-articleshow.html",
+    "url_hash": "2fe5f0dbad8a98335b825e58f33bf21e",
+    "ut": 1647753256,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Indian Coast Guard",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cyclone Asani",
+        "start_end": [
+          21,
+          23
         ]
       }
     ]
