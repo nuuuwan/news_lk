@@ -595,5 +595,32 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Cyclone Asani update: Evacuation process starts; fishermen alerted. Check date, time and how to track",
+    "source": "www.livemint.com",
+    "snippet": "The storm is likely to bring extremely heavy rainfall to Andaman and Nicobar Island. Meanwhile, fishermen have already been warned not to venture into the sea.",
+    "url": "https://www.livemint.com/news/india/cyclone-asani-update-evacuation-process-starts-fishermen-alerted-check-date-time-and-how-to-track-11647700205827.html",
+    "url_hash": "6b75a0dbbf2285140d290b59ebe73ea3",
+    "ut": 1647744000,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Andaman",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nicobar Island",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
   }
 ]
