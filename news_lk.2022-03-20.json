@@ -2843,6 +2843,49 @@
   },
   {
     "date": "2022-03-20",
+    "title": "Man nabbed with Rs.120mn worth gold in Jaffna bound bus",
+    "source": "www.dailymirror.lk",
+    "snippet": "A 38-year-old suspect was arrested while transporting over 6 kg of gold worth Rs. 120 million in a bus plying to Jaffna from Colombo, police said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Man-nabbed-with-Rs-120mn-worth-gold-in-Jaffna-bound-bus/342-233434",
+    "url_hash": "0673f2249cd5a59c464574d373d151d7",
+    "ut": 1647782473,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "38-year-old",
+        "start_end": [
+          1,
+          6
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "6 kg",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "120 million",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Jaffna",
+        "start_end": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "Laugfs increases price of domestic gas",
     "source": "colombogazette.com",
     "snippet": "Laugfs Gas PLC, has increased the price of domestic gas with effect from today. Accordingly, the price of a 12.5kg domestic gas cylinder has been increased to Rs. 4,199 and a 5kg cylinder to Rs. 1,680.",
@@ -4182,6 +4225,33 @@
         "start_end": [
           14,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Personal Data Protection Bill: Another draconian law to suppress media freedom?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Digital platforms have made life easier for millions of users. But oftentimes, privacy issues have raised concerns among developed..... ..",
+    "url": "https://www.dailymirror.lk/news-features/Personal-Data-Protection-Bill-Another-draconian-law-to-suppress-media-freedom/131-233442",
+    "url_hash": "002c19cb5c8919706771dacfa7257863",
+    "ut": 1647811273,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Digital",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          7,
+          8
         ]
       }
     ]
