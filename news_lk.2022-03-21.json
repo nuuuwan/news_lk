@@ -6705,5 +6705,150 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Sri Lanka's economic crisis requires stronger policy response",
+    "source": "www.ft.lk",
+    "snippet": "The key macroeconomic indicators reveal the extent of the economic crisis facing Sri Lanka. Indicators in all areas of the economy are at their worst level in recent years and in some cases at levels never seen in the post-independence history of this country.",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-economic-crisis-requires-stronger-policy-response/4-732312",
+    "url_hash": "a143fa7d9185167f4eee398901733098",
+    "ut": 1647897827,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "recent years",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Inaugural list of Best Workplaces in the Manufacturing and Production industry in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "The Manufacturing and Production (M&P) sector is a vitally important one to Sri Lanka, contributing 15.5% of the nation's GDP and employing 17.5% of the total labour force (CBSL, 2020). ..",
+    "url": "https://www.ft.lk/special-report/Inaugural-list-of-Best-Workplaces-in-the-Manufacturing-and-Production-industry-in-Sri-Lanka/22-732329",
+    "url_hash": "407fb2ec358aa558b37613530f6d435b",
+    "ut": 1647899147,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Manufacturing and Production",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "15.5%",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "17.5%",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2020",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Sri Lanka seeks more Chinese cash as crisis claims fourth life",
+    "source": "www.macaubusiness.com",
+    "snippet": "Beijing is considering a request for another $2.5 billion loan package from crisis-hit Sri Lanka, China's ambassador said Monday, as a man was stabbed to death while queuing at a fuel station. The island nation of 22 million people is in the throes of its worst economic meltdown since independence in 1948,",
+    "url": "https://www.macaubusiness.com/sri-lanka-seeks-more-chinese-cash-as-crisis-claims-fourth-life/",
+    "url_hash": "13ac1674b15410c656314c44dacb2805",
+    "ut": 1647899552,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$2.5 billion",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22 million",
+        "start_end": [
+          43,
+          45
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1948",
+        "start_end": [
+          58,
+          59
+        ]
+      }
+    ]
   }
 ]
