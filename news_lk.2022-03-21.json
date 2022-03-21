@@ -3697,6 +3697,49 @@
   },
   {
     "date": "2022-03-21",
+    "title": "SL ranks 2nd in Asia Pacific region for remote work",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka ranks as the second most preferred destination in the Asia Pacific region for remote work, according to the 'Work from Wherever Index' from KAYAK. ..",
+    "url": "https://www.dailymirror.lk/business/SL-ranks-2nd-in-Asia-Pacific-region-for-remote-work/215-233507",
+    "url_hash": "d3c131bbc415fd81ba9080640eab95be",
+    "ut": 1647853933,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Asia Pacific",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "KAYAK",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
     "title": "Two die in fuel queues as Sri Lanka grapples with shortages",
     "source": "www.daily-sun.com",
     "snippet": "At least two people in Sri Lanka died while waiting in long queues for fuel, officials said Sunday, as widespread shortages cause misery and hardship across the island nation. Sri Lanka is battling the worst economic crisis in its history as an independent nation,",
@@ -3871,6 +3914,33 @@
         "start_end": [
           19,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Price of face masks too goes up",
+    "source": "www.dailymirror.lk",
+    "snippet": "In the wake of Dollar value going up day by day against the rupee, the prices of all types of face masks have been increased by 30%, local manufactures said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Price-of-face-masks-too-goes-up/108-233509",
+    "url_hash": "1b0cb74cebfe27e8c53beaac065f7767",
+    "ut": 1647857533,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "up day by day",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "30%",
+        "start_end": [
+          27,
+          29
         ]
       }
     ]
@@ -4174,6 +4244,132 @@
         "start_end": [
           10,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Fuel distribution should continue for 24-hrs to overcome current fuel crisis: Ananda Palitha",
+    "source": "www.dailymirror.lk",
+    "snippet": "To overcome the country's current fuel crisis and control the unfortunate deaths in queues, fuel distribution must continue uninterrupted for the next 24 hours, Samagi United Trade Union Force (SUTUF) convenor and media spokesman Ananda Palitha said.",
+    "url": "https://www.dailymirror.lk/latest_news/Fuel-distribution-should-continue-for-24-hrs-to-overcome-current-fuel-crisis-Ananda-Palitha/342-233513",
+    "url_hash": "787486002342ba1e0afcda33304ba51b",
+    "ut": 1647861133,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "the next 24 hours",
+        "start_end": [
+          22,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Samagi United Trade Union Force",
+        "start_end": [
+          27,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SUTUF",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ananda Palitha",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "VitalHub Announces Three-Year Expansion Licensing Contract With University Hospitals Dorset NHS Foundation Trust",
+    "source": "www.yahoo.com",
+    "snippet": "VitalHub Corp. (the \"Company\" or \"VitalHub\") (TSX: VHI) is pleased to announce a three-year expansion licensing agreement of subsidiary Intouch with Health's (\"Intouch\") patient flow solutions with University Hospitals Dorset NHS Foundation Trust (the \"Trust\" or \"Dorset\").",
+    "url": "https://www.yahoo.com/now/vitalhub-announces-three-expansion-licensing-113000414.html",
+    "url_hash": "63594af770bd1a8e61bdb66fa2fe61ef",
+    "ut": 1647861150,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VitalHub Corp.",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "VitalHub",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TSX",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VHI",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three-year",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Intouch with Health's",
+        "start_end": [
+          30,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "University Hospitals Dorset NHS Foundation Trust",
+        "start_end": [
+          43,
+          49
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Trust",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Dorset",
+        "start_end": [
+          56,
+          57
         ]
       }
     ]
@@ -4772,6 +4968,153 @@
         "start_end": [
           21,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Train ticket reservations now online",
+    "source": "www.dailymirror.lk",
+    "snippet": "While transitioning the entire ticketing system to a digital based system, the railways department launched a mobile app and a website today to make it easier for commuters to reserve seats online. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Train-ticket-reservations-now-online/108-233514",
+    "url_hash": "c7219e1860dce2a79a779216f76a2b76",
+    "ut": 1647864733,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "CWC and TPA also pull out of All Party Conference",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Ceylon Workers Congress which is part of the government and led by State Minister Jeevan Thondaman and the opposition Tamil Progressive Alliance led by Mano Ganeshan have also decided not to attend the All Party Conference chaired by President Gotabaya Rajapaksa on Wednesday.",
+    "url": "https://www.dailymirror.lk/breaking_news/CWC-and-TPA-also-pull-out-of-All-Party-Conference/108-233515",
+    "url_hash": "6c59356e7432c6f4ef86d2ea1f164d3f",
+    "ut": 1647864733,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ceylon Workers Congress",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jeevan Thondaman",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamil Progressive Alliance",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mano Ganeshan",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the All Party Conference",
+        "start_end": [
+          33,
+          37
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          40,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Zone24x7 pioneers Sri Lanka's first-ever Quality Engineering Academy",
+    "source": "www.dailymirror.lk",
+    "snippet": "With most organizations undergoing digital transformation, we have seen an unprecedented demand for the delivery of quality products at rapid speeds. ..",
+    "url": "https://www.dailymirror.lk/other/Zone24x7-pioneers-Sri-Lankas-first-ever-Quality-Engineering-Academy/117-233516",
+    "url_hash": "16d910258f15edd506d55c40a83e9524",
+    "ut": 1647864733,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Bicentenary Of Birth Of Tamil Saint Sri La Sri Arumuga Navalar: Here's Why You Should Know About Him",
+    "source": "swarajyamag.com",
+    "snippet": "Sri La Sri Arumuga Navalar is a name not known much outside Tamil Nadu. Even inside Tamil Nadu, his name is more associated with the controversy he had with Ramalinga Vallalar, th",
+    "url": "https://swarajyamag.com/culture/bicentenary-of-birth-of-tamil-saint-sri-la-sri-arumuga-navalar-heres-why-you-should-know-about-him",
+    "url_hash": "af6a7e9c986cfcf6a11796d895f6c9d9",
+    "ut": 1647866134,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri La Sri Arumuga Navalar",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Tamil Nadu",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ramalinga Vallalar",
+        "start_end": [
+          31,
+          33
         ]
       }
     ]
