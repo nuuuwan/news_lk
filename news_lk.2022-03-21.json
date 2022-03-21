@@ -2262,6 +2262,57 @@
   },
   {
     "date": "2022-03-21",
+    "title": "China may give Sri Lanka US$2.5bn in loans, trade credits",
+    "source": "economynext.com",
+    "snippet": "China is considering 2.5 billion US dollars in a loan and buyers credit to Sri Lanka Beijing's Ambassador to Colombo Qi Zhenhong as the country is trying hard to repay foreign debt amid a forex crisis triggered by money printed to enforce low interest rates on top of tax cuts.",
+    "url": "https://economynext.com/china-may-give-sri-lanka-us2-5bn-in-loans-trade-credits-91884/",
+    "url_hash": "be09d4a8dd91c3f0a342f0f49c1bf3fd",
+    "ut": 1647842975,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "2.5 billion US dollars",
+        "start_end": [
+          3,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qi Zhenhong",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
     "title": "Pat Cummins shares his thoughts on KKR captain Shreyas Iyer",
     "source": "crictoday.com",
     "snippet": "Cummins will be handy for Iyer, considering his captaincy experience. He was unstoppable during the T20I series against Sri Lanka.",
@@ -5166,6 +5217,199 @@
         "start_end": [
           31,
           33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "13 year old Mumbai autistic girl swims across Palk Strait, sets record",
+    "source": "www.newindianexpress.com",
+    "snippet": "KOCHI: A 13-year-old Maharashtra girl suffering from Autistic spectrum disorder has set a new record by swimming across the Palk Strait from Talaimannar in Sri Lanka to Dhanuskodi in Tamil Nadu, covering a distance of 29 km in 13 hours and 10 minutes on Sunday.",
+    "url": "https://www.newindianexpress.com/good-news/2022/mar/21/13-year-old-mumbai-autistic-girl-swims-across-palk-strait-sets-record-2432626.html",
+    "url_hash": "8c2baea68da46d01716003260bc2773e",
+    "ut": 1647871771,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "KOCHI",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "13-year-old",
+        "start_end": [
+          3,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Maharashtra",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Autistic",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Palk Strait",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Talaimannar",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dhanuskodi",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil Nadu",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "29 km",
+        "start_end": [
+          41,
+          43
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "13 hours",
+        "start_end": [
+          44,
+          46
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10 minutes",
+        "start_end": [
+          47,
+          49
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Defending champions Kandy prevail in thriller",
+    "source": "www.dailymirror.lk",
+    "snippet": "Kandy Sports Club proved that they are no pushovers at home when they not only won against Havelock Sports Club but also ended their unbeaten run when they beat them by 22 points (three tries, two conversions,",
+    "url": "https://www.dailymirror.lk/top-story-sports-1/Defending-champions-Kandy-prevail-in-thriller/324-233517",
+    "url_hash": "f53e16803a3a91e66ef8b8e38e305d12",
+    "ut": 1647871988,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Kandy Sports Club",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Havelock Sports Club",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Sri Lanka govt panel says international financial assistance needed",
+    "source": "www.msn.com",
+    "snippet": "A Sri Lanka government-appointed committee on Monday said the crisis-hit country's central bank and finance ministry must form a team to seek urgent international financial assistance as its economy reels under a foreign currency shortage.",
+    "url": "https://www.msn.com/en-us/money/markets/sri-lanka-govt-panel-says-international-financial-assistance-needed/ar-AAVjPVe",
+    "url_hash": "69cc531d3cfd4de38397f9837270459d",
+    "ut": 1647874757,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          8,
+          9
         ]
       }
     ]
