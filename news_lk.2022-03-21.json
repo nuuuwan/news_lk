@@ -250,5 +250,149 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Help wanted: tech firms in Vietnam seek Chinese speakers",
+    "source": "www.ft.com",
+    "snippet": "She chose Chinese instead and is now in her final year of college in Vietnam. Her timing could hardly have been better. From Apple suppliers Foxconn and GoerTek\u00a0to makers of tyres and textiles, a boom of investment from greater China has hit Vietnam and boosted demand for staff members with exactly Hoa's skills.",
+    "url": "https://www.ft.com/content/11645070-8a85-41ef-afbe-37f21f79ad0b",
+    "url_hash": "3c99144a897c47ce5b22a1a83f8daaef",
+    "ut": 1647827991,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "her final year",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Apple",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Foxconn",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "GoerTek\u00a0",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          44,
+          45
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Vietnam",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hoa",
+        "start_end": [
+          56,
+          57
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Sri Lanka to seek IMF-supported program to manage debt repayment",
+    "source": "www.msn.com",
+    "snippet": "Tax hikes and spending cuts will reduce the budget deficit and domestic credit, keeping down the corrective interest rate.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-to-seek-imf-supported-program-to-manage-debt-repayment/ar-AAVixkq",
+    "url_hash": "bb0d9dfaacd97fa4f9a3366e2018e03e",
+    "ut": 1647828098,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Viren and Ranithma clinch Southern Open Shuttle Titles",
+    "source": "www.msn.com",
+    "snippet": "Viren Nettasinghe and Ranithma Liyanage emerged men's and women's open champions at the Premasiri Halabage Memorial Southern Open All Island Badminton Championships ... under the auspices of Sri Lanka Badminton (SLB).The finals were held at Dadalla Indoor ...",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/viren-and-ranithma-clinch-southern-open-shuttle-titles/ar-AAViBXK",
+    "url_hash": "15b6fde60960189bf0ffb7695bfd6bc9",
+    "ut": 1647829058,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Viren Nettasinghe",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranithma Liyanage",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Premasiri Halabage Memorial Southern Open All Island Badminton Championships",
+        "start_end": [
+          14,
+          24
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Sri Lanka",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Dadalla Indoor",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
   }
 ]
