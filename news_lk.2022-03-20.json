@@ -3815,6 +3815,73 @@
   },
   {
     "date": "2022-03-20",
+    "title": "SriLankan Aviation College successfully concludes training for Pakistani aviation entities",
+    "source": "www.ft.lk",
+    "snippet": "SriLankan Aviation College recently concluded seven Airbus A320 NEO and Airbus A330 Level III Differences training sessions for Gerry's dnata and Airblue teams successfully. ..",
+    "url": "https://www.ft.lk/shippingaviation/SriLankan-Aviation-College-successfully-concludes-training-for-Pakistani-aviation-entities/21-732255",
+    "url_hash": "29a9554fbe5e5d328cfac172f3beb0c9",
+    "ut": 1647805008,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SriLankan Aviation College",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Airbus A320 NEO",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Airbus",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "A330 Level",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Gerry",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Airblue",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
     "title": "2 die in fuel queues as Lanka grapples with shortages",
     "source": "www.omanobserver.om",
     "snippet": "At least two people in Sri Lanka died while waiting in long queues for fuel, as widespread shortages cause misery and hardship across the island nation. Sri Lanka is battling",
@@ -3844,6 +3911,41 @@
         "start_end": [
           28,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-20",
+    "title": "Sri Lanka grapples with shortages",
+    "source": "www.thedailystar.net",
+    "snippet": "At least two people in Sri Lanka died while waiting in long queues for fuel, officials said yesterday, as widespread shortages cause misery and hardship across the island nation.",
+    "url": "https://www.thedailystar.net/news/asia/south-asia/news/sri-lanka-grapples-shortages-2987231",
+    "url_hash": "bcc92402e37f63a412089687d1a464e1",
+    "ut": 1647808595,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least two",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          18,
+          19
         ]
       }
     ]

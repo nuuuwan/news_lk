@@ -148,5 +148,107 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Sri Lanka to seek IMF-supported program to manage debt repayment",
+    "source": "theprint.in",
+    "snippet": "Amid the ongoing economic crisis, Sri Lanka is seeking the help of the International Monetary Fund (IMF) to restructure its unsustainable debt with Finance Minister Basil Rajapaksa's visiting Washington next month.",
+    "url": "https://theprint.in/world/sri-lanka-to-seek-imf-supported-program-to-manage-debt-repayment/881417/",
+    "url_hash": "9a92811b3f2bbb7449643a37d7fa4b32",
+    "ut": 1647822995,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Finance",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa's",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next month",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Two die in fuel queues in Sri Lanka",
+    "source": "www.brecorder.com",
+    "snippet": "COLOMBO: At least two people in Sri Lanka died while waiting in long queues for fuel, officials said Sunday, as widespread shortages cause misery and hardship across the island nation. Sri Lanka is battling the worst economic crisis in its history as an independent nation,",
+    "url": "https://www.brecorder.com/news/40162028/two-die-in-fuel-queues-in-sri-lanka",
+    "url_hash": "897478ec47c25e6678cce09aebb391da",
+    "ut": 1647822995,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "At least two",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
   }
 ]
