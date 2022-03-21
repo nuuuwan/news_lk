@@ -3437,6 +3437,33 @@
   },
   {
     "date": "2022-03-21",
+    "title": "Moffitt Services Matching Campaign for Texas EquuSearch",
+    "source": "www.durangoherald.com",
+    "snippet": "To inspire others to support Texas EquuSearch, Moffitt Services has generously committed to match, dollar for dollar, contributions of up to",
+    "url": "https://www.durangoherald.com/articles/moffitt-services-matching-campaign-for-texas-equusearch/",
+    "url_hash": "edbb188fe6304df275006ac2805d9b50",
+    "ut": 1647850163,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Texas",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Moffitt Services",
+        "start_end": [
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
     "title": "Sri Lanka in Talks With China for $2.5 Billion Credit Support -Chinese Official",
     "source": "money.usnews.com",
     "snippet": "China is considering offering a $1.5 billion credit facility to Sri Lanka and a decision is expected soon, a top Chinese official said on Monday, as part of efforts to help the island nation amid its worst economic crisis in decades.",
@@ -6460,6 +6487,127 @@
         "start_end": [
           35,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Four cardinal mistakes the president did not admit in his speech",
+    "source": "www.dailymirror.lk",
+    "snippet": "President Gotabaya Rajapaksa addressed a nation in crisis. Instead of calming the masses, a good part of whose life is now spent in everyday queues, he managed to further enrage them. What could probably be the operating para of his sp .",
+    "url": "https://www.dailymirror.lk/opinion/Four-cardinal-mistakes-the-president-did-not-admit-in-his-speech/172-233551",
+    "url_hash": "905e83572a6e40118d59539136e2ed17",
+    "ut": 1647886145,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "A speech made by D.S Senanayake Reviewing issues obstructing freedom of education",
+    "source": "www.dailymirror.lk",
+    "snippet": "These criticisms may have been interpreted by some to unfairly accuse D.S. Senanayake of not supporting 'Free Education' Today even a large number of so called schools are in such a bad state that they are not fit even for cattle to take shelter Admissions to schools have become a nightmare to parents for whom it is a herculean task to get one's child into a school today Though Sri Lanka was a British Colony the introduction of the Donoughmore Constitution in 1931 transferred the administration of Sri Lanka to the Ceylonese of the State Council.",
+    "url": "https://www.dailymirror.lk/news-features/A-speech-made-by-D-S-Senanayake-Reviewing-issues-obstructing-freedom-of-education/131-233552",
+    "url_hash": "62fc4f685fae2a943665d19391e22407",
+    "ut": 1647889745,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "D.S. Senanayake",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Admissions",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "today Though Sri Lanka",
+        "start_end": [
+          70,
+          74
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          76,
+          77
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Donoughmore Constitution",
+        "start_end": [
+          81,
+          84
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1931",
+        "start_end": [
+          85,
+          86
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          90,
+          92
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the State Council",
+        "start_end": [
+          96,
+          99
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Frustration growing in a 'land milked of honey'",
+    "source": "www.dailymirror.lk",
+    "snippet": "Our country's finances are in a parlous position. The country is indebted to the tune of several billion dollars and reserves are, to put it ..",
+    "url": "https://www.dailymirror.lk/opinion/Frustration-growing-in-a-land-milked-of-honey/172-233550",
+    "url_hash": "ecd50a2feba23c3f484894309ff4aece",
+    "ut": 1647889745,
+    "ent_info_list": [
+      {
+        "label": "MONEY",
+        "text": "several billion dollars",
+        "start_end": [
+          18,
+          21
         ]
       }
     ]
