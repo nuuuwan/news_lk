@@ -1542,6 +1542,49 @@
   },
   {
     "date": "2022-03-21",
+    "title": "Sri Lanka - Indonesia and Sri Lanka to further strengthen bilateral relations",
+    "source": "menafn.com",
+    "snippet": "Indonesia and Sri Lanka are to further strengthen bilateral relations between the two countries.   The Indonesian Ambas",
+    "url": "https://menafn.com/1103879231/Sri-Lanka-Indonesia-and-Sri-Lanka-to-further-strengthen-bilateral-relations",
+    "url_hash": "c6d9b718afdaf1f6ade3ccec80a99f8e",
+    "ut": 1647832202,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Indonesia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indonesian",
+        "start_end": [
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
     "title": "UK - Sri Lanka seeks IMF bailout",
     "source": "menafn.com",
     "snippet": "COLOMBO \u2014 Sri Lanka will seek an International Monetary Fund (IMF) bailout, President Gotabaya Rajapaksa said on Wednesday, as it battles inflati",
@@ -2256,6 +2299,33 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "President's Office refutes social media claims on GR's resignation",
+    "source": "www.dailymirror.lk",
+    "snippet": "In response to reports being circulated on social media claming that President Gotabaya Rajapaksa is pondering his resignation, President's Spokesman Kingsly Rathnayake told Daily Mirror that such reports contain no truth and are baseless.",
+    "url": "https://www.dailymirror.lk/latest_news/Presidents-Office-refutes-social-media-claims-on-GRs-resignation/342-233496",
+    "url_hash": "580fe6b1401872f0561b665c8e8daec7",
+    "ut": 1647842969,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
