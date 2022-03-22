@@ -7060,6 +7060,49 @@
   },
   {
     "date": "2022-03-21",
+    "title": "China mulls package to ease Sri Lanka's economic crisis",
+    "source": "mynorthwest.com",
+    "snippet": "China's ambassador to Sri Lanka said Monday it is considering a request for $2.5 billion in assistance to help the island",
+    "url": "https://mynorthwest.com/3401120/china-mulls-package-to-ease-sri-lankas-economic-crisis/",
+    "url_hash": "5a98b26c9d1c7e796b4e311a6f520879",
+    "ut": 1647886347,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$2.5 billion",
+        "start_end": [
+          14,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
     "title": "Viren, Ranithma clinch Southern Open badminton titles",
     "source": "www.dailymirror.lk",
     "snippet": "Top seeds Viren Nettasinghe and Ranithma Liyanage were crowned men's and women's champions respectively at the Pre ..",
@@ -7261,6 +7304,73 @@
         "start_end": [
           27,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "China mulls package to ease Sri Lanka's economic crisis",
+    "source": "www.wral.com",
+    "snippet": "COLOMBO, Sri Lanka \u2014 China's ambassador to Sri Lanka said Monday it is considering a request for $2.5 billion in assistance to help the island nation through a debt and foreign currency crisis. Qi Zhenhong told reporters that Beijing is studying the ...",
+    "url": "https://www.wral.com/china-mulls-package-to-ease-sri-lankas-economic-crisis/20197738/",
+    "url_hash": "93f97c28b86aa99c1047b561f18db19f",
+    "ut": 1647893538,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$2.5 billion",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qi Zhenhong",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          42,
+          43
         ]
       }
     ]
