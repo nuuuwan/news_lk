@@ -4343,5 +4343,182 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Tamil Nadu: Two Tamil families flee Sri Lanka over economic crisis, arrive in TN",
+    "source": "www.freepressjournal.in",
+    "snippet": "Chennai: The ongoing economic crisis in Sri Lanka has triggered fears among the local population and two families belonging to the ethnic Tamil race have fled the country and reached Tamil Nadu shores clandestinely on a boat in the wee hours of Tuesday.",
+    "url": "https://www.freepressjournal.in/india/tamil-nadu-two-tamil-families-flee-sri-lanka-over-economic-crisis-arrive-in-tn",
+    "url_hash": "9070efe7045d1ecc51c2289d8e2989db",
+    "ut": 1647972542,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the wee hours",
+        "start_end": [
+          39,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "SLAF MUSCLEMAN WINS MR. SRI LANKA BODY BUILDING CHAMPIONSHIP 2021",
+    "source": "www.dailynews.lk",
+    "snippet": "The 73rd Mr. Sri Lanka Body Building Championship 2021 organized by the Sri Lanka Body Building and Fitness Federation was held yesterday (19th March 2022) at Nawaloka Grounds, Welisara. Sri Lanka Air Force Body Building player Leading Aircraftsman Chaminda Peris WM won the Gold medal and emerged as the Mr.",
+    "url": "https://www.dailynews.lk/2022/03/22/local/275483/slaf-muscleman-wins-mr-sri-lanka-body-building-championship-2021",
+    "url_hash": "2f55fb1e0777a65a2c0968fd9c41067f",
+    "ut": 1647972657,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "73rd",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2021",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Body Building and Fitness Federation",
+        "start_end": [
+          11,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "19th March 2022",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Nawaloka Grounds",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Welisara",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Air Force Body Building",
+        "start_end": [
+          33,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Aircraftsman Chaminda",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Would an international bailout save Sri Lanka's economy?",
+    "source": "www.aljazeera.com",
+    "snippet": "Sri Lanka is facing its worst economic crisis since independence in 1948. International rating agencies have warned that the island nation is on the verge of defaulting on its debt. Its usable foreign currency reserves have plunged below $1bn,",
+    "url": "https://www.aljazeera.com/program/inside-story/2022/3/22/will-an-international-bailout-save-sri-lankas-economy",
+    "url_hash": "0a23896af32008f95ec80b2e161138cd",
+    "ut": 1647975542,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1948",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "1bn",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
   }
 ]
