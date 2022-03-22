@@ -548,6 +548,41 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Nimal Lanza relinquishes his ministerial portfolio",
+    "source": "www.dailymirror.lk",
+    "snippet": "Rural Roads and Other Infrastructure State Minister Nimal Lanza has tendered his resignation today to step down from his ministerial portfolio. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Nimal-Lanza-relinquishes-his-ministerial-portfolio/342-233592",
+    "url_hash": "3a8e11bd1035057bfc3e3a5b955dcfe7",
+    "ut": 1647922158,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Rural Roads",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nimal Lanza",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "EDEX Expo Returns Post Pandemic as EDEX Hybrid Expo 2022",
     "source": "colombogazette.com",
     "snippet": "EDEX Expo, Sri Lanka's Premier and Largest Education Exhibition and Job Fair, returns after a break due to the pandemic, in a new and contemporary format, as a Hybrid Expo, on the 26th & 27th of March 2022 at the Royal MAS Arena,",
@@ -986,6 +1021,16 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Chicken feed shortage drags down eggs production by 40%",
+    "source": "www.dailymirror.lk",
+    "snippet": "The poultry industry is yet again faced with a shortage of chicken feed which has affected the availability of eggs in the local market. ..",
+    "url": "https://www.dailymirror.lk/business/Chicken-feed-shortage-drags-down-eggs-production-by-40/215-233594",
+    "url_hash": "bf6b4cdde36584a3d5131ce628ed9573",
+    "ut": 1647929358,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka deploys military personnel to filling stations as queues for fuel lengthen",
     "source": "economynext.com",
     "snippet": "Military personnel were deployed to crisis-hit Sri Lanka's state-run Ceypetco filling stations on Tuesday (22) to monitor and manage fuel distribution after four deaths including a stabbing were reported in fuel queues in under 48 hours.",
@@ -1289,6 +1334,231 @@
         "start_end": [
           20,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka police arrest suspects linked to murder of top minister's driver",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka police have arrested all suspects linked to the murder of a cabinet minister's driver that occurred Monday (21) evening, a local police officer told EconomyNext Tuesday (22) afternoon. The driver of Energy Minister Gamini Lokuge was stabbed Monday evening in his residence in Gamwanawatta,",
+    "url": "https://economynext.com/sri-lanka-police-arrest-suspects-linked-to-murder-of-top-ministers-driver-91927/",
+    "url_hash": "bade27318465dabaa80d873fe70170e6",
+    "ut": 1647932984,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "21) evening",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "EconomyNext",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "22) afternoon",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Energy",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamini Lokuge",
+        "start_end": [
+          42,
+          44
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "evening",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gamwanawatta",
+        "start_end": [
+          52,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Carey and Green guide Australia to 320-5 on Day 2, 3rd test",
+    "source": "apnews.com",
+    "snippet": "Alex Carey and Cameron Green revived the innings with patient half centuries as Australia progressed to 320-5 at lunch on Day 2 of the third and final cricket test against Pakistan.",
+    "url": "https://apnews.com/41c34ac7cf720e85cb01d91eb9d3427d",
+    "url_hash": "1bd94c5912bcb70f6badf1fd7efd90a5",
+    "ut": 1647933935,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Alex Carey",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Cameron Green",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "half centuries",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "320-5",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Down Under Flash Flood: 5 Easy Pieces of Fiction",
+    "source": "www.counterpunch.org",
+    "snippet": "By then Charlton was slipping on the slope and became head of the National Rifle Association, normally associated with the right wing ... among expats from America, from Sri Lanka, from India, and from England. Unable to leave the country because his ...",
+    "url": "https://www.counterpunch.org/2022/03/22/237576/",
+    "url_hash": "cbed50ed73670c56d422ef2736eaa84d",
+    "ut": 1647935795,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Charlton",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the National Rifle Association",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "America",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "England",
+        "start_end": [
+          38,
+          39
         ]
       }
     ]
