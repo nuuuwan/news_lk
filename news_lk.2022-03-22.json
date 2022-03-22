@@ -2933,6 +2933,65 @@
     "title": "Proposed MRCC deal threat to SL security: Harin",
     "source": "www.dailymirror.lk",
     "snippet": "Samagi Jana Balavegaya MP Harin Fernando said today that proposed Indian funded Maritime Rescue Coordination Center (MRCC) is to be set up inside the Sri Lanka Navy Headquarters will threaten Sri Lanka's security.",
+    "url": "https://www.dailymirror.lk/breaking_news/Proposed-MRCC-deal-threat-to-SL-security-Harin/108-233601",
+    "url_hash": "a81ed0c69d770be5f1a7858504c7e1eb",
+    "ut": 1647950954,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jana Balavegaya",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harin Fernando",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Maritime Rescue Coordination Center",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Proposed MRCC deal threat to SL security: Harin",
+    "source": "www.dailymirror.lk",
+    "snippet": "Samagi Jana Balavegaya MP Harin Fernando said today that proposed Indian funded Maritime Rescue Coordination Center (MRCC) is to be set up inside the Sri Lanka Navy Headquarters will threaten Sri Lanka's security.",
     "url": "https://www.dailymirror.lk/latest_news/Proposed-MRCC-deal-threat-to-SL-security-Harin/342-233601",
     "url_hash": "243f358c8af176814923ba0a9fce974b",
     "ut": 1647951179,
@@ -3123,6 +3182,116 @@
         "start_end": [
           18,
           22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Power cut schedule announced for tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "The power schedule which was imposed today will be carried out for tomorrow (23) as well, the Public Utilities Commission of Sri Lanka (PUCSL) said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Power-cut-schedule-announced-for-tomorrow/342-233603",
+    "url_hash": "4389fd70315fe4401b098f21ed49e0d4",
+    "ut": 1647954554,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Public Utilities Commission",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka's Parliament approves amendments to harsh anti-terrorism law",
+    "source": "www.newindianexpress.com",
+    "snippet": "The bill to amend the Prevention of Terrorism Act (Temporary Provisions) of 1979 was approved with 86 votes in favour and 35 against in the 225-member assembly.",
+    "url": "https://www.newindianexpress.com/world/2022/mar/22/sri-lankas-parliament-approves-amendments-to-harsh-anti-terrorism-law-2433027.html",
+    "url_hash": "b6363bee1ebd870c4bc13a4e7772f1cb",
+    "ut": 1647954582,
+    "ent_info_list": [
+      {
+        "label": "LAW",
+        "text": "the Prevention of Terrorism Act (Temporary Provisions",
+        "start_end": [
+          4,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1979",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "86",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "35",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "225",
+        "start_end": [
+          27,
+          28
         ]
       }
     ]
@@ -3397,5 +3566,93 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka shares gain in thin trade amid rupee fall",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's stock index gained on Tuesday (22) for the third consecutive session as investors continued to buy retail shares boosted by rupee devaluations, brokers said.",
+    "url": "https://economynext.com/sri-lanka-shares-gain-in-thin-trade-amid-rupee-fall-91936/",
+    "url_hash": "b1ddf481599405f6ac33986e5c91cb14",
+    "ut": 1647958358,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka reforms anti-terror law as EU reviews trade scheme",
+    "source": "apnews.com",
+    "snippet": "Sri Lankan lawmakers on Tuesday approved reforms to a harsh anti-terror law that rights groups have long criticized, as the country looks to shore up its trade relations with the European Union amid its worst economic crisis in memory.",
+    "url": "https://apnews.com/article/business-asia-global-trade-south-asia-sri-lanka-5ddb5b2623115b96d1f4c0584f6b3306",
+    "url_hash": "0fcc73d2c7b4039d1f2175e07cd974b0",
+    "ut": 1647959670,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the European Union",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka softens 'terror' law after EU trade pressure",
+    "source": "www.msn.com",
+    "snippet": "Main opposition parties withhold support for amendments, saying they do not stop arbitrary arrest of dissidents.",
+    "url": "https://www.msn.com/en-us/news/world/sri-lanka-softens-e2-80-98terror-e2-80-99-law-after-eu-trade-pressure/ar-AAVmY0c",
+    "url_hash": "e21e2dd4217a46461b4184b6d6d8eea0",
+    "ut": 1647960862,
+    "ent_info_list": []
   }
 ]
