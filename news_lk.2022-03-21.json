@@ -6340,6 +6340,41 @@
   },
   {
     "date": "2022-03-21",
+    "title": "China mulls package to ease Sri Lanka's economic crisis",
+    "source": "www.local10.com",
+    "snippet": "China's ambassador to Sri Lanka says it is considering a request for $2.5 billion in assistance to help the island nation through its worst debt and foreign currency crisis in memory.",
+    "url": "https://www.local10.com/business/2022/03/21/china-mulls-package-to-ease-sri-lankas-economic-crisis/",
+    "url_hash": "061e48d6d89b653e45e46097f60c90c2",
+    "ut": 1647875395,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$2.5 billion",
+        "start_end": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
     "title": "Sri Lanka Govt Panel Says International Financial Assistance Needed",
     "source": "money.usnews.com",
     "snippet": "A Sri Lanka government-appointed committee on Monday said the crisis-hit country's central bank and finance ministry must form a team to seek urgent international financial assistance as its economy reels under a foreign currency shortage.",
@@ -6514,6 +6549,108 @@
         "start_end": [
           22,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Minister Gamini Lokuge's driver beaten to death",
+    "source": "www.dailymirror.lk",
+    "snippet": "The driver of Energy Minister Gamini Lokuge has been beaten to death at his residence in Gamwanawatta, Mavittara in Kesbewa this evening, Police said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Minister-Gamini-Lokuges-driver-beaten-to-death/108-233525",
+    "url_hash": "b8816541faf556cd12eda286745567a9",
+    "ut": 1647878978,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Energy",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamini Lokuge",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gamwanawatta",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mavittara",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kesbewa",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this evening",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Police",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "China mulls package to ease Sri Lanka's economic crisis",
+    "source": "www.click2houston.com",
+    "snippet": "China's ambassador to Sri Lanka says it is considering a request for $2.5 billion in assistance to help the island nation through its worst debt and foreign currency crisis in memory.",
+    "url": "https://www.click2houston.com/business/2022/03/21/china-mulls-package-to-ease-sri-lankas-economic-crisis/",
+    "url_hash": "6b35df915ca9127816640717f49e87e9",
+    "ut": 1647878986,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$2.5 billion",
+        "start_end": [
+          13,
+          16
         ]
       }
     ]
@@ -7175,6 +7312,65 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "VitalHub Announces Three-Year Expansion Licensing Contract With University Hospitals Dorset NHS Foundation Trust",
+    "source": "au.sports.yahoo.com",
+    "snippet": "with an offshore development hub in Sri Lanka. The Company is publicly traded on the Toronto Stock Exchange (TSX) under the symbol \"VHI\". CAUTIONARY STATEMENT This press release includes ...",
+    "url": "https://au.sports.yahoo.com/vitalhub-announces-three-expansion-licensing-113000414.html",
+    "url_hash": "c2d757d8e4f28b1b85f10da9187f2c05",
+    "ut": 1647896995,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Company",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Toronto Stock Exchange",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TSX",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VHI",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "CAUTIONARY",
+        "start_end": [
+          29,
+          30
         ]
       }
     ]

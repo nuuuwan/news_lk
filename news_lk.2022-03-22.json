@@ -2060,6 +2060,41 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Army deployed in petrol pumps as fuel shortage cripples Sri Lanka",
+    "source": "www.rediff.com",
+    "snippet": "Sri Lanka on Tuesday deployed military personnel at State-run petrol pumps to monitor and manage fuel distribution amidst a shortage that led to serpentine queues of consumers outside filling stations.",
+    "url": "https://www.rediff.com/news/report/army-deployed-in-petrol-pumps-as-fuel-shortage-cripples-sri-lanka/20220322.htm",
+    "url_hash": "f1b7d6592c5bc9954d00b24d1038dbb1",
+    "ut": 1647940186,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka - CWC withdraws from talks with GR on economic crisis",
     "source": "menafn.com",
     "snippet": "The Ceylon Workers Congress (CWC) has decided to withdraw from talks with President Gotabaya Rajapaksa to discuss the economic crisis i",
@@ -2258,6 +2293,527 @@
         "start_end": [
           41,
           43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Indian coast guard rescues six Lankan fled to TN over economic crisis",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Indian Coast Guard rescued six Sri Lankan nationals, including three children, who were stranded on the fourth island off the coast of Rameswaram in Tamil Nadu, after they fled Sri Lanka which has been hit by an economic crisis and is facing an acute shortage of food and fuel.",
+    "url": "https://www.dailymirror.lk/breaking_news/Indian-coast-guard-rescues-six-Lankan-fled-to-TN-over-economic-crisis/108-233600",
+    "url_hash": "257e0158de5a646638b4a01d6a2b2c79",
+    "ut": 1647943778,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Indian Coast Guard",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil Nadu",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka succumbs to Chinese investment trap",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "Sri Lanka is battling one of its worst economic crises in over seven decades as successive governments in the island nation have ignored sovereign bonds to Sri",
+    "url": "https://www.bignewsnetwork.com/news/272410610/sri-lanka-succumbs-to-chinese-investment-trap",
+    "url_hash": "e089e5988ad67cbd7c7575ea8a93f072",
+    "ut": 1647943786,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over seven decades",
+        "start_end": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka to hire global law firm to aid debt restructuring",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka will hire a global law firm to provide technical assistance on debt restructuring ahead of talks with the International Monetary Fund (IMF) on the country's economic crisis, Cabinet spokesma",
+    "url": "http://www.adaderana.lk/news.php?nid=81354",
+    "url_hash": "cf04b5a75d49696ba7fc98a60928e209",
+    "ut": 1647943786,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "UPDATE 2-Crisis-hit Sri Lanka sends troops to fuel stations, aims to restructure debt",
+    "source": "www.yahoo.com",
+    "snippet": "Sri Lanka posted soldiers at hundreds of state-run gas stations on Tuesday to help distribute fuel after a sudden rise in prices of key commodities and accompanying shortages forced tens of thousands of people to queue for hours.",
+    "url": "https://www.yahoo.com/now/2-crisis-hit-sri-lanka-103601910.html",
+    "url_hash": "905d85b96fbe315cd138a6d5cb48f7f7",
+    "ut": 1647943812,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "tens of thousands",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka state health workers threaten more strikes if demands go ignored",
+    "source": "economynext.com",
+    "snippet": "The Sri Lanka Federation for Health Professionals (SLFHP) on Tuesday (22) warned of more island wide trade union action if the ministry of health continues to ignore their demands. Trade unions in the state health sector have repeatedly engaged in strikes over the past few months amid a pandemic over several unresolved issues including salary anomalies and promotions.",
+    "url": "https://economynext.com/sri-lanka-state-health-workers-threaten-more-strikes-if-demands-go-ignored-91934/",
+    "url_hash": "49ea78ce4135b81ae01cce0a04ccfceb",
+    "ut": 1647947403,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Federation for Health Professionals (SLFHP",
+        "start_end": [
+          0,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the ministry of health",
+        "start_end": [
+          24,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the past few months",
+        "start_end": [
+          47,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Opinion: Introducing import licenses will worsen Sri Lanka's economic crisis",
+    "source": "www.lankabusinessonline.com",
+    "snippet": "Advocata Extraordinary Gazette No 2270/18 of March 2022,\u00a0 imposes import restrictions on 367 goods determined as \"non-essential\" by the Ministry of Finance. These can now only be imported under a license issued by the controller general of imports and exports control.",
+    "url": "https://www.lankabusinessonline.com/opinion-introducing-import-licenses-will-worsen-sri-lankas-economic-crisis/",
+    "url_hash": "a63eac1b1c45dd13d7c09d76bd06ce18",
+    "ut": 1647947588,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "March 2022",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "367",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Finance",
+        "start_end": [
+          24,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Vitalhub Announces Two-Year Licensing Deal of Pre-Op Solution, Synopsis iQ to Buckinghamshire Healthcare NHS Trust",
+    "source": "www.digitaljournal.com",
+    "snippet": "VitalHub Corp. (the \"Company\" or \"VitalHub\") (TSX: VHI) is pleased to announce a two-year licensing of subsidiary Intouch with Health's (\"Intouch\") award-winning Synopsis solutions to Buckinghamshire Healthcare NHS Trust (the \"Trust\" or \"Buckinghamshire\").",
+    "url": "https://www.digitaljournal.com/pr/vitalhub-announces-two-year-licensing-deal-of-pre-op-solution-synopsis-iq-to-buckinghamshire-healthcare-nhs-trust",
+    "url_hash": "8e8badbe6ee4234442964c7fc8da5af2",
+    "ut": 1647948715,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VitalHub Corp.",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "VitalHub",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TSX",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VHI",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-year",
+        "start_end": [
+          22,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Intouch with Health's",
+        "start_end": [
+          28,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Buckinghamshire Healthcare NHS Trust",
+        "start_end": [
+          43,
+          47
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Trust",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka deploys troops to petrol stations as fuel shortage sparks protests",
+    "source": "www.msn.com",
+    "snippet": "The Sri Lankan government deployed troops to petrol stations as angry crowds blocked a main artery in Colombo and held up traffic for hours as the country grapples with fuel shortages.",
+    "url": "https://www.msn.com/en-in/news/world/sri-lanka-deploys-troops-to-petrol-stations-as-fuel-shortage-sparks-protests/ar-AAVmqgD",
+    "url_hash": "382f782b6857cd5ba78d3dea86742d9b",
+    "ut": 1647948826,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Italy and Sri Lanka to sign deal to transfer convicts",
+    "source": "colombogazette.com",
+    "snippet": "Italy and Sri Lanka are to sign an agreement to transfer convicts from the respective countries. The Transfer of Offenders' Act No. 5 of 1995 carries the provisions for transferring any convicted individual who has been convicted in a court of law in Sri Lanka,",
+    "url": "https://colombogazette.com/2022/03/22/italy-and-sri-lanka-to-sign-deal-to-transfer-convicts/",
+    "url_hash": "4b8fd525b22fe50a5cf509aea286d5ca",
+    "ut": 1647949208,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Transfer of Offenders' Act No.",
+        "start_end": [
+          17,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1995",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          46,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Rajasthan Royals' Devdutt Padikkal: Moving from Ranji to IPL is a challenge",
+    "source": "www.freepressjournal.in",
+    "snippet": "Two of the most talented and emerging players of Indian cricket, pace sensation Prasidh Krishna and left-hander Devdutt Padikkal will be representing Rajasthan Royals as their second franchise in the Indian Premier League (IPL).",
+    "url": "https://www.freepressjournal.in/sports/rajasthan-royals-devdutt-padikkal-moving-from-ranji-to-ipl-is-a-challenge",
+    "url_hash": "1f0bee3a115c16f104356b5c4bcca845",
+    "ut": 1647949735,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasidh Krishna",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Devdutt Padikkal",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Rajasthan Royals",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Second Reading of PTA Amendment Bill passed with a majority",
+    "source": "dailynews.lk",
+    "snippet": "The Second Reading of the Prevention of Terrorism (Temporary Provisions) (Amendment) Bill!\u00a0was passed with a majority of\u00a086\u00a0votes. 121 were cast in favor of it and 35 were cast against it.",
+    "url": "https://dailynews.lk/2022/03/22/local/275418/second-reading-pta-amendment-bill-passed-majority",
+    "url_hash": "ce98db2730d3f48167633eef9cedb8c4",
+    "ut": 1647950022,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "121",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "35",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]
