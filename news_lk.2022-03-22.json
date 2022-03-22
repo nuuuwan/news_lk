@@ -720,6 +720,49 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Sri Lanka's aggravating economic crisis",
+    "source": "www.thehindu.com",
+    "snippet": "Sri Lanka's economic crisis is aggravating rapidly, putting citizens through enormous hardship. Over the weekend, at least two senior citizens died while waiting in long queues to buy fuel; the price of cooking gas spiked to LKR 4,",
+    "url": "https://www.thehindu.com/news/international/sri-lankas-aggravating-economic-crisis/article65243705.ece",
+    "url_hash": "ffe06e5586637b9206828bc0f5b21d74",
+    "ut": 1647925741,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the weekend",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least two",
+        "start_end": [
+          19,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "LKR 4",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Crisis-hit Sri Lanka sends troops to oversee fuel distribution",
     "source": "www.reuters.com",
     "snippet": "Sri Lanka ordered its military to post soldiers at hundreds of gas stations on Tuesday, to help distribute fuel after a sudden rise in prices of key commodities and the accompanying shortages forced tens of thousands of people to queue for hours.",
@@ -2054,6 +2097,41 @@
         "start_end": [
           31,
           32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka to hire global law firm to aid debt restructuring",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka will hire a global law firm to provide technical assistance on debt restructuring ahead of talks with the International Monetary Fund (IMF) on the country's economic crisis, Cabinet spokesma",
+    "url": "http://www.adaderana.lk/news/81354/sri-lanka-to-hire-global-law-firm-to-aid-debt-restructuring",
+    "url_hash": "ce88c86aaf5ae5fe55f5d7f897a639ca",
+    "ut": 1647940141,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
@@ -4175,6 +4253,49 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Ukraine Live Updates: Russia Continues Bombardment, but Its Forces Have Shrunk, Pentagon Says",
+    "source": "www.nytimes.com",
+    "snippet": "The latest trial was held in a makeshift courtroom at the prison outside Moscow where Mr. Navalny has been held for more than a year. Following the sentencing, two of his lawyers were detained by the police and driven away in a police truck after they went outside to speak to journalists,",
+    "url": "https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war/here-are-the-latest-developments-in-ukraine?state=default&variant=show&block=storyline_levelup_swipe_recirc",
+    "url_hash": "1bc4cc522aeb9ec764ca78ab8e89a8db",
+    "ut": 1647968951,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Navalny",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than a year",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka ropes in troops to oversee fuel distribution amid crisis",
     "source": "www.thehindu.com",
     "snippet": "Sri Lanka has roped in its army to oversee fuel distribution in the country, while citizens queue up for hours outside petrol and diesel stations due to a severe shortage as the country grapples with an unprecedented economic crisis.",
@@ -4706,6 +4827,84 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Let there be no more supplicant 'fixers'",
+    "source": "www.dailymirror.lk",
+    "snippet": "The death of two journalists working for Fox News, US in Ukraine on March 14 has reignited the conversation on the value.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Let-there-be-no-more-supplicant-fixers/231-233612",
+    "url_hash": "ca4f7fe2fb39a23b9d49e24c5f60fdb4",
+    "ut": 1647979731,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fox News",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 14",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "\"Amma, should I go with this stranger?\"",
+    "source": "www.dailymirror.lk",
+    "snippet": "For thousands of young girls across Sri Lanka, their wedding is a far cry from happily ever after as parents marry off their daughters.... ..",
+    "url": "https://www.dailymirror.lk/news-features/Amma-should-I-go-with-this-stranger/131-233611",
+    "url_hash": "459d0a27e61bd9e7a6a4d5b57c50cf33",
+    "ut": 1647979731,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Welcome to the Land of Breathtaking Vistas",
     "source": "www.khaleejtimes.com",
     "snippet": "In recent years Pakistan has emerged as one of the leading tourist destinations for travellers from all over the world",
@@ -4848,6 +5047,67 @@
         "start_end": [
           21,
           24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Party politics failed - EDITORIAL",
+    "source": "www.dailymirror.lk",
+    "snippet": "The frustration among the masses over the long-running, incessant shortage of essential items, especially fuel and gas and the steep... ..",
+    "url": "https://www.dailymirror.lk/opinion/Party-politics-failed-EDITORIAL/231-233613",
+    "url_hash": "df4d4395173573ca76629f3a2739d7b1",
+    "ut": 1647983331,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Ukraine Live Updates: Russia Cracks Down on Dissent as Invasion Stalls",
+    "source": "www.nytimes.com",
+    "snippet": "Russia sentenced Aleksei A. Navalny to nine years in prison and added to its draconian censorship law. Ukrainians continued to mount a spirited defense, saying they had recaptured the town of Makariv.",
+    "url": "https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war/satellite-imagery-shows-that-russia-removed-military-aircraft-from-a-key-airport-in-ukraine",
+    "url_hash": "fa410ed1bfbe04eb5c139f41cf6e9cc4",
+    "ut": 1647983351,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Aleksei A. Navalny",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "nine years",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Ukrainians",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Makariv",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
