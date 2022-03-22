@@ -194,6 +194,49 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Technical committee proposed to implement IMF proposals",
+    "source": "www.dailymirror.lk",
+    "snippet": "The panel of experts appointed for advising the National Economic Council has recommended the appointment of a technical committee comprising the Central Bank and the Treasury to implement proposals by the International Monetary Fund (IMF),",
+    "url": "https://www.dailymirror.lk/breaking_news/Technical-committee-proposed-to-implement-IMF-proposals/108-233591",
+    "url_hash": "efbbc2c3097b9ac8174dfb6734ee2fc6",
+    "ut": 1647911332,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the National Economic Council",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          30,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka issues Rs20 commemorative coin",
     "source": "economynext.com",
     "snippet": "Sri Lanka's central bank said it has issued a 20 rupee coin commemorating the 150th anniversary of the Faculty of Medicine at the University of Colombo.",
@@ -421,6 +464,81 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Mumbai weather: Overcast skies, low temperatures; 'monsoon' weather conditions persist",
+    "source": "www.freepressjournal.in",
+    "snippet": "Erratic weather conditions persisted in Mumbai on Tuesday as temperatures continued to remain in the low range. On Tuesday morning, IMD's Colaba observatory in Mumbai recorded a minimum temperature of 25.",
+    "url": "https://www.freepressjournal.in/mumbai/mumbai-weather-overcast-skies-low-temperatures-monsoon-weather-conditions-persist",
+    "url_hash": "fa09d1e502c485e75d9a30fc72830dee",
+    "ut": 1647922513,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "morning",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMD",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colaba",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mumbai",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          33,
+          34
         ]
       }
     ]
