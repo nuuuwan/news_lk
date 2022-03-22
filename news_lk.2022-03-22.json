@@ -2487,6 +2487,73 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Indian coast guard rescues six Lankan fled to TN over economic crisis",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Indian Coast Guard rescued six Sri Lankan nationals, including three children, who were stranded on the fourth island off the coast of Rameswaram in Tamil Nadu, after they fled Sri Lanka which has been hit by an economic crisis and is facing an acute shortage of food and fuel.",
+    "url": "https://www.dailymirror.lk/latest_news/Indian-coast-guard-rescues-six-Lankan-fled-to-TN-over-economic-crisis/342-233600",
+    "url_hash": "755c3b01418a2c1f0d718c9dd475cef1",
+    "ut": 1647943979,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Indian Coast Guard",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "six",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil Nadu",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka state health workers threaten more strikes if demands go ignored",
     "source": "economynext.com",
     "snippet": "The Sri Lanka Federation for Health Professionals (SLFHP) on Tuesday (22) warned of more island wide trade union action if the ministry of health continues to ignore their demands. Trade unions in the state health sector have repeatedly engaged in strikes over the past few months amid a pandemic over several unresolved issues including salary anomalies and promotions.",
@@ -2814,6 +2881,205 @@
         "start_end": [
           37,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Proposed MRCC deal threat to SL security: Harin",
+    "source": "www.dailymirror.lk",
+    "snippet": "Samagi Jana Balavegaya MP Harin Fernando said today that proposed Indian funded Maritime Rescue Coordination Center (MRCC) is to be set up inside the Sri Lanka Navy Headquarters will threaten Sri Lanka's security.",
+    "url": "https://www.dailymirror.lk/latest_news/Proposed-MRCC-deal-threat-to-SL-security-Harin/342-233601",
+    "url_hash": "243f358c8af176814923ba0a9fce974b",
+    "ut": 1647951179,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jana Balavegaya",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Harin Fernando",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Maritime Rescue Coordination Center",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          32,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Vitalhub Announces Two-Year Licensing Deal of Pre-Op Solution, Synopsis iQ to Buckinghamshire Healthcare NHS Trust",
+    "source": "stockhouse.com",
+    "snippet": "VitalHub Corp. (the \"Company&CloseCurlyDoubleQuote; or \"VitalHub&CloseCurlyDoubleQuote;) (TSX: VHI) is pleased to announce a two-year licensing of subsidiary Intouch with Health&CloseCurlyQuote;s (\"Intouch&CloseCurlyDoubleQuote;",
+    "url": "https://stockhouse.com/news/press-releases/2022/03/22/vitalhub-announces-two-year-licensing-deal-of-pre-op-solution-synopsis-iq-to",
+    "url_hash": "8a3300d9707b1dd6995523a4ce7b8bd0",
+    "ut": 1647951678,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VitalHub Corp.",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TSX",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VHI",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-year",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Health&CloseCurlyQuote;s",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "A hitherto untold account of Sri Sri Ravi Shankar's relentless peace work in Sri Lanka",
+    "source": "www.business-standard.com",
+    "snippet": "The Art of Living launched - The Tiger's Pause: The Untold Story of Sri Sri Ravi Shankar's Peace Efforts in Sri Lanka by Swami Virupaksha, a detailed, humane and pacy narration of the final",
+    "url": "https://www.business-standard.com/content/press-releases-ani/a-hitherto-untold-account-of-sri-sri-ravi-shankar-s-relentless-peace-work-in-sri-lanka-122032200909_1.html",
+    "url_hash": "430c5b85339288f852659d519aed0622",
+    "ut": 1647952208,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "The Art of Living launched - The Tiger's Pause: The Untold Story of Sri Sri Ravi Shankar's Peace Efforts",
+        "start_end": [
+          0,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Swami Virupaksha",
+        "start_end": [
+          26,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka mulls closure of embassies amid financial crunch",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka is currently facing its worst financial crisis as of now. The island nation is now struggling to cope with the worst economic crisis which has now pushed the country to shut down its overseas embassies.",
+    "url": "https://www.msn.com/en-in/video/watch/sri-lanka-mulls-closure-of-embassies-amid-financial-crunch/vi-AAVmt30",
+    "url_hash": "00a17ccfaa757e902a704fcc0bd0e05f",
+    "ut": 1647952208,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka - Italy and Sri Lanka to sign deal to transfer convicts",
+    "source": "menafn.com",
+    "snippet": "Italy and Sri Lanka are to sign an agreement to transfer convicts from the respective countries.   The Transfer of Offe",
+    "url": "https://menafn.com/1103891537/Sri-Lanka-Italy-and-Sri-Lanka-to-sign-deal-to-transfer-convicts&source=22",
+    "url_hash": "2e6c63eb251d6618aae4a1ee8d22a62f",
+    "ut": 1647953972,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Italy",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "The Transfer of Offe",
+        "start_end": [
+          18,
+          22
         ]
       }
     ]
