@@ -470,6 +470,41 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Nimal Lanza relinquishes his ministerial portfolio",
+    "source": "www.dailymirror.lk",
+    "snippet": "Rural Roads and Other Infrastructure State Minister Nimal Lanza has tendered his resignation today to step down from his ministerial portfolio. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Nimal-Lanza-relinquishes-his-ministerial-port-folio/108-233592",
+    "url_hash": "34c8600fade039a6a59b3640db9c2781",
+    "ut": 1647922147,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Rural Roads",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nimal Lanza",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Ranjan wins People's actor award",
     "source": "www.dailymirror.lk",
     "snippet": "Former Parliamentarian and popular cinema artiste Ranjan Ramanayake who is currently serving sentence in Prison has won the People's actor award at the 2022 Slim-Kanter Award ceremony held in Colombo last night.",
@@ -609,6 +644,108 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Crisis-hit Sri Lanka sends troops to oversee fuel distribution",
+    "source": "www.reuters.com",
+    "snippet": "Sri Lanka ordered its military to post soldiers at hundreds of gas stations on Tuesday, to help distribute fuel after a sudden rise in prices of key commodities and the accompanying shortages forced tens of thousands of people to queue for hours.",
+    "url": "https://www.reuters.com/world/asia-pacific/crisis-hit-sri-lanka-sends-troops-oversee-fuel-distribution-2022-03-22/",
+    "url_hash": "c7535cc44c7b4f202f51c1d725cf1631",
+    "ut": 1647925756,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "tens of thousands",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka bond yields up, rupee bid at 285",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's bond market remains inactive in mid-day trade on Tuesday (22), brokers said while the rupee is quoted around 285 in bids with no firm offers. The bond market is not that active because investors are waiting for clear direction,",
+    "url": "https://economynext.com/sri-lanka-bond-yields-up-rupee-bid-at-285-91925/",
+    "url_hash": "5596b524d8ea863348249eaef802eb88",
+    "ut": 1647925773,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "mid-day",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "285",
+        "start_end": [
+          26,
+          27
         ]
       }
     ]
@@ -843,6 +980,315 @@
         "start_end": [
           39,
           40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka deploys military personnel to filling stations as queues for fuel lengthen",
+    "source": "economynext.com",
+    "snippet": "Military personnel were deployed to crisis-hit Sri Lanka's state-run Ceypetco filling stations on Tuesday (22) to monitor and manage fuel distribution after four deaths including a stabbing were reported in fuel queues in under 48 hours.",
+    "url": "https://economynext.com/sri-lanka-deploys-military-personnel-to-filling-stations-as-queues-for-fuel-lengthen-91926/",
+    "url_hash": "dd241fc9b0a3000f093e7944066278cc",
+    "ut": 1647929373,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceypetco",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "under 48 hours",
+        "start_end": [
+          40,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka to Hire Global Law Firm to Aid Debt Restructuring-Official",
+    "source": "money.usnews.com",
+    "snippet": "COLOMBO (Reuters) - Sri Lanka will hire a global law firm to give ... The content on this page is accurate as of the posting date; however, some of our partner offers may have expired.",
+    "url": "https://money.usnews.com/investing/news/articles/2022-03-22/sri-lanka-to-hire-global-law-firm-to-aid-debt-restructuring-official",
+    "url_hash": "30239f462b4abdc67b2b1c6ad201b5e7",
+    "ut": 1647929381,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Reuters",
+        "start_end": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Crisis-hit Sri Lanka sends troops to oversee fuel distribution",
+    "source": "www.yahoo.com",
+    "snippet": "Sri Lanka ordered its military to post soldiers at hundreds of gas stations on Tuesday, to help distribute fuel after a sudden rise in prices of key commodities and the accompanying shortages forced tens of thousands of people to queue for hours.",
+    "url": "https://www.yahoo.com/now/crisis-hit-sri-lanka-sends-055452733.html",
+    "url_hash": "418731a2b7fe97b30df1be5416a39b20",
+    "ut": 1647929381,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "tens of thousands",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka deploys troops as fuel shortage sparks protests",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka ordered troops to petrol stations Tuesday as sporadic protests erupted among the thousands of motorists queueing up daily for scarce fuel. The South Asian island nation is grappling with its worst economic meltdown since independence in 1948,",
+    "url": "https://www.msn.com/en-za/news/world/sri-lanka-deploys-troops-as-fuel-shortage-sparks-protests/ar-AAVlvHH",
+    "url_hash": "b4225ceffc5661e667519e915ee3f848",
+    "ut": 1647929381,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1948",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka Deploys Troops As Fuel Shortage Sparks Protests",
+    "source": "www.ibtimes.com",
+    "snippet": "Sri Lanka ordered troops to petrol stations Tuesday as sporadic protests erupted among the thousands of motorists queueing up daily for scarce fuel. The South Asian island nation is grappling with its worst economic meltdown since independence in 1948,",
+    "url": "https://www.ibtimes.com/sri-lanka-deploys-troops-fuel-shortage-sparks-protests-3445821",
+    "url_hash": "b453a1d7cd9fdbc0516494154bed4108",
+    "ut": 1647929836,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1948",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka deploys army at gas stations after three people die",
+    "source": "www.infobae.com",
+    "snippet": "Sri Lanka deployed soldiers to state gas stations on Tuesday to ensure safety after the death of at least three people, one of them stabbed, in the long queues caused by shortages and high prices, amid an acute economic crisis that the island nation is suffering.",
+    "url": "https://www.infobae.com/en/2022/03/22/sri-lanka-deploys-army-at-gas-stations-after-three-people-die/",
+    "url_hash": "ea408651e4b096fc85fc822688ecec9f",
+    "ut": 1647930676,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least three",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka's Kerosene Crisis",
+    "source": "www.rediff.com",
+    "snippet": "Women, men and children waiting in long queues to buy kerosene are a common sight in Colombo and other Sri Lankan cities after the nation's severe economic crisis cut off supplies of petroleum products to the island.",
+    "url": "https://www.rediff.com/news/report/sri-lankas-kerosene-crisis/20220322.htm",
+    "url_hash": "a94f4660e3bbf55154f6a7376f6fa483",
+    "ut": 1647932116,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
