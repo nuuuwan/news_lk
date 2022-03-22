@@ -81,5 +81,201 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka, China FTA to vastly benefit country",
+    "source": "www.msn.com",
+    "snippet": "The proposed Sri Lanka China Free Trade agreement will bring nemours economical benefits to Sri Lanka, Chinese Ambassador to Sri Lanka Qi Zhenhong said yesterday.He said that firstly it will increase trade from Sri Lanka and also help to find a 'new market' for Sri Lankan export oriented products.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/sri-lanka-china-fta-to-vastly-benefit-country/ar-AAVl0MQ",
+    "url_hash": "19f580084ade63dd8464217cc7ff97b2",
+    "ut": 1647908142,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qi Zhenhong",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "firstly",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          49,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "State media: No survivors found in crash of Chinese airliner",
+    "source": "www.independent.co.uk",
+    "snippet": "No survivors have been found as the search continues of the scattered wreckage of a China Eastern plane carrying 132 people that crashed in a forested mountainous area in China's worst air disaster in",
+    "url": "https://www.independent.co.uk/news/chinese-ap-cctv-boeing-737-max-guangzhou-b2040963.html",
+    "url_hash": "4b4b96db5807daa3e12ffcf36374dd04",
+    "ut": 1647908152,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "132",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka issues Rs20 commemorative coin",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's central bank said it has issued a 20 rupee coin commemorating the 150th anniversary of the Faculty of Medicine at the University of Colombo.",
+    "url": "https://economynext.com/sri-lanka-issues-rs20-commemorative-coin-91914/",
+    "url_hash": "e51abf9d1cda9d7fc378db200ab964ad",
+    "ut": 1647915362,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "150th",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Faculty of Medicine",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the University of Colombo",
+        "start_end": [
+          23,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka government panel says international financial assistance needed",
+    "source": "www.channelnewsasia.com",
+    "snippet": "COLOMBO: A Sri Lanka government-appointed committee on Monday (Mar 20) said the crisis-hit country's central bank and finance ministry must form a team to seek urgent international financial assistance as its economy reels under a foreign currency shortage.",
+    "url": "https://www.channelnewsasia.com/business/sri-lanka-government-panel-says-international-financial-assistance-needed-2577676",
+    "url_hash": "17f5054db737f7398e9d1864b566ab16",
+    "ut": 1647917922,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Mar 20",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
   }
 ]
