@@ -4520,5 +4520,118 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka sends troops to oversee fuel distribution",
+    "source": "www.thedailystar.net",
+    "snippet": "Sri Lanka ordered troops to petrol stations Tuesday as sporadic protests erupted among the thousands of motorists queueing up daily for scarce fuel.",
+    "url": "https://www.thedailystar.net/business/global-economy/news/sri-lanka-sends-troops-oversee-fuel-distribution-2988401",
+    "url_hash": "90b975c663c39c68c62a945aced5b417",
+    "ut": 1647976147,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Lanka deploys troops to filling stations as queues for fuel lengthen",
+    "source": "www.dailyexcelsior.com",
+    "snippet": "Sri Lanka on Tuesday deployed military personnel at state-run petrol pumps to monitor and manage fuel distribution amidst a shortage that led to serpentine queues of consumers outside filling stations.",
+    "url": "https://www.dailyexcelsior.com/lanka-deploys-troops-to-filling-stations-as-queues-for-fuel-lengthen/",
+    "url_hash": "e8fe823e482402fef260d5af50d01dd6",
+    "ut": 1647977347,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Research in Sri Lanka finds Covid Rapid Antigen Test kits effective",
+    "source": "colombogazette.com",
+    "snippet": "Research conducted in Sri Lanka has found that Covid Rapid Antigen Test kits are effective. The research was carried out by the Allergy Immunology and Cell Biology Unit, Department of Immunology and Molecular Medicine,",
+    "url": "https://colombogazette.com/2022/03/23/research-in-sri-lanka-finds-covid-rapid-antigen-test-kits-effective/",
+    "url_hash": "75d2759d2ab2ac2eb5aedfab67e25c82",
+    "ut": 1647978508,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Covid Rapid Antigen Test",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Allergy Immunology and Cell Biology Unit",
+        "start_end": [
+          22,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Department of Immunology and Molecular Medicine",
+        "start_end": [
+          30,
+          36
+        ]
+      }
+    ]
   }
 ]
