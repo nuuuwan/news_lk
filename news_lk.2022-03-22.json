@@ -505,6 +505,41 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Nimal Lanza relinquishes his ministerial portfolio",
+    "source": "www.dailymirror.lk",
+    "snippet": "Rural Roads and Other Infrastructure State Minister Nimal Lanza has tendered his resignation today to step down from his ministerial portfolio. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Nimal-Lanza-relinquishes-his-ministerial-portfolio/108-233592",
+    "url_hash": "90ea0187cc08027d060cf0936c51fb75",
+    "ut": 1647922147,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Rural Roads",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nimal Lanza",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Ranjan wins People's actor award",
     "source": "www.dailymirror.lk",
     "snippet": "Former Parliamentarian and popular cinema artiste Ranjan Ramanayake who is currently serving sentence in Prison has won the People's actor award at the 2022 Slim-Kanter Award ceremony held in Colombo last night.",
@@ -1340,6 +1375,33 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Present fuel crises forces to limit bus transportation",
+    "source": "www.dailymirror.lk",
+    "snippet": "Bus transportation will have to be limited given the situation in the country but it will not grind to halt, Minister of Transport Dilum Amunugama told Parliament today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/Present-fuel-crises-forces-to-limit-bus-transportation/342-233596",
+    "url_hash": "3f05c8bf26046d96a706103da1d0a1dd",
+    "ut": 1647932947,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka police arrest suspects linked to murder of top minister's driver",
     "source": "economynext.com",
     "snippet": "Sri Lanka police have arrested all suspects linked to the murder of a cabinet minister's driver that occurred Monday (21) evening, a local police officer told EconomyNext Tuesday (22) afternoon. The driver of Energy Minister Gamini Lokuge was stabbed Monday evening in his residence in Gamwanawatta,",
@@ -1559,6 +1621,272 @@
         "start_end": [
           38,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Mumbai Autistic Girl Swims From Sri Lanka To Tamil Nadu In 13 Hours, Sets New World Record",
+    "source": "thelogicalindian.com",
+    "snippet": "Jiya Rai (13) became the youngest and fastest female swimmer worldwide to swim across the Palk Strait from Sri Lanka's Talaimannar to Dhanuskodi in Tamil Nadu, covering a distance of 29 km in 13",
+    "url": "https://thelogicalindian.com/inclusivity/mumbai-autistic-girl-swims-from-sri-lanka-to-tamil-nadu-in-13-hours-34572",
+    "url_hash": "f661950e9c675ad90b51aef062764f10",
+    "ut": 1647936568,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jiya Rai",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Palk Strait",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Talaimannar",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dhanuskodi",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Tamil Nadu",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "29 km",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "13",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka deploys troops at gas stations after 3 people die",
+    "source": "www.laprensalatina.com",
+    "snippet": "Sri Lanka deployed soldiers at state-run gas stations on Tuesday after at least three people died while waiting in long queues amid fuel shortages and high prices. \"Military personnel was deployed to guarantee the security in the CEYPETCO (Ceylon Petroleum Corp) petrol stations,",
+    "url": "https://www.laprensalatina.com/sri-lanka-deploys-troops-at-gas-stations-after-3-people-die/",
+    "url_hash": "fa6846bac0085d4c90615e3131e14e58",
+    "ut": 1647936976,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least three",
+        "start_end": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka cancels school exams due to shortage of printing paper, ink",
+    "source": "www.msn.com",
+    "snippet": "The economic crisis being faced by Sri Lanka is only worsening with each passing day, the country has now cancelled school exams for millions of students as it has run out of printing paper and ink. Sri Lanka is in the throes of its worst financial crisis since its independence in 1948,",
+    "url": "https://www.msn.com/en-gb/news/world/sri-lanka-cancels-school-exams-due-to-shortage-of-printing-paper-ink/ar-AAVm50q",
+    "url_hash": "45eb264aa46a311b07469a8c5f81b91a",
+    "ut": 1647937876,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "millions",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1948",
+        "start_end": [
+          53,
+          54
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka orders army to petrol stations amid worst fuel crisis in over 70 year",
+    "source": "www.hindustantimes.com",
+    "snippet": "The Indian Ocean island nation is battling a foreign exchange crisis that forced the devaluation of its currency and hit payments for essential imports such as food, medicine and fuel, prompting the government to approach the IMF.",
+    "url": "https://www.hindustantimes.com/world-news/sri-lanka-orders-army-to-petrol-stations-amid-worst-fuel-crisis-in-over-70-year-101647937666803.html",
+    "url_hash": "190317797c649d4bd39644681597ca0c",
+    "ut": 1647937996,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Indian Ocean",
+        "start_end": [
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka to hire global law firm to aid debt restructuring - official",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Sri Lanka will hire a global law firm to provide technical assistance on debt restructuring ahead of talks with the International Monetary Fund (IMF) on the country's economic crisis, a top official said on Tuesday.",
+    "url": "http://bizenglish.adaderana.lk/sri-lanka-to-hire-global-law-firm-to-aid-debt-restructuring-official/",
+    "url_hash": "60498e3f6f12868aa6c49bd0a3620c82",
+    "ut": 1647938176,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka succumbs to Chinese investment trap",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lanka is battling one of its worst economic crises in over seven decades, as successive governments in the island nation have ignored sovereign bonds to Sri Lanka, with China being a major lender.",
+    "url": "https://news.webindia123.com/news/Articles/World/20220322/3922279.html",
+    "url_hash": "9816eed96f2ec6981c8152803bc4e1ee",
+    "ut": 1647939136,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over seven decades",
+        "start_end": [
+          11,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          31,
+          32
         ]
       }
     ]
