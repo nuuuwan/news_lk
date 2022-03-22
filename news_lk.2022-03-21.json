@@ -6396,6 +6396,73 @@
     "date": "2022-03-21",
     "title": "Minister Gamini Lokuge's driver beaten to death",
     "source": "www.dailymirror.lk",
+    "snippet": "The driver of Energy Minister Gamini Lokuge has been beaten to death at his residence in Gamwanawatta, Mavittara in Kesbewa this evening, Police said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Minister-Gamini-Lokuge%E2%80%99s-driver-beaten-to-death/108-233525",
+    "url_hash": "54cdffb6c46c05cb48ab43174ddf463f",
+    "ut": 1647878926,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Energy",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamini Lokuge",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Gamwanawatta",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Mavittara",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kesbewa",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this evening",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Police",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Minister Gamini Lokuge's driver beaten to death",
+    "source": "www.dailymirror.lk",
     "snippet": "The driver of Energy Minister Gamini Lokuge has been beaten to death at his residence in Mavittara in Kesbewa this evening, Police said. ..",
     "url": "https://www.dailymirror.lk/latest_news/Minister-Gamini-Lokuges-driver-beaten-to-death/342-233525",
     "url_hash": "5f072beebac597ea7adfeb6b2c66238a",
@@ -6745,6 +6812,49 @@
         "start_end": [
           35,
           38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-21",
+    "title": "The next Multibagger - Sri Lanka",
+    "source": "www.linkedin.com",
+    "snippet": "I'm a tech leader (sort of) and a value investor - and my next big bet is on Sri Lanka As a value investor - there are 2 things you look for - strong fundamentals and discounted price, as a tech leader you look for a rich talent pool - today Sri Lanka checks all the boxes.",
+    "url": "https://www.linkedin.com/pulse/next-multibagger-sri-lanka-prashant-srivastava",
+    "url_hash": "751321bdb24c9f4690b2b54ccbdd74a8",
+    "ut": 1647882534,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          54,
+          55
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          55,
+          57
         ]
       }
     ]
