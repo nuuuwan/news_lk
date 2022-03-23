@@ -1729,6 +1729,57 @@
   },
   {
     "date": "2022-03-22",
+    "title": "UPDATE 1-Crisis-hit Sri Lanka sends troops to oversee fuel distribution",
+    "source": "www.yahoo.com",
+    "snippet": "Sri Lanka ordered its military to post soldiers at hundreds of gas stations on Tuesday, to help distribute fuel after a sudden rise in prices of key commodities and the accompanying shortages forced tens of thousands of people to queue for hours.",
+    "url": "https://www.yahoo.com/now/1-crisis-hit-sri-lanka-071405766.html",
+    "url_hash": "9b09a1b4d3d84e3866ecf6bec972a5fa",
+    "ut": 1647932992,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "tens of thousands",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Carey and Green guide Australia to 320-5 on Day 2, 3rd test",
     "source": "apnews.com",
     "snippet": "Alex Carey and Cameron Green revived the innings with patient half centuries as Australia progressed to 320-5 at lunch on Day 2 of the third and final cricket test against Pakistan.",
