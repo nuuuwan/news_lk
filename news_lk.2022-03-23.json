@@ -3526,6 +3526,41 @@
   },
   {
     "date": "2022-03-23",
+    "title": "S. Korea to expand labour cooperation with SL: Envoy",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Korean government has taken measures to expand labour cooperation and Official Development Assistance (ODA) collaboration between the two countries and assist in resuscitating the Sri Lankan economy,",
+    "url": "https://www.dailymirror.lk/latest_news/S-Korea-to-expand-labour-cooperation-with-SL-Envoy/342-233674",
+    "url_hash": "59ab9e2a03b2611647f671f4b88ca80e",
+    "ut": 1648037337,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Korean",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "Sri Lanka Economic Crisis Explained: What Is Happening In Sri Lanka? All You Need To Know",
     "source": "www.republicworld.com",
     "snippet": "Sri Lanka is in the midst of a severe economic crisis, with reserves decreasing and the government unable to afford the cost of essential imports.",
@@ -3657,6 +3692,68 @@
         "start_end": [
           35,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Cocaine among scrap metal",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Customs seized a container with a large haul of cocaine worth over Rs.6,000 million while transiting to India. Four containers, including the one with cocaine, were declared to have been containing scrap metal.",
+    "url": "https://www.dailymirror.lk/latest_news/Cocaine-among-scrap-metal/342-233675",
+    "url_hash": "86e0e039a5c7093dbddc196a902ae66c",
+    "ut": 1648040937,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Customs",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Rs.6,000 million",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Four",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "16 Sri Lankan Tamils Arrive in Rameswaram as Economic Crisis Hits Island Nation",
+    "source": "www.msn.com",
+    "snippet": "Owing to the economic crisis in Sri Lanka, there is a huge shortage of essential commodities such as milk, food, petrol and diesel",
+    "url": "https://www.msn.com/en-in/news/other/16-sri-lankan-tamils-arrive-in-rameswaram-as-economic-crisis-hits-island-nation/ar-AAVptVJ",
+    "url_hash": "077d2808f5642b972d38d3eabfa74463",
+    "ut": 1648043886,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
         ]
       }
     ]
