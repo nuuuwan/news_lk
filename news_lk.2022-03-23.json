@@ -952,6 +952,92 @@
   },
   {
     "date": "2022-03-23",
+    "title": "Sri Lanka deploys troops as fuel shortage sparks protests",
+    "source": "dailytimes.com.pk",
+    "snippet": "Sri Lanka\u00a0ordered\u00a0troops\u00a0to petrol stations Tuesday as sporadic\u00a0protests\u00a0erupted among the thousands of motorists queueing up daily for scarce\u00a0fuel.",
+    "url": "https://dailytimes.com.pk/906305/sri-lanka-deploys-troops-as-fuel-shortage-sparks-protests-3/",
+    "url_hash": "46c87d3069a342fa423d54258a46d71a",
+    "ut": 1648004989,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "16 refugees land in Tamil Nadu as economic crisis squeezes Sri Lanka",
+    "source": "timesofindia.indiatimes.com",
+    "snippet": "Sixteen Tamil refugees fleeing food and fuel shortages in Sri Lanka were rescued by the Indian Coast Guard from an islet near Rameswaram and the Dhan",
+    "url": "https://timesofindia.indiatimes.com/city/madurai/16-refugees-land-in-state-as-economic-crisis-squeezes-sl/articleshow/90385269.cms",
+    "url_hash": "cab16ca4904f3a9e4d38c4ed5a4f7ef1",
+    "ut": 1648004989,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Sixteen",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian Coast Guard",
+        "start_end": [
+          14,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rameswaram",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "India to provide Rs.300mn to implement unified digital ID project",
     "source": "www.dailymirror.lk",
     "snippet": "The Cabinet this week cleared the path to secure a Rs.300 million grant from India to implement Sri Lanka Unified Digital Identity Framework. ..",
@@ -1457,6 +1543,65 @@
   },
   {
     "date": "2022-03-23",
+    "title": "Gas cylinders distributed to people",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Nuwara Eliya police yesterday distributed Laugfs gas cylinders directly to the people in the area from the delivery lorry that was parked near Nuwara Eliya town. 12.5 kg and 5 kg gas cylinders are sold for Rs.",
+    "url": "https://www.dailymirror.lk/latest_news/Gas-cylinders-distributed-to-people/342-233661",
+    "url_hash": "169b70d1568942280643f133cb99f401",
+    "ut": 1648012177,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Nuwara",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Laugfs",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Nuwara Eliya",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "12.5 kg",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "5 kg",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "Sri Lanka lenders ordered to double surrenders to the central bank",
     "source": "economynext.com",
     "snippet": "Sri Lanka's commercial banks have been ordered to double the share of remittances and mandatorily converted export proceeds surrendered to the central bank.",
@@ -1583,6 +1728,49 @@
         "start_end": [
           19,
           20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "ICBT Campus Adds 80,000 Sq.Ft, Ultra Modern New Wing to Main Campus in Colombo",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "ICBT Campus, Sri Lanka's premier private sector higher education provider, marked yet another big milestone recently when the new, state-of-the-art West Wing officially became part of the Main Campus in Colombo 04.",
+    "url": "http://bizenglish.adaderana.lk/icbt-campus-adds-80000-sq-ft-ultra-modern-new-wing-to-main-campus-in-colombo/",
+    "url_hash": "0edcd9efade94e78a1c5dc15f6fc5ba0",
+    "ut": 1648015805,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "ICBT Campus",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "West Wing",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Main Campus in Colombo",
+        "start_end": [
+          36,
+          41
         ]
       }
     ]
@@ -1736,6 +1924,151 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Explained: How economic crisis is forcing Sri Lankans to flee to Tamil Nadu",
+    "source": "www.msn.com",
+    "snippet": "Sixteen Sri Lankan nationals have reached Tamil Nadu and more are expected to arrive in the coming days. The island nation is facing an economic meltdown with shortage of fuel and essential commoditie",
+    "url": "https://www.msn.com/en-in/news/world/explained-how-economic-crisis-is-forcing-sri-lankans-to-flee-to-tamil-nadu/ar-AAVooQr",
+    "url_hash": "de4011607a609d80d2916c45652e98f8",
+    "ut": 1648020289,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Sixteen",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming days",
+        "start_end": [
+          15,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "What Led To Sri Lanka's Worst Economic Crisis In Recent History, What Is The Way Forward?",
+    "source": "www.outlookindia.com",
+    "snippet": "Sri Lanka is facing an acute economic and energy crisis triggered due to a shortage of foreign exchange. A sudden rise in prices of key commodities and fuel shortage forced tens of thousands of people to queue for hours outside petrol pumps.",
+    "url": "https://www.outlookindia.com/international/what-led-to-sri-lanka-s-worst-economic-crisis-in-recent-history-what-is-the-way-forward--news-188139",
+    "url_hash": "eee85656d31f167fb4416d57c38aacfe",
+    "ut": 1648020469,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "tens of thousands",
+        "start_end": [
+          31,
+          34
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Ranil fears crisis will continue for 5 years",
+    "source": "colombogazette.com",
+    "snippet": "United National Party (UNP) leader and former Prime Minister Ranil Wickremesinghe fears the current crisis will continue for 5 years. Speaking at the All Party Conference held today, Wickremesinghe sa",
+    "url": "https://colombogazette.com/2022/03/23/ranil-fears-crisis-will-continue-for-5-years/",
+    "url_hash": "3a220f85b9b64201d999366291c16111",
+    "ut": 1648022357,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "United National Party",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "5 years",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the All Party Conference",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Wickremesinghe",
+        "start_end": [
+          32,
+          33
         ]
       }
     ]
