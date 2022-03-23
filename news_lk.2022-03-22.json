@@ -1512,6 +1512,16 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Chicken feed shortage drags down eggs production by 40%",
+    "source": "www.dailymirror.lk",
+    "snippet": "The poultry industry is yet again faced with a shortage of chicken feed which has affected the availability of eggs in the local market. ..",
+    "url": "https://www.dailymirror.lk/business/Chicken-feed-shortage-drags-down-eggs-production-by-40%25/215-233594",
+    "url_hash": "cf03241af8ca2300d7d92d52dc1acabc",
+    "ut": 1647930993,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka's Kerosene Crisis",
     "source": "www.rediff.com",
     "snippet": "Women, men and children waiting in long queues to buy kerosene are a common sight in Colombo and other Sri Lankan cities after the nation's severe economic crisis cut off supplies of petroleum products to the island.",
@@ -4859,6 +4869,25 @@
   },
   {
     "date": "2022-03-22",
+    "title": "How can Sri Lanka encourage spiritual tourism?",
+    "source": "www.ft.lk",
+    "snippet": "Spiritual tourism entails visiting sacred and spiritual places of worship of many religions (churches, temples, synagogues, and mosques) in order to receive spiritual experience and enlightenment in order to improve one's physical,",
+    "url": "https://www.ft.lk/columns/How-can-Sri-Lanka-encourage-spiritual-tourism/4-732414",
+    "url_hash": "1684d02bb5652e71e925d19a72c6ebe8",
+    "ut": 1647974216,
+    "ent_info_list": [
+      {
+        "label": "FAC",
+        "text": "mosques",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Would an international bailout save Sri Lanka's economy?",
     "source": "www.aljazeera.com",
     "snippet": "Sri Lanka is facing its worst economic crisis since independence in 1948. International rating agencies have warned that the island nation is on the verge of defaulting on its debt. Its usable foreign currency reserves have plunged below $1bn,",
@@ -5546,6 +5575,116 @@
         "start_end": [
           12,
           13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "U.S. willing to help Sri Lanka find sustainable solutions to urgent economic challenges",
+    "source": "island.lk",
+    "snippet": "Sanath Nanayakkare Julie Chung, the U.S. Ambassador to Sri Lanka met with UNP Leader and former prime minister Ranil Wickremasinghe (RW) on Monday, March 21 at the latter's private residence in Colombo.",
+    "url": "https://island.lk/u-s-willing-to-help-sri-lanka-find-sustainable-solutions-to-urgent-economic-challenges/",
+    "url_hash": "48876bb5d877706925fa22bb23668f30",
+    "ut": 1647992203,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sanath Nanayakkare",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Julie Chung",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP Leader",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremasinghe",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday, March 21",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka import licenses will worsen economic crisis, promote corruption: think tank",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's new import licensing wave will worsen an economic crisis, promote corruption and will not solve the foreign exchange problems, Advocata Institute, a Colombo based think tank has said.",
+    "url": "https://economynext.com/sri-lanka-import-licenses-will-worsen-economic-crisis-promote-corruption-think-tank-91941/",
+    "url_hash": "548f1cad80849d2ac848f67d493e77e8",
+    "ut": 1647992220,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Advocata Institute",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          28,
+          29
         ]
       }
     ]
