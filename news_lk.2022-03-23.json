@@ -3523,5 +3523,142 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sri Lanka Economic Crisis Explained: What Is Happening In Sri Lanka? All You Need To Know",
+    "source": "www.republicworld.com",
+    "snippet": "Sri Lanka is in the midst of a severe economic crisis, with reserves decreasing and the government unable to afford the cost of essential imports.",
+    "url": "https://www.republicworld.com/world-news/rest-of-the-world-news/sri-lanka-economic-crisis-explained-what-is-happening-in-sri-lanka-all-you-need-to-know-articleshow.html",
+    "url_hash": "5888c7560ddb332075d79567d9ee52d7",
+    "ut": 1648037614,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Live updates: Italy wants pressure put on China at EU summit",
+    "source": "accesswdun.com",
+    "snippet": "Italian Premier Mario Draghi says the European Union must engage with China to make sure it is working actively to mediate peace in Ukraine and does not show any support for Moscow's invasion of its n",
+    "url": "https://accesswdun.com/article/2022/3/1088521",
+    "url_hash": "bce67ffe5d811ab847190d3f87ced98f",
+    "ut": 1648038643,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Italian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mario Draghi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the European Union",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "VitalHub Announces Q4 2021 Conference Call Date",
+    "source": "stockhouse.com",
+    "snippet": "VitalHub Corp. (the \"Company&CloseCurlyDoubleQuote; or \"VitalHub&CloseCurlyDoubleQuote;) (TSX: VHI) is pleased to announce that it will release its financial results for its fourth quarter (Q4) ended December 31st,",
+    "url": "https://stockhouse.com/news/press-releases/2022/03/23/vitalhub-announces-q4-2021-conference-call-date",
+    "url_hash": "0a2e748faaf97b9769ff8143fb6fcc34",
+    "ut": 1648039363,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VitalHub Corp.",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TSX",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VHI",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "its fourth quarter",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Q4",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December 31st",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
   }
 ]
