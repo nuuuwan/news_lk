@@ -4786,6 +4786,41 @@
   },
   {
     "date": "2022-03-23",
+    "title": "Only a powerful people's movement can rescue country from present crisis: Anura Kumara",
+    "source": "www.dailymirror.lk",
+    "snippet": "Claiming that a mere political party could not rescue the country from the present crisis, JVP leader Anura Kumara Dissanayake said today it could be done only by forming a powerful people's movement and toppling this failed government.",
+    "url": "https://www.dailymirror.lk/breaking_news/Only-a-powerful-peoples-movement-can-rescue-country-from-present-crisis-Anura-Kumara/108-233680",
+    "url_hash": "5ec6b01554e8fc12364e7be56639f3f9",
+    "ut": 1648055344,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "JVP",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Anura Kumara Dissanayake",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "US welcomes action taken by Sri Lanka to promote reconciliation",
     "source": "colombogazette.com",
     "snippet": "The United States today welcomed action taken by Sri Lanka to promote reconciliation and human rights in pursuit of development and prosperity.\u00a0 Sri Lanka and the United States convened the Fourth Sri Lanka - U.",
@@ -5395,6 +5430,140 @@
         "start_end": [
           22,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sharmane becomes HSBC Sri Lanka's first ever intl. student scholarship winner",
+    "source": "www.ft.lk",
+    "snippet": "HSBC Sri Lanka announced its first ever International Scholarship Program to support the ambitions of local students by giving one deserving student the opportunity to pursue their higher education with a $ 10,",
+    "url": "https://www.ft.lk/education/Sharmane-becomes-HSBC-Sri-Lanka-s-first-ever-intl-student-scholarship-winner/10515-732438",
+    "url_hash": "4f09ac1d47ae1be90a5a01d0c27110da",
+    "ut": 1648071685,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "HSBC Sri Lanka",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "International Scholarship Program",
+        "start_end": [
+          7,
+          10
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "10",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sri Lanka and US conclude partnership dialogue in Colombo",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka and the US yesterday concluded the fourth partnership dialogue in Colombo yesterday. The two countries issued the following joint statement upon the successful conclusion of the dialogue. Sri Lanka and the US convened the Fourth Sri Lanka - U.",
+    "url": "https://www.ft.lk/news/Sri-Lanka-and-US-conclude-partnership-dialogue-in-Colombo/56-732444",
+    "url_hash": "f8926d2208ad65ad2eac8a69a1d1c64d",
+    "ut": 1648072525,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Fourth Sri Lanka - U.",
+        "start_end": [
+          37,
+          43
         ]
       }
     ]
