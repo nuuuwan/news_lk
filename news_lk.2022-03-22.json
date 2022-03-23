@@ -1426,6 +1426,49 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Sri Lanka deploys troops as fuel shortage sparks protests",
+    "source": "news.yahoo.com",
+    "snippet": "Sri Lanka ordered troops to petrol stations Tuesday as sporadic protests erupted among the thousands of motorists queueing up daily for scarce fuel.",
+    "url": "https://news.yahoo.com/sri-lanka-deploys-troops-fuel-055743117.html",
+    "url_hash": "38fe81ba486b03263b59dfd1df7e24d6",
+    "ut": 1647930282,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka deploys army at gas stations after three people die",
     "source": "www.infobae.com",
     "snippet": "Sri Lanka deployed soldiers to state gas stations on Tuesday to ensure safety after the death of at least three people, one of them stabbed, in the long queues caused by shortages and high prices, amid an acute economic crisis that the island nation is suffering.",
@@ -4746,6 +4789,76 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Sri Lanka Singapore Business Council free webinar on private sector role in enhancing K-12 education",
+    "source": "www.ft.lk",
+    "snippet": "The Sri Lanka Singapore Business Council (SLSBC) of the Ceylon Chamber of Commerce has announced a free webinar for corporate decision makers, CSR foundation leaders, and private educational institutions.",
+    "url": "https://www.ft.lk/education/Sri-Lanka-Singapore-Business-Council-free-webinar-on-private-sector-role-in-enhancing-K-12-education/10515-732398",
+    "url_hash": "fe33706592e79b721fe501264dadf06b",
+    "ut": 1647973496,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lanka Singapore Business Council",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLSBC",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ceylon Chamber of Commerce",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSR",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "The 'manmade agriculture disaster' in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "It is a shame, and I feel incredibly sorry for the 22 million consumers of Sri Lanka, including our farming community and myself, for not being able to convince or force the ignorant policymakers in this country to make rational decisions on agriculture at the correct time.",
+    "url": "https://www.ft.lk/columns/The-manmade-agriculture-disaster-in-Sri-Lanka/4-732388",
+    "url_hash": "4d1c34d324eb72d2fec5c6492dcdfb95",
+    "ut": 1647973496,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "22 million",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Would an international bailout save Sri Lanka's economy?",
     "source": "www.aljazeera.com",
     "snippet": "Sri Lanka is facing its worst economic crisis since independence in 1948. International rating agencies have warned that the island nation is on the verge of defaulting on its debt. Its usable foreign currency reserves have plunged below $1bn,",
@@ -5315,6 +5428,175 @@
         "start_end": [
           31,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Sri Lanka schedules power cuts of up to 5 hours on March 23",
+    "source": "economynext.com",
+    "snippet": "Power cuts of 5 hours for some areas in Sri Lanka and 2 hours and 40 minutes for other areas were approved in two blocks for March 23 Wednesday, Public Utilities Commission Chairman Janaka Ratnayake said as a forex crisis creates power shortages in the dry season.",
+    "url": "https://economynext.com/sri-lanka-schedules-power-cuts-of-up-to-5-hours-on-march-23-91937/",
+    "url_hash": "4e2aad8e04ed5ee1b293bbe3eb17cbe0",
+    "ut": 1647991501,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "5 hours",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "2 hours and 40 minutes",
+        "start_end": [
+          12,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 23",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Public Utilities Commission",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janaka Ratnayake",
+        "start_end": [
+          34,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the dry season",
+        "start_end": [
+          45,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "China turns its back on Sri Lanka economic crisis",
+    "source": "theprint.in",
+    "snippet": "China refused to assist Sri Lanka which appealed to reschedule its huge Chinese debt burden in the face of the Covid-19 outbreak that has adversely affected the tourism sector, said a media report. Colombo appealed if a restructuring of the debt could be arranged to mitigate the economic crisis",
+    "url": "https://theprint.in/world/china-turns-its-back-on-sri-lanka-economic-crisis/884457/",
+    "url_hash": "b14f3de8cdd06806705c747b045747c7",
+    "ut": 1647991782,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "How Four Powerful Brothers Broke an Island Nation",
+    "source": "www.lankaweb.com",
+    "snippet": "In just over two years, Sri Lanka's first family has presided over a series of crises mostly of its own making. The island nation of 22 million people is facing its worst economic upheaval in a decade. From an ill-fated fertilizer ban that led to a ...",
+    "url": "https://www.lankaweb.com/news/items/2022/03/22/how-four-powerful-brothers-broke-an-island-nation/",
+    "url_hash": "a6b3eb529335ddb63d656f872435e840",
+    "ut": 1647992802,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "just over two years",
+        "start_end": [
+          1,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          6,
+          9
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22 million",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a decade",
+        "start_end": [
+          38,
+          40
         ]
       }
     ]
