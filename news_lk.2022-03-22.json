@@ -3510,6 +3510,65 @@
     "title": "Power cut schedule announced for tomorrow",
     "source": "www.dailymirror.lk",
     "snippet": "The power schedule which was imposed today will be carried out for tomorrow (23) as well, the Public Utilities Commission of Sri Lanka (PUCSL) said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Power-cut-schedule-announced-for-tomorrow/108-233603",
+    "url_hash": "a5f5a0b289245d0a472af17dee2558d0",
+    "ut": 1647954552,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Public Utilities Commission",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Power cut schedule announced for tomorrow",
+    "source": "www.dailymirror.lk",
+    "snippet": "The power schedule which was imposed today will be carried out for tomorrow (23) as well, the Public Utilities Commission of Sri Lanka (PUCSL) said. ..",
     "url": "https://www.dailymirror.lk/latest_news/Power-cut-schedule-announced-for-tomorrow/342-233603",
     "url_hash": "4389fd70315fe4401b098f21ed49e0d4",
     "ut": 1647954554,
@@ -5169,6 +5228,33 @@
         "text": "one",
         "start_end": [
           7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Amma, should I go with this stranger?",
+    "source": "www.dailymirror.lk",
+    "snippet": "For thousands of young girls across Sri Lanka, their wedding is a far cry from happily ever after as parents marry off their daughters.... ..",
+    "url": "https://www.dailymirror.lk/eye/Amma-should-I-go-with-this-stranger/372-233611",
+    "url_hash": "681095f6a809100aba6f26fa0d005497",
+    "ut": 1647979752,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
           8
         ]
       }
