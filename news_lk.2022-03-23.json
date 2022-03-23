@@ -2099,6 +2099,57 @@
   },
   {
     "date": "2022-03-23",
+    "title": "SL rupee hits Rs. 290 against US Dollar at several banks",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lankan rupee touched a record low of Rs. 290 against the US Dollar today at several licensed Commercial Banks. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-rupee-hits-Rs-290-against-US-Dollar-at-several-banks/108-233663",
+    "url_hash": "8007a2db2b8a37b2ca8abf4795bbb58a",
+    "ut": 1648019349,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "290",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Commercial Banks",
+        "start_end": [
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "Explained: How economic crisis is forcing Sri Lankans to flee to Tamil Nadu",
     "source": "www.msn.com",
     "snippet": "Sixteen Sri Lankan nationals have reached Tamil Nadu and more are expected to arrive in the coming days. The island nation is facing an economic meltdown with shortage of fuel and essential commoditie",
@@ -2375,6 +2426,127 @@
         "start_end": [
           33,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Bigdeals.lk - Truly Sri Lankan, 10 years and counting!",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lankan customers to a whole new dimension of shopping. Customers that visited the site could browse thousands ..",
+    "url": "https://www.dailymirror.lk/press-releases/Bigdeals-lk-Truly-Sri-Lankan-10-years-and-counting/335-233664",
+    "url_hash": "874111872a11c54d1ea6fc2143066f9b",
+    "ut": 1648027269,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sri Lanka - US delegation led by Under Secretary of State for Political Affairs arrives in Sri Lanka",
+    "source": "menafn.com",
+    "snippet": "United States Under Secretary of State for Political Affairs Victoria Nuland arrived in Colombo today with an interagency delegation fo",
+    "url": "https://menafn.com/1103898532/Sri-Lanka-US-delegation-led-by-Under-Secretary-of-State-for-Political-Affairs-arrives-in-Sri-Lanka&source=19",
+    "url_hash": "0ec1499f36bf5f43e230c111615220b2",
+    "ut": 1648027362,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "United States",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Victoria Nuland",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Wipro GE Healthcare Bolsters Leadership Bench in India & South Asia, announces appointment of Elie Chaillot to the Board of Directors",
+    "source": "theprint.in",
+    "snippet": "Wipro GE Healthcare, a leading global medical technology and diagnostics innovator, today announced the appointment of Elie Chaillot, President & CEO, GE Healthcare Intercontinental, to its Board of Directors.",
+    "url": "https://theprint.in/ani-press-releases/wipro-ge-healthcare-bolsters-leadership-bench-in-india-south-asia-announces-appointment-of-elie-chaillot-to-the-board-of-directors/885042/",
+    "url_hash": "27478ac4755a95ad354d153a1e5bae62",
+    "ut": 1648029628,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Wipro GE Healthcare",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Elie Chaillot",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "GE Healthcare Intercontinental",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Board of Directors",
+        "start_end": [
+          31,
+          34
         ]
       }
     ]
