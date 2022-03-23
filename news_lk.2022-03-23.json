@@ -4367,6 +4367,57 @@
   },
   {
     "date": "2022-03-23",
+    "title": "Live updates: As many as 15,000 Russians killed in fighting",
+    "source": "trib.com",
+    "snippet": "A senior NATO military officer says the alliance estimates that Russia has suffered between 30,000 and 40,000 battlefield casualties in Ukraine through the first month of the war,",
+    "url": "https://trib.com/business/live-updates-as-many-as-15-000-russians-killed-in-fighting/article_009a19d6-e1bc-573b-804d-2de7f77e530f.html",
+    "url_hash": "a7667b2c16dd0c1c927af1262b3386ec",
+    "ut": 1648051764,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "NATO",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "between 30,000 and 40,000",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first month",
+        "start_end": [
+          22,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "Realthy Gains Ground in the U.S. Real Estate Market",
     "source": "apnews.com",
     "snippet": "Two months after launching, Realthy.io, a software platform that provides real estate professionals the opportunity to generate additional income through recommending relevant products and services to homeowners,",
@@ -4415,6 +4466,65 @@
         "start_end": [
           26,
           27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "US welcomes action taken by Sri Lanka to promote reconciliation",
+    "source": "colombogazette.com",
+    "snippet": "The United States today welcomed action taken by Sri Lanka to promote reconciliation and human rights in pursuit of development and prosperity.\u00a0 Sri Lanka and the United States convened the Fourth Sri Lanka - U.",
+    "url": "https://colombogazette.com/2022/03/23/us-welcomes-action-taken-by-sri-lanka-to-promote-reconciliation/",
+    "url_hash": "46845fa99af46137070a69bb46c49cc4",
+    "ut": 1648058077,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "The United States",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Fourth Sri Lanka - U.",
+        "start_end": [
+          31,
+          37
         ]
       }
     ]
