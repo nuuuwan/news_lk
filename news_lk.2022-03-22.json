@@ -1630,6 +1630,57 @@
   },
   {
     "date": "2022-03-22",
+    "title": "UPDATE 1-Crisis-hit Sri Lanka sends troops to oversee fuel distribution",
+    "source": "sports.yahoo.com",
+    "snippet": "Sri Lanka ordered its military to post soldiers at hundreds of gas stations on Tuesday, to help distribute fuel after a sudden rise in prices of key commodities and the accompanying shortages forced tens of thousands of people to queue for hours.",
+    "url": "https://sports.yahoo.com/1-crisis-hit-sri-lanka-071405766.html",
+    "url_hash": "4bd37b90113d4034826e1dc2a617a483",
+    "ut": 1647932954,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "hundreds",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "tens of thousands",
+        "start_end": [
+          34,
+          37
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "hours",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Sri Lanka police arrest suspects linked to murder of top minister's driver",
     "source": "economynext.com",
     "snippet": "Sri Lanka police have arrested all suspects linked to the murder of a cabinet minister's driver that occurred Monday (21) evening, a local police officer told EconomyNext Tuesday (22) afternoon. The driver of Energy Minister Gamini Lokuge was stabbed Monday evening in his residence in Gamwanawatta,",
@@ -5365,6 +5416,33 @@
         "text": "one",
         "start_end": [
           7,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Amma, should I go with this stranger?",
+    "source": "www.dailymirror.lk",
+    "snippet": "For thousands of young girls across Sri Lanka, their wedding is a far cry from happily ever after as parents marry off their daughters.... ..",
+    "url": "https://www.dailymirror.lk/eye/Amma--should-I-go-with-this-stranger-/372-233611",
+    "url_hash": "117cf0687dc05769b9c847e540a5f3fe",
+    "ut": 1647979745,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
           8
         ]
       }
