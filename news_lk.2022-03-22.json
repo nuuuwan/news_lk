@@ -5200,6 +5200,92 @@
   },
   {
     "date": "2022-03-22",
+    "title": "Amma, should I go with this stranger?",
+    "source": "www.dailymirror.lk",
+    "snippet": "Oh honey, it's okay. It's what all girls do. But-but...I love you, I love Papa, I don't wanna leave you. It is your duty, child, we need the money. If you love us, go. So goes the poem by one Sam. For thousands of young girls across Sri Lanka, their ...",
+    "url": "https://www.dailymirror.lk/news-features/Amma--should-I-go-with-this-stranger-/131-233611",
+    "url_hash": "a33e58b9e583d9678cf965fffeed15ac",
+    "ut": 1647979732,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          57,
+          58
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          61,
+          62
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          66,
+          68
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Let there be no more supplicant 'fixers'",
+    "source": "www.dailymirror.lk",
+    "snippet": "The death of two journalists working for Fox News, US in Ukraine on March 14 has reignited the conversation on the value.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Let-there-be-no-more-supplicant-fixers/172-233612",
+    "url_hash": "e972750d27dff496037a87af928f7f81",
+    "ut": 1647979732,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Fox News",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 14",
+        "start_end": [
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
     "title": "Welcome to the Land of Breathtaking Vistas",
     "source": "www.khaleejtimes.com",
     "snippet": "In recent years Pakistan has emerged as one of the leading tourist destinations for travellers from all over the world",
@@ -5607,6 +5693,49 @@
         "start_end": [
           31,
           35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-22",
+    "title": "Ukraine Live Updates: Russia Continues Bombardment, but Its Forces Have Shrunk, Pentagon Says",
+    "source": "www.nytimes.com",
+    "snippet": "The latest trial was held in a makeshift courtroom at the prison outside Moscow where Mr. Navalny has been held for more than a year. Following the sentencing, two of his lawyers were detained by the police and driven away in a police truck after they went outside to speak to journalists,",
+    "url": "https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war/here-are-the-latest-developments",
+    "url_hash": "f84ffef9db7dcb31e84dbe52f4b5878a",
+    "ut": 1647990551,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Navalny",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "more than a year",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]

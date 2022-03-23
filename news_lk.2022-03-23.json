@@ -470,6 +470,65 @@
   },
   {
     "date": "2022-03-23",
+    "title": "Payment for already imported food containers under Indian credit line hampered",
+    "source": "www.dailymirror.lk",
+    "snippet": "The use of US $ 1 billion Indian credit line for the release of around 1500 containers of essential food commodities already imported from India and stuck at the port has been hampered since some of the shippers are not ready to accept payment in Indian rupees,",
+    "url": "https://www.dailymirror.lk/top_story/Payment-for-already-imported-food-containers-under-Indian-credit-line-hampered/155-233608",
+    "url_hash": "6be0d25f360632181bf60be1422e9a2f",
+    "ut": 1647997732,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 1 billion",
+        "start_end": [
+          4,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1500",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "Sri Lanka central bank ends ban on forward forex sales to importers",
     "source": "economynext.com",
     "snippet": "Sri Lanka central bank has lifted a ban on foreign exchange trading and allowed banks to sell forward to importers from March 22, in a new direction issued to banks, ending one of several cascading policy errors that led to an economic crisis.",
@@ -518,6 +577,41 @@
         "start_end": [
           14,
           16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sri Lanka reforms anti-terror law as EU reviews trade scheme",
+    "source": "apnews.com",
+    "snippet": "Sri Lankan lawmakers on Tuesday approved reforms to a harsh anti-terror law that rights groups have long criticized, as the country looks to shore up its trade relations with the European Union amid its worst economic crisis in memory.",
+    "url": "https://apnews.com/article/business-asia-global-trade-south-asia-sri-lanka-5ddb5b2623115b96d1f4c0584f6b3306",
+    "url_hash": "0fcc73d2c7b4039d1f2175e07cd974b0",
+    "ut": 1648001351,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the European Union",
+        "start_end": [
+          32,
+          35
         ]
       }
     ]
@@ -612,6 +706,114 @@
         "start_end": [
           7,
           8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Supreme Court approves Surcharge Tax",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Supreme Court has given its approval for the Surcharge Tax Bill and has held the view that a simple majority in Parliament could approve it. ..",
+    "url": "https://www.dailymirror.lk/business-news/Supreme-Court-approves-Surcharge-Tax/273-233629",
+    "url_hash": "9da0adf0684ad327f240fe9d0381193d",
+    "ut": 1648004932,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Supreme Court",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Govt. says LP Gas shortage will be resolved within next 7-10 days",
+    "source": "www.dailymirror.lk",
+    "snippet": "The government expects to end the LP Gas shortage within the next 7-10 days with Litro Gas gradually moving to meet the market demand after securing letter of credit (LC) facilities, while Laugfs Gas is yet to receive green light for its letter of credit facilities.",
+    "url": "https://www.dailymirror.lk/business-news/Govt-says-LP-Gas-shortage-will-be-resolved-within-next-7-10-days/273-233631",
+    "url_hash": "281f8255a6059416f4199b0634d91882",
+    "ut": 1648004932,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the next 7-10 days",
+        "start_end": [
+          10,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Litro Gas",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Laugfs Gas",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Cabinet nod for President-headed new investment promotion committee",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Cabinet nod has been granted to appoint a ministerial committee on investment promotion chaired by President Gotabaya Rajapaksa with the objective of providing necessary policy and pragmatic solutions to promote investment opportunities in the country.",
+    "url": "https://www.dailymirror.lk/business-news/Cabinet-nod-for-President-headed-new-investment-promotion-committee/273-233630",
+    "url_hash": "e5f5960ef2471a584599578f5427cfb1",
+    "ut": 1648004932,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Restaurants call for concessions from govt. on selected restricted import ingredients",
+    "source": "www.dailymirror.lk",
+    "snippet": "As food prices have sky-rocketed in recent weeks amid import restrictions and the sharp depreciation of the rupee, restaurants are urging the government to look at making key ingredients available at affordable prices by way of extending concessions.",
+    "url": "https://www.dailymirror.lk/business-news/Restaurants-call-for-concessions-from-govt-on-selected-restricted-import-ingredients/273-233626",
+    "url_hash": "c5fd510763ea11be9dc97bd1668101cf",
+    "ut": 1648004932,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "recent weeks",
+        "start_end": [
+          8,
+          10
         ]
       }
     ]
@@ -878,6 +1080,197 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Amid economic crisis in the island nation, 6 Sri Lankan nationals illegally enter India via boat",
+    "source": "www.msn.com",
+    "snippet": "The ongoing economic crisis in Sri Lanka, the worst-ever in the history of the island nation, is putting its citizens through extreme hardships.\u00a0 From school exams being cancelled owing to a shortage of paper and printer ink,",
+    "url": "https://www.msn.com/en-in/news/world/amid-economic-crisis-in-the-island-nation-6-sri-lankan-nationals-illegally-enter-india-via-boat/ar-AAVojaP",
+    "url_hash": "4c34725141ac846da8da534806bc89cc",
+    "ut": 1648008722,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "No survivors found yet in China plane crash as rescue continues",
+    "source": "www.dailynews.lk",
+    "snippet": "No survivors have been found so far after a passenger plane with 132 people aboard crashed in south China's Guangxi Zhuang Autonomous Region, an aviation official said late Tuesday. The China Eastern Airlines Boeing 737 aircraft,",
+    "url": "https://www.dailynews.lk/2022/03/23/world/275486/no-survivors-found-yet-china-plane-crash-rescue-continues",
+    "url_hash": "0ad713c8023c910ce73bbbd144cc99bc",
+    "ut": 1648008837,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "132",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Guangxi",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "late Tuesday",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The China Eastern Airlines",
+        "start_end": [
+          32,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Boeing",
+        "start_end": [
+          36,
+          37
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "737",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sri Lanka Deploys Troops To Gas Stations As Fuel Shortage Sparks Protests",
+    "source": "www.ndtv.com",
+    "snippet": "Sri Lanka ordered troops to petrol stations Tuesday as sporadic protests erupted among the thousands of motorists queueing up daily for scarce fuel.",
+    "url": "https://www.ndtv.com/world-news/sri-lanka-fuel-crisis-sri-lanka-deploys-troops-to-gas-stations-as-fuel-shortage-sparks-protests-2837768",
+    "url_hash": "dc8d2be1c30e3988ccf124df53a83f5c",
+    "ut": 1648009142,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "China Turns Its Back On Sri Lanka Amid Massive Economic Crisis: Report",
+    "source": "www.ndtv.com",
+    "snippet": "China refused to assist Sri Lanka which appealed to reschedule its huge Chinese debt burden in the face of the Covid-19 outbreak that has adversely affected the tourism sector, said a media report.",
+    "url": "https://www.ndtv.com/world-news/china-turns-its-back-on-sri-lanka-amid-massive-economic-crisis-report-2837606",
+    "url_hash": "48cd0a19018bc0d32897e69befcc471a",
+    "ut": 1648009202,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          12,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sri Lanka Economic Crisis: Scarcity of Supplies Feeds Sporadic Violence as People Scramble for Fuel, Essentials; Few Flee Nation",
+    "source": "www.news18.com",
+    "snippet": "Troops were deployed near petrol pumps and kerosene supply points after three elderly people dropped dead during their wait in long queues, officials in Sri Lanka said.",
+    "url": "https://www.news18.com/news/world/sri-lanka-economic-crisis-scarcity-of-supplies-feeds-sporadic-violence-as-people-scramble-for-fuel-essentials-few-flee-nation-4899665.html",
+    "url_hash": "94ae86534d4e8c463e0b7a2c2affbb93",
+    "ut": 1648011722,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          25,
+          27
         ]
       }
     ]
