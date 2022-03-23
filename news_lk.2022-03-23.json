@@ -3701,6 +3701,92 @@
     "title": "Cocaine among scrap metal",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka Customs seized a container with a large haul of cocaine worth over Rs.6,000 million while transiting to India. Four containers, including the one with cocaine, were declared to have been containing scrap metal.",
+    "url": "https://www.dailymirror.lk/caption_story/Cocaine-among-scrap-metal/110-233675",
+    "url_hash": "4b46f80188eff8441036758d9462c751",
+    "ut": 1648040936,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Customs",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Rs.6,000 million",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Four",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Mahinda thanked Modi",
+    "source": "www.dailymirror.lk",
+    "snippet": "While thanking Indian Prime Minister Narendra Modi for providing Indian economic development assistance and credit facilities, said that he would expect the Indian government would pay a special attention to the development of the country.",
+    "url": "https://www.dailymirror.lk/latest_news/Mahinda-thanked-Modi/342-233676",
+    "url_hash": "3c33fda03eb457e864fb00204148c865",
+    "ut": 1648040936,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Narendra Modi",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Cocaine among scrap metal",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka Customs seized a container with a large haul of cocaine worth over Rs.6,000 million while transiting to India. Four containers, including the one with cocaine, were declared to have been containing scrap metal.",
     "url": "https://www.dailymirror.lk/latest_news/Cocaine-among-scrap-metal/342-233675",
     "url_hash": "86e0e039a5c7093dbddc196a902ae66c",
     "ut": 1648040937,
@@ -3754,6 +3840,92 @@
         "start_end": [
           6,
           8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "US welcomes proposed talks between Lanka govt and TNA",
+    "source": "theprint.in",
+    "snippet": "The US on Wednesday welcomed a proposed meeting between Sri Lankan President Gotabaya Rajapaksa and the Tamil National Alliance (TNA), saying the move to set up a truth-seeking mechanism as part of the country's rights accountability is a good step and Washington will support it.",
+    "url": "https://theprint.in/world/us-welcomes-proposed-talks-between-lanka-govt-and-tna/885486/",
+    "url_hash": "ff77d316e4925f7ea8b42314b36811fd",
+    "ut": 1648044904,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Tamil National Alliance",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Washington",
+        "start_end": [
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sri Lanka's Anti-Terrorism Law Amendment Leaves Critics Dissatisfied",
+    "source": "www.infobae.com",
+    "snippet": "The amendment to Sri Lanka's Prevention of Terrorism Act (PTA) is not enough for the opposition and international bodies that expressed on Wednesday the need to take further steps to stop the use of the controversial rule.",
+    "url": "https://www.infobae.com/en/2022/03/23/sri-lankas-anti-terrorism-law-amendment-leaves-critics-dissatisfied/",
+    "url_hash": "2a9cf05682a466c20b44ea21e57f241e",
+    "ut": 1648046824,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          25,
+          26
         ]
       }
     ]
