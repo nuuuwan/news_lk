@@ -1,6 +1,100 @@
 [
   {
     "date": "2022-03-24",
+    "title": "SL records nearly a billion-dollar trade deficit in January",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka recorded nearly a billion-dollar deficit in the trade account of the balance of payment in the first month of 2022, as the imports continued to run stronger while merchandise exports recorded its eighth consecutive month of over a billion-dollar earnings.",
+    "url": "https://www.dailymirror.lk/business-news/SL-records-nearly-a-billion-dollar-trade-deficit-in-January/273-233718",
+    "url_hash": "39415b6a7947ff6081e1a11299ab1748",
+    "ut": 1648080546,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "billion-dollar",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first month of 2022",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "eighth consecutive month",
+        "start_end": [
+          37,
+          40
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "billion-dollar",
+        "start_end": [
+          43,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Industry to capitalise on Dubai Expo hype for Lankan sapphire",
+    "source": "www.dailymirror.lk",
+    "snippet": "After coming into spotlight at Dubai Expo 2020 with a US $ 100 million worth sapphire masterpiece, Sri Lanka's gem jewellery industry eyes to build up on the momentum and promote the Sri Lankan sapphire brand.",
+    "url": "https://www.dailymirror.lk/business-news/Industry-to-capitalise-on-Dubai-Expo-hype-for-Lankan-sapphire/273-233720",
+    "url_hash": "7ba310f162c3e78add6c8cb0056e2bd2",
+    "ut": 1648080546,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "Dubai Expo 2020",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "US $ 100 million",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "News In Pictures",
     "source": "www.msn.com",
     "snippet": "Fourteen journalists of the Lake House group received awards at the Journalism Awards for Excellence 2019 and 2020 organized by the Editor's Guild together with Sri Lanka Press Institute at the Colombo Hilton on Tuesday.",
@@ -393,6 +487,25 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Food Shortage Amid Economic Crisis in Sri Lanka: Prices of Rice, Sugar Skyrocket; People Wait in Long Lines",
+    "source": "www.india.com",
+    "snippet": "Sri Lanka has been bit by severe shortages of essentials like food, medicine, milk powder, cooking gas and fuel.",
+    "url": "https://www.india.com/explainer/sri-lanka-economic-crisis-food-shortage-prices-rice-sugar-essentials-rise-explained-5300326/",
+    "url_hash": "fa08591f2425950ce127b7937a207839",
+    "ut": 1648087755,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Sri Lanka economy to slow, foreign funds needed for debt, financial stability: CB Governor",
     "source": "economynext.com",
     "snippet": "Sri Lanka's economy will slow with expected tighter fiscal and monetary policy and more foreign resources are needed for debt repayments and financial stability, Central Bank Governor Nivard Cabraal has said.",
@@ -422,6 +535,60 @@
         "start_end": [
           29,
           31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "UN accuses Sri Lanka of violating rights of LGBTI activist",
+    "source": "colombogazette.com",
+    "snippet": "By Easwaran Rutnam Sri Lanka violated the rights of a lesbian and leading LGBTI activist who was subjected to discrimination, threats and abuses due to the country's Penal Code that criminalises same-sex sexual activity,",
+    "url": "https://colombogazette.com/2022/03/24/un-accuses-sri-lanka-of-violating-rights-of-lgbti-activist/",
+    "url_hash": "2e5592e09a3d149a24b69b53876c2ec8",
+    "ut": 1648092276,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "LGBTI",
+        "start_end": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka's Financial Meltdown Could Be End Of The Road For Rajapaksa Family",
+    "source": "www.outlookindia.com",
+    "snippet": "The Russia-Ukraine war which has led to a steep hike in oil prices has further amplified Sri Lanka's economic problems. The crisis resulting from Sri Lanka running out of foreign reserves has led to shortages of almost everything.",
+    "url": "https://www.outlookindia.com/international/sri-lanka-s-financial-meltdown-could-be-end-of-the-road-for-rajapaksa-family-news-188250",
+    "url_hash": "bb1d400543226bacfad85103ff998a02",
+    "ut": 1648093275,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Russia-Ukraine war",
+        "start_end": [
+          0,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
         ]
       }
     ]
