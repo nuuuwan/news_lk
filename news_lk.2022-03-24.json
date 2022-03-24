@@ -2209,6 +2209,73 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Navy apprehends 16 Indian fishermen poaching in Sri Lankan waters",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka Navy seized 02 Indian trawlers along with 16 Indian fishermen while poaching in Sri Lankan waters. They were apprehended in separate patrols carried out on the night of Wednesday (March 23).",
+    "url": "http://www.adaderana.lk/news/81391/navy-apprehends-16-indian-fishermen-poaching-in-sri-lankan-waters",
+    "url_hash": "132c0d26eb15b0924f6fd523380e1f4f",
+    "ut": 1648113018,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "02",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the night of Wednesday (March 23",
+        "start_end": [
+          28,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Railway fares for main and northern routes, INCREASED",
     "source": "www.newsfirst.lk",
     "snippet": "Sri Lanka Railways states that the ticket prices for seats on the main and northern routes have been increased from today (24). Its - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
@@ -2370,6 +2437,135 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Train fare up",
+    "source": "www.dailymirror.lk",
+    "snippet": "While holding a special media briefing today, the Sri Lanka Station Masters' Union (SLSMU) said that the Railways Department has increased the intercity and long distance special train fare from last night without prior notice.",
+    "url": "https://www.dailymirror.lk/breaking_news/Train-fare-up/108-233755",
+    "url_hash": "e3507104e44054f725bbb27fd3159bd9",
+    "ut": 1648116610,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Station Masters' Union",
+        "start_end": [
+          8,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Railways Department",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "last night",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "\"Dump the rupee\": advices world renowned economist Prof. Hanke",
+    "source": "www.dailymirror.lk",
+    "snippet": "Leading world expert on stopping hyperinflation, Steve Hanke shared that the only way to save Sri Lanka's crumbling economy is to dump the rupee and instill a currency board. ..",
+    "url": "https://www.dailymirror.lk/business_247/Dump-the-rupee-advices-world-renowned-economist-Prof-Hanke/395-233753",
+    "url_hash": "cc07ebb48620b0ae6d646f23e8c45bb6",
+    "ut": 1648116610,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Steve Hanke",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka's state-run Litro Gas and CPC promise sustained cooking gas, fuel supply amid shortages",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's state run Litro Gas Ltd will supply one million cooking gas cylinders in the next ten days while the Ceylon Petroleum Corporation will supply fuel twice a day to fuel stations within Colombo,",
+    "url": "https://economynext.com/sri-lankas-state-run-litro-gas-and-cpc-promise-sustained-cooking-gas-fuel-supply-amid-shortages-92015/",
+    "url_hash": "d7b5724d6c35d0d9d8c05f028a894080",
+    "ut": 1648116635,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Litro Gas Ltd",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one million",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next ten days",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ceylon Petroleum Corporation",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "\"Gas, Fuel shortage will end before New Year\"",
     "source": "www.dailynews.lk",
     "snippet": "Home \"Gas, Fuel shortage will end before New Year\"",
@@ -2402,6 +2598,119 @@
         "start_end": [
           24,
           25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "TN beefs up security along coast as refugees land from Sri Lanka",
+    "source": "www.ibtimes.co.in",
+    "snippet": "The elite 'Q' branch of the Tamil Nadu Police have increased security across the coastal areas of the state following the possibility of a huge refugee influx from Sri Lanka in view of the internal crisis in the island nation.",
+    "url": "https://www.ibtimes.co.in/tn-beefs-security-along-coast-refugees-land-sri-lanka-846845",
+    "url_hash": "ce4ed5d8cb6b0a61d21318c664e4fcf1",
+    "ut": 1648120998,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Tamil Nadu Police",
+        "start_end": [
+          7,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lankan Navy arrests 16 Indian fishermen, seizes 2 boats",
+    "source": "daijiworld.com",
+    "snippet": "The Sri Lankan Navy has arrested 16 Indian fishermen from Tamil Nadu and seized two mechanized fishing boats for violation of the International Maritime Boundary Line (IMBL). The arrests were made late on Wednesday night.",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=940420",
+    "url_hash": "f4aa563a571f5c90e75278b7cdd22dc9",
+    "ut": 1648121898,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lankan Navy",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamil Nadu",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Maritime Boundary Line",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Wednesday night",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Explained: Sri Lanka's economic meltdown; is it really a Chinese 'debt trap' & how India is helping",
+    "source": "www.cnbctv18.com",
+    "snippet": "Rising prices, low forex reserves and the island nation's debt crisis have turned the situation extremely grim in Sri Lanka, even forcing the government to deploy troops at fuel stations.",
+    "url": "https://www.cnbctv18.com/world/explained-sri-lankas-economic-meltdown-is-it-really-a-chinese-debt-trap--how-india-is-helping-12922082.htm",
+    "url_hash": "293e588460c4473dd2242fb40dde3a07",
+    "ut": 1648122678,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
