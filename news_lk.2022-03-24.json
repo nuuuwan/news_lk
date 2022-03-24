@@ -1,6 +1,116 @@
 [
   {
     "date": "2022-03-24",
+    "title": "T-bill yields rise across all maturities",
+    "source": "www.dailymirror.lk",
+    "snippet": "The treasury bill yields rose across all maturities at yesterday's auction, with the three-month yield rising by 75 basis points to 12.10 percent, providing an indication to the direction of the interest rates.",
+    "url": "https://www.dailymirror.lk/business-news/T-bill-yields-rise-across-all-maturities/273-233716",
+    "url_hash": "9d8941ca41225eb43df4d49b0278aa66",
+    "ut": 1648080520,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "treasury",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three-month",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "75",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "12.10 percent",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka - Sri Lankans fleeing to India owing to economic crisis",
+    "source": "menafn.com",
+    "snippet": "Sri Lankans have begun to flee to India owing to the economic crisis and 16 have been detained in Dhanushkodi yesterday (Tuesday). </st",
+    "url": "https://menafn.com/1103902067/Sri-Lanka-Sri-Lankans-fleeing-to-India-owing-to-economic-crisis",
+    "url_hash": "bcb0542f5f1fc21eb2fc8cb7cfcb8996",
+    "ut": 1648080528,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Sri Lankans",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Dhanushkodi",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          22,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "SL records nearly a billion-dollar trade deficit in January",
     "source": "www.dailymirror.lk",
     "snippet": "Sri Lanka recorded nearly a billion-dollar deficit in the trade account of the balance of payment in the first month of 2022, as the imports continued to run stronger while merchandise exports recorded its eighth consecutive month of over a billion-dollar earnings.",
@@ -541,6 +651,25 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Food Shortage Amid Economic Crisis in Sri Lanka: Prices of Rice, Sugar Skyrocket; People Wait in Long Lines",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka has been bit by severe shortages of essentials like food, medicine, milk powder, cooking gas and fuel.",
+    "url": "https://www.msn.com/en-in/news/other/food-shortage-amid-economic-crisis-in-sri-lanka-prices-of-rice-sugar-skyrocket-people-wait-in-long-lines/ar-AAVqAdZ",
+    "url_hash": "7d89e2283417c41689787c516b8b6823",
+    "ut": 1648091328,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "UN accuses Sri Lanka of violating rights of LGBTI activist",
     "source": "colombogazette.com",
     "snippet": "By Easwaran Rutnam Sri Lanka violated the rights of a lesbian and leading LGBTI activist who was subjected to discrimination, threats and abuses due to the country's Penal Code that criminalises same-sex sexual activity,",
@@ -589,6 +718,435 @@
         "start_end": [
           28,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka to hire global law firm to aid debt restructuring",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka will hire a global law firm to provide technical assistance on debt restructuring ahead of talks with the International Monetary Fund (IMF) on the country's economic crisis, Cabinet spokesma",
+    "url": "http://www.adaderana.lk/news/81354/sri-lanka-to-hire-global-law-firm-to-aid-debt-restructuring",
+    "url_hash": "ce88c86aaf5ae5fe55f5d7f897a639ca",
+    "ut": 1648094928,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          19,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Cabinet",
+        "start_end": [
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Navy seizes 02 Indian trawlers & arrests 16 fishermen for poaching in Sea of Sri Lanka",
+    "source": "www.newsfirst.lk",
+    "snippet": "Sri Lanka Navy seized 02 Indian trawlers with 16 Indian fishermen while poaching in the Sea of Sri Lanka, during separate patrols - Get the latest breaking news and top stories from Sri Lanka, the latest political news,",
+    "url": "https://www.newsfirst.lk/2022/03/24/navy-seizes-02-indian-trawlers-arrests-16-fishermen-for-poaching-in-sea-of-sri-lanka/",
+    "url_hash": "6387d5cd251da1667d46625ee78bb828",
+    "ut": 1648095348,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "02",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Sea of Sri Lanka",
+        "start_end": [
+          14,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka: St Antoney feast in Kachchativu",
+    "source": "www.srilankaguardian.org",
+    "snippet": "The St Antony feast at Kachchativu was celebrated on 10th and 11th March 2022. As usual I prepared for this annual pilgrimage. I travelled to Jaffna, stayed at Fort Hammenhiel, a Dutch Fort in a small islet in Karinagar which was used by Navy as a detention centre and now converted in to four-bedroom luxurious hotel.",
+    "url": "http://www.srilankaguardian.org/2022/03/sri-lanka-st-antoney-feast-in.html",
+    "url_hash": "47f263a0b872fff50add9c30c31833f3",
+    "ut": 1648095600,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The St Antony",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kachchativu",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "10th and 11th March 2022",
+        "start_end": [
+          9,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "annual",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Jaffna",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Fort Hammenhiel",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Dutch",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Karinagar",
+        "start_end": [
+          42,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Navy",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          57,
+          58
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Crisis-hit Sri Lanka bets big on $14 bn China-backed Port City, wants reluctant India to invest",
+    "source": "www.msn.com",
+    "snippet": "China has invested $1.4 billion in the strategically located project. But the Rajapaksa govt wants India to invest in the potential metropolis, which is Sri Lanka's first SEZ.",
+    "url": "https://www.msn.com/en-in/news/other/crisis-hit-sri-lanka-bets-big-on-2414-bn-china-backed-port-city-wants-reluctant-india-to-invest/ar-AAVqTRV",
+    "url_hash": "40280e9ec2d866c6766eccbd36ceb771",
+    "ut": 1648096548,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1.4 billion",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rajapaksa",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          27,
+          30
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Collaborate to Conquer: Big India Convention in Sri Lanka",
+    "source": "eturbonews.com",
+    "snippet": "The 66th annual convention of the Travel Agents Association of India, scheduled to be held in Colombo, Sri Lanka, from April 19 to 22, 2022, with the",
+    "url": "https://eturbonews.com/3063395/collaborate-to-conquer-big-india-convention-in-sri-lanka/",
+    "url_hash": "6b09a73300af26cf0098be050822487c",
+    "ut": 1648097028,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "66th",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Travel Agents Association of India",
+        "start_end": [
+          5,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "April 19 to 22, 2022",
+        "start_end": [
+          23,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "99x gears for market expansion with appointment of Kari Bente Skarb\u00f8 to leadership",
+    "source": "www.dailymirror.lk",
+    "snippet": "Following the US $ 20 million investment it received from Scandinavian private equity firm Herkules Deal-by-Deal last year, technology company 99x has set its sights on aggressive market expansion in the Nordics and to support this growth, has strengthened ...",
+    "url": "https://www.dailymirror.lk/other/99x-gears-for-market-expansion-with-appointment-of-Kari-Bente-Skarb%C3%B8-to-leadership/117-233713",
+    "url_hash": "369d8da7ba3872860488e10e1f65f55c",
+    "ut": 1648097680,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 20 million",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "99x",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Navy seizes two Indian trawlers for poaching in Sri Lankan waters",
+    "source": "dailynews.lk",
+    "snippet": "Sri Lanka Navy seized 02 Indian trawlers with 16 Indian fishermen while poaching in Sri Lankan waters, during separate patrols carried out yesterday. Considering the impact of foreign fishermen poaching in Sri Lankan waters on the local fishing community and threats to the biodiversity of the country's marine environment,",
+    "url": "https://dailynews.lk/2022/03/24/local/275594/navy-seizes-two-indian-trawlers-poaching-sri-lankan-waters",
+    "url_hash": "5ba88b6a7b18b1c86f45098fd7a98b23",
+    "ut": 1648097684,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "02",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          33,
+          35
         ]
       }
     ]
