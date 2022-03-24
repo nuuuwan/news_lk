@@ -3349,6 +3349,73 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Sri Lanka reviews future of 65 overseas missions",
+    "source": "colombogazette.com",
+    "snippet": "Sri Lanka is reviewing the future of 65 of its overseas missions, owing to the dollar crisis. State Minister for Regional Co-operation Tharaka Balasuriya told Parliament today that the Ministry of Foreign Affairs is reviewing the future of 65 of its overseas missions.",
+    "url": "https://colombogazette.com/2022/03/24/sri-lanka-reviews-future-of-65-overseas-missions/",
+    "url_hash": "fc909c4977cbda01e2281367f2f2e328",
+    "ut": 1648130997,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "65",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tharaka Balasuriya",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Ministry of Foreign Affairs",
+        "start_end": [
+          32,
+          37
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "65",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Struggling Sri Lanka hits up India for cash - but China still has deeper pockets, analysts say",
     "source": "www.scmp.com",
     "snippet": "The island nation is facing an economic meltdown with rolling blackouts and widespread shortages. It already owes billions to Beijing, but has gone back to China, India and the IMF seeking further bailouts.",
@@ -3429,6 +3496,116 @@
         "start_end": [
           39,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "16 Sri Lankans among 38 migrants, hidden in semi-trailer truck, found at western border",
+    "source": "www.dailymirror.lk",
+    "snippet": "Therty-eight migrants from Turkey, Syria, Sri Lanka and Iraq were discovered while trying to leave from Romania illegally hidden in a semi-trailer truck and two minibuses driven by Romanians and checked at the Nadlac II Border Crossing Point.",
+    "url": "https://www.dailymirror.lk/breaking_news/16-Sri-Lankans-among-38-migrants-hidden-in-semi-trailer-truck-found-at-western-border/108-233761",
+    "url_hash": "d4991b8543a5eb1c016c2edf6505ba0e",
+    "ut": 1648138169,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Turkey",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Syria",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Iraq",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Romania",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Romanians",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Nadlac II Border Crossing Point",
+        "start_end": [
+          38,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "No revision in train fares from tonight: Dilum",
+    "source": "www.dailymirror.lk",
+    "snippet": "From tonight, there will be no increase in the intercity and long distance special train fares, Transport Minister Dilum Amunugama said. ..",
+    "url": "https://www.dailymirror.lk/latest_news/No-revision-in-train-fares-from-tonight-Dilum/342-233762",
+    "url_hash": "b4e882f8942543bf2063d8ca236629a7",
+    "ut": 1648138169,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "tonight",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Transport",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dilum Amunugama",
+        "start_end": [
+          20,
+          22
         ]
       }
     ]
@@ -3614,6 +3791,33 @@
         "start_end": [
           26,
           30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka's Central bank says country's banking system stable",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "Sri Lanka central bank on Thursday said that the island nation banking system is stable after speculations that a state bank in the country had defaulted",
+    "url": "https://www.bignewsnetwork.com/news/272418682/sri-lanka-central-bank-says-country-banking-system-stable",
+    "url_hash": "da8d3edd179c0c94a88f32d6fa9fcc11",
+    "ut": 1648141913,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          5,
+          6
         ]
       }
     ]
