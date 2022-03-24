@@ -3797,6 +3797,49 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Sri Lanka stocks edge down on economic, rupee concerns",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's stock index edged down for the second consecutive session on Thursday (24) as concerns over the island nation's economy and the government's efforts to avoid a sovereign debt default, brokers said.",
+    "url": "https://economynext.com/sri-lanka-stocks-edge-down-on-economic-rupee-concerns-92022/",
+    "url_hash": "795bcc11186ed1c0f0e08db34b635cd2",
+    "ut": 1648141738,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "24",
+        "start_end": [
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Sri Lanka's Central bank says country's banking system stable",
     "source": "www.bignewsnetwork.com",
     "snippet": "Sri Lanka central bank on Thursday said that the island nation banking system is stable after speculations that a state bank in the country had defaulted",
@@ -3818,6 +3861,92 @@
         "start_end": [
           5,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "5 Islands Ideal for Driving, According to a Globe-Trotting Columnist",
+    "source": "www.wsj.com",
+    "snippet": "In my experience, the Venn diagram containing the sets \"island\" and \"fun roads\" produces a pretty short list. Yes to Ireland. No to Borneo, Malta, Barbados, Sri Lanka. I include islands small enough that they could be reasonably circumnavigated but ...",
+    "url": "https://www.wsj.com/articles/islands-ideal-for-driving-11648147025",
+    "url_hash": "55bd3a9460aa276865107b9f60401b6f",
+    "ut": 1648147060,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Venn",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ireland",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Borneo, Malta, Barbados",
+        "start_end": [
+          30,
+          35
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          36,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "India to send 40,000 tonnes of diesel to crisis-hit Sri Lanka",
+    "source": "www.msn.com",
+    "snippet": "India has acceded to a request from Sri Lanka to urgently provide a consignment of diesel in addition to monthly fuel supplies under a $500-million line of credit to tide over a severe shortage amid the island nation's economic crisis.",
+    "url": "https://www.msn.com/en-in/news/other/india-to-send-40000-tonnes-of-diesel-to-crisis-hit-sri-lanka/ar-AAVsoHc",
+    "url_hash": "fe358c84c45eead309f8d4db41b08b7f",
+    "ut": 1648147660,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "monthly",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$500-million",
+        "start_end": [
+          24,
+          28
         ]
       }
     ]
