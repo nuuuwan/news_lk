@@ -1188,6 +1188,33 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Sri Lanka economic crisis: More refugees reach India via sea route",
+    "source": "www.thehindubusinessline.com",
+    "snippet": "A group of 10 people, including women and children, were rescued and brought to the shore by the Indian Coast Guard",
+    "url": "https://www.thehindubusinessline.com/news/world/more-lankan-nationals-fleeing-crisis-hit-island-reach-india-through-sea-route/article65254638.ece",
+    "url_hash": "1a9b4db8116020dcb3e9143e3cfd5532",
+    "ut": 1648098565,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Indian Coast Guard",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Spring & Summer launches showroom in Kiribathgoda",
     "source": "bizenglish.adaderana.lk",
     "snippet": "Spring & Summer celebrated the grand opening of their Kiribathgoda outlet on 18th of March with a bid to expand island-wide. The ceremonious unveiling of the new store located at No. 153, Kandy Road,",
@@ -1475,6 +1502,178 @@
         "start_end": [
           41,
           42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lankan Navy arrests 16 Indian fishermen",
+    "source": "www.indiablooms.com",
+    "snippet": "The Sri Lankan Navy have arrested 16 Indian fishermen and confiscated two mechanized fishing trawlers in two separate incidents on the charges of poaching in their territorial waters on Wednesday midnight,",
+    "url": "https://www.indiablooms.com/news-details/N/80200/sri-lankan-navy-arrests-16-indian-fishermen.html",
+    "url_hash": "75a9923db6f4fa1f14ae2e9035a766f0",
+    "ut": 1648105765,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Sri Lankan Navy",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "midnight",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "5 famous lighthouses in the world",
+    "source": "www.newsbytesapp.com",
+    "snippet": "Lighthouses are usually set up by harbors and bays and have served as crucial landmarks for people who traveled by ship for hundreds of years",
+    "url": "https://www.newsbytesapp.com/news/lifestyle/popular-lighthouses-in-the-world/story",
+    "url_hash": "c9779be5bbcbd5531213be58e82335fb",
+    "ut": 1648105778,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "hundreds of years",
+        "start_end": [
+          22,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka's approach to protestors in north & east reeks of double standard: former HRCSL chair",
+    "source": "economynext.com",
+    "snippet": "Sri Lankan authorities' response to protestors exercising their basic rights in the island's North and East betray a \"double standard\" when compared to their handling of protestors in the south, a top human rights advocate said.",
+    "url": "https://economynext.com/sri-lankas-approach-to-protestors-in-north-east-reeks-of-double-standard-former-hrcsl-chair-92000/",
+    "url_hash": "3b1cbc15fdf5cd94bacea4bc56ae93dd",
+    "ut": 1648105783,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "North and East",
+        "start_end": [
+          15,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Srilankan Navy arrests 16 Indian fishermen for violation of maritime boundary",
+    "source": "www.newindianexpress.com",
+    "snippet": "MADURAI: Sri Lankan Navy arrested 16 Indian fishermen for alleged Violation of its maritime boundary on Wednesday night. Two boats that the fishermen were using were also seized by the Sri Lankan Navy.",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2022/mar/24/srilankan-navy-arrests-16-indian-fishermen-for-violation-of-maritime-boundary-2433753.html",
+    "url_hash": "0e12cd3f52675dc5e6a522a667fd5ec1",
+    "ut": 1648108465,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan Navy",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "Wednesday night",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lankan Navy",
+        "start_end": [
+          31,
+          35
         ]
       }
     ]
