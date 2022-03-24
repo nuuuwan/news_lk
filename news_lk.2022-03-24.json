@@ -2048,6 +2048,57 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Three Sri Lankan nationals booked by Rameswaram court in TN for illegally entering India",
+    "source": "news.webindia123.com",
+    "snippet": "Three Sri Lankan nationals, who fled the island nation, which is facing a severe economic crisis, were booked under various sections of the Indian Passport Rule and the Foreigners Act and remanded in custody following a Rameshwaram court order.",
+    "url": "https://news.webindia123.com/news/Articles/World/20220324/3922764.html",
+    "url_hash": "f8a915575aea0e9c9d56af39809bcb0d",
+    "ut": 1648109357,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Three",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "the Indian Passport Rule",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Foreigners Act",
+        "start_end": [
+          30,
+          33
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Rameshwaram",
+        "start_end": [
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Sri Lankan Navy arrests 16 Indian fishermen for violation of maritime boundary",
     "source": "www.newindianexpress.com",
     "snippet": "MADURAI: Sri Lankan Navy arrested 16 Indian fishermen for alleged Violation of its maritime boundary on Wednesday night. Two boats that the fishermen were using were also seized by the Sri Lankan Navy.",
@@ -2765,6 +2816,41 @@
         "start_end": [
           36,
           37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Special plan to supply rice at reasonable price during festive season: Minister",
+    "source": "www.dailymirror.lk",
+    "snippet": "Refuting claims that the country was heading towards a food crisis, Agricultural Minister Mahindananada Aluthgamage said today special mechanism was in the making to supply rice at a reasonable price during the upcoming festive season.",
+    "url": "https://www.dailymirror.lk/latest_news/Special-plan-to-supply-rice-at-reasonable-price-during-festive-season-Minister/342-233756",
+    "url_hash": "c59674c1258c154308fe3e4567a98492",
+    "ut": 1648120148,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Agricultural",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahindananada Aluthgamage",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          17,
+          18
         ]
       }
     ]
