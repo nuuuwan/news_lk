@@ -4977,6 +4977,73 @@
     "title": "Mahinda thanks Modi for crucial support",
     "source": "colombogazette.com",
     "snippet": "Prime Minister Mahinda Rajapaksa today thanked Indian Prime Minister Narendra Modi for the crucial support extended to Sri Lanka. He especially thanked India for the USD 1 Billion credit line offered to Sri Lanka.",
+    "url": "https://colombogazette.com/2022/03/23/mahinda-thanks-modi-for-crucial-support/",
+    "url_hash": "60ca215723e65c349767e3512a46f964",
+    "ut": 1648060614,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Narendra Modi",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Mahinda thanks Modi for crucial support",
+    "source": "colombogazette.com",
+    "snippet": "Prime Minister Mahinda Rajapaksa today thanked Indian Prime Minister Narendra Modi for the crucial support extended to Sri Lanka. He especially thanked India for the USD 1 Billion credit line offered to Sri Lanka.",
     "url": "https://colombogazette.com/2022/03/24/mahinda-thanks-modi-for-crucial-support/",
     "url_hash": "68b7573d6a0b121799aa325ff71cd4c8",
     "ut": 1648061229,
@@ -5538,6 +5605,49 @@
   },
   {
     "date": "2022-03-23",
+    "title": "Stax: Writing the growth narrative of a global management consultancy, from Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Having doubled its headcount over the past three years, and with a projection of further doubling over next 12-18 months, the management consultancy Stax is undergoing a journey of rapid growth. Following the recent notice announcing the completion of a private equity deal with Blue Point Capital Partners,",
+    "url": "https://www.ft.lk/business/Stax-Writing-the-growth-narrative-of-a-global-management-consultancy-from-Sri-Lanka/34-732471",
+    "url_hash": "dab460be7b11ae55b234908be535cd12",
+    "ut": 1648071405,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the past three years",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next 12-18 months",
+        "start_end": [
+          18,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Stax",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Blue Point Capital Partners",
+        "start_end": [
+          49,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "Sharmane becomes HSBC Sri Lanka's first ever intl. student scholarship winner",
     "source": "www.ft.lk",
     "snippet": "HSBC Sri Lanka announced its first ever International Scholarship Program to support the ambitions of local students by giving one deserving student the opportunity to pursue their higher education with a $ 10,",
@@ -5986,6 +6096,191 @@
   },
   {
     "date": "2022-03-23",
+    "title": "One of two black boxes of crashed China Airliner found",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chinese searchers found one of two black boxes from a China Eastern Airlines (600115.SS) flight carrying 132 people. The plane crashed in forest-clad mountains on Wednesday the aviation regulator said.",
+    "url": "https://www.dailymirror.lk/international/One-of-two-black-boxes-of-crashed-China--Airliner-found/107-233691",
+    "url_hash": "10bf26943217cb2d72f93374f7b7905c",
+    "ut": 1648074983,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "a China Eastern Airlines",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "600115.SS",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "132",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "SLFP did not propose APC to strengthen alliance with govt: Siyambalapitiya",
+    "source": "www.dailymirror.lk",
+    "snippet": "Deputy Speaker Ranjith Siyambalapitiya said the Sri Lanka Freedom Party (SLFP) did not propose an All Party Conference (APC) to strengthen the alliance with the government, Deputy",
+    "url": "https://www.dailymirror.lk/latest_news/SLFP-did-not-propose-APC-to-strengthen-alliance-with-govt-Siyambalapitiya/342-233725",
+    "url_hash": "5d195f1ea49e66bee0d7a6ff845f2bec",
+    "ut": 1648074983,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ranjith Siyambalapitiya",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Freedom Party",
+        "start_end": [
+          5,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SLFP",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "All Party Conference",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "APC",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "US attempts to freeze Russia's gold reserves - media",
+    "source": "www.dailymirror.lk",
+    "snippet": "US Treasury Secretary Janet Yellen will meet this week with a bipartisan group of senators to discuss the opportunity of freezing Russia's $132 billion in gold reserves, an American news website Axios reported.",
+    "url": "https://www.dailymirror.lk/international/US-attempts-to-freeze-Russia%E2%80%99s-gold-reserves-%E2%80%93-media/107-233693",
+    "url_hash": "57923c8f3bb09d2f8011c527454d71f7",
+    "ut": 1648074983,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Treasury",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Janet Yellen",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$132 billion",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "American",
+        "start_end": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
     "title": "\"We're being used as guinea pigs\" Dr Manuka Wijesinghe",
     "source": "www.dailymirror.lk",
     "snippet": "The pandemic is still a hot issue here in Sri Lanka and around the world. Although we see a drop in numbers the issue is still being discussed and a lot of precautions are being taken. ..",
@@ -5999,6 +6294,645 @@
         "start_end": [
           9,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Aitken Spence among CPM's Top 10 Companies with 'Best Management Practices'",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Institute of Chartered Professional Managers of Sri Lanka (CPM) recognised Aitken Spence PLC among 10 best managed companies in Sri Lanka in a programme themed 'Back to Business in the New Normal'.",
+    "url": "https://www.dailymirror.lk/business-news/Aitken-Spence-among-CPMs-Top-10-Companies-with-Best-Management-Practices/273-233711",
+    "url_hash": "196478b14b228f9b5982e991bab8e188",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Institute of Chartered Professional Managers of Sri Lanka",
+        "start_end": [
+          0,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CPM",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Aitken Spence PLC",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "T-bill yields rise across all maturities",
+    "source": "www.dailymirror.lk",
+    "snippet": "The treasury bill yields rose across all maturities at yesterday's auction, with the three-month yield rising by 75 basis points to 12.10 percent, providing an indication to the direction of the interest rates.",
+    "url": "https://www.dailymirror.lk/business-news/T-bill-yields-rise-across-all-maturities/273-233716",
+    "url_hash": "9d8941ca41225eb43df4d49b0278aa66",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "treasury",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three-month",
+        "start_end": [
+          15,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "75",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "12.10 percent",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Condo market continues to recover as single projects remain favourites among buyers",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka's condominium market added more strength in the final quarter in 2021, continuing from the recovery seen from the third quarter, as people continued to choose vertical living in the city and its outskirts for increased convenience. According to ...",
+    "url": "https://www.dailymirror.lk/other/Condo-market-continues-to-recover-as-single-projects-remain-favourites-among-buyers/117-233704",
+    "url_hash": "74e2efb3ad731dde62235b6c62ea6e48",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the final quarter",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the third quarter",
+        "start_end": [
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "INSEE Cement signs MoU for skills development programme",
+    "source": "www.dailymirror.lk",
+    "snippet": "From left: Ruhunu Cement Works Plant Manager Engineer Chinthaka Thuduwewatta, Engineering Services Southern Province Deputy Chief Secretary Engineer Wickramage, Chief Secretary Southern Province R.C. De Soyza, INSEE Cement Chairman/CEO Nandana Ekanayake ...",
+    "url": "https://www.dailymirror.lk/other/INSEE-Cement-signs-MoU-for-skills-development-programme/117-233703",
+    "url_hash": "5f111005854f285288b9425383589122",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Engineer Chinthaka Thuduwewatta",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Engineering Services Southern Province",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Engineer Wickramage",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Southern Province",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "R.C. De Soyza",
+        "start_end": [
+          26,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "INSEE Cement",
+        "start_end": [
+          30,
+          32
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Nandana Ekanayake",
+        "start_end": [
+          35,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "AmCham Sri Lanka welcomes US Ambassador Julie Chung",
+    "source": "www.dailymirror.lk",
+    "snippet": "The newly arrived U.S. Ambassador to Sri Lanka, Julie J. Chung, met with the Board of Directors of the American Chamber of Commerce in Sri Lanka (AmCham Sri Lanka) on March 16th. ..",
+    "url": "https://www.dailymirror.lk/business-news/AmCham-Sri-Lanka-welcomes-US-Ambassador-Julie-Chung/273-233698",
+    "url_hash": "6805e602533b396c71778d81bf0ee746",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Julie J. Chung",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Board of Directors",
+        "start_end": [
+          15,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the American Chamber of Commerce",
+        "start_end": [
+          20,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "AmCham Sri Lanka",
+        "start_end": [
+          29,
+          32
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 16th",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Lankem Robbialac launches Imperial White collection",
+    "source": "www.dailymirror.lk",
+    "snippet": "Lankem Robbialac, a pioneer manufacturer of paints and coatings in Sri Lanka, launched its Imperial White collection, offering its customer 10 unique shades of whites - namely Lily, Soft, Snow, Linen,",
+    "url": "https://www.dailymirror.lk/other/Lankem-Robbialac-launches-Imperial-White-collection/117-233700",
+    "url_hash": "daefd6f7005aac40f98aeb339b09430b",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Lankem Robbialac",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Imperial White",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Lily, Soft, Snow",
+        "start_end": [
+          30,
+          35
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Linen",
+        "start_end": [
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "ICBT Campus adds new wing to main campus in Colombo",
+    "source": "www.dailymirror.lk",
+    "snippet": "ICBT Campus marked yet another big milestone recently when the new, state-of-the-art West Wing officially became part of the Main Campus in Colombo 04. The new extension was officially declared open on the 21st March amidst the participation of the ICBT ...",
+    "url": "https://www.dailymirror.lk/business-news/ICBT-Campus-adds-new-wing-to-main-campus-in-Colombo/273-233710",
+    "url_hash": "c3c91ad5e6c2c5e3f044452b9788298a",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "ICBT Campus",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "West Wing",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Main Campus in Colombo 04",
+        "start_end": [
+          25,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the 21st March",
+        "start_end": [
+          40,
+          43
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "ICBT",
+        "start_end": [
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "SL records nearly a billion-dollar trade deficit in January",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka recorded nearly a billion-dollar deficit in the trade account of the balance of payment in the first month of 2022, as the imports continued to run stronger while merchandise exports recorded its eighth consecutive month of over a billion-dollar earnings.",
+    "url": "https://www.dailymirror.lk/business-news/SL-records-nearly-a-billion-dollar-trade-deficit-in-January/273-233718",
+    "url_hash": "39415b6a7947ff6081e1a11299ab1748",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "billion-dollar",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first month of 2022",
+        "start_end": [
+          19,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "eighth consecutive month",
+        "start_end": [
+          37,
+          40
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "billion-dollar",
+        "start_end": [
+          43,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Industry to capitalise on Dubai Expo hype for Lankan sapphire",
+    "source": "www.dailymirror.lk",
+    "snippet": "After coming into spotlight at Dubai Expo 2020 with a US $ 100 million worth sapphire masterpiece, Sri Lanka's gem jewellery industry eyes to build up on the momentum and promote the Sri Lankan sapphire brand.",
+    "url": "https://www.dailymirror.lk/business-news/Industry-to-capitalise-on-Dubai-Expo-hype-for-Lankan-sapphire/273-233720",
+    "url_hash": "7ba310f162c3e78add6c8cb0056e2bd2",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "Dubai Expo 2020",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "US $ 100 million",
+        "start_end": [
+          10,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Sysco LABS second PerfUp edition focuses on role of AI in driving performance engineering",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sysco LABS Sri Lanka, the captive innovation centre for Sysco Corporation, the global leader in foodservice, hosted the second edition of its PerfUp series recently, focusing on the role of artificial intelligence (AI) in driving performance engineering.",
+    "url": "https://www.dailymirror.lk/other/Sysco-LABS-second-PerfUp-edition-focuses-on-role-of-AI-in-driving-performance-engineering/117-233712",
+    "url_hash": "40e410e8bd01338fa9025bdb6f42d286",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sysco LABS Sri Lanka",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sysco Corporation",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "AI",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Increasing interest rates could deliver rude shock for corporates with higher borrowings",
+    "source": "www.dailymirror.lk",
+    "snippet": "A number of Sri Lankan corporates could be in for a rude shock with the reversal of the direction of interest rates in the market, according to analysts. ..",
+    "url": "https://www.dailymirror.lk/business-news/Increasing-interest-rates-could-deliver-rude-shock-for-corporates-with-higher-borrowings/273-233717",
+    "url_hash": "0fe2d5e6efca44c6954b5f2771ea69a9",
+    "ut": 1648078583,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lankan",
+        "start_end": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Colombo office space market rebounds in 2021 presenting robust outlook for this year: JLL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Despite a record increase in supply last year, Colombo's office space saw its net absorption levels falling below pre-pandemic levels, marking a strong rebound in 2021, with a robust outlook for this year as office staff gradually return to pre-pandemic work routines,",
+    "url": "https://www.dailymirror.lk/other/Colombo-office-space-market-rebounds-in-2021-presenting-robust-outlook-for-this-year:-JLL/117-233701",
+    "url_hash": "4bd94571cd6d85263ba9058556b94f95",
+    "ut": 1648078605,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "last year",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Colombo",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this year",
+        "start_end": [
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-23",
+    "title": "ri Lanka CFA society holds 9th Capital Market Awards in June",
+    "source": "economynext.com",
+    "snippet": "Society Sri Lanka will hold its ninth annual CFA Capital Market Awards in June this year to recognize and reward professionals who have established benchmarks for the advancement of domestic capital market participants.",
+    "url": "https://economynext.com/ri-lanka-cfa-society-holds-9th-capital-market-awards-in-june-91985/",
+    "url_hash": "499b47cb93a7a11d5453eb013a610626",
+    "ut": 1648078610,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Society Sri Lanka",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "ninth",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "annual",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CFA Capital Market Awards",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June this year",
+        "start_end": [
+          13,
+          16
         ]
       }
     ]

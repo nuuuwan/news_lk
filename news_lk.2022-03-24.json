@@ -108,5 +108,193 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "World number",
+    "source": "www.dailynews.lk",
+    "snippet": "Ashleigh Barty has shocked the sporting world by announcing she will retire from professional tennis at just 25. The Australian made the announcement on social media",
+    "url": "https://www.dailynews.lk/tags/world-number",
+    "url_hash": "b1662369493d82673018aa3d330d3890",
+    "ut": 1648082187,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Ashleigh Barty",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Ashleigh Barty",
+    "source": "www.dailynews.lk",
+    "snippet": "World number one Ashleigh Barty has shocked the sporting world by announcing she will retire from professional tennis at just 25. The Australian made the announcement on social media",
+    "url": "https://www.dailynews.lk/tags/ashleigh-barty",
+    "url_hash": "5e99ec352a01ac61a1df46fc90c7f970",
+    "ut": 1648082787,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ashleigh Barty",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Australian",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "US, Lanka Partnership Dialogue: Two nations focus on maritime cooperation, defence links",
+    "source": "island.lk",
+    "snippet": "SLN expected to take delivery of third US vessel Sri Lanka and the United States have resolved to continue cooperation on maritime security and work together to ensure a safe maritime domain in the Indian Ocean,",
+    "url": "https://island.lk/us-lanka-partnership-dialogue-two-nations-focus-on-maritime-cooperation-defence-links/",
+    "url_hash": "529e100a33952a5f9bf5d55ff5b904c2",
+    "ut": 1648083812,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "SLN",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "the United States",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          33,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "VitalHub Announces Q4 2021 Conference Call Date",
+    "source": "menafn.com",
+    "snippet": "VitalHub Corp. (the\"Company\" or\"VitalHub\") (TSX: VHI) is pleased to announce that it will release its financial results for its fourth quarter (Q4) ended December 31st, 2021 after market close on Tuesday,",
+    "url": "https://menafn.com/1103899744/VitalHub-Announces-Q4-2021-Conference-Call-Date",
+    "url_hash": "02b5fa5158fdf8185727d6b802736bbf",
+    "ut": 1648084961,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VitalHub Corp.",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TSX",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VHI",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "its fourth quarter",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "Q4",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "December 31st, 2021",
+        "start_end": [
+          32,
+          36
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
   }
 ]
