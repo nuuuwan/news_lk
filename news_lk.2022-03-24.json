@@ -2139,6 +2139,41 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Banking system is stable, assures CBSL",
+    "source": "www.dailymirror.lk",
+    "snippet": "Responding to statements made by various parties with regard to the stability of the banking system, the Ministry of Finance and the Central Bank of Sri Lanka today assured the public and all other stake holders that the banking system was stable in the country.",
+    "url": "https://www.dailymirror.lk/breaking_news/Banking-system-is-stable-assures-CBSL/108-233752",
+    "url_hash": "7f9f83baa11331ed56dc5ab201997861",
+    "ut": 1648112920,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ministry of Finance",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank of Sri Lanka",
+        "start_end": [
+          22,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Vigil on Indian coast to check influx of illegal SL migrants",
     "source": "www.dailymirror.lk",
     "snippet": "The Kerala police have beefed up security along the coast, especially Vizhinjam, after central agencies issued an alert about the possibility of Sri Lankan citizens trying to illegally enter the country.",
@@ -2278,6 +2313,95 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka Economic Crisis: Ex-Prez, PM call for 'Getting Closer To India while TN Beefs Up Security Along Coast",
+    "source": "www.msn.com",
+    "snippet": "Former President Maithripala Sirisena, who had initiated the idea of an All Party Conference (APC), too suggested that Sri Lanka should get the support of \"India and other friendly nations\".",
+    "url": "https://www.msn.com/en-in/news/other/sri-lanka-economic-crisis-ex-prez-pm-call-for-e2-80-98getting-closer-to-india-while-tn-beefs-up-security-along-coast/ar-AAVrmVC",
+    "url_hash": "322291540708bbf9251e46f8ca671feb",
+    "ut": 1648116528,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Maithripala Sirisena",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "All Party Conference",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "APC",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "\"Gas, Fuel shortage will end before New Year\"",
+    "source": "www.dailynews.lk",
+    "snippet": "Home \"Gas, Fuel shortage will end before New Year\"",
+    "url": "https://www.dailynews.lk/2022/03/24/local/275612/gas-fuel-shortage-will-end-new-year",
+    "url_hash": "ee21163e59ed0a2710684a8062473682",
+    "ut": 1648117784,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "New Year",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lanka's central bank says banking system stable",
+    "source": "financialpost.com",
+    "snippet": "Sri Lankan state-run banks are operating smoothly and the banking system is stable, the island nation's central bank said on Thursday, in response to concerns raised by an opposition member of parliament.",
+    "url": "https://financialpost.com/pmn/business-pmn/sri-lankas-central-bank-says-banking-system-stable",
+    "url_hash": "dbfb6926efac7f0e3049543de5f8c32e",
+    "ut": 1648118748,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          24,
+          25
         ]
       }
     ]
