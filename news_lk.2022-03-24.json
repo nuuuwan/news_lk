@@ -724,6 +724,41 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Three die, one hospitalised in a fire at house in Katugastota",
+    "source": "www.dailymirror.lk",
+    "snippet": "A father, daughter and son in law have died after a fire broke out in a house at Menikkumburawatte in Katugastota this morning, Police said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Three-die-one-hospitalised-in-a-fire-at-house-in-Katugastota/108-233740",
+    "url_hash": "10a391521b829ae86aeefcf527ee8cdf",
+    "ut": 1648094926,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Katugastota",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this morning",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Police",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Sri Lanka to hire global law firm to aid debt restructuring",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka will hire a global law firm to provide technical assistance on debt restructuring ahead of talks with the International Monetary Fund (IMF) on the country's economic crisis, Cabinet spokesma",
@@ -1306,6 +1341,140 @@
         "start_end": [
           43,
           44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Sri Lankan PM Mahinda Rajapaksa Thanks PM Modi For Economic Relief Amid Financial Slump",
+    "source": "www.republicworld.com",
+    "snippet": "India stepped up in support of Sri Landa at a crucial juncture after Colombo sought the GoI's aid. PM Mahinda Rajapaksa thanked PM Modi after receiving aid.",
+    "url": "https://www.republicworld.com/india-news/general-news/sri-lankan-pm-mahinda-rajapaksa-thanks-pm-modi-for-economic-relief-amid-financial-slump-articleshow.html",
+    "url_hash": "7eb3fd2ca1ec57c2655e01489d1f87f3",
+    "ut": 1648102795,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Sri Landa",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "GoI",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "US Under Secretary for Political Affairs calls on President",
+    "source": "www.dailynews.lk",
+    "snippet": "The Under Secretary of State for Political Affairs Victoria Nuland called on President Gotabaya Rajapaksa at the Presidential Secretariat, Wednesday (23). \u00a0 The President briefed Nuland on the issues raised at the All-Party Conference Wednesday morning,",
+    "url": "https://www.dailynews.lk/2022/03/24/local/275599/us-under-secretary-political-affairs-calls-president",
+    "url_hash": "1f5fec27d2126bc4a94305bdc8beb1df",
+    "ut": 1648102910,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Victoria Nuland",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Presidential Secretariat",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "23",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nuland",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the All-Party Conference",
+        "start_end": [
+          35,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Wednesday",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "morning",
+        "start_end": [
+          41,
+          42
         ]
       }
     ]
