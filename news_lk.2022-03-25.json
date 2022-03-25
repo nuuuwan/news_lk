@@ -1,6 +1,81 @@
 [
   {
     "date": "2022-03-25",
+    "title": "Mission to help build Sri Lanka",
+    "source": "island.lk",
+    "snippet": "UTE Celebrates 75 Years of Industry Excellence United Tractor and Equipment (Pvt) Limited (UTE) celebrated 75 years of industry excellence on March 22, 2022, continuously delivering the highest quality engineering solutions and unmatched service support for Sri Lanka.",
+    "url": "https://island.lk/mission-to-help-build-sri-lanka/",
+    "url_hash": "189bb6f35d770b8246eb734017d929d0",
+    "ut": 1648166969,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "UTE",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "75 Years",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Industry Excellence United Tractor",
+        "start_end": [
+          5,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Equipment (Pvt) Limited",
+        "start_end": [
+          10,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UTE",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "75 years",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 22, 2022",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          42,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "A Regional Services Hub of South Asia",
     "source": "www.msn.com",
     "snippet": "Sri Lanka is embarking on mega projects which aim to position the island nation as a regional services hub of South Asia. While Sri Lanka is facing an acute economic crisis, it continues to expand its national projects such as the Colombo Port City development project.",
@@ -1876,6 +1951,41 @@
   },
   {
     "date": "2022-03-25",
+    "title": "Plans underway to give elephants to temples and acquire lands to Pinnawala",
+    "source": "www.dailymirror.lk",
+    "snippet": "It is reported that plans are afoot to give three elephants to temples and Dewalayas and augment the adjacent lands which have issues with the Pinnawala Elephant Orphanage (PEO), that belongs to several close associates of the Wildlife Minister,",
+    "url": "https://www.dailymirror.lk/latest_news/Plans-underway-to-give-elephants-to-temples-and-acquire-lands-to-Pinnawala/342-233820",
+    "url_hash": "972ddaed406aa503a9d3df636a771ca9",
+    "ut": 1648184959,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PRODUCT",
+        "text": "Dewalayas",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Pinnawala Elephant Orphanage",
+        "start_end": [
+          24,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "Australian cricket team to tour Sri Lanka in June",
     "source": "colombogazette.com",
     "snippet": "Australia's national men's cricket team will arrive in Sri Lanka to play an all format cricket series during June - July 2022. The Australians will play 03 T20Is, 05 ODIs, and 02 Test Matches during the tour.",
@@ -2428,6 +2538,403 @@
         "start_end": [
           40,
           41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Navy apprehends 16 Indian fishermen poaching in Sri Lankan waters",
+    "source": "www.adaderana.lk",
+    "snippet": "Sri Lanka Navy seized 02 Indian trawlers along with 16 Indian fishermen while poaching in Sri Lankan waters. They were apprehended in separate patrols carried out on the night of Wednesday (March 23).",
+    "url": "http://www.adaderana.lk/news/81391/navy-apprehends-16-indian-fishermen-poaching-in-sri-lankan-waters",
+    "url_hash": "132c0d26eb15b0924f6fd523380e1f4f",
+    "ut": 1648192169,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Navy",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "02",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "the night of Wednesday (March 23",
+        "start_end": [
+          28,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "BASL files FR applications over current economic situation",
+    "source": "www.adaderana.lk",
+    "snippet": "The Bar Association of Sri Lanka (BASL) has filed two fundamental rights (FR) applications, seeking an order directing the Cabinet of Ministers to provide solutions for the current economic situation",
+    "url": "http://www.adaderana.lk/news/81408/basl-files-fr-applications-over-current-economic-situation",
+    "url_hash": "33582f946b56a2adf8ffbe91a6ab5d92",
+    "ut": 1648192174,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Bar Association of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Cabinet of Ministers",
+        "start_end": [
+          23,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Australia's all-format tour of Sri Lanka confirmed for June and July 2022",
+    "source": "www.daijiworld.com",
+    "snippet": "The all-format tour of Australia men's team to Sri Lanka has been confirmed to happen in June and July this year. It will be for the first time since 2016 when Australia will be touring Sri Lanka. The tour will begin with three T20Is followed by five ODIs,",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=940685",
+    "url_hash": "157db797890f9ba85cde188c3229c353",
+    "ut": 1648192289,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "July this year",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2016",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "three",
+        "start_end": [
+          47,
+          48
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "POST WAR -- ADVANTAGE WEST Europe After the Ukraine War",
+    "source": "www.linkedin.com",
+    "snippet": "Homeland Security Newswire The war in Ukraine is still raging, and its outcome not yet certain, but there is no doubt that the war, in Ralph Cohen's words, is \"a watershed historical event.\" He highli",
+    "url": "https://www.linkedin.com/pulse/post-war-advantage-west-europe-after-ukraine-udo-von-massenbach",
+    "url_hash": "af45cd3954206da701f681cfcbbbb2fe",
+    "ut": 1648192349,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Homeland Security",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ralph Cohen's",
+        "start_end": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "MGH Logistics renews Pune Warehouse to serve Global Automotive Clients",
+    "source": "www.tmcnet.com",
+    "snippet": "MGH Logistics Pvt Ltd, a subsidiary of MGH Group, has extended its contract for the third span for its state-of-the-art warehouse in Talegaon Pune to guarantee yet another 3 years of its continued commitment to excellence serving key clientele.",
+    "url": "https://www.tmcnet.com/usubmit/-mgh-logistics-renews-pune-warehouse-serve-global-automotive-/2022/03/25/9570766.htm",
+    "url_hash": "348290e52a7133b757208e94516d04b8",
+    "ut": 1648192423,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "MGH Logistics Pvt Ltd",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MGH Group",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another 3 years",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "India taking up at highest level in Sri Lanka issue of 16 detained Tamil Nadu fishermen",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "Union Minister of State for External Affairs V Muraleedharan also said in Lok Sabha that the safety and security of every Indian is a matter of utmost importance for the government and it is bringing back every Indian in distress from anywhere in the world.",
+    "url": "https://economictimes.indiatimes.com/news/india/india-taking-up-at-highest-level-in-sri-lanka-issue-of-16-detained-tamil-nadu-fishermen/articleshow/90436779.cms",
+    "url_hash": "0aa1b725eaedb5602db5bd08d5b8e0c5",
+    "ut": 1648193609,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Lok Sabha",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Swedish Tourism Industry specialists and Tour Operators to enhance partnerships to elevate Tourism to Sri Lanka",
+    "source": "bizenglish.adaderana.lk",
+    "snippet": "Tourism industry specialists from Sweden, UK and Sri Lanka came together on Tuesday (15th March) in Stockholm presenting Sri Lanka's destination to an influential group of tour operators and travel consultants in a targeted effort to enhance partnerships and to make the Swedish and Scandinavian Tourism markets to Sri Lanka more robust.",
+    "url": "http://bizenglish.adaderana.lk/swedish-tourism-industry-specialists-and-tour-operators-to-enhance-partnerships-to-elevate-tourism-to-sri-lanka/",
+    "url_hash": "3069e976127023bf3f51837ee6b9e2e4",
+    "ut": 1648194929,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sweden",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "(15th March",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Stockholm",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Swedish",
+        "start_end": [
+          46,
+          47
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Scandinavian",
+        "start_end": [
+          48,
+          49
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          52,
+          54
         ]
       }
     ]
