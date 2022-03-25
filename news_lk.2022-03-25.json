@@ -1,6 +1,49 @@
 [
   {
     "date": "2022-03-25",
+    "title": "A Regional Services Hub of South Asia",
+    "source": "www.msn.com",
+    "snippet": "Sri Lanka is embarking on mega projects which aim to position the island nation as a regional services hub of South Asia. While Sri Lanka is facing an acute economic crisis, it continues to expand its national projects such as the Colombo Port City development project.",
+    "url": "https://www.msn.com/en-xl/asia/srilanka/a-regional-services-hub-of-south-asia/ar-AAVsYjj",
+    "url_hash": "edd9a9c339fd65596f4b7cd44bc80110",
+    "ut": 1648166977,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "South Asia",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Colombo Port City",
+        "start_end": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "Health officials concerned as Pfizer vaccines set to expire in July",
     "source": "www.dailymirror.lk",
     "snippet": "The Pfizer COVID-19 vaccines that are currently in stock will be expiring in July, an official said. According to sources, the vaccines are due to expire by the end of July. \"As far as the expiry date of Pfizer vaccines is concerned,",
@@ -511,6 +554,49 @@
   },
   {
     "date": "2022-03-25",
+    "title": "SL abstains on UNGA resolution on humanitarian consequences of Ukraine war",
+    "source": "www.dailymirror.lk",
+    "snippet": "Sri Lanka abstained on the resolution adopted by the United Nations General Assembly on the humanitarian consequences of the aggression against Ukraine by Russia. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/SL-abstains-on-UNGA-resolution-on-humanitarian-consequences-of-Ukraine-war/108-233772",
+    "url_hash": "67da39c9c546ffed0a493a42c52e6a7a",
+    "ut": 1648174166,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the United Nations General Assembly",
+        "start_end": [
+          8,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "Two accomplices of gangster 'Beral Sanka' shot dead in Kadawatha",
     "source": "www.dailymirror.lk",
     "snippet": "Two accomplices of underworld gangster 'Beral Sanka' have been shot dead last night at 9th miles post in Kadawatha on the Colombo-Kandy Main Road. ..",
@@ -567,6 +653,127 @@
         "start_end": [
           18,
           21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "CWC loses confidence in President Boycotted APC over fertilizer issue",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Ceylon Workers Congress (CWC) led by State Minister Jeevan Thondaman has lost confidence in President Gotabaya Rajapaksa, party officials told Daily Mirror. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/CWC-loses-confidence-in-President-Boycotted-APC-over-fertilizer-issue/108-233769",
+    "url_hash": "206cc9e3503387cec9f75a3e8a4da35a",
+    "ut": 1648177766,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Ceylon Workers Congress",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "State",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Jeevan Thondaman",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Sri Lanka's Central bank says country's banking system stable",
+    "source": "news.webindia123.com",
+    "snippet": "Sri Lanka's central bank on Thursday said that the island nation's banking system is stable after speculations that a state bank in the country had defaulted. \"The Ministry of Finance and the central bank of Sri Lanka wish to assure the public and all other stakeholders that the banking system is stable and that operations of the state banks are being carried out smoothly,",
+    "url": "https://news.webindia123.com/news/Articles/World/20220324/3923112.html",
+    "url_hash": "9acf0b4f0d44745f4ea31193b016ac62",
+    "ut": 1648180297,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The Ministry of Finance",
+        "start_end": [
+          30,
+          34
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Air Force denies importing Land Rover for Commander",
+    "source": "colombogazette.com",
+    "snippet": "By Easwaran Rutnam The Sri Lanka Air Force has denied claims that a Land Rover Defender has been imported for the personal use of Air Force Commander, Air Marshal Sudarshana Pathirana.\u00a0 Documents were",
+    "url": "https://colombogazette.com/2022/03/25/air-force-denies-importing-land-rover-for-commander/",
+    "url_hash": "160b88c808dd6154424a377064829f48",
+    "ut": 1648180503,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Air Force",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Air Marshal Sudarshana Pathirana",
+        "start_end": [
+          28,
+          32
         ]
       }
     ]
