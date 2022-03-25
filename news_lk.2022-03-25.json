@@ -4047,6 +4047,25 @@
   },
   {
     "date": "2022-03-25",
+    "title": "India Taking Up at Highest Level in Sri Lanka Issue of 16 Detained Tamil Nadu Fishermen",
+    "source": "www.news18.com",
+    "snippet": "Several MPs from Tamil Nadu have raised the issue, as the detained fishermen were from that state, and sought the government's intervention for their early release and repatriation.",
+    "url": "https://www.news18.com/news/india/india-taking-up-at-highest-level-in-sri-lanka-issue-of-16-detained-tamil-nadu-fishermen-4908047.html",
+    "url_hash": "4ecea33808797fed065e94c0d90e1b65",
+    "ut": 1648199356,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Tamil Nadu",
+        "start_end": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "Sri Lanka - Government insists no threat to food security",
     "source": "menafn.com",
     "snippet": "The Government today insisted that there was no threat to food security despite the economic crisis facing Sri Lanka.   <p",
@@ -4866,6 +4885,65 @@
         "start_end": [
           12,
           14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Chennai meets Kolkata as expanded IPL returns home",
+    "source": "www.dailymirror.lk",
+    "snippet": "Champions Chennai Super Kings will kick off the 15th edition of the Indian Premier League against former winners Kolkata Knight Riders on Saturday as the Twenty20 tournament returns home with an expanded version following the addition of two new teams.",
+    "url": "https://www.dailymirror.lk/top-story-sports-2/Chennai-meets-Kolkata-as-expanded-IPL-returns-home/326-233832",
+    "url_hash": "9f4671722f6fb573090a3e076f380099",
+    "ut": 1648206546,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "15th",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kolkata Knight",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Twenty20",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]
@@ -6545,6 +6623,343 @@
         "start_end": [
           42,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Asian markets swing as traders assess Ukraine, inflation, Fed risk",
+    "source": "www.dailymirror.lk",
+    "snippet": "Markets fluctuated in Asia yesterday as traders struggled to build on a rally in New York, with focus on the impact of the Ukraine war, surging inflation and Federal Reserve plans to fight it. ..",
+    "url": "https://www.dailymirror.lk/business-news/Asian-markets-swing-as-traders-assess-Ukraine-inflation-Fed-risk/273-233874",
+    "url_hash": "de861fd646bfa372d32ce0c850d8a42b",
+    "ut": 1648235346,
+    "ent_info_list": [
+      {
+        "label": "LOC",
+        "text": "Asia",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New York",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Federal Reserve",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Dynamic AV, Softlogic Retail partner to bring professional AV solutions to homes",
+    "source": "www.dailymirror.lk",
+    "snippet": "Dynamic AV Technologies, the leading professional audio-visual solutions specialist, has joined hands with Softlogic Retail, to launch an extensive range of world class prosumer products with value for money propositions to customers.",
+    "url": "https://www.dailymirror.lk/other/Dynamic-AV--Softlogic-Retail-partner-to-bring-professional-AV-solutions-to-homes/117-233870",
+    "url_hash": "fbf77305ea3dead3684ee2a115ea03b9",
+    "ut": 1648235346,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Dynamic AV Technologies",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Softlogic Retail",
+        "start_end": [
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "There won't be 10-hour power cut next week: PUCSL Chairman",
+    "source": "www.dailymirror.lk",
+    "snippet": "With the assurance of supplying adequate diesel to power plants by the Ceylon Petroleum Corporation (CPC), there will be no need to extend the daily power shedding up to ten hours, instead, it would reduce gradually, the Public Utilities Commission of Sri ...",
+    "url": "https://www.dailymirror.lk/breaking_news/There-wont-be-10-hour-power-cut-next-week-PUCSL-Chairman/108-233848",
+    "url_hash": "f94e296f35cd55dad3d2c9d19caf1e22",
+    "ut": 1648235346,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Ceylon Petroleum Corporation",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "ten hours",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Public Utilities Commission",
+        "start_end": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Gem and jewellery sector commends move to simplify export processes",
+    "source": "www.dailymirror.lk",
+    "snippet": "The streamlined export process for the gem and jewellery sector was commended by the industry stakeholders, as the simplified steps would allow improved sales. ..",
+    "url": "https://www.dailymirror.lk/business-news/Gem-and-jewellery-sector-commends-move-to-simplify-export-processes/273-233876",
+    "url_hash": "3e073438b80b5b7a871bff9650aa41e4",
+    "ut": 1648235406,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Awaiting Centre's orders, TN gives humanitarian aid to 16 who fled Lanka",
+    "source": "www.msn.com",
+    "snippet": "The state government has decided to take a humanitarian approach while they await orders from the union government about those who fled the island.",
+    "url": "https://www.msn.com/en-in/news/other/awaiting-centre-e2-80-99s-orders-tn-gives-humanitarian-aid-to-16-who-fled-lanka/ar-AAVv0UL",
+    "url_hash": "9ec82a081c75244f0c52d3392709e052",
+    "ut": 1648235416,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Destination SL presented to influential tour operators in Stockholm",
+    "source": "www.dailymirror.lk",
+    "snippet": "The tourism industry specialists from Sweden, the UK and Sri Lanka came together earlier this month in Stockholm to present destination Sri Lanka to an influential group of tour operators and travel consultants.",
+    "url": "https://www.dailymirror.lk/business-news/Destination-SL-presented-to-influential-tour-operators-in-Stockholm/273-233877",
+    "url_hash": "0293ee22ca1331a273f7eaf7b8b4028c",
+    "ut": 1648235466,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sweden",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "UK",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier this month",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Stockholm",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          22,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Ratmalana intl. airport resumes operations tomorrow after 55-year hiatus",
+    "source": "www.ft.lk",
+    "snippet": "The Colombo International Airport Ratmalana (CIAR) will resume scheduled international and regional flights tomorrow, following the largest development project carried out in recent history. The inauguration is scheduled be held under the patronage of Tourism Minister Prasanna Ranatunga,",
+    "url": "https://www.ft.lk/front-page/Ratmalana-intl-airport-resumes-operations-tomorrow-after-55-year-hiatus/44-732609",
+    "url_hash": "5f0a4603a6d688bf770f91bbb01eaa2a",
+    "ut": 1648235863,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Colombo International Airport",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "tomorrow",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tourism",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Prasanna Ranatunga",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "UN Resident Coordinator insists on harnessing full potential of SL's female workforce",
+    "source": "www.ft.lk",
+    "snippet": "United Nations Resident Coordinator Hanaa Singer-Hamdy yesterday insisted on harnessing the full potential of Sri Lanka's female workforce, to overcome from the unprecedented economic challenges at present. She made these remarks at the launch of a ...",
+    "url": "https://www.ft.lk/front-page/UN-Resident-Coordinator-insists-on-harnessing-full-potential-of-SL-s-female-workforce/44-732610",
+    "url_hash": "6ed7a9c30de8b79d07fee5035721f2ab",
+    "ut": 1648236090,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "United Nations Resident",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Hanaa Singer-Hamdy",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          16,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Sri Lankan President Rajapaksa seeks cooperation from Tamil leaders to 'rebuild the country'",
+    "source": "www.ptinews.com",
+    "snippet": "Sri Lankan President Gotabaya Rajapaksa on Friday sought cooperation from the Tamil leaders to \"rebuild the country\" during a meeting with the main Tamil party here for the first time since assuming office over two years ago \"Let's work together to rebuild the country,",
+    "url": "http://www.ptinews.com/news/13232354_Sri-Lankan-President-Rajapaksa-seeks-cooperation-from-Tamil-leaders-to---rebuild-the-country--",
+    "url_hash": "353b1043885296345a8226e3aa11b3c9",
+    "ut": 1648236856,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Lankan",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tamil",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two years ago",
+        "start_end": [
+          36,
+          39
         ]
       }
     ]
