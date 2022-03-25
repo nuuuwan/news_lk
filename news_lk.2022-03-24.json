@@ -1398,6 +1398,41 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Zelenskyy calls for global protests; Biden travels to Europe",
+    "source": "www.dailymirror.lk",
+    "snippet": "Ukraine's President Volodymyr Zelenskyy has called for global protests to demand an end to the Russian invasion. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Zelenskyy-calls-for-global-protests-Biden-travels-to-Europe/108-233744",
+    "url_hash": "b4937de62aa334121eaef10162b5c1d5",
+    "ut": 1648100180,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Volodymyr Zelenskyy",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Joint initiative to expedite exploration of locations of high value mineral resources in Sri Lanka",
     "source": "dailynews.lk",
     "snippet": "Mahinda Amaraweera, Minister of Environment has instructed to expedite the ongoing exploration activities to identify places of valuable mineral resources\u00a0 \u00a0in Sri Lanka. \u00a0 The Minister gave these instructions during a discussion with officials of the Geological Survey and Mines Bureau and the Sri Lanka Mineral Sands Company.",
@@ -4205,6 +4240,167 @@
         "start_end": [
           8,
           9
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Association of Professional Bankers Sri Lanka 33rd AGM today",
+    "source": "www.ft.lk",
+    "snippet": "The Association of Professional Bankers Sri Lanka (APB) will hold its 33rd Annual General Meeting (AGM) today (25 March) at the auditorium of Institute of Bankers Sri Lanka, No. 80A, Elvitigala Mawatha,",
+    "url": "https://www.ft.lk/financial-services/Association-of-Professional-Bankers-Sri-Lanka-33rd-AGM-today/42-732514",
+    "url_hash": "d492353cbfe373a857c972c5550948e7",
+    "ut": 1648146988,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Association of Professional Bankers Sri Lanka",
+        "start_end": [
+          0,
+          7
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "33rd",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "25 March",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Institute of Bankers Sri Lanka",
+        "start_end": [
+          29,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Elvitigala Mawatha",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "Ceylinco Life voted Sri Lanka's most popular life insurer for record 16th year",
+    "source": "www.ft.lk",
+    "snippet": "Ceylinco Life has been voted Sri Lanka's most popular life insurance company in 2021 and was presented the SLIM Kantar Peoples Award for a record 16th consecutive year at the awards gala hosted by the Sri Lanka Institute of Marketing (SLIM) on 21 March.",
+    "url": "https://www.ft.lk/financial-services/Ceylinco-Life-voted-Sri-Lanka-s-most-popular-life-insurer-for-record-16th-year/42-732541",
+    "url_hash": "db870336f55e6c94fc61ff13773e42d9",
+    "ut": 1648147001,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Ceylinco Life",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          5,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2021",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a record 16th consecutive year",
+        "start_end": [
+          24,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Sri Lanka Institute of Marketing",
+        "start_end": [
+          35,
+          41
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "21 March",
+        "start_end": [
+          45,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
+    "title": "SEC of Sri Lanka and CFA Society Sri Lanka continue to advance capital market governance standards",
+    "source": "www.ft.lk",
+    "snippet": "As CFA Society Sri Lanka counts down to the ninth annual CFA Capital Market Awards scheduled to be held in June this year, it takes stock of the myriad of stakeholders - including industry regulators who are part of the flagship event,",
+    "url": "https://www.ft.lk/financial-services/SEC-of-Sri-Lanka-and-CFA-Society-Sri-Lanka-continue-to-advance-capital-market-governance-standards/42-732516",
+    "url_hash": "9899b1b9964dc8bf872b44f285f0413d",
+    "ut": 1648147001,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "ninth",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "annual",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CFA Capital Market Awards",
+        "start_end": [
+          11,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "June this year",
+        "start_end": [
+          20,
+          23
         ]
       }
     ]

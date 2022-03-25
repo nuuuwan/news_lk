@@ -60,5 +60,91 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Govt. urgently allocates Rs. 100Mn to import 14 critical drugs",
+    "source": "www.dailymirror.lk",
+    "snippet": "A sum of Rs. 100 million has been allocated for the import of 14 critical drugs in a bid to address the acute shortage of drugs in the country. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Govt-urgently-allocates-Rs-100Mn-to-import-14-critical-drugs/108-233763",
+    "url_hash": "6aad4621a55467b8cb0f5fcb746d1543",
+    "ut": 1648168580,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "100 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "14",
+        "start_end": [
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Sri Lanka should set up a currency board to stop rupee depreciation: US economist",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka should set up a currency board to stop further currency falls, US economist Steve Hanke has said as the island's currency collapsed from 203 to 290 to the US dollar in an attempt to float the currency which has not yet succeeded.",
+    "url": "https://economynext.com/sri-lanka-should-set-up-a-currency-board-to-stop-rupee-depreciation-us-economist-92024/",
+    "url_hash": "c3f15c17b8e8251771d0cda82a193fdc",
+    "ut": 1648169025,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Steve Hanke",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "203",
+        "start_end": [
+          27,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "290",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          32,
+          33
+        ]
+      }
+    ]
   }
 ]
