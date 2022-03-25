@@ -852,6 +852,76 @@
   },
   {
     "date": "2022-03-25",
+    "title": "Air Force denies importing Land Rover for Commander",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Sri Lanka Air Force has denied claims that a Land Rover Defender has been imported for the personal use of Air Force ..",
+    "url": "https://www.dailymirror.lk/main_image/Air-Force-denies-importing-Land-Rover-for-Commander/346-233784",
+    "url_hash": "039b0dd15a5f2b89bcedf1fb3aba3711",
+    "ut": 1648177728,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Air Force",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "We will have fuel stocks by April",
+    "source": "www.dailymirror.lk",
+    "snippet": "While claiming that by New Year there will be sufficient fuel stocks available, Energy Minister Gamini Lokuge yesterday said that measures have been taken to send a diesel and petrol bowser to all fuel stations in Colombo every morning and afternoon.",
+    "url": "https://www.dailymirror.lk/front_page/We-will-have-fuel-stocks-by-April/238-233782",
+    "url_hash": "ad644789c2879db34aa1a5b19b5b65de",
+    "ut": 1648177762,
+    "ent_info_list": [
+      {
+        "label": "EVENT",
+        "text": "New Year",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Energy",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gamini Lokuge",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "afternoon",
+        "start_end": [
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "CWC loses confidence in President Boycotted APC over fertilizer issue",
     "source": "www.dailymirror.lk",
     "snippet": "The Ceylon Workers Congress (CWC) led by State Minister Jeevan Thondaman has lost confidence in President Gotabaya Rajapaksa, party officials told Daily Mirror. ..",
@@ -4170,6 +4240,304 @@
         "start_end": [
           17,
           18
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "India taking up issue of 16 detained fishermen from TN at highest level in Sri Lanka",
+    "source": "theprint.in",
+    "snippet": "India is taking up the issue of the fishermen detained in Sri Lanka along with their boats, including 16 who are currently in the custody of the island nation, at the highest level to bring them back,",
+    "url": "https://theprint.in/india/india-taking-up-issue-of-16-detained-fishermen-from-tn-at-highest-level-in-sri-lanka/888059/",
+    "url_hash": "3475c7351695db90f4b246f4c5e943bc",
+    "ut": 1648202937,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "16",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Tamil Nadu government in touch with Centre to legally handle influx of Sri Lankan refugees, says CM",
+    "source": "scroll.in",
+    "snippet": "Tamil Nadu Chief Minister MK Stalin on Thursday said that his government is in touch with the Centre to legally handle the influx of refugees from Sri Lanka, reported PTI. \"The Tamil Nadu government will strive to ensure a new dawn to the Lankan Tamils,",
+    "url": "https://scroll.in/latest/1020345/tamil-nadu-government-in-touch-with-centre-to-legally-handle-influx-of-sri-lankan-refugees-says-cm",
+    "url_hash": "e26e8f07d0b9e2affaa7947a3a1f779e",
+    "ut": 1648202937,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Tamil Nadu",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "MK Stalin",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "The Tamil Nadu",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Lankan Tamils",
+        "start_end": [
+          45,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "US Passes 1m Covid Deaths-Worldmeter, WHO: Omicron Sub-Variant Global, NYC Relaxes Mask Rules, World Covid Stats",
+    "source": "www.entornointeligente.com",
+    "snippet": "Omicron BA.2 sub variant now prevalent globally By Sarakshi Rai \u00a9 Associated Press / Eugene Hoshiko The World Health Organization (WHO) said Tuesday that Omicron sub variant BA.2 is the predominant COVID-19 variant driving infections around the world.",
+    "url": "https://www.entornointeligente.com/us-passes-1m-covid-deaths-worldmeter-who-omicron-sub-variant-global-nyc-relaxes-mask-rules-world-covid-stats/",
+    "url_hash": "00a2c80920153036801a48db52545f4b",
+    "ut": 1648202945,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Sarakshi Rai \u00a9",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Eugene Hoshiko",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "The World Health Organization",
+        "start_end": [
+          16,
+          20
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Tuesday",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Omicron",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "BA.2",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "MGH Logistics renews Pune Warehouse to serve Global Automotive Clients",
+    "source": "finance.yahoo.com",
+    "snippet": "MGH Logistics Pvt Ltd, a subsidiary of MGH Group, has extended its contract for the third span for its state-of-the-art warehouse in Talegaon Pune to guarantee yet another 3 years of its continued commitment to excellence serving key clientele.",
+    "url": "https://finance.yahoo.com/news/mgh-logistics-renews-pune-warehouse-100000333.html",
+    "url_hash": "c1b403e716891f2f35eb2624c9773626",
+    "ut": 1648202950,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "MGH Logistics Pvt Ltd",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MGH Group",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "another 3 years",
+        "start_end": [
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Sri Lanka's state-run CEB denies reports of upcoming 10-hour power cuts",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka's state-run utility provider Ceylon Electricity Board (CEB) on Friday (25) denied media reports of daily 10-hour power cuts scheduled for next week, even as six-hour power cuts continued to be imposed around the island.",
+    "url": "https://economynext.com/sri-lankas-state-run-ceb-denies-reports-of-upcoming-10-hour-power-cuts-92069/",
+    "url_hash": "f48645983662b8cffdf7d0ac8b6f1995",
+    "ut": 1648202954,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Ceylon Electricity Board",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CEB",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "10-hour",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "six-hour",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Sri Lanka newspaper halts printing amid shortages",
+    "source": "www.thehindu.com",
+    "snippet": "Sri Lanka's popular daily newspaper The Island, which was published without interruption during the civil war , has now halted its print edition, owing to a shortage of newsprint amid the severe economic crisis facing the country.",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-newspaper-halts-printing-amid-shortages/article65258936.ece",
+    "url_hash": "092c9c3f1b2d87175fc3806194321367",
+    "ut": 1648204137,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
         ]
       }
     ]
