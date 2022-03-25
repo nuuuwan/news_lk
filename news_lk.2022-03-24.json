@@ -2854,6 +2854,57 @@
   },
   {
     "date": "2022-03-24",
+    "title": "Sri Lanka battles worst economic crisis",
+    "source": "newstodaynet.com",
+    "snippet": "Sri Lanka ordered troops to petrol stations as sporadic protests erupted among the thousands of motorists queueing up daily for scarce fuel. The South Asian island nation is grappling with its worst economic meltdown in over seven decades,",
+    "url": "https://newstodaynet.com/2022/03/24/sri-lanka-battles-worst-economic-crisis/",
+    "url_hash": "f3f34b353dc6f801cfc95f1585d45abc",
+    "ut": 1648116564,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "thousands",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "over seven decades",
+        "start_end": [
+          36,
+          39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-24",
     "title": "Train fare up",
     "source": "www.dailymirror.lk",
     "snippet": "While holding a special media briefing today, the Sri Lanka Station Masters' Union (SLSMU) said that the Railways Department has increased the intercity and long distance special train fare from last night without prior notice.",
