@@ -5782,5 +5782,40 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Sri Lankan papers run out of newsprint as economic crisis worsens",
+    "source": "colombogazette.com",
+    "snippet": "Two major Sri Lankan newspapers are suspending their print editions because of a lack of paper, their owner said, the latest casualties in the island nation's economic crisis. The South Asian nation o",
+    "url": "https://colombogazette.com/2022/03/25/sri-lankan-papers-run-out-of-newsprint-as-economic-crisis-worsens/",
+    "url_hash": "95c129bfecf81d2079d2c35f346ae418",
+    "ut": 1648229556,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sri Lankan",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
   }
 ]
