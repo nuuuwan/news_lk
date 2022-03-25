@@ -5070,5 +5070,107 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Sri Lanka allows IMF to release staff report",
+    "source": "economynext.com",
+    "snippet": "Sri Lanka has allowed the International Monetary Fund to release a staff report prepared following annual Article IV consultations after protests in parliament and by ex-Prime Minister Ranil Wickremesinghe.",
+    "url": "https://economynext.com/sri-lanka-allows-imf-to-release-staff-report-92079/",
+    "url_hash": "f1bbf727e2f037b51a6d02a1339bc401",
+    "ut": 1648214653,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "annual",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Article IV",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Cong MP in LS flags issue of Tamils reaching India amid eco crisis in Sri Lanka",
+    "source": "theprint.in",
+    "snippet": "A Congress MP from Tamil Nadu on Friday demanded that the central government extend assistance in the form of food items to Tamils from Sri Lanka amid an economic crisis plaguing the island nation. Raising the issue in Lok Sabha during the Zero Hour,",
+    "url": "https://theprint.in/india/cong-mp-in-ls-flags-issue-of-tamils-reaching-india-amid-eco-crisis-in-sri-lanka/888517/",
+    "url_hash": "44b951508b9dfc5949eb20565ca2f14f",
+    "ut": 1648215894,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Congress",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamil Nadu",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Lok Sabha",
+        "start_end": [
+          39,
+          41
+        ]
+      }
+    ]
   }
 ]
