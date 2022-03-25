@@ -6629,6 +6629,258 @@
   },
   {
     "date": "2022-03-25",
+    "title": "SriLankan Airlines doubles frequency to India as it opens skies to int'l passenger flights",
+    "source": "www.dailymirror.lk",
+    "snippet": "Passengers will have increased flights to India with national carrier SriLankan Airlines doubling up its flying frequency to the neighboring giant. SriLankan Airlines announced yesterday that it would increase its service to India to 88 flights per week to ...",
+    "url": "https://www.dailymirror.lk/business-news/SriLankan-Airlines-doubles-frequency-to-India-as-it-opens-skies-to-intl-passenger-flights/273-233881",
+    "url_hash": "3dbdf9d37a0e3b4d909e3eb5c42efeea",
+    "ut": 1648235335,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SriLankan Airlines",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "88",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Biden warns China against siding with Russia",
+    "source": "www.dailymirror.lk",
+    "snippet": "U.S. President Joe Biden on Thursday said that China knows its economic future is tied to the West, after warning Chinese leader Xi Jinping that Beijing could regret siding with Russia's invasion of Ukraine.",
+    "url": "https://www.dailymirror.lk/international/Biden-warns-China-against-siding-with-Russia/107-233884",
+    "url_hash": "1f5eae47a5fb23174e2a79f11623e3c7",
+    "ut": 1648235335,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "U.S.",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Joe Biden",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Thursday",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "West",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Xi Jinping",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Beijing",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Russia signals scaled-back war aims as Ukrainians advance near Kyiv",
+    "source": "www.dailymirror.lk",
+    "snippet": "Moscow signaled on Friday it was scaling back its ambitions in Ukraine to focus on territory claimed by Russian-backed separatists as Ukrainian forces went on the offensive, recapturing territory on the outskirts of the capital Kyiv.",
+    "url": "https://www.dailymirror.lk/international/Russia-signals-scaled-back-war-aims-as-Ukrainians-advance-near-Kyiv/107-233886",
+    "url_hash": "5185f556879518322711de106354240e",
+    "ut": 1648235335,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Moscow",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Ukrainian",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "CB says direction to double forex sales will not have any impact on migrant workers, exporters",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Central Bank yesterday clarified that the recent increase of the percentage of foreign exchange sales by the banks to the Central Bank from 25 percent to 50 percent is exclusively applicable to the banks and that would not have any impact on the prevailing requirements for the foreign exchange earnings of expatriate workers and export proceeds of exporters.",
+    "url": "https://www.dailymirror.lk/business-news/CB-says-direction-to-double-forex-sales-will-not-have-any-impact-on-migrant-workers-exporters/273-233879",
+    "url_hash": "6a0638fd3e718ad6f640f6a39ef8be0d",
+    "ut": 1648235335,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Central Bank",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Central Bank",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "25 percent",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "50 percent",
+        "start_end": [
+          27,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "Asian markets swing as traders assess Ukraine, inflation, Fed risk",
     "source": "www.dailymirror.lk",
     "snippet": "Markets fluctuated in Asia yesterday as traders struggled to build on a rally in New York, with focus on the impact of the Ukraine war, surging inflation and Federal Reserve plans to fight it. ..",
@@ -6970,6 +7222,362 @@
         "start_end": [
           36,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "APC: just another gathering?",
+    "source": "www.dailymirror.lk",
+    "snippet": "With the failure on the part of the government to find solutions to the current economic crisis and the anger among the masses over the crisis messing up and devastating their day-to-day life, the desperation among the leaders of the government is also increasingly visible.",
+    "url": "https://www.dailymirror.lk/news-features/APC-just-another-gathering/131-233892",
+    "url_hash": "83ec18f2d2c9492f1287ace3d3f801c0",
+    "ut": 1648238935,
+    "ent_info_list": []
+  },
+  {
+    "date": "2022-03-25",
+    "title": "TPA Seeks Non-Territorial Council for Hill Country Tamils",
+    "source": "www.dailymirror.lk",
+    "snippet": "The total population of Tamils - both Sri Lankan and Indian -is 3,113, 247. Of these 1,611,036 Tamils are living in the Northern and Eastern Provinces. Another 1,502,211 Tamils live outside the Northern and Eastern Provinces TPA leader Mano Ganesan who is ...",
+    "url": "https://www.dailymirror.lk/recomended-news/TPA-Seeks-Non-Territorial-Council-for-Hill-Country-Tamils/277-233895",
+    "url_hash": "6edbb62bc1bdf9f1e319aa4c27fbdba7",
+    "ut": 1648238935,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,113",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "247",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,611,036",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Northern",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Eastern Provinces",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,502,211",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Northern",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Eastern Provinces",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mano Ganesan",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Turkey: The Drone Superpower",
+    "source": "www.dailymirror.lk",
+    "snippet": "Bayraktar TB2 manufactured by Turkey's Baykar Makina takes part in a military parade marking the end of the Nagorno-Karabakh military conflict in Baku. VALERY SHARIFULIN / TASS via Getty Images In 2014 when Russia carried out several take overs of ...",
+    "url": "https://www.dailymirror.lk/opinion/Turkey-The-Drone-Superpower/172-233894",
+    "url_hash": "2c87d7778bece61096e7fc601bc21872",
+    "ut": 1648238935,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Bayraktar TB2",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Turkey",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Baykar Makina",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Baku",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SHARIFULIN",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TASS",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Getty Images",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2014",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Celebrating International Women's Day",
+    "source": "www.dailymirror.lk",
+    "snippet": "As the world celebrates International Women's Day, the Sri Lanka Housewives' Association, Colombo to commemorate the occasion made a donation of dry provisions to the Lankadhara Society Elders' Home at 95,",
+    "url": "https://www.dailymirror.lk/news-features/Celebrating-International-Womens-Day/131-233891",
+    "url_hash": "fb4021803ed18bb06df1fed3e46fcf56",
+    "ut": 1648238935,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "International Women's Day",
+        "start_end": [
+          4,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Lankadhara Society Elders' Home",
+        "start_end": [
+          28,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "95",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "A Bouquet of precious memories; Sprayed with an orphan's ocean of tears",
+    "source": "www.dailymirror.lk",
+    "snippet": "Amma Dora, the \"Core\"of my very existence left ten years ago, reducing my life to Ground Zero. Oh no, I wasn't loved - but absolutely adored by my only affectionate guardian. ..",
+    "url": "https://www.dailymirror.lk/news-features/A-Bouquet-of-precious-memories-Sprayed-with-an-orphans-ocean-of-tears/131-233888",
+    "url_hash": "a66041b1d48ff238329273e5173f4608",
+    "ut": 1648238935,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Amma Dora",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "ten years ago",
+        "start_end": [
+          10,
+          13
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ground Zero",
+        "start_end": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Mrs. Suneetha Nanayakkara completes 50 years at the Bar",
+    "source": "www.dailymirror.lk",
+    "snippet": "In appreciation of the valuable contribution made to the legal profession, several senior lawyers who had completed the 50th year at the Bar were felicitated at a special function held by the Bar Association of Sri Lanka recently at the Hilton Hotel Colombo.",
+    "url": "https://www.dailymirror.lk/news-features/Mrs-Suneetha-Nanayakkara-completes-50-years-at-the-Bar/131-233890",
+    "url_hash": "650062cc98c05cea379ad884e251b601",
+    "ut": 1648238935,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "the 50th year",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Bar Association of Sri Lanka",
+        "start_end": [
+          32,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Hilton Hotel Colombo",
+        "start_end": [
+          40,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "After 3 yr delay, BMC to expedite underground dustbin project",
+    "source": "www.msn.com",
+    "snippet": "An official from Solid Waste Management (SWM) department said that so far, 12 underground dustbins have been installed at seven locations. The BMC plans to install another 20 bins, each with a 240 litre capacity,",
+    "url": "https://www.msn.com/en-in/news/other/after-3-yr-delay-bmc-to-expedite-underground-dustbin-project/ar-AAVuPL4",
+    "url_hash": "fbcfadcf693d82c950134d31e03948c3",
+    "ut": 1648238956,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Solid Waste Management",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "12",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BMC",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "240",
+        "start_end": [
+          37,
+          38
         ]
       }
     ]
