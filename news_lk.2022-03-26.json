@@ -3379,6 +3379,33 @@
   },
   {
     "date": "2022-03-26",
+    "title": "India requests SL to tackle fisheries issue on humanitarian approach",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Indian government has requested Sri Lankan authorities to tackle the fisheries issue based on humanitarian approach. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/India-requests-SL-to-tackle-fisheries-issue-on-humanitarian-approach/108-233900",
+    "url_hash": "6aaab4f10e5ba5b36bea16b2f3edd19d",
+    "ut": 1648285738,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "Sri Lanka fuel prices soar as economy reels",
     "source": "guardian.ng",
     "snippet": "One of Sri Lanka's biggest fuel suppliers hiked the price of gasoline by nearly 20 percent on Saturday, the second increase in as many weeks, as the country struggles to import oil without dollars.",
@@ -4020,6 +4047,33 @@
   },
   {
     "date": "2022-03-26",
+    "title": "IMF calls SL to strengthen VAT and income taxes",
+    "source": "www.dailymirror.lk",
+    "snippet": "The International Monetary Fund (IMF) has recommended Sri Lanka a comprehensive set of policies with specific measures which included strengthening VAT and income taxes and energy pricing reforms. ..",
+    "url": "https://www.dailymirror.lk/latest_news/IMF-calls-SL-to-strengthen-VAT-and-income-taxes/342-233901",
+    "url_hash": "cd3a4f206069f7765a70571c8528327e",
+    "ut": 1648300138,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The International Monetary Fund",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "Sri Lanka's power crisis continues with 3.5-hour cuts scheduled for March 27",
     "source": "economynext.com",
     "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) has approved power cuts of 3 hours and 30 minutes for some areas in Sri Lanka and 2 hours for other areas for March 27 Sunday, PUCSL Chairman Janaka Ratnayake said as a worsening forex crisis continues to affect power generation during the dry season.",
@@ -4113,6 +4167,164 @@
         "start_end": [
           53,
           56
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "TPA Seeks Non-Territorial Council for Hill Country Tamils",
+    "source": "www.dailymirror.lk",
+    "snippet": "The total population of Tamils - both Sri Lankan and Indian -is 3,113, 247. Of these 1,611,036 Tamils are living in the Northern and Eastern Provinces. Another 1,502,211 Tamils live outside the Northern and Eastern Provinces TPA leader Mano Ganesan who is ...",
+    "url": "https://www.dailymirror.lk/dbs-jeyaraj-column/TPA-Seeks-Non-Territorial-Council-for-Hill-Country-Tamils/192-233895",
+    "url_hash": "21807bfa8dd98dd620b59ddb98dc7565",
+    "ut": 1648303858,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3,113",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "247",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,611,036",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Northern",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Eastern Provinces",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1,502,211",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Northern",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Eastern Provinces",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mano Ganesan",
+        "start_end": [
+          41,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "China to provide 2,000 tons of rice as emergency aid to Sri Lanka",
+    "source": "www.app.com.pk",
+    "snippet": "China decides to provide 2,000 tons of rice as emergency food aid to Sri Lanka, Chinese media reported. The donation, which was valued at about US$ 2.5 million (including freight cost), was made at the request of the Sri Lankan government upon its current difficulty of food shortage in the island country,",
+    "url": "https://www.app.com.pk/global/china-to-provide-2000-tons-of-rice-as-emergency-aid-to-sri-lanka/",
+    "url_hash": "79266f284d50c658d277992c4acf2d53",
+    "ut": 1648303866,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "2,000 tons",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "about US$ 2.5 million",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          44,
+          46
         ]
       }
     ]
