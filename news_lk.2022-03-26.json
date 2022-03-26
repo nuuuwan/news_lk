@@ -339,6 +339,49 @@
   },
   {
     "date": "2022-03-26",
+    "title": "MGH Logistics renews Pune Warehouse to serve Global Automotive Clients'",
+    "source": "menafn.com",
+    "snippet": "ft. cutting-edge warehouse built to meet the ... Vinod Premachandran, Country Head for MGH Logistics India and Sri Lanka, expressed, 'MGH has built up automotive warehouse capabilities from ...",
+    "url": "https://menafn.com/1103913601/MGH-Logistics-renews-Pune-Warehouse-to-serve-Global-Automotive-Clients",
+    "url_hash": "f367123f8a88c080c276707d9d25a6b2",
+    "ut": 1648253458,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Vinod Premachandran",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MGH Logistics India",
+        "start_end": [
+          17,
+          20
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "MGH",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "JAYANTHA PREMACHANDRA FOUNDATION PRESENTS REVIVE",
     "source": "www.dailymirror.lk",
     "snippet": "An auction and exhibition of selected paintings by Jayantha Premachandra was held at the Galle Face Hotel on the 28th of February 2022. ..",
@@ -2920,6 +2963,73 @@
   },
   {
     "date": "2022-03-26",
+    "title": "DANU CELEBRATES 20 YEARS IN MEDIA",
+    "source": "www.dailymirror.lk",
+    "snippet": "Head of Channel, HI!! TV and Popular Talk Show Host, Danu Innasithamby recently held a chic cocktail soiree to celebrate his twentieth year working in the media industry in Sri Lanka. The event was held at the popular Indian restaurant, Bombay Borough at ...",
+    "url": "https://www.dailymirror.lk/audio/the_weekend_online/DANU-CELEBRATES-20-YEARS-IN-MEDIA/426-233830",
+    "url_hash": "043c20e5158a24dcc6c4bba5ae05608f",
+    "ut": 1648282236,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Channel",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Popular Talk Show Host",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Danu Innasithamby",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "twentieth year",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          43,
+          44
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bombay Borough",
+        "start_end": [
+          46,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "MEA Jaishankar embarks on 5-day visit to Sri Lanka, Maldives",
     "source": "www.freepressjournal.in",
     "snippet": "External Affairs Minister S Jaishankar embarked on a five-day visit to the Maldives and Sri Lanka on Saturday to explore the possibilities of further expansion of bilateral engagement with the two key maritime neighbours of India.",
@@ -3625,6 +3735,226 @@
         "start_end": [
           27,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Jaishankar to visit Sri Lanka next week to hold bilateral talks, attend BIMSTEC engagements",
+    "source": "www.newindianexpress.com",
+    "snippet": "This will be his first visit to the island nation since India extended an economic relief package to bail Sri Lanka out of the current economic crisis.",
+    "url": "https://www.newindianexpress.com/world/2022/mar/26/jaishankar-to-visit-sri-lanka-next-week-to-hold-bilateral-talks-attend-bimstec-engagements-2434542.html",
+    "url_hash": "6b8fdf0e1a2795a45a9b6ea20b864957",
+    "ut": 1648297125,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Sri Lanka fuel prices soar as economy reels",
+    "source": "www.enca.com",
+    "snippet": "One of Sri Lanka's biggest fuel suppliers hiked the price of gasoline by nearly 20 percent on Saturday, the second increase in as many weeks.",
+    "url": "https://www.enca.com/business/sri-lanka-fuel-prices-soar-economy-reels",
+    "url_hash": "ab65b3557518ef8a9f262a4ba7891030",
+    "ut": 1648297785,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "nearly 20 percent",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "as many weeks",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "S Jaishankar To Visit Sri Lanka Next Week To Hold Bilateral Talks, Attend BIMSTEC Engagements",
+    "source": "www.outlookindia.com",
+    "snippet": "This will be S Jaishankar's first visit to the island nation since India extended an economic relief package to bail Sri Lanka out of the current economic crisis.",
+    "url": "https://www.outlookindia.com/international/s-jaishankar-to-visit-sri-lanka-next-week-to-hold-bilateral-talks-attend-bimstec-engagements-news-188687",
+    "url_hash": "4ed47b45e20c4fe4657c5e2a053c042b",
+    "ut": 1648297845,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar's",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          21,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Jaishankar to visit crisis-hit Sri Lanka next week",
+    "source": "www.theweek.in",
+    "snippet": "External Affairs Minister S Jaishankar will arrive in Sri Lanka next week for bilateral talks and BIMSTEC engagements, the Indian High Commission said on Saturday. This will be his first visit to the island nation since India extended an economic relief package to bail Sri Lanka out of the current economic crisis.",
+    "url": "https://www.theweek.in/news/india/2022/03/26/jaishankar-to-visit-crisis-hit-sri-lanka-next-week.html",
+    "url_hash": "e8b6078e30479142e409e9c9fc59ac20",
+    "ut": 1648298985,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "next week",
+        "start_end": [
+          10,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BIMSTEC",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          46,
+          48
         ]
       }
     ]
