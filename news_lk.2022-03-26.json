@@ -280,6 +280,65 @@
   },
   {
     "date": "2022-03-26",
+    "title": "VitalHub Announces 4-Year Licensing Agreement with Northamptonshire Hospitals Group",
+    "source": "menafn.com",
+    "snippet": "VitalHub Corp. (the\"Company\" or\"VitalHub\") (TSX: VHI) is pleased to announce a four-year licensing agreement of subsidiary Intouch with Health's (\"Intouch\") patient flow solutions with Northamptonshire Hospitals Group (the\"Trust\" or\"Northamptonshire\"),",
+    "url": "https://menafn.com/1103914109/VitalHub-Announces-4-Year-Licensing-Agreement-with-Northamptonshire-Hospitals-Group",
+    "url_hash": "b579d26ff74ece7b090f7b6663fb12e1",
+    "ut": 1648253424,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "VitalHub Corp.",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "TSX",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "VHI",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "four-year",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Intouch with Health's",
+        "start_end": [
+          25,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Northamptonshire Hospitals Group",
+        "start_end": [
+          38,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "JAYANTHA PREMACHANDRA FOUNDATION PRESENTS REVIVE",
     "source": "www.dailymirror.lk",
     "snippet": "An auction and exhibition of selected paintings by Jayantha Premachandra was held at the Galle Face Hotel on the 28th of February 2022. ..",
@@ -1702,6 +1761,57 @@
     "url": "https://www.dailymirror.lk/breaking_news/US-1Bn-loan-from-China-to-settle-previous-loans/108-233843",
     "url_hash": "4efd61f306c23b7e833da0a396047ea4",
     "ut": 1648274978,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$ 1 billion",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Daily Mirror",
+        "start_end": [
+          25,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "US $ 1Bn loan from China to settle previous loans",
+    "source": "www.dailymirror.lk",
+    "snippet": "The proposed US $ 1 billion loan to be obtained from China will be utilised to settle the previous loans from the Chinese banks, Daily Mirror learns. ..",
+    "url": "https://www.dailymirror.lk/top_story/US-1Bn-loan-from-China-to-settle-previous-loans/155-233843",
+    "url_hash": "62681210112e99b9ecc0e46d32c4fe02",
+    "ut": 1648275007,
     "ent_info_list": [
       {
         "label": "GPE",
@@ -3338,6 +3448,183 @@
         "start_end": [
           3,
           5
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "EAM Jaishankar Begins 5-day Visit To Maldives And Sri Lanka",
+    "source": "www.republicworld.com",
+    "snippet": "External Affairs Minister S Jaishankar embarked on a five-day visit to the Maldives and Sri Lanka on Saturday to explore the possibilities of further expansion of bilateral engagement with the two key maritime neighbours of India.",
+    "url": "https://www.republicworld.com/india-news/general-news/eam-jaishankar-begins-5-day-visit-to-maldives-and-sri-lanka.html",
+    "url_hash": "893b408eacb3057fce7a529f5831b424",
+    "ut": 1648293015,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "five-day",
+        "start_end": [
+          8,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Maldives",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          16,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "BIMSTEC Secretary-General arrives in Sri Lanka",
+    "source": "www.adaderana.lk",
+    "snippet": "Secretary-General of Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Tenzin Lekphell arrived in Sri Lanka this afternoon (March 26)",
+    "url": "http://www.adaderana.lk/news.php?nid=81429",
+    "url_hash": "584572312e0c8374c4cac4a8407d84af",
+    "ut": 1648293255,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Multi-Sectoral Technical and Economic Cooperation",
+        "start_end": [
+          9,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BIMSTEC",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Tenzin Lekphell",
+        "start_end": [
+          19,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          23,
+          25
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "this afternoon",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 26",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "EAM to visit Sri Lanka next week for bilateral talks, BIMSTEC engagements",
+    "source": "www.business-standard.com",
+    "snippet": "The summit is being hosted by Sri Lanka in its capacity as the chair of the seven-nation grouping BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)",
+    "url": "https://www.business-standard.com/article/current-affairs/eam-to-visit-sri-lanka-next-week-for-bilateral-talks-bimstec-engagements-122032600634_1.html",
+    "url_hash": "6420f81aedd83d3084e6299eb4d05b36",
+    "ut": 1648295715,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BIMSTEC",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Multi-Sectoral Technical and Economic Cooperation",
+        "start_end": [
+          27,
+          34
         ]
       }
     ]
