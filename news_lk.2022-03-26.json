@@ -5035,5 +5035,99 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Sri Lanka newspapers run out of newsprint due to crisis; suspend publication",
+    "source": "www.nagalandpost.com",
+    "snippet": "Sri Lanka's two major newspapers on Saturday suspended their publication over newsprint shortage and price escalation caused by the country's all-time worst foreign exchange crisis. The Island, an English daily along with its sister Sinhala paper Divayina,",
+    "url": "https://www.nagalandpost.com/index.php/sri-lanka-newspapers-run-out-of-newsprint-due-to-crisis-suspend-publication/",
+    "url_hash": "60dd62dfdbb2e426bda0814bbcb4e90b",
+    "ut": 1648326838,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "LANGUAGE",
+        "text": "English",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "daily",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sinhala",
+        "start_end": [
+          40,
+          41
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Divayina",
+        "start_end": [
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Jackfruit, the giant of fruits",
+    "source": "www.thesangaiexpress.com",
+    "snippet": "S BalakrishnanWith the arrival of scorching summer my wife starts nagging me to buy at least one whole jackfruit. 'You cut it, I eat it', she says coolly while I fight with the bulky jackfruit; its st",
+    "url": "https://www.thesangaiexpress.com/Encyc/2022/3/26/S-BalakrishnanWith-the-arrival-of-scorching-summer-my-wife-starts-nagging-me-to-buy-at-least-one-w.html",
+    "url_hash": "7543e9d3fee86cf5f6566004ebff7ad0",
+    "ut": 1648327271,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "S BalakrishnanWith",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "at least one",
+        "start_end": [
+          14,
+          17
+        ]
+      }
+    ]
   }
 ]
