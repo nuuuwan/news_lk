@@ -57,5 +57,48 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Cummins hails caretaker coach McDonald",
+    "source": "www.msn.com",
+    "snippet": "Australia's triumphant Test captain Pat Cummins is hailing the influence of caretaker coach Andrew McDonald on the series win in Pakistan.",
+    "url": "https://www.msn.com/en-au/sports/other/cummins-hails-caretaker-coach-mcdonald/ar-AAVvAHF",
+    "url_hash": "45557f75e7b679f381cc07b1323025c5",
+    "ut": 1648255137,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pat Cummins",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Andrew McDonald",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Pakistan",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
   }
 ]
