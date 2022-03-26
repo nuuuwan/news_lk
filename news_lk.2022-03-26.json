@@ -2187,6 +2187,140 @@
   },
   {
     "date": "2022-03-26",
+    "title": "China tells India two countries should not contain each other",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chinese State Councilor and Foreign Minister WangYi met with Indian External Affairs Minister Dr. S. Jaishankar in New Delhi on Friday and said that the two countries should help each other rather than constraining each other ,",
+    "url": "https://www.dailymirror.lk/breaking_news/China-tells-India-two-countries-should-not-contain-each-other/108-233898",
+    "url_hash": "e7aaa2dce1e4c4058073155410daea62",
+    "ut": 1648278537,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "WangYi",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian External Affairs",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Jaishankar",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Indian External Affairs Minister to visit SL next week",
+    "source": "www.dailymirror.lk",
+    "snippet": "External Affairs Minister of India Dr. S. Jaishankar will undertake a visit to Sri Lanka for bilateral and BIMSTEC engagements on March 28 and 30, Indian High Commission in Colombo said. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Indian-External-Affairs-Minister-to-visit-SL-next-week/108-233899",
+    "url_hash": "1c8507fa6a817556547078cfd12a5a6e",
+    "ut": 1648278537,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Jaishankar",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          13,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BIMSTEC",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 28 and 30",
+        "start_end": [
+          21,
+          25
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian High Commission",
+        "start_end": [
+          26,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "TPA Seeks Non-Territorial Council for Hill Country Tamils",
     "source": "www.dailymirror.lk",
     "snippet": "The total population of Tamils - both Sri Lankan and Indian -is 3,113, 247. Of these 1,611,036 Tamils are living in the Northern and Eastern Provinces. Another 1,502,211 Tamils live outside the Northern and Eastern Provinces TPA leader Mano Ganesan who is ...",
@@ -2622,6 +2756,33 @@
   },
   {
     "date": "2022-03-26",
+    "title": "Sri Lanka's faces Chinese 'strategic trap': Expert",
+    "source": "www.bignewsnetwork.com",
+    "snippet": "Amid the ongoing economic crisis in the country a Sri Lankan expert has held inward policy approaches of the government along with the Chinese trategic trap",
+    "url": "https://www.bignewsnetwork.com/news/272423724/sri-lanka-faces-chinese-trategic-trap-expert",
+    "url_hash": "619dc99b96fe0fe501a3aeab6502d185",
+    "ut": 1648282145,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          23,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "MEA Jaishankar embarks on 5-day visit to Sri Lanka, Maldives",
     "source": "www.freepressjournal.in",
     "snippet": "External Affairs Minister S Jaishankar embarked on a five-day visit to the Maldives and Sri Lanka on Saturday to explore the possibilities of further expansion of bilateral engagement with the two key maritime neighbours of India.",
@@ -2879,6 +3040,223 @@
         "start_end": [
           33,
           34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Sri Lanka fuel prices soar as economy reels",
+    "source": "guardian.ng",
+    "snippet": "One of Sri Lanka's biggest fuel suppliers hiked the price of gasoline by nearly 20 percent on Saturday, the second increase in as many weeks, as the country struggles to import oil without dollars.",
+    "url": "https://guardian.ng/news/world/sri-lanka-fuel-prices-soar-as-economy-reels/",
+    "url_hash": "1a61cf44d4b3fbafd429ad7fd39af054",
+    "ut": 1648285745,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "nearly 20 percent",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "as many weeks",
+        "start_end": [
+          24,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Sri Lanka working on PTA, missing persons, other issues: president tells Tamil National Alliance MPs",
+    "source": "economynext.com",
+    "snippet": "Calling for a united effort to \"build the country\", Sri Lanka President Gotabaya Rajapaksa told a delegation of Tamil National Alliance (TNA) MPs on Friday (25) that the government is working on issues relating to the release of suspects detained under the Prevention of Terrorism Act (PTA),",
+    "url": "https://economynext.com/sri-lanka-working-on-pta-missing-persons-other-issues-president-tells-tamil-national-alliance-mps-92100/",
+    "url_hash": "b94d8125b732fd0b57e959acb1d23e3e",
+    "ut": 1648285762,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Tamil National Alliance",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          29,
+          30
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "25",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "LAW",
+        "text": "the Prevention of Terrorism Act",
+        "start_end": [
+          48,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Indian Foreign Minister to leave for Maldives & Sri Lanka today",
+    "source": "www.daily-sun.com",
+    "snippet": "Indian Foreign Minister S Jaishankar will embark on a five-day visit to the Maldives and Sri Lanka -- two of the country's most crucial maritime neighbours -- beginning Saturday. Several bilateral meetings and inking of different pacts are lined up during the Foreign Minister's visit to the Maldives from March 26 to 27 and Sri Lanka from March 28 to 30,",
+    "url": "https://www.daily-sun.com/post/612282/Indian-Foreign-Minister-to-leave-for-Maldives--Sri-Lanka-today",
+    "url_hash": "102c58401f947b8310a5792ab5e9671e",
+    "ut": 1648287125,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "five-day",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Maldives",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Maldives",
+        "start_end": [
+          52,
+          53
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 26 to 27",
+        "start_end": [
+          54,
+          58
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          59,
+          61
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 28 to 30",
+        "start_end": [
+          62,
+          66
         ]
       }
     ]
