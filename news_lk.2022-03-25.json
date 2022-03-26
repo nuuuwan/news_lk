@@ -3065,6 +3065,41 @@
   },
   {
     "date": "2022-03-25",
+    "title": "BASL files FR applications over current economic situation",
+    "source": "www.adaderana.lk",
+    "snippet": "The Bar Association of Sri Lanka (BASL) has filed two fundamental rights (FR) applications, seeking an order directing the Cabinet of Ministers to provide solutions for the current economic situation",
+    "url": "http://www.adaderana.lk/news/81408/basl-files-fr-application-seeking-solutions-for-current-situation",
+    "url_hash": "8e567aef9fa49e0cb312e8370524a0a3",
+    "ut": 1648192145,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Bar Association of Sri Lanka",
+        "start_end": [
+          0,
+          6
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Cabinet of Ministers",
+        "start_end": [
+          23,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "Navy apprehends 16 Indian fishermen poaching in Sri Lankan waters",
     "source": "www.adaderana.lk",
     "snippet": "Sri Lanka Navy seized 02 Indian trawlers along with 16 Indian fishermen while poaching in Sri Lankan waters. They were apprehended in separate patrols carried out on the night of Wednesday (March 23).",
@@ -6539,6 +6574,57 @@
   },
   {
     "date": "2022-03-25",
+    "title": "Cummins elated after Australia wins test series in Pakistan",
+    "source": "apnews.com",
+    "snippet": "Up there with winning the Ashes. Australia captain Pat Cummins was jubilant after his team thrived in testing cricket conditions to win the test series against Pakistan 1-0, and he compared it to routing England 4-0 in January.",
+    "url": "https://apnews.com/article/sports-pakistan-australia-cricket-4ece74e7c9a5d74a94dffe6e28a3c5db",
+    "url_hash": "4ad6e884164392cf16b78add2acfed9c",
+    "ut": 1648228150,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Australia",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Pat Cummins",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Pakistan 1-0",
+        "start_end": [
+          27,
+          31
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "England 4-0",
+        "start_end": [
+          38,
+          42
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "January",
+        "start_end": [
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "PUCSL says 10-hour power cuts unlikely",
     "source": "colombogazette.com",
     "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) says a 10-hour power cut is unlikely from next week. PUCSL Chairman Janaka Ratnayake said that the Ceylon Electricity Board (CEB) is expected to receive fuel to meet its requirement from tomorrow (Saturday).",
@@ -6996,6 +7082,49 @@
         "start_end": [
           42,
           45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "N.Korea has 'likely more in store' after missile test: White House",
+    "source": "www.dailymirror.lk",
+    "snippet": "North Korea likely has \"more in store\" after successfully test-firing its largest-ever intercontinental ballistic missile this week, a top White House official said Friday. ..",
+    "url": "https://www.dailymirror.lk/international/N-Korea-has-%E2%80%98likely-more-in-store%E2%80%99-after-missile-test:-White-House/107-233885",
+    "url_hash": "4daf800f79958d3700414d89f27bc623",
+    "ut": 1648235331,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "North Korea",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this week",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "White House",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
