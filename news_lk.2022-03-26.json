@@ -4835,5 +4835,195 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "KKR start off IPL campaign with big win against CSK",
+    "source": "www.uniindia.com",
+    "snippet": "Kolkata Knight Riders (KKR) registered 6 wickets win chasing a paltry 132 runs target as Mahendra Singh Dhoni's fifty and Dwayne Bravo's 3 for 20 went in vain for Chennai Super Kings (CSK) in this year's IPL Opener at Wankhede Stadium here on Saturday.",
+    "url": "https://www.uniindia.com/story/KKR-start-off-IPL-campaign-with-big-win-against-CSK",
+    "url_hash": "afbcc8344e3e2d8968560c4966cc7bf5",
+    "ut": 1648319101,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Kolkata Knight Riders",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "KKR",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "132",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahendra Singh Dhoni's",
+        "start_end": [
+          17,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "fifty",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dwayne Bravo's",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Chennai Super Kings",
+        "start_end": [
+          33,
+          36
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "CSK",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "year",
+        "start_end": [
+          41,
+          42
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IPL Opener",
+        "start_end": [
+          43,
+          45
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Wankhede Stadium",
+        "start_end": [
+          46,
+          48
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "Jaishankar to visit Sri Lanka next week",
+    "source": "www.dailypioneer.com",
+    "snippet": "Amid the ongoing economic crisis in Sri Lanka, External Affairs Minister S Jaishankar will visit Colombo for three days next week to hold talks with his counterpart GL Peiris and other leaders.\u00a0 India",
+    "url": "https://www.dailypioneer.com/2022/india/jaishankar-to-visit-sri-lanka-next-week.html",
+    "url_hash": "ceec7f8ccdd7a13e6ec4eebd582791fc",
+    "ut": 1648319807,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          6,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          12,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "three days next week",
+        "start_end": [
+          18,
+          22
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "GL Peiris",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          35,
+          36
+        ]
+      }
+    ]
   }
 ]
