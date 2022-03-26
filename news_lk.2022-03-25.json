@@ -4337,6 +4337,49 @@
   },
   {
     "date": "2022-03-25",
+    "title": "Sri Lanka papers run out of newsprint as crisis bites",
+    "source": "www.straitstimes.com",
+    "snippet": "The South Asian nation of 22 million people is facing its worst economic meltdown since independence from Britain in 1948. . Read more at straitstimes.com.",
+    "url": "https://www.straitstimes.com/asia/south-asia/sri-lanka-papers-run-out-of-newsprint-as-crisis-bites",
+    "url_hash": "59b61a0664df638a9a7c699c06195240",
+    "ut": 1648199333,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          1,
+          3
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "22 million",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Britain",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "1948",
+        "start_end": [
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
     "title": "India Taking Up at Highest Level in Sri Lanka Issue of 16 Detained Tamil Nadu Fishermen",
     "source": "www.news18.com",
     "snippet": "Several MPs from Tamil Nadu have raised the issue, as the detained fishermen were from that state, and sought the government's intervention for their early release and repatriation.",
@@ -7802,6 +7845,41 @@
         "start_end": [
           36,
           39
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-25",
+    "title": "Sri Lanka economy has 'hit rock bottom,' putting pressure on president",
+    "source": "bdnews24.com",
+    "snippet": "Just lentils, rice and tea without milk. Meals are increasingly meagre for Sandamali Purnima, a Sri Lankan salon employee, her taxi-driver husband and their four young children. With cooking gas hard to find and the electricity cut,",
+    "url": "https://bdnews24.com/world/south-asia/2022/03/26/sri-lanka-economy-has-hit-rock-bottom-putting-pressure-on-president",
+    "url_hash": "6f2da9ac2957e811682abee670981839",
+    "ut": 1648238933,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sandamali Purnima",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "four",
+        "start_end": [
+          30,
+          31
         ]
       }
     ]
