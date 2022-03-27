@@ -2602,6 +2602,73 @@
   },
   {
     "date": "2022-03-26",
+    "title": "China tells India two countries should not constrain each other",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chinese State Councilor and Foreign Minister WangYi met with Indian External Affairs Minister Dr. S. Jaishankar in New Delhi on Friday and said that the two countries should help each other rather than constraining each other ,",
+    "url": "https://www.dailymirror.lk/latest_news/China-tells-India-two-countries-should-not-constrain-each-other/342-233898",
+    "url_hash": "f8a767521dd1ae0d71fe5152ef82a072",
+    "ut": 1648278562,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "WangYi",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian External Affairs",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Jaishankar",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "Indian External Affairs Minister to visit SL next week",
     "source": "www.dailymirror.lk",
     "snippet": "External Affairs Minister of India Dr. S. Jaishankar will undertake a visit to Sri Lanka for bilateral and BIMSTEC engagements on March 28 and 30, Indian High Commission in Colombo said. ..",
