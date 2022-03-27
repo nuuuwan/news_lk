@@ -525,6 +525,33 @@
   },
   {
     "date": "2022-03-27",
+    "title": "These iconic chairs designed by Geoffrey Bawa can now grace your home",
+    "source": "www.architecturaldigest.in",
+    "snippet": "The Geoffrey Bawa Trust brings to life five iconic chairs designed by the architect. And now, for the very first time, you can pick one up.",
+    "url": "https://www.architecturaldigest.in/story/these-iconic-chairs-designed-by-geoffrey-bawa-can-now-grace-your-home/",
+    "url_hash": "4fc3b29ee487f9d4ce2cfdc7491545a8",
+    "ut": 1648350519,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "five",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          21,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "Sri Lanka central bank repayment capacity to IMF under scrutiny",
     "source": "economynext.com",
     "snippet": "The capacity of Sri Lanka's central bank to repay the International Monetary Fund has to be monitored, the Washington based lender has said as the country's foreign reserves fell and the agency ended up with net debt.",
@@ -3018,6 +3045,57 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "132 drug traffickers on INTERPOL Red Notice list: Police",
+    "source": "www.dailymirror.lk",
+    "snippet": "Some 132 red notices have been issued through the INTERPOL on Sri Lankan fugitives who have fled Sri Lanka after having committed various offences related to drug trafficking, senior Police Spokesman Ajith Rohana said.",
+    "url": "https://www.dailymirror.lk/breaking_news/132-drug-traffickers-on-INTERPOL-Red-Notice-list-Police/108-233918",
+    "url_hash": "2917d60733ca7286b238a946e61c2f87",
+    "ut": 1648400919,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Some 132",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "INTERPOL",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Police",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ajith Rohana",
+        "start_end": [
+          32,
+          34
         ]
       }
     ]
