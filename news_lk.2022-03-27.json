@@ -1838,6 +1838,73 @@
   },
   {
     "date": "2022-03-27",
+    "title": "Government agrees to debate IMF report",
+    "source": "colombogazette.com",
+    "snippet": "The Government has agreed to debate the report on Sri Lanka by the International Monetary Fund (IMF). United National Party (UNP) Leader\u00a0Ranil Wickremesinghe had requested an immediate debate on the IMF report in Parliament.",
+    "url": "https://colombogazette.com/2022/03/27/government-agrees-to-debate-imf-report/",
+    "url_hash": "9c1796db7987d392220fd3328afa1540",
+    "ut": 1648382963,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          12,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "United National Party",
+        "start_end": [
+          20,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          28,
+          30
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IMF",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "Ratmalana Airport restarts international flight operations after five decades",
     "source": "www.adaderana.lk",
     "snippet": "The Colombo International Airport, Ratmalana (CIAR) today marked a milestone event commencing \"Scheduled International Regional Flight Operations\" after five decades",
@@ -2077,6 +2144,92 @@
   },
   {
     "date": "2022-03-27",
+    "title": "S Jaishankar to arrive in Lanka on Monday to hold bilateral talks; attend BIMSTEC summit",
+    "source": "economictimes.indiatimes.com",
+    "snippet": "Although Jaishankar's visit is primarily for the BIMSTEC engagements, the officials said that he would be taking part in all important bilateral talks with the Sri Lankan leaders. Besides India and Sri Lanka,",
+    "url": "https://economictimes.indiatimes.com/news/india/s-jaishankar-to-arrive-in-lanka-on-monday-to-hold-bilateral-talks-attend-bimstec-summit/articleshow/90477749.cms",
+    "url_hash": "03a82f58c45a31a7eaac15b0f8d7104b",
+    "ut": 1648386542,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Jaishankar",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BIMSTEC",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          27,
+          29
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          32,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          34,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "South Africa and Sri Lanka have talks on Truth and Reconciliation Commission",
+    "source": "menafn.com",
+    "snippet": "South Africa and Sri Lanka have had talks on the experience of the Truth and Reconciliation Commission of South Africa.",
+    "url": "https://menafn.com/1103920564/South-Africa-and-Sri-Lanka-have-talks-on-Truth-and-Reconciliation-Commission&source=30",
+    "url_hash": "2c6db2e36193bdb567e3571b4582a7ea",
+    "ut": 1648386563,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "South Africa",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Truth and Reconciliation Commission of South Africa",
+        "start_end": [
+          12,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "MEA Jaishankar To Reach Sri Lanka On Monday For Bilateral Talks And BIMSTEC Summit",
     "source": "www.outlookindia.com",
     "snippet": "This will be Eternal Affairs Minister S Jaishankar's maiden visit to the island nation since India extended an economic relief package to bail Sri Lanka out of the current economic crisis.",
@@ -2111,6 +2264,175 @@
       {
         "label": "GPE",
         "text": "Sri Lanka",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Power crisis continue in Sri Lanka with five-hour cuts scheduled for March 27",
+    "source": "economynext.com",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) has approved power cuts of five hours and for parts of the island and four hours for other areas in two blocks for Monday (28). Sri Lanka is facing daily scheduled power outages as a result of an ongoing forex shortage and depleting reservoirs used for hydro power generation.",
+    "url": "https://economynext.com/power-crisis-continue-in-sri-lanka-with-five-hour-cuts-scheduled-for-march-27-92120/",
+    "url_hash": "1375459ab355bab249a15135301195ab",
+    "ut": 1648391719,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "five hours",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "four hours",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Monday",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "28",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          38,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "S Jaishankar to visit Sri Lanka tomorrow to hold bilateral talks; attend BIMSTEC summit",
+    "source": "www.firstpost.com",
+    "snippet": "This will be his first visit to the island nation since India extended an economic relief package to bail Sri Lanka out of the current economic crisis",
+    "url": "https://www.firstpost.com/world/s-jaishankar-to-visit-sri-lanka-tomorrow-to-hold-bilateral-talks-attend-bimstec-summit-10493321.html",
+    "url_hash": "73d6e0ed9a993698ad2f41dfea62321d",
+    "ut": 1648392002,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Sandasen Maeasinghe and Camelia Nathaniel",
+    "source": "dailynews.lk",
+    "snippet": "They extended a yeoman service to fellow citizens - PMPrime Minister Mahinda Rajapaksa joining the Condolence Motions in Parliament yesterday said that former MP Batty Weerakoon was a great leader...",
+    "url": "https://dailynews.lk/line/sandasen-maeasinghe-and-camelia-nathaniel",
+    "url_hash": "0fc68f116b5393040c4646fe742bd4b6",
+    "ut": 1648392238,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          11,
+          13
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Condolence Motions",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Batty Weerakoon",
         "start_end": [
           24,
           26
