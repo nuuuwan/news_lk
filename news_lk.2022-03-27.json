@@ -36,6 +36,97 @@
   },
   {
     "date": "2022-03-27",
+    "title": "EAM in Maldives as India eyes foothold in island",
+    "source": "www.tribuneindia.com",
+    "snippet": "External Affairs Minister S Jaishankar left for Maldives where India plans to open a consulate in Addu, a strategically-located atoll about 500 km from the capital Male which was a British air and naval base to interdict German U-boats in the Indian Ocean during World War II.",
+    "url": "https://www.tribuneindia.com/news/nation/eam-in-maldives-as-india-eyes-foothold-in-island-381060",
+    "url_hash": "28532d0987fe6a38fcdf0701a0c6a241",
+    "ut": 1648339732,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Addu",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "about 500 km",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "British",
+        "start_end": [
+          33,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "German U-boats",
+        "start_end": [
+          40,
+          44
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "the Indian Ocean",
+        "start_end": [
+          45,
+          48
+        ]
+      },
+      {
+        "label": "EVENT",
+        "text": "World War II",
+        "start_end": [
+          49,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "More on wrecks and treasure of the sea off Galle",
     "source": "island.lk",
     "snippet": "Sixty years or so later I was in Galle, organizing an international group of maritime archaeologists who were training a clutch of our young archaeology undergraduates and, at the same time, compiling a data base of shipwrecks in Galle Bay.",
@@ -463,6 +554,116 @@
         "start_end": [
           10,
           11
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Power cuts extended by another hour for some areas today",
+    "source": "www.dailymirror.lk",
+    "snippet": "The Public Utilities Commission of Sri Lanka (PUCSL) said that it has been decided to impose power cut for one more hour in addition to today's scheduled power cuts. ..",
+    "url": "https://www.dailymirror.lk/breaking_news/Power-cuts-extended-by-another-hour-for-some-areas-today/108-233902",
+    "url_hash": "8d2dc6d038b93840e57bb4ba2e444317",
+    "ut": 1648354124,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "The Public Utilities Commission",
+        "start_end": [
+          0,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "PUCSL",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "one more hour",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          27,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Dubai: Authentic Ceylon eatery lives up to its name and fame",
+    "source": "menafn.com",
+    "snippet": "How it all started Authentic Ceylon was born out of individual dreams that found expression during a meet-up between Channa Munasinghe and Ziyan Zain in the first half of 2021. The two joined hands with Sid Sridhar to launch the restaurant on March 1,",
+    "url": "https://menafn.com/1103919087/Dubai-Authentic-Ceylon-eatery-lives-up-to-its-name-and-fame",
+    "url_hash": "ae21a9a13388419b621914680bfcdfc8",
+    "ut": 1648357372,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Channa Munasinghe",
+        "start_end": [
+          21,
+          23
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ziyan Zain",
+        "start_end": [
+          24,
+          26
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the first half of 2021",
+        "start_end": [
+          27,
+          32
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sid Sridhar",
+        "start_end": [
+          38,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 1",
+        "start_end": [
+          45,
+          47
         ]
       }
     ]

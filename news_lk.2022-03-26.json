@@ -4250,6 +4250,41 @@
   },
   {
     "date": "2022-03-26",
+    "title": "Sri Lankan newspapers suspend print editions over lack of paper",
+    "source": "www.thedailystar.net",
+    "snippet": "Two major Sri Lanka newspapers are suspending their print editions because of a lack of paper, their owner said yesterday, the latest casualties in the island's economic crisis.",
+    "url": "https://www.thedailystar.net/southeast-asia/news/lanka-papers-run-out-newsprint-2990671",
+    "url_hash": "85429cf83714c94683eea262ecc9c845",
+    "ut": 1648300132,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "Two",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          20,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "IMF calls SL to strengthen VAT and income taxes",
     "source": "www.dailymirror.lk",
     "snippet": "The International Monetary Fund (IMF) has recommended Sri Lanka a comprehensive set of policies with specific measures which included strengthening VAT and income taxes and energy pricing reforms. ..",
@@ -4909,6 +4944,97 @@
         "start_end": [
           51,
           53
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
+    "title": "India changes stance on Russo-Ukrainian war",
+    "source": "menafn.com",
+    "snippet": "Colombo, March 26 (SAM): India appears to have ... China's encroachment in Nepal, Bangladesh and Sri Lanka, and (6) a realization that there is no room for Indian mediation in the Ukraine crisis ...",
+    "url": "https://menafn.com/1103918481/India-changes-stance-on-Russo-Ukrainian-war",
+    "url_hash": "97f859584426dd7694f5806297af5b37",
+    "ut": 1648318154,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "March 26",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "SAM",
+        "start_end": [
+          5,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Nepal",
+        "start_end": [
+          16,
+          17
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Bangladesh",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          35,
+          36
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
