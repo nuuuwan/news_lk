@@ -2945,6 +2945,73 @@
   },
   {
     "date": "2022-03-26",
+    "title": "China tells India two countries should not constrain each other",
+    "source": "www.dailymirror.lk",
+    "snippet": "Chinese State Councilor and Foreign Minister WangYi met with Indian External Affairs Minister Dr. S. Jaishankar in New Delhi on Friday and said that the two countries should help each other rather than constraining each other ,",
+    "url": "https://www.dailymirror.lk/breaking_news/China-tells-India-two-countries-should-not-constrain-each-other/108-233898",
+    "url_hash": "fb561017d61da6edb6bc22cc1640762a",
+    "ut": 1648278599,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Chinese",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "WangYi",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Indian External Affairs",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Jaishankar",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          17,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Friday",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "two",
+        "start_end": [
+          25,
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-26",
     "title": "EAM S Jaishankar begins five-day visit to Maldives and Sri Lanka",
     "source": "www.business-standard.com",
     "snippet": "External Affairs Minister S Jaishankar embarked on a five-day visit to the Maldives and Sri Lanka on Saturday to explore the possibilities of further expansion of bilateral engagement",

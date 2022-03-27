@@ -611,6 +611,57 @@
   },
   {
     "date": "2022-03-27",
+    "title": "43 Brigade ready to work with any political party opposing Rajapaksas: Champika",
+    "source": "www.dailymirror.lk",
+    "snippet": "The 43 Brigade is willing to work with any political party which opposes Rajapaksas, including those who are with SLPP, it's head Patali Champika Ranawaka said today. ..",
+    "url": "https://www.dailymirror.lk/latest_news/43-Brigade-ready-to-work-with-any-political-party-opposing-Rajapaksas-Champika/342-233903",
+    "url_hash": "9325de8d7870f894342b737f39ebf931",
+    "ut": 1648354199,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "43",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Brigade",
+        "start_end": [
+          2,
+          3
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Rajapaksas",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Patali Champika Ranawaka",
+        "start_end": [
+          25,
+          28
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "Dubai: Authentic Ceylon eatery lives up to its name and fame",
     "source": "menafn.com",
     "snippet": "How it all started Authentic Ceylon was born out of individual dreams that found expression during a meet-up between Channa Munasinghe and Ziyan Zain in the first half of 2021. The two joined hands with Sid Sridhar to launch the restaurant on March 1,",
@@ -664,6 +715,148 @@
         "start_end": [
           45,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "India changes stance on Russo-Ukrainian war",
+    "source": "menafn.com",
+    "snippet": "India appears to have changed its stance on the Russo-Ukrainian war. Going by Foreign Minister S. Jaishankar's statement in the Upper House of the Indian parliament on March 24, India has dropped its insistence on taking into account the\"legitimate security concerns of all countries\" (a pro-Russian point).",
+    "url": "https://menafn.com/1103918481/India-changes-stance-on-Russo-Ukrainian-war",
+    "url_hash": "97f859584426dd7694f5806297af5b37",
+    "ut": 1648357829,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "the Russo-Ukrainian",
+        "start_end": [
+          8,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Jaishankar's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Upper House",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          28,
+          29
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 24",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          34,
+          35
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "pro-Russian",
+        "start_end": [
+          52,
+          55
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "EAM S Jaishankar holds talks with his Maldives counterpart Abdulla Shahid in Male",
+    "source": "newsonair.com",
+    "snippet": "External Affairs Minister Dr S \u00a0Jaishankar arrived in Male, Maldives yesterday evening on a two-day official visit. He was welcomed by the Foreign Minister of the Island Nation Abdulla Shahid. In a tweet,",
+    "url": "https://newsonair.com/2022/03/27/eam-s-jaishankar-holds-talks-with-his-maldives-counterpart-abdulla-shahid-in-male/",
+    "url_hash": "af27f1ffc76f2ecd722c36cca212999c",
+    "ut": 1648360267,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Dr S",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Male",
+        "start_end": [
+          9,
+          10
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Maldives",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          12,
+          13
+        ]
+      },
+      {
+        "label": "TIME",
+        "text": "evening",
+        "start_end": [
+          13,
+          14
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "two-day",
+        "start_end": [
+          16,
+          19
         ]
       }
     ]
