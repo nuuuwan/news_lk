@@ -326,5 +326,32 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Kerala coast on alert to stop infiltration from Sri Lanka",
+    "source": "www.newindianexpress.com",
+    "snippet": "KOCHI: With Sri Lanka reeling under severe economic crisis, Kerala has put its entire coast on high alert to prevent people from the island nation infiltrating into the state. Coa",
+    "url": "https://www.newindianexpress.com/states/kerala/2022/mar/27/kerala-coast-on-alert-tostop-infiltration-from-sri-lanka-2434657.html",
+    "url_hash": "edeb42a8be2c29fc4f909ec1c2e16cfd",
+    "ut": 1648344703,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Kerala",
+        "start_end": [
+          11,
+          12
+        ]
+      }
+    ]
   }
 ]
