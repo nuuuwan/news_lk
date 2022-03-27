@@ -1451,5 +1451,123 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Ban on night flights for domestic airlines lifted",
+    "source": "colombogazette.com",
+    "snippet": "A ban imposed on night flights for domestic airlines has been lifted. Director General and Chief Executive Office (CEO) of the Civil Aviation Authority of Sri Lanka Captain Themiya Abeywickrama has re",
+    "url": "https://colombogazette.com/2022/03/27/ban-on-night-flights-for-domestic-airlines-lifted/",
+    "url_hash": "f9e13b2b5879acc8ac26530988522ee5",
+    "ut": 1648377918,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Chief Executive Office",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Civil Aviation Authority of Sri Lanka",
+        "start_end": [
+          23,
+          30
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Themiya Abeywickrama",
+        "start_end": [
+          31,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "A journey back to France with Chandrika Bandaranaike Kumaratunga",
+    "source": "colombogazette.com",
+    "snippet": "Rendez-Vous with Yasmin and Kumar this month makes a journey to the Horagolla Walawwa in Attanagalla to chat to Chandrika Bandaranaike Kumaratunga, the fourth Executive President of Sri Lanka and the country's only woman President to date.",
+    "url": "https://colombogazette.com/2022/03/27/a-journey-back-to-france-with-chandrika-bandaranaike-kumaratunga/",
+    "url_hash": "df926fa737b2d5b5fecdea8165016b2c",
+    "ut": 1648378938,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Yasmin",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kumar",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "this month",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Horagolla Walawwa",
+        "start_end": [
+          13,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Attanagalla",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandrika Bandaranaike Kumaratunga",
+        "start_end": [
+          21,
+          24
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "fourth",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
   }
 ]
