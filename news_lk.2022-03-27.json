@@ -420,6 +420,41 @@
   },
   {
     "date": "2022-03-27",
+    "title": "Impact of COVID-19 on the illicit tobacco market",
+    "source": "www.sundaytimes.lk",
+    "snippet": "As part of ongoing research into the economic impact of illicit markets, the Research Intelligence Unit (RIU) shared some of the key findings from its latest report that covers the economic impact of untaxed tobacco consumption in Sri Lanka.",
+    "url": "https://www.sundaytimes.lk/220327/sunday-times-2/impact-of-covid-19-on-the-illicit-tobacco-market-478089.html",
+    "url_hash": "954464f77894ef7d3e00187a74c37495",
+    "ut": 1648343349,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the Research Intelligence Unit",
+        "start_end": [
+          13,
+          17
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "RIU",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          40,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "Kerala coast on alert to stop infiltration from Sri Lanka",
     "source": "www.newindianexpress.com",
     "snippet": "KOCHI: With Sri Lanka reeling under severe economic crisis, Kerala has put its entire coast on high alert to prevent people from the island nation infiltrating into the state. Coa",
@@ -782,6 +817,73 @@
         "start_end": [
           45,
           47
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Sri Lanka fuel prices soar as economy reels",
+    "source": "dailytimes.com.pk",
+    "snippet": "One of Sri Lanka's biggest fuel suppliers hiked the price of gasoline by nearly 20 percent on Saturday, the second increase in as many weeks, as the country struggles to import oil without dollars. Lanka IOC,",
+    "url": "https://dailytimes.com.pk/908487/sri-lanka-fuel-prices-soar-as-economy-reels/",
+    "url_hash": "eb767053ebc7fee6a9ca5400088e3a0f",
+    "ut": 1648357749,
+    "ent_info_list": [
+      {
+        "label": "CARDINAL",
+        "text": "One",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          2,
+          5
+        ]
+      },
+      {
+        "label": "PERCENT",
+        "text": "nearly 20 percent",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Saturday",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "second",
+        "start_end": [
+          21,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "as many weeks",
+        "start_end": [
+          24,
+          27
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "IOC",
+        "start_end": [
+          39,
+          40
         ]
       }
     ]
