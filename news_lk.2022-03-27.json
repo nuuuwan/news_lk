@@ -860,5 +860,209 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Special committee appointed to deal with IMF",
+    "source": "www.dailymirror.lk",
+    "snippet": "A special committee has been appointed by President Gotabaya Rajapaksa to select an international law firm to deal with the International Monetary Fund (IMF). ..",
+    "url": "https://www.dailymirror.lk/latest_news/Special-committee-appointed-to-deal-with-IMF/342-233904",
+    "url_hash": "a9e0638d5b76c2d7d0f890441a9e8536",
+    "ut": 1648361326,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the International Monetary Fund",
+        "start_end": [
+          19,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Ranil calls for immediate debate in Parliament on IMF report",
+    "source": "www.adaderana.lk",
+    "snippet": "Former Prime Minister and Leader of the United National Party (UNP), Ranil Wickremesinghe, has called for an immediate debate in Parliament on the IMF report on Sri Lanka",
+    "url": "http://www.adaderana.lk/news.php?nid=81439",
+    "url_hash": "ef92e27eca6af80ff6b94c2ed8f9ba43",
+    "ut": 1648362234,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "the United National Party",
+        "start_end": [
+          6,
+          10
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UNP",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Ranil Wickremesinghe",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Parliament",
+        "start_end": [
+          24,
+          25
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Sri Lanka",
+        "start_end": [
+          30,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Sri Lanka could look beyond the Rajapaksas next polls",
+    "source": "www.theweek.in",
+    "snippet": "SOMETIME BETWEEN 2004 and 2005, when Mahinda Rajapaksa was the prime minister of Sri Lanka during president Chandrika Kumaratunga's term, Sinhalese astrologer Sumanadasa Abeygunawardena predicted that the Rajapaksa family would rule the island for the next 50 years.",
+    "url": "https://www.theweek.in/theweek/cover/2022/03/24/sri-lanka-could-look-beyond-the-rajapaksas-next-polls.html",
+    "url_hash": "9d9afa5f682b17b2b145a64706c793f4",
+    "ut": 1648362954,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "2005",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          7,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Chandrika Kumaratunga's",
+        "start_end": [
+          18,
+          21
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Sinhalese",
+        "start_end": [
+          23,
+          24
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Sumanadasa Abeygunawardena",
+        "start_end": [
+          25,
+          27
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Rajapaksa",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the next 50 years",
+        "start_end": [
+          37,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Sri Lanka on the brink of bankruptcy after worst economic crisis in history",
+    "source": "www.theweek.in",
+    "snippet": "Leaving behind the bitter memories of the decades-long civil war which ended in 2009, and the 2019 Easter bombings, the Sri Lankan capital and the rest of the country have been returning gradually to normalcy.",
+    "url": "https://www.theweek.in/theweek/cover/2022/03/24/sri-lanka-on-the-brink-of-bankruptcy-after-worst-economic-crisis-in-history.html",
+    "url_hash": "7e2c95109dfb82e035bec590ff5ed56b",
+    "ut": 1648363914,
+    "ent_info_list": [
+      {
+        "label": "DATE",
+        "text": "decades",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2009",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start_end": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Easter",
+        "start_end": [
+          20,
+          21
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lankan",
+        "start_end": [
+          24,
+          26
+        ]
+      }
+    ]
   }
 ]
