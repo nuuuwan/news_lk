@@ -482,6 +482,49 @@
   },
   {
     "date": "2022-03-27",
+    "title": "PM welcomes WHO-Ayush Ministry agreement on global centre for traditional medicine",
+    "source": "www.nationthailand.com",
+    "snippet": "Prime Minister Narendra Modi today expressed India's happiness over being chosen as the home of WHO Global Centre for Traditional Medicine.",
+    "url": "https://www.nationthailand.com/international/40013868",
+    "url_hash": "c57b283c37b3b885b1f903620602966e",
+    "ut": 1648346977,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Narendra Modi",
+        "start_end": [
+          2,
+          4
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          6,
+          7
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "WHO Global Centre for Traditional Medicine",
+        "start_end": [
+          16,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "Sri Lanka central bank repayment capacity to IMF under scrutiny",
     "source": "economynext.com",
     "snippet": "The capacity of Sri Lanka's central bank to repay the International Monetary Fund has to be monitored, the Washington based lender has said as the country's foreign reserves fell and the agency ended up with net debt.",
@@ -2975,6 +3018,285 @@
         "start_end": [
           21,
           23
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "In the battle between giants - ants get trampled - EDITORIAL",
+    "source": "www.dailymirror.lk",
+    "snippet": "The war in Ukraine whose path of confrontational politics with Russia was backed by the US and its NATO allies has now entered its second month. According to the UN, 6.5 million.... ..",
+    "url": "https://www.dailymirror.lk/opinion/In-the-battle-between-giants-ants-get-trampled-EDITORIAL/231-233913",
+    "url_hash": "daae3cbca39d475a0e4dcdfcb1c5d50d",
+    "ut": 1648400968,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "Ukraine",
+        "start_end": [
+          3,
+          4
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Russia",
+        "start_end": [
+          10,
+          11
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "US",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "NATO",
+        "start_end": [
+          18,
+          19
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "its second month",
+        "start_end": [
+          23,
+          26
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "UN",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6.5 million",
+        "start_end": [
+          32,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Indian External Affairs Minister arrives in Sri Lanka",
+    "source": "colombogazette.com",
+    "snippet": "Indian External Affairs Minister Dr. S Jaishankar arrived in Sri Lanka today. He was invited to visit Sri Lanka by Minister of Foreign Affairs Professor G.L.Peiris. The visit to Sri Lanka follows the visits to India by Minister of Finance of Sri Lanka,",
+    "url": "https://colombogazette.com/2022/03/27/indian-external-affairs-minister-arrives-in-sri-lanka/",
+    "url_hash": "bfe1dc324f365dff1836d91034ed7bc4",
+    "ut": 1648400998,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Indian External Affairs",
+        "start_end": [
+          0,
+          3
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          9,
+          11
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "today",
+        "start_end": [
+          11,
+          12
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          18,
+          20
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "G.L.Peiris",
+        "start_end": [
+          26,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          31,
+          33
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          37,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          43,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Ban on night flights for domestic airlines lifted",
+    "source": "menafn.com",
+    "snippet": "A ban imposed on night flights for domestic airlines has been lifted.   Director General and Chief Executive Office (CE",
+    "url": "https://menafn.com/1103920332/Ban-on-night-flights-for-domestic-airlines-lifted",
+    "url_hash": "8a4ea902af921b40a204c6ae16d5829f",
+    "ut": 1648400998,
+    "ent_info_list": [
+      {
+        "label": "TIME",
+        "text": "night",
+        "start_end": [
+          4,
+          5
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Chief Executive Office",
+        "start_end": [
+          17,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Medicinal Drug Scarcity and Prof Bibile Assassination - part ii",
+    "source": "www.dailymirror.lk",
+    "snippet": "There had been quite a few responses from those who knew Prof. Senaka Bibile well, on this great man's mysterious death as expressed in Part I of this article. Therefore, we give more specific.... ..",
+    "url": "https://www.dailymirror.lk/opinion/Medicinal-Drug-Scarcity-and-Prof-Bibile-Assassination-part-ii/231-233917",
+    "url_hash": "88f0a0c7eb7fe0da746cf8a237879c60",
+    "ut": 1648401208,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Senaka Bibile",
+        "start_end": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Jaishankar arrives in Lanka to hold bilateral talks, attend BIMSTEC summit",
+    "source": "theprint.in",
+    "snippet": "External Affairs Minister S Jaishankar arrived here on Sunday to hold bilateral talks with Sri Lanka's top leadership and attend the seven-nation BIMSTEC summit. This is his first visit to the island nation since India extended an economic relief package to bail Sri Lanka out of the current economic crisis.",
+    "url": "https://theprint.in/world/jaishankar-arrives-in-lanka-to-hold-bilateral-talks-attend-bimstec-summit/891138/",
+    "url_hash": "4b110b99a96090e3b0a0d7bf86d73d13",
+    "ut": 1648402177,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "External Affairs",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S Jaishankar",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "Sunday",
+        "start_end": [
+          8,
+          9
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          14,
+          17
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "seven",
+        "start_end": [
+          22,
+          23
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BIMSTEC",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "ORDINAL",
+        "text": "first",
+        "start_end": [
+          31,
+          32
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          38,
+          39
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          46,
+          48
         ]
       }
     ]
