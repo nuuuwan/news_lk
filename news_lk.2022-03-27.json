@@ -890,6 +890,57 @@
   },
   {
     "date": "2022-03-27",
+    "title": "How India stabilised its ties with Sri Lanka, despite 'Mr Moneybags' China",
+    "source": "www.theweek.in",
+    "snippet": "SRI LANKA'S FINANCE Minister Basil Rajapaksa took home a cheque of $1 billion during his March visit to New Delhi, for purchase of essential commodities. This is in addition to aid given a few months earlier to buy fuel,",
+    "url": "https://www.theweek.in/theweek/cover/2022/03/24/how-india-stabilised-its-ties-with-sri-lanka-despite-mr-moneybags-china.html",
+    "url_hash": "bc035c0409f88d234d4aaa16ea9e3f7a",
+    "ut": 1648361351,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Basil Rajapaksa",
+        "start_end": [
+          5,
+          7
+        ]
+      },
+      {
+        "label": "MONEY",
+        "text": "$1 billion",
+        "start_end": [
+          12,
+          15
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March",
+        "start_end": [
+          17,
+          18
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "New Delhi",
+        "start_end": [
+          20,
+          22
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "a few months earlier",
+        "start_end": [
+          36,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "Ranil calls for immediate debate in Parliament on IMF report",
     "source": "www.adaderana.lk",
     "snippet": "Former Prime Minister and Leader of the United National Party (UNP), Ranil Wickremesinghe, has called for an immediate debate in Parliament on the IMF report on Sri Lanka",
@@ -1061,6 +1112,41 @@
         "start_end": [
           24,
           26
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "India Asks Sri Lanka To 'exercise Caution' While Handling Fishing Boats",
+    "source": "www.republicworld.com",
+    "snippet": "India has asked Sri Lanka to \"exercise caution\" so as to prevent any casualties in the course of crackdowns on Indian fishing boats and requested the island nation to tackle the fisheries issue based on a humanitarian approach.",
+    "url": "https://www.republicworld.com/world-news/rest-of-the-world-news/india-asks-sri-lanka-to-exercise-caution-while-handling-fishing-boats.html",
+    "url_hash": "682ef2a2359daed1dab1abfba19bbb65",
+    "ut": 1648365131,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "India",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          3,
+          5
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Indian",
+        "start_end": [
+          22,
+          23
         ]
       }
     ]
