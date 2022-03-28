@@ -1,0 +1,190 @@
+[
+  {
+    "date": "2022-03-28",
+    "title": "Sri Lanka asks for food aid",
+    "source": "island.lk",
+    "snippet": "China has offered 2,000 metric tonnes of rice free of charge, following cash-strapped Sri Lanka's request for urgent food aid. The Chinese Embassy spokesperson said that Ambassador Qi Zhenhong recently informed Premier Mahinda Rajapaksa of their decision to provide 2,",
+    "url": "https://island.lk/sri-lanka-asks-for-food-aid/",
+    "url_hash": "7b4249260f39579f8e9f39cac9c519bb",
+    "ut": 1648426270,
+    "ent_info_list": [
+      {
+        "label": "GPE",
+        "text": "China",
+        "start_end": [
+          0,
+          1
+        ]
+      },
+      {
+        "label": "QUANTITY",
+        "text": "2,000 metric tonnes",
+        "start_end": [
+          3,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka's",
+        "start_end": [
+          16,
+          19
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Chinese Embassy",
+        "start_end": [
+          26,
+          28
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Qi Zhenhong",
+        "start_end": [
+          32,
+          34
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Mahinda Rajapaksa",
+        "start_end": [
+          37,
+          39
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2",
+        "start_end": [
+          44,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-28",
+    "title": "Sri Lanka is facing 'clear solvency problem': IMF report",
+    "source": "island.lk",
+    "snippet": "The full report provides further analysis of the South Asian island nation's debt and finances. A summary of the report released earlier in the month said Sri Lanka faced unsustainable debt levels and needed a \"credible and coherent\" strategy to ...",
+    "url": "https://island.lk/sri-lanka-is-facing-clear-solvency-problem-imf-report/",
+    "url_hash": "a2128e426499b95dcd432624a58221dc",
+    "ut": 1648426270,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "South Asian",
+        "start_end": [
+          8,
+          10
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "earlier in the month",
+        "start_end": [
+          23,
+          27
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Sri Lanka",
+        "start_end": [
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-28",
+    "title": "More on cloud seeding",
+    "source": "island.lk",
+    "snippet": "Minister of Energy, Pavithra Wanniarachchi, complained to reporters that all of the island's reservoir levels are depleted, therefore reducing their ability to produce hydro-electricity, which in turn results in frequent power cuts.",
+    "url": "https://island.lk/more-on-cloud-seeding/",
+    "url_hash": "6c4bb720fbd4fa00d0664100928cbfc5",
+    "ut": 1648426343,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "Pavithra Wanniarachchi",
+        "start_end": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-28",
+    "title": "Multipronged bid to 'democratically' topple the Govt.",
+    "source": "www.sundaytimes.lk",
+    "snippet": "The mood was one of unease and even sombre when government parliamentarians met at \"Temple Trees\" for their group meeting last Tuesday, one for which President Gotabaya Rajapaksa declared attendance was compulsory. Walking to a 'bar' in a far corner of the venue to help themselves to tots of Black Label Scotch whisky, they chatted to each other about what the coming days and weeks would hold. Some were worried about going back to their electorates where public anger was mounting. Others were concerned about how they would have their party branches ready for a future...",
+    "url": "https://www.sundaytimes.lk/220327/columns/multipronged-bid-to-democratically-topple-the-govt-478210.html",
+    "url_hash": "f2eb6bfd3bbf463213dd2bfccd4eebb9",
+    "ut": 1648426596,
+    "ent_info_list": [
+      {
+        "label": "WORK_OF_ART",
+        "text": "Temple Trees",
+        "start_end": [
+          15,
+          17
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "last Tuesday",
+        "start_end": [
+          22,
+          24
+        ]
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one",
+        "start_end": [
+          25,
+          26
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "Gotabaya Rajapaksa",
+        "start_end": [
+          29,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Black Label Scotch",
+        "start_end": [
+          55,
+          58
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "the coming days",
+        "start_end": [
+          67,
+          70
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "weeks",
+        "start_end": [
+          71,
+          72
+        ]
+      }
+    ]
+  }
+]
