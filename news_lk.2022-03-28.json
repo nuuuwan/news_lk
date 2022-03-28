@@ -712,5 +712,126 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2022-03-28",
+    "title": "EAM Jaishankar to hold talks with Rajapaksas today as Sri Lanka's crisis persists",
+    "source": "www.thehindu.com",
+    "snippet": "S. Jaishankar will also interact with prominent members of the Opposition, Tamil and Muslim political parties, ahead of his participation in the BIMSTEC.",
+    "url": "https://www.thehindu.com/news/international/eam-jaishankar-to-hold-talks-with-rajapaksas-today-as-sri-lankas-crisis-persists/article65266635.ece",
+    "url_hash": "abd1dd2656941661f3ca65ddea3983a8",
+    "ut": 1648437488,
+    "ent_info_list": [
+      {
+        "label": "PERSON",
+        "text": "S. Jaishankar",
+        "start_end": [
+          0,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Opposition, Tamil",
+        "start_end": [
+          9,
+          13
+        ]
+      },
+      {
+        "label": "NORP",
+        "text": "Muslim",
+        "start_end": [
+          14,
+          15
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BIMSTEC",
+        "start_end": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-28",
+    "title": "5th BIMSTEC Summit to commence in Colombo today",
+    "source": "www.adaderana.lk",
+    "snippet": "The fifth Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Summit, hosted by the Government of Sri Lanka, will commence in Colombo today (March 28)",
+    "url": "http://www.adaderana.lk/news.php?nid=81453",
+    "url_hash": "70303b62899f68889501771f7d12e917",
+    "ut": 1648437548,
+    "ent_info_list": [
+      {
+        "label": "ORDINAL",
+        "text": "fifth",
+        "start_end": [
+          1,
+          2
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Multi-Sectoral Technical and Economic Cooperation",
+        "start_end": [
+          7,
+          14
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "BIMSTEC",
+        "start_end": [
+          15,
+          16
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "the Government of Sri Lanka",
+        "start_end": [
+          21,
+          26
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          30,
+          31
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "March 28",
+        "start_end": [
+          33,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-28",
+    "title": "Europe battles to secure specialised ships to boost LNG imports",
+    "source": "www.ft.com",
+    "snippet": "Plan to rapidly reduce reliance on Russian gas hangs on ability to acquire scarce storage and vessels to convert fuel",
+    "url": "https://www.ft.com/content/bc5f79a6-729e-47ff-bf46-cb23c460fa6f",
+    "url_hash": "ed427e4430b00aad38cb7446fc209cd2",
+    "ut": 1648440022,
+    "ent_info_list": [
+      {
+        "label": "NORP",
+        "text": "Russian",
+        "start_end": [
+          6,
+          7
+        ]
+      }
+    ]
   }
 ]
