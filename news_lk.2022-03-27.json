@@ -2869,6 +2869,89 @@
   },
   {
     "date": "2022-03-27",
+    "title": "Tense situ during Trinity, St. Thomas rugby match: Police says case settled",
+    "source": "www.dailymirror.lk",
+    "snippet": "The rugby match between Trinity College in Kandy and St. Thomas' College in Mt. Lavinia ended in a tense situation where a match referee was assaulted after S. Thomas' College beat Trinity College at Havelock Park in Colombo yesterday.",
+    "url": "https://www.dailymirror.lk/top_story/Tense-situ-during-Trinity--St--Thomas-rugby-match:-Police-says-case-settled/155-233909",
+    "url_hash": "841fca7b773971bbec9de794d7498a83",
+    "ut": 1648393740,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Trinity College",
+        "start_end": [
+          4,
+          6
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Kandy",
+        "start_end": [
+          7,
+          8
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "St. Thomas'",
+        "start_end": [
+          9,
+          12
+        ]
+      },
+      {
+        "label": "LOC",
+        "text": "Mt. Lavinia",
+        "start_end": [
+          14,
+          16
+        ]
+      },
+      {
+        "label": "PERSON",
+        "text": "S. Thomas'",
+        "start_end": [
+          28,
+          31
+        ]
+      },
+      {
+        "label": "ORG",
+        "text": "Trinity College",
+        "start_end": [
+          33,
+          35
+        ]
+      },
+      {
+        "label": "FAC",
+        "text": "Havelock Park",
+        "start_end": [
+          36,
+          38
+        ]
+      },
+      {
+        "label": "GPE",
+        "text": "Colombo",
+        "start_end": [
+          39,
+          40
+        ]
+      },
+      {
+        "label": "DATE",
+        "text": "yesterday",
+        "start_end": [
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
     "title": "Sri Lanka papers run out of newsprint as crisis bites",
     "source": "www.enca.com",
     "snippet": "COLOMBO - Two major Sri Lanka newspapers are suspending their print editions because of a lack of paper, the latest casualties in the island's economic crisis. The South Asian nation of 22 million people is facing its worst economic meltdown since independence from Britain in 1948 after its foreign reserves hit rock bottom.",
@@ -4747,6 +4830,25 @@
         "start_end": [
           4,
           6
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2022-03-27",
+    "title": "Public-private consultation workshop on digitising maritime trade in Sri Lanka",
+    "source": "www.ft.lk",
+    "snippet": "Sri Lanka Customs (SLC) is making continuous efforts to improve digital access to sea cargo information. The digitalisation of processes will benefit local businesses through faster export and import in maritime trade.",
+    "url": "https://www.ft.lk/shippingaviation/Public-private-consultation-workshop-on-digitising-maritime-trade-in-Sri-Lanka/21-732635",
+    "url_hash": "cd9aa635d650727ebc3ef0290e8a4c93",
+    "ut": 1648411761,
+    "ent_info_list": [
+      {
+        "label": "ORG",
+        "text": "Sri Lanka Customs",
+        "start_end": [
+          0,
+          3
         ]
       }
     ]
